@@ -102,7 +102,7 @@ button.btn { background: none; cursor: pointer; }
 </head>
 <body>
 <nav class="parts" id="parts-nav" aria-label="A mise részei">
-  <span class="tools"><button id="smaller" type="button" aria-label="Kisebb betű">A−</button><button id="bigger" type="button" aria-label="Nagyobb betű">A+</button></span>
+  <span class="tools"><button id="smaller" type="button" aria-label="Kisebb betű">A−</button><button id="bigger" type="button" aria-label="Nagyobb betű">A+</button><button id="theme-toggle" type="button" aria-label="Sötét mód">☾</button><button id="reload" type="button" aria-label="Frissítés" title="Frissítés">↻</button></span>
   <a href="#r1">Bevezetés</a><a href="#r2">Igeliturgia</a><a href="#r3">Eucharisztia</a><a href="#r4">Áldozás</a><a href="#r5">Befejezés</a>
 </nav>
 <main class="wrap">
@@ -112,7 +112,7 @@ button.btn { background: none; cursor: pointer; }
     <p class="rank">fehér színben</p>
     <p class="meta">29. évközi hét keddje · Ef 2,12-22 · Zsolt 84 · Lk 12,35-38<br>I. eucharisztikus ima (római kánon)</p>
   </header>
-  <p class="jump"><button id="theme-toggle" class="btn" type="button">Sötét mód</button> <a class="btn" href="#latin">Latin–magyar szöveg ↓</a></p>
+  <p class="jump"><a class="btn" href="#latin">Latin–magyar szöveg ↓</a></p>
   <section id="r1"><h2 class="part">Bevezető szertartás</h2>
 <h3>Bevezető ének</h3>
 <p class="verse">Áldjátok az Urat, angyalai,<br>mind, ti hatalmasok, akik teljesítitek szavát,<br>mihelyt parancsának hangját meghalljátok.</p>
@@ -369,10 +369,16 @@ button.btn { background: none; cursor: pointer; }
   bar.querySelectorAll('a').forEach(function (a) { a.addEventListener('click', function () { setMenu(false); }); });
   document.addEventListener('click', function (e) { if (bar.classList.contains('open') && !bar.contains(e.target) && e.target !== fab) setMenu(false); });
   document.addEventListener('keydown', function (e) { if (e.key === 'Escape') setMenu(false); });
+  // Refresh: drop the offline copy (installed app) and load the newest text
+  document.getElementById('reload').addEventListener('click', function () {
+    var go = function () { location.reload(); };
+    try { if (window.caches) { caches.keys().then(function (ks) { return Promise.all(ks.map(function (k) { return caches.delete(k); })); }).then(go, go); return; } } catch (e) {}
+    go();
+  });
   // Dark / light mode toggle (remembered on this device)
   var THEME = 'mise-theme', tbtn = document.getElementById('theme-toggle');
   function isDark() { var t = root.getAttribute('data-theme'); return t ? t === 'dark' : window.matchMedia('(prefers-color-scheme: dark)').matches; }
-  function label() { tbtn.textContent = isDark() ? 'Világos mód' : 'Sötét mód'; }
+  function label() { var d = isDark(); tbtn.textContent = d ? '☀' : '☾'; tbtn.setAttribute('aria-label', d ? 'Világos mód' : 'Sötét mód'); tbtn.title = d ? 'Világos mód' : 'Sötét mód'; }
   try { var st = localStorage.getItem(THEME); if (st === 'dark' || st === 'light') root.setAttribute('data-theme', st); } catch (e) {}
   label();
   tbtn.addEventListener('click', function () {
@@ -396,7 +402,8 @@ button.btn { background: none; cursor: pointer; }
 </script>
 
 <script>
-if ('serviceWorker' in navigator) { window.addEventListener('load', function () { navigator.serviceWorker.register('sw.js').catch(function () {}); }); }
+if ('serviceWorker' in navigator) { window.addEventListener('load', function () { navigator.serviceWorker.register('sw.js', { updateViaCache: 'none' }).then(function (reg) { reg.update(); }).catch(function () {}); });
+  document.addEventListener('visibilitychange', function () { if (document.visibilityState === 'visible') navigator.serviceWorker.getRegistration().then(function (r) { if (r) r.update(); }); }); }
 </script>
 </body>
 </html>
