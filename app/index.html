@@ -303,24 +303,41 @@ body.empty #top, body.empty #jump-latin, body.empty #notice, body.empty .legend 
       '<p class="jump"><button type="button" class="btn" id="empty-reload">↻ Újratöltés</button>' +
       (dates.length ? '<button type="button" class="btn" id="empty-pick">📅 Másik nap</button>' : '') + '</p></div>';
     $('mass').querySelector('.empty-day p').textContent = msg;
-    $('empty-reload').addEventListener('click', function () { hardReload(location.pathname); });
+    // carries the marker, so a manual reload never triggers the automatic one on top
+    $('empty-reload').addEventListener('click', function () { hardReload(location.pathname + '?' + RELOADED + '=' + today); });
     if (dates.length) $('empty-pick').addEventListener('click', function () { $('pick-date').click(); });
   }
 
   var params = new URLSearchParams(location.search), RELOADED = 'frissitve';
-  var reloadedToday = params.get(RELOADED) === today;
+  var reloadedFor = params.get(RELOADED);
   if (params.has(RELOADED)) { try { history.replaceState(null, '', location.pathname); } catch (e) {} }
-  getJSON('data/calendar.json').then(function (c) {
-    c.masses.forEach(function (m) { titles[m.date] = m.title; });
-    dates = Object.keys(titles).sort();
-    var want = params.get('d');
-    if (want && titles[want]) return show(want);
-    if (titles[today]) return show(today);
-    // Today is after the last Mass: the app may be showing an old copy, so reload fresh once.
-    // The marker in the URL stops a second reload (no loops).
-    if (dates.length && today > dates[dates.length - 1] && !reloadedToday) { hardReload(location.pathname + '?' + RELOADED + '=' + today); return; }
-    empty('A mai napra (' + short(today) + ') még nincs miseszöveg.');
-  }).catch(function () { empty('A naptár nem tölthető be. Ellenőrizd az internetkapcsolatot, majd töltsd újra.'); });
+
+  // Pick the Mass to show: the requested day, else today; if today has none, the logo screen.
+  function start(want) {
+    return getJSON('data/calendar.json').then(function (c) {
+      titles = {}; c.masses.forEach(function (m) { titles[m.date] = m.title; });
+      dates = Object.keys(titles).sort();
+      if (want && titles[want]) return show(want);
+      if (titles[today]) return show(today);
+      // Today is after the last Mass: the app may be showing an old copy, so reload fresh once.
+      // The marker in the URL stops a second reload (no loops).
+      if (dates.length && today > dates[dates.length - 1] && reloadedFor !== today) { hardReload(location.pathname + '?' + RELOADED + '=' + today); return; }
+      current = null;
+      empty('A mai napra (' + short(today) + ') még nincs miseszöveg.');
+    }).catch(function () { current = null; empty('A naptár nem tölthető be. Ellenőrizd az internetkapcsolatot, majd töltsd újra.'); });
+  }
+  start(params.get('d'));
+
+  // Installed app: the phone often resumes it instead of starting it again. When it comes back on a
+  // new day and was showing that day's Mass (or the logo), move on to the new day.
+  document.addEventListener('visibilitychange', function () {
+    if (document.visibilityState !== 'visible') return;
+    var now = iso(new Date());
+    if (now === today) return;
+    var wasToday = current === null || current === today;
+    today = now;
+    if (wasToday) { try { history.replaceState(null, '', location.pathname); } catch (e) {} start(null); }
+  });
 
   // Keep the screen on while reading during Mass, where the browser allows it.
   var lock = null;

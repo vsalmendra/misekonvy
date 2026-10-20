@@ -12,11 +12,14 @@ content over time. This CLAUDE.md is the source of truth. Claude Code commits an
   The app opens today's Mass; `?d=YYYY-MM-DD` opens a given day; the 📅 button in the menu offers
   only dates that have a Mass. No Mass for today → the logo with "Újratöltés" (and "Másik nap").
   If today is after the last Mass, the app reloads fresh once by itself (`?frissitve=<today>` in the
-  URL marks it, so it never loops).
+  URL marks it, so it never loops). An installed app resumed on a new day moves on to that day.
 - `src/` — sources of the database: `library/` (Order of Mass, Eucharistic prayers, prefaces,
   `commons/`) and `masses/<date>.toml` + `masses/<date>.md` (the day's recipe/instructions).
 - `tools/build.py` — `python3 tools/build.py` rebuilds `app/data/` and bumps the SW cache name.
   Always run it and commit its output after changing `src/`.
+- `tests/app-test.mjs` — browser test (day selection, single automatic reload, no loops, resume on a
+  new day). The publish job runs it first; if it fails, nothing is deployed. Locally:
+  `npm i --no-save playwright@1.56.1 && npx playwright install chromium && node tests/app-test.mjs`.
 - `docs/ASSEMBLY.md` — **how a Mass is assembled**: file format and the rules learnt so far.
   Read it before adding a day; move recurring patterns from the day recipes into it.
 
