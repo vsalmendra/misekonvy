@@ -3,6 +3,16 @@
 # Singing aids of the printed missal are stripped (capitals, dashes, "(Mert)", "(És)", "(énekeljük:)" ...).
 
 [angyalok]
+la_label = "Praefatio de Angelis"
+la = '''
+Vere dignum et iustum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine, sancte Pater, omnípotens ætérne Deus:
+
+Et in Archángelis Angelísque tuis tua præcónia non tacére, quia ad excelléntiam tuam recúrrit et glóriam quod angélica creatúra tibi probábilis honorétur:
+
+et, cum illa sit amplo decóre digníssima, tu quam sis imménsus et super ómnia præferéndus osténderis, per Christum Dóminum nostrum.
+
+Per quem multitúdo Angelórum tuam célebrat maiestátem, quibus adorántes in exsultatióne coniúngimur, una cum eis laudis voce clamántes:
+'''
 label = "Prefáció az angyalokról"
 source = "Római Misekönyv, az angyalok prefációja"
 sub = "Az angyalok tisztelete Isten dicsőségére szolgál"
@@ -17,6 +27,14 @@ Az angyali seregek őáltala mondanak néked áldást, és téged imádva mi is 
 '''
 
 [ep2]
+la_label = "Praefatio Precis eucharisticæ II"
+la = '''
+Vere dignum et iustum est, æquum et salutáre, nos tibi, sancte Pater, semper et ubíque grátias ágere per Fílium dilectiónis tuæ Iesum Christum,
+
+Verbum tuum per quod cuncta fecísti: quem misísti nobis Salvatórem et Redemptórem, incarnátum de Spíritu Sancto et ex Vírgine natum. Qui voluntátem tuam adímplens et pópulum tibi sanctum acquírens exténdit manus cum paterétur, ut mortem sólveret et resurrectiónem manifestáret.
+
+Et ídeo cum Angelis et ómnibus Sanctis glóriam tuam prædicámus, una voce dicéntes:
+'''
 label = "A II. eucharisztikus ima saját prefációja"
 source = "Római Misekönyv, II. eucharisztikus ima"
 text = '''
@@ -28,6 +46,16 @@ Ezért az angyalokkal és minden szenteddel együtt dicsőségedet hirdetjük, �
 '''
 
 [ep4]
+la_label = "Praefatio Precis eucharisticæ IV"
+la = '''
+Vere dignum est tibi grátias ágere, vere iustum est te glorificáre, Pater sancte, quia unus es Deus vivus et verus,
+
+qui es ante sǽcula et pérmanes in ætérnum, inaccessíbilem lucem inhábitans; sed et qui unus bonus atque fons vitæ cuncta fecísti, ut creatúras tuas benedictiónibus adimpléres multásque lætificáres tui lúminis claritáte.
+
+Et ídeo coram te innúmeræ astant turbæ angelórum, qui die ac nocte sérviunt tibi et, vultus tui glóriam contemplántes, te incessánter gloríficant.
+
+Cum quibus et nos et, per nostram vocem, omnis quæ sub cælo est creatúra nomen tuum in exsultatióne confitémur, canéntes:
+'''
 label = "A IV. eucharisztikus ima saját prefációja"
 source = "Római Misekönyv, IV. eucharisztikus ima"
 text = '''
@@ -41,6 +69,14 @@ Velük együtt mi is, és szavunk által minden teremtmény a világon, ujjongva
 '''
 
 [szentek-1]
+la_label = "Praefatio I de Sanctis"
+la = '''
+Vere dignum et iustum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine, sancte Pater, omnípotens ætérne Deus:
+
+Qui in Sanctórum concílio celebráris, et eórum coronándo mérita tua dona corónas. Qui nobis eórum conversatióne largíris exémplum, et communióne consórtium, et intercessióne subsídium; ut, tantis téstibus confirmáti, ad propósitum certámen currámus invícti et immarcescíbilem cum eis corónam glóriæ consequámur, per Christum Dóminum nostrum.
+
+Et ídeo cum Angelis et Archángelis, cumque multíplici congregatióne Sanctórum, hymnum laudis tibi cánimus, sine fine dicéntes:
+'''
 label = "Prefáció a szentekről I."
 source = "Római Misekönyv 1991 (PPEK 335), 64. prefáció, 395. o. – az új misekönyvvel még nem egyeztetve"
 sub = "A szentek és hívek dicsősége"
@@ -53,6 +89,14 @@ Ezért, miként az angyalok és főangyalok, a szentek hatalmas seregével együ
 '''
 
 [szentek-2]
+la_label = "Praefatio II de Sanctis"
+la = '''
+Vere dignum et iustum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine, sancte Pater, omnípotens ætérne Deus: per Christum Dóminum nostrum.
+
+Tu enim Sanctórum tuórum confessióne mirábili Ecclésiam tuam nova semper virtúte fecúndas, nobísque certíssima præbes tuæ dilectiónis indícia. Sed étiam, ad mystéria salútis implénda, et ipsórum insígni incitámur exémplo et pia intercessióne perpétuo commendámur.
+
+Unde et nos, Dómine, cum Angelis et Sanctis univérsis tibi confitémur, in exsultatióne dicéntes:
+'''
 label = "Prefáció a szentekről II."
 source = "Római Misekönyv 1991 (PPEK 335), 65. prefáció, 396. o. – az új misekönyvvel még nem egyeztetve"
 sub = "A szentek közbenjárnak értünk"

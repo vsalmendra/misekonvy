@@ -7,9 +7,15 @@ gloria = false
 creed = false
 eucharistic_prayer = 1
 prefaces = ["angyalok"]
-latin = "2026-10-20.latin.html"
+mass_type = "Votív mise a szent angyalokról"
 
 [entrance]
+la = '''
+Benedícite Dóminum, omnes Angeli eius;
+poténtes virtúte, qui fácitis verbum eius,
+ad audiéndam vocem sermónum eius.
+'''
+la_cite = "Vö. Zsolt 102,20"
 cite = "Zsolt 102,20"
 text = '''
 Áldjátok az Urat, angyalai,
@@ -18,6 +24,15 @@ mihelyt parancsának hangját meghalljátok.
 '''
 
 [collect]
+la = '''
+Deus, qui miro órdine Angelórum ministéria hominúmque dispénsas,
+concéde propítius,
+ut, a quibus tibi ministrántibus in cælo semper assístitur,
+ab his in terra vita nostra muniátur.
+Per Dóminum nostrum Iesum Christum, Fílium tuum,
+qui tecum vivit et regnat in unitáte Spíritus Sancti,
+Deus, per ómnia sǽcula sæculórum.
+'''
 text = '''
 Istenünk,
 aki az angyalok és az emberek szolgálatát
@@ -31,6 +46,18 @@ Isten mindörökkön-örökké.
 '''
 
 [reading1]
+la_sub = "Léctio Epístolæ beáti Pauli Apóstoli ad Ephésios"
+la = '''
+Fratres:
+
+Eratis illo in témpore sine Christo, alienáti a conversatióne Israel et extránei testamentórum promissiónis, spem non habéntes et sine Deo in mundo. Nunc autem in Christo Iesu vos, qui aliquándo erátis longe, facti estis prope in sánguine Christi.
+
+Ipse est enim pax nostra, qui fecit utráque unum et médium paríetem macériæ solvit, inimicítiam, in carne sua, legem mandatórum in decrétis evácuans, ut duos condat in semetípso in unum novum hóminem, fáciens pacem, et reconcíliet ambos in uno córpore Deo per crucem, interfíciens inimicítiam in semetípso.
+
+Et véniens evangelizávit pacem vobis, qui longe fuístis, et pacem his, qui prope; quóniam per ipsum habémus accéssum ambo in uno Spíritu ad Patrem. Ergo iam non estis extránei et ádvenæ, sed estis concíves sanctórum et doméstici Dei,
+
+superædificáti super fundaméntum apostolórum et prophetárum, ipso summo angulári lápide Christo Iesu, in quo omnis ædificátio compácta crescit in templum sanctum in Dómino, in quo et vos coædificámini in habitáculum Dei in Spíritu.
+'''
 label = "Szentlecke"
 sub = "Szent Pál apostolnak az efezusiakhoz írt leveléből"
 summary = "Krisztus békét szerzett nekünk vére ontásával, és mindnyájunkat meghív országába."
@@ -48,6 +75,26 @@ Apostolokra és prófétákra alapozott épület vagytok, amelynek szegletköve 
 '''
 
 [psalm]
+la_response = "Loquétur Dóminus pacem ad plebem suam."
+la_verses = [
+'''
+Audiam quid loquátur Dóminus Deus,
+quóniam loquétur pacem ad plebem suam et sanctos suos.
+Vere prope timéntes eum salutáre ipsíus,
+ut inhábitet glória in terra nostra.
+''',
+'''
+Misericórdia et véritas obviavérunt sibi,
+iustítia et pax osculátæ sunt.
+Véritas de terra orta est,
+et iustítia de cælo prospéxit.
+''',
+'''
+Etenim Dóminus dabit benignitátem,
+et terra nostra dabit fructum suum.
+Iustítia ante eum ambulábit
+et ponet in via gressus suos.
+''']
 cite = "Zsolt 84,9-14"
 response = "Népéhez szól az Isten, és hirdeti a békét."
 verses = [
@@ -69,10 +116,19 @@ Igazság jár az Úr előtt,
 ''']
 
 [alleluia]
+la = "Vigiláte ítaque omni témpore orántes, ut digni habeámini stare ante Fílium hóminis."
 cite = "Lk 21,36"
 text = "Imádkozva virrasszatok szüntelen, hogy az Emberfia elé méltón álljatok."
 
 [gospel]
+la_book = "Lucam"
+la = '''
+In illo témpore: Dixit Iesus discípulis suis:
+
+„Sint lumbi vestri præcíncti et lucérnæ ardéntes, et vos símiles homínibus exspectántibus dóminum suum, quando revertátur a núptiis, ut, cum vénerit et pulsáverit, conféstim apériant ei.
+
+Beáti servi illi, quos, cum vénerit dóminus, invénerit vigilántes. Amen dico vobis, quod præcínget se et fáciet illos discúmbere et tránsiens ministrábit illis. Et si vénerit in secúnda vigília, et si in tértia vigília vénerit, et ita invénerit, beáti sunt illi.”
+'''
 book = "Szent Lukács"
 summary = "Legyünk mindenkor készen az Isten előtti számadásra!"
 cite = "Lk 12,35-38"
@@ -98,6 +154,15 @@ petitions = [
 conclusion = "Urunk, hallgasd meg népedet! Érdemtelen létünkre könyörgünk hozzád, hiszen kegyelmeddel mindig elénk sietsz, hogy jóságosan teljesítsd kérésünket. Krisztus, a mi Urunk által."
 
 [offertory]
+la = '''
+Hóstias tibi, Dómine, laudis offérimus,
+supplíciter deprecántes,
+ut eásdem, angélico ministério
+in conspéctum tuæ maiestátis delátas,
+et placátus accípias,
+et ad salútem nostram proveníre concédas.
+Per Christum Dóminum nostrum.
+'''
 text = '''
 Urunk, Istenünk,
 felajánljuk neked a dicsérő áldozatot.
@@ -108,6 +173,7 @@ Krisztus, a mi Urunk által.
 '''
 
 [communion]
+la = "In conspéctu Angelórum psallam tibi, Deus meus."
 cite = "Zsolt 137,1"
 text = '''
 Angyalaid színe előtt
@@ -115,6 +181,14 @@ magasztallak, Istenem.
 '''
 
 [postcommunion]
+la = '''
+Pane cælésti refécti,
+súpplices te, Dómine, deprecámur,
+ut, eius fortitúdine roboráti,
+sub Angelórum fidéli custódia,
+fortes, salútis progrediámur in via.
+Per Christum Dóminum nostrum.
+'''
 text = '''
 Urunk, Istenünk,
 mennyei kenyérrel tápláltál minket.

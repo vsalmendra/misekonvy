@@ -1,6 +1,33 @@
-# Eucharistic prayers I-IV (HTML). EP IV may only be said with its own preface (prefaces.toml: ep4).
+# Eucharistic prayers I-IV (HTML) with Latin (la: one entry per Hungarian <p>, rubrics skipped).
+# Latin: Missale Romanum 2008 (ordo.pallotyni.pl), EP I from the 2026-10-20 page; "Papa nostro N." -> Leóne.
+# EP IV may only be said with its own preface (prefaces.toml: ep4).
 
 [1]
+la_label = "Prex eucharistica I (Canon Romanus)"
+la = [
+  "Te ígitur, clementíssime Pater, per Iesum Christum, Fílium tuum, Dóminum nostrum, súpplices rogámus ac pétimus, uti accépta hábeas et benedícas † hæc dona, hæc múnera, hæc sancta sacrifícia illibáta,",
+  "in primis, quæ tibi offérimus pro Ecclésia tua sancta cathólica: quam pacificáre, custodíre, adunáre et régere dignéris toto orbe terrárum: una cum fámulo tuo Papa nostro Leóne et Antístite nostro N. et ómnibus orthodóxis atque cathólicæ et apostólicæ fídei cultóribus.",
+  "Meménto, Dómine, famulórum famularúmque tuárum N. et N.",
+  "et ómnium circumstántium, quorum tibi fides cógnita est et nota devótio, pro quibus tibi offérimus: vel qui tibi ófferunt hoc sacrifícium laudis, pro se suísque ómnibus: pro redemptióne animárum suárum, pro spe salútis et incolumitátis suæ: tibíque reddunt vota sua ætérno Deo, vivo et vero.",
+  "Communicántes, et memóriam venerántes, in primis gloriósæ semper Vírginis Maríæ, Genetrícis Dei et Dómini nostri Iesu Christi: sed et beáti Ioseph, eiúsdem Vírginis Sponsi, et beatórum Apostolórum ac Mártyrum tuórum, Petri et Pauli, Andréæ, (Iacóbi, Ioánnis, Thomæ, Iacóbi, Philíppi, Bartholomǽi, Matthǽi, Simónis et Thaddǽi: Lini, Cleti, Cleméntis, Xysti, Cornélii, Cypriáni, Lauréntii, Chrysógoni, Ioánnis et Pauli, Cosmæ et Damiáni) et ómnium Sanctórum tuórum; quorum méritis precibúsque concédas, ut in ómnibus protectiónis tuæ muniámur auxílio. (Per Christum Dóminum nostrum. Amen.)",
+  "Hanc ígitur oblatiónem servitútis nostræ, sed et cunctæ famíliæ tuæ, quǽsumus, Dómine, ut placátus accípias: diésque nostros in tua pace dispónas, atque ab ætérna damnatióne nos éripi et in electórum tuórum iúbeas grege numerári. (Per Christum Dóminum nostrum. Amen.)",
+  "Quam oblatiónem tu, Deus, in ómnibus, quǽsumus, benedíctam, adscríptam, ratam, rationábilem, acceptabilémque fácere dignéris: ut nobis Corpus et Sanguis fiat dilectíssimi Fílii tui, Dómini nostri Iesu Christi.",
+  "Qui, prídie quam paterétur, accépit panem in sanctas ac venerábiles manus suas, et elevátis óculis in cælum ad te Deum Patrem suum omnipoténtem, tibi grátias agens benedíxit, fregit, dedítque discípulis suis, dicens:",
+  "Accípite et manducáte ex hoc omnes: hoc est enim Corpus meum, quod pro vobis tradétur.",
+  "Símili modo, postquam cenátum est, accípiens et hunc præclárum cálicem in sanctas ac venerábiles manus suas, item tibi grátias agens benedíxit, dedítque discípulis suis, dicens:",
+  "Accípite et bíbite ex eo omnes: hic est enim calix Sánguinis mei novi et ætérni testaménti, qui pro vobis et pro multis effundétur in remissiónem peccatórum. Hoc fácite in meam commemoratiónem.",
+  "Mystérium fídei.",
+  "Mortem tuam annuntiámus, Dómine, et tuam resurrectiónem confitémur, donec vénias.",
+  "Unde et mémores, Dómine, nos servi tui, sed et plebs tua sancta, eiúsdem Christi, Fílii tui, Dómini nostri, tam beátæ passiónis, necnon et ab ínferis resurrectiónis, sed et in cælos gloriósæ ascensiónis: offérimus præcláræ maiestáti tuæ de tuis donis ac datis hóstiam puram, hóstiam sanctam, hóstiam immaculátam, Panem sanctum vitæ ætérnæ et Cálicem salútis perpétuæ.",
+  "Supra quæ propítio ac seréno vultu respícere dignéris: et accépta habére, sícuti accépta habére dignátus es múnera púeri tui iusti Abel, et sacrifícium Patriárchæ nostri Abrahæ, et quod tibi óbtulit summus sacérdos tuus Melchísedech, sanctum sacrifícium, immaculátam hóstiam.",
+  "Súpplices te rogámus, omnípotens Deus: iube hæc perférri per manus sancti Angeli tui in sublíme altáre tuum, in conspéctu divínæ maiestátis tuæ; ut, quotquot ex hac altáris participatióne sacrosánctum Fílii tui Corpus et Sánguinem sumpsérimus, omni benedictióne cælésti et grátia repleámur. (Per Christum Dóminum nostrum. Amen.)",
+  "Meménto étiam, Dómine, famulórum famularúmque tuárum N. et N., qui nos præcessérunt cum signo fídei, et dórmiunt in somno pacis.",
+  "Ipsis, Dómine, et ómnibus in Christo quiescéntibus, locum refrigérii, lucis et pacis, ut indúlgeas, deprecámur. (Per Christum Dóminum nostrum. Amen.)",
+  "Nobis quoque peccatóribus fámulis tuis, de multitúdine miseratiónum tuárum sperántibus, partem áliquam et societátem donáre dignéris cum tuis sanctis Apóstolis et Martýribus: cum Ioánne, Stéphano, Matthía, Bárnaba, (Ignátio, Alexándro, Marcellíno, Petro, Felicitáte, Perpétua, Agatha, Lúcia, Agnéte, Cæcília, Anastásia) et ómnibus Sanctis tuis: intra quorum nos consórtium, non æstimátor mériti, sed véniæ, quǽsumus, largítor admítte. Per Christum Dóminum nostrum.",
+  "Per quem hæc ómnia, Dómine, semper bona creas, sanctíficas, vivíficas, benedícis, et præstas nobis.",
+  "Per ipsum, et cum ipso, et in ipso, est tibi Deo Patri omnipoténti, in unitáte Spíritus Sancti, omnis honor et glória per ómnia sǽcula sæculórum.",
+  "Amen.",
+]
 label = "I. eucharisztikus ima (római kánon)"
 html = '''
 <p>Könyörögve kérünk tehát, jóságos Atyánk, Fiad, a mi Urunk, Jézus Krisztus által: fogadd el és áldd † meg ezeket az adományokat és ajándékokat, ezt a szent és tiszta áldozatot.</p>
@@ -28,6 +55,23 @@ html = '''
 '''
 
 [2]
+la_label = "Prex eucharistica II"
+la = [
+  "Vere Sanctus es, Dómine, fons omnis sanctitátis.",
+  "Hæc ergo dona, quǽsumus, Spíritus tui rore sanctífica, ut nobis Corpus et † Sanguis fiant Dómini nostri Iesu Christi.",
+  "Qui cum Passióni voluntárie traderétur, accépit panem et grátias agens fregit, dedítque discípulis suis, dicens:",
+  "Accípite et manducáte ex hoc omnes: hoc est enim Corpus meum, quod pro vobis tradétur.",
+  "Símili modo, postquam cenátum est, accípiens et cálicem, íterum tibi grátias agens dedit discípulis suis, dicens:",
+  "Accípite et bíbite ex eo omnes: hic est enim calix Sánguinis mei novi et ætérni testaménti, qui pro vobis et pro multis effundétur in remissiónem peccatórum. Hoc fácite in meam commemoratiónem.",
+  "Mystérium fídei.",
+  "Mortem tuam annuntiámus, Dómine, et tuam resurrectiónem confitémur, donec vénias.",
+  "Mémores ígitur mortis et resurrectiónis eius, tibi, Dómine, panem vitæ et cálicem salútis offérimus, grátias agéntes quia nos dignos habuísti astáre coram te et tibi ministráre.",
+  "Et súpplices deprecámur ut Córporis et Sánguinis Christi partícipes a Spíritu Sancto congregémur in unum.",
+  "Recordáre, Dómine, Ecclésiæ tuæ toto orbe diffúsæ, ut eam in caritáte perfícias una cum Papa nostro Leóne et Epíscopo nostro N. et univérso clero.",
+  "Meménto étiam fratrum nostrórum, qui in spe resurrectiónis dormiérunt, omniúmque in tua miseratióne defunctórum, et eos in lumen vultus tui admítte. Omnium nostrum, quǽsumus, miserére, ut cum beáta Dei Genetríce Vírgine María, beátis Apóstolis et ómnibus Sanctis, qui tibi a sǽculo placuérunt, ætérnæ vitæ mereámur esse consórtes, et te laudémus et glorificémus per Fílium tuum Iesum Christum.",
+  "Per ipsum, et cum ipso, et in ipso, est tibi Deo Patri omnipoténti, in unitáte Spíritus Sancti, omnis honor et glória per ómnia sǽcula sæculórum.",
+  "Amen.",
+]
 label = "II. eucharisztikus ima"
 html = '''
 <p>Valóban szent vagy, Istenünk, minden szentség forrása.</p>
@@ -47,6 +91,25 @@ html = '''
 '''
 
 [3]
+la_label = "Prex eucharistica III"
+la = [
+  "Vere Sanctus es, Dómine, et mérito te laudat omnis a te cóndita creatúra, quia per Fílium tuum, Dóminum nostrum Iesum Christum, Spíritus Sancti operánte virtúte, vivíficas et sanctíficas univérsa, et pópulum tibi congregáre non désinis, ut a solis ortu usque ad occásum oblátio munda offerátur nómini tuo.",
+  "Súpplices ergo te, Dómine, deprecámur, ut hæc múnera, quæ tibi sacránda detúlimus, eódem Spíritu sanctificáre dignéris, ut Corpus et † Sanguis fiant Fílii tui Dómini nostri Iesu Christi, cuius mandáto hæc mystéria celebrámus.",
+  "Ipse enim in qua nocte tradebátur accépit panem et tibi grátias agens benedíxit, fregit, dedítque discípulis suis, dicens:",
+  "Accípite et manducáte ex hoc omnes: hoc est enim Corpus meum, quod pro vobis tradétur.",
+  "Símili modo, postquam cenátum est, accípiens cálicem, et tibi grátias agens benedíxit, dedítque discípulis suis, dicens:",
+  "Accípite et bíbite ex eo omnes: hic est enim calix Sánguinis mei novi et ætérni testaménti, qui pro vobis et pro multis effundétur in remissiónem peccatórum. Hoc fácite in meam commemoratiónem.",
+  "Mystérium fídei.",
+  "Mortem tuam annuntiámus, Dómine, et tuam resurrectiónem confitémur, donec vénias.",
+  "Mémores ígitur, Dómine, eiúsdem Fílii tui salutíferæ passiónis necnon mirábilis resurrectiónis et ascensiónis in cælum, sed et præstolántes álterum eius advéntum, offérimus tibi, grátias referéntes, hoc sacrifícium vivum et sanctum.",
+  "Réspice, quǽsumus, in oblatiónem Ecclésiæ tuæ et, agnóscens Hóstiam, cuius voluísti immolatióne placári, concéde, ut qui Córpore et Sánguine Fílii tui refícimur, Spíritu eius Sancto repléti, unum corpus et unus spíritus inveniámur in Christo.",
+  "Ipse nos tibi perfíciat munus ætérnum, ut cum eléctis tuis hereditátem cónsequi valeámus, in primis cum beatíssima Vírgine, Dei Genetríce, María, cum beátis Apóstolis tuis et gloriósis Martýribus et ómnibus Sanctis, quorum intercessióne perpétuo apud te confídimus adiuvári.",
+  "Hæc Hóstia nostræ reconciliatiónis profíciat, quǽsumus, Dómine, ad totíus mundi pacem atque salútem. Ecclésiam tuam, peregrinántem in terra, in fide et caritáte firmáre dignéris cum fámulo tuo Papa nostro Leóne et Epíscopo nostro N., cum episcopáli órdine et univérso clero et omni pópulo acquisitiónis tuæ.",
+  "Votis huius famíliæ, quam tibi astáre voluísti, adésto propítius. Omnes fílios tuos ubíque dispérsos tibi, clemens Pater, miserátus coniúnge.",
+  "Fratres nostros defúnctos et omnes qui, tibi placéntes, ex hoc sǽculo transiérunt, in regnum tuum benígnus admítte, ubi fore sperámus, ut simul glória tua perénniter satiémur, per Christum Dóminum nostrum, per quem mundo bona cuncta largíris.",
+  "Per ipsum, et cum ipso, et in ipso, est tibi Deo Patri omnipoténti, in unitáte Spíritus Sancti, omnis honor et glória per ómnia sǽcula sæculórum.",
+  "Amen.",
+]
 label = "III. eucharisztikus ima"
 html = '''
 <p>Valóban szent vagy, Istenünk, és méltán dicsőít téged alkotásod, az egész teremtett világ, mert Fiad, a mi Urunk, Jézus Krisztus által, a Szentlélek erejével éltetsz és megszentelsz mindent, és népet gyűjtesz magad köré szüntelen, hogy napkelettől napnyugatig tiszta áldozatot mutasson be neked.</p>
@@ -68,6 +131,24 @@ html = '''
 '''
 
 [4]
+la_label = "Prex eucharistica IV"
+la = [
+  "Confitémur tibi, Pater sancte, quia magnus es et ómnia ópera tua in sapiéntia et caritáte fecísti. Hóminem ad tuam imáginem condidísti, eíque commisísti mundi curam univérsi, ut, tibi soli Creatóri sérviens, creatúris ómnibus imperáret. Et cum amicítiam tuam, non obœ́diens, amisísset, non eum dereliquísti in mortis império. Omnibus enim misericórditer subvenísti, ut te quæréntes invenírent. Sed et fœ́dera plúries homínibus obtulísti eósque per prophétas erudísti in exspectatióne salútis.",
+  "Et sic, Pater sancte, mundum dilexísti, ut, compléta plenitúdine témporum, Unigénitum tuum nobis mítteres Salvatórem. Qui, incarnátus de Spíritu Sancto et natus ex María Vírgine, in nostra condiciónis forma est conversátus per ómnia absque peccáto; salútem evangelizávit paupéribus, redemptiónem captívis, mæstis corde lætítiam. Ut tuam vero dispensatiónem impléret, in mortem trádidit semetípsum ac, resúrgens a mórtuis, mortem destrúxit vitámque renovávit. Et, ut non ámplius nobismetípsis viverémus, sed sibi qui pro nobis mórtuus est atque surréxit, a te, Pater, misit Spíritum Sanctum primítias credéntibus, qui, opus suum in mundo perfíciens, omnem sanctificatiónem compléret.",
+  "Quǽsumus ígitur, Dómine, ut idem Spíritus Sanctus hæc múnera sanctificáre dignétur, ut Corpus et † Sanguis fiant Dómini nostri Iesu Christi ad hoc magnum mystérium celebrándum, quod ipse nobis relíquit in fœdus ætérnum.",
+  "Ipse enim, cum hora venísset ut glorificarétur a te, Pater sancte, ac dilexísset suos qui erant in mundo, in finem diléxit eos: et cenántibus illis accépit panem, benedíxit ac fregit, dedítque discípulis suis, dicens:",
+  "Accípite et manducáte ex hoc omnes: hoc est enim Corpus meum, quod pro vobis tradétur.",
+  "Símili modo accípiens cálicem, ex genímine vitis replétum, grátias egit, dedítque discípulis suis, dicens:",
+  "Accípite et bíbite ex eo omnes: hic est enim calix Sánguinis mei novi et ætérni testaménti, qui pro vobis et pro multis effundétur in remissiónem peccatórum. Hoc fácite in meam commemoratiónem.",
+  "Mystérium fídei.",
+  "Mortem tuam annuntiámus, Dómine, et tuam resurrectiónem confitémur, donec vénias.",
+  "Unde et nos, Dómine, redemptiónis nostræ memoriále nunc celebrántes, mortem Christi eiúsque descénsum ad ínferos recólimus, eius resurrectiónem et ascensiónem ad tuam déxteram profitémur, et, exspectántes ipsíus advéntum in glória, offérimus tibi eius Corpus et Sánguinem, sacrifícium tibi acceptábile et toti mundo salutáre.",
+  "Réspice, Dómine, in Hóstiam, quam Ecclésiæ tuæ ipse parásti, et concéde benígnus ómnibus qui ex hoc uno pane participábunt et cálice, ut, in unum corpus a Sancto Spíritu congregáti, in Christo hóstia viva perficiántur, ad laudem glóriæ tuæ.",
+  "Nunc ergo, Dómine, ómnium recordáre, pro quibus tibi hanc oblatiónem offérimus: in primis fámuli tui, Papæ nostri Leónis, Epíscopi nostri N., et Episcopórum órdinis univérsi, sed et totíus cleri, et offeréntium, et circumstántium, et cuncti pópuli tui, et ómnium, qui te quærunt corde sincéro.",
+  "Meménto étiam illórum, qui obiérunt in pace Christi tui, et ómnium defunctórum, quorum fidem tu solus cognovísti. Nobis ómnibus, fíliis tuis, clemens Pater, concéde, ut cæléstem hereditátem cónsequi valeámus cum beáta Vírgine, Dei Genetríce, María, cum Apóstolis et Sanctis tuis in regno tuo, ubi cum univérsa creatúra, a corruptióne peccáti et mortis liberáta, te glorificémus per Christum Dóminum nostrum, per quem mundo bona cuncta largíris.",
+  "Per ipsum, et cum ipso, et in ipso, est tibi Deo Patri omnipoténti, in unitáte Spíritus Sancti, omnis honor et glória per ómnia sǽcula sæculórum.",
+  "Amen.",
+]
 label = "IV. eucharisztikus ima"
 html = '''
 <p class="rub">A IV. eucharisztikus imát csak a saját prefációjával lehet mondani (a prefációk között választható).</p>

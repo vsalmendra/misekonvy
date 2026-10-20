@@ -7,16 +7,19 @@ gloria = false
 creed = false
 eucharistic_prayer = 3
 prefaces = ["szentek-1", "szentek-2"]
+mass_type = "Szentek általános miséje (1) · saját könyörgéssel"
 
 # Common: Szentek általános miséi, formula 1 (always the first formula of the common).
 entrance = "@szentek-altalanos/1"
 offertory = "@szentek-altalanos/1"
-# The formula gives two communion antiphons ("Vagy:"): both offered, the first selected.
-communion = ["@szentek-altalanos/1", "@szentek-altalanos/1:communion_b"]
+communion = "@szentek-altalanos/1"
 postcommunion = "@szentek-altalanos/1"
 
-[collect]
+# Collect: the proper first; the common's as second option, for celebration missals without the new proper.
+[[collect]]
+label = "Saját"
 source = "Saját könyörgés: ferencesekzeg.hu (Jézus Szíve Ferences Plébánia), egyezik a Magyar Kurír szövegével (ott: „viszontagságos úton a földi királyságból”)"
+latin_note = "Boldog Károly saját könyörgése csak magyarul van meg; latinul a közös mise (Szentek általános miséi 1) könyörgése áll."
 text = '''
 Istenünk,
 aki Boldog Károlyt a földi királyságból
@@ -30,7 +33,21 @@ aki veled él és uralkodik a Szentlélekkel egységben,
 Isten mindörökkön-örökké.
 '''
 
+[[collect]]
+label = "Közös"
+ref = "@szentek-altalanos/1"
+
 [reading1]
+la_sub = "Léctio Epístolæ beáti Pauli Apóstoli ad Ephésios"
+la = '''
+Fratres:
+
+Si tamen audistis dispensationem gratiae Dei, quae data est mihi pro vobis, quoniam secundum revelationem notum mihi factum est mysterium, sicut supra scripsi in brevi, prout potestis legentes intellegere prudentiam meam in mysterio Christi, quod aliis generationibus non innotuit filiis hominum, sicuti nunc revelatum est sanctis apostolis eius et prophetis in Spiritu,
+
+esse gentes coheredes et concorporales et comparticipes promissionis in Christo Iesu per evangelium, cuius factus sum minister secundum donum gratiae Dei, quae data est mihi secundum operationem virtutis eius.
+
+Mihi omnium sanctorum minimo data est gratia haec: gentibus evangelizare investigabiles divitias Christi et illuminare omnes, quae sit dispensatio mysterii absconditi a saeculis in Deo, qui omnia creavit, ut innotescat nunc principatibus et potestatibus in caelestibus per ecclesiam multiformis sapientia Dei, secundum propositum saeculorum, quod fecit in Christo Iesu Domino nostro, in quo habemus fiduciam et accessum in confidentia per fidem eius.
+'''
 label = "Szentlecke"
 sub = "Szent Pál apostolnak az efezusiakhoz írt leveléből"
 summary = "Krisztus szeretetének titka: a pogányok is társörökösök, és tagjai az Egyháznak."
@@ -46,6 +63,25 @@ Nekem, az összes szent közül a legkisebbnek jutott osztályrészül az a kegy
 '''
 
 [psalm]
+la_response = "Haurietis aquas in gaudio de fontibus salutis."
+la_verses = [
+'''
+Ecce Deus salutis meae;
+fiducialiter agam et non timebo,
+quia fortitudo mea et laus mea Dominus,
+et factus est mihi in salutem.
+''',
+'''
+Confitemini Domino et invocate nomen eius,
+notas facite in populis adinventiones eius;
+mementote quoniam excelsum est nomen eius.
+''',
+'''
+Cantate Domino, quoniam magnifice fecit;
+notum sit hoc in universa terra.
+Exsulta et lauda, quae habitas in Sion,
+quia magnus in medio tui Sanctus Israel.
+''']
 cite = "Iz 12,2-3.4bcd.5-6"
 response = "Örömmel merítsetek vizet az Üdvözítő forrásaiból!"
 verses = [
@@ -67,10 +103,29 @@ mert nagy a ti körötökben Izrael szentje.
 ''']
 
 [alleluia]
+la = "Vigilate et estote parati, quia, qua nescitis hora, Filius hominis venturus est."
 cite = "Mt 24,42a.44"
 text = "Virrasszatok és álljatok készen, mert nem tudjátok, hogy az Emberfia mikor érkezik!"
 
 [gospel]
+la_book = "Lucam"
+la = '''
+In illo tempore: Dixit Iesus discipulis suis:
+
+“Hoc autem scitote, quia, si sciret pater familias, qua hora fur veniret, non sineret perfodi domum suam. Et vos estote parati, quia, qua hora non putatis, Filius hominis venit”.
+
+Ait autem Petrus: “Domine, ad nos dicis hanc parabolam an et ad omnes?”.
+
+Et dixit Dominus: “Quis putas est fidelis dispensator et prudens, quem constituet dominus super familiam suam, ut det illis in tempore tritici mensuram?
+
+Beatus ille servus, quem, cum venerit dominus eius, invenerit ita facientem. Vere dico vobis: Supra omnia, quae possidet, constituet illum.
+
+Quod si dixerit servus ille in corde suo: ‘Moram facit dominus meus venire’, et coeperit percutere pueros et ancillas et edere et bibere et inebriari, veniet dominus servi illius in die, qua non sperat, et hora, qua nescit, et dividet eum partemque eius cum infidelibus ponet.
+
+Ille autem servus, qui cognovit voluntatem domini sui et non praeparavit vel non fecit secundum voluntatem eius, vapulabit multis; qui autem non cognovit et fecit digna plagis, vapulabit paucis.
+
+Omni autem, cui multum datum est, multum quaeretur ab eo; et cui commendaverunt multum, plus petent ab eo”.
+'''
 book = "Szent Lukács"
 summary = "Sokról kell számot adnia annak, aki sokat kapott."
 cite = "Lk 12,39-48"

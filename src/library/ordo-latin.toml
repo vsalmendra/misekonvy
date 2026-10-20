@@ -1,0 +1,136 @@
+# Fixed parts, Latin–Hungarian (bi-grid HTML: .bi-l Latin / .bi-r Hungarian pairs).
+# Latin: Missale Romanum 2002 (Ordo Missae). Taken from the 2026-10-20 page.
+
+greeting = '''
+<p class="bi-l " lang="la">In nómine Patris, et Fílii, et Spíritus Sancti.</p>
+<p class="bi-r ">Az Atya, a Fiú és a Szentlélek nevében.</p>
+<p class="bi-l resp" lang="la">Amen.</p>
+<p class="bi-r resp">Ámen.</p>
+<p class="bi-l " lang="la">Grátia Dómini nostri Iesu Christi, et cáritas Dei, et communicátio Sancti Spíritus sit cum ómnibus vobis.</p>
+<p class="bi-r ">A mi Urunk, Jézus Krisztus kegyelme, az Atyaisten szeretete és a Szentlélek egyesítő ereje legyen mindnyájatokkal.</p>
+<p class="bi-l resp" lang="la">Et cum spíritu tuo.</p>
+<p class="bi-r resp">És a te lelkeddel.</p>
+'''
+
+penitential = '''
+<h3 class="bi-l">Actus paenitentialis</h3>
+<h3 class="bi-r">Bűnbánati cselekmény</h3>
+<p class="bi-l " lang="la">Fratres, agnoscámus peccáta nostra, ut apti simus ad sacra mystéria celebránda.</p>
+<p class="bi-r ">Testvéreim! Vizsgáljuk meg lelkiismeretünket, és bánjuk meg bűneinket, hogy méltóképpen ünnepelhessük az Úr szent titkait!</p>
+<p class="bi-l resp" lang="la">Confíteor Deo omnipoténti et vobis, fratres, quia peccávi nimis cogitatióne, verbo, ópere et omissióne: mea culpa, mea culpa, mea máxima culpa. Ideo precor beátam Maríam semper Vírginem, omnes Angelos et Sanctos, et vos, fratres, oráre pro me ad Dóminum Deum nostrum.</p>
+<p class="bi-r resp">Gyónom a mindenható Istennek és nektek, testvéreim, hogy sokszor és sokat vétkeztem, gondolattal, szóval, cselekedettel és mulasztással: én vétkem, én vétkem, én igen nagy vétkem. Kérem ezért a Boldogságos, mindenkor Szűz Máriát, az összes angyalokat és szenteket, és titeket, testvéreim, hogy imádkozzatok érettem Urunkhoz, Istenünkhöz.</p>
+<p class="bi-l " lang="la">Misereátur nostri omnípotens Deus et, dimíssis peccátis nostris, perdúcat nos ad vitam ætérnam.</p>
+<p class="bi-r ">Irgalmazzon nekünk a mindenható Isten, bocsássa meg bűneinket, és vezessen el az örök életre.</p>
+<p class="bi-l resp" lang="la">Amen.</p>
+<p class="bi-r resp">Ámen.</p>
+'''
+
+kyrie = '''
+<h3 class="bi-l">Kyrie</h3>
+<h3 class="bi-r">Kyrie</h3>
+<p class="bi-l " lang="la">Kýrie, eléison.</p>
+<p class="bi-r ">Uram, irgalmazz!</p>
+<p class="bi-l resp" lang="la">Kýrie, eléison.</p>
+<p class="bi-r resp">Uram, irgalmazz!</p>
+<p class="bi-l " lang="la">Christe, eléison.</p>
+<p class="bi-r ">Krisztus, kegyelmezz!</p>
+<p class="bi-l resp" lang="la">Christe, eléison.</p>
+<p class="bi-r resp">Krisztus, kegyelmezz!</p>
+<p class="bi-l " lang="la">Kýrie, eléison.</p>
+<p class="bi-r ">Uram, irgalmazz!</p>
+<p class="bi-l resp" lang="la">Kýrie, eléison.</p>
+<p class="bi-r resp">Uram, irgalmazz!</p>
+'''
+
+gifts = '''
+<h3 class="bi-l">Praeparatio donorum</h3>
+<h3 class="bi-r">Előkészület az adományokkal</h3>
+<p class="bi-l " lang="la">Benedíctus es, Dómine, Deus univérsi, quia de tua largitáte accépimus panem, quem tibi offérimus, fructum terræ et óperis mánuum hóminum: ex quo nobis fiet panis vitæ.</p>
+<p class="bi-r ">Áldott vagy, Urunk, mindenség Istene, mert a te bőkezűségedből kaptuk a kenyeret. Felajánljuk neked, mint a föld termését és az emberi munka gyümölcsét. Ebből lesz számunkra az élet kenyere.</p>
+<p class="bi-l resp" lang="la">Benedíctus Deus in sǽcula.</p>
+<p class="bi-r resp">Áldott legyen az Isten mindörökké.</p>
+<p class="bi-l " lang="la">Benedíctus es, Dómine, Deus univérsi, quia de tua largitáte accépimus vinum, quod tibi offérimus, fructum vitis et óperis mánuum hóminum, ex quo nobis fiet potus spiritális.</p>
+<p class="bi-r ">Áldott vagy, Urunk, mindenség Istene, mert a te bőkezűségedből kaptuk a bort. Felajánljuk neked, mint a szőlőtő termését és az emberi munka gyümölcsét. Ebből lesz számunkra a lélek itala.</p>
+<p class="bi-l resp" lang="la">Benedíctus Deus in sǽcula.</p>
+<p class="bi-r resp">Áldott legyen az Isten mindörökké.</p>
+<p class="bi-l " lang="la">Oráte, fratres: ut meum ac vestrum sacrifícium acceptábile fiat apud Deum Patrem omnipoténtem.</p>
+<p class="bi-r ">Imádkozzatok, testvéreim, hogy az én áldozatom és a tiétek kedves legyen a mindenható Atyaisten előtt!</p>
+<p class="bi-l resp" lang="la">Suscípiat Dóminus sacrifícium de mánibus tuis ad laudem et glóriam nóminis sui, ad utilitátem quoque nostram totiúsque Ecclésiæ suæ sanctæ.</p>
+<p class="bi-r resp">Fogadja el az Úr kezedből az áldozatot nevének dicséretére és dicsőségére, mindannyiunk és az egész Anyaszentegyház javára.</p>
+'''
+
+preface_dialogue = '''
+<p class="bi-l " lang="la">Dóminus vobíscum.</p>
+<p class="bi-r ">Az Úr legyen veletek!</p>
+<p class="bi-l resp" lang="la">Et cum spíritu tuo.</p>
+<p class="bi-r resp">És a te lelkeddel!</p>
+<p class="bi-l " lang="la">Sursum corda.</p>
+<p class="bi-r ">Emeljük föl szívünket!</p>
+<p class="bi-l resp" lang="la">Habémus ad Dóminum.</p>
+<p class="bi-r resp">Fölemeltük az Úrhoz!</p>
+<p class="bi-l " lang="la">Grátias agámus Dómino Deo nostro.</p>
+<p class="bi-r ">Adjunk hálát Urunknak, Istenünknek!</p>
+<p class="bi-l resp" lang="la">Dignum et iustum est.</p>
+<p class="bi-r resp">Méltó és igazságos!</p>
+'''
+
+sanctus = '''
+<h3 class="bi-l">Sanctus</h3>
+<h3 class="bi-r">Sanctus</h3>
+<p class="bi-l resp" lang="la">Sanctus, Sanctus, Sanctus Dóminus Deus Sábaoth. Pleni sunt cæli et terra glória tua. Hosánna in excélsis. Benedíctus qui venit in nómine Dómini. Hosánna in excélsis.</p>
+<p class="bi-r resp">Szent vagy, szent vagy, szent vagy, mindenség Ura, Istene. Dicsőséged betölti a mennyet és a földet. Hozsanna a magasságban. Áldott, aki jön az Úr nevében. Hozsanna a magasságban.</p>
+'''
+
+communion_rite = '''
+<h3 class="bi-l">Oratio dominica</h3>
+<h3 class="bi-r">Miatyánk</h3>
+<p class="bi-l " lang="la">Præcéptis salutáribus móniti, et divína institutióne formáti, audémus dícere:</p>
+<p class="bi-r ">Üdvözítőnk parancsára és isteni tanítása szerint így imádkozunk:</p>
+<p class="bi-l resp" lang="la">Pater noster, qui es in cælis: sanctificétur nomen tuum; advéniat regnum tuum; fiat volúntas tua, sicut in cælo, et in terra. Panem nostrum cotidiánum da nobis hódie; et dimítte nobis débita nostra, sicut et nos dimíttimus debitóribus nostris; et ne nos indúcas in tentatiónem; sed líbera nos a malo.</p>
+<p class="bi-r resp">Mi Atyánk, aki a mennyekben vagy, szenteltessék meg a te neved; jöjjön el a te országod; legyen meg a te akaratod, amint a mennyben, úgy a földön is. Mindennapi kenyerünket add meg nekünk ma; és bocsásd meg vétkeinket, miképpen mi is megbocsátunk az ellenünk vétkezőknek; és ne vigy minket kísértésbe; de szabadíts meg a gonosztól.</p>
+<p class="bi-l " lang="la">Líbera nos, quǽsumus, Dómine, ab ómnibus malis, da propítius pacem in diébus nostris, ut, ope misericórdiæ tuæ adiúti, et a peccáto simus semper líberi et ab omni perturbatióne secúri: exspectántes beátam spem et advéntum Salvatóris nostri Iesu Christi.</p>
+<p class="bi-r ">Szabadíts meg, kérünk, Urunk, minden gonosztól; adj kegyesen békét napjainkban, hogy irgalmadból mindenkor bűn és baj nélkül éljünk, míg reménykedve várjuk az örök boldogságot és Üdvözítőnknek, Jézus Krisztusnak dicsőséges eljöttét.</p>
+<p class="bi-l resp" lang="la">Quia tuum est regnum, et potéstas, et glória in sǽcula.</p>
+<p class="bi-r resp">Mert tiéd az ország, a hatalom és a dicsőség mindörökkön-örökké. Ámen.</p>
+<h3 class="bi-l">Ritus pacis</h3>
+<h3 class="bi-r">Békeima</h3>
+<p class="bi-l " lang="la">Dómine Iesu Christe, qui dixísti Apóstolis tuis: Pacem relínquo vobis, pacem meam do vobis: ne respícias peccáta nostra, sed fidem Ecclésiæ tuæ; eámque secúndum voluntátem tuam pacificáre et coadunáre dignéris. Qui vivis et regnas in sǽcula sæculórum.</p>
+<p class="bi-r ">Urunk, Jézus Krisztus, te azt mondottad apostolaidnak: „Békességet hagyok rátok, az én békémet adom nektek.” Ne vétkeinket nézzed, hanem Egyházad hitét, őrizd meg szándékod szerint békében, és add meg teljes egységét. Aki élsz és uralkodol mindörökkön-örökké.</p>
+<p class="bi-l resp" lang="la">Amen.</p>
+<p class="bi-r resp">Ámen.</p>
+<p class="bi-l " lang="la">Pax Dómini sit semper vobíscum.</p>
+<p class="bi-r ">Az Úr békéje legyen veletek mindenkor.</p>
+<p class="bi-l resp" lang="la">Et cum spíritu tuo.</p>
+<p class="bi-r resp">És a te lelkeddel.</p>
+<p class="bi-l " lang="la">Offérte vobis pacem.</p>
+<p class="bi-r ">Engesztelődjetek ki szívből egymással!</p>
+<h3 class="bi-l">Agnus Dei</h3>
+<h3 class="bi-r">Agnus Dei</h3>
+<p class="bi-l resp" lang="la">Agnus Dei, qui tollis peccáta mundi: miserére nobis.<br>Agnus Dei, qui tollis peccáta mundi: miserére nobis.<br>Agnus Dei, qui tollis peccáta mundi: dona nobis pacem.</p>
+<p class="bi-r resp">Isten Báránya, te elveszed a világ bűneit: irgalmazz nekünk.<br>Isten Báránya, te elveszed a világ bűneit: irgalmazz nekünk.<br>Isten Báránya, te elveszed a világ bűneit: adj nekünk békét.</p>
+<h3 class="bi-l">Communio</h3>
+<h3 class="bi-r">Áldozás</h3>
+<p class="bi-l " lang="la">Ecce Agnus Dei, ecce qui tollit peccáta mundi. Beáti qui ad cenam Agni vocáti sunt.</p>
+<p class="bi-r ">Íme, az Isten Báránya, íme, aki elveszi a világ bűneit. Boldogok, akik meghívást kaptak a Bárány lakomájára.</p>
+<p class="bi-l resp" lang="la">Dómine, non sum dignus, ut intres sub téctum meum,<br>sed tantum dic verbo, et sanábitur ánima mea.</p>
+<p class="bi-r resp">Uram, nem vagyok méltó, hogy hajlékomba jöjj,<br>hanem csak egy szóval mondd, és meggyógyul az én lelkem.</p>
+<p class="bi-l " lang="la">Corpus Christi.</p>
+<p class="bi-r ">Krisztus teste.</p>
+<p class="bi-l resp" lang="la">Amen.</p>
+<p class="bi-r resp">Ámen.</p>
+'''
+
+concluding = '''
+<p class="bi-l " lang="la">Dóminus vobíscum.</p>
+<p class="bi-r ">Az Úr legyen veletek.</p>
+<p class="bi-l resp" lang="la">Et cum spíritu tuo.</p>
+<p class="bi-r resp">És a te lelkeddel.</p>
+<p class="bi-l " lang="la">Benedícat vos omnípotens Deus, Pater, et Fílius, † et Spíritus Sanctus.</p>
+<p class="bi-r ">Áldjon meg benneteket a mindenható Isten, az Atya, a Fiú és a Szentlélek.</p>
+<p class="bi-l resp" lang="la">Amen.</p>
+<p class="bi-r resp">Ámen.</p>
+<p class="bi-l " lang="la">Ite, missa est.</p>
+<p class="bi-r ">A szentmise véget ért, menjetek békével.</p>
+<p class="bi-l resp" lang="la">Deo grátias.</p>
+<p class="bi-r resp">Istennek legyen hála.</p>
+'''

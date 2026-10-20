@@ -41,7 +41,7 @@ img { max-width: 100%; }
 :root[data-theme="light"] { color-scheme: light; }
 :root[data-theme="dark"] { --bg: #161314; --fg: #ece6e3; --muted: #a59c99; --rubric: #e8736f; --line: #2e2829; --chip: #241f20; color-scheme: dark; }
 html { scroll-padding-top: calc(env(safe-area-inset-top, 0px) + 12px); }
-body { background: var(--bg); color: var(--fg); font-family: var(--f-body); font-size: var(--size); line-height: 1.55; }
+body { background: var(--bg); color: var(--fg); font-family: var(--f-body); font-size: var(--size); line-height: 1.42; }
 .wrap { max-width: 52rem; margin: 0 auto; padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); padding-block: 0 4rem; }
 main.wrap > section:not(.bilingual), header.top, .legend { max-width: 36rem; margin-left: auto; margin-right: auto; }
 header.top { text-align: center; padding-block: 2rem 1.25rem; }
@@ -71,7 +71,7 @@ section { padding-top: .5rem; }
 h2.part { font-family: var(--f-cap); font-weight: 700; color: var(--rubric); text-align: center; font-size: 1.15em; letter-spacing: .05em;
   margin: 2.2rem 0 .4rem; padding-bottom: .5rem; border-bottom: 1px solid var(--line); text-wrap: balance; }
 h3 { font-family: var(--f-cap); font-weight: 500; color: var(--rubric); font-size: .9em; letter-spacing: .07em; margin: 1.6rem 0 .35rem; text-wrap: balance; }
-p { margin: .4rem 0; }
+p { margin: .65rem 0; }
 .resp { font-weight: 700; }
 .verse { padding-left: .9rem; }
 .rub, .sub { font-style: italic; color: var(--rubric); }
@@ -128,7 +128,7 @@ button.btn { background: none; cursor: pointer; }
 <body>
 <nav class="parts" id="parts-nav" aria-label="A mise részei">
   <span class="tools"><button id="pick-date" type="button" aria-label="Másik nap választása" title="Másik nap">📅</button><button id="smaller" type="button" aria-label="Kisebb betű">A−</button><button id="bigger" type="button" aria-label="Nagyobb betű">A+</button><button id="theme-toggle" type="button" aria-label="Sötét mód">☾</button><button id="reload" type="button" aria-label="Frissítés" title="Frissítés">↻</button></span>
-  <a href="#r1">Bevezetés</a><a href="#r2">Igeliturgia</a><a href="#r3">Eucharisztia</a><a href="#r4">Áldozás</a><a href="#r5">Befejezés</a><a href="#latin" id="nav-latin" hidden>Latin</a>
+  <a href="#r1">Bevezetés</a><a href="#r2">Igeliturgia</a><a href="#r3">Eucharisztia</a><a href="#r4">Áldozás</a><a href="#r5">Befejezés</a><a href="#latin">Latin</a>
 </nav>
 <dialog id="cal" aria-labelledby="cal-month">
   <div class="cal-head"><button type="button" id="cal-prev" aria-label="Előző hónap">‹</button><strong id="cal-month"></strong><button type="button" id="cal-next" aria-label="Következő hónap">›</button></div>
@@ -144,7 +144,7 @@ button.btn { background: none; cursor: pointer; }
     <p class="meta" id="m-meta"></p>
   </header>
   <p class="notice" id="notice" hidden></p>
-  <p class="jump" id="jump-latin" hidden><a class="btn" href="#latin">Latin–magyar szöveg ↓</a></p>
+  <p class="jump" id="jump-latin"><a class="btn" href="#latin">Latin–magyar szöveg ↓</a></p>
   <div id="mass"><p class="status">Betöltés…</p></div>
   <p class="legend">A félkövér szöveget a hívek mondják.</p>
 </main>
@@ -196,8 +196,9 @@ button.btn { background: none; cursor: pointer; }
   function wire(box) {
     // Preface and Eucharistic prayer dropdowns: show only the selected variant
     box.querySelectorAll('select[data-sel]').forEach(function (sel) {
-      var group = box.querySelector('.variants[data-group="' + sel.dataset.sel + '"]');
-      function show() { group.querySelectorAll('.variant').forEach(function (v) { v.hidden = v.dataset.opt !== sel.value; }); }
+      // the same choice drives the Hungarian text and the Latin–Hungarian section
+      var groups = box.querySelectorAll('.variants[data-group="' + sel.dataset.sel + '"]');
+      function show() { groups.forEach(function (g) { g.querySelectorAll(':scope > .variant').forEach(function (v) { v.hidden = v.dataset.opt !== sel.value; }); }); }
       sel.addEventListener('change', show); show();
     });
     // EP IV may only be said with its own preface
@@ -221,7 +222,6 @@ button.btn { background: none; cursor: pointer; }
       m.meta.filter(Boolean).forEach(function (line, i) { if (i) meta.appendChild(document.createElement('br')); meta.appendChild(document.createTextNode(line)); });
       document.title = m.title + ' – Napi szentmise';
       var box = $('mass'); box.innerHTML = m.html; wire(box);
-      $('jump-latin').hidden = !m.hasLatin; $('nav-latin').hidden = !m.hasLatin;
       var n = $('notice'); n.hidden = !note; n.textContent = note || '';
       window.scrollTo(0, 0);
     }).catch(function () { $('mass').innerHTML = '<p class="status">A miseszöveg nem tölthető be. Ellenőrizd az internetkapcsolatot, majd frissíts (↻).</p>'; });

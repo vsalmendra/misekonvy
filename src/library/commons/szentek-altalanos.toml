@@ -3,6 +3,7 @@
 # Typos of the PPEK text fixed: "dicsősédes" -> "dicsőséges" (1), "igazsák" -> "igazság" (4).
 # Not yet checked against the new (2021/2023) Hungarian missal.
 # "Szent N." is replaced per Mass via [names] in the mass file.
+# Latin (<key>_la, Missale Romanum Commune sanctorum) still missing.
 
 [1]
 entrance_cite = "Zsolt 144,10-11"
