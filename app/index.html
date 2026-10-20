@@ -91,6 +91,8 @@ button.btn { background: none; cursor: pointer; }
 .bi-grid > * { min-width: 0; overflow-wrap: break-word; hyphens: auto; }
 .bi-l { grid-column: 1; }
 .bi-r { grid-column: 2; }
+/* preface / EP wrappers must not break the two-column grid */
+.bi-grid .variants, .bi-grid .variant { display: contents; }
 .bi-full { grid-column: 1 / -1; }
 .bi-lab { font-family: var(--f-cap); color: var(--muted); font-size: .8em; letter-spacing: .08em; border-bottom: 1px solid var(--line); padding-bottom: .2rem; }
 .bi-grid h3 { margin-top: 1.4rem; }
