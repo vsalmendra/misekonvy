@@ -131,4 +131,4 @@ said with it).
 | Commons, prefaces (until the new missal is available) | PPEK 335, Római Misekönyv 1991 |
 | Proper collects of Hungarian blesseds not in the 1991 missal | parish / Magyar Kurír copies; note both and the differences |
 | Latin missal | ordo.pallotyni.pl (Missale Romanum 2008: Ordo, EPs, prefaces, temporal); clerus.org (MR 2002 scans, file names hard to find — the Commune sanctorum not located yet) |
-| Latin Bible | Nova Vulgata on vatican.va (no accents; lectionary incipits "Fratres:", "In illo tempore:" added) |
+| Latin readings, psalm, alleluia; Latin commons | **Missale Romanum cum lectionibus 1977** (4 vols., archive.org item `MissaleRomanumCumLectionibus1977Vol34`, `*_djvu.txt` OCR: fix OCR errors by hand). Vol. IV: weeks 22-34 + commons. Fallback for readings: Nova Vulgata on vatican.va |

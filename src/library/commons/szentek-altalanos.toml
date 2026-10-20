@@ -3,7 +3,8 @@
 # Typos of the PPEK text fixed: "dicsősédes" -> "dicsőséges" (1), "igazsák" -> "igazság" (4).
 # Not yet checked against the new (2021/2023) Hungarian missal.
 # "Szent N." is replaced per Mass via [names] in the mass file.
-# Latin (<key>_la, Missale Romanum Commune sanctorum) still missing.
+# Latin (<key>_la): Missale Romanum cum lectionibus 1977, vol. IV, Commune sanctorum et sanctarum, pp. 939-940
+# (archive.org, OCR corrected by hand; no accents; "Per Dominum." expanded). Formulas 2-6: Latin not added yet.
 
 [1]
 entrance_cite = "Zsolt 144,10-11"
@@ -47,6 +48,43 @@ neved dicséretére összegyűlt,
 egyszülött Fiad testében és vérében részesedve
 elnyerje az örök élet zálogát.
 Krisztus, a mi Urunk által.
+'''
+
+entrance_la = '''
+Confiteantur tibi, Domine, omnia opera tua,
+et Sancti tui benedicant tibi:
+gloriam regni tui dicent, et potentiam tuam loquentur.
+'''
+collect_la = '''
+Omnipotens aeterne Deus,
+qui per glorificationem Sanctorum
+novissima dilectionis tuae nobis argumenta largiris,
+concede propitius,
+ut, ad Unigenitum tuum fideliter imitandum,
+et ipsorum intercessione commendemur,
+et incitemur exemplo.
+Per Dominum nostrum Iesum Christum, Filium tuum,
+qui tecum vivit et regnat in unitate Spiritus Sancti,
+Deus, per omnia saecula saeculorum.
+'''
+offertory_la = '''
+Preces nostras, Domine, quaesumus, propitiatus admitte,
+et, ut digne tuis famulemur altaribus,
+Sanctorum tuorum nos intercessione custodi.
+Per Christum Dominum nostrum.
+'''
+communion_la = '''
+Iusti epulentur, et exsultent in conspectu Dei,
+et delectentur in laetitia.
+'''
+postcommunion_la = '''
+Omnipotens sempiterne Deus,
+Pater totius consolationis et pacis,
+praesta familiae tuae in celebritate Sanctorum
+ad laudem tui nominis congregatae,
+ut, per Unigeniti tui sumpta mysteria,
+pignus accipiat redemptionis aeternae.
+Per Christum Dominum nostrum.
 '''
 
 [2]

@@ -38,15 +38,15 @@ label = "Közös"
 ref = "@szentek-altalanos/1"
 
 [reading1]
-la_sub = "Léctio Epístolæ beáti Pauli Apóstoli ad Ephésios"
+la_sub = "Lectio Epistolae beati Pauli apostoli ad Ephesios"
 la = '''
 Fratres:
 
-Si tamen audistis dispensationem gratiae Dei, quae data est mihi pro vobis, quoniam secundum revelationem notum mihi factum est mysterium, sicut supra scripsi in brevi, prout potestis legentes intellegere prudentiam meam in mysterio Christi, quod aliis generationibus non innotuit filiis hominum, sicuti nunc revelatum est sanctis apostolis eius et prophetis in Spiritu,
+Si audistis dispensationem gratiae Dei quae data est mihi pro vobis, quoniam secundum revelationem notum mihi factum est mysterium, sicut supra scripsi in brevi, prout potestis legentes intellegere prudentiam meam in mysterio Christi, quod aliis generationibus non innotuit filiis hominum, sicuti nunc revelatum est sanctis Apostolis eius et Prophetis in Spiritu:
 
-esse gentes coheredes et concorporales et comparticipes promissionis in Christo Iesu per evangelium, cuius factus sum minister secundum donum gratiae Dei, quae data est mihi secundum operationem virtutis eius.
+esse gentes coheredes et concorporales et comparticipes promissionis in Christo Iesu per Evangelium, cuius factus sum minister secundum donum gratiae Dei quae data est mihi secundum operationem virtutis eius.
 
-Mihi omnium sanctorum minimo data est gratia haec: gentibus evangelizare investigabiles divitias Christi et illuminare omnes, quae sit dispensatio mysterii absconditi a saeculis in Deo, qui omnia creavit, ut innotescat nunc principatibus et potestatibus in caelestibus per ecclesiam multiformis sapientia Dei, secundum propositum saeculorum, quod fecit in Christo Iesu Domino nostro, in quo habemus fiduciam et accessum in confidentia per fidem eius.
+Mihi omnium sanctorum minimo data est gratia haec, gentibus evangelizare investigabiles divitias Christi, et illuminare omnes quae sit dispensatio mysterii absconditi a saeculis in Deo, qui omnia creavit, ut innotescat nunc Principatibus et Potestatibus in caelestibus per Ecclesiam multiformis sapientia Dei, secundum propositum saeculorum quod fecit in Christo Iesu Domino nostro, in quo habemus fiduciam et accessum in confidentia per fidem eius.
 '''
 label = "Szentlecke"
 sub = "Szent Pál apostolnak az efezusiakhoz írt leveléből"
@@ -63,23 +63,23 @@ Nekem, az összes szent közül a legkisebbnek jutott osztályrészül az a kegy
 '''
 
 [psalm]
-la_response = "Haurietis aquas in gaudio de fontibus salutis."
+la_response = "Haurietis aquas in gaudio de fontibus Salvatoris."
 la_verses = [
 '''
-Ecce Deus salutis meae;
+Ecce Deus salvator meus,
 fiducialiter agam et non timebo,
 quia fortitudo mea et laus mea Dominus,
 et factus est mihi in salutem.
 ''',
 '''
 Confitemini Domino et invocate nomen eius,
-notas facite in populis adinventiones eius;
+notas facite in populis adinventiones eius,
 mementote quoniam excelsum est nomen eius.
 ''',
 '''
-Cantate Domino, quoniam magnifice fecit;
-notum sit hoc in universa terra.
-Exsulta et lauda, quae habitas in Sion,
+Cantate Domino, quoniam magnifice fecit,
+annuntiate hoc in universa terra.
+Exsulta et lauda, habitatio Sion,
 quia magnus in medio tui Sanctus Israel.
 ''']
 cite = "Iz 12,2-3.4bcd.5-6"
@@ -103,7 +103,7 @@ mert nagy a ti körötökben Izrael szentje.
 ''']
 
 [alleluia]
-la = "Vigilate et estote parati, quia, qua nescitis hora, Filius hominis venturus est."
+la = "Vigilate et estote parati, quia qua nescitis hora Filius hominis venturus est."
 cite = "Mt 24,42a.44"
 text = "Virrasszatok és álljatok készen, mert nem tudjátok, hogy az Emberfia mikor érkezik!"
 
@@ -112,19 +112,19 @@ la_book = "Lucam"
 la = '''
 In illo tempore: Dixit Iesus discipulis suis:
 
-“Hoc autem scitote, quia, si sciret pater familias, qua hora fur veniret, non sineret perfodi domum suam. Et vos estote parati, quia, qua hora non putatis, Filius hominis venit”.
+«Hoc scitote quia si sciret pater familias qua hora fur veniret, non sineret perfodiri domum suam. Et vos estote parati, quia qua hora non putatis Filius hominis venit».
 
-Ait autem Petrus: “Domine, ad nos dicis hanc parabolam an et ad omnes?”.
+Ait autem Petrus: «Domine, ad nos dicis hanc parabolam an et ad omnes?»
 
-Et dixit Dominus: “Quis putas est fidelis dispensator et prudens, quem constituet dominus super familiam suam, ut det illis in tempore tritici mensuram?
+Et dixit Dominus: «Quis, putas, est fidelis dispensator et prudens, quem constituet dominus super familiam suam ut det illis in tempore tritici mensuram?
 
-Beatus ille servus, quem, cum venerit dominus eius, invenerit ita facientem. Vere dico vobis: Supra omnia, quae possidet, constituet illum.
+Beatus ille servus, quem cum venerit dominus eius invenerit ita facientem. Vere dico vobis: Supra omnia quae possidet constituet illum.
 
-Quod si dixerit servus ille in corde suo: ‘Moram facit dominus meus venire’, et coeperit percutere pueros et ancillas et edere et bibere et inebriari, veniet dominus servi illius in die, qua non sperat, et hora, qua nescit, et dividet eum partemque eius cum infidelibus ponet.
+Quod si dixerit servus ille in corde suo: “Moram facit dominus meus venire”, et coeperit percutere pueros et ancillas, et edere et bibere et inebriari, veniet dominus servi illius in die qua non sperat, et hora qua nescit, et dividet eum, partemque eius cum infidelibus ponet.
 
-Ille autem servus, qui cognovit voluntatem domini sui et non praeparavit vel non fecit secundum voluntatem eius, vapulabit multis; qui autem non cognovit et fecit digna plagis, vapulabit paucis.
+Ille autem servus, qui cognovit voluntatem domini sui et non praeparavit vel non fecit secundum voluntatem eius, vapulabit multas, qui autem non cognovit et fecit digna plagis, vapulabit paucis.
 
-Omni autem, cui multum datum est, multum quaeretur ab eo; et cui commendaverunt multum, plus petent ab eo”.
+Omni autem cui multum datum est, multum quaeretur ab eo, et cui commendaverunt multum, plus petent ab eo».
 '''
 book = "Szent Lukács"
 summary = "Sokról kell számot adnia annak, aki sokat kapott."
