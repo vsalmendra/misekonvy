@@ -1,10 +1,10 @@
-# Publishes only the app/ folder to GitHub Pages; everything else in the repo stays unpublished.
+# Builds app/data from src/, then publishes only the app/ folder to GitHub Pages; everything else in the repo stays unpublished.
 name: Deploy app to GitHub Pages
 
 on:
   push:
     branches: [main]
-    paths: ['app/**', '.github/workflows/pages.yml']
+    paths: ['app/**', 'src/**', 'tools/**', '.github/workflows/pages.yml']
   workflow_dispatch:
 
 permissions:
@@ -24,6 +24,8 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
+      # Rebuild the Mass database from src/ so the site never lags behind the sources
+      - run: python3 tools/build.py
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:

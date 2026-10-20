@@ -1,0 +1,106 @@
+# Recipe: src/masses/2026-10-21.md
+date = "2026-10-21"
+title = "Boldog IV. Károly király"
+day = "29. évközi hét szerdája · választható emléknap"
+rank = "fehér színben"
+gloria = false
+creed = false
+eucharistic_prayer = 3
+prefaces = ["szentek-1", "szentek-2"]
+
+# Common: Szentek általános miséi, formula 1 (always the first formula of the common).
+entrance = "@szentek-altalanos/1"
+offertory = "@szentek-altalanos/1"
+# The formula gives two communion antiphons ("Vagy:"): both offered, the first selected.
+communion = ["@szentek-altalanos/1", "@szentek-altalanos/1:communion_b"]
+postcommunion = "@szentek-altalanos/1"
+
+[collect]
+source = "Saját könyörgés: ferencesekzeg.hu (Jézus Szíve Ferences Plébánia), egyezik a Magyar Kurír szövegével (ott: „viszontagságos úton a földi királyságból”)"
+text = '''
+Istenünk,
+aki Boldog Károlyt a földi királyságból
+viszontagságos úton a te országodba vezetted,
+és mennyei koronával jutalmaztad,
+az ő közbenjárására add meg nekünk,
+hogy Szent Fiadat és testvéreinket szolgálva
+mi is eljussunk az örök életre.
+A mi Urunk, Jézus Krisztus, a te Fiad által,
+aki veled él és uralkodik a Szentlélekkel egységben,
+Isten mindörökkön-örökké.
+'''
+
+[reading1]
+label = "Szentlecke"
+sub = "Szent Pál apostolnak az efezusiakhoz írt leveléből"
+summary = "Krisztus szeretetének titka: a pogányok is társörökösök, és tagjai az Egyháznak."
+cite = "Ef 3,2-12"
+text = '''
+Testvéreim!
+
+Bizonyára hallottatok Isten kegyelmi adományáról, amelyben a ti javatokra részesültem. Kinyilatkoztatásból megismertem Krisztus titkát, amint föntebb már röviden megírtam. Ha elolvassátok, megértitek, hogy megismertem Krisztus titkát, amelyről korábban nem tudtak az emberek, de most a (Szent)lélek a szent apostoloknak és prófétáknak kinyilatkoztatta.
+
+Eszerint Jézus Krisztusban a pogányok is társörökösök, tagjai az egy testnek, és az evangélium által részesei az ígéreteknek. Ennek lettem szolgája Isten kegyelmi adományából, amelyet hathatós erejével juttatott nekem.
+
+Nekem, az összes szent közül a legkisebbnek jutott osztályrészül az a kegyelem, hogy Krisztus felfoghatatlan gazdagságát hirdessem a pogányoknak, és megvilágosítsak minden embert; hogyan valósult meg ez a titok, amely kezdettől fogva el volt rejtve a mindent teremtő Istenben, hogy most az Egyház által az Isten szerfölött sokrétű bölcsessége nyilvánvalóvá legyen a mennyei fejedelemségek és hatalmasságok előtt. Ez volt az ő örök szándéka, amelyet Krisztus Jézusban, a mi Urunkban megvalósított. A benne való hit által van reményünk és biztonságos utunk Istenhez.
+'''
+
+[psalm]
+cite = "Iz 12,2-3.4bcd.5-6"
+response = "Örömmel merítsetek vizet az Üdvözítő forrásaiból!"
+verses = [
+'''
+Íme, Isten az én üdvösségem,
+bízom benne, és nem félek.
+Mert az Úr az én erősségem és dicsőségem,
+ő lett nékem szabadulásom.
+''', '''
+Adjatok hálát az Úrnak,
+magasztaljátok az ő nevét.
+A népek közt hirdessétek tetteit,
+emlékezzetek meg arról, hogy Fölséges az ő neve.
+''', '''
+Zengjetek dalt az Úrnak, mert csodás dolgokat művelt:
+tudja meg az egész világ!
+Ujjongjatok és dicséretet mondjatok, Sion lakói,
+mert nagy a ti körötökben Izrael szentje.
+''']
+
+[alleluia]
+cite = "Mt 24,42a.44"
+text = "Virrasszatok és álljatok készen, mert nem tudjátok, hogy az Emberfia mikor érkezik!"
+
+[gospel]
+book = "Szent Lukács"
+summary = "Sokról kell számot adnia annak, aki sokat kapott."
+cite = "Lk 12,39-48"
+text = '''
+Abban az időben Jézus így szólt tanítványaihoz:
+
+„Gondoljátok meg: Ha tudná a házigazda, hogy melyik órában jön a tolvaj, nem engedné betörni házába. Éberen várjátok tehát az Emberfiát, mert eljön abban az órában, amikor nem is gondoljátok.”
+
+Péter megkérdezte: „Uram, csak nekünk mondod ezt a példabeszédet, vagy mindenkinek?”
+
+Az Úr így válaszolt: „Ki a hű és okos sáfár, akit ura szolgái fölé rendel, hogy ha eljön az ideje, kiadja részüket az élelemből?
+
+Boldog az a szolga, akit hazatérő ura ebben a tevékenységben talál. Bizony, mondom nektek, hogy minden vagyonát rábízza.
+
+De ha a szolga azt mondja magában: »Uram bizonyára késni fog«, és elkezdi verni a többi szolgát és szolgálót, eszik-iszik meg részegeskedik, és megérkezik ennek a szolgának az ura olyan napon, amikor nem is várja, és olyan órában, amikor nem gondolja, bizony kegyetlenül megbünteti, és a hűtlenek sorsára juttatja.
+
+Az a szolga, aki ismeri ura akaratát, de nem áll készen, hogy akarata szerint járjon el, sok verést kap. Aki azonban nem ismeri, s így tesz olyat, amiért büntetést érdemel, csak kevés verést kap.
+
+Mert aki sokat kapott, attól sokat követelnek, és akire sokat bíztak, attól többet kérnek számon.”
+'''
+
+[faithful]
+intro = "Kérjük, testvéreim, teljes szívünkből a mindenható Atyaistent, aki azt akarja, hogy minden ember üdvözüljön, és az igazság ismeretére jusson!"
+response = "Kérünk téged, hallgass meg minket!"
+petitions = [
+  "Hogy kegyelmével gazdagítsa és állandóan vezesse az Anyaszentegyházat, kérjük Urunkat!",
+  "Hogy Egyházában kegyelmi ajándékaival elárassza a püspököket, a papokat és a szerzeteseket, kérjük Urunkat!",
+  "Hogy elvezesse az Anyaszentegyházba mindazokat, akik még nem hisznek Krisztusban, kérjük Urunkat!",
+  "Hogy vezérelje az államférfiakat a népek jogainak védelmében és boldogulásuk munkálásában, kérjük Urunkat!",
+  "Hogy minket szeretetének igaz tanúivá tegyen az emberek előtt, kérjük Urunkat!",
+  { note = "Ha a szentmisét elhunytért mutatják be:", text = "Hogy N. testvérünknek (nővérünknek), akiért a szentmisét bemutatjuk, adja meg az örök világosságot és boldogító istenlátást, kérjük Urunkat!" },
+]
+conclusion = "Urunk, Istenünk! Jusson el könyörgésünk felséges trónod elé! Ne legyen eredménytelen, hanem nyerjen meghallgatást! Krisztus, a mi Urunk által."

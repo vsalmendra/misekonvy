@@ -1,0 +1,65 @@
+# Prefaces. Plain text: paragraphs separated by blank lines; optional "sub" = the preface's theme line.
+# Every Mass offers its own suggested prefaces first, then always ep2 and ep4 (added by the build).
+# Singing aids of the printed missal are stripped (capitals, dashes, "(Mert)", "(És)", "(énekeljük:)" ...).
+
+[angyalok]
+label = "Prefáció az angyalokról"
+source = "Római Misekönyv, az angyalok prefációja"
+sub = "Az angyalok tisztelete Isten dicsőségére szolgál"
+text = '''
+Valóban méltó és igazságos, illő és üdvös, hogy mindig és mindenütt hálát adjunk néked, mi Urunk, szentséges Atyánk, mindenható, örök Isten:
+
+Mi angyalaidban és főangyalaidban is téged áldunk; a te nagyságodnak és dicsőségednek hódolunk, amikor teremtményeidet, a hozzád hűséges angyalokat tiszteljük.
+
+Bár őket is nagy tisztelet illeti, te végtelenül nagyobb vagy náluk; így mindennél fölségesebbnek vallunk téged, Krisztus, a mi Urunk által.
+
+Az angyali seregek őáltala mondanak néked áldást, és téged imádva mi is lelkesen hozzájuk társulunk, velük együtt dicsérünk, és hálás szívvel mondjuk:
+'''
+
+[ep2]
+label = "A II. eucharisztikus ima saját prefációja"
+source = "Római Misekönyv, II. eucharisztikus ima"
+text = '''
+Valóban méltó és igazságos, illő és üdvös, hogy mindig és mindenütt hálát adjunk, Szentséges Atyánk, néked szeretett Fiad, Jézus Krisztus által.
+
+A te örök Igéd ő, általa alkottál mindent, és őt küldted, hogy Üdvözítőnk és Megváltónk legyen: ezért öltött a Szentlélektől testet, és született a Szent Szűztől. Majd akaratodat teljesítve, és szent népet szerezve néked, a keresztfán kitárt karral elszenvedte a kínhalált, hogy feloldja a halálnak átkát, és a feltámadásról bizonyságot adjon nékünk.
+
+Ezért az angyalokkal és minden szenteddel együtt dicsőségedet hirdetjük, és egy szívvel mondjuk:
+'''
+
+[ep4]
+label = "A IV. eucharisztikus ima saját prefációja"
+source = "Római Misekönyv, IV. eucharisztikus ima"
+text = '''
+Valóban méltó, hogy neked hálát adjunk, valóban igazságos, hogy dicsőítsünk, szentséges Atyánk, téged, mert egyedül te vagy az igaz és élő Isten.
+
+Te minden időt megelőzve létezel, mindörökre megmaradsz, és megközelíthetetlen fényben rejtezel. Te, egyetlen jóság és minden élet forrása, azért alkottál mindent, hogy teremtményeidet áldásoddal áraszd el, és mindenkit boldogíts világosságod fénye által.
+
+Az angyalok számtalan serege ezért áll színed előtt, éjjel-nappal szolgál néked, és arcod dicsőségét szemlélve szüntelenül dicsér téged.
+
+Velük együtt mi is, és szavunk által minden teremtmény a világon, ujjongva áldja szent neved és mondja:
+'''
+
+[szentek-1]
+label = "Prefáció a szentekről I."
+source = "Római Misekönyv 1991 (PPEK 335), 64. prefáció, 395. o. – az új misekönyvvel még nem egyeztetve"
+sub = "A szentek és hívek dicsősége"
+text = '''
+Valóban méltó és igazságos, illő és üdvös, hogy mindig és mindenütt hálát adjunk néked, mi Urunk, szentséges Atyánk, mindenható, örök Isten:
+
+Kit szentjeidnek serege áld és ünnepel, mert megkoronázod bennük a kegyelmedből szerzett érdemet. Az ő szent életük példakép számunkra, s mert egy családba tartozunk, közbenjárnak értünk nálad: hogy felbátorodva tanúságtételük által, az előttünk álló pályát győzelmesen fussuk végig, és hervadhatatlan koszorút nyerjünk velük együtt Krisztus, a mi Urunk által.
+
+Ezért, miként az angyalok és főangyalok, a szentek hatalmas seregével együtt dicséreted himnuszát zengjük, és vég nélkül mondjuk:
+'''
+
+[szentek-2]
+label = "Prefáció a szentekről II."
+source = "Római Misekönyv 1991 (PPEK 335), 65. prefáció, 396. o. – az új misekönyvvel még nem egyeztetve"
+sub = "A szentek közbenjárnak értünk"
+text = '''
+Valóban méltó és igazságos, illő és üdvös, hogy mindig és mindenütt hálát adjunk néked, mi Urunk, szentséges Atyánk, mindenható, örök Isten:
+
+Mert szentjeidnek példás élete által az Anyaszentegyházat újra meg újra csodás termékenységgel áldod meg, és így bizonyságot teszel arról, hogy mennyire szeretsz és pártolsz minket. S hogy üdvösségünk szent titka valóra váljék bennünk, a szentek nagyszerű példája sarkall minket, de imádsággal is közbenjárnak értünk, jóságod mindenkor kérve.
+
+Ezért, Urunk, az angyalokkal és a szentekkel együtt magasztalunk téged, és ujjongva mondjuk:
+'''

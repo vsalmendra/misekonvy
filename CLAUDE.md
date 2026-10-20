@@ -5,27 +5,45 @@
 The repo is **github.com/vsalmendra/misekonvy** — the single home for this work; it will hold more
 content over time. This CLAUDE.md is the source of truth. Claude Code commits and pushes here directly.
 
-- `app/` — the installable web app (PWA): `index.html`, `manifest.webmanifest`, `sw.js`, icons.
+- `app/` — the installable web app (PWA): `index.html` (shell + renderer), `manifest.webmanifest`,
+  `sw.js`, icons, and the Mass database `app/data/` (generated, committed):
+  `calendar.json` (dates that have a Mass) and `masses/<date>.json`.
   **Only this folder is published.** All paths inside it are relative (`./`), so it works from any URL.
+  The app opens today's Mass (or the latest earlier one, with a notice); `?d=YYYY-MM-DD` opens a
+  given day; the 📅 button in the menu offers only dates that have a Mass.
+- `src/` — sources of the database: `library/` (Order of Mass, Eucharistic prayers, prefaces,
+  `commons/`) and `masses/<date>.toml` + `masses/<date>.md` (the day's recipe/instructions).
+- `tools/build.py` — `python3 tools/build.py` rebuilds `app/data/` and bumps the SW cache name.
+  Always run it and commit its output after changing `src/`.
+- `docs/ASSEMBLY.md` — **how a Mass is assembled**: file format and the rules learnt so far.
+  Read it before adding a day; move recurring patterns from the day recipes into it.
+
+### Adding a day
+
+1. Read `docs/ASSEMBLY.md`. Fetch the day from igenaptár; get propers from the sources listed there.
+2. Write `src/masses/<date>.toml` and `src/masses/<date>.md` (the user's instructions, sources, choices, open points).
+3. `python3 tools/build.py`, check the page locally (`cd app && python3 -m http.server`), commit, push, merge to `main`.
 - `.github/workflows/pages.yml` — deploys `app/` to GitHub Pages on every push to `main` that touches
   `app/` (also runnable by hand). Repo setting required: Settings → Pages → Source = **GitHub Actions**.
   Site URL: https://vsalmendra.github.io/misekonvy/ (the contents of `app/` are the site root).
-- Everything else at top level (this file, `README.md`, future `generator/`, `content/`, `assets/`,
-  `scans/`) is never published.
+- Everything else (this file, `README.md`, `src/`, `tools/`, `docs/`) is never published.
+- Fonts: loaded from Google Fonts (user decision 2026-10-20: no need to self-host).
 
-- **MOVING TO CLAUDE CODE (2026-10-20):** user wants Claude Code to update GitHub directly. The generator and sources were delivered as a zip (branch `main`, 1 commit) and are still to be imported into this repo:
-  - `generator/` (`common.py`, `page.py`, `build_pwa.py`, `build.py` = one command `python3 generator/build.py content/<file>.py` → `app/`; the zip version wrote to `docs/`, change its output dir to `app/` when importing)
+## History
+
+- **MOVING TO CLAUDE CODE (2026-10-20):** user wants Claude Code to update GitHub directly. An earlier Python-DSL generator was delivered as a zip; it was **not imported** — superseded by the `src/` + `tools/build.py` database above (2026-10-20). Its contents, for reference:
+  - `generator/` (`common.py`, `page.py`, `build_pwa.py`, `build.py` = one command `python3 generator/build.py content/<file>.py` → `docs/`)
   - `content/` (`2026-10-18-evkozi29.py`, `2026-10-20-angyalok.py`)
-  - `assets/fonts` (self-hosted woff2 + fontsource CSS + OFL); the font files the page loads must be copied into `app/`
+  - `assets/fonts` (self-hosted woff2 + fontsource CSS + OFL)
   - `scans/`
-  - its `CLAUDE.md` (full workflow + rules) — merge into this file
+  - its `CLAUDE.md` (full workflow + rules)
   - `.claude/commands/napi-mise.md` (`/napi-mise <date>`)
 
 - **Output format so far:** mobile web page, ONE FIXED ARTIFACT updated every day: https://claude.ai/artifact/VLf13N3XA4WML4kZ8L9xDr — title "Napi szentmise", shared "Anyone with the link".
   - History: v1–2 Avilai Szent Teréz 10-15 (EP III); v3 Szent Hedvig 10-16 (EP II); v4 Évközi 29. vasárnap 10-18 (dropdowns); v5 Votív mise a szent angyalokról 10-20 (EP I default, all 4 EPs); v6 + Latin–Hungarian section; v7 light/dark toggle; v8 hidden top bar + floating ☰ button; v9 theme toggle moved into toolbar (☾/☀); v10 ↻ refresh button in toolbar.
 
 - **INSTALLABLE APP (PWA):** `build_pwa.py` → `index.html` (manifest, theme-color, SW registration with `updateViaCache:'none'` + update on visibility, slimmer landscape bar), `manifest.webmanifest` (`display=fullscreen`), `sw.js` (network-first, navigations `cache:'no-store'`, offline fallback), icons (white cross on `#a3171b`). GitHub Pages CDN may serve old version ~10 min.
-  - **SECURITY (review 2026-10-19):** no third-party JS; fonts self-hosted (Alegreya/Alegreya SC, OFL); CSP `default-src 'self'` (inline script/style allowed), `object-src`/`base-uri`/`form-action` none; referrer `no-referrer`; SW only same-origin GETs, caches only ok/basic responses; localStorage only text size + theme. Verified: zero external requests, ő/ű fonts load, works offline. Advised: GitHub 2FA; copyright of liturgical texts (MKPK) for a public site.
+  - **SECURITY (review 2026-10-19, for the zip build):** no third-party JS; fonts self-hosted (now: Google Fonts, by user decision) (Alegreya/Alegreya SC, OFL); CSP `default-src 'self'` (inline script/style allowed), `object-src`/`base-uri`/`form-action` none; referrer `no-referrer`; SW only same-origin GETs, caches only ok/basic responses; localStorage only text size + theme. Verified: zero external requests, ő/ű fonts load, works offline. Advised: GitHub 2FA; copyright of liturgical texts (MKPK) for a public site.
 
 - **Generator DSL:** `h/h2/p/n/v/r/src/sub/c`; `select/opt/end_opt/end_select`; `ep_select(default, saint=None)`; `EP2_PREFACE`, `EP4_PREFACE`; bilingual `bh/bh2/bp/bn/bv/bc/br/bsrc` with ready pairs (`bi_greeting_penitential`, `COLLECT_END`, `bi_gospel_dialogue`, `bi_gifts`, `bi_preface_dialogue`, `bi_sanctus`, `bi_ep1`, `bi_communion_rite`, `bi_concluding`). Content files start with `exec(open(COMMON).read())` (`COMMON` set by `page.py` in the repo version) and end with `# ---------- RENDER`.
   - Toolbar (hidden; floating ☰ bottom-right): A−, A+, ☾/☀, ↻, section links. Top of page: "Latin–magyar szöveg ↓"; back buttons "↑ Vissza a magyar szöveghez".

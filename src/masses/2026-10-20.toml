@@ -1,0 +1,125 @@
+# Recipe: src/masses/2026-10-20.md
+date = "2026-10-20"
+title = "Votív mise a szent angyalokról"
+day = "29. évközi hét keddje"
+rank = "fehér színben"
+gloria = false
+creed = false
+eucharistic_prayer = 1
+prefaces = ["angyalok"]
+latin = "2026-10-20.latin.html"
+
+[entrance]
+cite = "Zsolt 102,20"
+text = '''
+Áldjátok az Urat, angyalai,
+mind, ti hatalmasok, akik teljesítitek szavát,
+mihelyt parancsának hangját meghalljátok.
+'''
+
+[collect]
+text = '''
+Istenünk,
+aki az angyalok és az emberek szolgálatát
+csodálatos módon elrendezed,
+add meg kegyesen,
+hogy azok segítsége oltalmazza a földön életünket,
+akik a mennyben folytonosan szolgálnak neked.
+A mi Urunk, Jézus Krisztus, a te Fiad által,
+aki veled él és uralkodik a Szentlélekkel egységben,
+Isten mindörökkön-örökké.
+'''
+
+[reading1]
+label = "Szentlecke"
+sub = "Szent Pál apostolnak az efezusiakhoz írt leveléből"
+summary = "Krisztus békét szerzett nekünk vére ontásával, és mindnyájunkat meghív országába."
+cite = "Ef 2,12-22"
+text = '''
+Testvéreim!
+
+Egykor Krisztus nélkül éltetek, Izrael vallási közösségén kívül. Nem volt részetek a megígért szövetségben, remény híján és Isten nélkül éltetek a világban. Most azonban ti, akik egykor „távol” voltatok, Krisztus Jézusban „közel” kerültetek, Krisztus vére árán.
+
+Ő a mi békességünk, aki a kettőt (Izraelt és a pogányokat) eggyé forrasztotta, és a közéjük emelt válaszfalat ledöntötte, az ellenségeskedést kiküszöbölte saját testében. A törvényt ugyanis parancsaival és rendelkezéseivel együtt érvénytelenítette. Mint békességszerző a két népet magában eggyé, új emberré teremtette, és egy testben mind a kettőt kiengesztelte Istennel kereszthalála által, amellyel az ellenségeskedést megölte.
+
+Eljött, hogy békét hirdessen nektek, a távol levőknek, és békét a közel levőknek. Az ő révén van mindkettőnknek szabad utunk az egy Lélekben az Atyához. Most tehát nem vagytok már idegenek és jövevények, hanem a szentek polgártársai és Isten háza népe.
+
+Apostolokra és prófétákra alapozott épület vagytok, amelynek szegletköve maga Jézus Krisztus. Benne kapcsolódik egybe az egész épület, és emelkedik az Úr szent templomává. Őbenne épültök egybe ti is, és lesztek a Szentlélek közreműködésével Isten hajlékává.
+'''
+
+[psalm]
+cite = "Zsolt 84,9-14"
+response = "Népéhez szól az Isten, és hirdeti a békét."
+verses = [
+'''
+Hadd halljam, mit mond az én Uram, Istenem,
+mert népének és szentjeinek békét ígér.
+Az istenfélőkhöz valóban közel az üdvösség,
+hogy országunkba dicsőség költözzék.
+''', '''
+Irgalom és hűség majd egymásra lelnek,
+csókot vált az igazság és a béke.
+A földből a hűség kisarjad,
+és az igazságosság tekint le az égből.
+''', '''
+Az Úr jóságát megmutatja,
+földünk is meghozza termését.
+Igazság jár az Úr előtt,
+és béke a lába nyomában.
+''']
+
+[alleluia]
+cite = "Lk 21,36"
+text = "Imádkozva virrasszatok szüntelen, hogy az Emberfia elé méltón álljatok."
+
+[gospel]
+book = "Szent Lukács"
+summary = "Legyünk mindenkor készen az Isten előtti számadásra!"
+cite = "Lk 12,35-38"
+text = '''
+Abban az időben Jézus így szólt tanítványaihoz:
+
+„Csípőtök legyen felövezve, kezetekben pedig égő gyertya legyen. Hasonlítsatok az olyan emberekhez, akik urukra várnak, hogy mihelyt megérkezik a menyegzőről és zörget, rögtön ajtót nyissanak neki.
+
+Boldogok azok a szolgák, akiket uruk megérkezésekor ébren talál. Bizony, mondom nektek, felövezi magát, asztalhoz ülteti őket, körüljár és felszolgál nekik. És ha a második vagy a harmadik őrváltáskor érkezve is így találja őket, boldogok azok a szolgák.”
+'''
+
+[faithful]
+intro = "Kérjük, testvéreim, a végtelenül irgalmas Istent önmagunkért és minden emberért, hogy bocsássa meg bűneinket, és adja meg nekünk az örök boldogságot!"
+response = "Kérünk téged, hallgass meg minket!"
+petitions = [
+  "Az egész világon elterjedt és az itt egybegyűlt Egyházért könyörögjünk az Úrhoz!",
+  "Szentatyánkért, Leó pápáért, püspökeinkért, papjainkért és a szent szolgálatban segítő társaikért könyörögjünk az Úrhoz!",
+  "Az egyházak egységéért, a pogányok megtéréséért, a nemzetek közötti egyetértésért könyörögjünk az Úrhoz!",
+  "Beteg, éhező és bajbajutott embertársainkért könyörögjünk az Úrhoz!",
+  "Saját magunk és távol lévő testvéreink üdvösségéért könyörögjünk az Úrhoz!",
+  "A földi életből eltávozott testvéreink örök boldogságáért könyörögjünk az Úrhoz!",
+]
+conclusion = "Urunk, hallgasd meg népedet! Érdemtelen létünkre könyörgünk hozzád, hiszen kegyelmeddel mindig elénk sietsz, hogy jóságosan teljesítsd kérésünket. Krisztus, a mi Urunk által."
+
+[offertory]
+text = '''
+Urunk, Istenünk,
+felajánljuk neked a dicsérő áldozatot.
+Kérve kérünk, hogy fogadd szívesen,
+angyalaiddal vitesd felséges színed elé,
+és fordítsd üdvösségünkre.
+Krisztus, a mi Urunk által.
+'''
+
+[communion]
+cite = "Zsolt 137,1"
+text = '''
+Angyalaid színe előtt
+magasztallak, Istenem.
+'''
+
+[postcommunion]
+text = '''
+Urunk, Istenünk,
+mennyei kenyérrel tápláltál minket.
+Add, hogy megerősödjünk erejével,
+és angyalaid hűséges őrizete alatt
+bátran haladjunk az üdvösség útján.
+Krisztus, a mi Urunk által.
+'''

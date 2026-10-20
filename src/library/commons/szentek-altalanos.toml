@@ -1,0 +1,233 @@
+# Szentek általános miséi 1-6 (Commune sanctorum, "for any saint").
+# Source: Római Misekönyv, 1991 Hungarian edition (PPEK 335, Misekonyv_1.pdf, pp. 690-696).
+# Typos of the PPEK text fixed: "dicsősédes" -> "dicsőséges" (1), "igazsák" -> "igazság" (4).
+# Not yet checked against the new (2021/2023) Hungarian missal.
+# "Szent N." is replaced per Mass via [names] in the mass file.
+
+[1]
+entrance_cite = "Zsolt 144,10-11"
+entrance = '''
+Magasztaljon téged, Uram, minden műved,
+és szentjeid áldást mondjanak!
+Hirdessék, hogy országod milyen dicsőséges,
+és hatalmadról beszéljenek!
+'''
+collect = '''
+Mindenható, örök Isten,
+te szentjeid megdicsőítésével
+szeretetednek új meg új bizonyítékait adod nekünk.
+Kérünk, hogy közbenjárásuk segítsen,
+példájuk ösztönözzön egyszülött Fiad hűséges követésére.
+Aki veled él és uralkodik a Szentlélekkel egységben,
+Isten mindörökkön-örökké.
+'''
+offertory = '''
+Kérünk, Istenünk, fogadd jó szívvel könyörgéseinket,
+s hogy oltárod szolgálatára méltók legyünk,
+a szentek közbenjárásával segíts és oltalmazz minket.
+Krisztus, a mi Urunk által.
+'''
+communion_cite = "Zsolt 67,4"
+communion = '''
+Örvendenek és ujjonganak Isten előtt az igazak,
+elragadtatással ünnepelnek.
+'''
+communion_b_cite = "Lk 12,37"
+communion_b = '''
+Boldogok azok a szolgák, akiket megérkezésekor Uruk ébren talál.
+Bizony mondom nektek, felövezi magát, asztalhoz ülteti őket,
+és megy, hogy kiszolgálja őket.
+'''
+postcommunion = '''
+Mindenható, örök Isten,
+minden vigasztalás és béke Atyja,
+add, hogy házad népe, mely szentjeid ünnepén
+neved dicséretére összegyűlt,
+egyszülött Fiad testében és vérében részesedve
+elnyerje az örök élet zálogát.
+Krisztus, a mi Urunk által.
+'''
+
+[2]
+entrance_cite = "Zsolt 63,11"
+entrance = '''
+Az igaz örvend az Úrban, és őbenne bízik,
+őbenne dicsekszik minden igaz szívű.
+'''
+collect = '''
+Istenünk, egyedül te vagy igazán szent,
+és nélküled senki sem lehet jó.
+Szent N. közbenjárására alakíts minket tetszésed szerint,
+hogy egykor részesei legyünk örök dicsőségednek.
+A mi Urunk, Jézus Krisztus, a te Fiad által,
+aki veled él és uralkodik a Szentlélekkel egységben,
+Isten mindörökkön-örökké.
+'''
+offertory = '''
+Kérünk, mindenható Istenünk, hogy ez az áldozat,
+amelyet szentjeid tiszteletére alázatos szívvel felajánlunk neked,
+legyen előtted kedves,
+számunkra pedig szerezzen testi és lelki tisztulást.
+Krisztus, a mi Urunk által.
+'''
+communion_cite = "Jn 12,26"
+communion = '''
+Aki nekem szolgál, az engem kövessen,
+és ahol én vagyok, ott lesz a szolgám is – mondja az Úr.
+'''
+postcommunion = '''
+Szentjeid égi születésnapján arra kérünk, Istenünk,
+hogy mi, akiket szent lakomád részesévé tettél,
+örökké élvezzük azokat a javakat,
+amelyekkel most kegyesen megerősítettél.
+Krisztus, a mi Urunk által.
+'''
+
+[3]
+entrance_cite = "Zsolt 20,2-3"
+entrance = '''
+Urunk, hatalmadnak örvend az igaz, és ujjongva ujjong segítséged miatt.
+Szíve vágyát betöltötted, nem tagadtad meg ajka óhaját.
+'''
+collect = '''
+Istenünk, te botladozó szolgáid előtt az üdvösség útját
+szentjeid példájával és közbenjárásával egyengeted.
+Add meg jóságosan, hogy Szent N. példája,
+akinek mennyei születésnapját ünnepeljük,
+közelebb segítsen minket hozzád.
+A mi Urunk, Jézus Krisztus, a te Fiad által,
+aki veled él és uralkodik a Szentlélekkel egységben,
+Isten mindörökkön-örökké.
+'''
+offertory = '''
+Kérünk, Istenünk, hogy ez az áldozat,
+amelyet Szent N. emlékezetére bemutatunk neked,
+árassza hívő népedre a béke és az egység áldását.
+Krisztus, a mi Urunk által.
+'''
+communion_cite = "Mt 16,24"
+communion = '''
+Aki követni akar, tagadja meg magát,
+vegye keresztjét és kövessen – mondja az Úr.
+'''
+postcommunion = '''
+Urunk, Istenünk,
+a mennyei lakoma, amelyben Szent N. emléknapján részesültünk,
+szentelje meg szívünket és lelkünket,
+hogy valóban az isteni természet részesei lehessünk.
+Krisztus, a mi Urunk által.
+'''
+
+[4]
+entrance_cite = "Mal 2,6"
+entrance = '''
+Az igaz törvényt mondogatta ajka;
+száját sohasem szennyezte hazugság,
+velem járt mindig, béke és igazság vette körül,
+és sok embert kiragadott a bűnből – mondja az Úr.
+'''
+collect = '''
+Istenünk, te látod,
+hogy gyöngeségünk mennyire megbénít minket.
+Szentjeid példájával kelts bennünk új erőt
+szeretetednek szolgálatára.
+A mi Urunk, Jézus Krisztus, a te Fiad által,
+aki veled él és uralkodik a Szentlélekkel egységben,
+Isten mindörökkön-örökké.
+'''
+offertory = '''
+Fölséges Istenünk, add, hogy ez az áldozat,
+amelyet Szent N. ünnepén oltárodon bemutatunk,
+legyen kedves előtted, nekünk pedig üdvösségünkre váljék.
+Krisztus, a mi Urunk által.
+'''
+communion_cite = "Mt 5,8-9"
+communion = '''
+Boldogok a tiszta szívűek, mert meglátják az Istent.
+Boldogok a békességszerzők, mert Isten fiainak hívják majd őket.
+Boldogok, akik üldözést szenvednek az igazságért,
+mert övék a mennyek országa.
+'''
+postcommunion = '''
+Mennyei kenyérrel tápláltál minket, Istenünk.
+Könyörögve kérünk,
+hogy áldozatunk,
+amellyel köteles hódolatunkat róttuk le előtted,
+érezhetően gyarapítsa bennünk üdvözítő kegyelmedet.
+Krisztus, a mi Urunk által.
+'''
+
+[5]
+entrance_cite = "Zsolt 91,13-14"
+entrance = '''
+Virul az igaz, akár a pálma, s úgy növekszik, mint a Libanon cédrusa.
+Az Úr házában van elültetve, Istenének csarnokában bont virágot.
+'''
+collect = '''
+Kérünk, Istenünk,
+szentjeid közbenjáró imádsága eszközölje ki
+hívő néped számára hatalmas segítségedet,
+hogy akiknek ünnepét áhítattal megüljük,
+azoknak örök dicsőségében egykor részesülhessünk.
+A mi Urunk, Jézus Krisztus, a te Fiad által,
+aki veled él és uralkodik a Szentlélekkel egységben,
+Isten mindörökkön-örökké.
+'''
+offertory = '''
+Oltárodra helyeztük áldozati adományainkat, Istenünk.
+Kérünk, add meg nekünk azt az áhítatot,
+amelyet Szent N. szívébe oltottál.
+Segíts, hogy tiszta szívvel és odaadó lélekkel
+vegyünk részt a szent cselekményekben,
+és áldozatunk neked kedves, számunkra pedig üdvös legyen.
+Krisztus, a mi Urunk által.
+'''
+communion_cite = "Mt 11,28"
+communion = '''
+Jöjjetek hozzám mindnyájan, akik elfáradtatok,
+s akik terhet hordoztok, én megkönnyítelek titeket
+– mondja az Úr.
+'''
+postcommunion = '''
+Istenünk, add, hogy az áldozati lakomában való részesedés
+üdvösségünkre szolgáljon,
+és igazságod fényét gyullassza fel szívünkben.
+Krisztus, a mi Urunk által.
+'''
+
+[6]
+entrance_cite = "Jer 17,7-8"
+entrance = '''
+Áldott a férfi, aki az Úrban bízik, akinek reménye az Úr:
+erős, mint a folyó partjára ültetett fa,
+amelynek gyökere nedvességet ér;
+a szárazságtól sem kell félnie.
+'''
+collect = '''
+Mindenható Istenünk, segíts minket,
+hogy szentjeid példájától ösztönözve megjavuljunk,
+és Szent N. emléknapját úgy tiszteljük,
+hogy szüntelenül kövessük tetteit.
+A mi Urunk, Jézus Krisztus, a te Fiad által,
+aki veled él és uralkodik a Szentlélekkel egységben,
+Isten mindörökkön-örökké.
+'''
+offertory = '''
+Irgalmas Istenünk, szentjeid ünnepén könyörögve tesszük oltárodra
+áldozati adományainkat.
+Add, hogy ez az áldozat neked dicsőségedre szolgáljon,
+számunkra pedig eszközölje ki bőséges áldásodat.
+Krisztus, a mi Urunk által.
+'''
+communion_cite = "Jn 15,9"
+communion = '''
+Amint engem szeret az Atya, úgy szeretlek én is titeket.
+Maradjatok meg szeretetemben – mondja az Úr.
+'''
+postcommunion = '''
+Kérünk, Urunk, Istenünk,
+hogy a mennyei vendégség,
+amelyen szentjeidre emlékezvén részt vettünk,
+hozza meg számunkra az üdvösség és a béke gyümölcsét.
+Krisztus, a mi Urunk által.
+'''
