@@ -45,6 +45,7 @@ body { background: var(--bg); color: var(--fg); font-family: var(--f-body); font
 .wrap { max-width: 52rem; margin: 0 auto; padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); padding-block: 0 4rem; }
 main.wrap > section:not(.bilingual), header.top, .legend { max-width: 36rem; margin-left: auto; margin-right: auto; }
 header.top { text-align: center; padding-block: 2rem 1.25rem; }
+header.top .logo { display: block; width: 28px; height: 28px; border-radius: 7px; margin: 0 auto .6rem; }
 .date { font-family: var(--f-cap); color: var(--rubric); letter-spacing: .06em; font-size: .9em; margin: 0; }
 h1 { font-weight: 700; font-size: 1.5em; line-height: 1.2; margin: .4rem 0 .2rem; text-wrap: balance; }
 .rank { font-style: italic; margin: 0; }
@@ -156,6 +157,7 @@ body.empty #top, body.empty #jump-latin, body.empty #notice, body.empty .legend 
 </dialog>
 <main class="wrap">
   <header class="top" id="top">
+    <img class="logo" src="icon-192.png" alt="" width="28" height="28">
     <p class="date" id="m-date"></p>
     <h1 id="m-title">Napi szentmise</h1>
     <p class="rank" id="m-rank"></p>
