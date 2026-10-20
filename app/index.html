@@ -41,7 +41,7 @@ img { max-width: 100%; }
 :root[data-theme="light"] { color-scheme: light; }
 :root[data-theme="dark"] { --bg: #161314; --fg: #ece6e3; --muted: #a59c99; --rubric: #e8736f; --line: #2e2829; --chip: #241f20; color-scheme: dark; }
 html { scroll-padding-top: calc(env(safe-area-inset-top, 0px) + 12px); }
-body { background: var(--bg); color: var(--fg); font-family: var(--f-body); font-size: var(--size); line-height: 1.42; }
+body { background: var(--bg); color: var(--fg); font-family: var(--f-body); font-size: var(--size); line-height: 1.32; }
 .wrap { max-width: 52rem; margin: 0 auto; padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); padding-block: 0 4rem; }
 main.wrap > section:not(.bilingual), header.top, .legend { max-width: 36rem; margin-left: auto; margin-right: auto; }
 header.top { text-align: center; padding-block: 2rem 1.25rem; }
@@ -77,9 +77,9 @@ p { margin: .65rem 0; }
 .rub, .sub { font-style: italic; color: var(--rubric); }
 .cite { text-align: right; font-style: italic; color: var(--muted); font-size: .8em; margin-top: .1rem; }
 .cons { font-weight: 700; padding-left: .9rem; border-left: 2px solid var(--rubric); margin: .8rem 0; }
-.choice { display: flex; flex-wrap: wrap; align-items: center; gap: .4rem .6rem; margin: .8rem 0 .6rem; padding: .55rem .7rem; background: var(--chip); border-radius: 10px; }
-.choice label { font-family: var(--f-cap); color: var(--rubric); font-size: .8em; letter-spacing: .06em; }
-.choice select { flex: 1 1 12rem; min-width: 0; font: inherit; font-size: .9em; color: var(--fg); background: var(--bg); border: 1px solid var(--line); border-radius: 8px; padding: .35rem .5rem; }
+.choice { display: flex; flex-wrap: wrap; align-items: baseline; gap: .2rem .6rem; margin: .6rem 0 .4rem; }
+.choice label { font-family: var(--f-cap); color: var(--muted); font-size: .72em; letter-spacing: .06em; }
+.choice select { flex: 1 1 12rem; min-width: 0; font: inherit; font-size: .78em; color: var(--rubric); background: none; border: 0; border-bottom: 1px solid var(--line); border-radius: 0; padding: .15rem 0; }
 .choice select:focus-visible { outline: 2px solid var(--rubric); outline-offset: 2px; }
 .jump { text-align: center; margin: 1rem 0; }
 .jump { display: flex; flex-wrap: wrap; justify-content: center; gap: .5rem; }
@@ -99,9 +99,9 @@ button.btn { background: none; cursor: pointer; }
 </style>
 <style>
 /* Alternatives inside one slot (e.g. two communion antiphons): a row of buttons, first one selected */
-.alt-btns { display: flex; flex-wrap: wrap; gap: .35rem; margin: .5rem 0 .3rem; }
-.alt-btn { font: 600 .8em var(--f-cap); letter-spacing: .04em; color: var(--rubric); background: none; border: 1px solid var(--line); border-radius: 999px; min-width: 2.4rem; padding: .25rem .8rem; cursor: pointer; }
-.alt-btn[aria-pressed="true"] { background: var(--rubric); border-color: var(--rubric); color: var(--bg); }
+.alt-btns { display: flex; flex-wrap: wrap; gap: .1rem .9rem; margin: .4rem 0 .1rem; }
+.alt-btn { font: .72em var(--f-cap); letter-spacing: .06em; color: var(--muted); background: none; border: 0; border-bottom: 1px solid transparent; padding: .1rem 0; cursor: pointer; }
+.alt-btn[aria-pressed="true"] { color: var(--rubric); border-bottom-color: var(--rubric); }
 .alt-btn:focus-visible { outline: 2px solid var(--rubric); outline-offset: 2px; }
 .notice { max-width: 36rem; margin: 1rem auto 0; padding: .6rem .8rem; background: var(--chip); border-radius: 10px; font-size: .85em; color: var(--muted); text-align: center; }
 .status { text-align: center; color: var(--muted); margin: 4rem 0; }
