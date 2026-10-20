@@ -9,8 +9,10 @@ content over time. This CLAUDE.md is the source of truth. Claude Code commits an
   `sw.js`, icons, and the Mass database `app/data/` (generated, committed):
   `calendar.json` (dates that have a Mass) and `masses/<date>.json`.
   **Only this folder is published.** All paths inside it are relative (`./`), so it works from any URL.
-  The app opens today's Mass (or the latest earlier one, with a notice); `?d=YYYY-MM-DD` opens a
-  given day; the 📅 button in the menu offers only dates that have a Mass.
+  The app opens today's Mass; `?d=YYYY-MM-DD` opens a given day; the 📅 button in the menu offers
+  only dates that have a Mass. No Mass for today → the logo with "Újratöltés" (and "Másik nap").
+  If today is after the last Mass, the app reloads fresh once by itself (`?frissitve=<today>` in the
+  URL marks it, so it never loops).
 - `src/` — sources of the database: `library/` (Order of Mass, Eucharistic prayers, prefaces,
   `commons/`) and `masses/<date>.toml` + `masses/<date>.md` (the day's recipe/instructions).
 - `tools/build.py` — `python3 tools/build.py` rebuilds `app/data/` and bumps the SW cache name.

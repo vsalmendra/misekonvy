@@ -107,6 +107,10 @@ button.btn { background: none; cursor: pointer; }
 .alt-btn:focus-visible { outline: 2px solid var(--rubric); outline-offset: 2px; }
 .notice { max-width: 36rem; margin: 1rem auto 0; padding: .6rem .8rem; background: var(--chip); border-radius: 10px; font-size: .85em; color: var(--muted); text-align: center; }
 .status { text-align: center; color: var(--muted); margin: 4rem 0; }
+/* No Mass for today: logo + reload */
+body.empty #top, body.empty #jump-latin, body.empty #notice, body.empty .legend { display: none; }
+.empty-day { min-height: 70vh; display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; color: var(--muted); }
+.empty-day img { width: 112px; height: 112px; border-radius: 24px; margin-bottom: 1rem; }
 /* Date picker: only days that have a Mass text can be chosen */
 #cal { border: 1px solid var(--line); border-radius: 14px; background: var(--bg); color: var(--fg); padding: 1rem; width: min(22rem, calc(100vw - 32px)); box-sizing: border-box; box-shadow: 0 8px 30px rgba(0,0,0,.25); }
 #cal::backdrop { background: rgba(0,0,0,.35); }
@@ -168,11 +172,12 @@ button.btn { background: none; cursor: pointer; }
   document.addEventListener('click', function (e) { if (bar.classList.contains('open') && !bar.contains(e.target) && e.target !== fab && !cal.contains(e.target)) setMenu(false); });
   document.addEventListener('keydown', function (e) { if (e.key === 'Escape') setMenu(false); });
   // Refresh: drop the offline copy (installed app) and load the newest text
-  $('reload').addEventListener('click', function () {
-    var go = function () { location.reload(); };
+  function hardReload(url) {
+    var go = function () { if (url) location.replace(url); else location.reload(); };
     try { if (window.caches) { caches.keys().then(function (ks) { return Promise.all(ks.map(function (k) { return caches.delete(k); })); }).then(go, go); return; } } catch (e) {}
     go();
-  });
+  }
+  $('reload').addEventListener('click', function () { hardReload(); });
   // Dark / light mode toggle (remembered on this device)
   var THEME = 'mise-theme', tbtn = $('theme-toggle');
   function isDark() { var t = root.getAttribute('data-theme'); return t ? t === 'dark' : window.matchMedia('(prefers-color-scheme: dark)').matches; }
@@ -223,6 +228,7 @@ button.btn { background: none; cursor: pointer; }
       var meta = $('m-meta'); meta.textContent = '';
       m.meta.filter(Boolean).forEach(function (line, i) { if (i) meta.appendChild(document.createElement('br')); meta.appendChild(document.createTextNode(line)); });
       document.title = m.title + ' – Napi szentmise';
+      document.body.classList.remove('empty');
       var box = $('mass'); box.innerHTML = m.html; wire(box);
       var n = $('notice'); n.hidden = !note; n.textContent = note || '';
       window.scrollTo(0, 0);
@@ -278,17 +284,31 @@ button.btn { background: none; cursor: pointer; }
     if (cal.showModal) cal.showModal(); else cal.setAttribute('open', '');
   });
 
+  // No Mass to show: the app logo, a reload button and (if there are other days) the date picker
+  function empty(msg) {
+    document.body.classList.add('empty'); document.title = 'Napi szentmise';
+    $('mass').innerHTML = '<div class="empty-day"><img src="icon-512.png" alt="" width="112" height="112"><p></p>' +
+      '<p class="jump"><button type="button" class="btn" id="empty-reload">↻ Újratöltés</button>' +
+      (dates.length ? '<button type="button" class="btn" id="empty-pick">📅 Másik nap</button>' : '') + '</p></div>';
+    $('mass').querySelector('.empty-day p').textContent = msg;
+    $('empty-reload').addEventListener('click', function () { hardReload(location.pathname); });
+    if (dates.length) $('empty-pick').addEventListener('click', function () { $('pick-date').click(); });
+  }
+
+  var params = new URLSearchParams(location.search), RELOADED = 'frissitve';
+  var reloadedToday = params.get(RELOADED) === today;
+  if (params.has(RELOADED)) { try { history.replaceState(null, '', location.pathname); } catch (e) {} }
   getJSON('data/calendar.json').then(function (c) {
     c.masses.forEach(function (m) { titles[m.date] = m.title; });
     dates = Object.keys(titles).sort();
-    var want = new URLSearchParams(location.search).get('d');
+    var want = params.get('d');
     if (want && titles[want]) return show(want);
     if (titles[today]) return show(today);
-    // No text for today: show the nearest earlier Mass (or the first one), and say so
-    var past = dates.filter(function (d) { return d < today; }), pick = past.length ? past[past.length - 1] : dates[0];
-    if (!pick) { $('mass').innerHTML = '<p class="status">Még nincs feltöltött miseszöveg.</p>'; return; }
-    show(pick, 'A mai napra (' + short(today) + ') még nincs miseszöveg. A ' + short(pick) + ' mise látható; a 📅 gombbal másik nap választható.');
-  }).catch(function () { $('mass').innerHTML = '<p class="status">A naptár nem tölthető be. Ellenőrizd az internetkapcsolatot, majd frissíts (↻).</p>'; });
+    // Today is after the last Mass: the app may be showing an old copy, so reload fresh once.
+    // The marker in the URL stops a second reload (no loops).
+    if (dates.length && today > dates[dates.length - 1] && !reloadedToday) { hardReload(location.pathname + '?' + RELOADED + '=' + today); return; }
+    empty('A mai napra (' + short(today) + ') még nincs miseszöveg.');
+  }).catch(function () { empty('A naptár nem tölthető be. Ellenőrizd az internetkapcsolatot, majd töltsd újra.'); });
 
   // Keep the screen on while reading during Mass, where the browser allows it.
   var lock = null;
