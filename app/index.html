@@ -88,7 +88,7 @@ button.btn { background: none; cursor: pointer; }
 .btn:focus-visible { outline: 2px solid var(--rubric); outline-offset: 2px; }
 .bilingual { margin-top: 3rem; border-top: 2px solid var(--line); }
 .bi-grid { display: grid; grid-template-columns: minmax(0,1fr) minmax(0,1fr); column-gap: 1rem; font-size: .9em; }
-.bi-grid > * { min-width: 0; overflow-wrap: break-word; hyphens: auto; }
+.bi-grid p, .bi-grid h2, .bi-grid h3 { min-width: 0; overflow-wrap: break-word; hyphens: auto; }
 .bi-l { grid-column: 1; }
 .bi-r { grid-column: 2; }
 /* preface / EP wrappers must not break the two-column grid */
@@ -97,6 +97,18 @@ button.btn { background: none; cursor: pointer; }
 .bi-lab { font-family: var(--f-cap); color: var(--muted); font-size: .8em; letter-spacing: .08em; border-bottom: 1px solid var(--line); padding-bottom: .2rem; }
 .bi-grid h3 { margin-top: 1.4rem; }
 .bi-grid .verse, .bi-grid .cons { padding-left: .5rem; }
+/* Portrait phones: each column almost a full screen wide; swipe sideways for the other language.
+   The sliver of the next column shows that there is more. Read comfortably in landscape. */
+@media (orientation: portrait) and (max-width: 700px) {
+  .bi-grid { grid-template-columns: 86vw 86vw; overflow-x: auto; overscroll-behavior-x: contain; scroll-snap-type: x proximity; scroll-padding-inline: 16px;
+    margin-right: calc(-1 * max(16px, env(safe-area-inset-right, 0px))); padding: 0 16px .5rem 0; }
+  .bi-grid .bi-l { scroll-snap-align: start; }
+  .bi-grid .bi-r { scroll-snap-align: end; }
+  .bi-grid .bi-full { position: sticky; left: 0; width: calc(100vw - 32px); box-sizing: border-box; }
+  .bi-grid .bi-r { padding-right: 0; }
+  .bi-hint { display: block; }
+}
+.bi-hint { display: none; text-align: center; color: var(--muted); font-size: .8em; font-style: italic; margin: .2rem 0 .8rem; }
 .legend { color: var(--muted); font-size: .8em; text-align: center; margin-top: 3rem; }
 </style>
 <style>

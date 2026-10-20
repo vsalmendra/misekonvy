@@ -375,6 +375,7 @@ def build_mass(path):
     g.append(ORDO_LA['concluding'])
     back = '<p class="jump"><a class="btn" href="#top">↑ Vissza a magyar szöveghez</a></p>'
     h.append(f'<section id="latin" class="bilingual"><h2 class="part">Latin–magyar szöveg</h2>{back}'
+             '<p class="bi-hint">Fektesd el a telefont, vagy húzd oldalra a szöveget: ⇆ latin | magyar</p>'
              f'<div class="bi-grid">{"".join(g)}</div>{back}</section>')
     html_out = '\n'.join(h)
     missing = html_out.count(NO_LATIN)
