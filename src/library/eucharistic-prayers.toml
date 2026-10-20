@@ -1,0 +1,90 @@
+# Eucharistic prayers I-IV (HTML). EP IV may only be said with its own preface (prefaces.toml: ep4).
+
+[1]
+label = "I. eucharisztikus ima (római kánon)"
+html = '''
+<p>Könyörögve kérünk tehát, jóságos Atyánk, Fiad, a mi Urunk, Jézus Krisztus által: fogadd el és áldd † meg ezeket az adományokat és ajándékokat, ezt a szent és tiszta áldozatot.</p>
+<p>Elsősorban szent és katolikus Egyházadért ajánljuk fel neked: tartsd meg békében, őrizd meg egységben, és vezesd az egész földkerekségen szolgáddal, Leó pápánkkal, N. főpásztorunkkal, és mindazokkal, akik az egyetemes és apostoli hitet hűségesen őrzik és vallják.</p>
+<p>Emlékezzél meg, Urunk, szolgáidról, N. és N.-ről.</p>
+<p>Emlékezzél meg minden jelenlévőről is, akiknek hitét és buzgóságát ismered, akikért ezt a dicsőítő áldozatot felajánljuk, vagy akik ezt felajánlják önmagukért és övéikért, lelkük megváltásáért, üdvösségük és épségük reményében, és hódolatukat bemutatják neked, az örök, élő és igaz Istennek.</p>
+<p>A szentek közösségében tisztelettel megemlékezünk mindenekelőtt a dicsőséges, mindenkor Szűz Máriáról, Istenünk és Urunk, Jézus Krisztus édesanyjáról, valamint Szent Józsefről, a Szent Szűz jegyeséről, Péter és Pál, András, (Jakab, János, Tamás, Jakab, Fülöp, Bertalan, Máté, Simon és Tádé) apostolaidról; (Linusz, Klétusz, Kelemen, Szixtusz, Kornél, Ciprián, Lőrinc, Krizogonusz, János és Pál, Kozma és Damján) vértanúidról és minden szentedről. Az ő érdemeikért és könyörgésükre add, hogy mindenben érezzük oltalmadat. (Krisztus, a mi Urunk által. Ámen.)</p>
+<p>Kérünk, Istenünk, fogadd megengesztelődve ezt az áldozati adományt tőlünk, szolgáidtól és házad egész népétől. Irányítsd a te békédben életünk napjait, ments meg minket az örök kárhozattól, és végy fel választottaid körébe. (Krisztus, a mi Urunk által. Ámen.)</p>
+<p>Áldd meg, Istenünk, bőséges áldásoddal ezt az áldozati adományt, tedd rendelésed szerint magadhoz méltóvá és előtted kedvessé, hogy legyen ez számunkra szeretett Fiadnak, a mi Urunk, Jézus Krisztusnak teste és vére.</p>
+<p>Ő ugyanis szenvedésének előestéjén tiszteletreméltó szent kezébe vette a kenyeret, és szemét az égre emelte, tehozzád, az Istenhez, mindenható Atyjához, majd hálát adva áldást mondott, megtörte, tanítványainak adta, és így szólt:</p>
+<p class="cons">Vegyétek, és egyetek ebből mindnyájan, mert ez az én testem, mely értetek adatik.</p>
+<p>A vacsora után ugyanígy tiszteletreméltó szent kezébe vette ezt a csodálatos kelyhet, majd ismét hálát adva áldást mondott, tanítványainak adta, és így szólt:</p>
+<p class="cons">Vegyétek, és igyatok ebből mindnyájan, mert ez az én vérem kelyhe, az új és örök szövetségé. Ez a vér értetek és sokakért kiontatik a bűnök bocsánatára. Ezt cselekedjétek az én emlékezetemre.</p>
+<p>Íme, hitünk szent titka.</p>
+<p class="resp">Halálodat hirdetjük, Urunk, és hittel valljuk feltámadásodat, amíg el nem jössz.</p>
+<p>Megemlékezünk ezért, Istenünk, mi, a te szolgáid, és a te szent néped, Fiadnak, Krisztus Urunknak áldott szenvedéséről, a halálból való feltámadásáról, dicsőséges mennybemeneteléről, és ajándékaidból felajánljuk magasztos Fölségednek ezt a tiszta, szent és szeplőtelen áldozati adományt: az örök élet szent kenyerét és az örök üdvösség kelyhét.</p>
+<p>Nézd kegyes és jóságos szemmel, és fogadd el, amint elfogadtad igaz szolgádnak, Ábelnek ajándékát, ősatyánknak, Ábrahámnak áldozatát, és azt a szent és szeplőtelen áldozati adományt, amelyet főpapod, Melkizedek mutatott be neked.</p>
+<p>Könyörögve kérünk, mindenható Istenünk, szent angyalod vigye áldozatunkat mennyei oltárodra isteni Fölséged színe elé, hogy mi, akik erről az oltárról Fiad szentséges testében és vérében részesülünk, minden mennyei † áldással és kegyelemmel elteljünk. (Krisztus, a mi Urunk által. Ámen.)</p>
+<p>Emlékezzél meg, Urunk, N. és N. szolgáidról, akik a hit jelével előttünk távoztak el az élők sorából, és a béke álmát alusszák.</p>
+<p>Kérünk, Urunk, hogy nekik és minden Krisztusban elhunyt hívőnek add meg a boldogságot, a világosságot és a békét a te országodban. (Krisztus, a mi Urunk által. Ámen.)</p>
+<p>Nekünk is, bűnös szolgáidnak, akik irgalmad bőségében bizakodunk, adj kegyesen közösséget szent apostolaiddal és vértanúiddal: Jánossal, Istvánnal, Mátyással, Barnabással (Ignáccal, Sándorral, Marcellinnal, Péterrel, Felicitásszal, Perpétuával, Ágotával, Lúciával, Ágnessel, Cecíliával, Anasztáziával) és minden szenteddel; és kérünk, bár meg nem érdemeljük, irgalmadból mégis bocsáss be minket szentjeid körébe.</p>
+<p>Istenünk, te mindezeket a javakat mindenkor Krisztus, a mi Urunk által teremted, szenteled meg, élteted, áldod meg és adod nékünk.</p>
+<p>Őáltala, ővele és őbenne a tiéd, mindenható Atyaisten, a Szentlélekkel egységben minden tisztelet és dicsőség mindörökkön-örökké.</p>
+<p class="resp">Ámen.</p>
+'''
+
+[2]
+label = "II. eucharisztikus ima"
+html = '''
+<p>Valóban szent vagy, Istenünk, minden szentség forrása.</p>
+<p>Kérünk, szenteld meg ezt az adományt, áraszd le rá Szentlelkedet, hogy számunkra a mi Urunk, Jézus Krisztus teste és † vére legyen.</p>
+<p>Ő mielőtt önként átadta magát a szenvedésre, kezébe vette a kenyeret, hálát adott, megtörte, tanítványainak adta, és így szólt:</p>
+<p class="cons">Vegyétek, és egyetek ebből mindnyájan, mert ez az én testem, mely értetek adatik.</p>
+<p>A vacsora után ugyanígy kezébe vette a kelyhet is, majd ismét hálát adott, odaadta tanítványainak, és így szólt:</p>
+<p class="cons">Vegyétek, és igyatok ebből mindnyájan, mert ez az én vérem kelyhe, az új és örök szövetségé. Ez a vér értetek és sokakért kiontatik a bűnök bocsánatára. Ezt cselekedjétek az én emlékezetemre.</p>
+<p>Íme, hitünk szent titka.</p>
+<p class="resp">Halálodat hirdetjük, Urunk, és hittel valljuk feltámadásodat, amíg el nem jössz.</p>
+<p>Ezért Fiad halálának és feltámadásának emlékét ünnepelve, felajánljuk neked, Istenünk, az élet kenyerét és az üdvösség kelyhét, és hálát adunk, mert arra méltattál minket, hogy színed előtt állhatunk és szolgálhatunk neked.</p>
+<p>Kérve kérünk, gyűjtsön egybe a Szentlélek mindnyájunkat, akik Krisztus testében és vérében részesülünk.</p>
+<p>Viseld szíveden, Urunk, Egyházad sorsát az egész világon, tedd tökéletessé a szeretetben Leó pápánkkal, N. püspökünkkel és az egész papsággal együtt.</p>
+<p>Emlékezzél meg a feltámadás reményében elhunyt testvéreinkről, és mindazokról, akik irgalmadban bízva távoztak el a világból; bocsásd őket szent színed látására. Könyörülj, kérünk mindnyájunkon, hogy Isten anyjával, a Boldogságos Szűz Máriával, a szent apostolokkal és minden szenttel együtt, akik a világ kezdete óta kedvesek voltak előtted, részesei lehessünk az örök életnek, és dicsőítve magasztaljunk téged, Jézus Krisztus, a te Fiad által.</p>
+<p>Őáltala, ővele és őbenne a tiéd, mindenható Atyaisten, a Szentlélekkel egységben minden tisztelet és dicsőség mindörökkön-örökké.</p>
+<p class="resp">Ámen.</p>
+'''
+
+[3]
+label = "III. eucharisztikus ima"
+html = '''
+<p>Valóban szent vagy, Istenünk, és méltán dicsőít téged alkotásod, az egész teremtett világ, mert Fiad, a mi Urunk, Jézus Krisztus által, a Szentlélek erejével éltetsz és megszentelsz mindent, és népet gyűjtesz magad köré szüntelen, hogy napkelettől napnyugatig tiszta áldozatot mutasson be neked.</p>
+<p>Kérve kérünk tehát, Istenünk, a Szentlélek által szenteld meg áldozati adományunkat, hogy teste és † vére legyen Fiadnak, akinek rendelése szerint ezeket a szent titkokat ünnepeljük.</p>
+<p>Ő ugyanis azon az éjszakán, amelyen elárultatott, kezébe vette a kenyeret, és neked hálát adva áldást mondott, megtörte, majd tanítványainak adta, és így szólt:</p>
+<p class="cons">Vegyétek, és egyetek ebből mindnyájan, mert ez az én testem, mely értetek adatik.</p>
+<p>A vacsora után ugyanígy kezébe vette a kelyhet, és neked hálát adva áldást mondott, majd tanítványainak adta, és így szólt:</p>
+<p class="cons">Vegyétek, és igyatok ebből mindnyájan. Mert ez az én vérem kelyhe, az új és örök szövetségé. Ez a vér értetek és sokakért kiontatik a bűnök bocsánatára. Ezt cselekedjétek az én emlékezetemre.</p>
+<p>Íme, hitünk szent titka.</p>
+<p class="resp">Halálodat hirdetjük, Urunk, és hittel valljuk feltámadásodat, amíg el nem jössz.</p>
+<p>Annak emlékét ünnepeljük tehát, Istenünk, hogy Fiad üdvösségünkért szenvedett, csodálatosan feltámadt, fölment a mennybe, és második eljövetelét várva hálás szívvel felajánljuk neked ezt az élő és szent áldozatot.</p>
+<p>Tekints, kérünk, Egyházad áldozati adományára, ismerd föl benne Fiad áldozatát, amely által kiengesztelődni akartál. Add, hogy mi, akik az ő testét és vérét magunkhoz vesszük, Szentlelkével eltelve egy test és egy lélek legyünk Krisztusban.</p>
+<p>Ő tegyen minket neked szentelt örök áldozattá, hogy elnyerhessük az örökséget választottaiddal: elsősorban Isten Anyjával, a Boldogságos Szűz Máriával, szent apostolaiddal, a dicsőséges vértanúkkal és minden szenttel együtt. Az ő közbenjárásukban bízva reméljük, hogy mindenkor megsegítesz minket.</p>
+<p>Kérünk, Istenünk, hogy engesztelő áldozatunk hozzon az egész világnak békét és üdvösséget. Erősítsd meg hitben és szeretetben földi zarándokútját járó Egyházadat: szolgádat, Leó pápánkat és N. püspökünket, a püspökök testületét, a papságot és egész megváltott népedet.</p>
+<p>Teljesítsd kegyesen házad népe kéréseit, hiszen te akartad, hogy színed elé álljunk. Jóságos Atyánk, vond magadhoz irgalmasan a világon szétszóródott valamennyi gyermekedet.</p>
+<p>Elhunyt testvéreinket pedig és mindazokat, akik a te kegyelmedben költöztek el ebből a világból, fogadd be jóságosan országodba, ahol, reményünk szerint, dicsőségedben velük együtt mi is örökre gazdagon részesülünk Krisztus, a mi Urunk által, mert általa árasztod el minden jóval a világot.</p>
+<p>Őáltala, ővele és őbenne a tiéd, mindenható Atyaisten, a Szentlélekkel egységben minden tisztelet és dicsőség mindörökkön-örökké.</p>
+<p class="resp">Ámen.</p>
+'''
+
+[4]
+label = "IV. eucharisztikus ima"
+html = '''
+<p class="rub">A IV. eucharisztikus imát csak a saját prefációjával lehet mondani (a prefációk között választható).</p>
+<p>Magasztalunk téged, Szentséges Atyánk, mert hatalmas vagy; minden művedet bölcsességgel és szeretettel alkottad. A magad képmására teremtetted az embert, és gondjára bíztad az egész világot, hogy csak neked, a Teremtőnek szolgálva uralkodjék minden teremtményen. Amikor pedig engedetlenségével barátságodat elveszítette, nem hagytad őt a halál hatalmában. Mindenkinek irgalmasan segítségére siettél, hogy aki téged keres, rád találjon. Újra meg újra szövetséget is ajánlottál az embereknek, és tanítottad őket a próféták által, hogy várják az üdvösséget.</p>
+<p>Úgy szeretted a világot, Szentséges Atyánk, hogy amikor elérkezett az idők teljessége, Üdvözítőt küldtél nekünk: egyszülött Fiadat. Megtestesült a Szentlélek erejéből, született Szűz Máriától, és közöttünk élt: mindenben hasonlóvá lett hozzánk, a bűnt kivéve. Örömhírt hozott: üdvösséget a szegényeknek, szabadulást a foglyoknak, vigasztalást a szomorkodóknak. Hogy pedig üdvözítő akaratodat teljesítse, halálra adta önmagát, majd feltámadásával legyőzte a halált, és újjáteremtette az életet. És hogy ezután már ne önmagunknak éljünk, hanem annak, aki értünk meghalt és feltámadt, elküldte tőled, Atyánk, a híveknek első ajándékul a Szentlelket, hogy befejezze Krisztus művét a világban, és mindent megszenteljen.</p>
+<p>Kérünk tehát, Istenünk, szentelje meg a Szentlélek ezt az adományt, hogy a mi Urunk, Jézus Krisztus teste és † vére legyen, és ünnepelhessük azt a nagy titkot, amelyet ő hagyott ránk örök szövetségül.</p>
+<p>Amikor ugyanis eljött az óra, hogy te, Szentséges Atyánk, megdicsőítsd Fiadat, mert szerette övéit, akik a világban voltak, mindvégig szerette őket, a vacsora közben kezébe vette a kenyeret, áldást mondott, megtörte, majd tanítványainak adta, és így szólt:</p>
+<p class="cons">Vegyétek, és egyetek ebből mindnyájan, mert ez az én testem, mely értetek adatik.</p>
+<p>Ugyanígy kezébe vette a szőlőtő borával telt kelyhet, majd hálát adva, odaadta tanítványainak, és így szólt:</p>
+<p class="cons">Vegyétek, és igyatok ebből mindnyájan, mert ez az én vérem kelyhe, az új és örök szövetségé. Ez a vér értetek és sokakért kiontatik a bűnök bocsánatára. Ezt cselekedjétek az én emlékezetemre.</p>
+<p>Íme, hitünk szent titka.</p>
+<p class="resp">Halálodat hirdetjük, Urunk, és hittel valljuk feltámadásodat, amíg el nem jössz.</p>
+<p>Mi is megünnepeljük, Istenünk, megváltásunk emlékét: tisztelettel megemlékezünk arról, hogy Krisztus meghalt, alászállt a holtak országába, és hittel valljuk, hogy feltámadt, fölment jobbodra a mennybe, és dicsőséges eljövetelét várva felajánljuk neked testét és vérét, amely előtted kedves áldozat, és az egész világ üdvösségére szolgál.</p>
+<p>Tekints, Istenünk, erre az áldozatra, melyet te magad készítettél Egyházadnak. Add meg jóságosan mindazoknak, akik ebből az egy kenyérből és egy kehelyből részesülnek, hogy a Szentlélek által egy testbe összegyűjtve, Fölséged dicséretére Krisztusban élő áldozattá váljanak.</p>
+<p>Most pedig, Istenünk, emlékezzél meg mindazokról, akikért ezt az áldozatot bemutatjuk neked: elsősorban szolgádról, Leó pápánkról, N. püspökünkről, a püspökök testületéről, a papságról, azokról, akik ezt az áldozatot felajánlják, akik itt jelen vannak, egész népedről és mindazokról, akik őszinte szívvel keresnek téged.</p>
+<p>Emlékezzél meg azokról is, akik Krisztus békéjében hunytak el, és minden megholtról, akinek hitét egyedül te ismered. Jóságos Atyánk, add meg mindnyájunknak, akik gyermekeid vagyunk, hogy Isten Anyjával, a Boldogságos Szűz Máriával, apostolaiddal és szentjeiddel elnyerjük a mennyei örökséget országodban, és ott az egész teremtett világgal együtt, amely megszabadult a bűn és a halál romlandóságából, dicsőítve magasztaljunk téged Krisztus Urunk által, mert általa árasztod el minden jóval a világot.</p>
+<p>Őáltala, ővele és őbenne a tiéd, mindenható Atyaisten, a Szentlélekkel egységben minden tisztelet és dicsőség mindörökkön-örökké.</p>
+<p class="resp">Ámen.</p>
+'''
+

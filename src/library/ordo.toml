@@ -1,0 +1,83 @@
+# Fixed parts of the Order of Mass (new Hungarian missal wording), as HTML fragments.
+# Taken from the 2026-10-20 page. Gloria and Creed are still missing (needed on Sundays/feasts).
+
+greeting = '''
+<h3>Köszöntés</h3>
+<p>Az Atya, a Fiú és a Szentlélek nevében.</p>
+<p class="resp">Ámen.</p>
+<p>A mi Urunk, Jézus Krisztus kegyelme, az Atyaisten szeretete és a Szentlélek egyesítő ereje legyen mindnyájatokkal.</p>
+<p class="resp">És a te lelkeddel.</p>
+'''
+
+penitential = '''
+<h3>Bűnbánati cselekmény</h3>
+<p>Testvéreim! Vizsgáljuk meg lelkiismeretünket, és bánjuk meg bűneinket, hogy méltóképpen ünnepelhessük az Úr szent titkait!</p>
+<p class="resp">Gyónom a mindenható Istennek és nektek, testvéreim, hogy sokszor és sokat vétkeztem, gondolattal, szóval, cselekedettel és mulasztással: én vétkem, én vétkem, én igen nagy vétkem. Kérem ezért a Boldogságos, mindenkor Szűz Máriát, az összes angyalokat és szenteket, és titeket, testvéreim, hogy imádkozzatok érettem Urunkhoz, Istenünkhöz.</p>
+<p>Irgalmazzon nekünk a mindenható Isten, bocsássa meg bűneinket, és vezessen el az örök életre.</p>
+<p class="resp">Ámen.</p>
+'''
+
+kyrie = '''
+<h3>Kyrie</h3>
+<p>Uram, irgalmazz!</p>
+<p class="resp">Uram, irgalmazz!</p>
+<p>Krisztus, kegyelmezz!</p>
+<p class="resp">Krisztus, kegyelmezz!</p>
+<p>Uram, irgalmazz!</p>
+<p class="resp">Uram, irgalmazz!</p>
+'''
+
+gifts = '''
+<h3>Előkészület az adományokkal</h3>
+<p>Áldott vagy, Urunk, mindenség Istene, mert a te bőkezűségedből kaptuk a kenyeret. Felajánljuk neked, mint a föld termését és az emberi munka gyümölcsét. Ebből lesz számunkra az élet kenyere.</p>
+<p class="resp">Áldott legyen az Isten mindörökké.</p>
+<p>Áldott vagy, Urunk, mindenség Istene, mert a te bőkezűségedből kaptuk a bort. Felajánljuk neked, mint a szőlőtő termését és az emberi munka gyümölcsét. Ebből lesz számunkra a lélek itala.</p>
+<p class="resp">Áldott legyen az Isten mindörökké.</p>
+<p>Imádkozzatok, testvéreim, hogy az én áldozatom és a tiétek kedves legyen a mindenható Atyaisten előtt!</p>
+<p class="resp">Fogadja el az Úr kezedből az áldozatot nevének dicséretére és dicsőségére, mindannyiunk és az egész Anyaszentegyház javára.</p>
+'''
+
+preface_dialogue = '''
+<p>Az Úr legyen veletek!</p>
+<p class="resp">És a te lelkeddel!</p>
+<p>Emeljük föl szívünket!</p>
+<p class="resp">Fölemeltük az Úrhoz!</p>
+<p>Adjunk hálát Urunknak, Istenünknek!</p>
+<p class="resp">Méltó és igazságos!</p>
+'''
+
+sanctus = '''
+<h3>Sanctus</h3>
+<p class="resp">Szent vagy, szent vagy, szent vagy, mindenség Ura, Istene. Dicsőséged betölti a mennyet és a földet. Hozsanna a magasságban. Áldott, aki jön az Úr nevében. Hozsanna a magasságban.</p>
+'''
+
+communion_rite = '''
+<h3>Miatyánk</h3>
+<p>Üdvözítőnk parancsára és isteni tanítása szerint így imádkozunk:</p>
+<p class="resp">Mi Atyánk, aki a mennyekben vagy, szenteltessék meg a te neved; jöjjön el a te országod; legyen meg a te akaratod, amint a mennyben, úgy a földön is. Mindennapi kenyerünket add meg nekünk ma; és bocsásd meg vétkeinket, miképpen mi is megbocsátunk az ellenünk vétkezőknek; és ne vigy minket kísértésbe; de szabadíts meg a gonosztól.</p>
+<p>Szabadíts meg, kérünk, Urunk, minden gonosztól; adj kegyesen békét napjainkban, hogy irgalmadból mindenkor bűn és baj nélkül éljünk, míg reménykedve várjuk az örök boldogságot és Üdvözítőnknek, Jézus Krisztusnak dicsőséges eljöttét.</p>
+<p class="resp">Mert tiéd az ország, a hatalom és a dicsőség mindörökkön-örökké. Ámen.</p>
+<h3>Békeima</h3>
+<p>Urunk, Jézus Krisztus, te azt mondottad apostolaidnak: „Békességet hagyok rátok, az én békémet adom nektek.” Ne vétkeinket nézzed, hanem Egyházad hitét, őrizd meg szándékod szerint békében, és add meg teljes egységét. Aki élsz és uralkodol mindörökkön-örökké.</p>
+<p class="resp">Ámen.</p>
+<p>Az Úr békéje legyen veletek mindenkor.</p>
+<p class="resp">És a te lelkeddel.</p>
+<p>Engesztelődjetek ki szívből egymással!</p>
+<h3>Agnus Dei</h3>
+<p class="resp">Isten Báránya, te elveszed a világ bűneit: irgalmazz nekünk.<br>Isten Báránya, te elveszed a világ bűneit: irgalmazz nekünk.<br>Isten Báránya, te elveszed a világ bűneit: adj nekünk békét.</p>
+<h3>Áldozás</h3>
+<p>Íme, az Isten Báránya, íme, aki elveszi a világ bűneit. Boldogok, akik meghívást kaptak a Bárány lakomájára.</p>
+<p class="resp">Uram, nem vagyok méltó, hogy hajlékomba jöjj,<br>hanem csak egy szóval mondd, és meggyógyul az én lelkem.</p>
+<p>Krisztus teste.</p>
+<p class="resp">Ámen.</p>
+'''
+
+concluding = '''
+<p>Az Úr legyen veletek.</p>
+<p class="resp">És a te lelkeddel.</p>
+<p>Áldjon meg benneteket a mindenható Isten, az Atya, a Fiú és a Szentlélek.</p>
+<p class="resp">Ámen.</p>
+<p>A szentmise véget ért, menjetek békével.</p>
+<p class="resp">Istennek legyen hála.</p>
+'''
+
