@@ -1,19 +1,25 @@
 # Mass texts workflow (decided 2026-10-14, updated 2026-10-20)
 
-> **This repo (vsalmendra/misekonvy):** currently holds only the built PWA output at the repo root
-> (`index.html`, `manifest.webmanifest`, `sw.js`, icons), uploaded by hand. The generator, content
-> files, fonts and scans described below live in the planned `napi-szentmise` repo and are not here yet.
+## Repo layout (vsalmendra/misekonvy)
 
-- **MOVING TO CLAUDE CODE (2026-10-20):** user wants Claude Code to update GitHub directly. A complete repo was delivered as `napi-szentmise-repo.zip` (git repo, branch `main`, 1 commit):
-  - `generator/` (`common.py`, `page.py`, `build_pwa.py`, `build.py` = one command `python3 generator/build.py content/<file>.py` → `docs/`)
+The repo is **github.com/vsalmendra/misekonvy** — the single home for this work; it will hold more
+content over time. This CLAUDE.md is the source of truth. Claude Code commits and pushes here directly.
+
+- `app/` — the installable web app (PWA): `index.html`, `manifest.webmanifest`, `sw.js`, icons.
+  **Only this folder is published.** All paths inside it are relative (`./`), so it works from any URL.
+- `.github/workflows/pages.yml` — deploys `app/` to GitHub Pages on every push to `main` that touches
+  `app/` (also runnable by hand). Repo setting required: Settings → Pages → Source = **GitHub Actions**.
+  Site URL: https://vsalmendra.github.io/misekonvy/ (the contents of `app/` are the site root).
+- Everything else at top level (this file, `README.md`, future `generator/`, `content/`, `assets/`,
+  `scans/`) is never published.
+
+- **MOVING TO CLAUDE CODE (2026-10-20):** user wants Claude Code to update GitHub directly. The generator and sources were delivered as a zip (branch `main`, 1 commit) and are still to be imported into this repo:
+  - `generator/` (`common.py`, `page.py`, `build_pwa.py`, `build.py` = one command `python3 generator/build.py content/<file>.py` → `app/`; the zip version wrote to `docs/`, change its output dir to `app/` when importing)
   - `content/` (`2026-10-18-evkozi29.py`, `2026-10-20-angyalok.py`)
-  - `assets/fonts` (self-hosted woff2 + fontsource CSS + OFL)
-  - `docs/` (GitHub Pages root, `.nojekyll`)
+  - `assets/fonts` (self-hosted woff2 + fontsource CSS + OFL); the font files the page loads must be copied into `app/`
   - `scans/`
-  - `CLAUDE.md` (full workflow + rules)
+  - its `CLAUDE.md` (full workflow + rules) — merge into this file
   - `.claude/commands/napi-mise.md` (`/napi-mise <date>`)
-
-  Target repo: github.com/vsalmendra/napi-szentmise, Pages from `main` `/docs`. Once the user works in Claude Code, that repo's CLAUDE.md is the source of truth; this project doc is the history.
 
 - **Output format so far:** mobile web page, ONE FIXED ARTIFACT updated every day: https://claude.ai/artifact/VLf13N3XA4WML4kZ8L9xDr — title "Napi szentmise", shared "Anyone with the link".
   - History: v1–2 Avilai Szent Teréz 10-15 (EP III); v3 Szent Hedvig 10-16 (EP II); v4 Évközi 29. vasárnap 10-18 (dropdowns); v5 Votív mise a szent angyalokról 10-20 (EP I default, all 4 EPs); v6 + Latin–Hungarian section; v7 light/dark toggle; v8 hidden top bar + floating ☰ button; v9 theme toggle moved into toolbar (☾/☀); v10 ↻ refresh button in toolbar.
