@@ -1,0 +1,97 @@
+# Lelkipásztorok miséi (Commune pastorum). Only formula 1 so far.
+# Hungarian: Római Misekönyv 1991 (PPEK 335), pp. 672-673. Not yet checked against the new missal.
+# Latin: Missale Romanum cum lectionibus 1977, vol. IV, Commune pastorum 1, pp. 865-866 (archive.org;
+# OCR corrected by hand, no accents, "Per Dominum." expanded; the N. lost by the OCR in the
+# postcommunion restored). collect = for popes, collect_b = for bishops ("Vagy:").
+
+# 1. Pápák vagy püspökök miséje
+[papak-puspokok-1]
+entrance_cite = ""
+entrance = '''
+Kiválasztotta és főpapjává szentelte őt az Úr;
+megnyitotta kincstárát és elhalmozta őt kegyelmeivel.
+'''
+entrance_la = '''
+Elegit eum Dominus sibi
+in sacerdotem magnum,
+et aperiens thesaurum suum
+abundare eum fecit omnibus bonis.
+'''
+collect = '''
+Mindenható, örök Isten, te úgy rendelted,
+hogy Szent N. pápa, mint legfőbb pásztor vezesse híveidet,
+és mindnyájunk lelki javát szolgálja szavával és példájával.
+Közbenjárására oltalmazd Egyházadban a lelkipásztorokat
+és a gondjukra bízott nyájat,
+s vezesd őket az örök üdvösség útjára.
+A mi Urunk, Jézus Krisztus, a te Fiad által,
+aki veled él és uralkodik a Szentlélekkel egységben,
+Isten mindörökkön-örökké.
+'''
+collect_la = '''
+Omnipotens sempiterne Deus,
+qui beatum N. cuncto populo tuo praeesse,
+ac verbo et exemplo prodesse voluisti,
+eodem intercedente,
+pastores Ecclesiae tuae
+cum gregibus sibi commissis custodi
+et dirige in viam salutis aeternae.
+Per Dominum nostrum Iesum Christum, Filium tuum,
+qui tecum vivit et regnat in unitate Spiritus Sancti,
+Deus, per omnia saecula saeculorum.
+'''
+collect_b = '''
+Gondviselő Istenünk, te Szent N.-ben
+példás életű pásztort adtál Egyházadnak.
+Könyörögve kérünk,
+hogy közbenjárására a mennyei hazában örök otthonra leljünk.
+A mi Urunk, Jézus Krisztus, a te Fiad által,
+aki veled él és uralkodik a Szentlélekkel egységben,
+Isten mindörökkön-örökké.
+'''
+collect_b_la = '''
+Deus, qui Ecclesiae tuae in beato N.
+boni pastoris exemplum providere dignatus es,
+concede propitius,
+ut, eius intercessione,
+in loco pascuae tuae perpetuo collocari mereamur.
+Per Dominum nostrum Iesum Christum, Filium tuum,
+qui tecum vivit et regnat in unitate Spiritus Sancti,
+Deus, per omnia saecula saeculorum.
+'''
+offertory = '''
+Felajánljuk neked, Istenünk, ezt a dicsőítő áldozatot
+szentjeid emlékezetére.
+Közbenjárásukban bizakodva remélünk
+a jelen és a jövő bajoktól szabadulást.
+Krisztus, a mi Urunk által.
+'''
+offertory_la = '''
+Laudis tibi, Domine, hostias offerimus
+in tuorum commemoratione Sanctorum,
+quibus nos et praesentibus exui malis confidimus,
+et futuris.
+Per Christum Dominum nostrum.
+'''
+communion_cite = "Vö. Jn 10,11"
+communion = '''
+A jó pásztor életét adta juhaiért.
+'''
+communion_la = '''
+Pastor bonus animam suam posuit pro ovibus suis.
+'''
+postcommunion = '''
+Urunk, Istenünk,
+add, hogy az áldozat, amelyben részesültünk,
+szítsa fel bennünk az odaadó szeretet lángját,
+amely Szent N.-t képessé tette arra,
+hogy egész életét az Egyház szolgálatára szentelje.
+Krisztus, a mi Urunk által.
+'''
+postcommunion_la = '''
+Sacramenta quae sumpsimus, Domine Deus noster,
+in nobis foveant caritatis ardorem,
+quo beatus N. vehementer accensus
+pro Ecclesia tua se iugiter impendebat.
+Per Christum Dominum nostrum.
+'''

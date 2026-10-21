@@ -107,3 +107,23 @@ Mert szentjeidnek példás élete által az Anyaszentegyházat újra meg újra c
 
 Ezért, Urunk, az angyalokkal és a szentekkel együtt magasztalunk téged, és ujjongva mondjuk:
 '''
+
+[lelkipasztorok]
+label = "Prefáció a lelkipásztorokról"
+source = "Római Misekönyv 1991 (PPEK 335), 67. prefáció, 398. o. – az új misekönyvvel még nem egyeztetve"
+la_label = "Praefatio de sanctis Pastoribus"
+la = '''
+Vere dignum et iustum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine, sancte Pater, omnípotens ætérne Deus: per Christum Dóminum nostrum.
+
+Quia sic tríbuis Ecclésiam tuam sancti N. festivitáte gaudére, ut eam exémplo piæ conversatiónis corróbores, verbo prædicatiónis erúdias, gratáque tibi supplicatióne tueáris.
+
+Et ídeo, cum Angelórum atque Sanctórum turba, hymnum laudis tibi cánimus, sine fine dicéntes:
+'''
+sub = "A szent lelkipásztorok tevékenysége az Egyházban"
+text = '''
+Valóban méltó és igazságos, illő és üdvös, hogy mindig és mindenütt hálát adjunk néked, mi Urunk, szentséges Atyánk, mindenható, örök Isten: Krisztus, a mi Urunk által.
+
+Mert megadod Egyházadnak, hogy örvendezzék Szent N. ünnepén, és erősödjék buzgóságának példája láttán; igehirdetésével oktatod, és előtted kedves közbenjárására óvod és véded népedet.
+
+Mi ezért az angyalok és szentek kórusával együtt dicséreted himnuszát zengjük, és vég nélkül mondjuk:
+'''

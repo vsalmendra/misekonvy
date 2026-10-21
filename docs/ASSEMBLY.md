@@ -29,7 +29,8 @@ gloria = false                         # Sundays, solemnities, feasts: true
 creed = false                          # Sundays, solemnities: true
 eucharistic_prayer = 3                 # default in the dropdown (1-4)
 prefaces = ["szentek-1", "szentek-2"]  # suggested, first is the default; ep2 and ep4 are always added after them
-names = [["Szent N.-t", "Boldog Károlyt"], ["Szent N.", "Boldog Károly"]]  # only when a common text has "N."
+names = [["Szent N.-t", "Boldog Károlyt"], ["Szent N.", "Boldog Károly"]]  # "N." in Hungarian texts (commons, prefaces); longest first
+la_names = [["beatum N.", "beatum Ioannem Paulum"], ["sancti N.", "sancti Ioánnis Pauli"]]  # the same in Latin, by case
 mass_type = "Szentek általános miséje (1) · saját könyörgéssel"  # shown under the title: which Mass is used
 
 entrance = "@szentek-altalanos/1"      # reference: common file / formula (key = the slot name)
@@ -102,11 +103,17 @@ still missing; the page shows "(A latin szöveg még nincs feltöltve.)" in thei
 - **Antiphons (entrance, alleluia, communion): no alternatives** — take the first one given,
   unless the user says otherwise.
 - Prayers with alternatives in the book ("Vagy:"): include all of them as buttons, first selected.
-- **Collect with a proper: two options** — "Saját" (the proper, first) and "Közös" (the common's
+- **Collect: the common's only** (user's decision 2026-10-21, applied again 2026-10-22), even when
+  the saint has an own collect — record the proper in the day's recipe. (Earlier rule, now
+  superseded:) — "Saját" (the proper, first) and "Közös" (the common's
   collect), for celebration missals that do not yet have the proper.
 - Prefaces: the saints' prefaces (I, II), or a proper one (martyrs, pastors, virgins…) if suggested.
 - Replace "N." with the name in the case the sentence needs ("Szent N.-t" → "Boldog Károlyt").
 - Drop "(H. i. alleluja)" outside Eastertime.
+
+**Commons available** (`src/library/commons/`): `szentek-altalanos` (Szentek általános miséi 1-6;
+Latin only for 1), `lelkipasztorok` (`papak-puspokok-1`: collect for popes, `collect_b` for
+bishops). Pastors (popes, bishops, priests) → Lelkipásztorok miséi, preface `lelkipasztorok`.
 
 **Votive masses** — propers from the votive formula of the missal; readings ferial.
 

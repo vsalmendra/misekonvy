@@ -110,7 +110,7 @@ def resolve(opt, slot, names):
         extra = {k: v for k, v in opt.items() if k != 'ref'}
         opt = opt['ref']
     if isinstance(opt, str) and opt.startswith('@'):
-        m = re.fullmatch(r'@([\w-]+)/(\w+)(?::(\w+))?', opt)
+        m = re.fullmatch(r'@([\w-]+)/([\w-]+)(?::(\w+))?', opt)
         if not m:
             raise BuildError(f'bad reference {opt!r}')
         common, formula, key = m.group(1), m.group(2), m.group(3) or slot
@@ -122,11 +122,19 @@ def resolve(opt, slot, names):
     elif isinstance(opt, str):
         opt = {'text': opt}
     opt = {**opt, **extra}
-    for a, b in names:
-        opt['text'] = opt['text'].replace(a, b)
-    if re.search(r'\bN\.', opt['text']):
-        raise BuildError(f'{slot}: unreplaced "N." in {opt["text"][:60]!r} - add it to [names]')
+    opt['text'] = subst(opt['text'], names[0], slot, 'names')
+    if opt.get('la'):
+        opt['la'] = subst(opt['la'], names[1], slot, 'la_names')
     return opt
+
+
+def subst(text, pairs, where, key):
+    """Put the saint's name in place of "N." (mass file: names = Hungarian, la_names = Latin pairs)."""
+    for a, b in pairs:
+        text = text.replace(a, b)
+    if re.search(r'\bN\.', text):
+        raise BuildError(f'{where}: unreplaced "N." in {text[:70]!r} - add it to {key}')
+    return text
 
 
 def opts_of(value, slot, names):
@@ -261,15 +269,16 @@ def variants(group, items, default):
     return f'<div class="variants" data-group="{group}" data-default="{default}">\n{var}\n</div>'
 
 
-def preface_body(k):
+def preface_body(k, names):
     pr = PREFACES[k]
-    return (p(esc(pr['sub']), 'sub') + '\n' if pr.get('sub') else '') + paras(pr['text'])
+    return (p(esc(pr['sub']), 'sub') + '\n' if pr.get('sub') else '') + paras(subst(pr['text'], names[0], k, 'names'))
 
 
-def bi_preface(k):
+def bi_preface(k, names):
     pr = PREFACES[k]
+    la = subst(pr['la'], names[1], k, 'la_names') if pr.get('la') else ''
     return (bi_h3(esc(pr.get('la_label', '')), esc(pr['label'])) + ORDO_LA['preface_dialogue'] +
-            bi_paras(pr.get('la'), pr['text']))
+            bi_paras(la, subst(pr['text'], names[0], k, 'names')))
 
 
 def bi_ep(k):
@@ -292,7 +301,7 @@ def build_mass(path):
     d = Date.fromisoformat(m['date'])
     if path.stem != m['date']:
         raise BuildError(f'{path.name}: file name must be the date ({m["date"]})')
-    names = m.get('names', [])
+    names = (m.get('names', []), m.get('la_names', []))
     ep = str(m.get('eucharistic_prayer', 2))
     prefs = m.get('prefaces', [])
     if not prefs:
@@ -332,7 +341,7 @@ def build_mass(path):
     h.append(ORDO['gifts'])
     h.append('<h3>Felajánló könyörgés</h3>' + options(o['offertory'], prayer(False)))
     h.append('<h3>Prefáció</h3>' + ORDO['preface_dialogue'])
-    h.append(chooser('pref', 'Prefáció', [(k, PREFACES[k]['label'], preface_body(k)) for k in pref_keys], pref_keys[0]))
+    h.append(chooser('pref', 'Prefáció', [(k, PREFACES[k]['label'], preface_body(k, names)) for k in pref_keys], pref_keys[0]))
     h.append(ORDO['sanctus'])
     h.append('<h3>Eucharisztikus ima</h3>')
     h.append(chooser('ep', 'Eucharisztikus ima', [(k, v['label'], v['html']) for k, v in EPS.items()], ep))
@@ -364,7 +373,7 @@ def build_mass(path):
     g.append(bi_h2('Liturgia eucharistica · Az Eucharisztia liturgiája'))
     g.append(ORDO_LA['gifts'])
     g.append(bi_prayer('Super oblata', 'Felajánló könyörgés', o['offertory'], False))
-    g.append(variants('pref', [(k, bi_preface(k)) for k in pref_keys], pref_keys[0]))
+    g.append(variants('pref', [(k, bi_preface(k, names)) for k in pref_keys], pref_keys[0]))
     g.append(ORDO_LA['sanctus'])
     g.append(variants('ep', [(k, bi_ep(k)) for k in EPS], ep))
     g.append(bi_h2('Ritus communionis · A szentáldozás szertartása'))

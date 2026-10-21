@@ -1,0 +1,127 @@
+# Recipe: src/masses/2026-10-22.md
+date = "2026-10-22"
+title = "Szent II. János Pál pápa"
+day = "29. évközi hét csütörtöke · választható emléknap"
+rank = "fehér színben"
+gloria = false
+creed = false
+eucharistic_prayer = 3
+prefaces = ["lelkipasztorok", "szentek-1", "szentek-2"]
+mass_type = "Lelkipásztorok közös miséje: pápák (1)"
+names = [["Szent N. pápa", "Szent II. János Pál pápa"], ["Szent N.-t", "Szent II. János Pált"], ["Szent N.", "Szent II. János Pál"]]
+la_names = [["beatum N.", "beatum Ioannem Paulum"], ["beatus N.", "beatus Ioannes Paulus"], ["sancti N.", "sancti Ioánnis Pauli"]]
+
+# Common: Lelkipásztorok miséi, 1. pápák vagy püspökök miséje; the collect for popes.
+entrance = "@lelkipasztorok/papak-puspokok-1"
+collect = "@lelkipasztorok/papak-puspokok-1"
+offertory = "@lelkipasztorok/papak-puspokok-1"
+communion = "@lelkipasztorok/papak-puspokok-1"
+postcommunion = "@lelkipasztorok/papak-puspokok-1"
+
+[reading1]
+label = "Szentlecke"
+sub = "Szent Pál apostolnak az efezusiakhoz írt leveléből"
+summary = "Életünk alapja legyen a szeretet; hogy így Krisztusban megkapjuk a megváltás kegyelmének kincseit."
+cite = "Ef 3,14-21"
+la_sub = "Lectio Epistolae beati Pauli apostoli ad Ephesios"
+text = '''
+Testvéreim!
+
+Meghajtom térdemet az Atya előtt: tőle származik ugyanis minden közösség az égben és a földön. Adja meg nektek dicsőségének gazdagsága szerint, hogy Lelke által megerősödjetek benső emberré, hogy a hittel Krisztus lakjék szívetekben, s gyökeret verjetek és alapot vessetek a szeretetben. Akkor majd fel tudjátok fogni az összes szenttel együtt, mi a szélesség és a hosszúság, a magasság és a mélység; megismeritek Krisztusnak minden értelmet meghaladó szeretetét, és beteltek az Isten egész teljességével.
+
+A végtelenül hatalmas Istennek pedig, aki hatalmával bennünk működik, és mindent megtehet azon felül is, amit kérünk vagy megértünk, legyen dicsőség az Egyházban és Jézus Krisztusban minden nemzedéken át mindörökké. Ámen.
+'''
+la = '''
+Fratres:
+
+Flecto genua mea ad Patrem, ex quo omnis paternitas in caelis et in terra nominatur, ut det vobis secundum divitias gloriae suae virtute corroborari per Spiritum eius in interiorem hominem, habitare Christum per fidem in cordibus vestris, in caritate radicati et fundati, ut valeatis comprehendere cum omnibus sanctis quae sit latitudo et longitudo et sublimitas et profundum, scire etiam supereminentem scientiae caritatem Christi, ut impleamini in omnem plenitudinem Dei.
+
+Ei autem qui potens est supra omnia facere superabundanter quam petimus aut intellegimus secundum virtutem quae operatur in nobis, ipsi gloria in Ecclesia et in Christo Iesu in omnes generationes saeculi saeculorum: amen.
+'''
+
+[psalm]
+cite = "Zsolt 32,1-2.4-5.11-12.18-19"
+response = "Kegyes az Isten hozzánk: jóságával eltölt mindent."
+la_response = "Misericordia Domini plena est terra."
+verses = [
+'''
+Örvendezzetek, igazak, az Úrban,
+a szentekhez dicséret illik.
+Dicsérjétek az Urat citerával,
+tízhúrú hárfán zengjetek néki.
+''', '''
+Sziklaszilárd az Úr Igéje,
+minden tettét hűség vezeti.
+Az igazlelkűséget és a törvényt szereti,
+telve van a föld az Úr irgalmával.
+''', '''
+Az Úr szándéka megmarad örökre,
+szívének gondolata nemzedékről nemzedékre.
+Boldog az a nemzet, amelynek az Úr az Istene,
+a nép, amelyet örökségül választott magának.
+''', '''
+Az istenfélőkre ügyel az Úr szeme,
+akik bíznak az ő irgalmában.
+Megmenti lelküket a haláltól,
+és táplálja őket éhínség idején.
+''']
+la_verses = [
+'''
+Exsultate, iusti, in Domino;
+rectos decet collaudatio.
+Confitemini Domino in cithara,
+in psalterio decem chordarum psallite illi.
+''', '''
+Quia rectum est verbum Domini,
+et omnia opera eius in fide.
+Diligit iustitiam et iudicium,
+misericordia Domini plena est terra.
+''', '''
+Consilium autem Domini in aeternum manet,
+cogitationes cordis eius in generatione et generationem.
+Beata gens, cui Dominus est Deus,
+populus, quem elegit in hereditatem sibi.
+''', '''
+Ecce oculi Domini super metuentes eum,
+in eos qui sperant super misericordia eius,
+ut eruat a morte animas eorum,
+et alat eos in fame.
+''']
+
+[alleluia]
+cite = "Fil 3,8-9"
+text = "Mindent elvetettem, sőt szemétnek tekintek, csakhogy Krisztust elnyerjem, és őhozzá tartozzam."
+la = "Omnia detrimentum feci, et arbitror ut stercora, ut Christum lucrifaciam et inveniar in illo."
+
+[gospel]
+book = "Szent Lukács"
+la_book = "Lucam"
+summary = "Krisztus evangéliumának sokan ellene mondanak. Innen támad a sok szakadás és békétlenség a világon."
+cite = "Lk 12,49-53"
+text = '''
+Abban az időben Jézus így szólt tanítványaihoz:
+
+„Azért jöttem, hogy tüzet gyújtsak a földön. Mi mást akarnék, mint hogy lángra lobbanjon. Keresztséggel kell megkereszteltetnem. Mennyire várom, hogy ez beteljesedjék!
+
+Azt gondoljátok, azért jöttem, hogy békét hozzak a földre? Mondom nektek, nem azt, hanem szakadást. Ezentúl, ha öten lesznek egy házban, megoszlanak egymás között: három kettő ellen, és kettő három ellen. Szembekerül apa a fiával és fiú az apjával, anya a lányával és lány az anyjával, anyós a menyével és meny az anyósával.”
+'''
+la = '''
+In illo tempore: Dixit Iesus discipulis suis:
+
+«Ignem veni mittere in terram, et quid volo? Si iam accensus esset! Baptisma autem habeo baptizari, et quomodo coartor usque dum perficiatur!
+
+Putatis quia pacem veni dare in terram? Non, dico vobis, sed separationem. Erunt enim ex hoc quinque in domo una divisi tres in duos et duo in tres, dividentur pater in filium et filius in patrem, mater in filiam et filia in matrem, socrus in nurum suam et nurus in socrum».
+'''
+
+[faithful]
+intro = "Kérjük, testvéreim, bízó lélekkel az Atyaisten irgalmát magunknak, valamint távol lévő és gondokkal küzdő testvéreinknek!"
+response = "Kérünk téged, hallgass meg minket!"
+petitions = [
+  "Hogy a keresztényeket megerősítse hitük állhatatosságában és egységében, kérjük Urunkat!",
+  "Hogy minden népnek megadja a szeretetben és az igazságban gyökerező békét és igaz egyetértést, kérjük Urunkat!",
+  "Hogy ébresszen papi és szerzetesi hivatásokat a lelkekben, és küldjön sok munkást szőlőjébe, kérjük Urunkat!",
+  "Hogy ifjúságunk megőrizze a tisztaság erényét, a családok pedig békében és egyetértésben éljenek, kérjük Urunkat!",
+  "Hogy mindnyájunkat, akik ebben a közös áldozatbemutatásban részt veszünk, és távol lévő testvéreinket is elvezessen országába, kérjük Urunkat!",
+  { note = "Ha a szentmisét elhunytért mutatják be:", text = "Hogy elhunyt N. testvérünket (nővérünket) viszontláthassuk a boldog feltámadás dicsőségében, kérjük Urunkat!" },
+]
+conclusion = "Urunk, tekints megengesztelődve hozzád könyörgő népedre, amely nélküled nem maradhat meg, és ezért irgalmadban bizakodik! Állj mellette bőkezű jóságoddal, és úgy engedd boldogulni itt a földön, hogy elnyerje az örök életet. Krisztus, a mi Urunk által."
