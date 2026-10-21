@@ -103,10 +103,11 @@ still missing; the page shows "(A latin szöveg még nincs feltöltve.)" in thei
 - **Antiphons (entrance, alleluia, communion): no alternatives** — take the first one given,
   unless the user says otherwise.
 - Prayers with alternatives in the book ("Vagy:"): include all of them as buttons, first selected.
-- **Collect: the common's only** (user's decision 2026-10-21, applied again 2026-10-22), even when
-  the saint has an own collect — record the proper in the day's recipe. (Earlier rule, now
-  superseded:) — "Saját" (the proper, first) and "Közös" (the common's
-  collect), for celebration missals that do not yet have the proper.
+- **Collect with an official proper: two options** — "Saját" (first) and "Közös" (the common's),
+  for celebration missals without the proper. Look for it in the CDW decrees on vatican.va (Latin)
+  and in Vatican News Hungarian. If the proper is not official or its wording is uncertain
+  (Boldog IV. Károly, 2026-10-21: the user removed it), use only the common's and record the proper
+  in the day's recipe.
 - Prefaces: the saints' prefaces (I, II), or a proper one (martyrs, pastors, virgins…) if suggested.
 - Replace "N." with the name in the case the sentence needs ("Szent N.-t" → "Boldog Károlyt").
 - Drop "(H. i. alleluja)" outside Eastertime.

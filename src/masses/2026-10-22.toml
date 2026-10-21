@@ -7,16 +7,47 @@ gloria = false
 creed = false
 eucharistic_prayer = 3
 prefaces = ["lelkipasztorok", "szentek-1", "szentek-2"]
-mass_type = "Lelkipásztorok közös miséje: pápák (1)"
+mass_type = "Lelkipásztorok közös miséje: pápák (1) · saját könyörgéssel"
 names = [["Szent N. pápa", "Szent II. János Pál pápa"], ["Szent N.-t", "Szent II. János Pált"], ["Szent N.", "Szent II. János Pál"]]
 la_names = [["beatum N.", "beatum Ioannem Paulum"], ["beatus N.", "beatus Ioannes Paulus"], ["sancti N.", "sancti Ioánnis Pauli"]]
 
-# Common: Lelkipásztorok miséi, 1. pápák vagy püspökök miséje; the collect for popes.
+# Common: Lelkipásztorok miséi, 1. pápák vagy püspökök miséje (as the CDW decree prescribes).
 entrance = "@lelkipasztorok/papak-puspokok-1"
-collect = "@lelkipasztorok/papak-puspokok-1"
 offertory = "@lelkipasztorok/papak-puspokok-1"
 communion = "@lelkipasztorok/papak-puspokok-1"
 postcommunion = "@lelkipasztorok/papak-puspokok-1"
+
+# Collect: the saint's own (CDW 2011, Latin on vatican.va; Hungarian as quoted by Vatican News from
+# the Roman Missal) first, the common's (pápák) second.
+[[collect]]
+label = "Saját"
+source = "Latin: vatican.va, CDW 2011 (De Communi pastorum: pro papa, collecta propria); magyar: Vatican News, 2021-10-22, a Római Misekönyvből idézve"
+text = '''
+Irgalomban gazdag Istenünk,
+aki az egész Egyház vezetésére hívtad
+Szent II. János Pál pápát,
+add meg nekünk,
+hogy tanításától megerősítve
+bizalommal megnyissuk a szívünket
+Krisztus üdvözítő kegyelmének,
+az ember egyetlen Megváltójának.
+Aki veled él és uralkodik a Szentlélekkel egységben,
+Isten mindörökkön-örökké.
+'''
+la = '''
+Deus, dives in misericórdia,
+qui beátum Ioánnem Paulum, papam,
+univérsae Ecclésiae tuae praeésse voluísti,
+praesta, quaésumus, ut, eius institútis edócti,
+corda nostra salutíferae grátiae Christi,
+uníus redemptóris hóminis, fidénter aperiámus.
+Qui tecum vivit et regnat in unitáte Spíritus Sancti,
+Deus, per ómnia saécula saeculórum.
+'''
+
+[[collect]]
+label = "Közös"
+ref = "@lelkipasztorok/papak-puspokok-1"
 
 [reading1]
 label = "Szentlecke"
