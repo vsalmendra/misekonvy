@@ -7,35 +7,14 @@ gloria = false
 creed = false
 eucharistic_prayer = 3
 prefaces = ["szentek-1", "szentek-2"]
-mass_type = "Szentek általános miséje (1) · saját könyörgéssel"
+mass_type = "Szentek általános miséje (1)"
 
 # Common: Szentek általános miséi, formula 1 (always the first formula of the common).
 entrance = "@szentek-altalanos/1"
+collect = "@szentek-altalanos/1"
 offertory = "@szentek-altalanos/1"
 communion = "@szentek-altalanos/1"
 postcommunion = "@szentek-altalanos/1"
-
-# Collect: the proper first; the common's as second option, for celebration missals without the new proper.
-[[collect]]
-label = "Saját"
-source = "Saját könyörgés: ferencesekzeg.hu (Jézus Szíve Ferences Plébánia), egyezik a Magyar Kurír szövegével (ott: „viszontagságos úton a földi királyságból”)"
-latin_note = "Boldog Károly saját könyörgése csak magyarul van meg; latinul a közös mise (Szentek általános miséi 1) könyörgése áll."
-text = '''
-Istenünk,
-aki Boldog Károlyt a földi királyságból
-viszontagságos úton a te országodba vezetted,
-és mennyei koronával jutalmaztad,
-az ő közbenjárására add meg nekünk,
-hogy Szent Fiadat és testvéreinket szolgálva
-mi is eljussunk az örök életre.
-A mi Urunk, Jézus Krisztus, a te Fiad által,
-aki veled él és uralkodik a Szentlélekkel egységben,
-Isten mindörökkön-örökké.
-'''
-
-[[collect]]
-label = "Közös"
-ref = "@szentek-altalanos/1"
 
 [reading1]
 la_sub = "Lectio Epistolae beati Pauli apostoli ad Ephesios"
