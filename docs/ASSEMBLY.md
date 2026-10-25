@@ -115,6 +115,14 @@ still missing; the page shows "(A latin szöveg még nincs feltöltve.)" in thei
 **Commons available** (`src/library/commons/`): `szentek-altalanos` (Szentek általános miséi 1-6;
 Latin only for 1), `lelkipasztorok` (`papak-puspokok-1`: collect for popes, `collect_b` for
 bishops). Pastors (popes, bishops, priests) → Lelkipásztorok miséi, preface `lelkipasztorok`.
+`elhunytak` (Megemlékező gyászmisék több vagy minden elhunytért: `tobb-c`, `tobb-d`, `tobb-e`;
+`collect_b` / `postcommunion_b` = the "Vagy:"; Latin for all).
+
+**Masses for the dead** — allowed on ferial weekdays. Propers from the missal's "Gyászmisék"
+(several or all dead: formula C first); colour violet; prefaces of the dead I–V (`megholtak-1`…`-5`),
+I by default; readings ferial unless the user asks for the lectionary for the dead. The names
+("N.-nek és N.-nek", Latin "(N. et N.)") are optional: for all the dead drop them with `names` /
+`la_names`, for named dead put the names in.
 
 **Votive masses** — propers from the votive formula of the missal; readings ferial.
 

@@ -1,0 +1,311 @@
+# Gyászmisék (Missae defunctorum). Only the "megemlékező gyászmisék több (vagy minden) elhunytért" so far.
+# Hungarian: Római Misekönyv 1991 (PPEK 335), pp. 846-849. Not yet checked against the new missal.
+# Latin: Missale Romanum cum lectionibus 1977, vol. IV, In variis commemorationibus C-E, pp. 1664-1669
+# (archive.org; OCR corrected by hand, no accents, "Per Dominum." / "Per Christum." expanded).
+# collect_b, postcommunion_b = the "Vagy:" of the book. "N. és N." (Latin "(N. et N.)", optional):
+# the Mass file puts the names in, or drops them with its `names` / `la_names`.
+
+# C. Megemlékező gyászmise több (vagy minden) elhunytért
+[tobb-c]
+entrance_cite = ""
+entrance = '''
+Adj nekik, Urunk, örök nyugodalmat,
+és áraszd el őket mennyei fényességeddel.
+'''
+entrance_la = '''
+Dona eis, Domine, requiem sempiternam
+et imple splendoribus animas eorum.
+'''
+collect = '''
+Istenünk, te úgy akartad, hogy egyszülött Fiad
+legyőzze a halált és fölmenjen a mennybe.
+Add kegyelmedet gyermekeidnek, N.-nek és N.-nek,
+hogy a földi élet halandóságát legyőzve
+örökre szemléljenek téged, aki alkottad és megváltottad őket.
+A mi Urunk, Jézus Krisztus, a te Fiad által,
+aki veled él és uralkodik a Szentlélekkel egységben,
+Isten mindörökkön-örökké.
+'''
+collect_la = '''
+Deus, qui Unigenitum tuum, devicta morte,
+ad caelestia transire fecisti,
+concede famulis tuis (N. et N.),
+ut, huius vitae mortalitate devicta,
+te conditorem et redemptorem
+possint perpetuo contemplari.
+Per Dominum nostrum Iesum Christum, Filium tuum,
+qui tecum vivit et regnat in unitate Spiritus Sancti,
+Deus, per omnia saecula saeculorum.
+'''
+collect_b = '''
+Híveid teremtő és megváltó Istene, töröld el gyermekeid minden bűnét,
+hogy esdő könyörgéseinkre megkaphassák a bocsánatot,
+amelyre mindig vágyakoztak.
+A mi Urunk, Jézus Krisztus, a te Fiad által,
+aki veled él és uralkodik a Szentlélekkel egységben,
+Isten mindörökkön-örökké.
+'''
+collect_b_la = '''
+Fidelium, Deus, omnium conditor et redemptor,
+famulis tuis remissionem cunctorum tribue peccatorum,
+ut indulgentiam, quam semper optaverunt,
+piis supplicationibus consequantur.
+Per Dominum nostrum Iesum Christum, Filium tuum,
+qui tecum vivit et regnat in unitate Spiritus Sancti,
+Deus, per omnia saecula saeculorum.
+'''
+offertory = '''
+Istenünk, tekints kegyesen áldozati adományainkra,
+amelyeket gyermekeidért felajánlunk,
+hogy akiknek a keresztény hit kiváltságát megadtad,
+ajándékozd nekik hitük jutalmát is.
+Krisztus, a mi Urunk által.
+'''
+offertory_la = '''
+Hostias, quaesumus, Domine,
+quas tibi pro famulis tuis offerimus,
+propitiatus intende,
+ut, quibus fidei christianae meritum contulisti,
+dones et praemium.
+Per Christum Dominum nostrum.
+'''
+communion_cite = "1Jn 4,9"
+communion = '''
+Isten elküldte a világba egyszülött Fiát, hogy általa éljünk.
+'''
+communion_la = '''
+Filium suum unigenitum misit Deus in mundum,
+ut vivamus per eum.
+'''
+postcommunion = '''
+Istenünk, fogadd kegyesen áldozatunkat,
+és áraszd bőven irgalmadat gyermekeidre.
+Akiket megajándékoztál a keresztség kegyelmével,
+ajándékozd meg a mennyei örömök teljességével is.
+Krisztus, a mi Urunk által.
+'''
+postcommunion_la = '''
+Multiplica, Domine, his sacrificiis susceptis,
+super famulos tuos defunctos misericordiam tuam,
+et, quibus donasti baptismi gratiam,
+da eis aeternorum plenitudinem gaudiorum.
+Per Christum Dominum nostrum.
+'''
+postcommunion_b = '''
+Kérünk, Istenünk, váljék gyermekeid üdvére könyörgő imádságunk.
+A szent áldozat kegyelméből szabadítsd meg őket minden bűntől,
+és tedd az örök üdvösség részesévé.
+Krisztus, a mi Urunk által.
+'''
+postcommunion_b_la = '''
+Famulis tuis, quaesumus, Domine,
+oratio proficiat supplicantium,
+ut eos, his sacrificiis, et a peccatis omnibus exuas,
+et aeternae salvationis facias esse participes.
+Per Christum Dominum nostrum.
+'''
+
+# D. Megemlékező gyászmise több (vagy minden) elhunytért
+[tobb-d]
+entrance_cite = "Jn 3,16"
+entrance = '''
+Úgy szerette Isten a világot,
+hogy egyszülött Fiát adta oda,
+hogy aki hisz benne,
+el ne vesszen, hanem örökké éljen.
+'''
+entrance_la = '''
+Sic Deus dilexit mundum,
+ut Filium suum unigenitum daret;
+ut omnis qui credit in ipsum non pereat,
+sed habeat vitam aeternam.
+'''
+collect = '''
+Mindenható, örök Isten,
+halandók élete és szentjeid öröme,
+esdve kérünk gyermekeidért, N.-ért és N.-ért,
+hogy a halandóság kötelékeiből kiszabadulva
+elnyerjék az örök dicsőség országát.
+A mi Urunk, Jézus Krisztus, a te Fiad által,
+aki veled él és uralkodik a Szentlélekkel egységben,
+Isten mindörökkön-örökké.
+'''
+collect_la = '''
+Omnipotens sempiterne Deus,
+vita mortalium et exsultatio Sanctorum,
+te supplices exoramus pro famulis tuis (N. et N.),
+ut, mortalitatis nexibus expediti,
+regnum tuum in gloria possideant sempiterna.
+Per Dominum nostrum Iesum Christum, Filium tuum,
+qui tecum vivit et regnat in unitate Spiritus Sancti,
+Deus, per omnia saecula saeculorum.
+'''
+collect_b = '''
+Mindenható, örök Isten, élők és holtak Ura,
+te mindenkin megkönyörülsz.
+Kérünk, bocsásd meg azok bűneit, akikért most könyörgünk,
+hogy boldog örvendezéssel szüntelenül dicsérhessenek téged.
+A mi Urunk, Jézus Krisztus, a te Fiad által,
+aki veled él és uralkodik a Szentlélekkel egységben,
+Isten mindörökkön-örökké.
+'''
+collect_b_la = '''
+Omnipotens sempiterne Deus,
+qui vivorum dominaris simul et defunctorum,
+omniumque misereris,
+te suppliciter exoramus,
+ut, pro quibus effundimus preces,
+pietatis tuae clementia
+delictorum suorum veniam consequantur,
+et de te beati congaudeant ac te sine fine collaudent.
+Per Dominum nostrum Iesum Christum, Filium tuum,
+qui tecum vivit et regnat in unitate Spiritus Sancti,
+Deus, per omnia saecula saeculorum.
+'''
+offertory = '''
+Istenünk, fogadd kegyesen ezt az áldozati adományt
+gyermekeidért, N.-ért és N.-ért
+és minden, Krisztusban megholt hívedért,
+hogy ennek a végtelen értékű áldozatnak erejéből
+megszabaduljanak a halál kötelékeitől, és elnyerjék az örök életet.
+Krisztus, a mi Urunk által.
+'''
+offertory_la = '''
+Pro famulis tuis N. et N.
+et omnibus in Christo dormientibus
+hostiam, Domine, suscipe benignus oblatam,
+ut, per hoc sacrificium singulare vinculis mortis exuti,
+vitam mereantur aeternam.
+Per Christum Dominum nostrum.
+'''
+communion_cite = "Fil 3,20-21"
+communion = '''
+Üdvözítőnket várjuk, Urunkat, Jézus Krisztust.
+Ő átalakítja gyarló testünket, és hasonlóvá teszi megdicsőült testéhez.
+'''
+communion_la = '''
+Salvatorem exspectamus
+Dominum nostrum Iesum Christum,
+qui reformabit corpus humilitatis nostrae
+configuratum corpori claritatis suae.
+'''
+postcommunion = '''
+Mindenható Istenünk,
+mennyei ajándékodban részesítettél minket.
+Szolgáljon ez a szentség üdvösségünkre,
+elhunyt gyermekeidnek pedig, akikért irgalmadat kérjük,
+váljék bűneik bocsánatára.
+Krisztus, a mi Urunk által.
+'''
+postcommunion_la = '''
+Divina participantes mysteria,
+quaesumus, omnipotens Deus,
+ut haec eadem nobis proficiant ad salutem,
+et famulis tuis defunctis,
+pro quibus tuam deprecamur clementiam,
+prosint ad indulgentiam.
+Per Christum Dominum nostrum.
+'''
+
+# E. Megemlékező gyászmise több (vagy minden) elhunytért
+[tobb-e]
+entrance_cite = "Jel 14,13"
+entrance = '''
+Boldogok a halottak, akik az Úrban halnak meg.
+Igen, hadd pihenjék ki fáradalmaikat,
+mert tetteik elkísérik őket.
+'''
+entrance_la = '''
+Beati mortui, qui in Domino moriuntur.
+Amodo requiescant a laboribus suis:
+opera enim illorum sequuntur illos.
+'''
+collect = '''
+Istenünk, a te irgalmadból nyernek híveid nyugodalmat.
+Kérünk, bocsásd meg bűneit gyermekeidnek, N.-nek és N.-nek,
+és mindazoknak, akik Krisztusban hunytak el,
+hogy vétkeiktől feloldozva
+részük legyen egyszülött Fiad dicsőséges feltámadásában is.
+Aki veled él és uralkodik a Szentlélekkel egységben,
+Isten mindörökkön-örökké.
+'''
+collect_la = '''
+Deus, cuius miseratione fideles requiescunt,
+famulis tuis N. et N. et omnibus in Christo quiescentibus
+da propitius veniam peccatorum,
+ut, a cunctis reatibus absoluti,
+Christi tui resurrectioni socientur.
+Qui tecum vivit et regnat in unitate Spiritus Sancti,
+Deus, per omnia saecula saeculorum.
+'''
+collect_b = '''
+Kérünk, Istenünk,
+részesítsd irgalmadban meghalt gyermekeidet,
+hogy beléd vetett hitük és reményük
+örök üdvösségükre váljék.
+A mi Urunk, Jézus Krisztus, a te Fiad által,
+aki veled él és uralkodik a Szentlélekkel egységben,
+Isten mindörökkön-örökké.
+'''
+collect_b_la = '''
+Quaesumus, Domine,
+famulis tuis defunctis misericordiam concede perpetuam,
+ut eis proficiat in aeternum
+quod in te speraverunt et crediderunt.
+Per Dominum nostrum Iesum Christum, Filium tuum,
+qui tecum vivit et regnat in unitate Spiritus Sancti,
+Deus, per omnia saecula saeculorum.
+'''
+offertory = '''
+Kérünk, Istenünk,
+tekints megengesztelődve adományainkra,
+amelyeket gyermekeid örök nyugalmáért felajánlunk,
+hogy az emberi üdvösségnek ebből a forrásából merítve
+megváltottaid sorában az örök életre jussanak.
+Krisztus, a mi Urunk által.
+'''
+offertory_la = '''
+Munera, Domine, quaesumus,
+quae pro tuorum requie famulorum offerimus,
+placatus intende,
+ut, per haec salutis humanae subsidia,
+tuorum numero redemptorum sorte perpetua censeantur.
+Per Christum Dominum nostrum.
+'''
+communion_cite = ""
+communion = '''
+Adj, Urunk, örök nyugodalmat azoknak,
+akiknek emlékezetére Krisztus testét és vérét magunkhoz vesszük.
+'''
+communion_la = '''
+Pro quorum memoria Corpus et Sanguis Christi sumitur,
+dona eis, Domine, requiem sempiternam.
+'''
+postcommunion = '''
+Istenünk, részesültünk a megváltó áldozatban.
+Kérjük irgalmasságodat,
+hogy ez az áldozat szerezze meg nekünk, élőknek oltalmadat,
+meghalt testvéreinknek pedig bűneik bocsánatát.
+Krisztus, a mi Urunk által.
+'''
+postcommunion_la = '''
+Sumpsimus, Domine, redemptionis sacramenta,
+tuam clementiam obsecrantes,
+ut, te miserante, nobis viventibus tutelam obtineant,
+et defunctis nostris veniam sempiternam.
+Per Christum Dominum nostrum.
+'''
+postcommunion_b = '''
+Kérünk, Istenünk,
+jussanak el örök fényességed országába gyermekeid,
+és mindazok a Krisztusban elhunyt híveid,
+akik földi életük folyamán szentségeidben részesültek.
+Krisztus, a mi Urunk által.
+'''
+postcommunion_b_la = '''
+Inveniant, quaesumus, Domine, famuli tui,
+omnesque in Christo quiescentes,
+lucis aeternae consortium,
+qui, in hac luce positi, tuum consecuti sunt sacramentum.
+Per Christum Dominum nostrum.
+'''

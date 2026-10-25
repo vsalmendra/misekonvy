@@ -1,0 +1,141 @@
+# Recipe: src/masses/2026-10-26.md
+date = "2026-10-26"
+title = "Gyászmise több vagy minden elhunytért"
+day = "30. évközi hét hétfője"
+rank = "lila színben"
+gloria = false
+creed = false
+eucharistic_prayer = 2
+prefaces = ["megholtak-1", "megholtak-2", "megholtak-3", "megholtak-4", "megholtak-5"]
+mass_type = "Megemlékező gyászmise több (vagy minden) elhunytért (C)"
+# The collect's names are optional (Latin "(N. et N.)"): said for all the dead, without names.
+names = [["gyermekeidnek, N.-nek és N.-nek,", "gyermekeidnek,"]]
+la_names = [["famulis tuis (N. et N.),", "famulis tuis,"]]
+
+# Megemlékező gyászmisék, C. több (vagy minden) elhunytért (the first formula for several dead).
+entrance = "@elhunytak/tobb-c"
+collect = ["@elhunytak/tobb-c", "@elhunytak/tobb-c:collect_b"]
+offertory = "@elhunytak/tobb-c"
+communion = "@elhunytak/tobb-c"
+postcommunion = ["@elhunytak/tobb-c", "@elhunytak/tobb-c:postcommunion_b"]
+
+[reading1]
+label = "Szentlecke"
+sub = "Szent Pál apostolnak az efezusiakhoz írt leveléből"
+summary = "Éljünk szeretetben, amint Krisztus is szeretett minket!"
+cite = "Ef 4,32–5,8"
+la_sub = "Lectio Epistolae beati Pauli apostoli ad Ephesios"
+text = '''
+Testvéreim!
+
+Legyetek egymás iránt jóindulatúak, könyörületesek, és bocsássatok meg egymásnak, amint Isten is megbocsátott nektek Krisztusban.
+
+Mint Isten kedves gyermekei, legyetek az ő követői, és éljetek szeretetben, ahogy Krisztus is szeretett minket, és odaadta magát értünk Istennek jó illatú áldozati adományként.
+
+Paráznaságról és más tisztátalanságról vagy kapzsiságról szó se essék köztetek! Ez nem illik Krisztus híveihez. Ocsmány, léha vagy kétértelmű szót ne ejtsetek ki! Ez sem illik hozzátok. Ehelyett inkább hálaadással magasztaljátok Istent!
+
+Értsétek meg, és jegyezzétek meg jól magatoknak: Krisztus és Isten országában semmi része sincs annak, aki parázna, tisztátalan vagy kapzsi, és így földi dolgoknak szolgál Isten helyett. Ne engedjétek, hogy hamis beszédekkel a bűn útjára vezessenek titeket! Isten büntetése éri mindazokat, akik nem engedelmeskednek neki. Kerüljétek tehát az ilyen cselekedeteket!
+
+Egykor ti is sötétségben éltetek, de most már eljutottatok a világosságra az Úrban. Úgy éljetek, mint a világosság fiai!
+'''
+la = '''
+Fratres:
+
+Estote invicem benigni, misericordes, donantes invicem sicut et Deus in Christo donavit vobis.
+
+Estote ergo imitatores Dei, sicut filii carissimi, et ambulate in dilectione, sicut et Christus dilexit nos et tradidit se ipsum pro nobis oblationem et hostiam Deo in odorem suavitatis.
+
+Fornicatio autem et omnis immunditia aut avaritia nec nominetur in vobis, sicut decet sanctos, et turpitudo et stultiloquium, aut scurrilitas, quae non decent, sed magis gratiarum actio.
+
+Hoc enim scitote, intellegentes quod omnis fornicator aut immundus aut avarus, id est idolorum cultor, non habet hereditatem in Regno Christi et Dei. Nemo vos decipiat inanibus verbis, propter haec enim venit ira Dei in filios diffidentiae. Nolite ergo effici comparticipes eorum;
+
+eratis enim aliquando tenebrae, nunc autem lux in Domino; ut filii lucis ambulate.
+'''
+
+[psalm]
+cite = "Zsolt 1,1-2.3.4 és 6"
+response = "Mint Isten kedves gyermekei, legyetek az ő követői."
+la_response = "Simus imitatores Dei, sicut filii carissimi."
+verses = [
+'''
+Boldog ember, aki nem követi a gonoszok tanácsát,
+nem lép a bűnösök útjára,
+a gúnyolódók körében nem foglal helyet,
+hanem az Úr törvényében leli örömét,
+az ő parancsairól elmélkedik éjjel és nappal.
+''', '''
+Olyan, mint a fa, melyet folyóvíz mellé ültettek,
+mely idejében gyümölcsöt érlel.
+Nem fonnyad el a lombja,
+siker koronázza minden tettét.
+''', '''
+Nem így járnak a gonoszok, nem így,
+hanem mint a polyva, melyet szétszór a szél.
+Mert az Úr őrzi az igazak útját,
+a gonoszok útja pusztulás.
+''']
+la_verses = [
+'''
+Beatus vir qui non abiit in consilio impiorum,
+et in via peccatorum non stetit,
+et in conventu derisorum non sedit;
+sed in lege Domini voluntas eius,
+et in lege eius meditatur die ac nocte.
+''', '''
+Et erit tamquam lignum
+plantatum secus decursus aquarum,
+quod fructum suum dabit in tempore suo;
+et folium eius non defluet,
+et omnia quaecumque faciet prosperabuntur.
+''', '''
+Non sic impii, non sic,
+sed tamquam pulvis quem proicit ventus.
+Quoniam novit Dominus viam iustorum,
+et iter impiorum peribit.
+''']
+
+[alleluia]
+cite = "Vö. Jn 17,17b és a"
+text = "Uram, a te szavad igazság, tégy szentté minket igazságod által!"
+la = "Sermo tuus, Domine, veritas est; sanctifica nos in veritate."
+
+[gospel]
+book = "Szent Lukács"
+la_book = "Lucam"
+summary = "Jót mindennap tehetünk: Jézus szombaton is meggyógyítja a beteg asszonyt."
+cite = "Lk 13,10-17"
+text = '''
+Jézus szombatonként a zsinagógában tanított. Volt ott egy asszony, akit a betegség lelke már tizennyolc éve hatalmában tartott. Annyira meggörnyedt, hogy egyáltalán nem tudott felegyenesedni.
+
+Amikor Jézus meglátta, magához hívta, és így szólt hozzá: „Asszony, megszabadultál betegségedtől.” Közben rátette a kezét. Az rögtön felegyenesedett, és dicsőítette az Istent.
+
+A zsinagóga elöljárója méltatlankodott azért, hogy Jézus szombaton gyógyított, és a sokasághoz fordult: „Hat napotok van a munkára. Akkor jöjjetek gyógyulást keresni, ne szombaton!”
+
+Jézus feléje fordult, és megfelelt neki: „Képmutatók! Van-e köztetek egy is, aki nem oldja el a jászoltól ökrét vagy szamarát szombati napon, hogy megitassa? Ábrahámnak ezt a lányát pedig a sátán tartotta megkötözve immár tizennyolc éve. Nem kellett-e őt feloldani kötelékétől akár szombaton is?”
+
+Ellenfelei e szavakra szégyenükben elpirultak. A nép pedig örvendezett, hogy Jézus ilyen csodát művelt.
+'''
+la = '''
+In illo tempore: Erat Iesus docens in una synagogarum sabbatis. Et ecce mulier quae habebat spiritum infirmitatis annis decem et octo, et erat inclinata nec omnino poterat sursum respicere.
+
+Quam cum vidisset Iesus vocavit et ait illi: «Mulier, dimissa es ab infirmitate tua», et imposuit illi manus: et confestim erecta est, et glorificabat Deum.
+
+Respondens autem archisynagogus, indignans quia sabbato curasset Iesus, dicebat turbae: «Sex dies sunt, in quibus oportet operari; in his ergo venite et curamini, et non in die sabbati».
+
+Respondit autem ad illum Dominus et dixit: «Hypocritae, unusquisque vestrum sabbato non solvit bovem suum aut asinum a praesepio et ducit adaquare? Hanc autem filiam Abrahae, quam alligavit Satanas ecce decem et octo annis, non oportuit solvi a vinculo isto die sabbati?»
+
+Et cum haec diceret, erubescebant omnes adversarii eius, et omnis populus gaudebat in universis quae gloriose fiebant ab eo.
+'''
+
+[faithful]
+intro = "Kérjük, testvéreim, mennyei Atyánkat, hogy minden munkánkat az ő dicsőségére végezzük!"
+response = "Kérünk téged, hallgass meg minket!"
+petitions = [
+  "Add, Urunk, hogy az anyagi világ javait a magunk és embertársaink földi boldogulására és örök üdvösségére használjuk!",
+  "Add, hogy mindennapi munkánkban felismerjük szent akaratodat, és azt készségesen teljesítsük!",
+  "Add, hogy munkatársainkkal jó együttműködésre törekedjünk, és így kölcsönösen elősegítsük a közösség javát!",
+  "Add meg nekünk a Szentlélek által a szelídséget, a jószívűséget és a türelmet!",
+  "Add, hogy a mai napot bűn nélkül töltsük el, hogy majd este örvendezve köszönhessük meg jóságodat!",
+  { note = "Ha a szentmisét elhunytért mutatják be:", text = "Add meg elhunyt N. testvérünknek (nővérünknek) bűnei bocsánatát, hogy irgalmadból a szentek közösségébe juthasson!" },
+]
+conclusion = "Kérünk, Istenünk, cselekedeteinket előzd meg sugallatoddal, és kísérd segítségeddel, hogy minden munkánkat mindig veled kezdjük, és amit elkezdtünk, segítségeddel be is fejezzük! Krisztus, a mi Urunk által."
