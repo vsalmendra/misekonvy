@@ -102,7 +102,8 @@ still missing; the page shows "(A latin szöveg még nincs feltöltve.)" in thei
   several formulas.
 - **Antiphons (entrance, alleluia, communion): no alternatives** — take the first one given,
   unless the user says otherwise.
-- Prayers with alternatives in the book ("Vagy:"): include all of them as buttons, first selected.
+- Prayers with alternatives in the book ("Vagy:"): **only the first one** (user, 2026-10-25),
+  unless the user asks for the alternatives (then buttons, first selected).
 - **Collect with an official proper: two options** — "Saját" (first) and "Közös" (the common's),
   for celebration missals without the proper. Look for it in the CDW decrees on vatican.va (Latin)
   and in Vatican News Hungarian. If the proper is not official or its wording is uncertain

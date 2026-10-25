@@ -14,10 +14,10 @@ la_names = [["famulis tuis (N. et N.),", "famulis tuis,"]]
 
 # Megemlékező gyászmisék, C. több (vagy minden) elhunytért (the first formula for several dead).
 entrance = "@elhunytak/tobb-c"
-collect = ["@elhunytak/tobb-c", "@elhunytak/tobb-c:collect_b"]
+collect = "@elhunytak/tobb-c"
 offertory = "@elhunytak/tobb-c"
 communion = "@elhunytak/tobb-c"
-postcommunion = ["@elhunytak/tobb-c", "@elhunytak/tobb-c:postcommunion_b"]
+postcommunion = "@elhunytak/tobb-c"
 
 [reading1]
 label = "Szentlecke"
