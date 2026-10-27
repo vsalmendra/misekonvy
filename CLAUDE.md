@@ -64,7 +64,7 @@ content over time. This CLAUDE.md is the source of truth. Claude Code commits an
 
 - **Generator DSL:** `h/h2/p/n/v/r/src/sub/c`; `select/opt/end_opt/end_select`; `ep_select(default, saint=None)`; `EP2_PREFACE`, `EP4_PREFACE`; bilingual `bh/bh2/bp/bn/bv/bc/br/bsrc` with ready pairs (`bi_greeting_penitential`, `COLLECT_END`, `bi_gospel_dialogue`, `bi_gifts`, `bi_preface_dialogue`, `bi_sanctus`, `bi_ep1`, `bi_communion_rite`, `bi_concluding`). Content files start with `exec(open(COMMON).read())` (`COMMON` set by `page.py` in the repo version) and end with `# ---------- RENDER`.
   - Toolbar (hidden; floating ☰ bottom-right): A−, A+, ☾/☀, ↻, section links. Top of page: "Latin–magyar szöveg ↓"; back buttons "↑ Vissza a magyar szöveghez".
-  - Latin sources: Missale Romanum 2002 on clerus.org/bibliaclerusonline/en/gl0..gl5.htm; Ordo Missae/EPs/prefaces on ordo.pallotyni.pl; Nova Vulgata on vatican.va. Psalm response/Alleluia Latin not verified against Lectionarium.
+  - Latin sources: Missale Romanum 2002 on clerus.org/bibliaclerusonline/en/gl0..gl5.htm; Ordo Missae/EPs/prefaces on ordo.pallotyni.pl; Nova Vulgata on vatican.va (no longer used: only liturgical sources, 2026-10-28). Psalm response/Alleluia Latin not verified against Lectionarium.
 
 - **NEW MISSAL** (Hungarian, from Pentecost 2023; Romania from 29 June 2023). No online copy; 1991 edition on PPEK (EP I/IV taken from it). New-missal changes applied in `common.py`:
   - Confiteor without "Szeplőtelen"

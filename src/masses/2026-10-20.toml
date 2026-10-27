@@ -46,17 +46,17 @@ Isten mindörökkön-örökké.
 '''
 
 [reading1]
-la_sub = "Léctio Epístolæ beáti Pauli Apóstoli ad Ephésios"
+la_sub = "Lectio Epistolae beati Pauli apostoli ad Ephesios"
 la = '''
 Fratres:
 
-Eratis illo in témpore sine Christo, alienáti a conversatióne Israel et extránei testamentórum promissiónis, spem non habéntes et sine Deo in mundo. Nunc autem in Christo Iesu vos, qui aliquándo erátis longe, facti estis prope in sánguine Christi.
+Eratis illo in tempore sine Christo, alienati a conversatione Israel et extranei testamentorum promissionis, spem non habentes et sine Deo in mundo. Nunc autem in Christo Iesu vos, qui aliquando eratis longe, facti estis prope in sanguine Christi.
 
-Ipse est enim pax nostra, qui fecit utráque unum et médium paríetem macériæ solvit, inimicítiam, in carne sua, legem mandatórum in decrétis evácuans, ut duos condat in semetípso in unum novum hóminem, fáciens pacem, et reconcíliet ambos in uno córpore Deo per crucem, interfíciens inimicítiam in semetípso.
+Ipse est enim pax nostra, qui fecit utraque unum et medium parietem maceriae solvit, inimicitiam, in carne sua, Legem mandatorum in decretis evacuans, ut duos condat in semetipso in unum novum hominem, faciens pacem, et reconciliet ambos in uno corpore Deo per crucem, interficiens inimicitiam in semetipso.
 
-Et véniens evangelizávit pacem vobis, qui longe fuístis, et pacem his, qui prope; quóniam per ipsum habémus accéssum ambo in uno Spíritu ad Patrem. Ergo iam non estis extránei et ádvenæ, sed estis concíves sanctórum et doméstici Dei,
+Et veniens evangelizavit pacem vobis qui longe fuistis et pacem his qui prope; quoniam per ipsum habemus accessum ambo in uno Spiritu ad Patrem. Ergo iam non estis extranei et advenae, sed estis concives sanctorum et domestici Dei,
 
-superædificáti super fundaméntum apostolórum et prophetárum, ipso summo angulári lápide Christo Iesu, in quo omnis ædificátio compácta crescit in templum sanctum in Dómino, in quo et vos coædificámini in habitáculum Dei in Spíritu.
+superaedificati super fundamentum Apostolorum et Prophetarum, ipso summo angulari lapide Christo Iesu, in quo omnis aedificatio compacta crescit in templum sanctum in Domino, in quo et vos coaedificamini in habitaculum Dei in Spiritu.
 '''
 label = "Szentlecke"
 sub = "Szent Pál apostolnak az efezusiakhoz írt leveléből"
@@ -75,24 +75,24 @@ Apostolokra és prófétákra alapozott épület vagytok, amelynek szegletköve 
 '''
 
 [psalm]
-la_response = "Loquétur Dóminus pacem ad plebem suam."
+la_response = "Loquitur pacem Dominus ad plebem suam."
 la_verses = [
 '''
-Audiam quid loquátur Dóminus Deus,
-quóniam loquétur pacem ad plebem suam et sanctos suos.
-Vere prope timéntes eum salutáre ipsíus,
-ut inhábitet glória in terra nostra.
+Audiam quid loquatur Dominus Deus,
+quoniam loquetur pacem ad plebem suam et sanctos suos.
+Verumtamen prope timentes eum salutare ipsius,
+ut inhabitet gloria in terra nostra.
 ''',
 '''
-Misericórdia et véritas obviavérunt sibi,
-iustítia et pax osculátæ sunt.
-Véritas de terra orta est,
-et iustítia de cælo prospéxit.
+Misericordia et veritas obviaverunt sibi,
+iustitia et pax osculatae sunt.
+Veritas de terra orta est,
+et iustitia de caelo prospexit.
 ''',
 '''
-Etenim Dóminus dabit benignitátem,
+Etenim Dominus dabit benignitatem,
 et terra nostra dabit fructum suum.
-Iustítia ante eum ambulábit
+Iustitia ante eum ambulabit,
 et ponet in via gressus suos.
 ''']
 cite = "Zsolt 84,9-14"
@@ -116,18 +116,18 @@ Igazság jár az Úr előtt,
 ''']
 
 [alleluia]
-la = "Vigiláte ítaque omni témpore orántes, ut digni habeámini stare ante Fílium hóminis."
+la = "Vigilate, omni tempore orantes, ut digni habeamini stare ante Filium hominis."
 cite = "Lk 21,36"
 text = "Imádkozva virrasszatok szüntelen, hogy az Emberfia elé méltón álljatok."
 
 [gospel]
 la_book = "Lucam"
 la = '''
-In illo témpore: Dixit Iesus discípulis suis:
+In illo tempore: Dixit Iesus discipulis suis:
 
-„Sint lumbi vestri præcíncti et lucérnæ ardéntes, et vos símiles homínibus exspectántibus dóminum suum, quando revertátur a núptiis, ut, cum vénerit et pulsáverit, conféstim apériant ei.
+«Sint lumbi vestri praecincti, et lucernae ardentes, et vos similes hominibus exspectantibus dominum suum, quando revertatur a nuptiis, ut, cum venerit et pulsaverit, confestim aperiant ei.
 
-Beáti servi illi, quos, cum vénerit dóminus, invénerit vigilántes. Amen dico vobis, quod præcínget se et fáciet illos discúmbere et tránsiens ministrábit illis. Et si vénerit in secúnda vigília, et si in tértia vigília vénerit, et ita invénerit, beáti sunt illi.”
+Beati servi illi, quos cum venerit dominus invenerit vigilantes. Amen dico vobis, quod praecinget se et faciet illos discumbere, et transiens ministrabit illis. Et si venerit in secunda vigilia et si in tertia vigilia venerit et ita invenerit, beati sunt illi».
 '''
 book = "Szent Lukács"
 summary = "Legyünk mindenkor készen az Isten előtti számadásra!"
