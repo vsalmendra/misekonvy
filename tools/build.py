@@ -227,10 +227,14 @@ def bi_psalm(s):
 
 
 def alleluia(a):
+    if a.get('lent'):   # Lent: verse before the gospel, no alleluia
+        return '\n'.join(['<h3>Evangélium előtti vers</h3>', p(lines(a['text'])), cite(a['cite'])])
     return '\n'.join(['<h3>Alleluja</h3>', resp('Alleluja, alleluja!'), p(lines(a['text'])), cite(a['cite']), resp('Alleluja!')])
 
 
 def bi_alleluia(a):
+    if a.get('lent'):
+        return bi_h3('Versus ante Evangelium', 'Evangélium előtti vers') + bi(lines(a.get('la', '')), lines(a['text'])) + bi_cite(a['cite'])
     return (bi_h3('Alleluia', 'Alleluja') + bi('Allelúia, allelúia.', 'Alleluja, alleluja!', 'resp') +
             bi(lines(a.get('la', '')), lines(a['text'])) + bi_cite(a['cite']) + bi('Allelúia.', 'Alleluja!', 'resp'))
 
@@ -365,6 +369,30 @@ def build_ordinary():
     return {'html': render(ORDINARY)}
 
 
+def build_readings():
+    """src/readings/<date>.json (tools/fetch_readings.py) -> app/data/readings/<date>.json: the day's
+    readings, put by the app into the Order of Mass on days without a Mass file."""
+    out = APP / 'data' / 'readings'
+    out.mkdir(parents=True, exist_ok=True)
+    have = {p.stem for p in (SRC / 'masses').glob('*.toml')}
+    written = set()
+    for path in sorted((SRC / 'readings').glob('*.json')):
+        if path.stem in have:   # the Mass file has its own readings
+            continue
+        r = json.loads(path.read_text(encoding='utf-8'))
+        hu = [reading(r['reading1']), psalm(r['psalm'])] + ([reading(r['reading2'])] if 'reading2' in r else [])
+        hu += [alleluia(r['alleluia']), gospel(r['gospel'])]
+        # No Latin lectionary text for these days yet: one note instead of a column of placeholders.
+        la = [bi_h3('Lectiones', 'Olvasmányok'), bi_note('A napi olvasmányok latinul még nincsenek feltöltve; magyarul lásd fent.')]
+        (out / f'{path.stem}.json').write_text(json.dumps({'day': r.get('day', ''), 'html': '\n'.join(hu), 'la_html': ''.join(la)},
+                                                          ensure_ascii=False), encoding='utf-8')
+        written.add(f'{path.stem}.json')
+    for stale in out.glob('*.json'):
+        if stale.name not in written:
+            stale.unlink()
+    print(f'{len(written)} days of readings')
+
+
 def render(m):
     """HTML of a Mass. Without propers (ORDINARY) the day's texts are replaced by rubric placeholders."""
     names = (m.get('names', []), m.get('la_names', []))
@@ -399,7 +427,7 @@ def render(m):
         h.append(alleluia(m['alleluia']))
         h.append(gospel(m['gospel']))
     else:
-        h.append(placeholder_readings())
+        h.append('<div class="day-readings">' + placeholder_readings() + '</div>')
     h.append('<h3>Homília</h3>')
     if m.get('creed'):
         h.append(ORDO['creed'])
@@ -439,7 +467,7 @@ def render(m):
             g.append(bi_reading(m['reading2']))
         g += [bi_alleluia(m['alleluia']), bi_gospel(m['gospel'])]
     else:
-        g.append(bi_placeholder_readings())
+        g.append('<div class="day-readings-la">' + bi_placeholder_readings() + '</div>')
     if m.get('creed'):
         g.append(ORDO_LA['creed'])
     g.append(bi_h3('Oratio universalis', 'Egyetemes könyörgések') + bi_note('Az egyetemes könyörgések csak magyarul vannak, lásd fent.'))
@@ -483,6 +511,7 @@ def main():
         if stale.name not in written:
             stale.unlink()
     (APP / 'data' / 'ordinary.json').write_text(json.dumps(build_ordinary(), ensure_ascii=False), encoding='utf-8')
+    build_readings()
     (APP / 'data' / 'calendar.json').write_text(json.dumps({'masses': cal}, ensure_ascii=False, indent=1), encoding='utf-8')
 
     # New service-worker cache name whenever any app file changes, so installed apps pick up the update.

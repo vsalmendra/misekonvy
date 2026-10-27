@@ -93,7 +93,7 @@ button.btn { background: none; cursor: pointer; }
 .bi-l { grid-column: 1; }
 .bi-r { grid-column: 2; }
 /* preface / EP wrappers must not break the two-column grid */
-.bi-grid .variants, .bi-grid .variant { display: contents; }
+.bi-grid .variants, .bi-grid .variant, .bi-grid .day-readings-la { display: contents; }
 .bi-full { grid-column: 1 / -1; }
 .bi-lab { font-family: var(--f-cap); color: var(--muted); font-size: .8em; letter-spacing: .08em; border-bottom: 1px solid var(--line); padding-bottom: .2rem; }
 .bi-grid h3 { margin-top: 1.4rem; }
@@ -187,8 +187,8 @@ body.empty #top, body.empty #jump-latin, body.empty #notice, body.empty .legend 
   document.addEventListener('click', function (e) { if (bar.classList.contains('open') && !bar.contains(e.target) && e.target !== fab && !cal.contains(e.target)) setMenu(false); });
   document.addEventListener('keydown', function (e) { if (e.key === 'Escape') setMenu(false); });
   // Refresh: drop the offline copy (installed app) and load the newest text
-  function hardReload(url) {
-    var go = function () { if (url) location.replace(url); else location.reload(); };
+  function hardReload() {
+    var go = function () { location.reload(); };
     try { if (window.caches) { caches.keys().then(function (ks) { return Promise.all(ks.map(function (k) { return caches.delete(k); })); }).then(go, go); return; } } catch (e) {}
     go();
   }
@@ -250,10 +250,7 @@ body.empty #top, body.empty #jump-latin, body.empty #notice, body.empty .legend 
     }).catch(function () { $('mass').innerHTML = '<p class="status">A miseszöveg nem tölthető be. Ellenőrizd az internetkapcsolatot, majd frissíts (↻).</p>'; });
   }
 
-  function choose(date) {
-    try { history.replaceState(null, '', date === today ? location.pathname : '?d=' + date); } catch (e) {}
-    show(date);
-  }
+  function choose(date) { show(date); }
 
   // Date picker
   var cal = $('cal'), view = null;
@@ -322,6 +319,15 @@ body.empty #top, body.empty #jump-latin, body.empty #notice, body.empty .legend 
       document.title = 'Napi szentmise';
       document.body.classList.remove('empty'); document.body.classList.add('ordinary');
       var box = $('mass'); box.innerHTML = m.html; wire(box);
+      // the day's readings, fetched ahead from igenaptár (tools/fetch_readings.py), if available
+      var day = today;
+      getJSON('data/readings/' + day + '.json').then(function (r) {
+        if (current !== null || day !== today) return;           // the user moved on meanwhile
+        $('m-meta').textContent = r.day;
+        var hu = box.querySelector('.day-readings'), la = box.querySelector('.day-readings-la');
+        if (hu) hu.innerHTML = r.html;
+        if (la) la.innerHTML = r.la_html;
+      }).catch(function () {});
       var n = $('notice'); n.hidden = false;
       n.innerHTML = '<span></span><span class="jump"><button type="button" class="btn" id="empty-reload">↻ Újratöltés</button>' +
         (dates.length ? '<button type="button" class="btn" id="empty-pick">📅 Másik nap</button>' : '') + '</span>';
@@ -331,30 +337,30 @@ body.empty #top, body.empty #jump-latin, body.empty #notice, body.empty .legend 
     }).catch(function () { empty(msg); });
   }
   function wireEmptyButtons() {
-    // carries the marker, so a manual reload never triggers the automatic one on top
-    $('empty-reload').addEventListener('click', function () { hardReload(location.pathname + '?' + RELOADED + '=' + today); });
+    // marks today as reloaded, so a manual reload never triggers the automatic one on top
+    $('empty-reload').addEventListener('click', function () { markReloaded(); hardReload(); });
     if (dates.length) $('empty-pick').addEventListener('click', function () { $('pick-date').click(); });
   }
 
-  var params = new URLSearchParams(location.search), RELOADED = 'frissitve';
-  var reloadedFor = params.get(RELOADED);
-  if (params.has(RELOADED)) { try { history.replaceState(null, '', location.pathname); } catch (e) {} }
+  // "Reloaded today" marker in this tab's session storage (not in the address). If the storage is
+  // not available, the app never reloads by itself, so it can never loop.
+  var RELOADED = 'mise-frissitve';
+  function reloadedToday() { try { return sessionStorage.getItem(RELOADED) === today; } catch (e) { return true; } }
+  function markReloaded() { try { sessionStorage.setItem(RELOADED, today); } catch (e) {} }
 
-  // Pick the Mass to show: the requested day, else today; if today has none, the logo screen.
-  function start(want) {
+  // Pick the Mass from the device's date: today's Mass, else the Order of Mass with today's readings.
+  function start() {
     return getJSON('data/calendar.json').then(function (c) {
       titles = {}; c.masses.forEach(function (m) { titles[m.date] = m.title; });
       dates = Object.keys(titles).sort();
-      if (want && titles[want]) return show(want);
       if (titles[today]) return show(today);
       // Today is after the last Mass: the app may be showing an old copy, so reload fresh once.
-      // The marker in the URL stops a second reload (no loops).
-      if (dates.length && today > dates[dates.length - 1] && reloadedFor !== today) { hardReload(location.pathname + '?' + RELOADED + '=' + today); return; }
+      if (dates.length && today > dates[dates.length - 1] && !reloadedToday()) { markReloaded(); hardReload(); return; }
       current = null;
       ordinary('A mai napra (' + short(today) + ') még nincs miseszöveg; itt a szentmise állandó részei.');
     }).catch(function () { current = null; ordinary('A naptár nem tölthető be (nincs internet?); itt a szentmise állandó részei.'); });
   }
-  start(params.get('d'));
+  start();
 
   // Installed app: the phone often resumes it instead of starting it again. When it comes back on a
   // new day and was showing that day's Mass (or the logo), move on to the new day.
@@ -364,7 +370,7 @@ body.empty #top, body.empty #jump-latin, body.empty #notice, body.empty .legend 
     if (now === today) return;
     var wasToday = current === null || current === today;
     today = now;
-    if (wasToday) { try { history.replaceState(null, '', location.pathname); } catch (e) {} start(null); }
+    if (wasToday) start();
   });
 
   // Keep the screen on while reading during Mass, where the browser allows it.

@@ -1,0 +1,29 @@
+{
+ "day": "33. évközi hét péntek",
+ "psalm": {
+  "cite": "Zsolt 118,14.24.72.103.111.131",
+  "response": "Mily édes ínyemnek a te szavad, Uram!",
+  "verses": [
+   "Bizonyságaid útján boldogabb vagyok,\nmint akármilyen gazdagságban.\nCsak bizonyságaidban gyönyörködöm,\nés igaz igéd lesz tanácsadóm.",
+   "Istenem, drágább nekem ajkad törvénye,\nsok ezer aranynál, ezüstnél.\nMily édes ínyemnek mindegyik szavad,\nszámnak édesebb a méznél.",
+   "Nekem igéd lesz örökrészem mindenkor,\nez tölti el szívemet örömmel.\nReménykedve nyitom fel ajkam,\nparancsaid után epedek."
+  ]
+ },
+ "alleluia": {
+  "text": "Jézus mondja: „Juhaim hallgatnak szavamra; ismerem őket, és ők a nyomomban járnak.”",
+  "cite": "Jn 10,27"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "A templom az imádság háza.",
+  "text": "Amikor Jézus Jeruzsálemben tartózkodott, bement a templomba, és kiűzte onnan a kereskedőket. Ezt mondta nekik: „Írva van: »Az én házam az imádság háza. Ti pedig rablóbarlanggá tettétek.«”\n\nOtt tanított azután mindennap a templomban. A főpapok, az írástudók és a nép vezetői az életére törtek. De nem tudták eldönteni, hogy mit tegyenek vele, mert az egész nép odaadó figyelemmel hallgatta (tanítását).",
+  "cite": "Lk 19,45-48"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "a Jelenések könyvéből",
+  "summary": "Jelképes látomásában Jánosnak le kell nyelnie a könyvet, vagyis teljesen meg kell értenie Isten határozatait, hogy közölhesse embertársaival.",
+  "text": "Én, János, égi hangot hallottam, amely így szólt hozzám:\n\n„Menj, vedd át a kibontott könyvtekercset az angyal kezéből, aki a tenger és a föld felett áll!” Odamentem az angyalhoz, és kértem, hogy adja át a könyvtekercset. Ő hozzám fordult: „Fogd a könyvtekercset, és nyeld le! Gyomrodban ugyan keserű lesz, de a szádban olyan édes, mint a méz.”\n\nÁtvettem a könyvtekercset az angyal kezéből, és lenyeltem. Számban édes volt, mint a méz: amikor azonban lenyeltem, a gyomrom keserű lett tőle.\n\nAztán ezt az utasítást kaptam: „Ismét jövendölnöd kell a nemzetekről, a különböző nyelvet beszélő népekről és királyokról.”",
+  "cite": "Jel 10,8-11"
+ }
+}

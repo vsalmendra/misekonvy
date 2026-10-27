@@ -1,0 +1,29 @@
+{
+ "day": "33. évközi hét szerda",
+ "psalm": {
+  "cite": "Zsolt 150,1-6",
+  "response": "Szent, szent, szent az Úristen, ő a Mindenható!",
+  "verses": [
+   "Dicsérjétek az Urat szentélyében,\ndicsérjétek a hatalmas égboltozaton!\nDicsérjétek hatalmas tetteiért,\ndicsérjétek, mert nagysága végtelen!",
+   "Dicsérjétek őt harsonaszóval,\ndicsérjétek lanttal, citerával!\nDicsérjétek őt dobbal és körtánccal,\ndicsérjétek őt citerával és fuvolával!",
+   "Dicsérjétek őt zengő cimbalommal,† dicsérjétek búgó cimbalom hangjával!\nMinden lélek az Urat dicsérje!"
+  ]
+ },
+ "alleluia": {
+  "text": "Jézus mondja: „Én kiválasztottalak titeket a világból, hogy menjetek és termést hozzatok, és termésetek meg is maradjon.”",
+  "cite": "Jn 15,16"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Tehetségeinket, mint Istentől ránk bízott kincset, kamatoztatnunk kell.",
+  "text": "Jézus Jeruzsálemhez közeledett. Sokan azt hitték, hogy hamarosan megvalósul az Isten országa, ezért a következő példabeszédet mondta nekik: „Egy előkelő ember messze földre indult, hogy ott királyi méltóságot nyerjen, és úgy térjen vissza. Magához hívta tíz szolgáját. Tíz mínát adott nekik, és így szólt: »Kereskedjetek vele, míg vissza nem térek!« Polgártársai azonban gyűlölték őt, ezért követséget küldtek utána, és tiltakoztak: »Nem akarjuk, hogy ez legyen a királyunk!« Az előkelő ember mégis elnyerte a királyi méltóságot, és hazatért. Ekkor hívatta szolgáit, akiknek a pénzt adta, hogy megtudja, ki mennyit szerzett vele. Előlépett az első, és így szólt: »Uram, mínád tíz mínát hozott.« Erre azt mondta neki: »Jól van, derék szolgám! Mivel a kevésben hűséges voltál, tíz város kormányzását bízom rád.«\n\nJött a másik szolga, és így szólt: »Uram, mínád öt mínát hozott.« Ennek azt mondta: »Te öt város kormányzója leszel.«\n\nJött a harmadik, és így szólt: »Uram, itt a mínád. Kendőbe kötve elrejtettem. Féltem ugyanis tőled, mert szigorú ember vagy: felveszed, amit le nem tettél, és learatod, amit nem is vetettél.«\n\nEzt így büntette meg: »A magad szavával ítéllek el, haszontalan szolga. Tudtad, hogy szigorú ember vagyok: felveszem, amit le nem tettem, és learatom, amit nem vetettem. Miért nem adtad pénzemet a pénzváltóknak, hogy hazaérkezve kamatostul kaptam volna vissza?« Aztán a körülállókhoz fordult: »Vegyétek el tőle a mínát, és adjátok annak, akinek tíz mínája van!« Azok megjegyezték: »Uram, hiszen már van tíz mínája.«\n\nDe ő így válaszolt: »Mondom nektek: Mindenkinek, akinek van, még adnak, hogy bővelkedjék. Attól azonban, akinek nincs, még azt is elveszik, amije van. Ellenségeimet pedig, akik nem akarták, hogy királyuk legyek, hozzátok ide, és öljétek meg szemem láttára!«”\n\nE szavak után Jézus folytatta útját Jeruzsálem felé.",
+  "cite": "Lk 19,11-28"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "a Jelenések könyvéből",
+  "summary": "A huszonnégy vén az Isten országának oszlopait, a pátriárkákat és az apostolokat jelképezi; a négy élőlény pedig az evangélistákat. Mindnyájan az örökkévaló Istent magasztalják.",
+  "text": "Én, János, látomásban láttam, hogy kapu nyílt az égen. És hangot hallottam, amely olyan volt, mint a harsona hangja. Így szólt: „Jöjj fel ide! Megmutatom neked, aminek ezután kell megtörténnie.”\n\nNyomban elragadtatásba estem. Íme, egy trón állt a mennyben, és a trónon ült valaki. Az ott ülőnek tekintete a jáspis és a karneol drágakő ragyogásához hasonlított. A trón felett smaragd színéhez hasonló szivárvány ívelt. A trón körül huszonnégy szék volt, a székeken huszonnégy vén ült fehér ruhába öltözve, fejükön aranykorona. A trónból villám és mennydörgő szózat tört elő. Hét fáklya égett a trón előtt: Isten hét szelleme. A trón előtt kristályhoz hasonló, üvegként csillogó tenger terült el. Középen a trón előtt és a trón körül négy élőlény, elöl- hátul csupa szem. Az első élőlény oroszlánhoz hasonlított, a második tulokhoz, a harmadiknak emberhez hasonló arca volt, a negyedik szárnyaló sashoz hasonlított. Mind a négy élőlénynek hat-hat szárnya volt, körös-körül és belül csupa szem. Éj- jel-nappal szüntelenül kiáltották: „Szent, szent, szent az Úr, a mindenható Isten, aki volt, aki van, és aki eljön!”\n\nMiközben az élőlények dicsőséget, tiszteletet és áldást zengtek a trónon ülőnek, az örökkön-örökké élőnek, a huszonnégy vén leborult a trónon ülő előtt, és imádta az örökkön-örökké élőt. Letették koronájukat a trón elé, és így kiáltottak: „Méltó vagy, Urunk, Istenünk, hogy tiéd legyen a dicsőség, a tisztelet és a hatalom, mert te alkottad a mindenséget; akaratod hívott létre és teremtett mindent.”",
+  "cite": "Jel 4,1-11"
+ }
+}

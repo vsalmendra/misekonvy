@@ -9,14 +9,19 @@ content over time. This CLAUDE.md is the source of truth. Claude Code commits an
   `sw.js`, icons, and the Mass database `app/data/` (generated, committed):
   `calendar.json` (dates that have a Mass) and `masses/<date>.json`.
   **Only this folder is published.** All paths inside it are relative (`./`), so it works from any URL.
-  The app opens today's Mass; `?d=YYYY-MM-DD` opens a given day; the 📅 button in the menu offers
-  only dates that have a Mass. No Mass for today → **the Order of Mass alone** (`app/data/ordinary.json`,
-  built by `tools/build.py`: fixed parts, placeholders for the day's texts, prefaces of EP II and IV,
-  all four EPs, Latin section) with "Újratöltés" and "Másik nap"; only if that cannot load, the logo.
-  If today is after the last Mass, the app reloads fresh once by itself (`?frissitve=<today>` in the
-  URL marks it, so it never loops). An installed app resumed on a new day moves on to that day.
+  The app takes the day from the device's date only (no URL parameters): today's Mass; the 📅 button
+  in the menu offers only dates that have a Mass. No Mass for today → **the Order of Mass alone**
+  (`app/data/ordinary.json`: fixed parts, placeholders for the day's prayers, prefaces of EP II and IV,
+  all four EPs, Latin section) **with the day's readings** (`app/data/readings/<date>.json`, if fetched),
+  plus "Újratöltés" and "Másik nap"; only if nothing can load, the logo.
+  If today is after the last Mass, the app reloads fresh once by itself (marker in the tab's
+  sessionStorage; without storage it never reloads by itself, so it never loops). An installed app
+  resumed on a new day moves on to that day.
 - `src/` — sources of the database: `library/` (Order of Mass, Eucharistic prayers, prefaces,
   `commons/`) and `masses/<date>.toml` + `masses/<date>.md` (the day's recipe/instructions).
+  `readings/<date>.json`: the day's readings from igenaptár for days without a Mass file —
+  `python3 tools/fetch_readings.py <from> [<to>]` (overwrites; check `git diff`). Fetched so far:
+  2026-10-27 … 2026-11-28 (not 11-02; Advent not yet published by igenaptár). Refill regularly.
 - `tools/build.py` — `python3 tools/build.py` rebuilds `app/data/` and bumps the SW cache name.
   Always run it and commit its output after changing `src/`.
 - `tests/app-test.mjs` — browser test (day selection, single automatic reload, no loops, resume on a

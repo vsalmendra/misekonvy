@@ -1,0 +1,29 @@
+{
+ "day": "31. évközi hét kedd",
+ "psalm": {
+  "cite": "Zsolt 21,26b-27.28-30a.31-32",
+  "response": "Dicsérlek téged, Istenem, szent néped körében.",
+  "verses": [
+   "Az istenfélők előtt\nteljesítem fogadalmamat.\nEgyenek a szegények és lakjanak jól, † áldják az Urat mind, akik keresik:\n„Szívük élni fog mindörökké”.",
+   "A föld határai megemlékeznek erről és az Úrhoz térnek,\nleborul előtte a nemzetek minden családja.\nEgyedül őt imádják mind, akik a földben alszanak,\nhódoljanak előtte mind, akik a porba visszatérnek.",
+   "Neki él az én lelkem,\nés neki fog szolgálni nemzetségem.\nBeszéljenek az Úrról a jövendő nemzedéknek, † igazságát hirdessék a születendő népnek:\n„Mindezt az Úr cselekedte!”"
+  ]
+ },
+ "alleluia": {
+  "text": "Jöjjetek hozzám mindnyájan, akik fáradtak vagytok, és terhek alatt görnyedtek: Én felüdítlek titeket – mondja a mi Urunk.",
+  "cite": "Mt 11,28"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Isten országában mindenki asztalhoz ülhet, aki a meghívást készséggel elfogadja.",
+  "text": "Jézus egyszer egy előkelő farizeus házában ebédelt. A vendégek közül megszólalt valaki: „Boldog, aki asztalhoz ülhet Isten országában!”\n\nJézus a következő példabeszéddel válaszolt: „Egy ember nagy lakomát rendezett. Sokakat meghívott. Amikor eljött a lakoma ideje, elküldte szolgáját, és ezt üzente a meghívottaknak: »Jöjjetek! Minden készen van!« De azok sorra mentegetőzni kezdtek. Az első azt üzente: »Földet vettem. El kell mennem, hogy megnézzem. Kérlek, ments ki engem!« A másik azt mondta: »Öt iga ökröt vettem, ki kell próbálnom. Kérlek, ments ki engem!« Egy további így szólt: »Most nősültem, nem mehetek.«\n\nA szolga hazatért, jelentette mindezt urának. A házigazda haragra lobbant. Meghagyta szolgájának: »Menj ki azonnal a város tereire és utcáira, és vezesd be ide a szegényeket, bénákat, vakokat, sántákat!« A szolga jelentette: »Uram, parancsodat teljesítettem, de még mindig van hely.« Az úr akkor megparancsolta a szolgának: »Menj ki az országutakra és a sövények mentére, és kényszeríts be mindenkit, hogy megteljék a házam! Mondom nektek: Senki sem ízleli meg lakomámat azok közül, akik hivatalosak voltak.«”",
+  "cite": "Lk 14,15-24"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a filippiekhez írt leveléből",
+  "summary": "Krisztus engedelmességből vállalta értünk a kereszthalált; Isten ezért felmagasztalta.",
+  "text": "Testvéreim!\n\nUgyanazt a lelkületet ápoljátok magatokban, amely Krisztus Jézusban volt. Ő, mint Isten, az Istennel való egyenlőséget nem tartotta olyan dolognak, amelyhez feltétlenül ragaszkodnia kell, hanem szolgai alakot öltött, kiüresítette önmagát, és hasonló lett az emberekhez. Megalázta magát, és engedelmes lett a halálig, mégpedig a kereszthalálig.\n\nEzért Isten felmagasztalta őt, és olyan nevet adott neki, amely felette áll minden névnek, hogy Jézus nevére hajoljon meg minden térd a mennyben, a földön és az alvilágban, s minden nyelv hirdesse az Atyaisten dicsőségére, hogy Jézus Krisztus az Úr.",
+  "cite": "Fil 2,5-11"
+ }
+}

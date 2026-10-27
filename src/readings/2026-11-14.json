@@ -1,0 +1,30 @@
+{
+ "day": "32. évközi hét szombat",
+ "psalm": {
+  "cite": "Zsolt 111,1-6",
+  "response": "Boldog az az ember, aki az Urat féli.",
+  "verses": [
+   "Vagy: Alleluja. 6. szám.\nBoldog ember, aki féli az Urat,\naki az Úr törvényében örömét leli.\nHatalmas lesz ivadéka a földön,\náldott lesz az igazak nemzetsége.",
+   "Vagy: Alleluja.\nDicsőség és gazdagság tölti be házát,\nigazsága örökre megmarad.\nAz igaz világít, mint fény a sötétségben,\nigazságos, jóságos és irgalmas.",
+   "Vagy: Alleluja.\nBoldog ember, aki irgalmas, † és szívesen ad kölcsön,\naki a törvény szerint intézi minden dolgát.\nNem tántorodik meg soha,\naz igaz emléke örökké megmarad.",
+   "Vagy: Alleluja."
+  ]
+ },
+ "alleluia": {
+  "text": "Az evangéliumban Isten meghívott minket, hogy Urunk, Jézus Krisztus dicsőségéből részt adjon nékünk.",
+  "cite": "2Tessz 2,14"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Isten meghallgatja azokat, akik őt állhatatosan kérik.",
+  "text": "Abban az időben: Jézus példabeszédet mondott arról, hogy szüntelenül kell imádkoznunk és nem szabad belefáradnunk. Így szólt: „Az egyik városban élt egy bíró, aki Istentől nem félt és embertől nem tartott. Élt abban a városban egy özvegyasszony is. Ez elment hozzá, és kérte: »Szolgáltass nekem igazságot ellenfelemmel szemben.« A bíró egy ideig vonakodott, aztán mégis így szólt magában: »Noha Istentől nem félek, embertől nem tartok, de ez az özvegy annyira terhemre van, hogy igazságot szolgáltatok neki, mert a végén még nekem jön és megver.«” Az Úr így szólt: „Hallottátok, hogy mit mond az igazságtalan bíró. Vajon Isten nem szolgáltat igazságot választottjainak, akik éjjel-nappal hozzá folyamodnak? Talán megvárakoztatja őket? Mondom nektek, hamarosan igazságot szolgáltat nekik. Csak az a kérdés, hogy amikor az Emberfia eljön, talál-e hitet a földön?”",
+  "cite": "Lk 18,1-8"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent János apostol harmadik leveléből",
+  "summary": "Akik az evangélium hirdetőit segítik, együttműködnek velük az igazság szolgálatában.",
+  "text": "Kedvesem!\n\nHelyesen teszed mindazt, amit a testvéreinkkel, főleg az úton levőkkel cselekszel. Ezek dicsérték szeretetedet a hívek közössége előtt.\n\nJól teszed, ha Istenünkhöz méltóan ezentúl is gondoskodol a továbbutazókról. Hiszen az Úr nevéért keltek útra, és semmit sem fogadnak el a pogányoktól. Nekünk kell tehát befogadnunk őket, hogy együttműködjünk velük az igazság szolgálatában.",
+  "cite": "3Jn 5-8"
+ }
+}

@@ -1,0 +1,29 @@
+{
+ "day": "30. évközi hét kedd",
+ "psalm": {
+  "cite": "Zsolt 127,1-2.3.4-5",
+  "response": "Íme, ilyen áldásban részesül, aki féli az Urat.",
+  "verses": [
+   "Boldog mindaz, ki féli az Urat,\naki az ő útjain jár.\nKezed munkájából élhetsz,\nboldog leszel, és jól megy sorod.",
+   "Feleséged olyan, mint a termő szőlőtő,\na te házad bensejében.\nFiaid olyanok, mint az olajfacsemeték,\núgy veszik körül asztalodat.",
+   "Íme, ilyen áldásban részesül az az ember,\naki féli az Urat.\nÁldjon meg az Úr Sionból,\nhogy lásd Jeruzsálem jólétét életed minden napján."
+  ]
+ },
+ "alleluia": {
+  "text": "Áldalak téged, Atyám, mennynek és földnek Istene, mert feltártad a kicsinyeknek országod titkait.",
+  "cite": "Vö. Mt 11,25"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "A kis magból terebélyes fa lesz: Isten országa is ugyanígy fejlődik.",
+  "text": "Jézus egy alkalommal így beszélt a néphez az Isten országáról: „Mihez hasonlít az Isten országa? Mihez is hasonlítsam? Hasonló a mustármaghoz. Az ember fogja, és elveti kertjében. Ott felnő, és nagy fává lesz. Az ég madarai megpihennek ágai között.”\n\nMajd így folytatta: „Mihez hasonlítsam az Isten országát? Hasonlít a kovászhoz, amelyet fog az asszony, és elvegyít három véka lisztben. Az egész megkel tőle.”",
+  "cite": "Lk 13,18-21"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak az efezusiakhoz írt leveléből",
+  "summary": "A házastársak látható egysége szent dolog, mert Krisztus és az Egyház láthatatlan kapcsolatát jelképezi.",
+  "text": "Testvéreim!\n\nLegyetek egymásnak alárendeltjei Krisztus iránti tiszteletből. Az asszony engedelmeskedjék férjének, akárcsak az Úrnak, mert a férfi feje az asszonynak, ahogy Krisztus feje az Egyháznak: ő ugyanis testének megváltója. Amint tehát az Egyház alá van vetve Krisztusnak, úgy az asszony is mindenben férjének.\n\nFérfiak, szeressétek feleségeteket, ahogy Krisztus is szerette az Egyházat, és feláldozta magát érte, hogy a keresztségben igéje által megtisztítsa és megszentelje. Ragyogóvá akarta tenni az Egyházat, amelyen sem szeplő, sem ránc, sem egyéb efféle nincsen, hanem szent és szeplőtelen. Így a férj is köteles szeretni feleségét, mint a saját testét. Aki feleségét szereti, önmagát szereti. A saját testét senki sem gyűlöli, hanem táplálja, gondozza, akárcsak Krisztus az Egyházat. Mi ugyanis tagjai vagyunk testének.\n\n„Ezért az ember elhagyja apját, anyját, feleségéhez csatlakozik, és a kettő egy test lesz.” Nagy titok ez: én Krisztusra és az Egyházra vonatkoztatom.\n\nSzeresse tehát mindegyiktek a feleségét, mint önmagát, az asszonyok meg tiszteljék férjüket!",
+  "cite": "Ef 5,21-33"
+ }
+}

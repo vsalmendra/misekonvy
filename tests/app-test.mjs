@@ -6,7 +6,7 @@
 // CHROMIUM_PATH may point to an existing Chromium. Dates come from app/data/calendar.json, so the
 // test keeps working as masses are added. "Today" is faked inside the page.
 import { createServer } from 'node:http';
-import { readFile } from 'node:fs/promises';
+import { readFile, readdir } from 'node:fs/promises';
 import { extname, join, normalize } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { chromium } from 'playwright';
@@ -84,8 +84,8 @@ async function open(day, path = '', { blockCalendar = false, blockOrdinary = fal
   const eps = await t.page.$$eval('#sel-ep option', o => o.map(x => x.value));
   check(prefs.join() === 'ep2,ep4' && eps.length === 4, `${day}: prefaces ${prefs.join(', ')}; ${eps.length} Eucharistic prayers`);
   check(await t.page.isVisible('#empty-reload') && await t.page.isVisible('#latin'), `${day}: reload button and Latin section present`);
-  check(t.loads.length === 2 && t.loads[1].includes(`frissitve=${day}`), `${day}: exactly one automatic reload (${t.loads.join(' → ')})`);
-  check(!t.page.url().includes('frissitve'), `${day}: marker removed from the address`);
+  check(t.loads.length === 2, `${day}: exactly one automatic reload (${t.loads.join(' → ')})`);
+  check(t.loads.every(u => u === '/') && t.page.url() === BASE, `${day}: the address never changes`);
   await t.page.click('#empty-reload');
   await t.page.waitForTimeout(2500);
   check(t.loads.length === 3, `${day}: "Újratöltés" reloads exactly once (${t.loads.length} page loads)`);
@@ -101,12 +101,28 @@ for (const day of [shift(first, -1), gap].filter(Boolean)) {
   await t.ctx.close();
 }
 
-// 4. ?d= opens that day, whatever today is.
+// 4. No URL tricks: a ?d= in the address is ignored; the device date decides.
 {
-  const t = await open(shift(last, 10), `?d=${first}`);
+  const t = await open(last, `?d=${first}`);
   const s = await t.state();
-  check(!s.empty && t.loads.length === 1, `?d=${first}: opens "${s.title}" without reload`);
+  check(s.title === cal.find(m => m.date === last).title && t.loads.length === 1, `?d=${first} ignored: today's Mass opens ("${s.title}")`);
   await t.ctx.close();
+}
+
+// 4b. A day without a Mass but with readings: the Order of Mass with that day's readings.
+{
+  const withReadings = (await readdir(join(APP, 'data/readings'))).map(f => f.slice(0, 10)).sort();
+  const day = withReadings.find(d => d > last);
+  if (day) {
+    const r = JSON.parse(await readFile(join(APP, 'data/readings', day + '.json'), 'utf8'));
+    const t = await open(day);
+    await t.page.waitForTimeout(500);
+    const text = await t.page.innerText('#r2');
+    const meta = await t.page.textContent('#m-meta');
+    check((await t.state()).ordinary && !text.includes('lekcionáriumból') && text.includes('Ez az Isten igéje') && meta === r.day,
+      `${day}: Order of Mass with the day's readings ("${meta}")`);
+    await t.ctx.close();
+  }
 }
 
 // 5. Calendar cannot be loaded (offline, no copy): logo, no automatic reload.

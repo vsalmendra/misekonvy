@@ -1,0 +1,30 @@
+{
+ "day": "32. évközi hét csütörtök",
+ "psalm": {
+  "cite": "Zsolt 145,7-10",
+  "response": "Boldog az az ember, akinek segítője Jákob Istene!",
+  "verses": [
+   "Vagy: Alleluja. 4. szám.\nIsten igaz marad örökké,\naz elnyomottaknak igazságot szolgáltat.\nAz éhezőknek ő ad kenyeret,\nkiszabadítja az Úr a foglyokat.",
+   "Vagy: Alleluja.\nAz Úr megnyitja a vakok szemét,\nés fölemeli azt, aki elesett.\nAz Úr szereti az igaz embert,\na jövevényt megvédi.",
+   "Vagy: Alleluja.\nAz Úr támogatja az árvát és özvegyet,\nés elpusztítja a gonoszok útját.\nAz Úr uralkodik örökké,\na te Istened, ó, Sión, nemzedékről nemzedékre.",
+   "Vagy: Alleluja."
+  ]
+ },
+ "alleluia": {
+  "text": "Jézus mondja: „Én vagyok a szőlőtő, ti pedig a szőlővesszők. Aki bennem marad, és én őbenne, az bő termést hoz.”",
+  "cite": "Vö. Jn 15,5"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Isten országa bennünk jön el.",
+  "text": "A farizeusok egyszer megkérdezték Jézustól, mikor jön el az Isten országa. Ő ezt válaszolta: „Isten országa nem jön el szembetűnő módon. Nem lehet azt mondani: »Nézd itt van, vagy amott!« Isten országa köztetek van.”\n\nAzután tanítványaihoz fordult: „Jönnek napok, amikor az Emberfiának egyetlen napját is szívesen látnátok, de nem látjátok. Mondják majd nektek: »Nézzétek, itt van, vagy amott!« Oda ne menjetek, és ne higgyétek! Mert ahogy a cikázó villám az ég egyik felétől a másikig villan, úgy jön el azon a napon az Emberfia is. Előbb azonban sokat kell szenvednie, és megvetésben kell részesülnie ettől a nemzedéktől.”",
+  "cite": "Lk 17,20-25"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak Filemonhoz írt leveléből",
+  "summary": "Az apostol arra kéri Filemont, hogy szökött rabszolgáját, aki időközben keresztény lett, úgy fogadja, mint szeretett testvérét.",
+  "text": "Szeretett Testvérem!\n\nNagy örömmel és vigasztalással töltött el, amit szeretetedről hallottam, mert megnyugvást szereztél a hívek szívének. Ezért – bár Jézus Krisztusra hivatkozva meg is parancsolhatnám azt, ami úgyis kötelességed, mégis – a szeretet alapján inkább kérlek, én, az öreg Pál, aki most Krisztus Jézusért fogságot szenvedek. Fiamért, Onezimuszért könyörgök, akinek bilincseimben én adtam életet (Krisztusban). Egykor haszontalan volt számodra, most azonban számodra is, számomra is hasznos. Úgy küldöm vissza hozzád, mint saját szívemet. Szerettem volna magam mellett tartani, hogy helyetted szolgáljon nekem fogságomban, amelyet az evangéliumért viselek.\n\nBeleegyezésed nélkül azonban mégsem teszem, hogy jótéteményed ne kényszerből fakadjon, hanem önként vállald. Talán éppen azért hagyott ott egy időre, hogy egyszer s mindenkorra visszakapjad, de már nem mint szolgát, hanem többet: mint szeretett testvért. Mert nekem teljesen az, de neked még inkább: test szerint is, az Úrban is. Ha tehát együtt érzel velem, fogadd őt úgy, mint engem. Amennyiben pedig megkárosított vagy tartozik valamivel, írd az én terhemre. Én, Pál – saját kezűleg írom – én térítem meg. Arról nem is szólok, hogy önmagaddal is nekem tartozol. Bizony, így van ez, testvér! Szeretném, ha örömömre szolgálnál az Úrban. Teljesítsd hát szívem vágyát Krisztusban!",
+  "cite": "Filem 7-20"
+ }
+}

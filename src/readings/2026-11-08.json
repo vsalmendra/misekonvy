@@ -1,0 +1,37 @@
+{
+ "day": "Évközi 32. vasárnap",
+ "psalm": {
+  "cite": "Zsolt 62,2.3-4.5-6.7-8",
+  "response": "Hozzád vágyódik szívem, én Uram, Istenem.",
+  "verses": [
+   "Uram, Istenem, virrasztva kereslek,\naz én Istenem te vagy nékem.\nTéged szomjaz a lelkem, testem utánad eped,\nmint a puszta tikkadt, kiaszott földje.",
+   "Szentélyedben neked szolgáltam,\nhogy erődet és dicsőségedet megláthassam.\nMert irgalmad többet ér, mint az élet,\nezért ajkam dicsőít téged.",
+   "Neked mondok áldást, amíg csak élek,\na te nevedben tárom imára kezemet.\nMint dús lakomával, teljék be lelkem,\najkam ujjong, szám dicsőít téged.",
+   "Még fekvőhelyemen is rád gondolok,\nhajnalig rólad elmélkedem.\nValóban te lettél védelmezőm,\nszárnyaid oltalmában örvendezem."
+  ]
+ },
+ "alleluia": {
+  "text": "Virrasszatok és készen álljatok, mert nem tudjátok, hogy az Emberfia melyik órában érkezik.",
+  "cite": "Mt 24,42a.44"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Íme, jön a Vőlegény! Menjetek eléje!",
+  "text": "Abban az időben Jézus a következő példabeszédet mondta tanítványainak:\n\nA mennyek országa olyan, mint az a tíz szűz, akik vették lámpáikat, és kimentek a vőlegény elé. Öten közülük balgák voltak, öten pedig okosak. A balgák fogták a lámpásukat, de olajat nem vittek magukkal; az okosak azonban korsóikban olajat is vittek lámpásaikhoz. Késett a vőlegény, s ők mind elálmosodtak és elaludtak. Az éjszaka közepén egyszerre kiáltás hangzott: „Íme, a vőlegény! Menjetek eléje!” Erre a szüzek mindnyájan fölébredtek, és felszították lámpásaikat. A balgák kérték az okosakat: „Adjatok az olajotokból, mert lámpásaink kialvóban vannak!” Az okosak ezt válaszolták: „Nem lehet, nehogy nekünk is, nektek is kevés legyen. Inkább menjetek el a kereskedőkhöz, és vegyetek magatoknak!” Míg azok vásárolni mentek, megérkezett a vőlegény, és akik készen voltak, bementek vele a menyegzőre; az ajtó pedig bezárult.\n\nKésőbb megérkezett a többi szűz is. Így szóltak: „Uram, uram! Nyiss ajtót nekünk!” De ő így válaszolt: „Bizony mondom nektek, nem ismerlek titeket!” Virrasszatok tehát, mert nem ismeritek sem a napot, sem az órát!",
+  "cite": "Mt 25,1-13"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "a Bölcsesség könyvéből",
+  "summary": "A bölcsességre rátalálnak, akik keresik.",
+  "text": "A bölcsesség ragyogó és hervadhatatlan, könnyen felismerik, akik szeretik, és rátalálnak, akik keresik. Már előre megmutatkozik azoknak, akik vágyódnak rá. Aki korán reggel keresni kezdi, nem kell fáradnia, mert ajtajánál ülve találja. Róla elmélkedni tökéletes okosság, aki érte virraszt, hamar megszabadul a gondtól. Hisz maga megy, s megkeresi azokat, akik méltók rá, barátságosan megjelenik nekik az utakon, és minden szándékukban találkozik velük.",
+  "cite": "Bölcs 6,12-16"
+ },
+ "reading2": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a tesszaloniki hívekhez írt első leveléből",
+  "summary": "Isten feltámasztja azokat, akik Jézusban hunytak el.",
+  "text": "Testvéreim!\n\nAz elhunytak sorsáról nem akarunk tájékozatlanságban hagyni benneteket, hogy ne szomorkodjatok, mint a többiek, akiknek nincs reményük. Ha Jézus, mint ahogy hisszük, meghalt és feltámadt, akkor Isten vele együtt feltámasztja azokat is, akik Jézusban hunytak el.\n\nAz Úr tanítása alapján ugyanis ezt mondjuk nektek: Mi élők, akik az Úr eljöveteléig megmaradunk, nem előzzük meg az elhunytakat. A parancsszóra, a főangyal kiáltására, Isten harsonájának szavára az Úr maga száll le a mennyből. Először a Krisztusban elhunytak támadnak fel, azután mi élők, akik életben maradunk, velük együtt elragadtatunk a magasba, hogy találkozzunk Krisztussal, és örökké az Úrral legyünk.",
+  "cite": "1Tessz 4,13-18"
+ }
+}

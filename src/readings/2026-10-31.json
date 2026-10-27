@@ -1,0 +1,29 @@
+{
+ "day": "30. évközi hét szombat",
+ "psalm": {
+  "cite": "Zsolt 41,2.3.5bcd",
+  "response": "Istent szomjazza lelkem: az élő Istent.",
+  "verses": [
+   "Mint szarvasgím a források vizére,\núgy sóvárog utánad a lelkem, Istenem.",
+   "Lelkem szomjazik az Isten után, † az élő Isten után,\nmikor mehetek, hogy megjelenjek az Isten színe előtt?",
+   "Arra gondolok, † hogyan mentem be a csodás hajlékba Isten házáig,\nmiközben ujjongott és énekelt az ünneplő sokaság."
+  ]
+ },
+ "alleluia": {
+  "text": "Vegyétek magatokra igámat, és tanuljatok tőlem, mert szelíd vagyok és alázatos szívű!",
+  "cite": "Mt 11,29ab"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "A kevélyt megalázzák, az alázatost dicsőségre emelik.\n\nSzeretetből tegyük a jót, ne pedig a viszonzás reményében.",
+  "text": "Az egyik szombaton Jézus betért egy vezető farizeus házába, hogy nála étkezzék. Amikor észrevette, hogy a meghívottak válogatják az első helyeket, egy példabeszédet mondott nekik.\n\n„Amikor lakodalomra hívnak, ne ülj az első helyre, mert akadhat a hivatalosak közt nálad előkelőbb is. Ha ez megérkezik, odajön, aki meghívott titeket, és felszólít: »Add át a helyedet neki!« És akkor szégyenszemre az utolsó helyet kell elfoglalnod.\n\nHa tehát hivatalos vagy valahova, menj el, és foglald el az utolsó helyet, hogy amikor a házigazda odajön, így szóljon hozzád: »Barátom, menj följebb!« Milyen kitüntetés lesz ez számodra a többi vendég előtt! Mert mindazt, aki magát felmagasztalja, megalázzák, aki pedig magát megalázza, azt felmagasztalják.”",
+  "cite": "Lk 14,1.7-11"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a filippiekhez írt leveléből",
+  "summary": "A keresztény ember számára az élet Krisztus, a halál pedig nyereség.",
+  "text": "Testvéreim!\n\nMindig örülök, és ezután is örülni fogok, ha azt hallom, hogy valaki Krisztust hirdeti. Tudom ugyanis, hogy ez (az igehirdetés) a ti imádságtok által és Jézus Krisztus Lelkének segítségével üdvösségemre válik.\n\nAbban bízom és remélek, hogy semmiben sem vallok szégyent. Sőt nyíltan megmondom, hogy Krisztus most is, mint mindig, megdicsőül testemben, akkor is, ha élek, akkor is, ha meghalok. Hiszen számomra az élet Krisztus, a halál pedig nyereség. Ha viszont tovább kell élnem, az gyümölcsöző munkát jelent.\n\nNem tudom tehát, mit válasszak, mert mind a kettő vonz: Szeretnék elköltözni (e világból), hogy Krisztussal legyek, mert ez mindennél jobb volna. De hogy értetek életben maradjak, arra nagyobb szükség van. Ebben a meggyőződésben biztosra veszem, hogy életben maradok, sőt előrehaladástokra és hitből fakadó örömötökre maradok meg, mindnyájatok javára. Így még több okotok lesz arra, hogy Krisztusban örüljetek, ha majd elmegyek hozzátok.",
+  "cite": "Fil 1,18b-26"
+ }
+}

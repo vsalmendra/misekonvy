@@ -1,0 +1,29 @@
+{
+ "day": "34. évközi hét szombat (2026 \"A\" egyházi év vége)",
+ "psalm": {
+  "cite": "Zsolt 94,1-7",
+  "response": "Marana tha! Jöjj el, Urunk, Jézus!",
+  "verses": [
+   "Jöjjetek, örvendezzünk az Úrnak,\nés ujjongjunk üdvünk sziklája előtt.\nDicsőítő énekkel lépjünk színe elé,\nmagasztaljuk őt zsoltárt zengve.",
+   "Mert az Úr valóban nagy Isten,\naz összes isteneknél dicsőbb király.\nA Föld mélységei az ő kezében vannak,\nés övé a hegyek minden orma.\nÖvé a tenger, az ő műve,\na szárazföld is az ő keze alkotása.",
+   "Jöjjetek, boruljunk le, hódoljunk előtte,\nhulljunk térdre Urunk, Alkotónk előtt,\nmert ő a mi Istenünk,\nmi pedig az ő népe, és kezére bízott nyáj vagyunk."
+  ]
+ },
+ "alleluia": {
+  "text": "Imádkozva virrasszatok szüntelen, hogy az Emberfia elé méltón álljatok.",
+  "cite": "Lk 21,36"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Vigyázzunk, hogy az Úr eljövetele készen találjon bennünket.",
+  "text": "Jézus ezeket mondta tanítványainak a világ végéről:\n\n„Vigyázzatok, hogy el ne nehezedjék szívetek tobzódásban, részegeskedésben és az evilági gondokban. Így majd nem ér készületlenül benneteket az a nap. Mint a csapda, úgy csap le mindazokra, akik a földön laknak. Virrasszatok hát és imádkozzatok szüntelenül, hogy megmeneküljetek attól, ami majd bekövetkezik, és megállhassatok az Emberfia színe előtt.”",
+  "cite": "Lk 21,34-36"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "a Jelenések könyvéből",
+  "summary": "Az üdvözültek örök világosságban élnek, mert Isten fényessége ragyogja be őket.",
+  "text": "Az Úr angyala megmutatta nekem az élő vizek folyóját, amely kristálytisztán fakadt Isten és a Bárány trónjából. Az utca közepén és a folyó mindkét partján az élet fái álltak. Tizenkétszer hoznak termést, vagyis minden hónapban gyümölcsöt teremnek. A leveleik a nemzetek gyógyulására szolgálnak.\n\nÁtok nem lesz többé benne. Isten és a Bárány trónja áll majd ott, és szolgái hódolnak neki. Látni fogják arcát, és homlokukon hordják a nevét. Nem lesz többé éjszaka, és nem szorulnak lámpafényre vagy napvilágra. Az Úristen ragyogja be őket, és uralkodni fognak örökkön-örökké.\n\nAztán így szólt hozzám az angyal: „Ezek a szavak hitelesek és igazak. Az Úr, a próféta-lelkek Istene, elküldte angyalát, hogy hírül adja szolgáinak mindazt, aminek csakhamar meg kell történnie.\n\nNézd, hamarosan eljövök. Boldog, aki megszívleli e könyv prófétai szavait!”",
+  "cite": "Jel 22,1-7"
+ }
+}
