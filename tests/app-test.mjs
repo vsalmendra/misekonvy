@@ -34,11 +34,12 @@ let failures = 0;
 function check(ok, what) { console.log(`${ok ? 'ok  ' : 'FAIL'} ${what}`); if (!ok) failures++; }
 
 // A page whose clock says `day` 08:00 local time; ctx.clock.setSystemTime moves it (app resumed next day).
-async function open(day, path = '', { blockCalendar = false } = {}) {
+async function open(day, path = '', { blockCalendar = false, blockOrdinary = false } = {}) {
   const ctx = await browser.newContext({ viewport: { width: 390, height: 844 }, serviceWorkers: 'block' });
   // Playwright's clock: the faked date survives reloads, like a real phone's date.
   await ctx.clock.install({ time: new Date(day + 'T08:00:00') });
   if (blockCalendar) await ctx.route('**/data/calendar.json', r => r.abort());
+  if (blockOrdinary) await ctx.route('**/data/ordinary.json', r => r.abort());
   const page = await ctx.newPage();
   const loads = [], errors = [];
   page.on('request', r => { if (r.resourceType() === 'document') loads.push(r.url().replace(BASE, '/')); });
@@ -46,7 +47,10 @@ async function open(day, path = '', { blockCalendar = false } = {}) {
   await page.goto(BASE + path);
   await page.waitForTimeout(1500);
   const state = async () => ({
-    empty: await page.evaluate(() => document.body.classList.contains('empty')),
+    // no Mass of the day: the Order of Mass alone ("ordinary") or, if that fails too, the logo ("empty")
+    empty: await page.evaluate(() => ['ordinary', 'empty'].some(c => document.body.classList.contains(c))),
+    ordinary: await page.evaluate(() => document.body.classList.contains('ordinary')),
+    logo: await page.evaluate(() => document.body.classList.contains('empty')),
     title: await page.textContent('#m-title'),
   });
   const setDay = d => ctx.clock.setSystemTime(new Date(d + 'T08:00:00'));
@@ -75,13 +79,17 @@ async function open(day, path = '', { blockCalendar = false } = {}) {
   const t = await open(day);
   await t.page.waitForTimeout(2000);
   const s = await t.state();
-  check(s.empty, `${day} (after last): logo screen`);
+  check(s.ordinary, `${day} (after last): Order of Mass shown`);
+  const prefs = await t.page.$$eval('#sel-pref option', o => o.map(x => x.value));
+  const eps = await t.page.$$eval('#sel-ep option', o => o.map(x => x.value));
+  check(prefs.join() === 'ep2,ep4' && eps.length === 4, `${day}: prefaces ${prefs.join(', ')}; ${eps.length} Eucharistic prayers`);
+  check(await t.page.isVisible('#empty-reload') && await t.page.isVisible('#latin'), `${day}: reload button and Latin section present`);
   check(t.loads.length === 2 && t.loads[1].includes(`frissitve=${day}`), `${day}: exactly one automatic reload (${t.loads.join(' → ')})`);
   check(!t.page.url().includes('frissitve'), `${day}: marker removed from the address`);
   await t.page.click('#empty-reload');
   await t.page.waitForTimeout(2500);
   check(t.loads.length === 3, `${day}: "Újratöltés" reloads exactly once (${t.loads.length} page loads)`);
-  check((await t.state()).empty, `${day}: still the logo after the manual reload`);
+  check((await t.state()).ordinary, `${day}: still the Order of Mass after the manual reload`);
   check(t.errors.length === 0, `${day}: no script errors ${t.errors.join(' ')}`);
   await t.ctx.close();
 }
@@ -89,7 +97,7 @@ async function open(day, path = '', { blockCalendar = false } = {}) {
 // 3. Before the first Mass, and a gap between masses: logo, no automatic reload.
 for (const day of [shift(first, -1), gap].filter(Boolean)) {
   const t = await open(day);
-  check((await t.state()).empty && t.loads.length === 1, `${day} (no Mass, not after the last): logo, no reload`);
+  check((await t.state()).empty && t.loads.length === 1, `${day} (no Mass, not after the last): Order of Mass, no reload`);
   await t.ctx.close();
 }
 
@@ -104,7 +112,15 @@ for (const day of [shift(first, -1), gap].filter(Boolean)) {
 // 5. Calendar cannot be loaded (offline, no copy): logo, no automatic reload.
 {
   const t = await open(last, '', { blockCalendar: true });
-  check((await t.state()).empty && t.loads.length === 1, 'calendar unreachable: logo, no reload');
+  check((await t.state()).empty && t.loads.length === 1, 'calendar unreachable: Order of Mass, no reload');
+  await t.ctx.close();
+}
+
+// 5b. Neither the calendar nor the Order of Mass can be loaded: the logo with the reload button.
+{
+  const t = await open(last, '', { blockCalendar: true, blockOrdinary: true });
+  const s = await t.state();
+  check(s.logo && await t.page.isVisible('#empty-reload') && t.loads.length === 1, 'nothing loadable: logo with reload, no automatic reload');
   await t.ctx.close();
 }
 
@@ -115,7 +131,7 @@ for (const day of [shift(first, -1), gap].filter(Boolean)) {
   await t.setDay(next);
   await t.page.evaluate(() => document.dispatchEvent(new Event('visibilitychange')));
   await t.page.waitForTimeout(2500);
-  check((await t.state()).empty, `resumed on ${next}: logo`);
+  check((await t.state()).empty, `resumed on ${next}: Order of Mass`);
   check(t.loads.length === 2, `resumed on ${next}: one reload only (${t.loads.join(' → ')})`);
   await t.page.evaluate(() => document.dispatchEvent(new Event('visibilitychange')));
   await t.page.waitForTimeout(1500);

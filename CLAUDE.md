@@ -10,7 +10,9 @@ content over time. This CLAUDE.md is the source of truth. Claude Code commits an
   `calendar.json` (dates that have a Mass) and `masses/<date>.json`.
   **Only this folder is published.** All paths inside it are relative (`./`), so it works from any URL.
   The app opens today's Mass; `?d=YYYY-MM-DD` opens a given day; the 📅 button in the menu offers
-  only dates that have a Mass. No Mass for today → the logo with "Újratöltés" (and "Másik nap").
+  only dates that have a Mass. No Mass for today → **the Order of Mass alone** (`app/data/ordinary.json`,
+  built by `tools/build.py`: fixed parts, placeholders for the day's texts, prefaces of EP II and IV,
+  all four EPs, Latin section) with "Újratöltés" and "Másik nap"; only if that cannot load, the logo.
   If today is after the last Mass, the app reloads fresh once by itself (`?frissitve=<today>` in the
   URL marks it, so it never loops). An installed app resumed on a new day moves on to that day.
 - `src/` — sources of the database: `library/` (Order of Mass, Eucharistic prayers, prefaces,

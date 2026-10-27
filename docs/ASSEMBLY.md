@@ -68,6 +68,9 @@ still missing; the page shows "(A latin szöveg még nincs feltöltve.)" in thei
 
 ## The page
 
+- Days without a Mass file show the Order of Mass alone (`ORDINARY` in `tools/build.py`): the day's
+  texts as rubric placeholders, prefaces of EP II (default) and EP IV, EP II default.
+
 - Header: date, title, colour, then the day ("29. évközi hét szerdája · választható emléknap") and
   **which Mass is used** (`mass_type`: proper / common (formula) / votive …). The Eucharistic prayer
   and the readings are **not** listed in the header.

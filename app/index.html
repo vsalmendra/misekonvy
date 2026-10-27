@@ -118,6 +118,7 @@ button.btn { background: none; cursor: pointer; }
 .alt-btn { font: .72em var(--f-cap); letter-spacing: .06em; color: var(--muted); background: none; border: 0; border-bottom: 1px solid transparent; padding: .1rem 0; cursor: pointer; }
 .alt-btn[aria-pressed="true"] { color: var(--rubric); border-bottom-color: var(--rubric); }
 .alt-btn:focus-visible { outline: 2px solid var(--rubric); outline-offset: 2px; }
+.notice .jump { margin: .6rem 0 0; }
 .notice { max-width: 36rem; margin: 1rem auto 0; padding: .6rem .8rem; background: var(--chip); border-radius: 10px; font-size: .85em; color: var(--muted); text-align: center; }
 .status { text-align: center; color: var(--muted); margin: 4rem 0; }
 /* No Mass for today: logo + reload */
@@ -163,7 +164,7 @@ body.empty #top, body.empty #jump-latin, body.empty #notice, body.empty .legend 
     <p class="rank" id="m-rank"></p>
     <p class="meta" id="m-meta"></p>
   </header>
-  <p class="notice" id="notice" hidden></p>
+  <div class="notice" id="notice" hidden></div>
   <p class="jump" id="jump-latin"><a class="btn" href="#latin">Latin–magyar szöveg ↓</a></p>
   <div id="mass"><p class="status">Betöltés…</p></div>
   <p class="legend">A félkövér szöveget a hívek mondják.</p>
@@ -242,7 +243,7 @@ body.empty #top, body.empty #jump-latin, body.empty #notice, body.empty .legend 
       var meta = $('m-meta'); meta.textContent = '';
       m.meta.filter(Boolean).forEach(function (line, i) { if (i) meta.appendChild(document.createElement('br')); meta.appendChild(document.createTextNode(line)); });
       document.title = m.title + ' – Napi szentmise';
-      document.body.classList.remove('empty');
+      document.body.classList.remove('empty', 'ordinary');
       var box = $('mass'); box.innerHTML = m.html; wire(box);
       var n = $('notice'); n.hidden = !note; n.textContent = note || '';
       window.scrollTo(0, 0);
@@ -300,11 +301,36 @@ body.empty #top, body.empty #jump-latin, body.empty #notice, body.empty .legend 
 
   // No Mass to show: the app logo, a reload button and (if there are other days) the date picker
   function empty(msg) {
-    document.body.classList.add('empty'); document.title = 'Napi szentmise';
+    document.body.classList.remove('ordinary'); document.body.classList.add('empty'); document.title = 'Napi szentmise';
     $('mass').innerHTML = '<div class="empty-day"><img src="icon-512.png" alt="" width="112" height="112"><p></p>' +
       '<p class="jump"><button type="button" class="btn" id="empty-reload">↻ Újratöltés</button>' +
       (dates.length ? '<button type="button" class="btn" id="empty-pick">📅 Másik nap</button>' : '') + '</p></div>';
     $('mass').querySelector('.empty-day p').textContent = msg;
+    $('notice').hidden = true;
+    wireEmptyButtons();
+  }
+
+  // No Mass for today: the Order of Mass alone (fixed parts, all prefaces of the Eucharistic prayers),
+  // with reload and date picker on top. If even that cannot be loaded: the logo screen.
+  var DAYS = ['vasárnap', 'hétfő', 'kedd', 'szerda', 'csütörtök', 'péntek', 'szombat'];
+  function ordinary(msg) {
+    current = null;
+    return getJSON('data/ordinary.json').then(function (m) {
+      var d = new Date();
+      $('m-date').textContent = d.getFullYear() + '. ' + MONTHS[d.getMonth()] + ' ' + d.getDate() + '. · ' + DAYS[d.getDay()];
+      $('m-title').textContent = 'A szentmise állandó részei'; $('m-rank').textContent = ''; $('m-meta').textContent = '';
+      document.title = 'Napi szentmise';
+      document.body.classList.remove('empty'); document.body.classList.add('ordinary');
+      var box = $('mass'); box.innerHTML = m.html; wire(box);
+      var n = $('notice'); n.hidden = false;
+      n.innerHTML = '<span></span><span class="jump"><button type="button" class="btn" id="empty-reload">↻ Újratöltés</button>' +
+        (dates.length ? '<button type="button" class="btn" id="empty-pick">📅 Másik nap</button>' : '') + '</span>';
+      n.firstChild.textContent = msg;
+      wireEmptyButtons();
+      window.scrollTo(0, 0);
+    }).catch(function () { empty(msg); });
+  }
+  function wireEmptyButtons() {
     // carries the marker, so a manual reload never triggers the automatic one on top
     $('empty-reload').addEventListener('click', function () { hardReload(location.pathname + '?' + RELOADED + '=' + today); });
     if (dates.length) $('empty-pick').addEventListener('click', function () { $('pick-date').click(); });
@@ -325,8 +351,8 @@ body.empty #top, body.empty #jump-latin, body.empty #notice, body.empty .legend 
       // The marker in the URL stops a second reload (no loops).
       if (dates.length && today > dates[dates.length - 1] && reloadedFor !== today) { hardReload(location.pathname + '?' + RELOADED + '=' + today); return; }
       current = null;
-      empty('A mai napra (' + short(today) + ') még nincs miseszöveg.');
-    }).catch(function () { current = null; empty('A naptár nem tölthető be. Ellenőrizd az internetkapcsolatot, majd töltsd újra.'); });
+      ordinary('A mai napra (' + short(today) + ') még nincs miseszöveg; itt a szentmise állandó részei.');
+    }).catch(function () { current = null; ordinary('A naptár nem tölthető be (nincs internet?); itt a szentmise állandó részei.'); });
   }
   start(params.get('d'));
 

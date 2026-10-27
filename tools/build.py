@@ -164,23 +164,32 @@ def latin_option(opts):
 
 
 def antiphon(o):
+    if o.get('placeholder'):
+        return p(PROPER, 'rub')
     return p(lines(o['text']), 'verse') + cite(o.get('cite', ''))
 
 
 def prayer(intro):
     def r(o):
+        if o.get('placeholder'):
+            return (p('Könyörögjünk!') if intro else '') + p(PROPER, 'rub') + resp('Ámen.')
         return (p('Könyörögjünk!') if intro else '') + p(lines(o['text']), 'verse') + resp('Ámen.')
     return r
 
 
 def bi_antiphon(la_title, hu_title, opts):
     o, note = latin_option(opts)
+    if o.get('placeholder'):
+        return bi_h3(la_title, hu_title) + bi(PROPER_LA, PROPER, 'rub')
     return (bi_h3(la_title, hu_title) + (bi_note(note) if note else '') +
             bi(lines(o.get('la', '')), lines(o['text']), 'verse') + bi_cite(o.get('la_cite') or o.get('cite', '')))
 
 
 def bi_prayer(la_title, hu_title, opts, intro):
     o, note = latin_option(opts)
+    if o.get('placeholder'):
+        return (bi_h3(la_title, hu_title) + (bi('Orémus.', 'Könyörögjünk!') if intro else '') +
+                bi(PROPER_LA, PROPER, 'rub') + bi('Amen.', 'Ámen.', 'resp'))
     return (bi_h3(la_title, hu_title) + (bi_note(note) if note else '') +
             (bi('Orémus.', 'Könyörögjünk!') if intro else '') +
             bi(lines(o.get('la', '')), lines(o['text']), 'verse') + bi('Amen.', 'Ámen.', 'resp'))
@@ -244,6 +253,30 @@ def bi_gospel(g):
             bi('Laus tibi, Christe.', 'Áldunk téged, Krisztus.', 'resp') + bi_cite(g['cite']))
 
 
+def placeholder_readings():
+    """Order of Mass alone: the fixed dialogues of the Liturgy of the Word, the readings left to the book."""
+    return '\n'.join([
+        '<h3>Olvasmány</h3>', p(READING, 'rub'), p('Ez az Isten igéje.'), resp('Istennek legyen hála.'),
+        '<h3>Válaszos zsoltár</h3>', p(READING, 'rub'),
+        '<h3>Alleluja</h3>', resp('Alleluja, alleluja!'), p(READING, 'rub'), resp('Alleluja!'),
+        '<h3>Evangélium</h3>', p('Az Úr legyen veletek.'), resp('És a te lelkeddel.'),
+        p('Evangélium Szent N. könyvéből.'), resp('Dicsőség neked, Istenünk.'), p(READING, 'rub'),
+        p('Ezek az evangélium igéi.'), resp('Áldunk téged, Krisztus.')])
+
+
+def bi_placeholder_readings():
+    return (bi_h3('Lectio', 'Olvasmány') + bi(READING_LA, READING, 'rub') + bi('Verbum Dómini.', 'Ez az Isten igéje.') +
+            bi('Deo grátias.', 'Istennek legyen hála.', 'resp') +
+            bi_h3('Psalmus responsorius', 'Válaszos zsoltár') + bi(READING_LA, READING, 'rub') +
+            bi_h3('Alleluia', 'Alleluja') + bi('Allelúia, allelúia.', 'Alleluja, alleluja!', 'resp') +
+            bi(READING_LA, READING, 'rub') + bi('Allelúia.', 'Alleluja!', 'resp') +
+            bi_h3('Evangelium', 'Evangélium') + bi('Dóminus vobíscum.', 'Az Úr legyen veletek.') +
+            bi('Et cum spíritu tuo.', 'És a te lelkeddel.', 'resp') +
+            bi('Léctio sancti Evangélii secúndum N.', 'Evangélium Szent N. könyvéből.') +
+            bi('Glória tibi, Dómine.', 'Dicsőség neked, Istenünk.', 'resp') + bi(READING_LA, READING, 'rub') +
+            bi('Verbum Dómini.', 'Ezek az evangélium igéi.') + bi('Laus tibi, Christe.', 'Áldunk téged, Krisztus.', 'resp'))
+
+
 def faithful(f):
     out = ['<h3>Egyetemes könyörgések</h3>', p(esc(f['intro']))]
     for i, pet in enumerate(f['petitions'], 1):
@@ -301,6 +334,39 @@ def build_mass(path):
     d = Date.fromisoformat(m['date'])
     if path.stem != m['date']:
         raise BuildError(f'{path.name}: file name must be the date ({m["date"]})')
+    html_out = render(m)
+    return {
+        'date': m['date'],
+        'dateLabel': f'{d.year}. {MONTHS[d.month - 1]} {d.day}. · {DAYS[d.weekday()]}',
+        'title': m['title'],
+        'rank': m.get('rank', ''),
+        'meta': [m.get('day', ''), m.get('mass_type', '')],
+        'html': html_out,
+    }, html_out.count(NO_LATIN)
+
+
+# ---------- the Order of Mass alone (shown when a day has no Mass yet) ----------
+
+ORDINARY = {'eucharistic_prayer': 2, 'prefaces': ['ep2']}
+PROPER = '(A napi szöveg a misekönyvből.)'
+PROPER_LA = '(Textus proprius diei e Missali.)'
+READING = '(A napi olvasmány a lekcionáriumból.)'
+READING_LA = '(Lectio diei e Lectionario.)'
+
+
+def proper_slot(m, slot, names):
+    """The day's options for a slot, or a placeholder when the Order of Mass is shown alone."""
+    if slot in m:
+        return opts_of(m[slot], slot, names)
+    return [{'text': '', 'la': '', 'placeholder': True}]
+
+
+def build_ordinary():
+    return {'html': render(ORDINARY)}
+
+
+def render(m):
+    """HTML of a Mass. Without propers (ORDINARY) the day's texts are replaced by rubric placeholders."""
     names = (m.get('names', []), m.get('la_names', []))
     ep = str(m.get('eucharistic_prayer', 2))
     prefs = m.get('prefaces', [])
@@ -313,7 +379,7 @@ def build_mass(path):
     for flag in ('gloria', 'creed'):
         if m.get(flag) and flag not in ORDO:
             raise BuildError(f'{flag} = true, but src/library/ordo.toml has no {flag} yet')
-    o = {s: opts_of(m[s], s, names) for s in ('entrance', 'collect', 'offertory', 'communion', 'postcommunion')}
+    o = {s: proper_slot(m, s, names) for s in ('entrance', 'collect', 'offertory', 'communion', 'postcommunion')}
 
     h = []
     h.append('<section id="r1"><h2 class="part">Bevezető szertartás</h2>')
@@ -325,16 +391,20 @@ def build_mass(path):
     h.append('</section>')
 
     h.append('<section id="r2"><h2 class="part">Az Ige liturgiája</h2>')
-    h.append(reading(m['reading1']))
-    h.append(psalm(m['psalm']))
-    if 'reading2' in m:
-        h.append(reading(m['reading2']))
-    h.append(alleluia(m['alleluia']))
-    h.append(gospel(m['gospel']))
+    if 'reading1' in m:
+        h.append(reading(m['reading1']))
+        h.append(psalm(m['psalm']))
+        if 'reading2' in m:
+            h.append(reading(m['reading2']))
+        h.append(alleluia(m['alleluia']))
+        h.append(gospel(m['gospel']))
+    else:
+        h.append(placeholder_readings())
     h.append('<h3>Homília</h3>')
     if m.get('creed'):
         h.append(ORDO['creed'])
-    h.append(faithful(m['faithful']))
+    h.append(faithful(m['faithful']) if 'faithful' in m else
+             '<h3>Egyetemes könyörgések</h3>' + p('(A napi egyetemes könyörgések.)', 'rub'))
     h.append('</section>')
 
     h.append('<section id="r3"><h2 class="part">Az Eucharisztia liturgiája</h2>')
@@ -363,10 +433,13 @@ def build_mass(path):
         g.append(ORDO_LA['gloria'])
     g.append(bi_prayer('Collecta', 'Könyörgés', o['collect'], True))
     g.append(bi_h2('Liturgia verbi · Az Ige liturgiája'))
-    g += [bi_reading(m['reading1']), bi_psalm(m['psalm'])]
-    if 'reading2' in m:
-        g.append(bi_reading(m['reading2']))
-    g += [bi_alleluia(m['alleluia']), bi_gospel(m['gospel'])]
+    if 'reading1' in m:
+        g += [bi_reading(m['reading1']), bi_psalm(m['psalm'])]
+        if 'reading2' in m:
+            g.append(bi_reading(m['reading2']))
+        g += [bi_alleluia(m['alleluia']), bi_gospel(m['gospel'])]
+    else:
+        g.append(bi_placeholder_readings())
     if m.get('creed'):
         g.append(ORDO_LA['creed'])
     g.append(bi_h3('Oratio universalis', 'Egyetemes könyörgések') + bi_note('Az egyetemes könyörgések csak magyarul vannak, lásd fent.'))
@@ -386,17 +459,7 @@ def build_mass(path):
     h.append(f'<section id="latin" class="bilingual"><h2 class="part">Latin–magyar szöveg</h2>{back}'
              '<p class="bi-hint">Fektesd el a telefont, vagy húzd oldalra a szöveget: ⇆ latin | magyar</p>'
              f'<div class="bi-grid">{"".join(g)}</div>{back}</section>')
-    html_out = '\n'.join(h)
-    missing = html_out.count(NO_LATIN)
-
-    return {
-        'date': m['date'],
-        'dateLabel': f'{d.year}. {MONTHS[d.month - 1]} {d.day}. · {DAYS[d.weekday()]}',
-        'title': m['title'],
-        'rank': m.get('rank', ''),
-        'meta': [m.get('day', ''), m.get('mass_type', '')],
-        'html': html_out,
-    }, missing
+    return '\n'.join(h)
 
 
 def main():
@@ -419,6 +482,7 @@ def main():
     for stale in out.glob('*.json'):
         if stale.name not in written:
             stale.unlink()
+    (APP / 'data' / 'ordinary.json').write_text(json.dumps(build_ordinary(), ensure_ascii=False), encoding='utf-8')
     (APP / 'data' / 'calendar.json').write_text(json.dumps({'masses': cal}, ensure_ascii=False, indent=1), encoding='utf-8')
 
     # New service-worker cache name whenever any app file changes, so installed apps pick up the update.
