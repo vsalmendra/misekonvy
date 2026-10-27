@@ -227,3 +227,43 @@ Mert megérdemeltük ugyan az elmúlást, de jóságod folytán kegyelmet kaptun
 
 Ezért a mennyei hatalmas angyalokkal együtt a földön mi is szüntelenül magasztalunk téged, fölségedet dicsérjük, és hangos szóval vég nélkül mondjuk:
 '''
+
+[apostolok-1]
+label = "Prefáció az apostolokról I."
+source = "Római Misekönyv 1991 (PPEK 335), 62. prefáció, 393. o. – az új misekönyvvel még nem egyeztetve"
+sub = "Az apostolok Isten népének pásztorai"
+la_label = "Praefatio I de Apostolis"
+text = '''
+Valóban méltó és igazságos, illő és üdvös, hogy mindig és mindenütt hálát adjunk néked, mi Urunk, szentséges Atyánk, mindenható, örök Isten:
+
+Mert nyájadat, örök Pásztorunk, magára nem hagyod, hanem szent apostolaid által mindvégig őrzöd és óvod, hogy azok kormányozzák hívő népedet, kik rendelésedből állnak nyájad élén Fiad helyett, mint pásztorok.
+
+Ezért mi is, miként az angyalok és főangyalok, a trónod körül álló hatalmas égi szellemek, és minden seregek a mennyben, dicsőséged himnuszát zengjük, és velük együtt vég nélkül mondjuk:
+'''
+la = '''
+Vere dignum et iustum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine, sancte Pater, omnípotens ætérne Deus:
+
+Qui gregem tuum, Pastor ætérne, non déseris, sed per beátos Apóstolos contínua protectióne custódis, ut iísdem rectóribus gubernétur, quos Fílii tui vicários eídem contulísti præésse pastóres.
+
+Et ídeo cum Angelis et Archángelis, cum Thronis et Dominatiónibus, cumque omni milítia cæléstis exércitus, hymnum glóriæ tuæ cánimus, sine fine dicéntes:
+'''
+
+[apostolok-2]
+label = "Prefáció az apostolokról II."
+source = "Római Misekönyv 1991 (PPEK 335), 63. prefáció, 394. o. – az új misekönyvvel még nem egyeztetve"
+sub = "Az Egyház apostoli alapjai és tanúi"
+la_label = "Praefatio II de Apostolis"
+text = '''
+Valóban méltó és igazságos, illő és üdvös, hogy mindig és mindenütt hálát adjunk néked, mi Urunk, szentséges Atyánk, mindenható, örök Isten: Krisztus, a mi Urunk által.
+
+Mert megadtad Egyházadnak, hogy az apostolok szilárd alapján álljon, a te szentséged örök jeleként maradjon fenn itt a földön, és tanúságot tegyen a mennynek országáról minden népnek.
+
+Ezért az angyalok egész seregével együtt most és mindörökké zengjük, és hálás szívvel mondjuk:
+'''
+la = '''
+Vere dignum et iustum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine, sancte Pater, omnípotens ætérne Deus: per Christum Dóminum nostrum.
+
+Quóniam Ecclésiam tuam in apostólicis tribuísti consístere fundaméntis, ut signum sanctitátis tuæ in terris manéret ipsa perpétuum, et cæléstia præbéret cunctis homínibus documénta.
+
+Quaprópter nunc et usque in sǽculum cum omni milítia Angelórum devóta tibi mente concínimus, clamántes atque dicéntes:
+'''

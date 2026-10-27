@@ -35,6 +35,7 @@ PREFACES = load(SRC / 'library/prefaces.toml')
 COMMONS = {p.stem: load(p) for p in (SRC / 'library/commons').glob('*.toml')}
 ALWAYS_PREFACES = ['ep2', 'ep4']
 NO_LATIN = '(A latin szöveg még nincs feltöltve.)'
+NO_HU = '(A magyar szöveg itt még nem érhető el – a lekcionáriumból.)'
 
 
 class BuildError(Exception):
@@ -151,7 +152,8 @@ def options(opts, render):
                    f'{esc(o.get("label", str(i + 1)))}</button>' for i, o in enumerate(opts))
     panels = '\n'.join(f'<div class="alt" data-i="{i}"{"" if i == 0 else " hidden"}>\n{render(o)}\n</div>'
                        for i, o in enumerate(opts))
-    return f'<div class="alts"><div class="alt-btns" role="group" aria-label="Választható szövegek">{btns}</div>\n{panels}\n</div>'
+    group = ' data-group="lect"' if render is word else ''   # the readings switch also drives the Latin section
+    return f'<div class="alts"{group}><div class="alt-btns" role="group" aria-label="Választható szövegek">{btns}</div>\n{panels}\n</div>'
 
 
 def latin_option(opts):
@@ -203,17 +205,20 @@ def reading(r):
     out = [f'<h3>{esc(r.get("label", "Olvasmány"))}</h3>', p(esc(r['sub']), 'sub')]
     if r.get('summary'):
         out.append(p(esc(r['summary']), 'rub'))
-    out += [paras(r['text']), p('Ez az Isten igéje.'), resp('Istennek legyen hála.'), cite(r['cite'])]
+    out += [paras(r['text']) if r.get('text') else p(NO_HU, 'rub'),
+            p('Ez az Isten igéje.'), resp('Istennek legyen hála.'), cite(r['cite'])]
     return '\n'.join(out)
 
 
 def bi_reading(r):
     return (bi_h3('Lectio', esc(r.get('label', 'Olvasmány'))) + bi(esc(r.get('la_sub', '')), esc(r['sub']), 'rub') +
-            bi_paras(r.get('la'), r['text']) + bi('Verbum Dómini.', 'Ez az Isten igéje.') +
+            bi_paras(r.get('la'), r.get('text', '')) + bi('Verbum Dómini.', 'Ez az Isten igéje.') +
             bi('Deo grátias.', 'Istennek legyen hála.', 'resp') + bi_cite(r['cite']))
 
 
 def psalm(s):
+    if not s.get('response'):
+        return '\n'.join(['<h3>Válaszos zsoltár</h3>', cite(s['cite']), p(NO_HU, 'rub')])
     out = ['<h3>Válaszos zsoltár</h3>', cite(s['cite']), resp(s['response'])]
     for v in s['verses']:
         out += [p(lines(v), 'verse'), resp(s['response'])]
@@ -222,23 +227,25 @@ def psalm(s):
 
 def bi_psalm(s):
     la_r = esc(s.get('la_response', ''))
-    out = bi_h3('Psalmus responsorius', 'Válaszos zsoltár') + bi_cite(s['cite']) + bi(la_r, esc(s['response']), 'resp')
-    for la, hu in zip_longest(s.get('la_verses', []), s['verses']):
-        out += bi(lines(la) if la else '', lines(hu), 'verse') + bi(la_r, esc(s['response']), 'resp')
+    hu_r = esc(s.get('response', ''))
+    out = bi_h3('Psalmus responsorius', 'Válaszos zsoltár') + bi_cite(s['cite']) + bi(la_r, hu_r, 'resp')
+    for la, hu in zip_longest(s.get('la_verses', []), s.get('verses', [])):
+        out += bi(lines(la) if la else '', lines(hu) if hu else '', 'verse') + bi(la_r, hu_r, 'resp')
     return out
 
 
 def alleluia(a):
     if a.get('lent'):   # Lent: verse before the gospel, no alleluia
         return '\n'.join(['<h3>Evangélium előtti vers</h3>', p(lines(a['text'])), cite(a['cite'])])
-    return '\n'.join(['<h3>Alleluja</h3>', resp('Alleluja, alleluja!'), p(lines(a['text'])), cite(a['cite']), resp('Alleluja!')])
+    text = p(lines(a['text'])) if a.get('text') else p(NO_HU, 'rub')
+    return '\n'.join(['<h3>Alleluja</h3>', resp('Alleluja, alleluja!'), text, cite(a['cite']), resp('Alleluja!')])
 
 
 def bi_alleluia(a):
     if a.get('lent'):
         return bi_h3('Versus ante Evangelium', 'Evangélium előtti vers') + bi(lines(a.get('la', '')), lines(a['text'])) + bi_cite(a['cite'])
     return (bi_h3('Alleluia', 'Alleluja') + bi('Allelúia, allelúia.', 'Alleluja, alleluja!', 'resp') +
-            bi(lines(a.get('la', '')), lines(a['text'])) + bi_cite(a['cite']) + bi('Allelúia.', 'Alleluja!', 'resp'))
+            bi(lines(a.get('la', '')), lines(a.get('text', ''))) + bi_cite(a['cite']) + bi('Allelúia.', 'Alleluja!', 'resp'))
 
 
 def gospel(g):
@@ -246,7 +253,8 @@ def gospel(g):
            p(f'Evangélium {esc(g["book"])} könyvéből.'), resp('Dicsőség neked, Istenünk.')]
     if g.get('summary'):
         out.append(p(esc(g['summary']), 'rub'))
-    out += [paras(g['text']), p('Ezek az evangélium igéi.'), resp('Áldunk téged, Krisztus.'), cite(g['cite'])]
+    out += [paras(g['text']) if g.get('text') else p(NO_HU, 'rub'),
+            p('Ezek az evangélium igéi.'), resp('Áldunk téged, Krisztus.'), cite(g['cite'])]
     return '\n'.join(out)
 
 
@@ -255,8 +263,19 @@ def bi_gospel(g):
     return (bi_h3('Evangelium', 'Evangélium') + bi('Dóminus vobíscum.', 'Az Úr legyen veletek.') +
             bi('Et cum spíritu tuo.', 'És a te lelkeddel.', 'resp') +
             bi(book, f'Evangélium {esc(g["book"])} könyvéből.') + bi('Glória tibi, Dómine.', 'Dicsőség neked, Istenünk.', 'resp') +
-            bi_paras(g.get('la'), g['text']) + bi('Verbum Dómini.', 'Ezek az evangélium igéi.') +
+            bi_paras(g.get('la'), g.get('text', '')) + bi('Verbum Dómini.', 'Ezek az evangélium igéi.') +
             bi('Laus tibi, Christe.', 'Áldunk téged, Krisztus.', 'resp') + bi_cite(g['cite']))
+
+
+def word(r):
+    """The readings of the Liturgy of the Word (one set)."""
+    out = [reading(r['reading1']), psalm(r['psalm'])] + ([reading(r['reading2'])] if 'reading2' in r else [])
+    return '\n'.join(out + [alleluia(r['alleluia']), gospel(r['gospel'])])
+
+
+def bi_word(r):
+    out = [bi_reading(r['reading1']), bi_psalm(r['psalm'])] + ([bi_reading(r['reading2'])] if 'reading2' in r else [])
+    return ''.join(out + [bi_alleluia(r['alleluia']), bi_gospel(r['gospel'])])
 
 
 def placeholder_readings():
@@ -432,13 +451,9 @@ def render(m):
     h.append('</section>')
 
     h.append('<section id="r2"><h2 class="part">Az Ige liturgiája</h2>')
-    if 'reading1' in m:
-        h.append(reading(m['reading1']))
-        h.append(psalm(m['psalm']))
-        if 'reading2' in m:
-            h.append(reading(m['reading2']))
-        h.append(alleluia(m['alleluia']))
-        h.append(gospel(m['gospel']))
+    sets = m.get('readings') or ([m] if 'reading1' in m else [])
+    if sets:
+        h.append(options(sets, word))
     else:
         h.append('<div class="day-readings">' + placeholder_readings() + '</div>')
     h.append('<h3>Homília</h3>')
@@ -474,11 +489,10 @@ def render(m):
         g.append(ORDO_LA['gloria'])
     g.append(bi_prayer('Collecta', 'Könyörgés', o['collect'], True))
     g.append(bi_h2('Liturgia verbi · Az Ige liturgiája'))
-    if 'reading1' in m:
-        g += [bi_reading(m['reading1']), bi_psalm(m['psalm'])]
-        if 'reading2' in m:
-            g.append(bi_reading(m['reading2']))
-        g += [bi_alleluia(m['alleluia']), bi_gospel(m['gospel'])]
+    if len(sets) == 1:
+        g.append(bi_word(sets[0]))
+    elif sets:   # follows the readings buttons of the Hungarian part
+        g.append(variants('lect', [(str(i), bi_word(r)) for i, r in enumerate(sets)], '0'))
     else:
         g.append('<div class="day-readings-la">' + bi_placeholder_readings() + '</div>')
     if m.get('creed'):

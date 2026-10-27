@@ -232,6 +232,8 @@ body.empty #top, body.empty #jump-latin, body.empty #notice, body.empty .legend 
       btns.forEach(function (b) { b.addEventListener('click', function () {
         btns.forEach(function (x) { x.setAttribute('aria-pressed', x === b ? 'true' : 'false'); });
         panels.forEach(function (p) { p.hidden = p.dataset.i !== b.dataset.i; });
+        // a readings switch (data-group) also switches the matching block of the Latin section
+        if (alts.dataset.group) box.querySelectorAll('.variants[data-group="' + alts.dataset.group + '"] > .variant').forEach(function (v) { v.hidden = v.dataset.opt !== b.dataset.i; });
       }); });
     });
   }

@@ -1,5 +1,6 @@
 # Fixed parts of the Order of Mass (new Hungarian missal wording), as HTML fragments.
-# Taken from the 2026-10-20 page. Gloria and Creed are still missing (needed on Sundays/feasts).
+# Taken from the 2026-10-20 page. Gloria: katolikus.hu "A szentmise állandó részei magyarul" (2015),
+# not yet checked against the new missal. Creed still missing (needed on Sundays/solemnities).
 
 greeting = '''
 <h3>Köszöntés</h3>
@@ -81,3 +82,8 @@ concluding = '''
 <p class="resp">Istennek legyen hála.</p>
 '''
 
+
+gloria = '''
+<h3>Dicsőség</h3>
+<p class="resp">Dicsőség a magasságban Istennek, és a földön békesség a jóakaratú embereknek. Dicsőítünk téged, áldunk téged, imádunk téged, magasztalunk téged, hálát adunk neked nagy dicsőségedért, Urunk és Istenünk, mennyei Király, mindenható Atyaisten. Urunk, Jézus Krisztus, egyszülött Fiú, Urunk és Istenünk, Isten Báránya, az Atyának Fia, te elveszed a világ bűneit, irgalmazz nekünk; te elveszed a világ bűneit, hallgasd meg könyörgésünket. Te az Atya jobbján ülsz, irgalmazz nekünk. Mert egyedül te vagy a Szent, te vagy az Úr, te vagy az egyetlen Fölség, Jézus Krisztus, a Szentlélekkel együtt, az Atyaisten dicsőségében. Ámen.</p>
+'''

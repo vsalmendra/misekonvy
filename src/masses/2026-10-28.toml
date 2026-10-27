@@ -1,0 +1,248 @@
+# Recipe: src/masses/2026-10-28.md
+date = "2026-10-28"
+title = "Szent Simon és Szent Júdás Tádé apostolok"
+day = "30. évközi hét szerdája · ünnep"
+rank = "piros színben"
+gloria = true
+creed = false
+eucharistic_prayer = 3
+prefaces = ["apostolok-1", "apostolok-2"]
+mass_type = "Saját mise (ünnep)"
+
+[entrance]
+text = '''
+Ezek azok a férfiak, akiket az Úr igaz szeretetben kiválasztott,
+és örökké tartó dicsőséggel jutalmazott.
+'''
+la = '''
+Isti sunt viri sancti,
+quos elegit Dominus in caritate non ficta,
+et dedit illis gloriam sempiternam.
+'''
+
+[collect]
+text = '''
+Istenünk, te úgy akartad,
+hogy apostolaid által jussunk el neved ismeretére.
+Szent Simon és Szent Júdás Tádé közbenjárására
+add jóságosan kegyelmedet,
+hogy Egyházad szüntelenül gyarapodjék,
+és egyre több nép fogadjon el hívő lélekkel téged.
+A mi Urunk, Jézus Krisztus, a te Fiad által,
+aki veled él és uralkodik a Szentlélekkel egységben,
+Isten mindörökkön-örökké.
+'''
+la = '''
+Deus, qui nos per beatos Apostolos
+ad agnitionem tui nominis venire tribuisti,
+intercedentibus sanctis Simone et Iuda,
+concede propitius,
+ut semper augeatur Ecclesia
+incrementis in te credentium populorum.
+Per Dominum nostrum Iesum Christum, Filium tuum,
+qui tecum vivit et regnat in unitate Spiritus Sancti,
+Deus, per omnia saecula saeculorum.
+'''
+
+[offertory]
+text = '''
+Urunk, Istenünk,
+Szent Simon és Szent Júdás Tádé apostol
+örök dicsőségéről megemlékezve
+arra kérünk,
+fogadd el felajánlott adományainkat,
+és tégy minket méltóvá a szent áldozat bemutatására.
+Krisztus, a mi Urunk által.
+'''
+la = '''
+Gloriam, Domine,
+sanctorum apostolorum Simonis et Iudae
+perpetuam venerantes,
+quaesumus, ut vota nostra suscipias
+et ad sacra mysteria celebranda nos digne perducas.
+Per Christum Dominum nostrum.
+'''
+
+[communion]
+cite = "Jn 14,23"
+text = '''
+Aki szeret engem, az megtartja tanításomat,
+s Atyám is szeretni fogja.
+Hozzá megyünk és benne fogunk lakni – mondja az Úr.
+'''
+la = '''
+Si quis diligit me, sermonem meum servabit,
+dicit Dominus;
+et Pater meus diliget eum, et ad eum veniemus,
+et mansionem apud eum faciemus.
+'''
+
+[postcommunion]
+text = '''
+Urunk, Istenünk, e szentségben részesedve
+könyörögve kérünk a Szentlélekben,
+hogy ez az áldozat, amelyet Szent Simon és Szent Júdás Tádé
+szenvedésére emlékezve felajánlottunk,
+őrizzen meg minket szeretetedben.
+Krisztus, a mi Urunk által.
+'''
+la = '''
+Perceptis, Domine, sacramentis,
+supplices in Spiritu Sancto deprecamur,
+ut, quae pro apostolorum Simonis et Iudae
+veneranda gerimus passione,
+nos in tua dilectione conservent.
+Per Christum Dominum nostrum.
+'''
+
+# Readings: the feast's (first, selected) and the weekday's, switchable.
+[[readings]]
+label = "Ünnepi olvasmányok"
+
+[readings.reading1]
+label = "Szentlecke"
+sub = "Szent Pál apostolnak az efezusiakhoz írt leveléből"
+summary = "Apostolokra alapozott épület vagytok."
+cite = "Ef 2,19-22"
+la_sub = "Lectio Epistolae beati Pauli apostoli ad Ephesios"
+text = '''
+Testvéreim!
+
+Nem vagytok már idegenek és jövevények, hanem a szentek polgártársai és Isten háza népe.
+
+Apostolokra és prófétákra alapozott épület vagytok, amelynek szegletköve maga Jézus Krisztus. Benne kapcsolódik egybe az egész épület, és emelkedik az Úr szent templomává. Őbenne épültök egybe ti is, és lesztek a Szentlélek közreműködésével Isten hajlékává.
+'''
+la = '''
+Fratres:
+
+Iam non estis extranei et advenae, sed estis concives sanctorum et domestici Dei,
+
+superaedificati super fundamentum Apostolorum et Prophetarum, ipso summo angulari lapide Christo Iesu; in quo omnis aedificatio compacta crescit in templum sanctum in Domino; in quo et vos coaedificamini in habitaculum Dei in Spiritu.
+'''
+
+[readings.psalm]
+cite = "Zsolt 18,2-3.4-5"
+response = "Minden földre elhat szózatuk."
+la_response = "In omnem terram exivit sonus eorum."
+verses = [
+'''
+Isten dicsőségét az egek hirdetik,
+a mennybolt vallja kezének művét.
+Ezt harsogja át egyik nap a másiknak,
+erre oktatja éj az éjszakát.
+''', '''
+Nem olyan hang ez, nem olyan beszéd,
+hogy meg ne értenéd szavát.
+Minden földre elhat szózatuk,
+a földkerekség végéig eljut igéjük.
+''']
+la_verses = [
+'''
+Caeli enarrant gloriam Dei,
+et opera manuum eius annuntiat firmamentum.
+Dies diei eructat verbum,
+et nox nocti indicat scientiam.
+''', '''
+Non sunt loquelae neque sermones,
+quorum non intellegantur voces.
+In omnem terram exivit sonus eorum,
+et in fines orbis terrae verba eorum.
+''']
+
+[readings.alleluia]
+cite = ""
+text = "Téged, Isten, dicsérünk, téged Úrnak ismerünk! Téged dicsér, egek Ura, apostolok boldog kara."
+la = "Te Deum laudamus, te Dominum confitemur; te gloriosus Apostolorum chorus laudat, Domine."
+
+[readings.gospel]
+book = "Szent Lukács"
+la_book = "Lucam"
+summary = "Tanítványai közül Jézus kiválasztott tizenkettőt, s elnevezte őket apostoloknak."
+cite = "Lk 6,12-19"
+text = '''
+Jézus egyszer fölment egy hegyre imádkozni. Az egész éjszakát Isten imádásában töltötte.
+
+Másnap magához hívta tanítványait, és kiválasztott közülük tizenkettőt, akiket apostoloknak nevezett: Simont, akit Péternek is hívott, és testvérét, Andrást; Jakabot és Jánost, Fülöpöt és Bertalant, Mátét és Tamást; Jakabot, Alfeus fiát és a buzgó Simont; Júdást, Jakab fiát, továbbá karióti Júdást, aki később elárulta őt.
+
+Azután lement velük, és egy sík mezőn megállt. Ott nagy csoport tanítvány sereglett köréje, és hatalmas tömeg vette körül Júdeából, Jeruzsálemből, Tirusz és Szidon tengerparti vidékéről. Ezek azért gyűltek össze, hogy hallgassák őt, és gyógyulást nyerjenek betegségükből. Meggyógyultak azok is, akiket tisztátalan lelkek gyötörtek. Az egész tömeg érinteni akarta őt, mert erő áradt ki belőle, és mindenkit meggyógyított.
+'''
+la = '''
+Factum est in illis diebus exiit Iesus in montem orare, et erat pernoctans in oratione Dei.
+
+Et cum dies factus esset, vocavit discipulos suos, et elegit duodecim ex ipsis, quos et Apostolos nominavit: Simonem, quem et cognominavit Petrum, et Andream fratrem eius, et Iacobum et Ioannem, et Philippum et Bartholomaeum, et Matthaeum et Thomam, et Iacobum Alphaei et Simonem, qui vocatur Zelotes, et Iudam Iacobi et Iudam Iscarioth, qui fuit proditor.
+
+Et descendens cum illis, stetit in loco campestri, et turba multa discipulorum eius, et multitudo copiosa plebis ab omni Iudaea et Ierusalem et maritima Tyri et Sidonis, qui venerunt ut audirent eum et sanarentur a languoribus suis. Et qui vexabantur a spiritibus immundis curabantur. Et omnis turba quaerebant eum tangere, quia virtus de illo exibat et sanabat omnes.
+'''
+
+[[readings]]
+label = "Hétköznapi olvasmányok"
+
+[readings.reading1]
+label = "Szentlecke"
+sub = "Szent Pál apostolnak az efezusiakhoz írt leveléből"
+cite = "Ef 6,1-9"
+la_sub = "Lectio Epistolae beati Pauli apostoli ad Ephesios"
+la = '''
+Filii, oboedite parentibus vestris in Domino, hoc enim est iustum. “Honora patrem tuum et matrem”, quod est mandatum primum cum promissione, “ut bene sit tibi et sis longaevus super terram”. Et patres, nolite ad iracundiam provocare filios vestros, sed educate illos in disciplina et correptione Domini.
+
+Servi, oboedite dominis carnalibus cum timore et tremore, in simplicitate cordis vestri sicut Christo, non ad oculum servientes quasi hominibus placentes, sed ut servi Christi, facientes voluntatem Dei ex animo, cum bona voluntate servientes, sicut Domino et non hominibus, scientes quoniam unusquisque si quid fecerit bonum, hoc percipiet a Domino, sive servus sive liber.
+
+Et domini, eadem facite illis, remittentes minas, scientes quia et illorum et vester Dominus est in caelis, et personarum acceptio non est apud eum.
+'''
+
+[readings.psalm]
+cite = "Zsolt 144,10-11.12-13ab.13cd-14"
+la_response = "Fidelis Dominus in omnibus verbis suis."
+la_verses = [
+'''
+Confiteantur tibi, Domine, omnia opera tua;
+et sancti tui benedicant tibi.
+Gloriam regni tui dicant,
+et potentiam tuam loquantur.
+''', '''
+Ut notam faciant filiis hominum potentias tuas,
+et gloriam magnificentiae regni tui.
+Regnum tuum regnum omnium saeculorum,
+et dominatio tua in omnem generationem et generationem.
+''', '''
+Fidelis Dominus in omnibus verbis suis,
+et sanctus in omnibus operibus suis.
+Allevat Dominus omnes qui corruunt,
+et erigit omnes depressos.
+''']
+
+[readings.alleluia]
+cite = "2Tessz 2,14"
+la = "Deus vocavit nos per Evangelium, in acquisitionem gloriae Domini nostri Iesu Christi."
+
+[readings.gospel]
+book = "Szent Lukács"
+la_book = "Lucam"
+cite = "Lk 13,22-30"
+la = '''
+In illo tempore: Ibat Iesus per civitates et castella docens, et iter faciens in Ierusalem.
+
+Ait autem illi quidam: «Domine, pauci sunt qui salvantur?»
+
+Ipse autem dixit ad illos: «Contendite intrare per angustam portam, quia multi, dico vobis, quaerent intrare et non poterunt.
+
+Cum autem surrexerit pater familias et clauserit ostium, et incipietis foris stare et pulsare ostium dicentes: “Domine, aperi nobis”, et respondens dicet vobis: “Nescio vos unde sitis”.
+
+Tunc incipietis dicere: “Manducavimus coram te et bibimus, et in plateis nostris docuisti”; et dicet loquens vobis: “Nescio vos unde sitis, discedite a me, omnes operarii iniquitatis”.
+
+Ibi erit fletus et stridor dentium, cum videritis Abraham et Isaac et Iacob et omnes prophetas in Regno Dei, vos autem expelli foras.
+
+Et venient ab oriente et occidente et aquilone et austro, et accumbent in Regno Dei. Et ecce sunt novissimi qui erunt primi, et sunt primi qui erunt novissimi».
+'''
+
+[faithful]
+intro = "Kérjük, testvéreim, Urunkat, mennyei főpásztorunkat, hogy Szent Simon és Szent Júdás Tádé és a többi apostol közbenjárására hallgassa meg kéréseinket!"
+response = "Kérünk téged, hallgass meg minket!"
+petitions = [
+  "Áldd meg, Urunk, Egyházadat, Leó pápánkat, N. főpásztorunkat, püspökeinket és papjainkat, hogy mindig az apostolok hite és buzgósága lobogjon szívükben!",
+  "Küldj, Urunk, munkásokat aratásodba, hogy az evangélium világosságát az apostolok lelkesedésével terjesszék az egész világon!",
+  "Áraszd, Urunk, áldásodat a népek vezetőire, hogy békesség és szeretet uralkodjék az egész világon!",
+  "Áldd meg, Urunk, népünk szorgalmas munkáját, tartsd távol az elemi csapásokat, hogy bőséges kenyér legyen minden család asztalán!",
+  "Végül engedd, Urunk, hogy elhunyt szeretteink már most, és majdan mi is az apostolok boldog társaságának örvendezhessünk!",
+]
+conclusion = "Hallgasd meg, Urunk, hitből fakadó kéréseinket, és teljesítsd reményünket! Hisszük és reméljük, hogy ami javunkra válik, megadod nekünk. Krisztus, a mi Urunk által."

@@ -52,6 +52,12 @@ Text slots (`entrance`, `collect`, `offertory`, `communion`, `postcommunion`) ta
   The app shows them as a row of buttons, the first one selected. Used for prayers only (see rules);
   antiphons never get alternatives.
 
+Readings with alternatives (e.g. feast or weekday): `[[readings]]` tables, each with `label` and
+its own `reading1`, `psalm`, (`reading2`), `alleluia`, `gospel` subtables; buttons, first selected;
+the Latin section follows the choice. A missing Hungarian text shows a placeholder (`NO_HU`).
+Feasts (Ü): Gloria (`gloria = true`). On a feast on a weekday, offer the feast's readings first and
+the weekday's second.
+
 Every text can carry its Latin: `la` (same line/paragraph layout as `text`), `la_cite`; readings
 `la_sub` + `la`, gospel `la_book` ("Lucam") + `la`, psalm `la_response` + `la_verses`, alleluia `la`.
 Commons use `<key>_la`. Prefaces have `la_label` + `la`; Eucharistic prayers `la_label` + `la`
