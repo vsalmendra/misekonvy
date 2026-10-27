@@ -127,3 +127,103 @@ Mert megadod Egyházadnak, hogy örvendezzék Szent N. ünnepén, és erősödj�
 
 Mi ezért az angyalok és szentek kórusával együtt dicséreted himnuszát zengjük, és vég nélkül mondjuk:
 '''
+
+[megholtak-1]
+la_label = "Praefatio I de defunctis"
+la = '''
+Vere dignum et iustum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine, sancte Pater, omnípotens ætérne Deus: per Christum Dóminum nostrum.
+
+In quo nobis spes beátæ resurrectiónis effúlsit, ut, quos contrístat certa moriéndi condício, eósdem consolétur futúræ immortalitátis promíssio. Tuis enim fidélibus, Dómine, vita mutátur, non tóllitur, et, dissolúta terréstris huius incolátus domo, ætérna in cælis habitátio comparátur.
+
+Et ídeo cum Angelis et Archángelis, cum Thronis et Dominatiónibus, cumque omni milítia cæléstis exércitus, hymnum glóriæ tuæ cánimus, sine fine dicéntes:
+'''
+label = "Prefáció a megholtakról I."
+source = "Római Misekönyv 1991 (PPEK 335), 75. prefáció, 406. o. – az új misekönyvvel még nem egyeztetve"
+sub = "Krisztus a boldog feltámadás reménye"
+text = '''
+Valóban méltó és igazságos, illő és üdvös, hogy mindig és mindenütt hálát adjunk néked, mi Urunk, szentséges Atyánk, mindenható, örök Isten: Krisztus, a mi Urunk által.
+
+A boldog feltámadás reménye benne ragyogott föl nékünk, és így, bár megszomorít a halál kényszere, az ígért örök élet megvigasztal minket. Mert híveid élete, Urunk, megváltozik, de meg nem szűnik, és amikor halandó testünk enyészetnek indul, lelkünket a mennyben örök otthon várja.
+
+Ezért mi is, miként az angyalok és főangyalok, a trónod körül álló hatalmas égi szellemek, és minden seregek a mennyben, dicsőséged himnuszát zengjük, és velük együtt vég nélkül mondjuk:
+'''
+
+[megholtak-2]
+la_label = "Praefatio II de defunctis"
+la = '''
+Vere dignum et iustum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine, sancte Pater, omnípotens ætérne Deus: per Christum Dóminum nostrum.
+
+Ipse enim mortem unus accépit, ne omnes nos morerémur; immo unus mori dignátus est, ut omnes tibi perpétuo viverémus.
+
+Et ídeo, choris angélicis sociáti, te laudámus in gáudio confiténtes:
+'''
+label = "Prefáció a megholtakról II."
+source = "Római Misekönyv 1991 (PPEK 335), 76. prefáció, 407. o. – az új misekönyvvel még nem egyeztetve"
+sub = "Krisztus meghalt, hogy mi örökre éljünk"
+text = '''
+Valóban méltó és igazságos, illő és üdvös, hogy mindig és mindenütt hálát adjunk néked, mi Urunk, szentséges Atyánk, mindenható, örök Isten: Krisztus, a mi Urunk által.
+
+Mert ő az egyetlen, ki bűneink zsoldját, a halált önként vállalta, hogy örökre meg ne haljunk, és ő az egyetlen, aki önként feláldozta életét, hogy mindnyájan örökké neked éljünk.
+
+Ezért mi is az angyalok kórusához társulunk, dicsőítünk téged, és ujjongva mondjuk:
+'''
+
+[megholtak-3]
+la_label = "Praefatio III de defunctis"
+la = '''
+Vere dignum et iustum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine, sancte Pater, omnípotens ætérne Deus: per Christum Dóminum nostrum:
+
+Qui est salus mundi, vita hóminum, resurréctio mortuórum.
+
+Per quem maiestátem tuam adórat exércitus Angelórum, ante conspéctum tuum in æternitáte lætántium. Cum quibus et nostras voces ut admítti iúbeas, deprecámur, sócia exsultatióne dicéntes:
+'''
+label = "Prefáció a megholtakról III."
+source = "Római Misekönyv 1991 (PPEK 335), 77. prefáció, 408. o. – az új misekönyvvel még nem egyeztetve"
+sub = "Krisztus a mi üdvösségünk és életünk"
+text = '''
+Valóban méltó és igazságos, illő és üdvös, hogy mindig és mindenütt hálát adjunk néked, mi Urunk, szentséges Atyánk, mindenható, örök Isten: Krisztus, a mi Urunk által.
+
+Ő üdvözíti a világot, megújítja az emberiség életét, és feltámaszt minden megholtat.
+
+A te fölségedet őáltala dicsőíti az angyalok hatalmas kórusa: boldogan áldanak, mert mindörökké látnak téged. Add, kérünk, hogy az ő szavukhoz társuljon szózatunk, és velük együtt szüntelen ujjongással mondjuk:
+'''
+
+[megholtak-4]
+la_label = "Praefatio IV de defunctis"
+la = '''
+Vere dignum et iustum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine, sancte Pater, omnípotens ætérne Deus:
+
+Cuius império náscimur, cuius arbítrio régimur, cuius præcépto in terra, de qua sumpti sumus, peccáti lege absólvimur. Et, qui per mortem Fílii tui redémpti sumus, ad ipsíus resurrectiónis glóriam tuo nutu excitámur.
+
+Et ídeo, cum Angelórum atque Sanctórum turba, hymnum laudis tibi cánimus, sine fine dicéntes:
+'''
+label = "Prefáció a megholtakról IV."
+source = "Római Misekönyv 1991 (PPEK 335), 78. prefáció, 409. o. – az új misekönyvvel még nem egyeztetve"
+sub = "A földi életből mennyei dicsőségre jutunk"
+text = '''
+Valóban méltó és igazságos, illő és üdvös, hogy mindig és mindenütt hálát adjunk néked, mi Urunk, szentséges Atyánk, mindenható, örök Isten:
+
+A te akaratodból születünk, és gondviselésed kormányoz minket, a bűn miatt testünk a te parancsodra tér vissza a földbe, amelyből vétetett. De Fiad halála megváltott minket, egy intésed felébreszt halálos álmunkból, hogy feltámadva megosszuk ővele dicsőséges életét.
+
+Mi ezért az angyalok és szentek kórusával együtt dicséreted himnuszát zengjük, és vég nélkül mondjuk:
+'''
+
+[megholtak-5]
+la_label = "Praefatio V de defunctis"
+la = '''
+Vere dignum et iustum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine, sancte Pater, omnípotens ætérne Deus:
+
+Quia, etsi nostri est mériti quod perímus, tuæ tamen est pietátis et grátiæ quod, pro peccáto morte consúmpti, per Christi victóriam redémpti, cum ipso revocámur ad vitam.
+
+Et ídeo, cum cælórum Virtútibus, in terris te iúgiter celebrámus, maiestáti tuæ sine fine clamántes:
+'''
+label = "Prefáció a megholtakról V."
+source = "Római Misekönyv 1991 (PPEK 335), 79. prefáció, 410. o. – az új misekönyvvel még nem egyeztetve"
+sub = "Krisztus győzelme által mi is feltámadunk"
+text = '''
+Valóban méltó és igazságos, illő és üdvös, hogy mindig és mindenütt hálát adjunk néked, mi Urunk, szentséges Atyánk, mindenható, örök Isten:
+
+Mert megérdemeltük ugyan az elmúlást, de jóságod folytán kegyelmet kaptunk. S ha bűneinkért mégis halált szenvedünk, Krisztus megváltó győzelme által új életre támadunk ővele.
+
+Ezért a mennyei hatalmas angyalokkal együtt a földön mi is szüntelenül magasztalunk téged, fölségedet dicsérjük, és hangos szóval vég nélkül mondjuk:
+'''
