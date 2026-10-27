@@ -1,0 +1,40 @@
+{
+ "key": "nagybojt-2-vas-A",
+ "source_date": "2026-03-01",
+ "rank": "",
+ "day": "Nagyböjt 2. vasárnap",
+ "psalm": {
+  "cite": "Zsolt 32,4-5.18-19.20 és 22",
+  "response": "Kegyes szemed legyen rajtunk, tebenned van bizodalmunk.",
+  "verses": [
+   "Sziklaszilárd az Úr igéje,\nminden tettét hűség vezeti.\nAz igazlelkűséget és a törvényt szereti,\ntelve van a föld az Úr irgalmával.",
+   "Az istenfélőkre ügyel az Úr szeme,\nakik bíznak az ő irgalmában.\nMegmenti lelküket a haláltól,\nés táplálja őket éhínség idején.",
+   "Az Úrra hagyatkozik lelkünk,\nő a segítőnk, és ő a mi oltalmunk.\nKegyes szemed legyen rajtunk,\ntebenned van bizodalmunk."
+  ]
+ },
+ "alleluia": {
+  "text": "A fényes felhőből az Atya szózata hallatszott: „Ez az én szeretett Fiam, őt hallgassátok!”",
+  "cite": "Vö. 2Pét 1,17",
+  "lent": true
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Úgy fénylett az arca, mint a nap.",
+  "text": "Abban az időben:\n\nJézus maga mellé vette Pétert, Jakabot és (ennek) testvérét Jánost, s\n\nkülön velük fölment egy magas hegyre. Ott elváltozott előttük: az arca\n\nragyogni kezdett, mint a nap, a ruhája pedig vakító fehér lett, mint a\n\nfény. És íme, megjelent nekik Mózes és Illés: Jézussal beszélgettek.\n\nEkkor Péter így szólt Jézushoz: „Uram, jó nekünk itt lennünk! Ha\n\nakarod, felállítok itt három sátrat, neked egyet, Mózesnek egyet és\n\nIllésnek egyet!” Még beszélt, amikor íme, fényes felhő borította be\n\nőket, és a felhőből egy hang hallatszott: „Ez az én szeretett Fiam,\n\nakiben kedvem telik. Őt hallgassátok!”\n\nEnnek hallatára a tanítványok földre borultak és nagyon megrémültek.\n\nDe Jézus odament hozzájuk, megérintette őket, és ezt mondta: „Keljetek\n\nfel, és ne féljetek!” Amikor szemüket fölemelték, nem láttak mást,\n\ncsak Jézust egymagát.\n\nA hegyről lejövet Jézus a lelkükre kötötte: „Senkinek se szóljatok a\n\nlátomásról, míg az Emberfia a holtak közül fel nem támad!”",
+  "cite": "Mt 17,1-9"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Mózes első könyvéből",
+  "summary": "Ábrahámnak, Isten népe ősatyjának meghívása.",
+  "text": "Az Úr így szólt Ábrahámhoz:\n\n„Vonulj ki földedről, rokonságod köréből és atyád házából arra a\n\nföldre, amelyet majd mutatok neked. Nagy néppé teszlek. Megáldalak és\n\nnaggyá teszem nevedet, s te magad is áldás leszel. Megáldom azokat,\n\nakik áldanak téged, de akik átkoznak téged, azokat én is megátkozom.\n\nÁltalad nyer áldást a föld minden nemzetsége.”\n\nÁbrahám tehát elköltözött, ahogy az Úr megparancsolta neki.",
+  "cite": "Ter 12,1-4a"
+ },
+ "reading2": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak Timóteushoz írt második leveléből",
+  "summary": "Isten hív és megvilágosít minket.",
+  "text": "Kedves Fiam!\n\nVállald velem együtt a szenvedéseket az evangéliumért, Isten erejére támaszkodva, aki megváltott minket, és szent hívással hívott, nem tetteink miatt, hanem saját elhatározása és kegyelme alapján, amely megnyilvánult most Megváltónknak, Jézus Krisztusnak megjelenésével. Ő legyőzte a halált, és felragyogtatta előttünk az életet és a halhatatlanságot.",
+  "cite": "2Tim 1,8b-10"
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "key": "husvet-1-vas",
+ "source_date": "2026-04-05",
+ "rank": "",
+ "day": "Húsvétvasárnap",
+ "psalm": {
+  "cite": "Zsolt 117,1-2.16ab-17.22-23",
+  "response": "Ezt a napot az Úristen adta: örvendjünk és vigadjunk rajta.",
+  "verses": [
+   "Vagy: Alleluja, alleluja, alleluja. 6. szám.\nAdjatok hálát az Úrnak, mert jó,\nmivel irgalma örökké megmarad.\nMondja Izrael háza, hogy jó az Isten,\nmivel irgalma örökké megmarad.",
+   "Vagy: Alleluja, alleluja, alleluja.\nAz Úr jobb keze erősnek bizonyult:\naz Úrnak jobbja fölemelt engem.\nNem halok meg, hanem élek,\nés hirdetem az Úr nagy tetteit.",
+   "Vagy: Alleluja, alleluja, alleluja.\nA kő, amelyet az építők félredobtak,\níme, az vált szegletkővé.\nMindezt az Úr vitte végbe,\ncsodálatra méltó a mi szemünkben.",
+   "Vagy: Alleluja, alleluja, alleluja."
+  ]
+ },
+ "alleluia": {
+  "text": "Krisztus, a mi húsvéti Bárányunk már feláldozta magát. Üljük meg tehát az Úrral a húsvéti lakomát.",
+  "cite": "1Kor 5,7b-8a"
+ },
+ "gospel": {
+  "book": "Szent János",
+  "summary": "Jézusnak fel kellett támadnia a halálból.",
+  "text": "A hét első napján, kora reggel, amikor még sötét volt, Mária Magdolna\n\nkiment a sírhoz. Odaérve látta, hogy a követ elmozdították a sírtól.\n\nErre elfutott Simon Péterhez és a másik tanítványhoz, akit Jézus\n\nszeretett, és hírül adta nekik: „Elvitték az Urat a sírból, és nem\n\ntudom, hova tették!”\n\nPéter és a másik tanítvány elindult, és a sírhoz sietett. Futottak\n\nmind a ketten, de a másik tanítvány gyorsabban futott, mint Péter, és\n\nhamarabb ért a sírhoz. Benézett, és látta az otthagyott gyolcsleplet,\n\nde nem ment be. Közben odaért Simon Péter is. Ő is látta az otthagyott\n\nlepleket és a kendőt, amely Jézus fejét takarta. Ez nem volt együtt a\n\nleplekkel, hanem külön feküdt összehajtva egy helyen.\n\nAkkor bement a másik tanítvány is, aki először ért a sírhoz. Látta\n\nmindezt és hitt. Addig ugyanis még nem értették meg, hogy Jézusnak fel\n\nkellett támadnia a halálból.",
+  "cite": "Jn 20,1-9 este: Lk 24,13-35"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "az Apostolok Cselekedeteiből",
+  "summary": "Mi ettünk és ittunk vele, miután feltámadt a halálból.",
+  "text": "Abban az időben Péter szólásra nyitotta ajkát, és ezeket mondta: „Ti\n\ntudjátok, hogy mi minden történt Galileától egészen Júdeáig attól\n\nkezdve, hogy János hirdette a keresztséget: Hogyan kente fel az Isten a\n\nnázáreti Jézust Szentlélekkel és hatalommal. Ő pedig, ahol csak járt,\n\njótetteket vitt végbe, és meggyógyított minden ördögtől megszállottat,\n\nmert vele volt az Isten. Mi tanúi vagyunk mindannak, amit Júdea egész\n\nterületén és Jeruzsálemben tett. Keresztre feszítették, de harmadnap\n\nfeltámasztotta Isten, és látható alakban megmutatta őt, ha nem is az\n\negész népnek, de az Isten által előre kijelölt tanúknak, vagyis nekünk.\n\nMi ettünk és ittunk vele, miután feltámadt a halálból.\n\nÉs ő megparancsolta nekünk, hogy hirdessük a népnek és tanúsítsuk,\n\nhogy ő az, akit Isten az élők és holtak bírájául rendelt. Minden\n\npróféta tanúságot tesz arról, hogy aki hisz benne, elnyeri bűnei\n\nbocsánatát.”",
+  "cite": "ApCsel 10,34a.37-43"
+ },
+ "reading2": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a kolosszeiekhez írt leveléből",
+  "summary": "Azt keressétek, ami odafönt van, ahol Krisztus ül az Isten jobbján.",
+  "text": "Testvéreim!\n\nKrisztussal együtt ti is feltámadtatok. Keressétek tehát\n\nazt, ami odafönt van, ahol Krisztus ül az Isten jobbján. Az égiekre\n\nirányuljon figyelmetek, ne a földiekre. Hiszen meghaltatok, és életetek\n\nKrisztussal az Istenben van elrejtve.\n\nAmikor azonban Krisztus, a mi életünk, újra megjelenik, vele együtt\n\nti is megjelentek a dicsőségben.",
+  "cite": "Kol 3,1-4 vagy 1Kor 5,6b-8"
+ }
+}

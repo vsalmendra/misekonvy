@@ -1,0 +1,33 @@
+{
+ "key": "fix-09-14",
+ "source_date": "2026-09-14",
+ "rank": "Ü",
+ "day": "A Szent Kereszt felmagasztalása – Ü",
+ "psalm": {
+  "cite": "Zsolt 77,1-2.34-35.36-37.38",
+  "response": "El ne feledjétek Urunknak nagy tetteit!",
+  "verses": [
+   "Figyelj tanításomra, népem,\nhallgassatok ajkam igéire.\nPéldabeszédekre nyitom meg ajkam,\nősidők titkait hirdetem nektek.",
+   "Amikor öldökölte őket, † keresni kezdték őt,\nmegtértek, és hozzá siettek.\nRáeszméltek, hogy Isten a kősziklájuk,\na fölséges Isten a szabadítójuk.",
+   "Szájukkal azonban hamisan szóltak,\nés nyelvükkel hazudtak neki.\nNem volt őszinte hozzá szívük,\ns nem maradtak hűek szövetségéhez.",
+   "De ő mégis megkönyörült rajtuk,\nelengedte bűnüket, és nem szórta szét őket.\nÚjra meg újra fékezte haragját,\nnem engedte fellobbanni indulata lángját."
+  ]
+ },
+ "alleluia": {
+  "text": "Imádunk téged, Krisztus, és áldunk téged, mert szent kereszted által megváltottad a világot. – 8 G. tónus,",
+  "cite": ""
+ },
+ "gospel": {
+  "book": "Szent János",
+  "summary": "Az Emberfiát felmagasztalják a kereszten.",
+  "text": "Abban az időben Jézus ezt mondta Nikodémusnak: Senki sem ment föl a mennybe, csak az, aki a mennyből alászállott: az Emberfia, aki a mennyben van.\n\nAhogy Mózes fölemelte a kígyót a pusztában, úgy fogják fölemelni az Emberfiát is, hogy aki hisz benne, el ne vesszen, hanem örökké éljen.\n\nMert úgy szerette Isten a világot, hogy egyszülött Fiát adta oda, hogy aki benne hisz, el ne vesszen, hanem örök élete legyen. Isten nem azért küldte Fiát a világba, hogy elítélje a világot, hanem hogy általa üdvözüljön a világ.",
+  "cite": "Jn 3,13-17"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a filippiekhez írt leveléből",
+  "summary": "Megalázta magát, ezért az Isten felmagasztalta őt.",
+  "text": "Testvéreim!\n\nKrisztus Jézus, mint Isten, az Istennel való egyenlőséget nem tartotta olyan dolognak, amelyhez feltétlenül ragaszkodnia kell, hanem szolgai alakot öltött, kiüresítette önmagát, és hasonló lett az emberekhez. Megalázta önmagát, és engedelmes lett a halálig, mégpedig a kereszthalálig.\n\nEzért Isten felmagasztalta őt, és olyan nevet adott neki, amely fölötte van minden névnek, hogy Jézus nevére hajoljon meg minden térd a mennyben, a földön, és az alvilágban, és minden nyelv hirdesse az Atyaisten dicsőségére, hogy Jézus Krisztus az Úr.",
+  "cite": "Fil 2,6-11"
+ }
+}

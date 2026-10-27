@@ -1,0 +1,40 @@
+{
+ "key": "evkozi-17-vas-A",
+ "source_date": "2026-07-26",
+ "rank": "",
+ "day": "Évközi 17. vasárnap – Nagyszülők és idősek világnapja",
+ "psalm": {
+  "cite": "Zsolt 118,57.72.76-77.127-128.129-130",
+  "response": "Törvényedet szívből szeretem, én Uram, Istenem.",
+  "verses": [
+   "Hittel vallom: † Az az én osztályrészem, Uram,\nhogy igéidet megtartsam.\nDrágább nekem ajkad törvénye\nsok ezer aranynál, ezüstnél.",
+   "Vigasztalásomra legyen irgalmad,\namint szolgádnak megígérted.\nIrgalmasságod éltessen engem,\nmivel törvényed az én gyönyörűségem.",
+   "Parancsaidat többre tartom az aranynál,\nkedvesebb nekem, mint a színarany.\nEzért parancsaidhoz tartom magamat,\ngyűlölöm a hazugság minden útját.",
+   "Minden rendelésed csodálatraméltó,\nlelkem ezért megtartja őket.\nRagyogva világít szavad fénye,\nokossá teszi a kicsinyeket."
+  ]
+ },
+ "alleluia": {
+  "text": "Áldalak téged, Atyám, mennynek és földnek Istene, mert feltártad a kicsinyeknek országod titkait.",
+  "cite": "Vö. Mt 11,25"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Isten országa többet ér minden földi kincsnél.",
+  "text": "Abban az időben ezt mondta Jézus a tömegnek: „A mennyek országa olyan, mint a földbe rejtett kincs, amelyet egy ember megtalált. Elrejtette újra, azután boldogan elment, eladta mindenét, amije csak volt, és megvette azt a szántóföldet. A mennyek országa olyan, mint amikor egy kereskedő igazgyöngyöt keresett. Talált egy nagyon értékeset, erre elment, eladta mindenét, amije csak volt, és megvásárolta azt.\n\nVégül: a mennyek országa olyan, mint amikor a hálót a tengerbe vetik és az mindenféle halat összefog. Mihelyt megtelik, a partra vonják, és nekiülve kiválogatják: a javát edényekbe rakják, a hitványát pedig kidobják. Így lesz a világ végén is. Kivonulnak az angyalok, a gonoszokat elválasztják az igazaktól és tüzes kemencébe vetik, ott sírás lesz és fogcsikorgatás.\n\nÉrtitek-e mindezt?” „Igen!” – felelték. Erre így folytatta: „Minden írástudó, aki jártas a mennyek országáról szóló tanításban, olyan, mint egy családapa, aki kincseiből régit és újat vesz elő.”",
+  "cite": "Mt 13,44-52"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "a Királyok első könyvéből",
+  "summary": "Trónra léptekor Salamon bölcsességért könyörög.",
+  "text": "Gibeonban megjelent az Úr Salamonnak, éjszaka, álmában. Így szólt Isten: „Bármit kérsz, megadom neked!” Salamon ezt mondta: „Uram és Istenem, királlyá tetted szolgádat atyám, Dávid helyett. Dehát fiatal ember vagyok, nem tudom, miként kell uralkodni. Szolgád a te kiválasztott néped élén áll, egy nagy nép élén, amelynek se szeri, se száma. Adj hát szolgádnak éber szívet, hogy meg tudja különböztetni a jót meg a rosszat. Mert hisz ki tudná másképp kormányozni ezt a te nagyszámú népedet?”\n\nTetszett az Úrnak, hogy Salamon ilyen kéréssel fordult hozzá. Ezért Isten ezt mondta neki: „Mivel épp ezzel a kéréssel fordultál hozzám, és nem hosszú életet vagy gazdagságot kértél magadnak, nem is ellenséged életét kérted, hanem bölcsességért könyörögtél, hogy igazságot szolgáltathass, íme, megadom neked, amit kértél. Olyan bölcs és értő szívet adok neked, amilyen nem volt előtted, s nem lesz utánad sem.”",
+  "cite": "1Kir 3.5.7-12"
+ },
+ "reading2": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a rómaiakhoz írt leveléből",
+  "summary": "Isten eleve arra rendelt minket, hogy Fiának képmását öltsük magunkra.",
+  "text": "Testvéreim!\n\nTudjuk, hogy az Istent szeretőknek minden javukra válik, hiszen ő saját elhatározásából választotta ki őket. Akiket ugyanis előre ismert, azokat eleve arra rendelte, hogy Fiának képmását öltsék magukra. Így lesz ő elsőszülött a sok testvér között. Akiket előre erre rendelt, azokat meg is hívta, akiket meghívott, azokat igazzá tette, akiket pedig igazzá tett, azokat meg is dicsőítette.",
+  "cite": "Róm 8,28-30"
+ }
+}

@@ -1,0 +1,39 @@
+{
+ "key": "evkozi-11-vas-A",
+ "source_date": "2026-06-14",
+ "rank": "",
+ "day": "Évközi 11. vasárnap",
+ "psalm": {
+  "cite": "Zsolt 99,2.3.5",
+  "response": "Mi vagyunk az Isten népe, jó Pásztorunk táplál minket.",
+  "verses": [
+   "Ujjongjatok az Úrnak, minden földek,\nszolgáljatok az Úrnak vigassággal.\nJáruljatok színe elé,\nvidám énekszóval.",
+   "Tudjátok meg, hogy az Úr az Isten,\növé vagyunk, ő alkotott minket.\nAz ő népe vagyunk,\nlegelőjének nyája.",
+   "Valóban jó az Úr, † irgalma örökké megmarad,\nés hűsége nemzedékről nemzedékre."
+  ]
+ },
+ "alleluia": {
+  "text": "Közel van az Isten országa, tartsatok bűnbánatot, és higgyetek az evangéliumban.",
+  "cite": "Mt 1,15"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Jézus összehívta tizenkét tanítványát, és téríteni küldte őket.",
+  "text": "Abban az időben:\n\nJézus meglátta a tömeget, és megesett rajta a szíve, mert olyan\n\nkimerültek és levertek voltak, mint a juhok, amelyeknek nincsen\n\npásztoruk. Így szólt tanítványaihoz: „Az aratnivaló sok, de a munkás\n\nkevés. Kérjétek az aratás Urát, küldjön munkásokat aratásába.”\n\nMajd odahívta magához tizenkét tanítványát, és megadta nekik a\n\nhatalmat, hogy kiűzzék a tisztátalan szellemeket, és meggyógyítsanak\n\nminden bajt és minden betegséget.\n\nA tizenkét apostol neve a következő: Az első Simon, más néven Péter,\n\nazután a testvére, András, Zebedeus fia Jakab, és testvére, János,\n\ntovábbá Fülöp és Bertalan, Tamás és Máté, a vámos; Alfeus fia Jakab,\n\nTádé, a kánaáni Simon, és végül karióti Júdás, aki később elárulta őt.\n\nEzt a tizenkettőt küldte Jézus, és megparancsolta nekik: „Ne\n\nlépjetek a pogányokhoz vezető útra, s a szamaritánusok városába be ne\n\ntérjetek. Menjetek inkább Izrael házának elveszett juhaihoz. Menjetek,\n\nés hirdessétek, hogy elközelgett a mennyek országa. Gyógyítsátok a\n\nbetegeket, támasszatok fel halottakat, tisztítsátok meg a leprásokat,\n\nűzzétek ki a gonosz szellemeket.\n\nIngyen kaptátok, ingyen is adjátok!",
+  "cite": "Mt 9,36–10,8"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Mózes második könyvéből",
+  "summary": "Papi királyságom és szent népem lesztek.",
+  "text": "Az Egyiptomból való kivonulás harmadik hónapjában Izrael fiai\n\nelindultak Refidimből. A Sínai pusztába érkeztek, és ott letáboroztak.\n\nTáborukat a heggyel szemben ütötték föl.\n\nMózes elindult Isten elé, az Úr pedig a hegyről így szólt hozzá:\n\n„Ezt közöld Jákob házával és hirdesd Izrael fiainak: Láttátok, mit\n\ntettem az egyiptomiakkal, és mi módon hordoztalak titeket sasszárnyon\n\nés hoztalak ide magamhoz. Ha tehát hallgattok szavamra és megtartjátok\n\nszövetségemet, akkor az összes népek között különleges tulajdonommá\n\nteszlek benneteket, hiszen az egész föld az enyém. Papi királyságom és\n\nszent népem lesztek.”",
+  "cite": "Kiv 19,2-6a"
+ },
+ "reading2": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a rómaiakhoz írt leveléből",
+  "summary": "Ha Fia halála által kiengesztelődött velünk az Isten, mennyivel\ninkább megszabadulunk most, az ő életébe oltva.",
+  "text": "Testvéreim!\n\nAmikor még erőtlenek voltunk, Krisztus az erre alkalmas\n\nidőben meghalt a bűnösökért, pedig az igazért is alig hal meg valaki,\n\nlegfeljebb a jótevőért adja életét az ember. Isten azonban azzal\n\nbizonyítja irántunk való szeretetét, hogy amikor még bűnösök voltunk,\n\nKrisztus meghalt értünk.\n\nMost, hogy vére árán igazzá váltunk, még sokkal inkább megment\n\nbennünket haragjától. Mert ha Fia halála által kiengesztelődött velünk\n\naz Isten, most, hogy kibékültünk vele, az ő életébe oltva, mennyivel\n\ninkább megszabadulunk.\n\nSőt, ezenfelül még dicsekszünk is az Istenben, Urunk Jézus Krisztus\n\náltal, aki megszerezte nekünk a kiengesztelődést.",
+  "cite": "Róm 5,6-11"
+ }
+}

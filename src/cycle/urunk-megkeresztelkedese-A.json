@@ -1,0 +1,39 @@
+{
+ "key": "urunk-megkeresztelkedese-A",
+ "source_date": "2026-01-11",
+ "rank": "",
+ "day": "Urunk megkeresztelkedése",
+ "psalm": {
+  "cite": "Zsolt 28,1a és 2.3ac-4.3b és 9b-10",
+  "response": "Áldja meg Isten az ő népét, adjon neki békességet.",
+  "verses": [
+   "Adjátok meg az Úrnak,\nIsten gyermekei,\nadjátok meg az Úrnak a nevét megillető dicsőséget,\nimádjátok az Urat szent ünnepi díszben!",
+   "Az Úr szava zúg a vizek árján,\naz Úr lebeg a nagy vizek fölött.\nAz Úr szava telve erővel,\naz Úr szava telve fönséggel.",
+   "A dicsőség Istene mennydörög,\ntemplomában mindenek az ő dicséretét zengik.\nAz Úr trónol a vízözön fölött,\naz Úr király örökké."
+  ]
+ },
+ "alleluia": {
+  "text": "Megnyílt az ég és az Atya szózata hallatszott „Ez az én szeretett Fiam, öt hallgassátok!”",
+  "cite": "Mk 9,6"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Amikor Jézus megkeresztelkedett, látta, hogy leszáll rá a Szentlélek.",
+  "text": "Abban az időben:\n\nJézus elment Galileából a Jordán (folyó) mellé Jánoshoz, hogy\n\nmegkeresztelkedjék nála. János azonban tiltakozott: „Neked kellene\n\nmegkeresztelned engem, és te jössz hozzám?” Jézus azonban így szólt:\n\n„Hagyd ezt most, mert úgy illik, hogy teljesítsük mindazt, ami\n\nigazságos.” Erre, János engedett neki.\n\nJézus pedig megkeresztelkedett. Mihelyt feljött a vízből, íme,\n\nmegnyílt az ég, és látta Isten Lelkét galamb módjára magára szállni. És\n\níme, hang hallatszott az égből: „Ez az én szeretett Fiam, akiben\n\nkedvem telik!”",
+  "cite": "Mt 3,13-17"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Izajás próféta könyvéből",
+  "summary": "Íme az én szolgám, akiben kedvem telik.",
+  "text": "Ezt mondja az Úr:\n\nÍme, az én szolgám, akit támogatok, választottam, akiben kedvem\n\ntelik. Kiárasztom rá lelkemet, és igazságot visz a nemzeteknek. Nem\n\nkiált majd, nem emeli föl a hangját, és szava se hallatszik az utcákon.\n\nA megtört nádszálat nem töri össze, a pislákoló mécsbelet nem oltja ki.\n\nHűségesen tanítja az igazságot, nem lankad el, sem kedvét el nem\n\nveszti, míg az igazságot meg nem szilárdítja a földön. Az ő tanítására\n\nvárnak a nemzetek.\n\nÉn, az Úr hívtalak meg igazságban, én fogtam meg a kezed és én\n\nformáltalak. Általad kötök szövetséget népemmel, és adok világosságot a\n\nnemzeteknek, hogy nyisd meg a vakok szemét, és szabadítsd ki a\n\nbörtönből a foglyokat, és a tömlöcből azokat, akik a sötétben ülnek.",
+  "cite": "Iz 42,1-4;6-7"
+ },
+ "reading2": {
+  "label": "Szentlecke",
+  "sub": "az Apostolok Cselekedeteiből",
+  "summary": "Az Úr fölkente őt Szentlélekkel.",
+  "text": "Kornéliusz házában Péter szólásra nyitotta ajkát, és ezeket mondta:\n\n„Valóban el kell ismernem, hogy Isten nem személyválogató. Mindenki\n\nkedves előtte, bármely néphez tartozik is, aki féli őt és az igazságot\n\ncselekszi. Isten a tanítást Izrael fiainak adta, és a béke örömhírét\n\nhirdette Jézus által. Ő a mindenség Ura.\n\nTi tudjátok, hogy mi minden történt Galileától egész Judeáig attól\n\nkezdve, hogy János hirdette a keresztséget: Hogyan kente fel az Isten a\n\nnázáreti Jézust Szentlélekkel és hatalommal. Ő pedig, amerre csak járt,\n\njótetteket vitt végbe, és meggyógyított minden ördögtől megszállottat,\n\nmert vele volt az Isten.”",
+  "cite": "ApCsel 10,34-38"
+ }
+}

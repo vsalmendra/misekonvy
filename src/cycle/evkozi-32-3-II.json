@@ -1,0 +1,33 @@
+{
+ "key": "evkozi-32-3-II",
+ "source_date": "2026-11-11",
+ "rank": "",
+ "day": "32. évközi hét szerda",
+ "psalm": {
+  "cite": "Zsolt 22,1-3a.3b-6",
+  "response": "Az Úr nékem pásztorom, ínséget nem kell látnom.",
+  "verses": [
+   "Az Úr nékem pásztorom,\nínséget nem kell látnom.\nZöldellő mezőkön terelget engem,\ncsendes vizekhez vezet, és lelkemet felüdíti.",
+   "Az igazság ösvényén vezet engem,\nahogyan ő megígérte.\nA halál sötét völgyében sem félek, mert ott vagy velem,\nbiztonságot ad vessződ és pásztorbotod.",
+   "Számomra asztalt terítettél,\nhogy üldözőimet szégyen érje.\nFejemet megkented olajoddal,\nserlegemet csordultig megtöltötted.",
+   "Jóságod és irgalmad nyomon követ\néletemnek minden napján.\nOtthonom lesz az Isten háza\nmindörökké, szünet nélkül."
+  ]
+ },
+ "alleluia": {
+  "text": "Adjatok hálát mindenért! mert Isten ezt kívánja mindnyájatoktól Krisztus Jézusban.",
+  "cite": "1Tessz 5,18"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Mindenért adjunk hálát az Úrnak, és dicsőítsük őt!",
+  "text": "Jézus egyszer útban Jeruzsálem felé áthaladt Szamaria és Galilea határvidékén. Amikor betért az egyik faluba, tíz leprás férfi jött vele szembe. Még messze voltak, amikor megálltak, és hangosan így kiáltottak: „Jézus, Mester! Könyörülj rajtunk!” Ő rájuk tekintett, és így szólt hozzájuk: „Menjetek és mutassátok meg magatokat a papoknak.” Útközben megtisztultak. Az egyik, amikor észrevette, hogy meggyógyult, visszament, hangos szóval dicsőítette Istent, arcra borult Jézus lába előtt, és hálát adott neki. És ez az ember szamaritánus volt. Jézus megkérdezte: „Nemde tízen tisztultak meg? Hol maradt a többi kilenc? Nem akadt más, aki visszajött volna, hogy hálát adjon Istennek, csak ez az idegen?” Aztán hozzá fordult: „Kelj fel és menj! Hited meggyógyított téged.”",
+  "cite": "Lk 17,11-19"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak Tituszhoz írt leveléből",
+  "summary": "Irgalmas szeretetével Krisztus megváltott minket.",
+  "text": "Szeretett Fiam!\n\nFigyelmeztess mindenkit, hogy vessék alá magukat a fölöttes hatóságoknak! Legyenek engedelmesek és minden jóra készek! Senkit se szidalmazzanak, és ne veszekedjenek, hanem legyenek barátságosak, és mindenki iránt kellő szelídséget tanúsítsanak! Hiszen egykor mi magunk is oktalanok, hitetlenek és tévelygők voltunk. Átadtuk magunkat mindenféle vágynak és gyönyörnek. Gonoszságban és irigykedésben éltünk, gyűlöletesek és gyűlölködők voltunk. Amikor azonban megjelent Üdvözítő Istenünk jósága és emberszeretete, megmentett minket, nem azért, mert igazak voltak tetteink, hanem irgalmasságból, a Szentlélekben való újjászületés és megújulás fürdőjében. Bőséggel árasztotta reánk a Szentlelket Jézus Krisztus, a mi Üdvözítőnk által, hogy kegyelmével igaz életet éljünk, és az örök élet reménye legyen osztályrészünk.",
+  "cite": "Tit 3,1-7"
+ }
+}

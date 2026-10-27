@@ -1,0 +1,33 @@
+{
+ "key": "husvet-3-2",
+ "source_date": "2026-04-21",
+ "rank": "",
+ "day": "húsvét 3. hét kedd",
+ "psalm": {
+  "cite": "Zsolt 30,3cd-4.6ab és 7b és 8a.17 és 21ab",
+  "response": "Én Uram, én Istenem, kezedbe ajánlom lelkemet.",
+  "verses": [
+   "Vagy: Alleluja. 4. szám.\nLégy oltalmazó sziklaváram és megerősített házam,\nhogy megszabadíts engem!\nErősségem és menedékem te vagy nékem,\nnevedért vezess és irányíts engem!",
+   "Vagy: Alleluja.\nKezedbe ajánlom lelkemet,\nmegváltottál engem, Uram, igazság Istene.\nUjjongok és örvendezem irgalmasságod miatt,\nmert kicsiny voltomat tekintetre méltattad,",
+   "Vagy: Alleluja.\nRagadj ki az ellenség kezéből,\nés azoktól, akik üldöznek engem.\nRagyogjon föl arcod szolgád fölött,\nirgalmasságodban szabadíts meg engem.",
+   "Vagy: Alleluja."
+  ]
+ },
+ "alleluia": {
+  "text": "Jézus mondja: „Én vagyok az élet kenyere, aki hozzám jön, többé nem éhezik.”",
+  "cite": "Jn 6,35"
+ },
+ "gospel": {
+  "book": "Szent János",
+  "summary": "Az Oltáriszentség a világnak életet adó táplálék.",
+  "text": "Abban az időben, amikor Jézus az örök élet kenyeréről beszélt, így szóltak hozzá a tömegből:\n\n„Hadd lássuk, milyen csodát művelsz, hogy higgyünk neked! Mit tudsz tenni? Atyáink mannát ettek a pusztában, amint az írás mondja: »Égből való kenyeret adott enni nekik.«”\n\nJézus így felelt: „Bizony, bizony, mondom nektek; nem Mózes adott kenyeret az égből, hanem Atyám adja az igazi mennyei kenyeret. Az az Isten kenyere, amely leszállt a mennyből, és életet ad a világnak.”\n\n„Uram – kiáltották –, add nekünk mindig ezt a kenyeret!”\n\nJézus így válaszolt: „Én vagyok az élet kenyere. Aki hozzám jön, nem éhezik többé; és aki bennem hisz, nem szomjazik sohasem.”",
+  "cite": "Jn 6,30-35"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "az Apostolok Cselekedeteiből",
+  "summary": "A Krisztusért elszenvedett vértanúság megnyitja a mennyországot.",
+  "text": "Elítélésekor István diakónus így szólt a néphez, a papokhoz és az írástudókhoz:\n\n„Ti keménynyakúak, ti érzéketlen szívűek és fülűek! Mindig ellenálltatok a Szentléleknek ti is, akárcsak atyáitok. Melyik prófétát nem üldözték atyáitok? Megölték mindazokat, akik az Igaz eljöveteléről jövendöltek. Ti pedig árulói és gyilkosai lettetek neki, ti, akik az angyalok közreműködésével átvettétek a mózesi törvényt, de nem tartottátok meg.”\n\nMiközben hallgatták, dúltak-fúltak, és dühükben fogukat vicsorították. Őt azonban eltöltötte a Szentlélek. Fölnézett az égre. Látta az Isten dicsőségét, és Jézust, az Isten jobbján. Felkiáltott: „Látom a megnyílt eget és az Emberfiát, ahogy az Isten jobbján áll.”\n\nErre ordítozni kezdtek, és befogták fülüket. Egy akarattal rárontottak, kivonszolták a városból, és megkövezték. A tanúk egy Saul nevű ifjú lábához rakták le ruháikat. Miközben megkövezték, István felfohászkodott, és így imádkozott: „Uram Jézus, vedd magadhoz lelkemet!”\n\nMajd térdre esett, és hangosan felkiáltott: „Uram, ne ródd fel nekik bűnül!” Amint ezt kimondta, halálba szenderült. Saul pedig helyeselte meggyilkolását.",
+  "cite": "ApCsel 7,51-8,1a"
+ }
+}

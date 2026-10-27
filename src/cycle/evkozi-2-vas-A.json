@@ -1,0 +1,40 @@
+{
+ "key": "evkozi-2-vas-A",
+ "source_date": "2026-01-18",
+ "rank": "",
+ "day": "Évközi 2. vasárnap",
+ "psalm": {
+  "cite": "Zsolt 39,2 és 4ab.7-8a.8b-9.10",
+  "response": "Íme, eljövök, Uram, hogy teljesítsem azt, amit kívánsz.",
+  "verses": [
+   "(7b. tónus.)\nVárva vártam az Urat,\nés ő lehajolt hozzám.\nÚj éneket adott az ajkamra,\nIstenünknek zengő éneket.",
+   "Sem véres, sem ételáldozat nem kellett neked,\nfülemet azonban megnyitottad.\nNem követeltél égő- és engesztelő áldozatot,\nígy szóltam akkor: „Íme, eljövök.”",
+   "A könyvtekercsben rólam írva áll,\nhogy akaratodat teljesítsem.\nErre vágyom, Istenem,\ntörvényed szívemet örömmel tölti el.",
+   "Igazságodat hirdetem a nagy közösségben,\najkam el nem hallgat, Uram, jól tudod."
+  ]
+ },
+ "alleluia": {
+  "text": "Az Ige emberré lett, és itt élt köztünk. Befogadóinak megadta, hogy Isten fiai legyenek.",
+  "cite": "Jn 1,14.12b"
+ },
+ "gospel": {
+  "book": "Szent János",
+  "summary": "Íme, az Isten Báránya, aki elveszi a világ bűneit!",
+  "text": "Abban az időben:\n\nAmikor János látta, hogy Jézus közeledik feléje, így szólt: „Íme, az\n\nIsten Báránya, aki elveszi a világ bűneit! Ő az, akiről én azt mondtam:\n\nUtánam jön egy férfi, aki megelőz engem, mert előbb volt, mint én. Én\n\nsem ismertem őt, de azért jöttem, és azért keresztelek vízzel, hogy\n\nmegismertessem őt Izraelben.”\n\nJános azután így folytatta tanúságtételét: „Láttam, hogy az égből,\n\nmint egy galamb, leszáll rá a Lélek, és rajta marad. Én sem ismertem\n\nőt, de aki küldött, hogy vízzel kereszteljek, az mondta nekem: Akire\n\nlátod, hogy rászáll a Lélek, és rajta marad, ő az, aki Lélekkel\n\nkeresztel. Én láttam, és tanúskodom arról, hogy ő az Isten Fia!”",
+  "cite": "Jn 1,29-34"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Izajás próféta könyvéből",
+  "summary": "A nemzetek világosságává teszlek, hogy üdvösségem légy.",
+  "text": "Az Úr így szólt hozzám: „A szolgám vagy, Izrael, benned fogok\n\nmegdicsőülni!”\n\nAz Úr mondja ezt, aki már anyám méhétől fogva szolgájává tett, hogy\n\nvisszavezessem hozzá Jákobot, és Izraelt köréje gyűjtsem. Így lettem\n\nbecses az Úr szemében, és Istenem lett az erőm.\n\nÉs mondotta: „Kevés az, hogy a szolgám légy, s fölemeld Jákob\n\ntörzseit, és visszatérítsd Izrael maradékát. A nemzetek világosságává\n\nteszlek, hogy üdvösségem eljusson a föld határáig.”",
+  "cite": "Iz 49,3.5-6"
+ },
+ "reading2": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a korintusiakhoz írt első leveléből",
+  "summary": "Kegyelem nektek és békesség Atyánktól, az Istentől, és az Úr Jézus\nKrisztustól!",
+  "text": "Pál, Jézus Krisztusnak Isten akaratából meghívott apostola és\n\nSzosztenész testvér köszönti Isten korintusi egyházát, a Krisztus\n\nJézusban megszentelteket, a meghívott szenteket és mindazokat, akik\n\nnáluk vagy nálunk segítségül hívják, Jézus Krisztusnak, a mi Urunknak\n\nnevét.\n\nKegyelem nektek és békesség Atyánktól, az Istentől, és az Úr Jézus\n\nKrisztustól!",
+  "cite": "1Kor 1,1-3"
+ }
+}

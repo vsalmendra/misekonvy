@@ -1,0 +1,33 @@
+{
+ "key": "husvet-1-4",
+ "source_date": "2026-04-09",
+ "rank": "",
+ "day": "Csütörtök húsvét nyolcadában",
+ "psalm": {
+  "cite": "Zsolt 8,2a és 5,6-7.8-9",
+  "response": "Uram, mi Urunk, mily csodálatos a te neved az egész világon.",
+  "verses": [
+   "Vagy: Alleluja. 5. szám.\nUrunk, Istenünk,\na te neved széles e világon mily csodálatos.\nUgyan, mi az ember, hogy megemlékezel róla,\naz ember fia, hogy gondot viselsz rá?",
+   "Vagy: Alleluja.\nAz embert kevéssel tetted kisebbé az angyaloknál, † megkoronáztad dicsőséggel és fenséggel,\nhatalmába adtad kezed műveit.",
+   "Vagy: Alleluja.\nMindent lábad alá vetettél, † minden juhot és barmot,\nhozzá még a mezők vadjait.\nAz ég madarait és a tenger halait,\nmelyek a tenger ösvényét járják.",
+   "Vagy: Alleluja."
+  ]
+ },
+ "alleluia": {
+  "text": "Ezt a napot az Úristen adta. Ujjongjunk és vigadjunk rajta!",
+  "cite": "Zsolt 117,24"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "A Messiásnak szenvednie kellett, és harmadnapra feltámadnia a halálból.",
+  "text": "Abban az időben:\n\nAz (Emmauszból visszatért) tanítványok beszámoltak az úton történtekről, meg arról, hogyan ismerték fel (Jézust) a kenyértöréskor.\n\nMíg ezekről beszélgettek, egyszer csak megjelent köztük (Jézus), és köszöntötte őket: „Békesség nektek!” Ijedtükben és félelmükben azt vélték, hogy szellemet látnak. De ő így szólt hozzájuk: „Miért ijedtetek meg, és miért támad kétely a szívetekben? Nézzétek meg kezemet és lábamat! Én vagyok. Tapintsatok meg és lássátok, a szellemnek nincs húsa és csontja, de amint látjátok, nekem van.” Ezután megmutatta nekik a kezét és a lábát.\n\nDe örömükben még mindig nem mertek hinni, és csodálkoztak. Ezért így szólt hozzájuk: „Van itt valami ennivalótok?” Adtak neki egy darab sült halat. Fogta és a szemük láttára evett belőle.\n\nAztán így szólt hozzájuk: „Ezeket mondtam nektek, amikor még veletek voltam. Be kell teljesednie mindannak, amit rólam Mózes törvényében, a prófétákban és a zsoltárokban írtak.” Ekkor megnyitotta értelmüket, hogy megértsék az írásokat.\n\nMajd így folytatta: „Meg van írva, hogy a Messiásnak szenvednie kell, és harmadnap fel kell támadnia a halálból. Nevében megtérést és bűnbocsánatot kell hirdetni Jeruzsálemtől kezdve minden népnek. Ti tanúi vagytok ezeknek.”",
+  "cite": "Lk 24,35-48"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "az Apostolok Cselekedeteiből",
+  "summary": "Az élet szerzőjét, Krisztust ugyan megölték, de Isten feltámasztotta a halálból.",
+  "text": "A meggyógyított koldus nem tágított Péter és János apostol mellől, sőt az egész nép is odagyűlt köréjük az úgynevezett Salamon-csarnokba. Péter ennek láttára így kezdett beszélni a néphez:\n\n„Izraelita férfiak! Miért csodálkoztok ezen? Miért bámultok úgy ránk, mintha a saját erőnkből vagy saját szentségünk révén értük volna el, hogy ez az ember járni tud. Ábrahám, Izsák és Jákob Istene, atyáink Istene megdicsőítette Fiát, Jézust, akit ti kiszolgáltattatok és megtagadtatok Pilátus előtt, noha ő szabadon akarta bocsátani. Megtagadtátok a Szentet és Igazat. Egy gyilkos szabadon bocsátását kértétek, az élet szerzőjét pedig megöltétek. Isten azonban feltámasztotta őt a halálból, ennek mi tanúi vagyunk. Mivel hittel segítségül hívtuk (Jézus) nevét, ezért öntött ő erőt ebbe az emberbe, akit itt láttok és akit ismertek. A Jézusban való hit visszaadta neki épségét mindnyájatok szeme láttára.\n\nTudom azonban, testvéreim, hogy tudatlanságból tettétek, akárcsak elöljáróitok is. Ám az Isten így vitte végbe azt, amit minden prófétája által hirdetett, tudniillik, hogy a Messiás szenvedni fog.\n\nTartsatok hát bűnbánatot, és térjetek meg, hogy Isten eltörölje bűneiteket, és elérkezzék az Úrtól a megbékélés ideje, és elküldje Jézust, a nektek rendelt Megváltót! Ő a mennyben marad egészen a nagy megújulás napjáig, amelyről Isten már réges-rég beszélt szent prófétái által, Mózes megmondta ugyanis: »Urunk Istenünk hozzám hasonló prófétát támaszt majd nektek testvéreitek közül. Hallgassatok rá mindenben, amit csak mond nektek! Azokat, akik nem hallgatnak erre a prófétára, közösítsétek ki a népből!«\n\nA többi próféta is Sámueltől kezdve mind, akik csak őutána szóltak, ezekről a napokról megjövendöltek. Ti vagytok a prófétáknak és annak a szövetségnek fiai, amelyet Isten atyáinkkal kötött, amikor így szólt Ábrahámhoz: »A te utódodban nyer áldást a föld minden nemzetsége.«\n\nIsten feltámasztotta Fiát, és először hozzátok küldte el, hogy megáldjon titeket, és így mindegyiktek elforduljon a bűntől.”",
+  "cite": "ApCsel 3,11-26"
+ }
+}

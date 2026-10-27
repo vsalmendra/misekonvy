@@ -1,0 +1,32 @@
+{
+ "key": "evkozi-23-4-II",
+ "source_date": "2026-09-10",
+ "rank": "",
+ "day": "23. évközi hét csütörtök",
+ "psalm": {
+  "cite": "Zsolt 138,1-3.13-14ab.23-24",
+  "response": "Vezess engem, Uram, az örök élet biztos útján!",
+  "verses": [
+   "Uram, te megvizsgálsz, és jól ismersz engem,\ntudod, ha leülök, vagy ha fölkelek.\nGondolataimat messziről is ismered, † szemmel tartod jártomat-keltemet,\njól látod minden utamat.",
+   "Egész bensőmet te alkottad,\nanyám méhében te szőttél egybe engem.\nMagasztallak, hogy oly csodásán alkottál; † csodálatos minden műved,\nlelkem jól tudja mindezt.",
+   "Vizsgálj meg, Istenem, ismerd meg szívemet,\npróbálj meg, és ismerd meg minden gondolatomat.\nNézd meg, nem járok-e téves úton,\nés vezess az örök élet útján."
+  ]
+ },
+ "alleluia": {
+  "text": "Ha szeretjük egymást, Isten megmarad szívünkben, és szeretete tökéletes lesz bennünk.",
+  "cite": "1Jn 4,12"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Legyetek irgalmasok, amint mennyei Atyátok is irgalmas.",
+  "text": "Jézus a hegyi beszédben így szólt tanítványaihoz:\n\n„Nektek, akik hallgattok engem, ezt mondom: Szeressétek ellenségeiteket, tegyetek jót azokkal, akik gyűlölnek titeket. Azokra, akik átkoznak titeket, mondjatok áldást, és imádkozzatok rágalmazóitokért. Ha arcul üt valaki, tartsd oda a másik arcodat is. Annak, aki elveszi köntösödet, add oda a ruhádat is. Mindenkinek, aki kér tőled, adj, és aki elviszi, ami a tied, attól ne kérd vissza. Úgy bánjatok az emberekkel, ahogy szeretnétek, hogy veletek is bánjanak.\n\nMert ha csak azokat szeretitek, akik titeket is szeretnek, milyen jutalmat várhattok érte Istentől? Hisz a bűnösök is szeretik azokat, akik őket szeretik. Ha csak azokkal tesztek jót, akik veletek is jót tesznek, milyen jutalmat érdemeltek? Hisz ezt a bűnösök is megteszik. Ha csak a visszafizetés reményében adtok kölcsönt, milyen hálára számíthattok? A bűnösök is kölcsönöznek a bűnösöknek, hogy ugyanannyit kapjanak vissza.\n\nSzeressétek inkább ellenségeiteket: tegyetek jót, adjatok kölcsön, és semmi viszonzást ne várjatok. Így nagy jutalomban részesültök, és fiai lesztek a Magasságbelinek, hisz ő is jóságos a hálátlanok és a gonoszok iránt. Legyetek tehát irgalmasok, amint Atyátok is irgalmas.\n\nNe mondjatok ítéletet senki fölött, s akkor fölöttetek sem ítélkeznek. Ne ítéljetek el senkit, s akkor titeket sem ítélnek el. Bocsássatok meg, és nektek is megbocsátanak. Adjatok, és akkor ti is kaptok. Jó, tömött, megrázott és túlcsorduló mértékkel mérnek öletekbe. Mert amilyen mértékkel ti mértek, olyannal mérnek majd nektek is.”",
+  "cite": "Lk 6,27-38"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a korintusiakhoz írt első leveléből",
+  "summary": "A felebaráti szeretet ellen elkövetett bűn egyúttal vétek Krisztus ellen is.",
+  "text": "Testvéreim!\n\nA tudás könnyen felfuvalkodottá tesz, a szeretet azonban épít. Aki tetszeleg tudásában, az még nem ismerte föl, hogy mi a helyes ismeret. Aki azonban szereti Istent, azt Isten is magáénak tudja.\n\nAmi a bálványoknak áldozott hús fogyasztását illeti: tudjuk, hogy nincsenek bálványistenek a világon, hanem csak egy Isten van. Igaz, a pogányok égi és földi istenekről beszélnek, mivel sok istenük és uruk van, nekünk azonban egy Istenünk van: az Atya, akitől minden származik, és mi is őérte vagyunk. Egy Urunk van: Jézus Krisztus, aki által minden van, és mi is őáltala vagyunk.\n\nDe nincs meg mindenkiben ez a tudás. A bálványokkal kapcsolatban némelyek még most is a régi meggyőződésben élnek, és úgy fogyasztják a húst, mint áldozati eledelt. Mivel lelkiismeretük téves, beszennyeződnek.\n\n(Ha viszont te, annak tudatában, hogy nincsenek bálványok, megeszed az áldozati húst, de bizonytalankodó testvéred csak azt látja, hogy bálványoknak áldozott húst eszel, és szintén eszik belőle, akkor) a te tudásod miatt követ el bűnt, pedig Krisztus érte is meghalt. Ezért amikor testvéred ellen vétkezel, mert megsérted bizonytalankodó lelkiismeretét, Krisztus ellen vétkezel.\n\nHa tehát az étkezésem a testvéremnek lelki romlására vezet, inkább sohasem eszem húst, csakhogy testvéremet meg ne botránkoztassam.",
+  "cite": "1Kor 8,1b-7.11-13"
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "key": "evkozi-16-1-II",
+ "source_date": "2026-07-20",
+ "rank": "",
+ "day": "16. évközi hét hétfő",
+ "psalm": {
+  "cite": "Zsolt 49,5-6.8-9.16bc-17.21 és 23",
+  "response": "Aki szeplőtelenül járja az élet útját, annak mutatom meg az Isten üdvösségét.",
+  "verses": [
+   "„Gyűjtsétek körém szentjeimet,\nakik szövetségre léptek velem az áldozatban.”\nIgazságosságát az egek hirdetik,\nIsten maga tart ítéletet.",
+   "„Nem áldozataid miatt dorgállak meg én,\négőáldozataidat mindig látom.\nNem fogadok el borjakat házadtól,\nkecskéket sem kívánok legelődről.",
+   "Törvényeimet miért emlegeted,\nés miért veszed ajkadra szövetségem?\nHiszen gyűlölöd a törvény fegyelmét,\nhátat fordítasz szavaimnak.",
+   "Így cselekedtél, és én csak hallgattam, † úgy vélted, hogy hozzád hasonló vagyok,\nde felelned kell, mert számon kérlek.\nAki tisztel engem, az a dicséret áldozatát hozza; † aki szeplőtelenül járja az élet útját,\nannak mutatom meg az Isten üdvösségét.”"
+  ]
+ },
+ "alleluia": {
+  "text": "Meg ne keményítsétek ma a szíveteket, hanem az Úr szavára figyeljetek!",
+  "cite": "Vö. Zsolt 94,8ab"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Jézus megjövendöli feltámadását.",
+  "text": "Néhány írástudó és farizeus így szólt egyszer Jézushoz: „Mester, jelet szeretnénk tőled látni.”\n\nJézus így válaszolt: „Ez a gonosz és hűtlen nemzedék jelet kíván, de nem kap más jelet, mint Jónás próféta jelét. Amint ugyanis Jónás próféta három nap és három éjjel volt a hal gyomrában, úgy lesz az Emberfia három nap és három éjjel a föld szívében.\n\nA ninivei férfiak feltámadnak az ítéletkor ezzel a nemzedékkel együtt, és elítélik ezt a nemzedéket, mert ők megtértek Jónás prédikálására. Ámde itt nagyobb van, mint Jónás. Dél királynője feltámad az ítéletkor ezzel a nemzedékkel együtt, és elítéli ezt a nemzedéket, hiszen ő a föld végső határáról is eljött, hogy meghallgassa Salamon bölcsességét. Itt pedig nagyobb valaki van, mint Salamon.”",
+  "cite": "Mt 12,38-42"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Mikeás próféta könyvéből",
+  "summary": "Isten a szív őszinte hódolatát kívánja, és nem a külsőséges tetteket.",
+  "text": "Prófétája által szól az Úr: Halljátok hát az Úr szavát: „Rajta! Szállj perbe a hegyek előtt, a halmok hallják meg szavadat!”\n\nHalljátok meg tehát az Úr panaszát, ti, hegyek, és ti, erős alapjai a földnek!\n\nMert az Úr perbe száll népével, vádbeszédet mond Izrael ellen: „Népem! Mit vétettem ellened? Vagy mivel voltam terhedre? Felelj nekem! Talán azzal, hogy kihoztalak Egyiptom földjéről, kiszabadítottalak a szolgaság házából? Vagy azzal, hogy Mózest, Áront és Mirjámot küldtem előtted?”\n\n(Akkor a nép bűnbánó lélekkel ezt mondta:) „Mivel állhatok az Úr elé,\n\nmivel borulhatok a magasságos Isten elé? Vajon álljak oda égőáldozatokkal, egyesztendős borjakkal? Kosok ezreiben telik-e az Úrnak kedve vagy áradó olajpatakokban? Feláldozzam-e elsőszülöttemet vétkemért, drága gyermekemet életem bűnéért?”\n\n(Isten pedig így válaszolt:) „Megmondták neked, ó, ember, mi a jó, és mit kíván tőled az Úr: Semmi mást, mint hogy váltsd tettekre az igazságot, szeresd hűségesen, és járj alázatosan a te Isteneddel.”",
+  "cite": "Mik 6,1-4.6-8"
+ }
+}

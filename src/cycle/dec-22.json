@@ -1,0 +1,33 @@
+{
+ "key": "dec-22",
+ "source_date": "2025-12-22",
+ "rank": "",
+ "day": "Adventi köznapok - december 22.",
+ "psalm": {
+  "cite": "1Sám 2,1.4-5.6-7.8abcd",
+  "response": "Szívem ujjong az Úrban, megváltó Istenemben.",
+  "verses": [
+   "Szívem ujjong az Úrban,\nerővel tölt el Istenem.\nEllenségeimmel bátran szembeszállok,\nmert örvendezem segítségeden.",
+   "A hatalmasok íja eltörött,\na gyengéket azonban erő övezi.\nKenyérért szegődnek el, kik azelőtt bővelkedtek,\njóllakhatnak, akik nélkülöztek.\nAnya lesz, kinek nem volt gyermeke,\nerőtlenné válik a nagycsaládú.",
+   "Az Úr adja a halált és az életet,\nletaszít az alvilágra és felhoz onnan.\nAz Úr tesz szegénnyé és ő tesz gazdaggá,\nő az, aki megaláz és felmagasztal.",
+   "Fölemeli a porból a rászorulót,\na sárból a szegényt fölsegíti.\nA fejedelmek sorába ülteti,\na dicsőség trónusára."
+  ]
+ },
+ "alleluia": {
+  "text": "Királya vagy a nemzeteknek és szegletköve az Egyháznak, Jöjj, mentsd meg az embert, akit a föld sarából alkottál!",
+  "cite": ""
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "A Szent Szűz énekkel ad hálát megváltósága kegyelmeiért.",
+  "text": "Erzsébet meglátogatása alkalmával Mária így magasztalta Istent: „Magasztalja lelkem az Urat, és szívem ujjong megváltó Istenemben! Mert tekintetre méltatta alázatos szolgálóleányát, lám, ezentúl boldognak hirdet engem minden nemzedék. Nagy dolgokat művelt velem a Hatalmas, szentséges az ő neve! Irgalma nemzedékről nemzedékre száll, mindazokra, akik félik őt. Nagyszerű dolgot tett karja ereje, széjjelszórta mind a gőgös szívűeket. Lesöpörte trónjukról a hatalmasokat, és felmagasztalta az alázatosakat. Az éhezőket elhalmozta minden jóval, de a gazdagokat elküldte Üres kézzel. Felkarolta gyermekét, Izraelt, megemlékezve irgalmasságáról, amint atyáinknak megígérte: Ábrahámnak és utódainak mindörökre!” Mária ott maradt még körülbelül három hónapig, azután visszatért otthonába.",
+  "cite": "Lk 1,46-56"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Sámuel első könyvéből",
+  "summary": "Hanna – Szűz Mária előképe – felviszi a gyermek Sámuelt az Úr házába, hogy a szokásos hálaáldozattal együtt bemutassa az Úrnak.",
+  "text": "A bírák korában történt:\n\nAmikor Hanna elválasztotta a gyermek Sámuelt, felvitte magával a templomba, egy hároméves marhával, egy efa liszttel és egy tömlő borral egyetemben, és Silóban belépett az Úr templomába. A fiú még nagyon kicsi volt. Amikor a marhát feláldozták, a fiú anyja odament Élihez. Megszólította: „Engedd meg, uram! Amint igaz, hogy élsz, uram, az az asszony vagyok, aki itt álltam melletted és imádkoztam az Úrhoz. Ezért a fiúért imádkoztam. S lám az Úr teljesítette kérésemet, amellyel hozzá fordultam. Ezért én is átengedem (fiamat) az Úrnak, egész életére átengedem az Úrnak.” És ott leborultak az Úr előtt.",
+  "cite": "1Sám 1,24-28"
+ }
+}

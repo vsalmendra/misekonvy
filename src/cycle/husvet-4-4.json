@@ -1,0 +1,33 @@
+{
+ "key": "husvet-4-4",
+ "source_date": "2026-04-30",
+ "rank": "",
+ "day": "húsvét 4. hét csütörtök",
+ "psalm": {
+  "cite": "Zsolt 88,2-3.21-22.25 és 27",
+  "response": "Hadd énekeljem Örökké, Urunknak irgalmas jóságát.",
+  "verses": [
+   "Vagy: Alleluja. 6. szám.\nAz Úr irgalmáról éneklek örökkön-örökké,\nhűségedet nemzedékről nemzedékre hirdeti ajkam.\nÍgy szóltál: † „Irgalmam szilárdan áll mindörökké.”\nValóban, a te hűséged erős, miként a mennybolt.",
+   "Vagy: Alleluja.\n„Kiválasztottam szolgámat, Dávidot,\nszent olajommal felkentem.\nBiztos támasza kezem lesz,\nkarom teszi őt erőssé.”",
+   "Vagy: Alleluja.\n„Vele lesz hűségem és kegyelmem,\nmagasra emelkedik feje az én nevemben.\nÍgy szólít majd engem: † »Atyám vagy nékem,\nIstenem és üdvöm sziklája.«”",
+   "Vagy: Alleluja."
+  ]
+ },
+ "alleluia": {
+  "text": "Jézus Krisztus, te hűséges tanú és elsőszülött a holtak közül! Szerettél minket, és véreddel lemostad bűneinket.",
+  "cite": "Vö. Jel 1,5ab"
+ },
+ "gospel": {
+  "book": "Szent János",
+  "summary": "Aki Jézus küldöttjét befogadja, az magát Jézust fogadja be.",
+  "text": "Miután a húsvéti vacsorán Jézus megmosta tanítványai lábát, így szólt hozzájuk:\n\n„Bizony, bizony, mondom nektek: Nem nagyobb a szolga uránál, sem a küldött küldőjénél. Boldogok vagytok, ha ezt megértitek, és így is cselekedtek. Nem mindnyájatokról mondom ezt. Ismerem azokat, akiket választottam. De be kell teljesednie az írásnak: Akivel megosztottam kenyeremet, sarkát emelte ellenem.\n\nElőre megmondom, mielőtt megtörténnék, hogy amikor megtörténik, higgyétek, hogy én vagyok.\n\nBizony, bizony, mondom nektek: Aki befogadja azt, akit én küldök, engem fogad be; aki pedig engem fogad be, azt fogadja be, aki küldött engem.”",
+  "cite": "Jn 13,16-20"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "az Apostolok Cselekedeteiből",
+  "summary": "Dávid utódaiból támasztotta Isten az Üdvözítőt.",
+  "text": "Pál és kísérői Páfuszban tengerre szálltak, és a pamfíliai Pergébe hajóztak. A Márknak nevezett János ekkor elvált tőlük, és visszatért Jeruzsálembe.\n\nŐk viszont Pergén keresztül eljutottak a pizídiai Antióchiába. Itt egy szombati napon betértek a zsinagógába, és leültek. A mózesi törvény és a próféták írásainak olvasása után a zsinagóga elöljárói odaküldtek hozzájuk valakit ezzel a kéréssel: „Testvérek, ha volna néhány buzdító szavatok a néphez, csak beszéljetek!”\n\nEkkor Pál szólásra emelkedett, kezével csendre intett és beszélni kezdett: „Izraelita férfiak és ti, istenfélők, figyeljetek! Izrael népének Istene kiválasztotta atyáinkat, és az egyiptomi tartózkodás idején nagy néppé tette őket. Majd hatalmas karjának oltalma alatt kivezette őket onnan, és negyven esztendeig gondjukat viselte a pusztában, Kánaán földjén hét népet semmisített meg, hogy földjüket nekik adja birtokul. Mindez körülbelül négyszázötven évig tartott. Azután Sámuel prófétáig bírákat adott nekik. Ettől fogva királyt kívántak, és Isten negyven esztendőre Sault, Kisnek fiát adta nekik, ezt a Benjámin törzséből származó férfiút. Amikor őt elvetette, Dávidot tette királyukká. Róla így nyilatkozott: »Jessze fiában, Dávidban szívem szerint való férfiúra találtam, aki mindenben teljesíti akaratomat.«\n\nÍgéretéhez híven az ő utódaiból támasztotta Isten a választott nép Üdvözítőjét, Jézust, akinek eljövetele előtt János a bűnbánat keresztségét hirdette az egész népnek. Amikor János befejezte küldetését, kijelentette: »Nem az vagyok, akinek engem tartotok. De íme, itt jön már, akinek a saruját sem vagyok méltó megoldani.«”",
+  "cite": "ApCsel 13,13-25"
+ }
+}

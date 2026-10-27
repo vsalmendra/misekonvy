@@ -1,0 +1,33 @@
+{
+ "key": "husvet-4-5",
+ "source_date": "2026-05-01",
+ "rank": "",
+ "day": "húsvét 4. hét péntek",
+ "psalm": {
+  "cite": "Zsolt 2,6-7.8-9.10-11",
+  "response": "Fiam vagy nékem, ma adtam neked életet.",
+  "verses": [
+   "Vagy: Alleluja. 2. szám.\n„Királyommá őt én magam tettem,\nszent hegyemen, Sion hegyén.”\nAz Úr szólt hozzám: † „Fiam vagy nékem,\nma adtam neked életet.”",
+   "Vagy: Alleluja.\n„Kérd tőlem, és örökségül adom neked a népeket,\naz egész földkerekség lesz a birtokod.\nVasvesszővel kormányzod őket,\nés mint cserépedényt törheted össze őket.”",
+   "Vagy: Alleluja.\nKirályok, tehát bölcsek legyetek,\nföld bírái, értsétek intésemet.\nSzolgáljatok az Úrnak félelemmel,\nhódoljatok előtte rettegéssel!",
+   "Vagy: Alleluja."
+  ]
+ },
+ "alleluia": {
+  "text": "Jézus mondja: „Én vagyok az út, az igazság és az élet. Senki sem jut Atyámhoz, csak általam.”",
+  "cite": "Jn 14,6"
+ },
+ "gospel": {
+  "book": "Szent János",
+  "summary": "Jézus az út, az igazság és az élet.",
+  "text": "Búcsúbeszédében Jézus így szólt tanítványaihoz:\n\n„Ne nyugtalankodjék a szívetek! Higgyetek az Istenben, és bennem is higgyetek! Atyám házában sok hely van. Ha nem így lenne, mondtam volna-e: »Elmegyek, és helyet készítek nektek?« Ha majd elmegyek, és helyet készítek nektek, ismét eljövök, és magammal viszlek titeket, hogy ti is ott legyetek, ahol én vagyok. Hiszen ismeritek az utat oda, ahová én megyek!”\n\nEkkor Tamás így szólt: „Uram, mi nem tudjuk, hová mégy; hogyan ismerhetnénk hát az utat?”\n\nJézus ezt felelte: „Én vagyok az út, az igazság és az élet. Senki sem juthat el az Atyához, csak általam.”",
+  "cite": "Jn 14,1-6"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "az Apostolok Cselekedeteiből",
+  "summary": "Isten a választott népnek tett ígéretét akkor teljesítette, amikor feltámasztotta Jézust.",
+  "text": "A pizídiai Antióchiában Pál apostol ezeket mondotta: „Férfiak, testvéreim! Ábrahám nemzetségének fiai és a köztetek levő istenfélők! Az üdvösség híre nekünk szól. Jeruzsálem lakói és vezetői azonban nem ismerték el Jézust. Azáltal pedig, hogy elítélték, beteljesítették a próféták szavát, amelyet minden szombaton olvasnak. Bár semmi halálbüntetésre méltót nem találtak benne, Pilátustól mégis kivégzését követelték. Miután minden beteljesedett, amit róla írtak, levették a keresztfáról, és sírba fektették. Isten azonban feltámasztotta Jézust a halálból, és ő több napon át megjelent azoknak, akik vele együtt jöttek föl Galileából Jeruzsálembe. Ezek most is tanúságot tesznek róla a nép előtt.\n\nMi is ezt az örömhírt hirdetjük nektek: Isten, atyáinknak tett ígéretét nekünk, az ő utódaiknak azáltal teljesítette, hogy feltámasztotta Jézust, amint a második zsoltárban is meg van írva: Fiam vagy nékem, ma adtam neked életet.”",
+  "cite": "ApCsel 13,26-33"
+ }
+}

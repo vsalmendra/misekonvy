@@ -1,0 +1,33 @@
+{
+ "key": "husvet-5-2",
+ "source_date": "2026-05-05",
+ "rank": "",
+ "day": "húsvét 5. hét kedd",
+ "psalm": {
+  "cite": "Zsolt 144,10-11.12-13ab.21",
+  "response": "A te barátaid, Uram, ismertessék meg országod dicsőségét.",
+  "verses": [
+   "Vagy: Alleluja. 5. szám.\nMagasztaljon téged, Uram, minden műved,\nszentjeid áldást mondjanak.\nOrszágod dicsőségéről szóljanak,\nés hatalmadat mindenek hirdessék.",
+   "Vagy: Alleluja.\nHirdessék az embereknek hatalmas tetteid,\nkirályságod fölséges dicsőségét.\nA te országod örökkévaló ország,\nuralmad megmarad nemzedékről nemzedékre.",
+   "Vagy: Alleluja.\nAz Úr dicséretét hirdesse ajkam,\nszent nevét mindörökké áldja minden élő.",
+   "Vagy: Alleluja."
+  ]
+ },
+ "alleluia": {
+  "text": "Krisztusnak szenvednie kellett, és feltámadnia a halálból, hogy bemehessen dicső országába.",
+  "cite": "Lk 24,46.26"
+ },
+ "gospel": {
+  "book": "Szent János",
+  "summary": "Jézus búcsúzóul az ő békéjét hagyja övéire.",
+  "text": "Az utolsó vacsorán mondott beszédében Jézus így szólt tanítványaihoz:\n\n„Békességet hagyok rátok. Az én békémet adom nektek. Nem úgy adom, ahogy a világ adja nektek. Ne nyugtalankodjék szívetek, és ne csüggedjen! Hiszen hallottátok, hogy azt mondtam: »Elmegyek, de visszajövök hozzátok.« Ha szeretnétek engem, örülnétek annak, hogy az Atyához megyek, mert az Atya nagyobb nálam. Előre megmondtam nektek, mielőtt megtörténnék, hogy ha majd bekövetkezik, higgyetek.\n\nMár nem sokat beszélek veletek, mert jön a világ fejedelme. Rajtam ugyan nincs hatalma; hogy azonban megtudja a világ, hogy szeretem az Atyát: úgy cselekszem, amint az Atya meghagyta nekem.”",
+  "cite": "Jn 14,27-31a"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "az Apostolok Cselekedeteiből",
+  "summary": "Pál és Barnabás első missziós útjukról visszatérnek a szíriai Antióchiába, és beszámolnak apostoli munkájukról.",
+  "text": "Amikor Pál és Barnabás Lisztrában hirdette a Krisztusról szóló tanítást, utánuk jött néhány zsidó pizídiai Antióchiából és Ikóniumból. Ezek úgy fellázították a népet, hogy a lisztraiak megkövezték Pált; majd abban a hitben, hogy meghalt, a városon kívülre vonszolták. De mikor a tanítványok köréje gyűltek, fölkelt és bement a városba.\n\nMásnap Barnabással együtt útra kelt Derbébe. Ebben a városban is hirdették az evangéliumot, és sok tanítványt toboroztak.\n\nEzután visszafordultak Lisztrába, Ikóniumba és Antióchiába. Erőt öntöttek a tanítványok lelkébe, buzdították őket, hogy tartsanak ki a hitben, mert „sok viszontagságon át kell bemennünk az Isten országába”. Az egyes egyházak élére kézrátétellel elöljárókat rendeltek, és végül imádkozva és böjtölve az Úr oltalmába ajánlották őket, akinek hívei lettek.\n\nPizídián keresztül haladva Pamfíliába jutottak. Miután pedig Pergében hirdették az Úr igéjét, lementek Attáliába. Innét azután visszahajóztak (a szíriai) Antióchiába, ahonnan egykor elindultak Isten rendeléséből a rájuk bízott munka teljesítésére.\n\nMegérkezésük után összehívták az egyházat, és elbeszélték, mi mindent tett az Isten általuk, és hogyan tárta fel a pogányok előtt a hit kapuját.\n\nEzután jó ideig a tanítványok körében tartózkodtak.",
+  "cite": "ApCsel 14,19-28"
+ }
+}

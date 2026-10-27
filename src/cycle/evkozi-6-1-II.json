@@ -1,0 +1,35 @@
+{
+ "key": "evkozi-6-1-II",
+ "source_date": "2026-02-16",
+ "rank": "",
+ "day": "6. évközi hét hétfő",
+ "psalm": {
+  "cite": "Zsolt 118,67.68.71.72.75.76",
+  "response": "Uram, légy hozzám irgalmas, éltess engem!",
+  "verses": [
+   "Tévelyegtem, mielőtt megaláztak engem,\nde most már megtartom igédet.",
+   "Jó vagy és jóságosak tetteid,\nigazságaidra oktass engem.",
+   "Jó nekem, hogy megaláztak engem,\nhogy megtanuljam, amit rendelsz.",
+   "Drágább nekem ajkad törvénye,\nsok ezer aranynál, ezüstnél.",
+   "Tudom, Uram, hogy jogosan ítélsz meg engem,\nigazad volt, hogy megaláztál.",
+   "Vigasztalásomra legyen irgalmad,\namint szolgádnak megígérted."
+  ]
+ },
+ "alleluia": {
+  "text": "Jézus mondja: „Én vagyok az út, az igazság és az élet. Senki sem jut Atyámhoz, csak általam.”",
+  "cite": "Jn 14,6"
+ },
+ "gospel": {
+  "book": "Szent Márk",
+  "summary": "Jézustól égi jelet vártak kortársai, pedig ő maga volt az égi jel.",
+  "text": "Egy alkalommal farizeusok mentek Jézushoz, és vitatkozni kezdtek vele. Égi jelet kértek tőle, mert próbára akarták tenni.\n\nŐ lelke mélyéből felsóhajtott, és így szólt: „Miért akar jelet ez a nemzedék? Bizony mondom nektek: ez a nemzedék nem kap semmiféle jelet.”\n\nEzzel otthagyta őket. Ismét hajóba szállt, és átkelt a Galileai-tó túlsó partjára.",
+  "cite": "Mk 8,11-13"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent Jakab apostol leveléből",
+  "summary": "A hit próbájának gyümölcse az állhatatosság, amely a tökéletességre vezet.",
+  "text": "Jakab, Istennek és az Úr Jézus Krisztusnak szolgája – üdvözletét küldi a szórványban élő tizenkét törzsnek.\n\nTestvéreim, tartsátok nagy örömnek, ha különféle megpróbáltatás ér benneteket! Jól tudjátok, hogy hitetek próbatétele állhatatosságot eredményez. Állhatatosságtok pedig tegye tökéletessé tetteiteket, hogy tökéletesek és feddhetetlenek legyetek, és így semmilyen tekintetben ne essetek kifogás alá!\n\nHa pedig valaki közületek bölcsességre szorul, kérje Istentől, aki mindenkinek bőven ad, anélkül hogy szemére vetné, – és meg is kapja, csak bizalommal kérje, és csöppet se kételkedjék! Aki ugyanis kételkedik, hasonlít a tenger hullámaihoz, melyeket a szél ide-oda sodor. Ne gondolja az ilyen ember, hogy valamit is kap az Úrtól, hiszen a lelkében megosztott ember nem tart ki semmiben sem.\n\nA szegény sorsú testvérnek dicsőségben lesz része, a gazdagnak ellenben megaláztatásban, mert elmúlik gazdagsága, mint a mező virága. Fölkel ugyanis a nap, és perzselő hevével elszárítja a virágot: szirma lehull, és színpompája odavész. Így enyészik el majd a gazdagnak minden vállalkozása is.",
+  "cite": "Jak 1,1-11"
+ }
+}

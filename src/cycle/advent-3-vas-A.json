@@ -1,0 +1,40 @@
+{
+ "key": "advent-3-vas-A",
+ "source_date": "2025-12-14",
+ "rank": "",
+ "day": "Advent 3. vasárnapja – Gaudete-vasárnap",
+ "psalm": {
+  "cite": "Zsolt 145,7.8-9a.9bc-19",
+  "response": "Jöjj el, Urunk, Istenünk: üdvözíts minket.",
+  "verses": [
+   "Vagy: Alleluja.\nIsten igaz marad örökké,\naz elnyomottnak igazságot szolgáltat.\nAz éhezőnek ő ad kenyeret,\nkiszabadítja az Úr a foglyokat.",
+   "Vagy: Alleluja.\nAz Úr megnyitja a vakok szemét,\nés fölemeli azt, aki elesett.\nAz Úr szereti az igaz embert,\na jövevényt megvédi.",
+   "Vagy: Alleluja.\nAz Úr támogatja az árvát, és özvegyet,\nés elpusztítja a gonoszok útját.\nAz Úr uralkodik örökké,\na te Istened, ó Sion, nemzedékről nemzedékre.",
+   "Vagy: Alleluja."
+  ]
+ },
+ "alleluia": {
+  "text": "Az Úr lelke van rajtam: elküldött, hogy a szegényeknek örömhírt vigyek.",
+  "cite": "Iz 61,1"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Te vagy-e az, akinek jönnie kelt, vagy valaki mást várjunk?",
+  "text": "Abban az időben:\n\nAmikor a börtönben raboskodó János Jézus tetteiről hallott, elküldte\n\nhozzá tanítványait, hogy kérdezzék meg tőle: „Te vagy-e az, akinek el\n\nkell jönnie, vagy valaki mást várjunk?” Jézus igy válaszolt nekik:\n\n„Menjetek, és adjátok tudtul Jánosnak mindazt, amit láttok és\n\nhallotok: a vakok látnak, a sánták járnak, a halottak feltámadnak, a\n\nszegényeknek pedig hirdetik az örömhírt. Boldog az, aki nem botránkozik\n\nmeg bennem!”\n\nMikor elmentek, Jézus így kezdett beszélni Jánosról a tömegnek: „Mit\n\nakartatok látni, amikor kimentetek a pusztába? Talán széltől lengetett\n\nnádszálat? Vagy miért mentetek ki? Hogy finom ruhába öltözött embert\n\nlássatok? Akik finom ruhában járnak, azok királyi palotában laknak!\n\nVagy miért mentetek ki? Hogy prófétát lássatok? Igen, mondom nektek:\n\nmég prófétánál is nagyobbat! Ő az, akiről ezt írták:\n\nÍme, elküldöm követemet színed előtt,\n\nhogy elkészítse az utat teelőtted.\n\nBizony, mondom nektek: Asszonyok szülöttei között nem támadt nagyobb\n\nKeresztelő Jánosnál! De még őnála is nagyobb az, aki a legkisebb a\n\nmennyek országában.",
+  "cite": "Mt 11,2-11"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Izajás próféta könyvéből",
+  "summary": "Maga az Isten jön el, hogy szabadulást hozzon nekünk.",
+  "text": "Örüljön a puszta és a kiaszott vidék, ujjongjon a sivatag, és\n\nviruljon, mint a liliom. Virulva viruljon és örömében ujjongva\n\ndaloljon! Mert övé a Libanon dicsősége, a Kármel és a Sáron pompája.\n\nMeglátják az Úr dicsőségét, Istenünk fönségét.\n\nErősítsétek meg az elernyedt kezeket, és a roskadozó térdeket\n\nszilárdítsátok meg! Mondjátok a csüggedt szívűeknek: „Bátorság! Ne\n\nféljetek! Íme, eljön Istenetek, eljön, hogy bosszút álljon és\n\nmegfizessen. Maga az Isten jön el, hogy szabadulást hozzon nektek.”\n\nAkkor megnyílik a vakok szeme, és a süketek füle hallani fog.\n\nUgrándozik majd a sánta, mint a szarvas, és a némák nyelve ujjongva\n\nujjong.\n\nAkiknek az Úr szabadulást szerzett, azok visszatérnek. Éneket zengve\n\nérnek a Sionra, és örök boldogságot tükröz az arcuk. Öröm és ujjongás\n\njár a nyomukban, mert fájdalom és siralom nem lesz többé.",
+  "cite": "Iz 35,1-6a.10"
+ },
+ "reading2": {
+  "label": "Szentlecke",
+  "sub": "Szent Jakab apostol leveléből",
+  "summary": "Legyetek állhatatosak, mert az Úr e jövetelének ideje közel van!",
+  "text": "Testvéreim!\n\nLegyetek türelemmel az Úr eljöveteléig! Lám, a földműves\n\nis türelemmel vár a föld drága termésére, míg a korai és a késői eső\n\nmeg nem érkezik. Legyetek türelemmel ti is, és legyetek állhatatosak,\n\nmert az Úr eljövetelének ideje közel van.\n\nTestvéreim, ne zúgolódjatok egymás ellen, nehogy ítéletet vonjatok\n\nmagatokra. Mert íme, a bíró ott áll már az ajtó előtt.\n\nTestvérek, a szenvedés elviselésében és a kitartó türelemben vegyetek\n\npéldát a prófétákról, akik az Úr nevében szóltak!",
+  "cite": "Jak 5,7-10"
+ }
+}

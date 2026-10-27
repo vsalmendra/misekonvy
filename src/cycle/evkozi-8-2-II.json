@@ -1,0 +1,32 @@
+{
+ "key": "evkozi-8-2-II",
+ "source_date": "2026-05-26",
+ "rank": "",
+ "day": "8. évközi hét kedd",
+ "psalm": {
+  "cite": "Zsolt 97,1.2-3ab.3c-4",
+  "response": "Megmutatta az Úr, szabadító erejét.",
+  "verses": [
+   "Zengjetek az Úrnak új éneket,\ncsodálatra méltó, amit művelt.\nDiadalt aratott jobbjával,\ngyőzelmet Szentséges karjával.",
+   "Az Úr megmutatta szabadító erejét,\nigazságosságát feltárta a népek előtt.\nEmlékezetébe idézte jóságát és hűségét\nIzrael népe iránt.",
+   "Meglátta a föld minden határa,\nszabadulást Istenünk hozott nekünk.\nMinden földek, zengjetek az Úrnak öröméneket,\nujjongjatok és zsoltárt mondjatok."
+  ]
+ },
+ "alleluia": {
+  "text": "Áldalak téged, Atyám, mennynek és földnek Istene, mert feltártad a kicsinyeknek országod titkait.",
+  "cite": "Vö. Mt 11,25"
+ },
+ "gospel": {
+  "book": "Szent Márk",
+  "summary": "Aki Jézusért áldozatot hoz, százszoros jutalmat kap érte.",
+  "text": "A gazdag ifjúval folytatott beszélgetés után Péter apostol megszólalt, és ezt mondta Jézusnak:\n\n„Nézd, mi mindent elhagytunk, és követtünk téged.”\n\nJézus így válaszolt: „Bizony mondom nektek, mindenki, aki értem és az evangéliumért elhagyja otthonát, testvéreit, anyját, apját, gyermekeit vagy földjét, százannyit kap; most, ezen a világon otthont, testvért, anyát, apát, gyermeket és földet – bár üldözések közepette –, az eljövendő világban pedig örök életet.\n\nSokan lesznek az elsőkből utolsók, az utolsókból pedig elsők.”",
+  "cite": "Mk 10,28-31"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent Péter apostol első leveléből",
+  "summary": "Törekedjünk buzgó lélekkel az üdvösségre, amelyről már az ószövetségi próféták jövendöltek!",
+  "text": "Testvéreim!\n\nA Krisztus által hozott üdvösséget kutatták és vizsgálták a próféták, akik a nektek szánt kegyelemről jövendöltek. Azt vizsgálták, hogy melyik vagy milyen időre mutat Krisztus bennük működő Lelke, aki előre hirdette a Krisztusra váró szenvedést és a rákövetkező megdicsőülést.\n\nAzt a kinyilatkoztatást kapták, hogy nem önmaguknak, hanem nektek szolgálnak mindazzal, amit az evangélium hirdetői most közöltek veletek a mennyből küldött Szentlélek erejéből. Még az angyalok is vágyódnak arra, hogy mindezt szemléljék.\n\nJól készüljetek fel tehát lélekben. Legyetek józanok, és bízzatok teljesen abban a kegyelemben, amelyet Jézus Krisztus megjelenésekor fogtok kapni! Engedelmes gyermekként ne engedjetek a korábbi tudatlanságból származó vágyaitoknak, hanem a titeket meghívó szent Istenhez méltóan magatok is váljatok szentté egész életmódotokban! Ezt olvassuk ugyanis a Szentírásban: „Szentek legyetek, mert én szent vagyok!”",
+  "cite": "1Pét 1,10-16"
+ }
+}

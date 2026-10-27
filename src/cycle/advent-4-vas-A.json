@@ -1,0 +1,39 @@
+{
+ "key": "advent-4-vas-A",
+ "source_date": "2025-12-21",
+ "rank": "",
+ "day": "Advent 4. vasárnapja",
+ "psalm": {
+  "cite": "Zsolt 23,1-2.3-4ab.5-6",
+  "response": "Urunk, Istenünk érkezik: ő a dicsőség királya.",
+  "verses": [
+   "Az Úré a föld és ami betölti,\na földkerekség és minden lakója.\nAlapjait ő ágyazta tengerek mélyébe,\ns a vizek árján ő tartja szilárdan.",
+   "Ki mehet föl az Úr hegyére,\nki állhat meg az ő szent helyén?\nAki ártatlan kezű, tiszta szívű,\nakinek az esze nem jár csaláson.",
+   "Az nyer áldást az Úrtól,\nés megigazulást üdvözítő Istenétől.\nEz az istenkeresők népe,\namely arcát kutatja Jákob Istenének."
+  ]
+ },
+ "alleluia": {
+  "text": "Íme, anya lesz a Szűz, és fia születik. Fiának neve Emmánuel, vagyis „Velünk az Isten”.",
+  "cite": "Mt 1,23"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Jézus megszületik Máriától, aki jegyese Józsefnek, Dávid fiának.",
+  "text": "Jézus Krisztus születése így történt:\n\nAnyja, Mária, jegyese volt Józsefnek. Mielőtt azonban egybekeltek\n\nvolna, kitűnt, hogy Mária gyermeket fogant méhében a Szentlélektől. A\n\nférje, József igaz ember volt, nem akarta őt megszégyeníteni, ezért úgy\n\nhatározott, hogy titokban bocsátja el. Míg ezen töprengett, megjelent\n\nneki álmában az Úr angyala, és így szólt: „József, Dávid fia, ne félj attól, hogy feleségül vedd Máriát, mert a benne fogant élet a Szentlélektől van. Fia születik majd, akit Jézusnak nevezel, mert ő váltja meg népét bűneitől.”\n\nMindez pedig azért történt, hogy beteljesedjék, amit az Úr a próféta által mondott:\n\nÍme, a Szűz gyermeket fogan és fiút szül,\n\nés az Emmánuel nevet adják neki,\n\nami azt jelenti: „Velünk az Isten”.\n\nAmikor József felébredt álmából, úgy cselekedett, amint az Úr angyala\n\nmegparancsolta neki. Magához vette feleségét.",
+  "cite": "Mt 1,18-24"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Izajás próféta könyvéből",
+  "summary": "Íme, a szűz fogan.",
+  "text": "Azokban a napokban:\n\nÍgy szólt az Úr Acház királyhoz: „Kérj magadnak jelet az Úrtól, a te\n\nIstenedtől, akár az alvilág mélységeiből, akár felülről a magasból.”\n\nDe Acház így válaszolt: „Nem kérek jelet, és nem kísértem az Urat.”\n\nErre Izajás próféta azt mondta: „Halljátok hát, Dávid háza! Nem elég\n\nnektek, hogy próbára teszitek az emberek türelmét, még az én Istenem\n\ntürelmét is próbára teszitek? Ezért az Úr maga ad nektek jelet: Íme, a\n\nszűz fogan, fiút szül, és Emmánuelnek nevezi, ami annyit jelent: Velünk\n\naz Isten.”",
+  "cite": "Iz 7,10-14"
+ },
+ "reading2": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a rómaiakhoz írt leveléből",
+  "summary": "Jézus Krisztus, aki Dávid nemzetségéből származott. az Isten Fia.",
+  "text": "Testvéreim!\n\nPál, Krisztus Jézus szolgája és meghívott apostola\n\nköszönt benneteket!\n\nIsten kiválasztott az ő evangéliumának hirdetésére, amelyet prófétái\n\náltal a szent iratokban előre megígért, Fiáról, Jézus Krisztusról, a mi\n\nUrunkról. Ő test szerint Dávid nemzetségéből származott, a szentség\n\nLelke szerint azonban a halálból való feltámadásával az Isten hatalmas\n\nFiának bizonyult. Általa nyertük el a kegyelmet és az apostoli\n\nküldetést, hogy neve dicsőségére munkálkodjunk a hitért minden nép\n\nközött. Ezek közé tartoztok ti is, akiket Jézus Krisztus meghívott.\n\nÜdvözlöm (Rómában) mindazokat, akiket az Isten szeret és a szentségre\n\nhívott. Kegyelem nektek és békesség Atyánktól, az Istentől, és\n\nUrunktól, Jézus Krisztustól.",
+  "cite": "Róm 1,1-7"
+ }
+}

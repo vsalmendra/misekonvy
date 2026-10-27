@@ -1,0 +1,33 @@
+{
+ "key": "evkozi-20-3-II",
+ "source_date": "2026-08-19",
+ "rank": "",
+ "day": "20. évközi hét szerda",
+ "psalm": {
+  "cite": "Zsolt 22,l-3a.3b-4.5.6",
+  "response": "Az Úr nékem pásztorom, ínséget nem kell látnom.",
+  "verses": [
+   "Az Úr nékem pásztorom,\nínséget nem kell látnom.\nZöldellő mezőkön terelget engem,\ncsendes vizekhez vezet, és lelkemet felüdíti.",
+   "Az igazság ösvényén vezet engem,\nahogyan ő megígérte.\nA halál sötét völgyében sem félek, mert ott vagy velem,\nbiztonságot ad vessződ és pásztorbotod.",
+   "Számomra asztalt terítettél,\nhogy üldözőimet szégyen érje.\nFejemet megkented olajoddal,\nserlegemet csordultig megtöltötted.",
+   "Jóságod és irgalmad nyomon követ\néletemnek minden napján.\nOtthonom lesz az Isten háza\nmindörökké, szünet nélkül."
+  ]
+ },
+ "alleluia": {
+  "text": "Isten szava élő és átható, megítéli a gondolatot és szándékot szívünk mélyén.",
+  "cite": "Zsid 4,12"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Isten ingyen kínálja fel kegyelmét mindnyájunknak.",
+  "text": "Abban az időben Jézus ezt a példabeszédet mondta tanítványainak:\n\nA mennyek országa olyan, mint amikor egy gazda kora reggel kiment, hogy szőlőjébe munkásokat fogadjon. Miután napi egy dénárban megegyezett a munkásokkal, elküldte őket a szőlőjébe. A harmadik óra körül megint kiment, s látta, hogy mások is ácsorognak ott tétlenül a piactéren. Ezt mondta nekik: „Menjetek ti is a szőlőmbe, és ami jár, megadom majd nektek.” Azok el is mentek. Majd a hatodik és a kilencedik órában újra kiment és ugyanígy cselekedett. Kiment végül a tizenegyedik óra körül is, és újabb ácsorgókat talált. Megkérdezte tőlük: „Miért álldogáltok itt egész nap tétlenül?” Azok ezt válaszolták: „Mert senki sem fogadott fel minket.” Erre azt mondta nekik: „Menjetek ti is a szőlőmbe!”\n\nAmikor beesteledett, a szőlősgazda így szólt intézőjéhez: „Hívd össze a munkásokat, és add ki a bérüket, az utolsókon kezdve az elsőkig!” Először azok jöttek tehát, akik a tizenegyedik óra körül kezdtek, és egy-egy dénárt kaptak. Amikor az elsők jöttek, azt hitték, hogy nekik többet fognak adni, de ők is csak egy-egy dénárt kaptak. Amikor átvették, zúgolódni kezdtek a gazda ellen: „Ezek az utolsók csak egy órát dolgoztak, és ugyanúgy bántál velük, mint velünk, akik a nap terhét és hevét viseltük!” Ő azonban ezt felelte az egyiküknek: „Barátom, nem vagyok igazságtalan veled. Nemde egy dénárban egyeztél meg velem? Ami a tied, fogd és menj! Én ennek az utolsónak is annyit szánok, mint neked. Talán azzal, ami az enyém, nem tehetem azt, amit akarok? Vagy rossz szemmel nézed, hogy én jó vagyok?”\n\nÍgy lesznek az utolsókból elsők, és az elsőkből utolsók!",
+  "cite": "Mt 20,1-16a"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Ezekiel próféta könyvéből",
+  "summary": "Az önző pásztorok helyett önmagát is feláldozó jó pásztort küld népének az Úr.",
+  "text": "A prófétának ezt parancsolta az Úr: Emberfia, jövendölj Izrael pásztorairól!\n\nJövendölj, és mondd meg nekik: Jaj, népem pásztorainak, akik önmagukat legeltetgetik csupán!\n\nA pásztoroknak nem a nyájat kell-e legeltetniük?\n\nA tejet megittátok, a gyapjúból ruházkodtatok, leöltétek a hízottat, de nem legeltettétek nyájamat.\n\nNem karoltátok fel a gyengét, nem ápoltátok a beteget, nem kötöztétek be a sebesülteket.\n\nNem tereltétek vissza az eltévedteket, és nem kerestétek meg az elveszetteket.\n\nCsak erőszakkal, keménységgel uralkodtatok, juhaim pedig elszéledtek, mert nem volt jó pásztoruk: a vadak prédájává lettek, és elszéledtek juhaim, minden hegyen és halmon, az egész földön elbolyongtak szerteszét. És senki sem volt, aki törődött volna velük.\n\nNos, pásztorok, figyeljetek, hogy mit mond most az Úr! Életemre mondom én, az Úr, a ti Istenetek: Mivelhogy egész nyájam préda lett, juhaim pedig vadak martaléka, mert egyszerűen nem volt pásztoruk; s mert nem törődtek nyájammal pásztoraim, és nem legeltették nyájamat, csak önmagukat, ezért most, pásztoraim, halljátok az Úr szavát!\n\nÍgy szól az Úr, az Isten: Én pásztoraim ellen fordulok, kezükből követelem nyájamat.\n\nLeszámolok velük, a nyájamat ne legeltessék tovább, és ne legeltessék önmagukat a pásztorok!\n\nÉn kiszabadítom falánk szájukból nyájamat, hogy ne csillapítsák abból többé falánkságukat.\n\nÍgy szól Uratok, Istenetek: Én magam megyek, hogy megkeressem széjjelszórt juhaimat, és azután már én viselem gondjukat.",
+  "cite": "Ez 34,1-11"
+ }
+}

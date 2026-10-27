@@ -1,0 +1,32 @@
+{
+ "key": "fix-01-10",
+ "source_date": "2026-01-10",
+ "rank": "",
+ "day": "Január 10.",
+ "psalm": {
+  "cite": "Zsolt 71,2.14 és 15bc.17",
+  "response": "Hódoljon előtted, Istenünk, a föld minden nemzete!",
+  "verses": [
+   "Istenem, ítéletedet add át a királynak,\nés igazságodat a király fiának,\nhogy igazságosan ítélkezzék népeden,\nés méltányosan minden szegényen.",
+   "Az elnyomástól és az erőszaktól megmenti őket,\nmert az ő szemében drága az életük.\nSzüntelenül imádkozzanak érte,\nés áldják őt mindörökké.",
+   "Legyen áldott a neve örökké,\namíg csak világít a nap, neve fennmaradjon.\nÁldott legyen benne a föld minden népe,\nmagasztalja őt minden nemzet."
+  ]
+ },
+ "alleluia": {
+  "text": "Az Úr elküldött, hogy a szegényeknek örömhírt vigyek, és a bűn rabjainak szabad életet hirdessek.",
+  "cite": "Lk 4,18"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Jézusban beteljesedtek az ószövetségi jövendölések.",
+  "text": "Abban az időben Jézus a (Szent)lélek erejével visszatért Galileába. Híre elterjedt az egész környéken. Tanított a zsinagógákban, és mindenki elismeréssel beszélt róla.\n\nEljutott Názáretbe is, ahol nevelkedett. Szokása szerint bement szombaton a zsinagógába, és olvasásra jelentkezett. Izajás próféta könyvét adták oda neki. Szétbontotta a tekercset, és éppen arra a helyre talált, ahol ez volt írva: „Az Úr Lelke van rajtam. Fölkent engem és elküldött, hogy örömhírt vigyek a szegényeknek, hirdessem a foglyoknak a szabadulást, a vakoknak a látást, hogy szabaddá tegyem az elnyomottakat, és hirdessem: elérkezett az Úr esztendeje.”\n\nÖsszetekerte az írást, átadta a szolgának, és leült. A zsinagógában minden szem rászegeződött. Ő pedig elkezdte beszédét: „Ma beteljesedett az írás, amelyet az imént hallottatok.”\n\nMindnyájan igazat adtak neki, de meglepődtek a magasztos igéken, amelyek ajkáról fakadtak.",
+  "cite": "Lk 4,14-22a"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent János apostol első leveléből",
+  "summary": "„Aki szereti Istent, szeresse embertestvérét is!”",
+  "text": "Testvéreim!\n\nSzeressük Istent, mert ő előbb szeretett minket! Aki azt mondja: „Szeretem Istent”, de testvérét gyűlöli, az hazug. Mert aki nem szereti testvérét, akit lát, hogyan szeretheti Istent, akit nem lát? Ezt a parancsot kaptuk tőle, hogy aki szereti Istent, szeresse testvérét is.\n\nMindenki, aki hiszi, hogy Jézus a Krisztus, az az Isten szülötte; aki pedig a szülőt szereti, szereti a szülöttét is. Abból tudjuk meg, hogy szeretjük Isten gyermekeit, ha szeretjük az Istent, és eleget teszünk parancsainak. Mert az az Isten iránti szeretet, hogy megtartjuk parancsait. Parancsai nem nehezek.\n\nMert mindenki, aki az Istentől született, legyőzi a világot. És ez a győzelem – győzelem a világ fölött! – a mi hitünk.",
+  "cite": "1Jn 4,19-5,4"
+ }
+}

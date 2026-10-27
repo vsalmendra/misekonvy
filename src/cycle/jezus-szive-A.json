@@ -1,0 +1,33 @@
+{
+ "key": "jezus-szive-A",
+ "source_date": "2026-06-12",
+ "rank": "",
+ "day": "Jézus Szent Szíve (\"A\" egyházi év – Főünnep)",
+ "psalm": {
+  "cite": "Zsolt 102,1-2.3-4.6-7.8 és 10",
+  "response": "Örökkévaló az Úr irgalma mindazokhoz, akik istenfélők.",
+  "verses": [
+   "Áldjad, lelkem, az Urat!\nEgész bensőm az ő szent nevét áldja.\nÁldjad, lelkem, az Urat,\nés ne feledd, hogy hozzád milyen jó volt.",
+   "Megbocsátja minden vétked,\nmeggyógyítja minden gyengeséged.\nA pusztulástól megmenti életed,\nkegyelmében és irgalmában meg is koronázza.",
+   "Az Úrigazságot szolgáltat,\nés megvédi jogát minden elnyomottnak.\nMegismertette útjait Mózessel,\nés terveit Izrael fiaival.",
+   "Irgalmas és kegyes a mi Istenünk:\nnagy irgalmú és hosszan tűrő.\nNem bűneink szerint bánik velünk,\nés nem gonoszságunk szerint fizet vissza nekünk."
+  ]
+ },
+ "alleluia": {
+  "text": "Vegyétek magatokra igámat és tanuljatok tőlem, mert szelíd vagyok és alázatos szívű!",
+  "cite": "Mt 11,29ab"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Tanuljatok tőlem, mert én szelíd vagyok, és alázatos szívű - mondja\naz Úr.",
+  "text": "Abban az időben Jézus megszólalt, és ezt mondta:\n\nMagasztallak téged, Atyám, ég és föld Ura, mert elrejtetted mindezt a\n\nbölcsek és okosak elől, és kinyilatkoztattad a kicsinyeknek! Igen,\n\nAtyám, így tetszett ez neked! Az én Atyám mindent átadott nekem, és nem\n\nismeri a Fiút senki más, csak az Atya, s az Atyát sem ismeri más, csak\n\na Fiú, és akinek a Fiú ki akarja nyilatkoztatni.\n\nJöjjetek hozzám mindnyájan, akik fáradtak vagytok, és terhek alatt\n\ngörnyedtek: én felüdítlek titeket! Vegyétek magatokra igámat, és\n\ntanuljatok tőlem, mert én szelíd vagyok és alázatos szívű – és\n\nnyugalmat talál lelketek. Mert az én igám édes, és az én terhem könnyű.",
+  "cite": "Mt 11,25-30"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent János apostol első leveléből",
+  "summary": "Isten előbb szeretett minket.",
+  "text": "Testvéreim!\n\nSzeressük egymást, mert a szeretet Istentől van!\n\nMindenki, aki szeret, Istentől való, és ismeri az Istent. Aki nem\n\nszeret, nem ismeri az Istent, mert Isten a szeretet. Isten szeretete\n\nabban nyilvánult meg, hogy az Isten elküldte a világba egyszülött Fiát,\n\nhogy éljünk általa. A szeretet nem abban áll, hogy mi szeretjük Istent,\n\nhanem hogy ő szeret minket, és elküldte Fiát bűneinkért engesztelésül.\n\nSzeretteim! Ha Isten így szeretett minket, nekünk is szeretnünk kell\n\negymást. Istent soha senki nem látta. Ha szeretjük egymást, Isten\n\nbennünk marad, és a szeretete tökéletes lesz bennünk. Abból tudjuk,\n\nhogy benne élünk, ő pedig bennünk, hogy a Lelkéből adott nekünk. Mi\n\nláttuk és tanúságot teszünk róla, hogy az Atya elküldte a Fiút, mint a\n\nvilág Üdvözítőjét. Aki vallja, hogy Jézus az Isten Fia, abban az Isten\n\nbenne marad, és ő is az Istenben. Megismertük a szeretetet, amelyet\n\nIsten helyezett belénk, és hittünk benne. Az Isten szeretet, és aki\n\nmegmarad a szeretetben, az az Istenben marad, s az Isten őbenne.",
+  "cite": "1Jn 4,7-16"
+ }
+}

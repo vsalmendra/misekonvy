@@ -1,0 +1,39 @@
+{
+ "key": "evkozi-18-vas-A",
+ "source_date": "2026-08-02",
+ "rank": "",
+ "day": "Évközi 18. vasárnap",
+ "psalm": {
+  "cite": "Zsolt 144,8-9.15-16.17-18",
+  "response": "Megnyitod kezedet, Istenem, és táplálsz minket.",
+  "verses": [
+   "Irgalmas az Úr és kegyelmes,\nnagy irgalmú és hosszan tűrő.\nAz Úr mindenkihez jóságos,\nés irgalmas minden művéhez.",
+   "Mindenek szeme bízón rád tekint,\nés te enni adsz nekik kellő időben.\nMegnyitod kezedet,\nés javaiddal eltöltesz minden élőt.",
+   "Igazságos az Úr minden útján,\nés szent minden művében.\nKözel az Úr mindazokhoz, akik őt hívják,\nakik hozzá kiáltanak igaz szívvel."
+  ]
+ },
+ "alleluia": {
+  "text": "Nemcsak kenyérrel él az ember, hanem minden igével is, mely Isten ajkáról való.",
+  "cite": "Mt 4,4b"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Mindannyian ettek és jól is laktak.",
+  "text": "Abban az időben: Amikor Jézus tudomást szerzett Keresztelő János haláláról, csónakba szállt és elment onnan egy kietlen helyre, egyedül. De az emberek megtudták, és a városokból gyalogszerrel utána indultak Mikor kiszállt, már nagy tömeget látott ott. Megesett rajtuk a szíve és meggyógyította betegeiket.\n\nAmint beesteledett, tanítványai odamentek hozzá, és figyelmeztették: „Sivár ez a hely, és késő már az óra is. Bocsásd el a tömeget, hadd menjenek a falvakba, hogy élelmet szerezzenek maguknak!” Jézus azonban ezt mondta nekik: „Nem kell elmenniük, ti adjatok nekik enni!” Ők ezt felelték: „Nincs másunk itt, csak öt kenyerünk és két halunk.” Mire ő ezt mondta: „Hozzátok ide!”\n\nMiután megparancsolta, hogy a tömeget telepítsék le a fűre, fogta az öt kenyeret és a két halat, szemét az égre emelve áldást mondott, azután megtörte a kenyereket, és odaadta a tanítványoknak, a tanítványok pedig az embereknek. Mindannyian ettek és jól is laktak. Végül tizenkét kosár lett tele a kenyérmaradékokkal. Pedig mintegy ötezer férfi evett, nem számítva a nőket és a gyerekeket.",
+  "cite": "Mt 14,13-21"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Izajás próféta könyvéből",
+  "summary": "Jöjjetek és egyetek.",
+  "text": "Így szól az Úr: Ti szomjazók, jöjjetek a vizekhez mind, és bár nincs pénzetek, siessetek ide! Vegyetek ingyen gabonát és egyetek, vegyetek pénz nélkül bort és tejet. Miért költitek a pénzt arra, ami nem kenyér, és a keresetet arra, amivel nem laktok jól? Hallgassatok ide, figyeljetek rám, akkor jó ételt esztek, és kövér falatokban lesz részetek. Fordítsátok ide fületeket és gyertek ide hozzám: hallgassatok rám, és élni fog lelketek.\n\nÖrök szövetséget kötök veletek, mert hűséges vagyok a Dávidnak tett ígérethez.",
+  "cite": "Iz 55,1-3"
+ },
+ "reading2": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a rómaiakhoz írt leveléből",
+  "summary": "Semmiféle teremtmény el nem szakíthat bennünket Isten szeretetétől.",
+  "text": "Testvéreim!\n\nKi szakíthat el bennünket Krisztus szeretetétől? Nyomor vagy szükség? Üldöztetés vagy éhínség? Ruhátlanság, életveszély vagy kard? Mi mindezeken diadalmaskodunk az által, aki szeret minket. Biztos vagyok ugyanis abban, hogy sem halál, sem élet, sem angyalok, sem fejedelemségek, sem jelenvalók, sem eljövendők, sem hatalmasságok, sem magasság, sem mélység, sem egyéb teremtmény el nem szakíthat bennünket Isten szeretetétől, amely Krisztus Jézusban, a mi Urunkban van.",
+  "cite": "Róm 8,35.37-39"
+ }
+}

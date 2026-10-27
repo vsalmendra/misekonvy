@@ -1,0 +1,33 @@
+{
+ "key": "husvet-7-5",
+ "source_date": "2026-05-22",
+ "rank": "",
+ "day": "húsvét 7. hét péntek",
+ "psalm": {
+  "cite": "Zsolt 102,1-2.11-12.19-20ab",
+  "response": "Az Úr a mennyben állította fel trónusát: uralkodik a mindenségen.",
+  "verses": [
+   "Vagy: Alleluja. 11. szám.\nÁldjad, lelkem, az Urat,\negész bensőm az ő szent nevét áldja.\nÁldjad, lelkem, az Urat,\nés ne feledd, hogy hozzád milyen jó volt.",
+   "Vagy: Alleluja.\nMert amilyen messze van az ég a földtől,\nolyan nagy a szeretete az őt félők iránt,\nés amilyen távol van napkelet napnyugattól,\nolyan messzire veti el vétkeinket.",
+   "Vagy: Alleluja.\nAz Úr a mennyben állította fel trónusát,\nkirályi hatalmával uralkodik a mindenségen.\nMind, ti, angyalai, áldjátok az Urat,\nti, hatalmasok, akik teljesítitek parancsát.",
+   "Vagy: Alleluja."
+  ]
+ },
+ "alleluia": {
+  "text": "A Szentlélek mindenre megtanít titeket, eszetekbe juttat mindent, amit mondtam néktek.",
+  "cite": "Jn 14,26"
+ },
+ "gospel": {
+  "book": "Szent János",
+  "summary": "Legeltesd juhaimat! Legeltesd bárányaimat!",
+  "text": "Amikor (feltámadása után egy alkalommal) Jézus megjelent tanítványainak és velük étkezett, megkérdezte Simon Pétertől: „Simon, János fia, jobban szeretsz-e engem, mint ezek?” Péter így szólt: „Igen, Uram, te tudod, hogy szeretlek.” Erre Jézus azt mondta neki: „Legeltesd bárányaimat!”\n\nAztán újra megkérdezte tőle: „Simon, János fia, szeretsz te engem?” Ő azt felelte: „Igen, Uram, tudod, hogy szeretlek!” Erre azt mondta neki: „Legeltesd juhaimat!”\n\nMajd harmadszor is megkérdezte tőle: „Simon, János fia, szeretsz engem?” Péter elszomorodott, hogy harmadszor is megkérdezte: „Szeretsz engem?”, és ezt válaszolta: „Uram, te mindent tudsz, azt is tudod, hogy szeretlek!” Jézus pedig ismét ezt mondta: „Legeltesd juhaimat!\n\nBizony, bizony, mondom neked: Amikor még fiatal voltál, felövezted magad, és oda mentél, ahová akartál. De ha megöregszel, kiterjeszted karjaidat. Más fog felövezni téged, és oda visz, ahova nem akarod.” Azt jelezte e szavakkal, hogy (Péter) milyen halállal dicsőíti majd meg az Istent. Azután még hozzátette: „Kövess engem!”",
+  "cite": "Jn 21,15-19"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "az Apostolok Cselekedeteiből",
+  "summary": "Fesztusz helytartó és Agrippa király beszélget Pál apostolról, aki a meghalt, de feltámadt Jézust hirdeti.",
+  "text": "Amikor Pál apostol fogságban volt Cezáreában, Agrippa király és nővére, Bereniké odaérkezett, hogy üdvözölje Fesztuszt, az új helytartót. Már több napja ott időztek, amikor Fesztusz szóvá tette a király előtt a fogoly Pál ügyét:\n\n„Elődöm, Félix, itt hagyott egy foglyot. Amikor Jeruzsálemben voltam, a főpapok és a vének hozzám fordultak ügyében, és elítélését kérték. Azt válaszoltam nekik, hogy a rómaiak senkit sem szoktak kiszolgáltatni, amíg a vádlottat nem szembesítik vádlóival, és alkalmat nem adnak neki, hogy védekezhessék a vád ellen. Mikor aztán többen idejöttek, másnap késedelem nélkül a bírói székbe ültem, és elővezettettem azt az embert.\n\nAmikor a vádlók előálltak, semmi olyan vádat nem hoztak fel ellene, amelyet én bűnnek minősíthettem volna. Csak vallásukkal kapcsolatban volt vele valami vitájuk, meg egy bizonyos Jézus nevű halottat emlegettek, akiről Pál azt állította, hogy él. Ezekben a vitapontokban nem tudtam eligazodni. Ezért megkérdeztem tőle, hajlandó-e fölmenni Jeruzsálembe, hogy ott ítélkezzenek fölötte ebben az ügyben.\n\nPál azonban föllebbezett, és azt kívánta, hogy ügyét küldjem a császárhoz. Úgy rendelkeztem tehát, hogy tartsák őrizetben, míg el nem küldöm a császárhoz.”",
+  "cite": "ApCsel 25,13-21"
+ }
+}

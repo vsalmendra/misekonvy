@@ -1,0 +1,40 @@
+{
+ "key": "evkozi-28-vas-A",
+ "source_date": "2026-10-11",
+ "rank": "",
+ "day": "Évközi 28. vasárnap",
+ "psalm": {
+  "cite": "Zsolt 22,1-3a.3b-4.5.6",
+  "response": "Otthonom lesz az Isten háza mindörökké szünet nélkül.",
+  "verses": [
+   "Az Úr nékem pásztorom:\nínséget nem kell látnom.\nZöldellő mezőkön terelget engem,\ncsendes vizekhez vezet és lelkemet felüdíti.",
+   "Az igazság ösvényén vezet engem,\nahogyan ő megígérte.\nA halál sötét völgyében sem félek, mert ott vagy vélem,\nbiztonságot ad vessződ és pásztorbotod.",
+   "Számomra asztalt terítettél,\nhogy üldözőimet szégyen érje.\nFejemet megkented olajoddal,\nserlegemet csordultig megtöltötted.",
+   "Jóságod és irgalmad nyomon követ\néletemnek minden napján.\nOtthonom lesz az Isten háza,\nmindörökké szünet nélkül."
+  ]
+ },
+ "alleluia": {
+  "text": "Urunk, Jézus Krisztus Atyja, világosítsa meg lelkünket, hogy megértsük, mily reménységre hívott meg minket.",
+  "cite": "Ef 1,17-18"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Akit csak találtok, hívjátok el a menyegzőre!",
+  "text": "Abban az időben: Jézus ismét példabeszédekben szólt a főpapokhoz és a nép véneihez:\n\nA mennyek országa olyan, mint amikor egy király menyegzőt rendezett a fiának. Elküldte szolgáit, hogy szóljanak a meghívottaknak, jöjjenek a menyegzőre. Ők azonban nem akartak jönni. Erre más szolgákat küldött: „Mondjátok meg a meghívottaknak: Íme, a lakomát elkészítettem. Ökreim és hizlalt állataim leöltem. Minden készen áll, jöjjetek a menyegzőre!” De azok mindezzel mit sem törődve szétszéledtek: az egyik a földjére ment, a másik az üzlete után nézett. A többiek pedig a szolgáknak estek: összeverték, sőt meg is ölték őket. A király nagy haragra lobbant. Elküldte seregeit, és felkoncoltatta a gyilkosokat, városukat pedig felégette. Azután így szólt a szolgákhoz: „A menyegző kész, de a meghívottak nem voltak rá méltók. Menjetek hát ki az útkereszteződésekre, és akit csak találtok, hívjátok el a menyegzőre!” A szolgák kimentek az utakra és összeszedtek mindenkit, akit csak találtak, gonoszokat és jókat egyaránt. A lakodalmas ház megtelt vendégekkel.\n\nAmikor a király bejött, hogy megszemlélje a vendégeket, meglátott köztük egy embert, aki nem volt menyegzős ruhába öltözve. Megszólította: „Barátom, hogy jöhettél be ide, ha nincs menyegzős ruhád?” De az csak hallgatott. Erre a király megparancsolta a szolgáknak: „Kezét-lábát kötözzétek meg, és dobjátok ki a külső sötétségre! Ott sírás lesz és fogcsikorgatás!” Sokan vannak a meghívottak, de kevesen a választottak!",
+  "cite": "Mt 22,1-14"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Izajás próféta könyvéből",
+  "summary": "Az Úr bőséges lakomát rendez, és letörli a könnyet minden arcról.",
+  "text": "A Seregek Ura bőséges lakomát rendez minden nemzetnek ezen a hegyen. Lakomát, ahol lesz finom bor, zsíros, legjava falat, és erős színbor. És ezen a hegyen leveszi a leplet, amely minden népet betakart, és a fátyolt, amely minden nemzetet elborított.\n\nÖrökre megsemmisíti a halált. Istenünk, az Úr letörli a könnyet minden arcról, lemossa népéről a gyalázatot, lemossa az egész földön. Ő, az Úr mondta ezt. Azon a napon majd így beszélnek: Íme, a mi Istenünk! Benne reméltünk. hogy ő megszabadít minket.\n\nŐ az Úr, s mi benne bíztunk. Örüljünk és ujjongjunk szabadításának! Lám az Úr keze megpihen e hegyen.",
+  "cite": "Iz 25,6-10a"
+ },
+ "reading2": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a filippiekhez írt leveléből",
+  "summary": "Mindenre képes vagyok abban, aki nekem erőt ad.",
+  "text": "Testvéreim!\n\nTudok nélkülözni, de tudok bőségben is élni. Megszoktam mindig mindent: a jóllakást és az éhezést, a bővelkedést és a nélkülözést. Mindenre képes vagyok abban, aki nekem erőt ad. Mégis jól tettétek, hogy szükségemben segítségemre voltatok. Az én Istenem, gazdagságának mértéke szerint, a ti szükségeteket is bőségesen kielégíti majd a Jézus Krisztus által elnyert dicsőségben. Legyen dicsőség Istennek, a mi Atyánknak örökkön örökké! Ámen.",
+  "cite": "Fil 4,12-14.19-20"
+ }
+}

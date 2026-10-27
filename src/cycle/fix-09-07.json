@@ -1,0 +1,33 @@
+{
+ "key": "fix-09-07",
+ "source_date": "2026-09-07",
+ "rank": "Ü",
+ "day": "Szent Márk, Szent István és Szent Menyhért áldozópapok, kassai vértanúk – Ü",
+ "psalm": {
+  "cite": "Zsolt 125,1-2ab.2cd-3.4-5.6",
+  "response": "Akik könnyek között vetnek, majd ujjongva aratnak.",
+  "verses": [
+   "Midőn az Úr hazahívta Sionnak foglyait,\nolyanok voltunk, mint akik álmodnak.\nMegtelt akkor örömmel az ajkunk,\nés a nyelvünk ujjongással.",
+   "Akkor így beszéltek a nemzetek:\n„Az Úr nagy dolgot művelt vélük.”\nHatalmas dolgot művelt az Úr vélünk,\nazért szívből ujjongunk.",
+   "Fordítsd, Uram, jóra sorsunkat,\namint megárasztod délen a folyókat.\nAkik könnyek között vetnek,\nmajd ujjongva aratnak.",
+   "Sírva viszik a magot, mikor vetni indulnak,\nde ujjongva jönnek, jönnek és hozzák kévéiket."
+  ]
+ },
+ "alleluia": {
+  "text": "Boldog, aki a kísértést kiállja, mert miután kiállta a próbát, elnyeri az örök élet koronáját.",
+  "cite": "Jak 1,12"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Ne féljetek azoktól, akik megölik a testet!",
+  "text": "Abban az időben Jézus ezt mondta apostolainak ne féljetek azoktól, akik megölik a testet, de a lelket nem tudják megölni. Inkább attól féljetek, aki a lelket is, a testet is a pokolba taszíthatja.\n\nEgy fillérért ugye két verebet adnak? És mégsem hull a földre egy se közülük Atyátok tudta nélkül! Nektek pedig minden szál hajatokat számon tartják! Ne féljetek hát: sokkal többet értek ti a verebeknél!\n\nHa valaki megvall engem az emberek előtt, én is megvallom őt Atyám előtt, aki a mennyekben van. De ha valaki megtagad engem az emberek előtt, én is megtagadom őt Atyám előtt, aki a mennyekben van.",
+  "cite": "Mt 10,28-33"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "a Bölcsesség könyvéből",
+  "summary": "Az igazak halálát Isten úgy fogadja, mint egészen elégő áldozatot.",
+  "text": "Így szól az örök Bölcsesség:\n\nAz igazak lelke Isten kezében van, és a halál kínja nem érheti őket.\n\nAz esztelenek szemében úgy látszott, hogy meghaltak; a világból való távozásukat balsorsnak vélték, elmenetelüket megsemmisülésnek.\n\nŐk azonban békességben vannak.\n\nMert ha az emberek szemében szenvedtek is, a reményük telve volt halhatatlansággal.\n\nKevés fenyítés után nagy jótéteményekben részesülnek, mert Isten próbára tette és magához méltónak találta őket.\n\nMint aranyat a kohóban, megvizsgálta és elfogadta őket egészen elégő áldozatul.\n\nAz (utolsó) ítélet idején majd felragyognak az igazak, és olyanok lesznek, mint a szikra, amely a tarlón tovaharapódzik.\n\nNemzetek fölött ítélkeznek majd, és népeken uralkodnak: és az Úr lesz a királyuk mindörökre.\n\nAkik benne bíztak, akkor majd megismerik az igazságot, és akik hűségesek voltak, szeretetben nála maradnak, mert kegyelem és irgalom lesz választottainak osztályrésze.",
+  "cite": "Bölcs 3,1-9"
+ }
+}

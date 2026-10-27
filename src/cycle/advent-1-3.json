@@ -1,0 +1,33 @@
+{
+ "key": "advent-1-3",
+ "source_date": "2025-12-03",
+ "rank": "",
+ "day": "1. adventi hét szerda",
+ "psalm": {
+  "cite": "Zsolt 22,1-3a.3b-4.5.6",
+  "response": "Otthonom lesz az Isten háza mindörökké szünet nélkül.",
+  "verses": [
+   "Az Úr nékem pásztorom,\nínséget nem kell látnom.\nZöldellő mezőkön terelget engem,\ncsendes vizeken vezet és lelkemet felüdíti.",
+   "Az igazság ösvényén vezet engem,\nahogyan ő megígérte.\nA halál sötét völgyében sem félek, mert ott vagy velem,\nbiztonságot ad vessződ és pásztorbotod.",
+   "Számomra asztalt terítettél,\nhogy üldözőimet szégyen érje.\nFejemet megkented olajoddal,\nserlegemet csordultig megtöltötted.",
+   "Jóságod és irgalmad nyomon követ,\néletemnek minden napján.\nOtthonom lesz az Isten háza\nmindörökké szünet nélkül."
+  ]
+ },
+ "alleluia": {
+  "text": "Íme, jön már az Úr, hogy népét megváltsa, boldog, aki készen áll, hogy találkozzék véle.",
+  "cite": ""
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Jézus sokakat meggyógyít, és megsokasítja a kenyeret.",
+  "text": "Abban az időben Jézus a Galileai-tengerhez érkezett. Fölment egy hegyre, és leült. Nagy sokaság jött hozzá. Hoztak magukkal sántákat, bénákat, vakokat, némákat meg sok más beteget, és lába elé tették őket. Valamennyiüket meggyógyította.\n\nAmikor a nép látta, hogy a némák beszélnek, a bénák meggyógyulnak, a sánták járnak és a vakok látnak, elámult, és magasztalta Izrael Istenét.\n\nJézus akkor összehívta tanítványait, és így szólt hozzájuk: „Sajnálom a népet. Már harmadnapja kitartanak mellettem, és nincs mit enniük. Nem akarom étlen hazaküldeni őket, hogy ki ne dőljenek az úton.”\n\nA tanítványok erre megjegyezték: „De honnan szerzünk itt a pusztában annyi kenyeret, hogy ekkora tömeget ellássunk?”\n\nJézus megkérdezte tőlük: „Hány kenyeretek van?”\n\n„Hét, és néhány apró halunk” – felelték.\n\nErre meghagyta a népnek, hogy telepedjék le a földre. Aztán fogta a hét kenyeret és a halakat, hálát adott, megtörte és odaadta tanítványainak, a tanítványok pedig a népnek. Miután mindnyájan ettek és jóllaktak, hét kosár kenyérmaradékot szedtek össze.",
+  "cite": "Mt 15,29-37"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Izajás próféta könyvéből",
+  "summary": "Jelképes lakomát készít az Úr a szent hegyen. Költői képben fejezi ki, hogy meghív minden népet a Megváltó eljövetelének ünneplésére.",
+  "text": "A Seregek Ura bőséges lakomát rendez minden nemzetnek az ő szent hegyén, lakomát, ahol lesz finom bor, zsíros, legjava falat, és erős színbor. Ezen a hegyen leveszi a leplet, amely minden népet betakart, és a fátyolt, amely minden nemzetet elborított. Örökre megsemmisíti a halált. Istenünk, az Úr letörli a könnyet minden arcról, lemossa népéről a gyalázatot, lemossa az egész földön. Ő, az Úr mondta ezt. Azon a napon majd így beszélnek: Íme, a mi Istenünk! Benne reméltünk, hogy ő megszabadít minket. Ő az Úr, s mi benne bíztunk. Örüljünk és ujjongjunk szabadításának! Lám az Úr keze megpihen e hegyen.",
+  "cite": "Iz 25,6-10a"
+ }
+}

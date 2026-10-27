@@ -1,0 +1,33 @@
+{
+ "key": "evkozi-4-3-II",
+ "source_date": "2026-02-04",
+ "rank": "",
+ "day": "4. évközi hét szerda",
+ "psalm": {
+  "cite": "Zsolt 31,1-2.5.6.7",
+  "response": "Bocsásd meg, Uram, bűnömet: vétkeim terhét vedd el rólam!",
+  "verses": [
+   "Boldog, akinek az Úr megbocsátotta bűneit,\nakinek eltörölte gonoszságát.\nBoldog az, akinek vétkét az Úr fel nem rója,\nkinek lelkében nincsen álnokság.",
+   "Bűnömet eléd tártam,\nnem rejtettem el vétkemet előled,\nÍgy szóltam: † „Gonoszságomat megvallom, Uram”,\nés te megbocsátottad vétkeimet.",
+   "Ezért fohászkodik hozzád az igaz ember,\na megpróbáltatás idején.\nHa nagy vizek áradnak is,\nőt el nem érik.",
+   "Te vagy menedékem, † a gyötrelemtől megóvsz engem,\nés a szabadulás ujjongásával veszel körül engem."
+  ]
+ },
+ "alleluia": {
+  "text": "Jézus mondja: „Juhaim hallgatnak szavamra; ismerem őket, és ők a nyomomban járnak.”",
+  "cite": "Jn 10,27"
+ },
+ "gospel": {
+  "book": "Szent Márk",
+  "summary": "A názáretiek nem ismerik fel Jézusban a Megváltót, mert nincs hitük.",
+  "text": "Abban az időben Jézus hazament Názáretbe. Tanítványai elkísérték. Amikor elérkezett a szombat napja, tanítani kezdett a zsinagógában.\n\nSokan hallgatták, és csodálkozva mondogatták: „Honnét vette ezt? Miféle bölcsesség ez, amely neki adatott? És a csodák, amelyeket kezével véghezvisz! Nem az ács ez, Mária fia, Jakab, József, Júdás és Simon rokona? S ugye nővérei is itt élnek közöttünk?” És megbotránkoztak benne.\n\nJézus erre megjegyezte: „Nem vetik meg a prófétát, csak a hazájában, rokonai körében, a saját házában.” Nem is tehetett ott csodát, csupán néhány beteget gyógyított meg, kézrátétellel. Maga is csodálkozott hitetlenségükön.",
+  "cite": "Mk 6,1-6"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Sámuel második könyvéből",
+  "summary": "Dávid vállalja bűnét, és irgalmat kér népe számára.",
+  "text": "Egy alkalommal Dávid király parancsot adott Joábnak, serege fővezérének: „Járd be Izrael valamennyi törzsét Dántól, az északi tartománytól Beersebáig, a déli tartományig! Számláljátok meg a népet, hogy tudhassam, hányan vannak!”\n\n(Joáb teljesítette is a parancsot, és) átadta a királynak a népszámlálás eredményét: Izraelben nyolcszázezer a hadköteles, kardfogásra alkalmas férfi, Júdában pedig ötszázezer.\n\nÁm a népszámlálás után nyugtalan lett a király lelkiismerete, és így imádkozott: „Nagyot vétkeztem e tettemmel; de kérlek, Uram, bocsásd meg szolgád vétkét, mert igen oktalanul cselekedtem.”\n\nMásnap, miután Dávid felkelt, az Úr szózatot intézett Gád prófétához, Dávid látnokához: „Eredj, és mondd meg Dávidnak! Ezt üzeni\n\naz Úr: Három lehetőséget kínálok neked. Válassz egyet közülük, és azt teszem veled!”\n\nGád el is ment Dávidhoz, és jelentette neki: „Jöjjön-e három évig tartó éhség országodra, vagy három hónapig menekülnöd kelljen ellenségeid elől, akik üldözni fognak; vagy pedig három napig pestis fog pusztítani földeden. Nos, gondolkodjál és határozz, milyen választ vigyek annak, aki engem küldött!” Dávid erre azt válaszolta Gádnak: „Nehéz választás előtt állok. De jobb az Úr kezébe kerülnöm (mert nagy az ő irgalmassága), mint hogy az emberek kezébe essem.” így tehát Dávid a pestist választotta. Éppen a búza aratásának volt az ideje.\n\nAz Úr tehát pestist bocsátott Izraelre attól a reggeltől fogva a megszabott ideig. Dántól Beersebáig hetvenezer ember halt meg a népből. Mikor az Úr angyala már Jeruzsálemre nyújtotta ki kezét, hogy ott is pusztítson, az Úr szíve megesett a nyomorúságon, és parancsot adott a nép pusztító angyalának: „Elég! Vond vissza már a kezedet!” Amikor ugyanis az Úr angyala a jebuzeus Areuna szérűjéhez ért, Dávid meglátta a pusztító angyalt, és így könyörgött az Úrhoz: „Én vagyok, aki vétkeztem. Én vagyok, aki gonoszat cselekedtem. Ők, a juhok semmit sem tettek. Kérlek, inkább fordítsd kezedet ellenem és házam ellen!”",
+  "cite": "2Sám 24,2.9-17"
+ }
+}

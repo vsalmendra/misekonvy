@@ -12,16 +12,21 @@ content over time. This CLAUDE.md is the source of truth. Claude Code commits an
   The app takes the day from the device's date only (no URL parameters): today's Mass; the 📅 button
   in the menu offers only dates that have a Mass. No Mass for today → **the Order of Mass alone**
   (`app/data/ordinary.json`: fixed parts, placeholders for the day's prayers, prefaces of EP II and IV,
-  all four EPs, Latin section) **with the day's readings** (`app/data/readings/<date>.json`, if fetched),
+  all four EPs, Latin section) **with the readings of the liturgical day**: `app/data/days.json` maps
+  each date (2026-10 … 2029) to its liturgical day (`tools/litcal.py`) and the key of its readings,
+  `app/data/cycle/<key>.json`; any year with the same cycle reuses them,
   plus "Újratöltés" and "Másik nap"; only if nothing can load, the logo.
   If today is after the last Mass, the app reloads fresh once by itself (marker in the tab's
   sessionStorage; without storage it never reloads by itself, so it never loops). An installed app
   resumed on a new day moves on to that day.
 - `src/` — sources of the database: `library/` (Order of Mass, Eucharistic prayers, prefaces,
   `commons/`) and `masses/<date>.toml` + `masses/<date>.md` (the day's recipe/instructions).
-  `readings/<date>.json`: the day's readings from igenaptár for days without a Mass file —
-  `python3 tools/fetch_readings.py <from> [<to>]` (overwrites; check `git diff`). Fetched so far:
-  2026-10-27 … 2026-11-28 (not 11-02; Advent not yet published by igenaptár). Refill regularly.
+  `cycle/<key>.json`: lectionary readings by liturgical day (key from `tools/litcal.py`, e.g.
+  `evkozi-30-2-II`, `evkozi-31-vas-A`, `advent-1-3`, `fix-11-01`), fetched from igenaptár with
+  `python3 tools/fetch_readings.py <from> [<to>]` (igenaptár serves only the current liturgical year;
+  overwrites; check `git diff`). Fetched: 2025-11-30 … 2026-11-28 = weekday year II, Sundays A,
+  Advent/Christmas/Lent/Easter weekdays. **Missing: weekday year I, Sundays B and C** — fetch each new
+  liturgical year when igenaptár publishes it (year B from 2026-11-29), or import them from another source.
 - `tools/build.py` — `python3 tools/build.py` rebuilds `app/data/` and bumps the SW cache name.
   Always run it and commit its output after changing `src/`.
 - `tests/app-test.mjs` — browser test (day selection, single automatic reload, no loops, resume on a

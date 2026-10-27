@@ -1,0 +1,33 @@
+{
+ "key": "nagybojt-4-2",
+ "source_date": "2026-03-17",
+ "rank": "",
+ "day": "4. nagyböjti hét kedd",
+ "psalm": {
+  "cite": "Zsolt 45,2-3.5-6.8-9",
+  "response": "Velünk van az erős Isten: Jákob Istene a menedékünk.",
+  "verses": [
+   "(8. vers. - 9. tónus)\nIsten az erőnk és menedékünk,\nbiztos segítségünk, mikor minket szorongatnak.\nEzért nem félünk, ha megrendül a föld alattunk,\nés a hegyek elmerülnek a mély tengerbe.",
+   "A folyók partjai vidítják Isten városát,\na fölséges Isten szent hajlékát.\nMeg nem inog, mert Isten lakja,\nkora hajnaltól oltalmazza.",
+   "Velünk van az erős Isten:\nJákob Istene a menedékünk.\nJöjjetek és lássátok az Úrnak tetteit,\nmelyeket végbevitt az egész földön."
+  ]
+ },
+ "alleluia": {
+  "text": "Tiszta szívet teremts bennem, Istenem: és üdvösséged örömét add meg nékem újra!",
+  "cite": "Zsolt 50,12a.14a",
+  "lent": true
+ },
+ "gospel": {
+  "book": "Szent János",
+  "summary": "A harmincnyolc éve beteg ember meggyógyítása.",
+  "text": "A húsvéti ünnepekre Jézus fölment Jeruzsálembe. Volt Jeruzsálemben az úgynevezett Juh-kapu mellett egy fürdő, amelyet héberül Beteszdának neveztek. Öt oszlopcsarnoka volt, ahol nagyon sok beteg feküdt: vakok, sánták és bénák.\n\nVolt ott egy harmincnyolc éve beteg ember is. Jézus látta, ahogy ott feküdt, és megtudta, hogy már régóta beteg.\n\nMegszólította: „Akarsz-e meggyógyulni?” A beteg azt felelte: „Uram! Nincs emberem, aki levinne a fürdőbe, amikor mozgásba jön a víz. Mire én odaérek, már más lép be előttem.” Jézus erre azt mondta neki: „Kelj föl, vedd ágyadat, és járj!” Az ember azonnal meggyógyult. Fölvette ágyát, és járni kezdett.\n\nAznap éppen szombat volt. A zsidók ezért rászóltak a meggyógyított emberre: „Szombat van; nem szabad az ágyadat vinned.” Ő azonban így válaszolt nekik: „Aki meggyógyított, azt mondta nekem: Vedd ágyadat, és járj!”\n\nMegkérdezték tőle: „Kicsoda az az ember, aki azt mondta neked, hogy vedd ágyadat, és járj?” A meggyógyult ember azonban nem tudta, hogy ki volt az. Jézus ugyanis továbbment, amikor tömeg verődött össze a helyszínen.\n\nKésőbb Jézus a templomban találkozott a meggyógyított emberrel, és ezt mondta neki: „Látod, most meggyógyultál. Többé ne vétkezzél, hogy valami nagyobb bajod ne essék!” Az ember elment, és elmondta a zsidóknak, hogy Jézus volt az, aki meggyógyította őt. A zsidók üldözték Jézust, mert mindezt szombaton cselekedte.",
+  "cite": "Jn 5,1-16"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Ezekiel próféta könyvéből",
+  "summary": "Ezekiel látomásban kap tanítást a templomból kifolyó vízről, mely mindent egészségessé tesz.",
+  "text": "Látomásban egy férfi odavezetett a templom kapuja elé.\n\nLáttam, hogy a küszöb alól víz fakadt, a ház keleti oldalán,\n\nkeletre nézett ugyanis a templom főbejárata.\n\nA víz az épülettől jobbra folyt le, az oltártól dél felé.\n\nAzután az angyal kivitt az északi kapun,\n\ns a külső kapun kívül fekvő útra vezetett,\n\namely keletre visz.\n\nÉs íme jobbról forrás tört elő!\n\nA férfi, akinek mérőzsinór volt a kezében, kiment kelet felé;\n\nezer könyöknyit mért, és átvezetett a vízen, amely bokáig ért.\n\nMajd ismét ezret mért, átjött velem, – a víz már térdig ért.\n\nMegint mért ezret, átkísért, – s a víz vesékig ért.\n\nVégül ugyancsak ezret mért, de akkorára már\n\noly nagy folyammá dagadtak a mély vizek,\n\nhogy átgázolni nem tudtam, úszni kellett volna benne;\n\nazon átmenni sehogy sem lehetett.\n\nKísérőm így szólt: „Láttad ezt, emberfia?”\n\nAztán a folyóparthoz ismét visszavezetett.\n\nMikorra visszatértünk,\n\nrengeteg fa volt a folyó partján mindkét oldalon.\n\nA férfi így szólt: „A keleti vidék felé indul ez a víz,\n\ntehát keletre, onnét majd lehömpölyög a sivatag felé;\n\na sivatagtól zúg tovább le a Holt-tengerig.\n\nEz a víz a sós tengervizet is egészségessé teszi.\n\nAmerre árad e folyó, minden lény élni fog!\n\nAhová eljut ez a víz, igen sok lesz a hal;\n\namit csak öntöz e folyó, minden virulni fog!\n\nA folyó mentén mindkét parton sok gyümölcsfa nő:\n\nlombjuk le nem hull, és gyümölcsük nem fogy el.\n\nHavonként érik friss gyümölcsük, mert vizük a szentélyből fakad,\n\ngyümölcsük étel, lombjuk pedig orvosság lesz.”",
+  "cite": "Ez 47,1-9.12"
+ }
+}

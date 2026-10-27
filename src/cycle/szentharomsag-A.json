@@ -1,0 +1,42 @@
+{
+ "key": "szentharomsag-A",
+ "source_date": "2026-05-31",
+ "rank": "",
+ "day": "Szentháromság vasárnapja",
+ "psalm": {
+  "cite": "Dán 3,52.53.54.55.56",
+  "response": "Dicséretre méltó és magasztos örökkön örökké.",
+  "verses": [
+   "Áldott vagy, Urunk, atyáink Istene.\n",
+   "Áldott a te dicsőséges szent neved.\n",
+   "Áldott vagy templomodban, dicsőséged szent helyén.\n",
+   "Áldott vagy királyi trónodon.\n",
+   "Áldott vagy, aki mélységekbe tekintesz, † és a kerubok fölött trónolsz.\n",
+   "Áldott vagy az égbolt fölött.\n"
+  ]
+ },
+ "alleluia": {
+  "text": "Dicsőség az Atyának, a Fiúnak és a Szentléleknek: Istennek, aki van, aki volt, és aki eljön újra!",
+  "cite": "Vö. Jel 1,8"
+ },
+ "gospel": {
+  "book": "Szent János",
+  "summary": "Isten elküldte Fiát, hogy üdvözüljön általa a világ.",
+  "text": "Abban az időben Jézus ezt mondta Nikodémusnak:\n\nÚgy szerette Isten a világot, hogy egyszülött Fiát adta oda, hogy\n\nmindaz, aki benne hisz, el ne vesszen, hanem örök élete legyen. Isten\n\nnem azért küldte Fiát a világba, hogy elítélje a világot, hanem hogy\n\náltala üdvözüljön a világ. Aki hisz benne, az nem esik ítélet alá, de\n\naki nem hisz, az már ítéletet vont magára, mert nem hitt Isten\n\negyszülött Fiában.",
+  "cite": "Jn 3,16-18"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Mózes második könyvéből",
+  "summary": "Az Úr irgalmas és könyörülő Isten.",
+  "text": "Mózes, miután elpusztította az aranyborjút és kiengesztelte az Urat,\n\nmásnap korán reggel elindult a Sinai-hegyre, és vitte magával a két\n\nkőtáblát, ahogy az Úr megparancsolta. Az Úr leereszkedett felhőben, ő\n\npedig eléje járult és segítségül hívta az Úr nevét. Az Úr elvonult\n\nMózes előtt és ezt mondta: „Az Úr, az Úr, irgalmas és könyörülő Isten,\n\nhosszantűrő, kegyelemben és hűségben gazdag.”\n\nMózes sietve a földig hajolt, leborult, és így szólt: „Ha kegyelmet\n\ntaláltam a szemedben, Uram, akkor a mi Urunk vonuljon velünk. Bár\n\nkeménynyakú nép ez, mégis bocsásd meg bűneinket, és fogadj el minket\n\nörökségedül.”",
+  "cite": "Kiv 34,4b-6.8-9"
+ },
+ "reading2": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a korintusiakhoz írt második leveléből",
+  "summary": "Urunk, Jézus Krisztus kegyelme, Isten szeretete és a Szentlélek közössége köti össze a híveket.",
+  "text": "Testvéreim!\n\nÖrvendjetek és tökéletesedjetek! Buzdítsátok egymást,\n\néljetek egyetértésben és békében! Akkor veletek lesz a szeretet és a\n\nbéke Istene. Köszöntsétek egymást szent csókkal. A szentek mind\n\nköszöntenek titeket.\n\nUrunk Jézus Krisztus kegyelme, Isten szeretete és a Szentlélek\n\nközössége legyen mindnyájatokkal!",
+  "cite": "2Kor 13,11-13"
+ }
+}

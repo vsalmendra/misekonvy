@@ -1,0 +1,33 @@
+{
+ "key": "evkozi-12-4-II",
+ "source_date": "2026-06-25",
+ "rank": "",
+ "day": "12. évközi hét csütörtök",
+ "psalm": {
+  "cite": "Zsolt 78,1-2.3-5.8.9",
+  "response": "Ments meg minket, Urunk, neved dicsőségéért!",
+  "verses": [
+   "Pogányok törtek örökségedre, Istenünk, † szent templomodat gyalázat érte,\nJeruzsálemet romba döntötték.\nSzolgáid holttestét az ég madarainak eledelül adták,\ns a föld vadjainak híveid testét.",
+   "Vérüket úgy ontották Jeruzsálem körül, mint a vizet,\nés nem volt, aki eltemesse őket.\nGyalázattá lettünk szomszédaink előtt,\nkinevetnek és csúfolnak a körülöttünk lakók.",
+   "Meddig még, Urunk? † Vég nélkül haragszol?\nHaragod úgy lángol, mint a tűz?\nNe emlékezzél atyáink vétkeire, † irgalmaddal siess elénk,\nmert igen nyomorultak lettünk.",
+   "Segíts rajtunk, szabadító Istenünk, † neved dicsőségéért ments meg minket,\nés nevedért bocsásd meg bűneinket."
+  ]
+ },
+ "alleluia": {
+  "text": "Aki szeret engem, megfogadja szavamat. Atyám is szeretni fogja, és hozzá költözünk.",
+  "cite": "Jn 14,23"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Aki Jézus tanítását követi, biztos alapra épít.",
+  "text": "Abban az időben Jézus így fejezte be a hegyi beszédet:\n\nA mennyek országába nem jut be mindenki, aki azt mondja nekem: „Uram! Uram!” Csak az, aki mennyei Atyám akaratát cselekszi. Azon a napon sokan mondják majd nekem: „Uram, Uram! Hát nem a te nevedben prófétáltunk? Nem a te nevedben űztük ki az ördögöket? Nem a te nevedben tettünk annyi csodát?” Én akkor kijelentem majd nekik, hogy nem ismertelek soha benneteket. Távozzatok színem elől, ti, gonosztevők!\n\nMert mindaz, aki meghallgatja szavaimat és szerintük cselekszik, ahhoz az okos emberhez hasonlít, aki a házát sziklára építette. Szakadt a zápor, ömlött az ár, süvített a szél, és nekizúdult a háznak, de az nem dőlt össze, mert sziklára épült.\n\nAki viszont hallgatja szavaimat, de nem követi azokat, ahhoz az ostoba emberhez hasonlít, aki a házát homokra építette. Szakadt a zápor, ömlött az ár, süvített a szél, nekizúdult a háznak; az összedőlt, és nagy romhalmaz lett belőle.\n\nEzzel Jézus befejezte a hegyi beszédet. A népsokaság elragadtatással hallgatta tanítását, mert úgy tanította őket, mint akinek hatalma van, nem pedig úgy, mint az ő írástudóik.",
+  "cite": "Mt 7,21-29"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "a Királyok második könyvéből",
+  "summary": "Joákin király idejében megkezdődik a hetvenéves babiloni fogság.",
+  "text": "Tizennyolc esztendős volt Joákin, amikor uralkodni kezdett, és három hónapig uralkodott Jeruzsálemben. Anyját Nahestának hívták, és a jeruzsálemi Elnátán leánya volt.\n\nAzt cselekedte, ami gonosz az Úr előtt, egészen úgy, ahogy atyja, Joakim cselekedett. Ebben az időben Nabukodonozor babiloni király katonái felvonultak Jeruzsálem ellen, és körülzárták a várost. Majd maga Nabukodonozor babiloni király is hadba vonult a város ellen szolgáival együtt.\n\nErre Joákin, Júda királya, anyjával, szolgáival, főembereivel és udvari tisztjeivel együtt kiment eléje, de Babilon királya, uralkodásának nyolcadik esztendejében, elfogatta őt.\n\nAzután elhurcoltatta Jeruzsálemből az Úr házának minden kincsét, a királyi palota kincseit; levagdaltatta azokat az aranyborításokat, amelyeket Salamon, Izrael királya készíttetett az Úr temploma számára – ahogyan az Úr mondta neki. Azután fogságba hurcolta egész Jeruzsálemet, az összes főembert, a sereg összes vitézét, tízezernyi férfit, minden kovácsot és lakatost, úgyhogy nem maradt senki sem a föld szegény népén kívül.\n\nJoákint is elhurcolta Babilonba, meg a király anyját, feleségeit és udvari tisztjeit. De még az ország bíráit is fogságba vitték Jeruzsálemből Babilonba. Minden fegyverfogható férfit, szám szerint hétezret, ezernyi kovácsot és lakatost, minden fegyverforgatásra alkalmas férfit Babilonba küldött fogságba Babilon királya.\n\nJoákin helyett atyai nagybátyját, Mattanját tette királlyá Babilon királya, és nevét Szedekiásra változtatta.",
+  "cite": "2Kir 24,8-17"
+ }
+}

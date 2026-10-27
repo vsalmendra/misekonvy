@@ -1,0 +1,32 @@
+{
+ "key": "advent-2-6",
+ "source_date": "2025-12-13",
+ "rank": "",
+ "day": "2. adventi hét szombat",
+ "psalm": {
+  "cite": "Zsolt 79,2ac és 3b.15-16.18-19",
+  "response": "Téríts meg minket, Istenünk, ragyogtasd ránk arcodat, és szabadok leszünk.",
+  "verses": [
+   "Figyelj ránk, Izrael pásztora,\nragyogj fel, aki trónolsz a kerubok fölött.\nMutasd meg hatalmadat,\njöjj, hogy megszabadíts minket!",
+   "Seregek Ura, fordulj hozzánk, tekints le az égből,\nlásd és látogasd meg ezt a szőlőt.\nVédd meg, amit jobbod ültetett,\nés az emberfiát, akit magadnak megerősítettél.",
+   "Jobbod embere fölé tárd ki kezedet,\naz emberfia fölé, akit magadnak megerősítettél.\nNem hagyunk el többé, éltess bennünket,\nés mi segítségül hívjuk nevedet."
+  ]
+ },
+ "alleluia": {
+  "text": "Készítsétek elő az Úr útját, egyengessétek ösvényét, és minden ember meglátja az Üdvözítőt, akit elküld az Isten.",
+  "cite": "Lk 3,4.6"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Keresztelő Jánosban beteljesedik Illés próféta második eljövetele is: de nemcsak az Előhírnököt nem ismeri fel a nép, hanem magát a Megváltót sem.",
+  "text": "Színeváltozása után tanítványai megkérdezték Jézust: „Miért mondják az írástudók, hogy előbb Illésnek kell eljönnie?” Ő így felelt: „Illés eljön ugyan, és helyreállít mindent, én azonban azt mondom nektek, hogy Illés már eljött, de nem ismerték föl, és kényük-kedvük szerint bántak vele. Így szenved majd az Emberfia is tőlük.” Ekkor értették meg a tanítványok, hogy Keresztelő Jánosról beszélt nekik.",
+  "cite": "Mt 17,10-13"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Sirák fia könyvéből",
+  "summary": "Illés próféta megjelenése mindig az Úr közeledését jelenti.\nEzért várta őt a nép Jézus korában Keresztelő János személyében, és várja a világ végére is.",
+  "text": "(Isten elküldte népéhez Mózest és az ősatyákat.) Azután, mint a tűzvész, Illés próféta jött, kinek szava lángolt, mint az égő fáklya. Éhínséget hozott rájuk, és haragjában megtizedelte őket. Az Úr szavával elzárta az eget, és tüzet hozott le háromszor az égből. Illés, mily nagy voltál csodatetteiddel! Ki tarthatná magát olyan nagynak, mint te vagy? Tüzes forgószélben magasba ragadtattál, szekéren, amellyel tüzes lovak száguldottak. Rólad írták, hogy az ítélet idején csillapítod az Úr haragját; az apák szívét fiaik felé fordítod, és helyre állítod Jákob törzseit. Boldogok mind, akik téged láttak, akik a te barátságodban hunytak el.",
+  "cite": "Sir 48,1-4.9-11"
+ }
+}

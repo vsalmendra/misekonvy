@@ -1,0 +1,32 @@
+{
+ "key": "dec-18",
+ "source_date": "2025-12-18",
+ "rank": "",
+ "day": "Adventi köznapok - december 18.",
+ "psalm": {
+  "cite": "Zsolt 71,2.12-13.18-19",
+  "response": "(A Messiáskirály) napjaiban az igazság virága nyílik, és teljes béke lesz a világ végéig!",
+  "verses": [
+   "Istenem, ítéletedet add át a királynak:\nés igazságodat a király Fiának,\nhogy igazságosan ítélkezzék népeden,\nés méltányosan minden szegényen.",
+   "Megszabadítja a szegényt, aki hozzá kiált,\na nyomorultat, akin nem segít senki.\nKíméli a kicsinyt és a gyengét,\na szűkölködőt megsegíti.",
+   "Áldott legyen a Úr, Izrael Istene,\naki egyedül művel csodákat.\nÁldott legyen fölséges neve örökké,\nfölségével teljék be az egész föld. Úgy legyen! Ámen."
+  ]
+ },
+ "alleluia": {
+  "text": "Választott néped Pásztora, aki Mózesnek a Sínai-hegyen törvényt adtál, jöjj, tárd ki karodat, hogy megválts minket!",
+  "cite": ""
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Szent József angyali jelenésből tudja meg, hogy Mária gyermeke a Szentlélektől van.",
+  "text": "Jézus Krisztus születése így történt: Anyja, Mária, jegyese volt Józsefnek. Mielőtt azonban egybekeltek volna, kitűnt, hogy Mária gyermeket fogant méhében a Szentlélektől. A férje, József igaz ember volt, nem akarta őt megszégyeníteni, ezért úgy határozott, hogy titokban bocsátja el. Míg ezen töprengett, megjelent neki álmában az Úr angyala, és így szólt: „József, Dávid fia, ne félj attól, hogy feleségül vedd Máriát, mert a benne fogant élet a Szentlélektől van. Fia születik majd, akit Jézusnak nevezel, mert ő váltja meg népét bűneitől.” Mindez pedig azért történt, hogy beteljesedjék, amit az Úr a próféta által mondott: Íme, a Szűz gyermeket fogan és fiút szül, és az Emmánuel nevet adják neki, ami azt jelenti: „Velünk az Isten.” Amikor József felébredt álmából, úgy cselekedett, amint az Úr angyala parancsolta neki.",
+  "cite": "Mt 1,18-24"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Jeremiás próféta könyvéből",
+  "summary": "Isten megígéri a Megváltót, aki hazavezeti népét a fogságból és otthont ad neki.",
+  "text": "Prófétája által jövendöl az Úr: Igen, jönnek napok – mondja az Úr –, amikor igaz sarjat támasztok Dávidnak. Királyként uralkodik majd, bölcsen kormányoz, s gondja lesz a jogra és az igazságra az országban. Az ő napjaiban megszabadul Júda, és biztonságban él Izrael. Ez lesz a neve, amelyen szólítják: „Az Úr, a mi igazságunk,” Jönnek napok – mondja az Úr –, amikor nem azt mondják többé: „Amint igaz, hogy él az Úr, aki kihozta Izrael fiait Egyiptom földjéről”, hanem: „Amint igaz, hogy él az Úr, aki visszavezette és hazahozta Izrael házának ivadékát észak földjéről és azokból az országokból, ahová szétszórta őket.” És a saját földjükön laknak majd.",
+  "cite": "Jer 23,5-8"
+ }
+}

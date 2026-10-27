@@ -1,0 +1,34 @@
+{
+ "key": "husvet-6-3",
+ "source_date": "2026-05-13",
+ "rank": "",
+ "day": "húsvét 6. hét szerda",
+ "psalm": {
+  "cite": "Zsolt 148,1-2.ll-12ab.12c-14a.14bcd",
+  "response": "Dicsőséged betölti a mennyet és a földet.",
+  "verses": [
+   "Vagy: Alleluja. 8. szám.\nDicsérjétek az Urat a mennyből,\ndicsérjétek őt a magasságban.\nDicsérjétek mindnyájan, angyalok,\ndicsérjétek, összes mennyei karok.",
+   "Vagy: Alleluja.\nFöld királyai és minden népek,\nfejedelmek és a föld minden bírája,\nifjak és leányok,\nöregek és gyermekek dicsérjétek az Úr nevét.",
+   "Vagy: Alleluja.\nDicsérjétek az Úr nevét,\nmert egyedül csak az ő neve fölséges.\nFölsége felülmúlja az eget és a földet,\nés ő emeli fel népe fejét.",
+   "Vagy: Alleluja.\nDicsérő ének ez minden szentjének,\nIzrael fiainak, a népnek, amely közel áll hozzá.",
+   "Vagy: Alleluja."
+  ]
+ },
+ "alleluia": {
+  "text": "Kérni fogom Atyámat, és más Vigasztalót ád majd nektek, hogy veletek maradjon mindörökké.",
+  "cite": "Jn 14,16"
+ },
+ "gospel": {
+  "book": "Szent János",
+  "summary": "A Szentlélek majd minden igazságra megtanítja Jézus követőit.",
+  "text": "Búcsúbeszédében Jézus így szólt tanítványaihoz:\n\n„Még sok mondanivalóm volna nektek, de nem vagytok hozzá elég erősek. Amikor azonban eljön az Igazság Lelke, ő majd elvezet titeket a teljes igazságra.\n\nNem magától fog beszélni, hanem azt mondja el, amit hall, és a jövendőt fogja hirdetni nektek. Megdicsőít engem, mert az enyémből veszi, amit majd hirdet nektek.\n\nMinden, ami Atyámé, enyém is. Ezért mondtam, hogy az enyémből veszi, amit majd hirdet nektek.“",
+  "cite": "Jn 16,12-15"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "az Apostolok Cselekedeteiből",
+  "summary": "Pál apostol „az ismeretlen Istent” hirdeti az athénieknek.",
+  "text": "Mivel Pál ellenfelei újra fellázították a népet, a testvérek kísérőket adtak Pál apostol mellé, akik egészen Athénig vezették őt. Amikor a kísérők visszafordultak, Páltól azt az utasítást vitték Szilás és Timóteus számára, hogy minél előbb menjenek utána Athénba.\n\nAmíg ott rájuk várakozott, egy alkalommal így beszélt az Areopáguszon, Athén főterén:\n\n„Athéni férfiak! Látom, hogy minden szempontból nagyon vallásosak vagytok. Amint ugyanis körbejárva megtekintettem szentélyeiteket, olyan oltárra akadtam, amelyen ez a felírás állott: »Az ismeretlen istennek.« Azt hirdetem tehát nektek, akit ti ismeretlenül is tiszteltek.\n\nA világot és minden benne lévő dolgot teremtő Isten nem lakik kézzel épített templomokban, mivel ő a mennynek és a földnek Ura. Semmiben sem szorul emberi kéz segítségére, hiszen ő ad mindenkinek életet, levegőt és mindent. Ő telepítette be az egy őstől származó emberiséggel az egész földet, és ő szabta meg ittlakásuk pontos idejét és határát. Azt akarta, hogy keressék az Istent, hogy rátaláljanak és elérjék, hiszen nincs messze egyikünktől sem. Benne élünk, mozgunk és vagyunk. Ahogy költőitek is mondják: »Az ő fiai vagyunk.«\n\nHa tehát az Isten fiai vagyunk, nem szabad azt gondolnunk, hogy az Isten emberi művészettel, emberi tervek szerint formált arany-, ezüst-, vagy kőszoborhoz hasonlít. De elmúlt már az az idő, melyben Isten elnézte a vele kapcsolatos tudatlanságotokat, mert az emberek tudomására hozta, hogy mindenhol mindenkinek meg kell térnie.\n\nKiválasztott ugyanis egy napot, amelyen igazságos ítéletet tart majd az egész világ felett egy arra rendelt férfi által, akiről mindenki előtt tanúbizonyságot tett azzal, hogy feltámasztotta őt a halálból.”\n\nA halottak feltámadásának hallatára némelyek gúnyolódni kezdtek, mások meg azt mondták: „Erről majd még máskor is meghallgatunk téged.” Pál erre eltávozott közülük.\n\nNéhányan mégis csatlakoztak hozzá, és hívők lettek. Köztük Areopagita Dénes, egy Damarisz nevű asszony és még mások is.\n\nEzek után Pál Athénből Korintusba távozott.",
+  "cite": "ApCsel 17,15.22-18,1"
+ }
+}

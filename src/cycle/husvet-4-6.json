@@ -1,0 +1,33 @@
+{
+ "key": "husvet-4-6",
+ "source_date": "2026-05-02",
+ "rank": "",
+ "day": "húsvét 4. hét szombat",
+ "psalm": {
+  "cite": "Zsolt 97,1.2-3ab.3cd-4",
+  "response": "A föld minden határa látta üdvözítő Urunknak irgalmas jóságát.",
+  "verses": [
+   "Vagy: Alleluja. 6. szám.\nZengjetek az Úrnak új éneket,\ncsodálatra méltó, amit művelt.\nDiadalt aratott jobbjával,\nés győzelmet szentséges karjával.",
+   "Vagy: Alleluja.\nAz Úr megmutatta szabadító erejét,\nigazságosságát feltárta a népek előtt.\nEmlékezetébe idézte jóságát és hűségét\nIzrael népe iránt.",
+   "Vagy: Alleluja.\nMeglátta a föld minden határa,\nszabadulást Istenünk hozott nekünk.\nMinden földek, zengjetek az Úrnak öröméneket,\nujjongjatok és zsoltárt mondjatok.",
+   "Vagy: Alleluja."
+  ]
+ },
+ "alleluia": {
+  "text": "Ha megmaradtok tanításomban, valóban tanítványaim lesztek, és megismeritek az Igazságot – mondja a mi Urunk.",
+  "cite": "Jn 8,31b-32"
+ },
+ "gospel": {
+  "book": "Szent János",
+  "summary": "Aki Jézust látja, az látja és ismeri a mennyei Atyát is.",
+  "text": "Az utolsó vacsorán Jézus így szólt tanítványaihoz:\n\n„Ha ismernétek engem, Atyámat is ismernétek. De mostantól fogva ismeritek őt, és látjátok.”\n\nFülöp megjegyezte: „Uram, mutasd meg nekünk az Atyát, és ez elég nekünk.”\n\nJézus így válaszolt: „Már olyan régóta veletek vagyok, és nem ismersz engem, Fülöp? Aki engem lát, az látja az Atyát is. Hogyan mondhatod hát: »Mutasd meg nekünk az Atyát?« Nem hiszed talán, hogy én az Atyában vagyok, és az Atya énbennem? A szavakat, amelyeket hozzátok intézek, nem magamtól mondom, és a tetteket is Atyám cselekszi, aki bennem van. Higgyétek el, hogy én az Atyában vagyok, és az Atya énbennem! Ha másért nem, legalább a tetteimért higgyétek!\n\nBizony, bizony, mondom nektek: Aki hisz bennem, ugyanazokat a tetteket fogja végbevinni, amelyeket én cselekszem, sőt még nagyobbakat is tehet azoknál, mert én az Atyához megyek.\n\nBármit kértek majd nevemben az Atyától, megteszem nektek, hogy az Atya megdicsőüljön a Fiúban. Ha pedig tőlem kértek valamit a nevemben, azt is teljesítem.”",
+  "cite": "Jn 14,7-14"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "az Apostolok Cselekedeteiből",
+  "summary": "Pál és Barnabás – első missziós útjukon – elkezdik a pogányok között a térítő munkát.",
+  "text": "Pál apostolnak pizídiai beszéde utáni szombaton szinte az egész város összegyűlt, hogy hallja az Isten igéjét. Amikor azonban a zsidók meglátták a nagy tömeget, féltékenység fogta el őket, és rágalmakat szórva akarták meghazudtolni Pál szavait.\n\nPál és Barnabás azonban bátran kijelentette: „Először nektek kellett hirdetnünk az Isten igéjét. De mivel ti visszautasítjátok, és nem tartjátok magatokat méltónak az örök életre, most a pogányokhoz fordulunk.\n\nEzt a parancsot adta nekünk az Úr: A pogányok világosságává rendeltelek téged, hogy üdvösségük légy egészen a föld végső határáig.”\n\nA pogányok ennek hallatára örvendezve magasztalták az Úr tanítását. Hittek is mindazok, akik az örök életre voltak rendelve. Az Úr igéje így az egész környéken elterjedt. A zsidók azonban felbujtották az előkelő vallásos asszonyokat meg a város elöljáróit, és üldözést szítottak Pál és Barnabás ellen. Ezért kiutasították őket a városból. Ők pedig – (vádképpen) – lerázták ellenük lábuk porát, és Ikóniumba mentek. A tanítványok pedig elteltek örömmel és Szentlélekkel.",
+  "cite": "ApCsel 13,44-52"
+ }
+}

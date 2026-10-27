@@ -1,0 +1,32 @@
+{
+ "key": "evkozi-18-3-II",
+ "source_date": "2026-08-05",
+ "rank": "",
+ "day": "18. évközi hét szerda",
+ "psalm": {
+  "cite": "Jer 31,10.11-12ab.13",
+  "response": "Az Úr úgy őriz minket, miként nyáját a pásztor.",
+  "verses": [
+   "Halljátok az Úr szavát, nemzetek,\na távoli szigeteken is hirdessétek:\n„Aki szétszórta Izraelt, össze is gyűjti,\nés őrzi, miként nyáját a pásztor.”",
+   "Mert az Úr Jákobot megváltotta,\nés kiszabadította a zsarnok kezéből.\nEljönnek és örömükben ujjonganak Sion hegyén,\naz Úr javaiért hálát adni jönnek.",
+   "A leányok akkor örömükben körtáncot lejtenek,\naz ifjak és öregek velük vigadnak.\nGyászukat örömre fordítom,\nfájdalmukban megvigasztalom és felvidítom őket."
+  ]
+ },
+ "alleluia": {
+  "text": "Nagy próféta támadt köztünk: Isten meglátogatta az ő népét.",
+  "cite": "Lk 7,16"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Jézus meggyógyítja egy kánaáni pogány asszony leányát.",
+  "text": "Abban az időben Jézus továbbhaladt. Tirusz és Szidon vidékére vonult vissza. És íme, jött egy arra lakó kánaáni asszony, és kiáltozva kérte: „Könyörülj rajtam, Uram, Dávid fia! A lányomat kegyetlenül gyötri a gonosz szellem!” Ő azonban szóra sem méltatta. Végül odamentek hozzá tanítványai, és arra kérték: „Küldd el őt, ne kiáltozzon utánunk!”\n\nJézus kijelentette: „Az én küldetésem csak Izrael házának elveszett juhaihoz szól.” Ám az asszony odajött, és leborult előtte e szavakkal: „Uram, segíts rajtam!” Ő így válaszolt: „Nem való elvenni a gyerekek kenyerét és odadobni a kutyáknak!” Mire az asszony: „Igen, Uram, de a kutyák is esznek abból, ami lehull gazdájuk asztaláról!” Erre Jézus így szólt hozzá: „Asszony! Nagy a te hited! Legyen úgy, amint szeretnéd!” És a lánya meggyógyult még abban az órában.",
+  "cite": "Mt 15,21-28"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Jeremiás próféta könyvéből",
+  "summary": "Isten örök szeretettel szereti népét, és annak maradékát megszabadítja.",
+  "text": "Prófétája által a messiási idők jó hírével vigasztal az Úr: „Abban az időben majd népem összes törzseinek Istene leszek, ők pedig népemmé lesznek” – ezt ígéri most az Úr. Így szól az Úr: „A pusztában vándorló nép, amely a kardtól megmenekült, kegyelmet talált;\n\nIzrael nyugalma felé tart.”\n\nA távolból megjelent neki az Úr, és így szólt: „Örök szeretettel szerettelek téged, magamhoz vontalak, és megkönyörülök rajtad.\n\nEzért ismét felépítelek, népem, és te felépülsz majd, Izrael szűzi leánya; virulsz majd és ékeskedel, ha dobjaiddal és ünnepi karaiddal kivonulsz.\n\nÚjra szőlőt ültetsz Szamaria hegyein, és akik elültetik a szőlőt, azok fogják szüretelni is.\n\nMert eljön majd a nap, amikor így kiáltanak Efraim hegyén az őrök: »Jöjjetek, menjünk föl Sionba az Úrhoz, a mi Istenünkhöz!«”\n\nIgen, így szól az Úr: „Vigadjatok, örvendjetek Jákob miatt!\n\nCsendüljön énekszó, ujjongjatok e dicső nemzeten!\n\nHarsogva hirdessétek, hogy mit tett az Úr: megszabadította népét, Izrael maradékát!”",
+  "cite": "Jer 31,1-7"
+ }
+}

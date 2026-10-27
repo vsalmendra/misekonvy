@@ -1,0 +1,32 @@
+{
+ "key": "evkozi-26-3-II",
+ "source_date": "2026-09-30",
+ "rank": "",
+ "day": "26. évközi hét szerda",
+ "psalm": {
+  "cite": "Zsolt 87,10bc-15",
+  "response": "Uram, Istenem, könyörgésem jusson színed elé!",
+  "verses": [
+   "Uram, egész nap hozzád kiáltok,\nés kezemet feléd tárom.\nCsodákat talán a holtaknak teszel,\nvagy az árnyak fölkelnek, hogy áldjanak téged?",
+   "Vajon irgalmadat hirdeti valaki a sírban,\nvagy hűségedet a pusztulás helyén?\nVajon csodáidat meglátja valaki a sötétben,\nvagy igazságodat a feledés földjén?",
+   "De én hozzád kiáltok, Uram,\nmár kora reggel eléd siet imádságom.\nMiért taszítasz el magadtól, Uram,\narcodat miért rejted el tőlem?"
+  ]
+ },
+ "alleluia": {
+  "text": "Mindent elvetettem, sőt szemétnek tekintek, csakhogy Krisztust elnyerjem, és őhozzá tartozzam.",
+  "cite": "Fil 3,8-9"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Jézus követése áldozatos lemondást kíván.",
+  "text": "Amikor már közel voltak Jézus szenvedésének és megdicsőülésének napjai, elhatározta, hogy tanítványaival Jeruzsálembe megy. Történt pedig, hogy útközben valaki így szólt hozzá: „Követlek, bárhová mégy.” Jézus így válaszolt: „A rókának van odúja, az ég madarainak fészke, de az Emberfiának nincs hová fejét lehajtania.”\n\nEgy másikat Jézus szólított fel: „Kövess engem!” Az így válaszolt: „Uram, engedd meg, hogy előbb elmenjek és eltemessem apámat.” „Hagyd a holtakra, hadd temessék el halottaikat – mondta neki –, te pedig menj, és hirdesd az Isten országát.”\n\nEgy harmadik ezt mondta neki: „Uram, követlek téged, de engedd meg, hogy előbb elbúcsúzzam a családomtól.” Jézus így válaszolt: „Aki kezét az eke szarvára tette, és mégis hátratekint, nem alkalmas az Isten országára.”",
+  "cite": "Lk 9,57-62"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Jób könyvéből",
+  "summary": "Istennel nem szállhatunk perbe; vele szemben senkinek sem lehet igaza.",
+  "text": "A súlyos megpróbáltatás után Jób így beszélt: Jól tudom, hogy Istennel szemben embernek nem lehet igaza, s ha vele perbe szállni kíván is, hiába küzd: ezer kérdés közül egyre sem tud neki megfelelni.\n\nIstennek bölcs a szíve és hatalmas az ereje, bántatlanul vajon ki szegülhetne ellene?\n\nElmozdítja ő a hegyeket, s az ember észre sem veszi.\n\nHa úgy akarja, felforgatja és kimozdítja helyéből a földet, úgyhogy megrendülnek oszlopai.\n\nHa úgy akarja, nem kel fel a Nap, és fellegpecsétje alá helyezi a csillagokat.\n\nŐ maga feszítette ki az égbolt sátorlapjait, és ő fékezte meg a tenger vad hullámait.\n\nŐ teremtette a Göncölszekeret és a Kaszás-csillagot, a Fiastyúkot és a Dél Csillagát.\n\nNagy dolgokat tesz, kifürkészhetetlen dolgokat, és alkot megszámlálhatatlan csodás alkotásokat.\n\nHa eljön hozzám, nem láthatom, ha elmegy tőlem, nem veszem észre.\n\nHa hirtelen számon kér, ki tud neki megfelelni?\n\nVagy ki mondhatja neki: „Ezt miért teszed?”\n\nMi vagyok tehát én, hogy megfelelhetnék neki; vagy szavakat találnék-e vele szemben, hogyha szól?\n\nHa igazam volna is, akkor sem tudnék megfelelni neki, hanem inkább mint bírámat, kérlelnem kellene.\n\nHa szóba állna is velem, aki hozzá kiáltok, hihetném-e, hogy meghallgatja szavamat?",
+  "cite": "Jób 9,1-12.14-16"
+ }
+}

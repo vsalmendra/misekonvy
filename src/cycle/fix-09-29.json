@@ -1,0 +1,39 @@
+{
+ "key": "fix-09-29",
+ "source_date": "2026-09-29",
+ "rank": "Ü",
+ "day": "Szent Mihály, Szent Gábor és Szent Rafael főangyalok – Ü",
+ "psalm": {
+  "cite": "Zsolt 137,1-2a.2bc-3.4-5",
+  "response": "Angyalaid előtt zsoltárt éneklek, magasztallak téged, Istenem.",
+  "verses": [
+   "Ünnepellek, Uram, szívem mélyéből,\nmert meghallgattad ajkam igéit.\nAngyalaid előtt zsoltárt éneklek,\nszent templomodban arcra borulok.",
+   "Szent neved mindig megvallom,\nirgalmadért és igaz voltodért.\nAmely napon hozzád kiáltok, hallgass meg engem,\ngyarapítsd az erőt lelkemben.",
+   "Dicsőítsen téged a föld minden királya,\namikor meghallja ajkad szózatát.\nAz Úr útjairól énekeljenek,\nmert nagy az Úr dicsősége."
+  ]
+ },
+ "alleluia": {
+  "text": "Áldjátok az Urat, mind, ti, mennyei seregek: szolgái, akik akaratát teljesítitek!",
+  "cite": "Zsolt 102,21"
+ },
+ "gospel": {
+  "book": "Szent János",
+  "summary": "Látni fogjátok, amint az Emberfia felett fel-alá szállnak Isten angyalai.",
+  "text": "Egy alkalommal: Amikor Jézus látta, hogy Nátánáel közeledik hozzá, így szólt: „Nézzétek, ez egy igaz izraelita! Nincs benne kétszínűség!”\n\nNátánáel megkérdezte: „Honnan ismersz engem?” Jézus így felelt: „Még mielőtt Fülöp hívott volna, láttalak a fügefa alatt.” Nátánáel erre elismerte: „Rabbi, te vagy az Isten Fia, te vagy Izrael Királya.”\n\nJézus így szólt: „Azért hiszel, mert azt mondtam: Láttalak a fügefa alatt. Nagyobb dolgokat is fogsz látni ennél.” Majd így folytatta: „Bizony, bizony, mondom nektek: látni fogjátok, hogy megnyílik az ég, és Isten angyalai fel-alá szállnak az Emberfia felett.”",
+  "cite": "Jn 1,47-51"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Dániel próféta könyvéből",
+  "summary": "Az angyalok ezrei szolgáltak Istennek, és hódoltak előtte.",
+  "text": "Én, Dániel az éjjeli látomásban láttam, hogy egyszer csak trónokat állítottak fel, és az Ősöreg leült. Ruhája fehér volt, mint a hó, fején a haj tiszta, mint a gyapjú. Trónja lobogó lángból volt, trónja kerekei meg izzó parázsból. Tűzfolyó eredt belőle és folyt tovább. Ezerszer ezren szolgáltak neki, és tízezerszer tízezren álltak előtte, ítéletet tartottak és felnyitották a könyveket.\n\nLáttam az éjjeli látomásban, hogy íme, az ég felhőin valaki közeledik. Olyan volt, mint az Emberfia. Amikor az Ősöreghez ért, színe elé vezették. Hatalmat, méltóságot és királyságot adott neki. Minden népnek, nemzetnek és nyelvnek neki kellett szolgálnia. Hatalma örök hatalom volt, amely nem enyészik el soha, és királysága nem megy veszendőbe.",
+  "cite": "Dán 7,9-10.13-14"
+ },
+ "reading2": {
+  "label": "Szentlecke",
+  "sub": "a Jelenések könyvéből",
+  "summary": "Mihály és angyalai harcoltak a sátánnal.",
+  "text": "Én, János, láttam, hogy nagy harc támadt a mennyben: Mihály és angyalai harcoltak a sárkány ellen. A sárkány és angyalai védekeztek, de nem tudtak ellenállni, s nem maradt számukra hely a mennyben. Levetették a nagy sárkányt, az őskígyót, aki maga az ördög, a sátán, aki elcsábítja az egész világot. A Földre vetették, s vele együtt letaszították angyalait is.\n\nEkkor harsány hangot hallottam az égben: „Eljött Istenünk üdvössége, ereje és országa, és Fölkentjének királysága, mert letaszították testvéreink vádlóját, aki éjjel-nappal vádolta őket Istenünk trónja előtt. De legyőzték a Bárány vérével és tanúságuk igéjével. Még életüket sem kímélték mindhalálig!\n\nEzért örvendezzetek, ti, mennyek, és ti, akik benne laktok!”",
+  "cite": "Jel 12,7-12a"
+ }
+}

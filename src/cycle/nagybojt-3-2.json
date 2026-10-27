@@ -1,0 +1,33 @@
+{
+ "key": "nagybojt-3-2",
+ "source_date": "2026-03-10",
+ "rank": "",
+ "day": "3. nagyböjti hét kedd",
+ "psalm": {
+  "cite": "Zsolt 24,4bc-5ab.6-7bc.8-9",
+  "response": "Emlékezzél meg, Uram, irgalmasságodról.",
+  "verses": [
+   "Utaidat, Uram, mutasd meg nekem,\nösvényeidre taníts meg engem.\nTaníts és vezess igazságod szerint,\nmert te vagy üdvözítő Istenem.",
+   "Irgalmasságodról emlékezzél meg, Uram,\nés könyörületességedről, mely öröktől való.\nNe emlékezzél ifjúságom bűnére és vétkére,\njóságodban, Uram, gondolj rám irgalommal.",
+   "Az Úr igazságos és jóságos,\nezért a bűnösöknek is utat mutat.\nA szelídeket törvénnyel vezeti,\naz alázatosaknak ösvényét tanítja."
+  ]
+ },
+ "alleluia": {
+  "text": "Teljes szívvel térjetek vissza most hozzám, mondja a mi Urunk, Istenünk, mert én jóságos és irgalmas vagyok tihozzátok!",
+  "cite": "Joel 2,12-13",
+  "lent": true
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Jézus tanítása szerint meg kell bocsátanunk az ellenünk vétőknek.",
+  "text": "Abban az időben Péter odament Jézushoz, és megkérdezte: „Uram, ha testvérem vétkezik ellenem, hányszor kell megbocsátanom neki? Talán hétszer?” Jézus így felelt: „Nem mondom, hogy hétszer, hanem hetvenszer hétszer!\n\nA mennyek országa olyan, mint amikor egy király el akart számolni szolgáival. Amikor elkezdte, odahozták egyik adósát, aki tízezer talentummal tartozott. Mivel nem volt miből megfizetnie, az úr megparancsolta, hogy adják el őt, a feleségét, a gyermekeit, és mindenét, amije csak van, és így törlessze adósságát. De a szolga leborult előtte és úgy kérlelte: »Légy türelmes irántam, mindent megfizetek!« Az úr szíve megesett a szolgán: szabadon bocsátotta őt, sőt még az adósságát is elengedte.\n\nA szolga kiment, és találkozott egyik szolgatársával, aki neki száz dénárral tartozott. Elkapta és fojtogatni kezdte: »Add meg, amivel tartozol!« Szolgatársa térdre hullott előtte és kérlelte: »Légy türelmes irántam, mindent megfizetek!« De ő nem engedett, hanem ment és börtönbe vetette, míg meg nem fizeti tartozását.\n\nSzolgatársai látták a történteket. Elmentek és elbeszélték uruknak. Az úr akkor magához hívatta őt, és így szólt hozzá: »Te gonosz szolga! Amikor kérleltél, én minden tartozásodat elengedtem neked. Nem kellett volna neked is megkönyörülnöd szolgatársadon, mint ahogy én megkönyörültem rajtad?« És az úr nagy haraggal átadta őt az őröknek, míg meg nem fizet mindent, amivel tartozik.\n\nAz én mennyei Atyám is így tesz veletek, ha tiszta szívből meg nem bocsát mindegyiktek a testvérének.”",
+  "cite": "Mt 18,21-35"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Dániel próféta könyvéből",
+  "summary": "Isten sohasem hagyja el a benne hívőket.\n\nA három ifjút a tüzes kemencében is megvédte.",
+  "text": "Dániel egyik társa, Azariás, a tüzes kemencében így imádkozott:\n\nNevedre kérünk, ne vess el végleg minket,\n\nés ne semmisítsd meg szövetségedet!\n\nNe vond meg tőlünk irgalmadat,\n\nkedveltedért, Ábrahámért,\n\nszolgádért, Izsákért, és szentedért, Jákobért,\n\nakikhez szóltál, és sok ivadékot ígértél nekik,\n\nannyit, mint égen a csillag, vagy mint föveny a tengerparton.\n\nÉs most minden népnél kisebbek vagyunk,\n\nmegaláztatásban van részünk az egész földön, bűneink miatt!\n\nMa fejedelmünk sincs nekünk,\n\nvezérünk, prófétánk, áldozatunk sincs már,\n\nnincs étel-, ital- és hálaáldozat,\n\nnincs hely a zsengeáldozatok számára előtted,\n\nahol irgalmadat megnyerhetnénk.\n\nDe fogadd el megtört szívünket és megalázott lelkünket;\n\nmintha kosok és bikák égőáldozata\n\nvagy ezernyi hízott bárány áldozata lenne,\n\nma olyan legyen áldozatunk színed előtt!\n\nFogadd kedvesen, hiszen akik benned bíznak,\n\nmeg nem szégyenülnek!\n\nÉs most teljes szívünkből követünk téged,\n\nfélve tisztelünk, és keressük arcodat.\n\nNe engedd, hogy megszégyenüljünk,\n\nhanem bánj velünk könyörülettel,\n\nnagy irgalmasságod szerint!\n\nSiess segítségünkre, mint hajdan csodatetteiddel,\n\nés szerezz dicsőséget, Uram, a te nevednek!\n\nEz a Isten igéje.",
+  "cite": "Dán 3,25.34-43"
+ }
+}

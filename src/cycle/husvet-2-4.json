@@ -1,0 +1,33 @@
+{
+ "key": "husvet-2-4",
+ "source_date": "2026-04-16",
+ "rank": "",
+ "day": "Húsvét 2. hét csütörtök",
+ "psalm": {
+  "cite": "Zsolt 33,2 és 9.17-18.19-20",
+  "response": "A szegény az Úrhoz kiáltott, és az Úr meghallgatta őt.",
+  "verses": [
+   "Vagy: Alleluja. 4. szám.\nMinden időben áldom az Urat,\ndicséretét szüntelenül zengi ajkam.\nÍzleljétek és lássátok, milyen édes az Úr,\nboldog az az ember, aki őbenne bízik.",
+   "Vagy: Alleluja.\nAz Úr arcát a gonoszok ellen fordítja,\nemléküket is eltörli a földről.\nKiáltottak az igazak, és az Úr meghallgatta őket,\nés minden szorongatásból megszabadultak.",
+   "Vagy: Alleluja.\nKözel van az Úr azokhoz, akik töredelmes szívűek,\nés szabadulást hoz a megtört lelkeknek.\nAz igazak sokat szenvednek,\nde az Úr mindig megmenti Őket.",
+   "Vagy: Alleluja."
+  ]
+ },
+ "alleluia": {
+  "text": "Jézus mondja: „Most már hiszel, Tamás, mert láttál engem. Boldogok, akik nem láttak, és mégis hittek.”",
+  "cite": "Jn 20,29"
+ },
+ "gospel": {
+  "book": "Szent János",
+  "summary": "Az Atya szereti a Fiút, és mindent az ő kezébe helyezett.",
+  "text": "Abban az időben így tanított Jézus: „Aki a mennyből jön le, az mindenki fölött áll. Aki viszont a földről való, az földies, és a földi dolgokról beszél.\n\nAki a mennyből való, az felülmúl mindenkit. Arról tesz tanúságot, amit látott és hallott, tanúságtételét azonban senki sem fogadja el. Ám, aki mégis elfogadja tanúságát, az megerősíti, hogy az Isten igazmondó.\n\nAkit Isten küldött, Isten igéit hirdeti, mert Isten nem adja szűkösen a Szentlelket. Az Atya szereti a Fiút, és mindent az ő kezébe helyezett. Aki hisz a Fiúban, annak örök élete van; aki pedig nem hisz a Fiúnak, az nem nyeri el az örök életet, hanem Isten büntetése sújtja.”",
+  "cite": "Jn 3,31-36"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "az Apostolok Cselekedeteiből",
+  "summary": "Isten nagy tetteiről az apostolok a Szentlélek erejével tanúskodtak.",
+  "text": "Az apostolok a főtanács tilalma ellenére bátran hirdették a Krisztusról szóló tanítást. Ezért a főtanács elé állították őket.\n\nA főpap kérdőre vonta az apostolokat: „Szigorúan megparancsoltuk nektek, hogy ne tanítsatok az ő nevében, és lám, egész Jeruzsálem tele van tanításotokkal. Ránk akarjátok hárítani annak az embernek a vérét.”\n\nPéter és az apostolok így válaszoltak: „Inkább kell engedelmeskedni Istennek, mint az embereknek. Atyáink Istene Jézust, akit ti keresztfára feszítve megöltetek, feltámasztotta. Isten jobbja fejedelemmé és Üdvözítővé emelte, hogy megtérítse Izraelt, és megbocsássa bűneit. Ezeknek a dolgoknak tanúi vagyunk mi és a Szentlélek, akit az Isten megadott azoknak, akik engedelmeskednek neki.”\n\nAmikor a főtanács tagjai ezt hallották, nagy haragra gyulladtak, és meg akarták ölni őket.",
+  "cite": "ApCsel 5,27-33"
+ }
+}

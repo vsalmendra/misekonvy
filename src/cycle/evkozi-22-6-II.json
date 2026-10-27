@@ -1,0 +1,32 @@
+{
+ "key": "evkozi-22-6-II",
+ "source_date": "2026-09-05",
+ "rank": "",
+ "day": "22. évközi hét szombat",
+ "psalm": {
+  "cite": "Zsolt 144,17-21",
+  "response": "Közel az Úr azokhoz, akik oltalmát kérik.",
+  "verses": [
+   "Igazságos az Úr minden útján,\nés szent minden művében.\nKözel az Úr mindazokhoz, akik őt hívják,\nakik hozzá kiáltanak igaz szívvel.",
+   "Az istenfélők vágyait teljesíti, † kérésüket meghallgatja,\nés megmenti őket.\nMegóv az Úr mindenkit, aki őt szereti,\nde elpusztít minden gonosztevőt.",
+   "Az Úr dicséretét hirdesse ajkam,\nszent nevét mindörökké áldja minden élő."
+  ]
+ },
+ "alleluia": {
+  "text": "Jézus mondja: „Én vagyok az út, az igazság és az élet. Senki sem jut Atyámhoz, csak általam.”",
+  "cite": "Jn 14,6"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Jézus ura az ószövetségi törvénynek is.",
+  "text": "Amikor Jézus Galileában tanított, az egyik szombaton vetések között járt. Tanítványai tépdesni kezdték a kalászokat, és kezükkel morzsolgatva eszegették. Néhány farizeus rájuk szólt: „Miért tesztek olyant, ami szombaton tilos?”\n\nJézus válaszolt nekik: „Nem olvastátok, mit tett Dávid, amikor társaival együtt éhezett? Bement az Isten házába, fogta a szent kenyereket, evett, és adott belőlük a többieknek is; pedig azokat csak a papoknak lett volna szabad megenniük.” Majd hozzátette: „Az Emberfia ura a szombatnak is.”",
+  "cite": "Lk 6,1-5"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a korintusiakhoz írt első leveléből",
+  "summary": "Az apostol mindent vállal híveiért – mint az atya a gyermekeiért.",
+  "text": "Testvéreim!\n\nTőlem és Apollótól tanuljátok meg, amint írva van: „Senki se fuvalkodjék fel, és ne kérkedjék egyik tanítóval a másikkal szemben.” Mert mi tesz téged a másiknál különbbé? Mid van, amit nem kaptál, ha pedig kaptad, miért dicsekszel, mintha nem kaptad volna. Már jóllaktatok, már gazdagok lettetek. Nélkülünk is uralomra jutottatok! Bárcsak valóban uralomra jutottatok volna, hogy veletek mi is uralkodhatnánk.\n\nÚgy látom ugyanis, hogy Isten, nekünk apostoloknak az utolsó helyet jelölte ki, mint a halálraszántaknak. Látványossága lettünk a világnak: angyaloknak is, embereknek is.\n\nMi oktalanok vagyunk Krisztusért,\n\nti okosak Krisztusban.\n\nMi gyöngék vagyunk,\n\nti pedig erősek.\n\nTiteket megbecsülnek, minket pedig megvetnek.\n\nMindmáig éhezünk és szomjazunk,\n\nnincs ruhánk és verést szenvedünk.\n\nNincs otthonunk, és kezünk munkájával fáradunk.\n\nÁtkoznak minket, mi pedig áldást mondunk,\n\nüldöznek minket, mi pedig elviseljük.\n\nGyaláznak minket, mi pedig imádkozunk.\n\nSzinte salakja lettünk ennek a világnak,\n\nmindenkinek söpredéke mostanáig.\n\nNem azért írom ezt, hogy megszégyenítselek titeket, hanem mint kedves gyermekeimet intelek benneteket. Ha tízezer tanítótok volna is Krisztusban, atyátok nincs sok. Jézus Krisztusban én adtam életet nektek az evangélium által.",
+  "cite": "1Kor 4,6b-15"
+ }
+}

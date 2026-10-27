@@ -1,0 +1,32 @@
+{
+ "key": "evkozi-28-3-II",
+ "source_date": "2026-10-14",
+ "rank": "",
+ "day": "28. évközi hét szerda",
+ "psalm": {
+  "cite": "Zsolt 1,1-4.6",
+  "response": "Aki téged követ, Uram, azé lesz az élet világossága.",
+  "verses": [
+   "Boldog ember, aki nem követi a gonoszok tanácsát, † nem lép a bűnösök útjára,\na gúnyolódok körében nem foglal helyet,\nhanem az Úr törvényében leli örömét,\naz ő parancsairól elmélkedik éjjel és nappal.",
+   "Olyan, mint a fa, melyet folyóvíz mellé ültettek,\nmely idejében gyümölcsöt érlel.\nNem fonnyad el a lombja,\nsiker koronázza minden tettét.",
+   "Nem így járnak a gonoszok, nem így,\nhanem mint a polyva, melyet szétszór a szél.\nMert az Úr őrzi az igazak útját,\na gonoszok útja pusztulás."
+  ]
+ },
+ "alleluia": {
+  "text": "Jézus mondja: „Juhaim hallgatnak szavamra; ismerem őket, és ők a nyomomban járnak.”",
+  "cite": "Jn 10,27"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Jézus elítéli a hamis, farizeusi lelkületet.",
+  "text": "Egy farizeus lakomáján így beszélt Jézus az asztalnál ülőkhöz:\n\n„Jaj, nektek, farizeusok! Tizedet adtok mentából, rutából és minden apró veteményből, de elhanyagoljátok az igazságosságot és az Isten szeretetét. Ezt meg kell tenni, azt meg nem szabad elhagyni!\n\nJaj, nektek, farizeusok! Szeretitek a fő helyeket a zsinagógában, és a köszöntéseket a nyilvános tereken.\n\nJaj, nektek! Olyanok vagytok, mint azok a sírok, amelyeket kívülről nem lehet észrevenni. Az emberek fölöttük járnak – anélkül, hogy tudnák.”\n\nErre egy törvénytudó méltatlankodni kezdett: „Mester, ha ilyeneket mondasz, minket is gyalázol.” Ő azonban így folytatta: „Jaj, nektek is, törvénytudók! Elviselhetetlen terheket raktok az emberekre, ti magatok azonban még egy ujjal sem segítetek azokat a terheket hordozni.”",
+  "cite": "Lk 11,42-46"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a galatákhoz írt leveléből",
+  "summary": "Akik Krisztushoz tartoznak, a Szentlélek indításai szerint élnek: megtagadják érte magukat.",
+  "text": "Testvéreim!\n\nVezessen benneteket a (Szent)lélek, akkor nem vagytok alávetve a (mózesi) törvénynek.\n\nA test cselekedetei nyilvánvalóak: kicsapongás, tisztátalanság, fajtalanság, bálványimádás, babonaság, ellenségeskedés, viszálykodás, vetélkedés, harag, veszekedés, szakadás, pártoskodás, irigykedés, gyilkosság, részegeskedés, tobzódás és ezekhez hasonlók. Mint már előbb mondtam, most ismét kijelentem: Akik ilyeneket művelnek, nem öröklik Isten országát.\n\nA Lélek gyümölcsei viszont: szeretet, öröm, békesség, türelem, kedvesség, jóság, hűség, szelídség, önmegtartóztatás. Ezek ellen nincs törvény. Akik Krisztus Jézushoz tartoznak, keresztre feszítették testüket szenvedélyeikkel és kívánságaikkal együtt. Ha a Lélek szerint élünk, viselkedjünk is a Léleknek megfelelően.",
+  "cite": "Gal 5,18-25"
+ }
+}

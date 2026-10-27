@@ -1,0 +1,32 @@
+{
+ "key": "fix-01-08",
+ "source_date": "2026-01-08",
+ "rank": "",
+ "day": "Január 8.",
+ "psalm": {
+  "cite": "Zsolt 71,2.3-4ab.7-8",
+  "response": "Hódoljon előtted, Istenünk, a föld minden nemzete!",
+  "verses": [
+   "Istenem, ítéletedet add át a királynak:\nés igazságodat a király fiának,\nhogy igazságosan ítélkezzék népeden,\nés méltányosan minden szegényen.",
+   "A hegyek hozzanak békességet a népnek,\nés a halmok igazságot.\nIgazságot szolgáltat a gyengének,\nés szabadulást hoz a szegény népnek.",
+   "Napjaiban virágzik az igazság és a teljes béke,\nmíg csak a hold meg nem szűnik.\nUralkodik tengertől tengerig,\na Folyótól a földkerekség határáig."
+  ]
+ },
+ "alleluia": {
+  "text": "Az Úr elküldött, hogy a szegényeknek örömhírt vigyek, és a bűn rabjainak szabad életet hirdessek.",
+  "cite": "Lk 4,18"
+ },
+ "gospel": {
+  "book": "Szent Márk",
+  "summary": "Jézus a kenyérszaporítással megmutatja, hogy ő valóban próféta.",
+  "text": "Egy alkalommal Jézus nagy tömeget látott maga előtt. Megesett a szíve az embereken, mert olyanok voltak, mint a pásztor nélküli juhok. Ezért sok mindenre kezdte őket tanítani.\n\nKésőre járt már az idő, amikor odaléptek hozzá tanítványai, és figyelmeztették: „A vidék elhagyatott, az idő is eljárt. Bocsásd el őket, hogy a környékbeli tanyákra és falvakba mehessenek, és ennivalót vegyenek maguknak!”\n\nJézus azonban így válaszolt: „Ti adjatok nekik enni!” Azok megjegyezték: „Talán menjünk kenyeret venni kétszáz dénárért, hogy elláthassuk őket?”\n\nErre Jézus megkérdezte: „Hány kenyeretek van? Menjetek, nézzetek csak körül!” Körülnéztek és jelentették: „Öt kenyerünk és két halunk.”\n\nEkkor meghagyta nekik, hogy csoportokban telepítsék le mindnyájukat a zöld gyepre. Le is telepedtek százas és ötvenes csoportokban.\n\nJézus ezután fogta az öt kenyeret és a két halat, föltekintett az égre, és hálát adott. Majd megtörte a kenyereket, és tanítványainak adta, hogy osszák ki. A két halat is szétosztotta valamennyiük között. Mindnyájan ettek, és jól is laktak, sőt még tizenkét kosarat szedtek tele a kenyér és a hal maradékából; pedig ötezer férfi evett a kenyérből.",
+  "cite": "Mk 6,34-44"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent János apostol első leveléből",
+  "summary": "Isten maga a szeretet.",
+  "text": "Szeretteim!\n\nSzeressük egymást, mert a szeretet Istentől van! Mindenki, aki szeret, Istentől született, és ismeri Istent. Aki nem szeret, az nem ismeri Istent, mert Isten maga a szeretet.\n\nIsten szeretete abban nyilvánult meg, hogy elküldte egyszülött Fiát a világba, hogy őáltala éljünk. Szeretete abból is látható, hogy nem mi szerettük Istent, hanem hogy ő szeretett minket, mégpedig annyira, hogy elküldte Fiát engesztelő áldozatul bűneinkért.",
+  "cite": "1Jn 4,7-10"
+ }
+}

@@ -1,0 +1,39 @@
+{
+ "key": "fix-01-01",
+ "source_date": "2026-01-01",
+ "rank": "",
+ "day": "Szűz Mária, Isten anyja (parancsolt főünnep)",
+ "psalm": {
+  "cite": "Zsolt 66,2-3.5.6 és 8",
+  "response": "Könyörüljön rajtunk az Isten, és áldjon meg minket.",
+  "verses": [
+   "Könyörüljön rajtunk az Isten, és áldjon meg minket,\nragyogtassa fel arcát fölöttünk,\nhogy megismerjék a földön utadat,\nés üdvösségedet az összes nemzetek.",
+   "Örvendjenek és ujjongjanak a nemzetek, † mert igazságosan ítéled a\nnépeket,\nés te vezérled őket a földön.",
+   "Magasztaljanak téged a népek, Istenünk,\ndicsőítsenek az összes\nnemzetek.\nÁldjon meg minket az Isten,\nfélve tisztelje őt a föld minden határa."
+  ]
+ },
+ "alleluia": {
+  "text": "Sok ízben szólt prófétái által az ősatyákhoz egykor az Isten: végül a beteljesedés napjaiban Fia által szólt hozzánk.",
+  "cite": "Zsid 1,1"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Megtalálták Máriát, Józsefet és a Kisdedet.\nEltelt nyolc nap, és a Jézus nevet adták neki.",
+  "text": "A pásztorok sietve elindultak, és megtalálták Máriát, Józsefet és a\n\njászolban fekvő Kisdedet. Miután látták, elbeszélték mindazt, amit már\n\nkorábban megtudtak a Gyermekről. Aki csak hallotta, csodálkozott a\n\npásztorok elbeszélésén. Mária pedig szívébe véste szavaikat, és gyakran\n\nelgondolkodott rajtuk. A pásztorok ezután hazatértek. Dicsérték és\n\nmagasztalták Istent mindazért, amit láttak és hallottak, pontosan úgy,\n\namint (az angyalok) előre megmondták nekik.\n\nAzután eltelt nyolc nap, és körülmetélték a Gyermeket. A Jézus nevet\n\nadták neki, mert így nevezte őt az angyal, mielőtt még anyja méhében\n\nmegfogant volna.",
+  "cite": "Lk 2,16-21"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Mózes negyedik könyvéből",
+  "summary": "Hívják le Izrael, fiaira a nevemet, és én megáldom őket.",
+  "text": "Így szólt az Úr Mózeshez:\n\n„Mondd meg Áron főpapnak és fiainak, a papoknak: Így áldjátok meg\n\nIzrael fiait, ezekkel a szavakkal:\n\nÁldjon meg az Úr és oltalmazzon! Ragyogtassa rád arcát az Úr, s\n\nlegyen hozzád jóságos! Fordítsa feléd arcát az Úr, és szerezzen neked\n\nüdvösséget!\n\nHívják le Izrael fiaira a nevemet, és én megáldom őket.”",
+  "cite": "Szám 6,22-27"
+ },
+ "reading2": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a galatákhoz írt leveléből",
+  "summary": "Isten elküldte Fiát, aki asszonytól született.",
+  "text": "Testvéreim!\n\nAmikor elérkezett az idők teljessége, Isten elküldte\n\nFiát, aki asszonytól született, alávetette magát a mózesi törvénynek,\n\nhogy felszabadítson minket a törvény szolgaságából, és a fogadott\n\nfiúságot elnyerjük.\n\nMivel pedig Isten fiai vagyunk, Isten szívünkbe elküldte Fiának\n\nLelkét, aki ezt kiáltja: „Abba! Atyám!”\n\nNem vagy tehát többé szolga, hanem fiú, és ha fiú, akkor Isten\n\nkegyelméből örökös is.",
+  "cite": "Gal 4,4-7"
+ }
+}

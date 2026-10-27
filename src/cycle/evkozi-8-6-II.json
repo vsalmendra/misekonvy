@@ -1,0 +1,32 @@
+{
+ "key": "evkozi-8-6-II",
+ "source_date": "2026-05-30",
+ "rank": "",
+ "day": "8. évközi hét szombat",
+ "psalm": {
+  "cite": "Zsolt 62,2.3-4.5-6",
+  "response": "Hozzád vágyódik szívem, én Uram, Istenem.",
+  "verses": [
+   "Uram, Istenem, virrasztva kereslek,\naz én Istenem te vagy nékem.\nTéged szomjaz a lelkem, testem utánad eped,\nmint a puszta tikkadt, kiaszott földje.",
+   "Szentélyedben neked szolgáltam,\nhogy erődet és dicsőségedet megláthassam.\nMert irgalmad többet ér, mint az élet,\nezért ajkam dicsőít téged.",
+   "Neked mondok áldást, amíg csak élek,\na te nevedben tárom imára kezemet.\nMint dús lakomával, teljék be lelkem,\najkam ujjong, szám dicsőít téged."
+  ]
+ },
+ "alleluia": {
+  "text": "Krisztus igéje éljen bennetek gazdagon, Krisztus által adjatok hálát Istennek, az Atyának!",
+  "cite": "Vö. Kol 3,16a.17c"
+ },
+ "gospel": {
+  "book": "Szent Márk",
+  "summary": "Amit Jézus cselekszik, isteni hatalommal teszi.",
+  "text": "Abban az időben Jézus ismét Jeruzsálembe ment tanítványaival.\n\nAmikor a templomban járt, odaléptek hozzá a főpapok, az írástudók meg a nép elöljárói, és megkérdezték tőle: „Miféle hatalommal teszed ezeket? Ki adta neked a hatalmat, hogy ilyeneket tegyél?” Jézus így válaszolt: „Én is kérdezek tőletek valamit. Feleljetek rá, és akkor majd én is megmondom nektek, hogy milyen hatalommal cselekszem. János keresztsége a mennyből volt-e vagy az emberektől? Válaszoljatok nekem!”\n\nErre tanakodni kezdtek egymás között. Így okoskodtak: „Ha azt mondjuk: »A mennyből volt«, azt fogja felelni: »Hát akkor miért nem hittetek neki?« Mondjuk talán azt, hogy »Az emberektől?” Féltek azonban a néptől, mert mindenki azt tartotta, hogy János valóban próféta volt.\n\nVégül is ezt válaszolták: „Nem tudjuk.” Jézus erre azt felelte: „Akkor én sem mondom meg, milyen hatalommal cselekszem ezeket.”",
+  "cite": "Mk 11,27-33"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent Júdás apostol leveléből",
+  "summary": "Istennek hatalma van megőrizni minket a bűntől, hogy az ítélet napján boldog örömmel álljunk szent színe előtt.",
+  "text": "Testvéreim!\n\nGondoljatok a tanításra, amelyet Urunk Jézus Krisztus apostolai előre megmondottak nektek! Épüljetek szent hitetek alapjára! Imádkozzatok a Szentlélekben! Tartsatok ki Isten szeretetében, és várjatok Urunk Jézus Krisztus örök életet adó irgalmára!\n\nKönyörüljetek a tévelygőkön. Másokat mentsetek meg, kiragadva őket a tűzből. A többieket pedig félelemmel és rettegéssel szánjátok, és mint a fertőzött ruhától, tartsátok magatokat távol tőlük!\n\nIstennek azonban van hatalma megőrizni titeket a bűntől és (Krisztus eljövetelekor) szeplőtelenül és boldog örömmel dicsőséges színe elé állítani. Egyedül üdvözítő Istenünknek, Urunk Jézus Krisztus által legyen dicsőség és magasztalás, uralkodás és hatalom, amint az idő kezdete előtt, most és mindörökké! Ámen.",
+  "cite": "Júd 17,20b-25"
+ }
+}

@@ -6,7 +6,7 @@
 // CHROMIUM_PATH may point to an existing Chromium. Dates come from app/data/calendar.json, so the
 // test keeps working as masses are added. "Today" is faked inside the page.
 import { createServer } from 'node:http';
-import { readFile, readdir } from 'node:fs/promises';
+import { readFile } from 'node:fs/promises';
 import { extname, join, normalize } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { chromium } from 'playwright';
@@ -109,18 +109,19 @@ for (const day of [shift(first, -1), gap].filter(Boolean)) {
   await t.ctx.close();
 }
 
-// 4b. A day without a Mass but with readings: the Order of Mass with that day's readings.
+// 4b. Days without a Mass: the Order of Mass with the readings of the liturgical day (days.json ->
+//     cycle/<key>.json) — a day of this year, and one of a later year reusing them.
 {
-  const withReadings = (await readdir(join(APP, 'data/readings'))).map(f => f.slice(0, 10)).sort();
-  const day = withReadings.find(d => d > last);
-  if (day) {
-    const r = JSON.parse(await readFile(join(APP, 'data/readings', day + '.json'), 'utf8'));
+  const days = JSON.parse(await readFile(join(APP, 'data/days.json'), 'utf8'));
+  const candidates = Object.keys(days).filter(d => d > last && days[d][1] && !dates.includes(d));
+  const later = candidates.find(d => d.slice(0, 4) > last.slice(0, 4)) || candidates.at(-1);
+  for (const day of [candidates[0], later].filter(Boolean)) {
     const t = await open(day);
-    await t.page.waitForTimeout(500);
+    await t.page.waitForTimeout(800);
     const text = await t.page.innerText('#r2');
     const meta = await t.page.textContent('#m-meta');
-    check((await t.state()).ordinary && !text.includes('lekcionáriumból') && text.includes('Ez az Isten igéje') && meta === r.day,
-      `${day}: Order of Mass with the day's readings ("${meta}")`);
+    check((await t.state()).ordinary && !text.includes('lekcionáriumból') && text.includes('Ez az Isten igéje') && meta === days[day][0],
+      `${day}: Order of Mass with the readings of "${meta}" (${days[day][1]})`);
     await t.ctx.close();
   }
 }

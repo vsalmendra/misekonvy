@@ -1,0 +1,33 @@
+{
+ "key": "husvet-4-2",
+ "source_date": "2026-04-28",
+ "rank": "",
+ "day": "húsvét 4. hét kedd",
+ "psalm": {
+  "cite": "Zsolt 86,1-3.4-5.6-7",
+  "response": "Menjetek el az egész világra, és hirdessétek az evangéliumot.",
+  "verses": [
+   "Vagy: Alleluja. 2. szám.\nIsten a szent hegyekre alapította városát, † mert az Úr szereti Sion kapuit,\njobban, mint Jákob hajlékait.\nDicső dolgokat mondanak rólad,\nIsten városa.",
+   "Vagy: Alleluja.\nTisztelőim között említem majd Egyiptomot és Babilont,\nitt születtek mindnyájan, a filiszteusok, a tírusziak és a néger népek.\nAzt mondják majd Sionról: † benne született ez is, meg az is,\nés a Fölséges maga tette őt erőssé.",
+   "Vagy: Alleluja.\nAz Úr számba veszi a népeket,\nezek mind itt születtek.\nA körtáncot lejtők mind azt dalolják:\n„Minden forrásom belőled fakad!”",
+   "Vagy: Alleluja."
+  ]
+ },
+ "alleluia": {
+  "text": "Jézus mondja: „Juhaim hallgatnak szavamra, ismerem őket, és ők a nyomomban járnak,”",
+  "cite": "Jn 10,27"
+ },
+ "gospel": {
+  "book": "Szent János",
+  "summary": "Részlet Jézus jeruzsálemi beszédéből: „Én és az Atya egy vagyunk.”",
+  "text": "Abban az időben a templomszentelés ünnepét ülték Jeruzsálemben. Tél volt. Jézus éppen a templomban járt, Salamon oszlopcsarnokában. A zsidók körülvették őt, és megkérdezték: „Meddig tartasz még bizonytalanságban minket? Ha te vagy a Messiás, mondd meg nekünk nyíltan!”\n\nJézus így felelt: „Mondtam már nektek, de nem hiszitek el. Cselekedeteim, amelyeket Atyám nevében művelek, tanúságot tesznek rólam. De ti nem hisztek, mert nem vagytok juhaim közül valók. Az én juhaim hallgatnak szavamra. Ismerem őket, és ők követnek engem. Én örök életet adok nekik. Nem vesznek el soha, és senki sem ragadja el őket kezemből. Atyám, aki nekem adta őket, hatalmasabb mindenkinél: senki sem ragadhatja el őket Atyám kezéből.\n\nÉn és az Atya egy vagyunk.”",
+  "cite": "Jn 10,22-30"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "az Apostolok Cselekedeteiből",
+  "summary": "Jézus tanítványait először Antióchiában nevezték keresztényeknek.",
+  "text": "Azok a hívek, akik az István diakónus miatt kitört üldözés elől szétszéledtek, eljutottak egész Föníciáig, Ciprusig és Antióchiáig, az evangéliumot azonban csak a zsidóknak hirdették.\n\nAkadt azonban köztük néhány ciprusi és cirenei férfi is, akik Antióchiába érve a görögökkel is szóba álltak, és hirdették nekik az Úr Jézusról szóló evangéliumot. Velük volt az Úr segítsége, úgyhogy sokan megtértek, és az Úr hívei lettek.\n\nEnnek a híre eljutott a jeruzsálemi egyházba is. Ezért elküldték Barnabást Antióchiába. Amikor megérkezett, örvendezve látta az Úr kegyelmét, mindenkit buzdított, hogy őszinte szívvel ragaszkodjék az Úrhoz, mivel derék ember volt, telve Szentlélekkel és hittel. Így aztán nagyon sokan csatlakoztak az Úrhoz.\n\nBarnabás erre elutazott Tarzusba, hogy fölkeresse Sault. Amikor megtalálta, magával vitte őt Antióchiába. Egy álló esztendőn keresztül részt vettek az összejöveteleken, és nagyon sok embert tanítottak. A tanítványokat először Antióchiában nevezték el krisztusiaknak, azaz keresztényeknek.",
+  "cite": "ApCsel 11,19-26"
+ }
+}

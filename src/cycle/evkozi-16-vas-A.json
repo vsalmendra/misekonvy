@@ -1,0 +1,39 @@
+{
+ "key": "evkozi-16-vas-A",
+ "source_date": "2026-07-19",
+ "rank": "",
+ "day": "Évközi 16. vasárnap",
+ "psalm": {
+  "cite": "Zsolt 85,5-6.9-10.15-16a",
+  "response": "Urunk, édes Istenünk, mennyire jó vagy hozzánk!",
+  "verses": [
+   "Uram, te szelíd és jóságos vagy,\nnagy irgalmú mindazokhoz, akik hívnak téged.\nHallgasd meg, Uram, imádságom,\nfigyelj könyörgésem szavára.",
+   "Eljön minden nemzet, melyet csak alkottál,\nimádva borulnak le előtted, Uram, és nevedet áldják.\nMert nagy vagy és csodákat művelsz,\negyedül te vagy az Isten.",
+   "Uram, Istenem, te irgalmas és jóságos vagy,\nhosszan tűrő, könyörülő és hűséges.\nTekints rám, és szánj meg engem,\nadj erőt szolgádnak."
+  ]
+ },
+ "alleluia": {
+  "text": "Áldalak téged, Atyám, mennynek és földnek Istene, mert feltártad a kicsinyeknek országod titkait.",
+  "cite": "Vö. Mt 11,25"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "A jók és a rosszak szétválasztása az ítélet napján következik be.",
+  "text": "Abban az időben: Jézus egy másik példabeszédet is mondott a tömegnek: „A mennyek országa olyan, mint amikor egy ember jó magot vetett a földjébe. Míg az emberek aludtak, jött az ellenség, konkolyt vetett a búza közé, és elment. Amikor a vetés kikelt és kalászba szökkent, felütötte fejét a konkoly is. Akkor a szolgák odamentek a gazdához, és megkérdezték: »Uram, te ugye jó magot vetettél a földedbe? Honnét került hát bele a konkoly?” Az így válaszolt: „Ellenséges ember műve ez.” A szolgák erre megkérdezték: „Akarod-e, hogy elmenjünk és kiszedjük belőle?” Ő azonban így felelt: „Nem, nehogy a búzát is kitépjétek, amikor a konkolyt kiszeditek! Hagyjátok, hadd nőjön az aratásig mindkettő. Aratáskor majd megmondom az aratóknak: Előbb a konkolyt gyűjtsétek össze, kössétek kévébe, hogy elégessük, a búzát pedig hordjátok a magtáramba!”\n\nAzután egy másik példabeszédet is mondott nekik: „A mennyek országa olyan, mint a mustármag, amelyet egy ember elvetett a földjébe. Bár kisebb ez minden más magnál, mégis, amikor felnő, nagyobb minden veteménynél. Fává terebélyesedik, úgyhogy jönnek az ég madarai és ágai között fészket raknak.”\n\nVégül ezt a példabeszédet mondta nekik: „A mennyek országa olyan, mint a kovász, amelyet fog az asszony, belekever három véka lisztbe, és az egész megkel tőle.” Mindezt példabeszédekben mondta el Jézus a sokaságnak, és példabeszéd nélkül nem mondott nekik semmit, hogy beteljesedjék, amit a próféta mondott:\n\nPéldabeszédekre nyitom ajkamat, s hirdetem, mi rejtve volt a világ kezdetétől. Akkor elbocsátotta a tömeget, és hazament. Tanítványai pedig odajárultak hozzá és kérték: „Magyarázd meg nekünk a szántóföldről és a konkolyról szóló példabeszédet!” Erre ő ezekkel a szavakkal válaszolt: „Aki a jó magot veti, az az Emberfia. A szántóföld a világ, a jó mag az ország fiai, a konkoly pedig a gonosz fiai. Az ellenség, aki ezeket elveti – az ördög. Az aratás a világ vége, az aratók pedig az angyalok. Ahogy a konkolyt összeszedik és tűzre vetve elégetik, úgy lesz a világ végén is. Az Emberfia elküldi angyalait, hogy szedjék össze országában mindazt, ami botrányos, és minden törvényszegőt. Ezeket tüzes kemencébe vetik, ott sírás lesz és fogcsikorgatás. Az igazak pedig mint a nap, ragyogni fognak Atyjuk országában. Akinek van füle, hallja meg!”",
+  "cite": "Mt 13,24-43"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "a Bölcsesség könyvéből",
+  "summary": "Isten alkalmat ad a bűnök megbánására.",
+  "text": "Nincs Isten rajtad kívül, aki mindeneknek gondját viselné, nem kell hát bizonyítanod, hogy nem ítéltél igazságtalanul. Hiszen hatalmad az alapja igazságosságodnak, és mivel mindenek Ura vagy, kész vagy mindent megkímélni. Mutatsz ugyan erőt, ha kétségbe vonják hatalmadat, és bünteted azok merészségét, kik nem ismernek el téged, de fékezed hatalmadat, enyhén ítélsz és nagy kímélettel igazgatsz minket, mert akkor gyakorlod hatalmadat, amikor csak akarod. Mindezzel pedig arra tanítottad népedet, hogy igaznak, emberségesnek kell lennie, és azzal a jó reménnyel töltötted el gyermekeidet, hogy amikor ítélsz, alkalmat adsz a bűnök megbánására.",
+  "cite": "Bölcs 12,13.16-19"
+ },
+ "reading2": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a rómaiakhoz írt leveléből",
+  "summary": "A Szentlélek könyörög bennünk, emberi szóval ki nem fejezhető\nfohászkodással.",
+  "text": "Testvéreim!\n\nGyöngeségünkben segítségünkre siet a Lélek, hisz mi még azt sem tudjuk, hogy hogyan kell helyesen imádkozni. A Lélek azonban maga könyörög bennünk, emberi szóval ki nem fejezhető fohászkodással. Isten pedig, aki a szíveket vizsgálja, tudja, hogy mit kíván bennünk a Lélek, mert ő Isten tetszése szerint jár közben a szentekért.",
+  "cite": "Róm 8,26-27"
+ }
+}

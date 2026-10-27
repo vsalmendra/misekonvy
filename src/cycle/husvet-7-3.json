@@ -1,0 +1,32 @@
+{
+ "key": "husvet-7-3",
+ "source_date": "2026-05-20",
+ "rank": "",
+ "day": "húsvét 7. hét szerda",
+ "psalm": {
+  "cite": "Zsolt 67,29-30.33~35a.35b-36c",
+  "response": "A Föld minden országa énekszóval áldja az Istent.",
+  "verses": [
+   "Vagy: Alleluja. 2. szám.\nHatalmadat, Isten, mutasd meg,\nerősítsd meg, amit bennünk műveltél.\nKirályok hozzák ajándékukat néked\njeruzsálemi templomodból.\nHívek. A Föld minden országa\nénekszóval áldja az Istent.\nVagy: Alleluja.\nFöld népei, énekeljetek az Istennek,\nzengjetek zsoltárt az Úrnak, Istenünknek.\nAki áthalad az egek egein, † íme hallatja szavát, hatalmas szózatát:\n„Ismerjétek el Isten hatalmát!”",
+   "Vagy: Alleluja.\nIzrael fölött tündököl fölsége, † hatalma felragyog a felhőkben.\nÁldott a mi Istenünk!",
+   "Vagy: Alleluja."
+  ]
+ },
+ "alleluia": {
+  "text": "Uram, a te szavad igazság. Tégy szentté minket igazságod által! Jn 17,17b és a",
+  "cite": ""
+ },
+ "gospel": {
+  "book": "Szent János",
+  "summary": "Jézus tanítványai legyenek egy, miként ő is egy az Atyával!",
+  "text": "Abban az időben Jézus az égre emelte szemét, és így imádkozott:\n\nSzent Atyám, tartsd meg a te nevedben azokat, akiket nekem adtál, hogy egy legyenek, mint mi. Amíg velük voltam, megőriztem nevedben azokat, akiket nekem adtál. Megtartottam őket, és senki más nem veszett el közülük, csak a kárhozat fia, hogy beteljesedjék az írás.\n\nMost tehozzád megyek, ezeket pedig elmondom a világban, hogy az én örömöm teljes legyen bennük. Átadtam nekik tanításodat, de a világ gyűlölte őket, mert nem a világból valók, amint én sem vagyok a világból való. Nem azt kérem tőled, hogy vedd el őket a világból, hanem hogy óvd meg őket a gonosztól. Hiszen nem a világból valók, amint én sem vagyok a világból.\n\nSzenteld meg őket az igazságban, mert a te tanításod igazság. Amint te elküldtél engem a világba, úgy küldöm én is őket a világba. És értük szentelem magamat, hogy ők is megszentelődjenek az igazságban.",
+  "cite": "Jn 17,11b-19"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "az Apostolok Cselekedeteiből",
+  "summary": "Pál apostol efezusi híveit Istennek ajánlja, és elbúcsúzik tőlük.",
+  "text": "Pál apostol így folytatta beszédét az efezusi egyház presbiterei előtt:\n\n„Vigyázzatok magatokra és az egész nyájra! A Szentlélek azért tett titeket elöljáróvá, hogy igazgassátok az Isten egyházát, amelyet (Jézus az ő) tulajdon vére árán szerzett meg magának. Tudom, hogyha eltávozom, ragadozó farkasok törnek rátok, és nem kímélik a nyájat. Sőt még köztetek is akadnak olyanok, akik álnok szóval magukhoz akarják csábítani a tanítványokat. Legyetek tehát éberek, és véssétek jól emlékezetetekbe, hogy három éven át éjjel-nappal szünet nélkül könnyek között figyelmeztettelek mindnyájatokat!\n\nMost pedig Istennek és az ő kegyelme igéjének ajánllak titeket. Neki ugyanis hatalma van arra, hogy fölépítse művét, és megadja nektek az összes szentekkel közös örökséget. Nem kívántam senki ezüstjét, aranyát vagy ruháját. Jól tudjátok, hogy amire magamnak vagy társaimnak szüksége volt, azt a kezem munkájával szereztem meg. Minden tekintetben példát adtam nektek, hogyan kell dolgozni, és ezzel a gyengéket segíteni. Így emlékezünk Urunk Jézus Krisztus szavaira: »Nagyobb boldogság adni, mint kapni.«”\n\nSzavait befejezvén, Pál apostol letérdelt, és mindnyájukkal közösen imádkozott. Valamennyien hangos sírásra fakadtak, és nyakába borulva csókolgatták. Leginkább az a mondása fájt nekik, hogy többé nem fogják viszontlátni.\n\nAztán kikísérték a hajóhoz.",
+  "cite": "ApCsel 20,28-38"
+ }
+}

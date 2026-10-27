@@ -1,0 +1,34 @@
+{
+ "key": "husvet-2-3",
+ "source_date": "2026-04-15",
+ "rank": "",
+ "day": "Húsvét 2. hét szerda",
+ "psalm": {
+  "cite": "Zsolt 33,2-3.4-5.6-7.8-9",
+  "response": "A szegény az Úrhoz kiáltott, és az Úr meghallgatta őt.",
+  "verses": [
+   "Vagy: Alleluja. 4. szám.\nMinden időben áldom az Urat,\ndicséretét szüntelenül zengi ajkam.\nLelkem az Úrban dicsekszik,\nhallják meg ezt a szelídek és örvendezzenek.",
+   "Vagy: Alleluja.\nMagasztaljátok az Urat énvelem,\ndicsőítsük az ő nevét mindnyájan.\nKerestem az Urat, és ő meghallgatott engem,\nés kiragadott minden rettegésből.",
+   "Vagy: Alleluja.\nMegvilágosultok, ha az Úrra néztek,\nés arcotokat nem éri szégyen.\nAz Úr meghallgatta a szegényt, aki hozzá kiáltott,\nés minden szorongatásából kiszabadította.",
+   "Vagy: Alleluja.\nAz Úr angyala minden istenfélőt körülsáncol,\nés megszabadítja őt.\nÍzleljétek és lássátok, milyen édes az Úr,\nboldog az az ember, aki őbenne bízik.",
+   "Vagy: Alleluja."
+  ]
+ },
+ "alleluia": {
+  "text": "Isten úgy szerette a világot, hogy egyszülött Fiát adta érte, hogy örökké éljen minden őbenne hívő.",
+  "cite": "Jn 3,16"
+ },
+ "gospel": {
+  "book": "Szent János",
+  "summary": "Isten elküldte Fiát, hogy üdvözítse a világot.",
+  "text": "Abban az időben így tanított Jézus:\n\n„Úgy szerette Isten a világot, hogy egyszülött Fiát adta oda, hogy aki benne hisz, el ne vesszen, hanem örök élete legyen. Isten nem azért küldte Fiát a világba, hogy elítélje a világot, hanem hogy üdvözüljön általa a világ. Aki hisz benne, az nem esik ítélet alá, de aki nem hisz, az már ítéletet vont magára, mert nem hitt Isten egyszülött Fiában.\n\nAz ítélet ez: A világosság a világba jött, de az emberek jobban szerették a sötétséget, mint a világosságot, mert tetteik gonoszak voltak. Mert mindenki, aki gonoszat tesz, gyűlöli a világosságot, és nem megy a világosságra, nehogy napvilágra kerüljenek tettei. Aki azonban az igazságot cselekszi, a világosságra megy, hadd jusson nyilvánosságra, hogy tetteit Istenben vitte végbe.”",
+  "cite": "Jn 3,16-21"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "az Apostolok Cselekedeteiből",
+  "summary": "Az apostolok miután kiszabadultak a börtönből, ismét tanították a népet.",
+  "text": "A főpap és akik vele tartottak – vagyis a szadduceusok pártja –, féltékenységből elfogatták az apostolokat, és nyilvános börtönbe vetették őket. De az Úr angyala éjszaka kinyitotta a börtön ajtaját, kivezette az apostolokat, és így szólt hozzájuk:\n\n„Menjetek, álljatok ki nyíltan, és hirdessétek a népnek a templomban az örök életről szóló tanítást!” Az angyal szava szerint virradatkor be is mentek a templomba, és tanítani kezdtek.\n\nAmikor a főpap és kísérete megérkezett, összehívták a főtanácsot – vagyis a zsidó nép összes véneit –, és üzentek a börtönbe, hogy vezessék elő az apostolokat. Amikor a szolgák odaértek, nem találták őket a börtönben. Visszatértek tehát, és jelentették: „A börtönt ugyan gondosan bezárva találtuk, az őrök is ott álltak az ajtók előtt, de mikor benyitottunk, odabent senkit sem találtunk.”\n\nA templomőrség parancsnoka és a főpapok a hír hallatára nem tudták elképzelni, mi történhetett. Egyszer csak beállított valaki, és hírül hozta: „Azok a férfiak, akiket a börtönbe vetettetek, a templomban vannak, és tanítják a népet.”\n\nEkkor a parancsnok szolgáival együtt elment, és elővezette őket. Erőszakot nem alkalmaztak, mert féltek, hogy a nép kövekkel támad ellenük.",
+  "cite": "ApCsel 5,17-26"
+ }
+}

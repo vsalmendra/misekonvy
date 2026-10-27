@@ -1,0 +1,31 @@
+{
+ "key": "evkozi-14-4-II",
+ "source_date": "2026-07-09",
+ "rank": "",
+ "day": "14. évközi hét csütörtök",
+ "psalm": {
+  "cite": "Zsolt 79,2ac és 3b.15-16",
+  "response": "Ragyogtasd ránk arcodat, Istenünk, és mi szabadok leszünk!",
+  "verses": [
+   "Figyelj ránk, Izrael pásztora,\nragyogj fel, aki trónolsz a kerubok fölött!\nMutasd meg hatalmadat,\njöjj, hogy megszabadíts minket!",
+   "Seregek Ura, fordulj hozzánk, † tekints le az égből,\nlásd, és látogasd meg ezt a szőlőt!\nVédd meg, amit jobbod ültetett,\nés az emberfiát, akit magadnak megerősítettél."
+  ]
+ },
+ "alleluia": {
+  "text": "Közel van az Isten országa, tartsatok bűnbánatot, és higgyetek az evangéliumban.",
+  "cite": "Mk 1,15"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Az apostolok ingyen kapták hatalmukat Istentől.\nIngyen kell azt gyakorolniuk.",
+  "text": "Jézus e szavakkal küldte a nép közé apostolait:\n\nMenjetek, és hirdessétek, hogy közel van a mennyek országa! Gyógyítsatok betegeket, támasszatok fel halottakat, tisztítsatok meg leprásokat, és űzzetek ki ördögöket! Ingyen kaptátok, ingyen is adjátok! Ne legyen övetekben se arany, se ezüst, se rézpénz! Ne vigyetek magatokkal úti tarisznyát, se két ruhát, se sarut, se botot! Méltó ugyanis a munkás a kenyerére.\n\nHa egy városba vagy faluba érkeztek, érdeklődjetek, hogy ki az, aki méltó arra, hogy nála maradjatok, amíg csak el nem távoztok! Amikor pedig beléptek a házba, köszöntsétek a ház népét. Ha érdemes rá a ház, akkor a békétek rászáll; ha pedig érdemtelen, akkor békétek visszaszáll rátok.\n\nHa valaki nem fogad be titeket, sem szavatokra nem hallgat, akkor menjetek ki a házból, de még a városból is, és rázzátok le a port a lábatokról! Bizony, mondom nektek: Szodoma és Gomorra földjének tűrhetőbb sorsa lesz az ítélet napján, mint annak a városnak.",
+  "cite": "Mt 10,7-15"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Ozeás próféta könyvéből",
+  "summary": "Isten megbocsátó szeretete népe iránt első – öröktől való – szeretetéből fakad.",
+  "text": "Ezt mondja az Úr:\n\nGyermek volt még Izrael, amikor megszerettem. Egyiptomból hívtam ki az én fiamat. De minél inkább hívtam őket, annál inkább távolodtak tőlem; a Baáloknak áldoztak, és a bálványoknak mutattak be áldozatokat. Én tanítottam megjárni Efraimot, karomon hordoztam, mégsem ismerték el, hogy gondjukat viseltem. Puha kötelékekkel vonzottam őket, a szeretet kötelékeivel. Olyan voltam hozzájuk, mint aki arcához emeli a csecsemőt, lehajoltam hozzá, enni adtam neki.\n\nSzívem elváltozott, egész bensőm remeg. Nem hagyom, hogy fellobbanjon haragom: Efraimot nem pusztítom el többé, mert Isten vagyok, nem ember, a közöttetek élő Szent, aki nem a harag tüzével jön.",
+  "cite": "Oz 11,1-4.8c-9"
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "key": "fix-07-03",
+ "source_date": "2026-07-03",
+ "rank": "Ü",
+ "day": "Szent Tamás apostol – Ü",
+ "psalm": {
+  "cite": "Zsolt 116,1.2",
+  "response": "Menjetek el az egész világra, és hirdessétek az evangéliumot!",
+  "verses": [
+   "Vagy: Alleluja. 4. szám.\nDicsérjétek az Urat, minden népek,\nmagasztaljátok őt, minden nemzetek.",
+   "Vagy: Alleluja.\nMert erős rajtunk az ő irgalma,\nés az Úr hűsége örökké megmarad.",
+   "Vagy: Alleluja."
+  ]
+ },
+ "alleluia": {
+  "text": "Jézus mondja: „Most már hiszel, Tamás, mert láttál engem. Boldogok, akik nem láttak és mégis hittek.”",
+  "cite": "Jn 20,29"
+ },
+ "gospel": {
+  "book": "Szent János",
+  "summary": "Én Uram, én Istenem!",
+  "text": "(Húsvétvasárnap este) a tizenkettő közül az egyik, Tamás, vagy melléknevén Iker, nem volt velük, amikor Jézus megjelent nekik. Később a tanítványok elmondták neki: „Láttuk az Urat.” De ő így szólt: „Hacsak nem látom kezén a szegek nyomát, ha nem érintem ujjaimat a szegek helyéhez, és nem tapintom meg kezemmel oldalát, én nem hiszem!”\n\nNyolc nap múlva ismét együtt voltak a tanítványok. Tamás is ott volt velük. Ekkor újra megjelent Jézus, bár az ajtó zárva volt. Belépett és köszöntötte őket: „Békesség nektek!” Tamásnak pedig ezt mondta: „Nyújtsd ide az ujjadat és nézd a kezemet! Nyújtsd ki a kezedet és érintsd meg oldalamat! Ne légy hitetlen, hanem hívő!” Tamás így válaszolt: „Én Uram, én Istenem!” Jézus ezt mondta neki: „Most már hiszel, Tamás, mert láttál engem. Boldogok, akik nem láttak, és mégis hisznek!”",
+  "cite": "Jn 20,24-29"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak az efezusiakhoz írt leveléből",
+  "summary": "Apostolokra alapozott épület vagytok.",
+  "text": "Testvéreim!\n\nNem vagytok már idegenek és jövevények, hanem a szentek polgártársai és Isten háza népe. Apostolokra és prófétákra alapozott épület vagytok, amelynek szegletköve maga Jézus Krisztus. Benne kapcsolódik egybe az egész épület, és emelkedik az Úr szent templomává. Őbenne épültök egybe ti is, és lesztek a Szentlélek közreműködésével Isten hajlékává.",
+  "cite": "Ef 2,19-22"
+ }
+}

@@ -1,0 +1,34 @@
+{
+ "key": "nagybojt-2-1",
+ "source_date": "2026-03-02",
+ "rank": "",
+ "day": "2. nagyböjti hét hétfő",
+ "psalm": {
+  "cite": "Zsolt 78,8.9.11.13",
+  "response": "Urunk, irgalmas Istenünk, ne bánj velünk bűneink szerint.",
+  "verses": [
+   "Ne emlékezzél atyáink vétkeire, † irgalmaddal siess elénk,\nmert igen nyomorultak lettünk.",
+   "Segíts rajtunk, szabadító Istenünk, † neved dicsőségéért ments meg minket,\nés nevedért bocsásd meg bűneinket.",
+   "Jusson elődbe a foglyok jajszava,\nkarod erejével tartsd meg az életnek a halál fiait.",
+   "Mi pedig, a te néped és legelőd juhai, † mindörökké áldunk,\nnemzedékről nemzedékre hirdetjük dicsőségedet."
+  ]
+ },
+ "alleluia": {
+  "text": "Uram, tanításod lélek és élet. Örök életet adó igéid vannak.",
+  "cite": "Jn 6,64b.69b",
+  "lent": true
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Amit akartok, hogy nektek cselekedjenek az emberek, ti is tegyétek meg nekik.",
+  "text": "A hegyi beszédében Jézus így szólt tanítványaihoz:\n\n„Legyetek irgalmasok, amint mennyei Atyátok is irgalmas. Ne mondjatok ítéletet senki fölött, s akkor fölöttetek sem ítélkeznek. Ne ítéljetek el senkit, s akkor titeket sem ítélnek el. Bocsássatok meg, és nektek is megbocsátanak. Adjatok, és akkor ti is kaptok. Jó, tömött, megrázott és túlcsorduló mértékkel mérnek öletekbe. Mert amilyen mértékkel ti mértek, olyannal mérnek majd nektek is.”",
+  "cite": "Lk 6,36-38"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Dániel próféta könyvéből",
+  "summary": "A hűségesek imája az egész bűnös nép nevében bocsánatért esdekel.",
+  "text": "A babiloni fogságban így imádkozott Dániel:\n\nHozzád könyörgök, Uram, félelmetesen nagy Istenem,\n\nTe híven megőrzöd szövetségedet s irgalmadat azok iránt,\n\nakik szeretnek téged, és megtartják parancsaidat.\n\nVétkeztünk, gonosz életre adtuk magunkat,\n\ngonoszságot műveltünk,\n\nelfordultunk parancsaidtól és törvényeidtől.\n\nSőt szolgáidat, prófétáidat sem követtük,\n\nakik nevedben szóltak királyainkhoz,\n\nfejedelmeinkhez és atyáinkhoz,\n\nmeg az egész néphez is.\n\nAz igazság mindig a tiéd, Uram,\n\na miénk pedig a szégyenpír, amiként ma is.\n\nMiénk, az országé, a szent város lakóié,\n\na választott népé, közelben és távolban is,\n\nahová elűzted őket gonoszságaik miatt,\n\namelyekkel, Uram, vétkeztek ellened!\n\nAz arcpirulás a miénk, Uram:\n\nbűnös királyainké és atyáinké,\n\nmert vétkeztünk ellened.\n\nViszont az irgalom és megbocsátás a tiéd,\n\nUrunk és Istenünk.\n\nMert elfordultunk tőled, nem fogadtuk meg szavad;\n\nnem követtük Urunk, Istenünk törvényeit,\n\namelyeket szolgái, prófétái által adott ő nekünk.",
+  "cite": "Dán 9,4b-10"
+ }
+}

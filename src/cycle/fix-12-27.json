@@ -1,0 +1,32 @@
+{
+ "key": "fix-12-27",
+ "source_date": "2025-12-27",
+ "rank": "Ü",
+ "day": "Szent János apostol és evangélista – Ü",
+ "psalm": {
+  "cite": "Zsolt 96,1-2.5-6.11-12",
+  "response": "Örvendjetek, igazak, az Úrban, áldjátok nevét!",
+  "verses": [
+   "Király az Úr, a föld ujjongjon,\nés örvendjen minden sziget.\nSötét felhő lebegi őt körül,\ntrónjának támasza jog és igazság.",
+   "Viaszként szétfolynak a hegyek az Úr előtt,\naz egész föld Urának színe előtt.\nIgazságosságát hirdetik az egek,\nés nagy fölségét meglátják a népek.",
+   "Fényesség ragyog az igazra,\nés öröm a tiszta szívűekre.\nÖrvendjetek, igazak, az Úrban,\nés szent nevére áldást mondjatok."
+  ]
+ },
+ "alleluia": {
+  "text": "Téged, Isten, dicsérünk, téged Úrnak ismerünk! Téged dicsér, egek Ura, apostolok boldog kara.",
+  "cite": ""
+ },
+ "gospel": {
+  "book": "Szent János",
+  "summary": "János gyorsabban futott, mint Péter, így előbb ért a sírhoz.",
+  "text": "A hét első napján (húsvétvasárnap), kora reggel, Mária Magdolna elfutott Simon Péterhez és a másik tanítványhoz, akit Jézus szeretett, és hírül adta nekik: „Elvitték az Urat a sírból, és nem tudom, hova tették!”\n\nPéter és a másik tanítvány elindult, és a sírhoz sietett. Futottak mind a ketten, de a másik tanítvány gyorsabban futott, mint Péter, és hamarabb ért a sírhoz. Benézett, és látta az otthagyott gyolcsleplet, de nem ment be. Közben odaért Simon Péter is. Ő is látta az otthagyott lepleket és a kendőt, amely Jézus fejét takarta. Ez nem volt együtt a leplekkel, hanem külön feküdt összehajtva egy helyen. Akkor bement a másik tanítvány is, aki először ért a sírhoz. Látta mindezt és hitt.",
+  "cite": "Jn 20,2-8"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent János apostol első leveléből",
+  "summary": "Amit láttunk és hallottunk, azt hirdetjük nektek.",
+  "text": "Szeretteim!\n\nAmi kezdettől fogva volt, amit hallottunk, amit saját szemünkkel láttunk, amit szemléltünk és kezünk tapintott: az élet Igéjét hirdetjük nektek. Az Élet megjelent. Mi láttuk, tanúságot teszünk róla és hirdetjük nektek az örök életet, amely az Atyánál volt, és megjelent nekünk. Amit láttunk és hallottunk, azt hirdetjük nektek, hogy ti is közösségben legyetek velünk. Mi ugyanis az Atyával és az ő Fiával, Jézus Krisztussal vagyunk közösségben.\n\nEzeket azért írjuk nektek, hogy örüljetek és örömötök teljes legyen.",
+  "cite": "1Jn 1,1-4"
+ }
+}

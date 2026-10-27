@@ -1,0 +1,33 @@
+{
+ "key": "hamvazo-6",
+ "source_date": "2026-02-21",
+ "rank": "",
+ "day": "Szombat hamvazószerda után",
+ "psalm": {
+  "cite": "Zsolt 85,1-2.3-4.5-6",
+  "response": "Utadat, Uram, mutasd meg nekem, hogy igazságod szerint járjak.",
+  "verses": [
+   "Fordulj felém és hallgass meg, Uram,\nmert gyámoltalan vagyok és szegénységben élek.\nŐrizd meg lelkemet, mivel hozzád tartozom,\nszabadítsd meg szolgádat, Istenem, aki benned bízik.",
+   "Könyörülj rajtam, Uram,\nmert egész nap hozzád kiáltok.\nTedd vidámmá szolgád lelkét,\nhiszen hozzád emelem a szívem.",
+   "Uram, te szelíd és jóságos vagy,\nnagy irgalmú mindazokhoz, akik hívnak téged.\nHallgasd meg, Uram, imádságom,\nfigyelj könyörgésem szavára."
+  ]
+ },
+ "alleluia": {
+  "text": "Én nem kívánom a bűnös halálát mondja a mi Urunk, Istenünk, hanem hogy a bűnös éljen és hozzám térjen.",
+  "cite": "Ez 33,11",
+  "lent": true
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Jézus hívja a bűnösöket, hogy tartsanak bűnbánatot.",
+  "text": "Amikor Jézus egyszer Kafarnaumban járt, meglátott egy Lévi nevű vámost, aki a vámnál ült.\n\nMegszólította őt: „Kövess engem!” A vámos erre fölkelt, és mindenét otthagyva, követte Jézust.\n\nLévi azután Jézus tiszteletére nagy lakomát rendezett házában. Jézussal együtt sok vámos és más ember telepedett az asztalhoz. A farizeusok és az írástudók méltatlankodva fordultak a tanítványokhoz: „Hogyan lehet az, hogy ti a vámosokkal meg a bűnösökkel együtt esztek és isztok?”\n\nJézus felelt meg nekik: „Nem az egészségeseknek kell az orvos, hanem a betegeknek. Nem azért jöttem, hogy az igazakat hívjam, hanem a bűnösöket, hogy megtérjenek!”",
+  "cite": "Lk 5,27-32"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Izajás próféta könyvéből",
+  "summary": "Böjtölésünk közben gyakoroljuk az irgalmas felebaráti szeretetet, és tartsuk meg az Úr szent napját!",
+  "text": "A helyes böjtölésről prófétája által így tanít az Úr:\n\nHa eltávolítod körödből az igát,\n\naz ujjal mutogatást és a gonosz beszédet,\n\nha odaadod az éhezőnek kenyeredet,\n\nés jóllakatod az elnyomottat,\n\nakkor felragyog a sötétségben világosságod,\n\nés homályod déli verőfényre változik.\n\nMaga az Úr vezérel szüntelen,\n\nés még a kietlen helyeken is felüdít.\n\nErővel tölti el tagjaidat,\n\nolyan leszel, mint az öntözött kert,\n\nés mint a vízforrás,\n\namelynek vize nem apad el soha.\n\nÚjra felépíted az ősi romokat,\n\nés helyreállítod a régi nemzedékek építette alapfalakat.\n\nA rések betöltőjének neveznek majd,\n\nés a romba dőlt házak felépítőjének.\n\nHa óvakodsz attól, hogy szombaton ide-oda menj,\n\nés hogy a hasznot hajhászd szent napomon;\n\nha a szombatot gyönyörűnek nevezed,\n\nés az Úrnak szentelt napot dicsőségesnek;\n\nha megtiszteled azzal,\n\nhogy tartózkodsz a jövés-menéstől,\n\na haszonleséstől és a mihaszna beszédtől:\n\nakkor boldog leszel az Úrban;\n\nfölvezetlek győztesként a föld magaslataira,\n\nés élvezni fogod atyádnak, Jákobnak örökrészét.\n\nIgen, az Úr szája mondta ezt így.",
+  "cite": "Iz 58,9b-14"
+ }
+}

@@ -1,0 +1,39 @@
+{
+ "key": "szent-csalad-A",
+ "source_date": "2025-12-28",
+ "rank": "",
+ "day": "A Szent Család: Jézus, Mária és József",
+ "psalm": {
+  "cite": "Zsolt 127,1-2.3.4-5",
+  "response": "Boldog ember, ki féli az Urat, aki az Úrnak ösvényén halad.",
+  "verses": [
+   "Vö. 1. vers.\nBoldog mindaz, ki féli az Urat,\naki az ő útjain jár.\nKezed munkájából élhetsz,\nboldog leszel, és jól megy sorod.",
+   "Feleséged olyan, mint a termő szőlőtő,\na te házad bensejében.\nFiaid olyanok, mint az olajfacsemeték,\núgy veszik körül asztalodat.",
+   "Íme, ilyen áldásban részesül az az ember,\naki féli az Urat.\nÁldjon meg az Úr Sionból,\nhogy lásd Jeruzsálem jólétét életed minden\nnapján."
+  ]
+ },
+ "alleluia": {
+  "text": "Szívetekben uralkodjék Krisztus békéje, Krisztus tanítása töltsön el titeket gazdagon.",
+  "cite": "Kol 3,15a.16a"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Vedd a gyermeket és anyját és menekülj Egyiptomba!",
+  "text": "Miután a bölcsek eltávoztak, íme, az Úr angyala megjelent Józsefnek\n\nálmában, és így szólt: „Kelj fel, vedd a gyermeket és anyját, és\n\nmenekülj Egyiptomba! Maradj ott, míg nem szólok neked! Heródes ugyanis\n\narra készül, hogy megkeresi és megöli a gyermeket.” József fölkelt,\n\nfogta a gyermeket és anyját, és még azon éjjel elment Egyiptomba. Ott\n\nmaradt Heródes haláláig, hogy beteljesedjék, amit az Úr a próféta által\n\nmondott:\n\nEgyiptomból hívtam az én fiamat.\n\nAmikor Heródes meghalt, íme, az Úr angyala megjelent Józsefnek\n\nálmában, és így szólt: „Kelj fel, vedd a gyermeket és anyját, és menj\n\nIzrael földjére, mert meghaltak már, akik a gyermek életére törtek!”\n\nJózsef fölkelt, fogta a gyermeket és anyját, és visszatért Izrael\n\nföldjére. De amikor meghallotta, hogy Judeában Arkelausz uralkodik\n\napja, Heródes után, félt odamenni. Ezért az álmában kapott utasítást\n\nkövetve Galilea vidékére ment. Odaérve egy Názáret nevű városban\n\ntelepedett le, hogy beteljesedjék, amit a próféták mondtak:\n\n„Názáretinek fogják hívni”.",
+  "cite": "Mt 2,12-15.19-23"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Sirák fia könyvéből",
+  "summary": "Aki féli az Urat, tiszteli szüleit.",
+  "text": "Isten tekintélyt adott az apának a gyermekek előtt, és megszabta az\n\nanya jogát a gyermekekkel szemben. Aki tiszteli apját, bűneit\n\nengeszteli, megszabadul tőlük, és mindennapi imája meghallgatásra\n\ntalál. Kincset gyűjt magának, aki megbecsüli anyját, aki pedig tiszteli\n\napját, örömét leli gyermekeiben, s amikor imádkozik, meghallgatásra\n\ntalál. Aki becsüli apját, hosszú életű lesz, s aki szót fogad apjának,\n\nfelüdíti anyját.\n\nFiam! Legyen gondod apádra öregségében, és ne keserítsd őt életében.\n\nHa meg is fogyatkozik erejében, légy elnéző iránta, és ne vesd meg\n\néletének egy napján se. Apád iránt tanúsított jó cselekedeted nem megy\n\nfeledésbe, és elszámolják neked bűneidért. A jótett fejében majd\n\ngyarapodni fogsz.",
+  "cite": "Sir 3,3-7.14-17a"
+ },
+ "reading2": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a kolosszeiekhez írt leveléből",
+  "summary": "A család élete az Úrban.",
+  "text": "Testvéreim!\n\nMint Istennek szent és kedves választottai, öltsétek\n\nmagatokra az irgalmasságot, a jóságot, a szelídséget és a türelmet.\n\nViseljétek el egymást, és bocsássatok meg egymásnak, ha valakinek\n\npanasza van a másik ellen. Bocsássatok meg ti is úgy, ahogyan az Úr\n\nmegbocsátott nektek. Legfőként pedig szeressétek egymást, mert ez a\n\ntökéletesség köteléke.\n\nKrisztus békéje töltse be szíveteket, hiszen erre kaptatok meghívást\n\naz egy test közösségében. Legyetek hálásak! Krisztus igéje éljen\n\nbennetek gazdagon! Tanítsátok és intsétek egymást telve bölcsességgel!\n\nÉnekeljetek Istennek hálás szívvel zsoltárokat, himnuszokat és szent\n\nénekeket!\n\nBármit mondtok vagy tesztek, mindent az Úr Jézus nevében tegyetek!\n\nÍgy adjatok hálát általa az Atyaistennek!\n\nAsszonyok! Engedelmeskedjetek férjeteknek, ahogy illik az Úrban!\n\nFérfiak! Szeressétek feleségeteket, ne legyetek hozzájuk durvák!\n\nGyermekek! Fogadjatok szót szüleiteknek mindenben, mert ez kedves az\n\nÚr előtt!\n\nApák! Ne keserítsétek meg gyermekeitek életét, hogy kedvüket ne\n\nveszítsék!",
+  "cite": "Kol 3,12-21"
+ }
+}

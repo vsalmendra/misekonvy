@@ -1,0 +1,33 @@
+{
+ "key": "fix-12-25",
+ "source_date": "2025-12-25",
+ "rank": "FÜ",
+ "day": "Urunk születése: Karácsony – Ünnepi mise – FÜ",
+ "psalm": {
+  "cite": "Zsolt 97,1.2-3ab.3cd-4.5-6",
+  "response": "A föld minden határa látta üdvözítő Urunknak jóságát.",
+  "verses": [
+   "Zengjetek az Úrnak új éneket,\ncsodálatra méltó, amit művelt.\nDiadalt aratott jobbjával,\ngyőzelmet szentséges karjával.",
+   "Az Úr megmutatta szabadító erejét,\nigazságosságát feltárta a népek\nelőtt.\nEmlékezetébe idézte jóságát és hűségét\nIzrael népe iránt.",
+   "Meglátta a föld minden határa,\nszabadulást Istenünk hozott nekünk.\nMinden földek, zengjetek az Úrnak öröméneket,\nujjongjatok és zsoltárt mondjatok.",
+   "Daloljatok az Úrnak citerával,\nciterával és zsoltárok hangjával.\nHarsonákkal és zengő kürtökkel\nujjongjatok az Úr és Király előtt."
+  ]
+ },
+ "alleluia": {
+  "text": "Fölragyogott ránk a szent nap, Jöjjetek, nemzetek, és imádjátok az Urat, mert ma nagy fényesség szállt le a földre.",
+  "cite": ""
+ },
+ "gospel": {
+  "book": "Szent János",
+  "summary": "Az Ige testté lett, és közöttünk lakott.",
+  "text": "Kezdetben volt az Ige. Az Ige Istennél volt, és Isten volt az Ige. Ő\n\nvolt kezdetben Istennél. Minden őáltala lett, és nélküle semmi sem\n\nlett, ami lett. Őbenne élet volt, és ez az élet volt az emberek\n\nvilágossága. A világosság a sötétségben világít, de a sötétség nem\n\nfogadta be.\n\nFöllépett egy ember, akit Isten küldött: János volt a neve. Azért\n\njött, hogy tanúságot tegyen: tanúságot a világosságról, hogy mindenki\n\nhiggyen általa. Nem ő volt a világosság, ő csak azért jött, hogy\n\ntanúságot tegyen a világosságról.\n\nAz Ige az igazi világosság volt, amely a világba jött, hogy\n\nmegvilágítson minden embert. A világban volt, és a világ őáltala lett,\n\nde a világ nem ismerte fel őt. A tulajdonába jött, de övéi nem fogadták\n\nbe. Mindazoknak azonban, akik befogadták, hatalmat adott, hogy Isten\n\ngyermekei legyenek; azoknak, akik hisznek benne, akik nem vér szerint,\n\nnem a test kívánságából, és nem is a férfi akaratából, hanem Istentől\n\nszülettek.\n\nÉs az Ige testté lett, és közöttünk lakott. Mi pedig láttuk az ő\n\ndicsőségét, mely az Atya Egyszülöttjének dicsősége, telve kegyelemmel\n\nés igazsággal.\n\nJános tanúságot tett róla, amikor ezt hirdette: „Ő az, akiről\n\nmondtam, hogy utánam jön, de megelőz engem, mert előbb volt, mint én.”\n\nHiszen mi mindannyian az ő teljességéből nyertünk kegyelemből\n\nkegyelmet. A törvényt ugyanis Mózes által kaptuk, a kegyelem és az\n\nigazság azonban Jézus Krisztus által valósult meg.\n\nIstent soha senki nem látta, Isten Egyszülöttje, aki az Atya kebelén\n\nvan, ő nyilatkoztatta ki.",
+  "cite": "Jn 1,1-18"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "a Zsidókhoz írt levélből",
+  "summary": "Isten az ő Fia által szólt hozzánk.",
+  "text": "Testvéreim!\n\nSok ízben és sokféle módon szólt egykor Isten az atyákhoz\n\na próféták szavával. Most, a végső napokban Fia által szólt hozzánk,\n\nakit a mindenség örökösévé tett, hiszen a világot is általa teremtette.\n\nBenne ragyog az Istenség, ő az Atya képmása, és hathatós szavával ő\n\ntartja fenn a mindenséget.\n\nMiután megváltott minket a bűntől, helyet foglalt az isteni Fölség\n\njobbján. Hatalmasabb, mint az angyalok, mert magasztosabb nevet örökölt\n\nnáluk. Vajon melyik angyalnak mondta valaha Isten:\n\n„A Fiam vagy te, ma szültelek téged?”\n\nVagy pedig:\n\n„Én Atyja leszek, ő pedig az én Fiam?”\n\nSőt, amikor Egyszülöttjét bevezeti a világba, így szól:\n\n„És leborulva imádja őt Isten minden angyala.”",
+  "cite": "Zsid 1,1-6"
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "key": "evkozi-22-3-II",
+ "source_date": "2026-09-02",
+ "rank": "",
+ "day": "22. évközi hét szerda",
+ "psalm": {
+  "cite": "Zsolt 32,12-15.20-21",
+  "response": "Boldog az a nemzet, melyet az Úr örökségül választott magának.",
+  "verses": [
+   "Boldog az a nemzet, amelynek az Úr az Istene,\na nép, amelyet örökségül választott magának.\nLetekint Isten a mennyből,\nés látja mind az emberek fiait.",
+   "Lakóhelyéről szemléli azokat,\nakik a földet lakják,\nő alkotta mindnyájuk szívét,\njól ismeri minden tettüket.",
+   "Az Úrra hagyatkozik lelkünk,\nmert ő a segítőnk és ő a mi oltalmunk.\nBenne örvend a szívünk,\naz ő szent nevében reménykedünk."
+  ]
+ },
+ "alleluia": {
+  "text": "Az Úr Lelke van rajtam: elküldött, hogy a szegényeknek örömhírt vigyek.",
+  "cite": "Lk 4,18"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Jézus tanítói küldetése minden emberhez szól.",
+  "text": "Kafarnaumi tartózkodása idején Jézus a zsinagógából jövet betért Simon (Péter) házába. Simon anyósa éppen magas lázban szenvedett. Mindjárt szóltak is neki az érdekében. Jézus a beteg fölé hajolt, parancsolt a láznak, és a láz megszűnt. A beteg azonnal fölkelt, és szolgált nekik.\n\nNapnyugtakor mindnyájan odavitték Jézushoz a betegeket, akik különféle bajokban szenvedtek. Mindegyikre rátette kezét, és meggyógyította őket. Sokakból gonosz lelkek mentek ki, és ezt kiáltozták: „Te vagy az Isten Fia!” Jézus azonban rájuk parancsolt, és nem engedte, hogy beszéljenek; azok ugyanis tudták, hogy ő a Krisztus.\n\nAmikor megvirradt, Jézus kiment egy magányos helyre; a népsokaság pedig keresésére indult, és meg is találta. Tartóztatták, hogy ne menjen el tőlük. Jézus azonban így válaszolt: „Más városoknak is hirdetnem kell Isten országának evangéliumát, mert ez a küldetésem.” Azután folytatta tanítását Galilea zsinagógáiban.",
+  "cite": "Lk 4,38-44"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a korintusiakhoz írt első leveléből",
+  "summary": "Az apostolok Isten munkatársai a hívek pedig Isten szántóföldje.",
+  "text": "Testvéreim!\n\nAmikor először voltam nálatok, nem szólhattam hozzátok mint lelki emberekhez, mert akkor még érzéki ember módjára gondolkodtatok. Mivel még nem voltatok felnőttek Krisztusban, csak tejjel tápláltalak benneteket, mert a szilárd ételt még nem bírtátok el. Sőt még most sem való nektek a szilárd étel, mert érzéki ember módjára cselekedtek. Vagy talán míg versengés és viszály dúl köztetek, nem vagytok-e testiek, és nem viselkedtek-e nagyon is emberi módon? Amíg az egyik így nyilatkozik: „Én Pállal tartok”, a másik meg: „Én Apollóval”, nem vagytok-e túlságosan emberiek?\n\nDe kicsoda Apolló? És kicsoda Pál? Szolgák csupán, akik a hitre vezettek titeket, amint nekik az Úr megadta. Én ültettem, Apolló öntözött, de a növekedést Isten adta. Ezért nem az számít, aki ültet, sem az, aki öntöz, hanem csak Isten, aki a növekedést adja. Az ültető meg az öntöző egyforma. El is nyeri jutalmát mindegyik a fáradozásához mérten. Istennek vagyunk ugyanis munkatársai; ti pedig Isten szántóföldje, Isten épülete vagytok.",
+  "cite": "1Kor 3,1-9"
+ }
+}

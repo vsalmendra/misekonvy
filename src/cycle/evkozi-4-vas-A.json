@@ -1,0 +1,40 @@
+{
+ "key": "evkozi-4-vas-A",
+ "source_date": "2026-02-01",
+ "rank": "",
+ "day": "Évközi 4. vasárnap",
+ "psalm": {
+  "cite": "Zsolt 145,7.8-9a.9bc-10",
+  "response": "Boldogok, akik lelkükben szegények: övék a mennyek országa.",
+  "verses": [
+   "4g. tónus.\nVagy: Alleluja. 4. szám.\nIsten igaz marad örökké,\naz elnyomottnak igazságot szolgáltat.\nAz éhezőnek ő ad kenyeret,\nkiszabadítja az Úr a foglyokat.",
+   "Vagy: Alleluja.\nAz Úr megnyitja a vakok szemét,\nés fölemeli azt, aki elesett.\nAz Úr szereti az igaz embert,\na jövevényt megvédi.",
+   "Vagy: Alleluja.\nAz Úr támogatja az árvát és özvegyet,\nés elpusztítja a gonoszok útját.\nAz Úr uralkodik örökké,\na te Istened, ó Sion, nemzedékről nemzedékre.",
+   "Vagy: Alleluja."
+  ]
+ },
+ "alleluia": {
+  "text": "Örüljetek és vigadjatok: jutalmatok a mennyben bőséges lesz!",
+  "cite": "Vö. Mt 5,12a"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Boldogok a lélekben szegények.",
+  "text": "Abban az időben:\n\nJézus, látva a tömeget, fölment a hegyre, leült, tanítványai pedig\n\nköréje gyűltek. Akkor szólásra nyitotta ajkát, és így tanította őket:\n\n„Boldogok a lélekben szegények, mert övék a mennyek országa.\n\nBoldogok, akik sírnak, mert ők vigasztalást nyernek.\n\nBoldogok a szelídek, mert ők öröklik a földet.\n\nBoldogok, akik éhezik és szomjazzák az igazságot, mert ők kielégítést\n\nnyernek.\n\nBoldogok az irgalmasok, mert nekik is irgalmaznak. Boldogok a tiszta\n\nszívűek, mert meglátják Istent.\n\nBoldogok a békességszerzők, mert őket Isten fiainak fogják hívni.\n\nBoldogok, akiket üldöznek az igazságért, mert övék a mennyek országa.\n\nBoldogok vagytok, ha miattam gyaláznak titeket és üldöznek, ha\n\nhazudozva mindenféle gonoszsággal vádolnak titeket. Örüljetek és „ujjongjatok, mert nagy lesz a ti jutalmatok az égben.”",
+  "cite": "Mt 5,1-12a"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Szofoniás próféta könyvéből",
+  "summary": "Meghagyom közöttetek a szegényeket és alázatosakat.",
+  "text": "Keressétek az Urat,\n\nti, szegényei a földnek,\n\nakik teljesítitek parancsait.\n\nKeressétek az igazságot,\n\nkeressétek az alázatot,\n\ntalán menedéket találtok\n\naz Úr haragjának napján.\n\nMeghagyom közöttetek\n\na szegényeket és alázatosokat,\n\nakik az Úr nevében reménykednek:\n\nIzrael maradékát.\n\nŐk nem művelnek többé gonoszságot,\n\nnem beszélnek hazugságot,\n\nnem lesz álnok nyelv a szájukban.\n\nOlyanok lesznek, mint a nyáj:\n\nLegelnek és lepihennek,\n\nés senki sem zavarja meg őket.",
+  "cite": "Szof 2,3;3,12-13"
+ },
+ "reading2": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a korintusiakhoz írt első leveléből",
+  "summary": "Isten azt választotta ki, ami a világ szemében gyönge.",
+  "text": "Testvéreim!\n\nGondoljatok csak meghívástokra! Nem sokan vannak\n\nköztetek, akik a világ szerint bölcsek, és nem sok a hatalmas, nem sok\n\naz előkelő. Isten azonban azt választotta ki, ami a világ szemében\n\nbalga, hogy megszégyenítse a bölcseket; s ami a világ szemében gyönge,\n\nazt választotta ki, hogy megszégyenítse az erőseket. Ami a világ előtt\n\nalacsonyrendű és megvetendő, azt választotta ki az Isten, a semminek\n\nlátszókat, hogy megsemmisítse azokat, akik látszanak valaminek. Így\n\nsenki sem dicsekedhet Isten előtt.\n\nÁltala van nektek is életetek Krisztus Jézusban, aki Istentől\n\nbölcsességünkké, megszentelődésünkké és megváltásunkká lett. Így\n\nteljesül az Írás szava: „Aki dicsekszik, az Úrban dicsekedjék!”",
+  "cite": "1Kor 1,26-31"
+ }
+}

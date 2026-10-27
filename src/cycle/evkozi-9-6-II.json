@@ -1,0 +1,33 @@
+{
+ "key": "evkozi-9-6-II",
+ "source_date": "2026-06-06",
+ "rank": "",
+ "day": "9. évközi hét szombat",
+ "psalm": {
+  "cite": "Zsolt 70,8-9.14-15ab.16-17.22",
+  "response": "Ajkam hirdeti igazságodat, Uram.",
+  "verses": [
+   "Szám dicsérettel van tele,\negész napom magasztalásoddal.\nNe vess el engem öregségem idején,\nha erőm hanyatlik, ne hagyj el engem.",
+   "Én mindenkor reménykedem,\ndicséretedről dalolok szüntelen.\nIgazságodat hirdeti ajkam,\nés szabadító tetteidet mindennap.",
+   "Az Úr nagy tetteit hirdetem,\nUram, én csak igazságodról elmélkedem.\nIfjúságom óta oktatsz engem, Istenem,\ncsodáidat mindmáig hirdetem.",
+   "Hálát adok majd neked, † hárfán zengem hűségedet, Istenem;\nIzrael szentje, citerán zsoltárt pengetek neked."
+  ]
+ },
+ "alleluia": {
+  "text": "Boldogok, akik lélekben szegények: övék a mennyek országa.",
+  "cite": "Mt 5,3"
+ },
+ "gospel": {
+  "book": "Szent Márk",
+  "summary": "Az adakozó lelkülete a fontos, nem az adomány nagysága.",
+  "text": "Egy alkalommal, amikor Jézus tanított, ezt mondta a tömegnek: „Óvakodjatok az írástudóktól, akik szívesen járnak hosszú köntösben, és szeretik, ha nyilvános tereken köszöntik őket. Örömest elfoglalják a zsinagógában és a lakomákon a főhelyeket. Felélik az özvegyek házát, és közben színleg nagyokat imádkoznak. Ezért keményebb ítélet vár rájuk.”\n\nEzután leült szemben a templompersellyel, és figyelte, hogy a nép hogyan dobja a pénzt a perselybe. Sok gazdag sokat dobott be. De egy szegény özvegyasszony is odajött, és csak két fillért dobott be.\n\nErre Jézus magához hívta tanítványait, és így szólt hozzájuk: „Bizony, mondom nektek, ez a szegény özvegy többet adott mindenkinél, aki csak dobott a perselybe. Mert ők a feleslegükből adakoztak, ez pedig mindent odaadott, amije csak volt, egész vagyonát.”",
+  "cite": "Mk 12,38-44"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak Timóteushoz írt második leveléből",
+  "summary": "Szent Pál végrendelete: Timóteus folytassa az evangélium hirdetését!",
+  "text": "Szeretett Fiam!\n\nKérve kérlek az Istenre és Krisztus Jézusra, aki ítélkezni fog élők és holtak felett, az ő eljövetelére és országára: hirdesd az igét, állj vele elő, akár alkalmas, akár alkalmatlan. Érvelj, ints, buzdíts nagy türelemmel és hozzáértéssel.\n\nLesz ugyanis idő, amikor az emberek nem viselik el az egészséges tanítást, hanem saját kívánságaik szerint seregszámra szereznek maguknak tanítókat, mert viszket a fülük; elfordulnak az igazságtól, és átadják magukat a meséknek. Te azonban légy megfontolt mindenben, viseld el a szenvedéseket, végezd az evangélista dolgát, töltsd be szolgálatodat!\n\nAz én véremet nemsokára kiontják áldozatul. Eltávozásom ideje közel van. A jó harcot megharcoltam, a pályát végigfutottam, a hitet megtartottam.\n\nKészen vár rám az igazság győzelmi koszorúja, amelyet az Úr, az igazságos Bíró megad nekem azon a napon. De nemcsak nekem, hanem mindenkinek, aki örömmel várja az ő eljövetelét.",
+  "cite": "2Tim 4,1-8"
+ }
+}

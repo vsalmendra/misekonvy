@@ -1,0 +1,33 @@
+{
+ "key": "evkozi-24-2-II",
+ "source_date": "2026-09-15",
+ "rank": "",
+ "day": "24. évközi hét kedd",
+ "psalm": {
+  "cite": "Zsolt 99,2-5",
+  "response": "Isten népe vagyunk és legelőjének nyája!",
+  "verses": [
+   "Ujjongjatok az Úrnak, minden földek,\nszolgáljatok az Úrnak vidámsággal!\nJáruljatok színe elé\nvidám énekszóval!",
+   "Tudjátok meg, hogy az Úr az Isten,\növéi vagyunk, ő alkotott minket.\nAz ő népe vagyunk,\nlegelőjének nyája.",
+   "Őt magasztalva lépjetek be kapuján, † énekelve vonuljatok hajlékába,\náldjátok nevét, és adjatok hálát néki.",
+   "Valóban jó az Úr, † irgalma örökké megmarad,\nés hűsége nemzedékről nemzedékre."
+  ]
+ },
+ "alleluia": {
+  "text": "Nagy próféta támadt köztünk: Isten meglátogatta az ő népét.",
+  "cite": "Lk 7,16"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Jézus megsajnálja a síró édesanyát, és feltámasztja annak fiát.",
+  "text": "Abban az időben Jézus elment Naim városába. Vele mentek tanítványai és nyomukban nagy népsokaság.\n\nAmikor a város kapujához közeledett, halottat hoztak ki, egy özvegyasszony egyetlen fiát. Az édesanyát sokan kísérték a városból.\n\nAmikor az Úr meglátta, megesett rajta a szíve, és így szólt hozzá: „Ne sírj!” Azután odalépett a koporsóhoz, és megérintette azt. Erre a halottvivők megálltak. Ő pedig így szólt: „Ifjú, mondom neked, kelj föl!” A halott felült, és beszélni kezdett. Ekkor Jézus átadta őt anyjának.\n\nMindnyájukat elfogta a félelem, és így magasztalták Istent: „Nagy próféta támadt közöttünk.” „Isten meglátogatta népét.” Ennek híre elterjedt egész Júdeában és mindenfelé a környéken.",
+  "cite": "Lk 7,11-17"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a korintusiakhoz írt első leveléből",
+  "summary": "Az Egyház Krisztus titokzatos teste, amelynek tagjai a hívek.",
+  "text": "Testvéreim!\n\nA test ugyan egy, de sok tagja van. A testnek ez a sok tagja azonban mégis egy test. Így van ez Krisztussal is.\n\nMi ugyanis, akár zsidók, akár pogányok, akár rabszolgák, akár szabadok vagyunk, mindnyájan egy testté lettünk a keresztségben az egy Lélek által. Mindannyiunkat egy Lélek itatott át.\n\nMert a test nem egyetlen tagból áll, hanem sokból. Ti pedig Krisztusnak teste vagytok, s egyenként tagjai. Ám az Egyházban Isten némelyeket apostollá, másokat prófétává, ismét másokat tanítóvá tett. Adott csodatevő hatalmat, gyógyító erőt, segítőkészséget, kormányzóképességet, különféle nyelvadományt. Vajon mind apostolok? Mind próféták? Mind tanítók? Valamennyien rendelkeznek csodatevő hatalommal és gyógyító erővel? Mindnyájan beszélnek nyelveken? Mindnyájan értelmezik a beszédeket?\n\nTi törekedjetek értékesebb adományokra!",
+  "cite": "1Kor 12,12-14.27-31a"
+ }
+}

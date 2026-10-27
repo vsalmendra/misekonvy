@@ -1,0 +1,34 @@
+{
+ "key": "evkozi-13-3-II",
+ "source_date": "2026-07-01",
+ "rank": "",
+ "day": "13. évközi hét szerda",
+ "psalm": {
+  "cite": "Zsolt 49,7.8-9.10-11.12-13.16bc-17",
+  "response": "Aki szeplőtelenül járja az élet útját, annak mutatom meg az Isten üdvösségét.",
+  "verses": [
+   "Halljad, én népem, hadd szóljak: † Én vagyok Isten, a te Istened,\nIzrael, ellened tanúskodom.",
+   "Nem áldozataid miatt dorgállak meg én,\négőáldozataidat mindig látom.\nNem fogadok el borjakat házadtól,\nkecskéket sem kívánok legelődről.",
+   "Úgyis enyém az erdők minden vadja,\nés a hegyeknek ezernyi vadállata.\nIsmerem én az ég minden madarát,\nés az enyém, ami csak a réten mozdul.",
+   "Ha éheznék, nem szólnék neked,\nmert enyém a föld és egész teljessége.\nMegeszem talán a bikák húsát,\nvagy a bakok vérét iszom?",
+   "Törvényeimet miért emlegeted,\nés miért veszed ajkadra szövetségem?\nHiszen gyűlölöd a törvény fegyelmét,\nhátat fordítasz szavaimnak."
+  ]
+ },
+ "alleluia": {
+  "text": "Mennyei Atyánk életre hívott minket az igazság igéje által, hogy a teremtmények első zsengéje legyünk.",
+  "cite": "Jak 1,18"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Jézus kiűzi a gonosz lelket két megszállottból.",
+  "text": "Amikor Jézus a Genezáreti-tó keleti partján Gadara vidékére ért, két ördögtől megszállott ember jött vele szemben. A sírboltokból bújtak elő. Már annyira elvadultak, hogy senki se mert arra járni.\n\nA megszállottak kiáltozni kezdtek: „Mi közünk hozzád, Isten Fia? Azért jöttél ide, hogy idő előtt gyötörj minket?”\n\nTőlük távol nagy sertéskonda legelészett. Az ördögök arra kérték Jézust: „Ha kiűzöl minket, küldj a sertéskondába.” Erre ezt mondta nekik: „Menjetek!” Azok ki is mentek, és megszállták a sertéseket, mire az egész konda a meredek partról a tóba rohant, és odaveszett.\n\nA kanászok elfutottak, és a városba érve mindent jelentettek, azt is, ami a megszállottakkal történt. Akkor az egész város kiment Jézus elé, és amint meglátták, kérték, hogy távozzék határukból.",
+  "cite": "Mt 8,28-34"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Ámosz próféta könyvéből",
+  "summary": "Az Úr megkönyörül népén, de őszinte megtérést kíván.",
+  "text": "A hűtlen népet prófétája által így inti az Úr:\n\nA jót keressétek, ne a rosszat, és akkor élni fogtok; és veletek lesz az Úr, a Seregek Istene, úgy, amint valljátok.\n\nGyűlöljétek a rosszat, szeressétek a jót, juttassátok diadalra az igazságot, amikor ítélkeztek; így talán megkönyörül az Úr, a Seregek Istene József maradékán.\n\nGyűlölöm és elvetem ünnepeiteket, ünnepségeitek nem tetszenek nekem.\n\nHa egészen elégő áldozatokat mutattok be nekem: ajándékaitokat el nem fogadom; rá sem tekintek a békeáldozatra, amelyet hizlalt állatokból mutattok be.\n\nVidd el előlem énekeid zaját, hárfád zenéjét meg nem hallgatom.\n\nMint a víz, áradjon inkább az igazság, mint a sebes patak az igazságosság.",
+  "cite": "Ám 5,14-15.21-24"
+ }
+}

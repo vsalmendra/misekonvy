@@ -1,0 +1,32 @@
+{
+ "key": "evkozi-10-6-II",
+ "source_date": "2026-06-13",
+ "rank": "",
+ "day": "10. évközi hét szombat",
+ "psalm": {
+  "cite": "15,l-2a és 5.7-8.9-10",
+  "response": "Istenem, te vagy, nékem az én örökségem.",
+  "verses": [
+   "Istenem, oltalmazz engem, mert benned bízom!\nAzt mondom Uramnak: „Istenem te vagy nékem.”\nIsten az én osztályrészem és sorsom kelyhe:\nörökségemet tőle várom.",
+   "Áldom az Urat, mert tanácsot adott nekem,\néjjel-nappal erre tanít szívem mélye.\nMindenkor Istent tartom szemem előtt;\njobbomon ő áll, semmitől sem félek.",
+   "Örvend a szívem, és dalt zeng a lelkem,\nsőt testem is megnyugszik bízva,\nmert nem hagyod lelkem az alvilág mélyén,\nés testemnek romlás nem árthat."
+  ]
+ },
+ "alleluia": {
+  "text": "Hajlítsd szívemet döntéseidre, Istenem, jóságosan add nekem törvényedet!",
+  "cite": "Zsolt 118,36a.29b"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Jézus megrója az égre-földre esküdöző embert.",
+  "text": "Jézus a hegyi beszédben ezt mondta tanítványainak:\n\nHallottátok, hogy ezt is mondták a régieknek: „Hamisan ne esküdj, és tartsd meg az Úrnak tett esküdet!” Én pedig azt mondom nektek: Egyáltalán ne esküdjetek! Sem az égre, mert az az Isten trónja, sem a Földre, mert az lábának zsámolya, se Jeruzsálemre, mert az a nagy Király városa! De még saját fejedre se esküdj, mert egyetlen hajszáladat sem tudod ősszé vagy feketévé tenni. Legyen a ti beszédetek „igen, igen, nem, nem”; ami ettől eltér, az a gonosztól van.",
+  "cite": "Mt 5,33-37"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "a Királyok első könyvéből",
+  "summary": "Illés próféta tanítványául választja Elizeust.",
+  "text": "Illés visszatért Hóreb hegyéről, és megtalálta Elizeust, Sáfát fiát. Éppen szántott, tizenkét pár ökör haladt előtte, maga pedig a tizenkettedik pár mögött haladt. Illés odament hozzá és rátette köntösét. Elizeus otthagyta az ökröket, Illés után szaladt, és így szólt: „Engedd, hadd adjak előbb búcsúcsókot apámnak meg anyámnak, aztán követlek.” Ő azt mondta neki: „Menj csak, de térj vissza! Ne feledd, hogy mit tettem veled!”\n\nAzzal Elizeus elment, fogta az egyik pár ökröt, feláldozta, majd az ökrök igájának fájával megfőzte a húst, és odaadta az embereknek, hogy megegyék. Azután elindult, Illés nyomába szegődött, és szolgája lett.",
+  "cite": "1Kir 19,19-21"
+ }
+}

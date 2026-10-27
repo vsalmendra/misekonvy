@@ -1,0 +1,32 @@
+{
+ "key": "evkozi-9-5-II",
+ "source_date": "2026-06-05",
+ "rank": "",
+ "day": "9. évközi hét péntek",
+ "psalm": {
+  "cite": "Zsolt 118,157.160.161.165.166.168",
+  "response": "Békességben élnek, Uram, akik szeretik törvényedet.",
+  "verses": [
+   "Sokan üldöznek és szorongatnak engem,\nde törvényeidtől el nem térek.\nAz igazság a te igéd alapja,\nminden ítéleted igaz mindörökké.",
+   "A fejedelmek ok nélkül vesztemre törnek,\nde szívem csak szavadat féli.\nBékességben élnek, akik törvényedet szeretik,\nnem botlanak meg semmiben.",
+   "Szabadításodat várom, Uram,\nparancsaidat híven követem.\nVégzéseidet és parancsaidat megtartom,\nútjaim színed előtt vannak."
+  ]
+ },
+ "alleluia": {
+  "text": "Aki szeret engem, megfogadja szavamat. Atyám is szeretni fogja, és hozzá költözünk.",
+  "cite": "Jn 14,23"
+ },
+ "gospel": {
+  "book": "Szent Márk",
+  "summary": "A Messiás Isten Fia, és így Ura ősatyjának, Dávidnak is.",
+  "text": "Amikor Jézus egy alkalommal a templomban tanított, ezt a kérdést vetette fel:\n\n„Hogyan mondhatják az írástudók, hogy a Messiás Dávidnak a fia? Hiszen maga Dávid mondja a Szentlélek által: Így szól az Úr az én Uramhoz:\n\n»Jobbom felől foglalj helyet, míg lábaid alá vetem ellenségeidet.«\n\nHa tehát maga Dávid a Messiást Urának nevezi, akkor hogyan lehet az ő fia?”\n\nA nagy népsokaság szívesen hallgatta Jézust.",
+  "cite": "Mk 12,35-37"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak Timóteushoz írt második leveléből",
+  "summary": "Mindannak, aki hűséges akar maradni Krisztushoz, áldozatot kell vállalnia",
+  "text": "Szeretett Fiam!\n\nTe követted tanításomat, életmódomat, elhatározásomat, hitemet, béketűrésemet, szeretetemet, türelmemet, és részt vettél üldöztetéseimben és szenvedéseimben. Tudod, hogy mi minden történt velem Antiochiában, Ikóniumban, Lisztrában, és milyen üldöztetéseket álltam ki! De mindezekből kiszabadított engem az Úr! Hiszen mindazok, akik buzgón akarnak élni Krisztus Jézusban, üldözést fognak szenvedni! A gonosz emberek és a csalók viszont egyre mélyebbre süllyednek a gonoszságban, tévelyegnek és másokat is a tévelygésbe vezetnek.\n\nTe azonban tarts ki amellett, amit tanultál, és amiről meggyőződtél, hiszen tudod, kitől tanultad. Gyermekkorod óta ismered a Szentírást: ez megadja neked az útmutatást ahhoz, hogy a Krisztus Jézusba vetett hit által eljuss az üdvösségre.\n\nMinden írás, amelyet az Isten sugalmazott, hasznos a tanításra, az érvelésre, a feddésre s az igaz életre való nevelésre, hogy az Isten embere tökéletes és minden jóra kész legyen.",
+  "cite": "2Tim 3,10-17"
+ }
+}

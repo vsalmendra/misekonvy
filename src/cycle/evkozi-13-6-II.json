@@ -1,0 +1,32 @@
+{
+ "key": "evkozi-13-6-II",
+ "source_date": "2026-07-04",
+ "rank": "",
+ "day": "13. évközi hét szombat",
+ "psalm": {
+  "cite": "Zsolt 84,9.11-12.13-14",
+  "response": "A mi Urunk, Istenünk békét hirdet népének.",
+  "verses": [
+   "Hadd halljam, mit mond az én Uram, Istenem, † mert népének és szentjeinek békét ígér,\nazoknak, akik szívből hozzá térnek.",
+   "Irgalom és hűség majd egymásra lelnek,\ncsókot vált az igazság és a béke.\nA földből a hűség kisarjad,\nés az igazságosság tekint le az égből.",
+   "Az Úr jóságát megmutatja,\nföldünk is meghozza termését.\nIgazság jár az Úr előtt,\nés béke a lába nyomában."
+  ]
+ },
+ "alleluia": {
+  "text": "Jézus mondja: „Juhaim hallgatnak szavamra; ismerem őket, és ők a nyomomban járnak.”",
+  "cite": "Jn 10,27"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Jézus tanítása új lelkületet kíván követőitől.",
+  "text": "Keresztelő János tanítványai egyszer Jézushoz járultak, és megkérdezték tőle: „Miért van az, hogy mi és a farizeusok gyakran böjtölünk, a te tanítványaid viszont nem tartanak böjtöt?”\n\nJézus így felelt nekik: „Vajon szomorkodhat-e a násznép, amíg velük van a vőlegény? Eljönnek a napok, amikor elviszik tőlük a vőlegényt, akkor majd böjtölnek.\n\nSenki sem tesz régi ruhára új szövetből foltot, mert az új szövet kiszakítja a régit, és a szakadás még nagyobb lesz. Új bort sem töltenek régi tömlőkbe: mert így kiszakadnak a tömlők, a bor kiömlik, és a tömlők is tönkremennek. Az új bor új tömlőkbe való; akkor mindkettő megmarad.”",
+  "cite": "Mt 9,14-17"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Ámosz próféta könyvéből",
+  "summary": "A próféta meghirdeti a boldog messiási idők eljövetelét.",
+  "text": "Az eljövendő boldog élet képét így tárja elénk az Úr:\n\nAzon a napon felállítom Dávidnak leomlott hajlékát, és kijavítom falainak repedéseit, mindazt, amije romba dőlt, megújítom, és ismét felépítem, mint hajdan volt, hogy birtokukba vegyék Edom maradványait és az összes nemzetet, ahol segítségül hívták a nevemet, – mondja az Úr, aki ezt végrehajtja.\n\nÍme, jönnek napok – mondja az Úr –, a szántóvető utoléri az aratót, a szőlőtaposó a magvetőt; a hegyek édes musttól csepegnek, és minden dombot megművelnek.\n\nJóra fordítom népemnek, Izraelnek sorsát, s felépítik az elhagyott városokat, és lakni fognak bennük; szőlőt ültetnek és borát isszák, kerteket telepítenek és gyümölcsüket eszik.\n\nÉn elültetem őket földjükön, és nem tépik ki őket többé földjükről, melyet nekik adtam – mondja az Úr, a te Istened.",
+  "cite": "Ám 9,11-15"
+ }
+}

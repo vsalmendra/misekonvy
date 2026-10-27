@@ -1,0 +1,33 @@
+{
+ "key": "nagybojt-2-4",
+ "source_date": "2026-03-05",
+ "rank": "",
+ "day": "2. nagyböjti hét csütörtök",
+ "psalm": {
+  "cite": "Zsolt 1,1-2.3.4 és 6",
+  "response": "Boldog az az ember, aki az Úrban bízik.",
+  "verses": [
+   "Boldog ember, aki nem követi a gonoszok tanácsát, † nem lép a bűnösök útjára,\na gúnyolódok körében nem foglal helyet,\nhanem az Úr törvényében leli örömét,\naz ő parancsairól elmélkedik éjjel és nappal.",
+   "Olyan, mint a fa, melyet folyóvíz mellé ültettek,\nmely idejében gyümölcsöt érlel.\nNem fonnyad el a lombja,\nsiker koronázza minden tettét.",
+   "Nem így járnak a gonoszok, nem így,\nhanem mint a polyva, melyet szétszór a szél,\nmert az Úr őrzi az igazak útját,\na gonoszok útja pusztulás."
+  ]
+ },
+ "alleluia": {
+  "text": "Boldogok, akik jó szívvel fogadják Isten igéjét, és állhatatosságukkal gyümölcsöt hoznak.",
+  "cite": "Vö. Lk 8,15",
+  "lent": true
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "A dúsgazdag meg a szegény Lázár.",
+  "text": "Egy alkalommal Jézus ezt a példabeszédet mondta el a farizeusoknak:\n\n„Volt egy gazdag ember. Bíborba és patyolatba öltözködött, és mindennap dúsan lakmározott. Volt egy Lázár nevű koldus is, ez ott feküdt a gazdag kapuja előtt, tele fekéllyel. Szívesen jóllakott volna az ételmaradékból, amely a gazdag ember asztaláról lehullott, de abból sem adtak neki. Csak a kutyák jöttek, és nyalogatták a sebeit.\n\nMeghalt a koldus, és az angyalok Ábrahám kebelére vitték. A gazdag is meghalt, és eltemették. A pokolban, amikor nagy kínjai közt feltekintett, meglátta messziről Ábrahámot és a keblén Lázárt.\n\nFelkiáltott: »Atyám, Ábrahám! Könyörülj rajtam! Küldd el Lázárt, hogy ujja hegyét vízbe mártva hűsítse nyelvemet. Iszonyúan gyötrődöm ezekben a lángokban.«\n\n»Fiam – felelte Ábrahám –, emlékezzél rá, hogy milyen jó dolgod volt életedben, Lázárnak meg mennyi jutott a rosszból. Most ő itt vigasztalódik, te pedig odaát gyötrődöl.\n\nAzonfelül köztünk és köztetek nagy szakadék tátong, hogy aki innét át akarna menni hozzátok, ne tudjon, se onnét ne tudjon hozzánk átjönni senki.«\n\n»Akkor arra kérlek, atyám – kiáltotta újra –, küldd el őt atyai házunkba, ahol még öt testvérem él. Tegyen bizonyságot előttük, nehogy ők is idejussanak a gyötrelmek helyére.«\n\nÁbrahám ezt felelte: »Van Mózesük és vannak prófétáik. Azokra hallgassanak.« Ám az erősködött: »Nem teszik, atyám, Ábrahám! De ha valaki, a halottak közül elmenne hozzájuk, bűnbánatot tartanának.«\n\nŐ azonban így felelt: »Ha Mózesre és a prófétákra nem hallgatnak, akkor még ha a halottak közül támad is fel valaki, annak sem hisznek.«”",
+  "cite": "Lk 16,19-31"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Jeremiás próféta könyvéből",
+  "summary": "Csak Istenben bízzunk, ő a mi egyetlen és örök szövetségesünk!\nTőle nyerjük örök életünket.",
+  "text": "Amikor a király szövetségeseket keresett,\n\nprófétája által így szólt az Úr:\n\nÁtkozott az az ember, aki emberben bízik,\n\naki halandóra támaszkodik,\n\nés akinek szíve elfordul az Úrtól.\n\nOlyan lesz, mint a cserje a pusztában:\n\nsemmi jót nem várhat,\n\na kiaszott sivatagban tanyázik,\n\nsós és lakhatatlan földön.\n\nÁldott az az ember, aki az Úrban bízik,\n\nakinek az Úrban van a reménye.\n\nOlyan lesz, mint a víz mellé ültetett fa,\n\namely gyökereit egészen a folyóig ereszti.\n\nHa jön a hőség, nem kell félnie,\n\nlombja mindig zöldellni fog.\n\nSzárazság idején sem kell aggódnia,\n\nakkor sem szűnik meg gyümölcsöt teremni.\n\nCsalárdabb az emberi szív mindennél,\n\nés tele van gonoszsággal.\n\nKi lát bele titkos rejtekeibe?\n\nÉn, az Úr, aki a szíveket vizsgálom,\n\nés kikutatom a veséket,\n\nhogy megfizessek kinek-kinek\n\néletmódja és tetteinek gyümölcse szerint.",
+  "cite": "Jer 17,5-10"
+ }
+}

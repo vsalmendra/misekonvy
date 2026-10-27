@@ -1,0 +1,40 @@
+{
+ "key": "fix-10-08",
+ "source_date": "2026-10-08",
+ "rank": "FÜ",
+ "day": "Szűz Mária, Magyarok Nagyasszonya, Magyarország főpátrónája – FÜ",
+ "psalm": {
+  "cite": "Jud 13,18-19",
+  "response": "Szent Fiadat, Boldogasszony, kérd e népért!",
+  "verses": [
+   "Vagy: Alleluja. 1. szám.\nAz Úr, a fölséges Isten,\na föld minden asszonyánál jobban megáldott, leányom, téged.\nÁldott legyen Isten, az ég és föld alkotója,\naki ellenségeink színe előtt dicsőségessé tett ma téged!",
+   "Vagy: Alleluja.\nMert nem szűnik meg dicséreted az emberek ajkán,\nakik megemlékeznek az Úr hatalmáról.\nFordítsa ezt Isten örök dicsőségedre, és áldjon meg minden jóval mindörökké,\nmivel nem kímélted életedet, amikor megaláztatásban volt részünk.",
+   "Vagy: Alleluja.\nMegakadályoztad néped pusztulását,\nmikor Isten színe előtt az igaz úton jártál.",
+   "Vagy: Alleluja."
+  ]
+ },
+ "alleluia": {
+  "text": "Üdvöz légy, Mária, kegyelemmel teljes, az Úr van véled, áldottabb vagy te minden asszonynál, Lk 1,28",
+  "cite": ""
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Isten feltárta örök tervét Mária előtt, hogy őt választotta a Megváltó anyjának.",
+  "text": "Abban az időben:\n\nIsten elküldte Gábor angyalt Galilea Názáret nevű városába egy szűzhöz, aki jegyese volt egy férfinak, a Dávid házából való Józsefnek. A szűz neve Mária volt. Az angyal belépett hozzá és így szólt: „Üdvöz légy, kegyelemmel teljes! Az Úr veled van! Áldottabb vagy te minden asszonynál!”",
+  "cite": "Lk 1,26-28"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Sirák fiának könyvéből",
+  "summary": "Mária reménységünk az életre és minden erényre.",
+  "text": "Jó illatot fakasztok én, mint a szőlőtő, és virágaimból pompás, dús gyümölcs terem.\n\nAnyja vagyok én a szép szeretetnek, az istenfélelemnek, a hitnek és a szent reménynek.\n\nNálam van az út és az igazság minden kegyelme, nálam az élet és erény minden reménye.\n\nJertek hozzám mind, akik megkívántok engem, és teljetek el gyümölcseimmel.\n\nMert lelkem édesebb a méznél, és birtoklásom a lépes méznél!\n\nEmlékezetem él minden idők nemzedékeiben.\n\nAkik engem esznek, még inkább éheznek, akik engem isznak, még inkább szomjaznak.\n\nAki reám hallgat, meg nem szégyenül, akik értem fáradnak, nem esnek bűnbe.\n\nAkik fényt derítenek rám, örök életet nyernek.",
+  "cite": "Sir 24,23-31"
+ },
+ "reading2": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a galatákhoz írt leveléből",
+  "summary": "Isten elküldte Fiát, aki asszonytól született.",
+  "text": "Testvéreim!\n\nAmikor elérkezett az idők teljessége, Isten elküldte Fiát, aki asszonytól született, alávetette magát a mózesi törvénynek, hogy felszabadítson minket a törvény szolgaságából, és a fogadott fiúságot elnyerjük.\n\nMivel pedig Isten fiai vagyunk, Isten szívünkbe elküldte Fiának Lelkét, aki ezt kiáltja: „Abba! Atyám!”\n\nNem vagy tehát többé szolga, hanem fiú, és ha fiú, akkor Isten kegyelméből örökös is.",
+  "cite": "Gal 4,4-7"
+ }
+}

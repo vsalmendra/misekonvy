@@ -1,0 +1,33 @@
+{
+ "key": "evkozi-26-5-II",
+ "source_date": "2026-10-02",
+ "rank": "",
+ "day": "26. évközi hét péntek",
+ "psalm": {
+  "cite": "Zsolt 138,1-3.7-10.13-14ab",
+  "response": "Vezess engem, Uram, az örök élet biztos útján!",
+  "verses": [
+   "Uram, te megvizsgálsz, és jól ismersz engem,\ntudod, ha leülök, vagy ha fölkelek.\nGondolataimat messziről is ismered, † szemmel tartod jártomat-keltemet,\njól látod minden utamat.",
+   "Lelked elől ugyan hová mehetnék?\nSzíned elől hová futhatnék?\nHa fölszállnék az égbe, te ott vagy,\nha a holtak hazájában pihennék, ott is jelen vagy.",
+   "Ha felölteném a hajnal szárnyait,\nés a tenger túlsó végén laknék,\noda is a te kezed vezetne,\nés jobbod tartana engem.",
+   "Egész bensőmet te alkottad,\nanyám méhében te szőttél egybe engem.\nMagasztallak, hogy oly csodásán alkottál, † csodálatos minden műved,\nlelkem jól tudja mindezt."
+  ]
+ },
+ "alleluia": {
+  "text": "Bár hallgatnátok ma Isten szavára! Ne legyetek többé keményszívűek!",
+  "cite": "Zsolt 94,8ab"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Jézus jajt kiált azokra, akiket elvakított a gőg, és elutasították az evangélium üzenetét.",
+  "text": "Jézus egy alkalommal így szólt tanítványai előtt: „Jaj, neked, Korozain! Jaj, neked, Betszaida! Ha a pogány Tiruszban és Szidonban történtek volna azok a csodák, amelyek nálatok történtek, már rég szőrzsákban és hamuban tartottak volna bűnbánatot. Ezért Tirusznak és Szidonnak tűrhetőbb sorsa lesz az ítéleten, mint nektek.\n\nÉs te Kafarnaum? Vajon az égig emelkedel? Egészen az alvilágig fogsz süllyedni.”\n\nMajd így folytatta: „Aki titeket hallgat, engem hallgat; és aki titeket megvet, engem vet meg. Aki pedig engem megvet, azt veti meg, aki küldött engem.”",
+  "cite": "Lk 10,13-16"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Jób könyvéből",
+  "summary": "Isten maga nyilatkoztatja ki erejét és fölségét a teremtett világ csodálatra méltó dolgaiban.",
+  "text": "Az Úr így felelt Jóbnak a fergetegből: „Lett-e már parancsodra reggel, amióta élsz, és kijelölted-e a hajnalpír helyét, hogy szőnyegként megfogja a földnek széleit, és lerázzon róla minden éji gonosztevőt; hogy a reggeltől a föld olyan legyen, ahogyan a vöröses agyag ragyog a pecsét alatt, és színeket öltsön, miként a ruha; hogy elvegye a gonoszoktól »világosságukat«, és megtörje a bűnre emelt karjuk erejét?\n\nVoltál-e már a tenger mélységeiben, jártál-e már az óceán legmélyén?\n\nA halál kapui előtted megnyíltak-e már, és láttad-e az alvilág bejáratát?\n\nSzemlélted-e a földet igaz terjedelmében?\n\nMagyarázd meg nekem mindezt, ha tudod!\n\nMelyik út visz oda, ahol a fény lakik, és a sötétségnek hol a lakóhelye, hogy elkísérhetnéd őket otthonukba, és hazavezethetnéd őket a házukba?\n\nTe persze mindezt jól tudod, hisz akkor születtél, és életed napjainak száma is rengeteg!”\n\nJób akkor ezt mondta az Úrnak: „Mit feleljek én, aki könnyelműen szóltam?\n\nKezemet a számra teszem, és hallgatok.\n\nEgyszer szóltam; bár azt is elhagytam volna!\n\nMeg másodszor is. De többé nem teszem!”",
+  "cite": "Jób 38,1.12-21;40,3-5"
+ }
+}

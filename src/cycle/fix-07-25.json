@@ -1,0 +1,33 @@
+{
+ "key": "fix-07-25",
+ "source_date": "2026-07-25",
+ "rank": "Ü",
+ "day": "Szent Jakab apostol – Ü",
+ "psalm": {
+  "cite": "Zsolt 125,l-2ab.2cd-3.4-5.6",
+  "response": "Akik könnyek között vetnek, majd ujjongva aratnak.",
+  "verses": [
+   "Midőn az Úr hazahívta Sionnak foglyait,\nolyanok voltunk, mint akik álmodnak.\nMegtelt akkor örömmel az ajkunk,\nés a nyelvünk ujjongással.",
+   "Akkor így beszéltek a nemzetek:\n„Az Úr nagy dolgot művelt vélük.”\nHatalmas dolgot művelt az Úr vélünk,\nazért szívből ujjongunk.",
+   "Fordítsd, Uram, jóra sorsunkat,\namint megárasztod délen a folyókat.\nAkik könnyek között vetnek,\nmajd ujjongva aratnak.",
+   "Sírva viszik a magot, mikor vetni indulnak,\nde ujjongva jönnek, jönnek és hozzák kévéiket."
+  ]
+ },
+ "alleluia": {
+  "text": "Én választottalak titeket a világból, hogy menjetek és gyümölcsöt teremjetek, és gyümölcsötök maradandó legyen, mondja az Úr.",
+  "cite": "Jn 15,16"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Készek vagytok-e kiinni azt a kelyhet, amelyet nekem ki kell innom?",
+  "text": "Jézus Jeruzsálembe indult. Útközben odalépett hozzá a Zebedeus fiúknak (Jakab és János apostoloknak) anyja, fiaival együtt, és leborult előtte, hogy kérjen valamit. Jézus megkérdezte tőle: „Mit kívánsz?”\n\nŐ azt felelte: „Intézd úgy, (Uram,) hogy az én két fiam országodban melletted üljön: az egyik jobbodon, a másik pedig bal oldaladon.”\n\nJézus így válaszolt nekik: „Nem tudjátok, hogy mit kértek. Készek vagytok-e arra, hogy kiigyátok azt a kelyhet, amelyet nekem ki kell innom?”\n\n„Készek vagyunk!” – felelték.\n\nJézus erre így folytatta: „A szenvedések kelyhét velem együtt kiisszátok majd. De hogy ki üljön mellettem jobb és bal felől, azt nem én döntöm el. Azok ülnek majd ott, akiket mennyei Atyám erre kiválasztott.”\n\nAmikor a többi tíz (apostol) ezt meghallotta, méltatlankodni kezdett a testvérpár viselkedése miatt. Jézus magához hívta őket, és így szólt hozzájuk: „Tudjátok, hogy a pogányoknál hogyan hatalmaskodnak a vezető emberek: akinek nagyobb a rangja, érezteti a hatalmát. Nálatok ne így legyen! Aki köztetek nagyobb akar lenni, legyen a szolgátok! És aki első akar lenni, legyen a cselédetek! Az Emberfia sem azért jött, hogy neki szolgáljanak, hanem hogy ő szolgáljon másoknak, és odaadja életét váltságul mindenkiért.”",
+  "cite": "Mt 20,20-28"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a korintusiakhoz írt második leveléből",
+  "summary": "Testünkben Jézus szenvedését hordozzuk szüntelen.",
+  "text": "Testvéreim!\n\nA hit és a kegyelem kincsét törékeny cserépedényben őrizzük, hogy a rendkívüli erőt Istennek tulajdonítsuk, és ne önmagunknak. Mindenfelől szorongatnak minket, de agyon nem nyomnak; bizonytalanságban vagyunk, de nem esünk kétségbe; üldözést szenvedünk, de elhagyatottak nem vagyunk; földre terítenek, de el nem veszünk; állandóan hordozzuk testünkben Jézus halálát, hogy Jézus élete is nyilvánvaló legyen testünkben. Mert minket, akik élünk, szüntelenül halálra adnak Jézusért, hogy Jézus élete is nyilvánvaló legyen halandó testünkön. Bennünk tehát a halál munkálkodik, bennetek pedig az élet.\n\nMivel azonban a hitnek ugyanaz a lelke van bennünk, mint amelyről írva van: „Hittem, azért szóltam”, mi is hiszünk, és ezért beszélünk. Hiszen tudjuk, hogy aki az Úr Jézust feltámasztotta, Jézussal együtt minket is feltámaszt majd, és veletek együtt elébe állít. Mert minden értetek van, hogy a kegyelem bőséges kiáradásáért egyre többen adjanak hálát Isten dicsőségére.",
+  "cite": "2Kor 4,7-15"
+ }
+}

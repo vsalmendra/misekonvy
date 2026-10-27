@@ -1,0 +1,32 @@
+{
+ "key": "husvet-3-5",
+ "source_date": "2026-04-24",
+ "rank": "",
+ "day": "húsvét 3. hét péntek",
+ "psalm": {
+  "cite": "Zsolt 116,1.2.",
+  "response": "Menjetek el az egész világra, és hirdessétek az evangéliumot!",
+  "verses": [
+   "Vagy: Alleluja. 8. szám.\nDicsérjétek az Urat, minden népek,\nmagasztaljátok őt, minden nemzetek.",
+   "Vagy: Alleluja.\nMert erős rajtunk az ő irgalma,\nés az ő hűsége örökké megmarad.",
+   "Vagy: Alleluja."
+  ]
+ },
+ "alleluia": {
+  "text": "Jézus mondja: „Aki eszi az én testemet, és issza az én véremet, az bennem marad és én őbenne.”",
+  "cite": "Jn 6,56"
+ },
+ "gospel": {
+  "book": "Szent János",
+  "summary": "Jézus teste az Eucharisztiában valóban ételünk, vére italunk.",
+  "text": "Amikor Kafarnaumban Jézus az élet kenyerének mondta önmagát, vita támadt a zsidók között: „Hogyan adhatja ez testét eledelül nekünk?” – kérdezték.\n\nJézus így felelt nekik: „Bizony, bizony, mondom nektek: Ha nem eszitek az Emberfia testét, és nem isszátok az ő vérét, nem lesz élet bennetek. Aki eszi az én testemet, és issza az én véremet, annak örök élete van és én feltámasztom őt az utolsó napon. Az én testem ugyanis valóban étel és az én vérem valóban ital. Aki eszi az én testemet és issza az én véremet, az bennem marad és én őbenne.\n\nAmint engem az élő Atya küldött, és én az Atya által élek, úgy az is, aki engem eszik, énáltalam él.\n\nEz a mennyből alászállott kenyér. Nem az, amelyet atyáitok ettek, és meghaltak. Aki ezt a kenyeret eszi, örökké él.”\n\nÍgy tanított Jézus a kafarnaumi zsinagógában.",
+  "cite": "Jn 6,52-59"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "az Apostolok Cselekedeteiből",
+  "summary": "Isten kiválasztja Sault a nemzetek apostolának.",
+  "text": "A jeruzsálemi keresztényüldözés idején Saul még mindig dühtől lihegve halálra kereste az Úr tanítványait. Elment a főpaphoz, és arra kérte, adjon neki ajánlólevelet a damaszkuszi zsinagógához. Az volt a szándéka, hogy elfogja és Jeruzsálembe viszi azokat a férfiakat és nőket, akikről kideríti, hogy az új hit követői.\n\nMár közel járt Damaszkuszhoz, amikor egyszerre mennyei fény vette körül. A földre esett, és hallotta, hogy egy hang így szól hozzá: „Saul, Saul, miért üldözöl engem?”\n\nErre ő megkérdezte: „Ki vagy te, Uram?”\n\nA hang folytatta: „Én vagyok Jézus, akit te üldözöl. Állj fel, menj be a városba! Ott majd megmondják neked, mit kell tenned.”\n\nAz útitársak ijedtükben némán álltak, mert hallották ugyan a hangot, de senkit sem láttak. Saul pedig fölkelt a földről, kinyitotta a szemét, de semmit sem látott. Kézenfogva vezették be Damaszkuszba. Három napig nem látott, nem evett és nem ivott.\n\nÉlt akkor Damaszkuszban egy Ananiás nevű tanítvány. Látomásban így szólt hozzá az Úr: „Ananiás!” „Itt vagyok, Uram!” – felelte.\n\nAz Úr pedig folytatta: „Menj az Egyenes-utcába! Keresd meg Júdás házában a tarzusi Sault! Nézd, éppen imádkozik!”\n\nUgyanekkor Saulnak is látomása volt: Ananiást látta, ahogy belép őhozzá, és ráteszi kezét, hogy visszanyerje látását.\n\nAnaniás ekkor így tiltakozott az Úr előtt: „Uram, sokaktól hallottam, hogy ez az ember mennyi gonoszságot követett el Jeruzsálemben szentjeid ellen. Felhatalmazása van a főpapoktól, hogy itt is elfogjon mindenkit, aki segítségül hívja nevedet.”\n\nAz Úr ezt válaszolta neki: „Menj csak, mert őt választottam eszközül, hogy hirdesse nevemet a pogányoknak, a királyoknak és a választott nép fiainak. Megmutatom majd neki, mennyit kell értem szenvednie.”\n\nAnaniás elment. Belépett a házba, rátette kezét Saulra, és így beszélt hozzá: „Saul testvér! Urunk, Jézus, aki megjelent neked idejövet az úton, ő küldött ide engem, hogy visszanyerd látásodat, és eltelj a Szentlélekkel.”\n\nHirtelen mintha valami hályogféle hullott volna le a szeméről. Visszanyerte látását. Megkeresztelkedett, majd ételt vett magához, és erőre kapott. Néhány napig a damaszkuszi tanítványok között maradt, aztán hirdetni kezdte a zsinagógákban, hogy Jézus az Isten Fia.",
+  "cite": "ApCsel 9,1-20"
+ }
+}

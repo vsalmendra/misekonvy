@@ -1,0 +1,38 @@
+{
+ "key": "fix-09-08",
+ "source_date": "2026-09-08",
+ "rank": "Ü",
+ "day": "Szűz Mária születése (Kisboldogasszony) – Ü",
+ "psalm": {
+  "cite": "Zsolt 12,6ab.6cd",
+  "response": "Vidáman dobban a szívem: Örvendek az Úr színe előtt.",
+  "verses": [
+   "Ne örüljön ellenségem, hogy elestem,\nmert irgalmadban bizakodtam.",
+   "Szívem ujjong, hogy szabadítom leszel nékem,\néneket zeng az Úrnak, mert jót tesz vélem."
+  ]
+ },
+ "alleluia": {
+  "text": "Boldog vagy, Szűz Mária, és minden dicséretre méltó, mert tőled virradt ránk az igazság napja: Krisztus, a mi Istenünk.",
+  "cite": ""
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Mária gyermeket fogant a Szentlélektől.",
+  "text": "Jézus Krisztusnak, Dávid és Ábrahám fiának családfája:\n\nÁbrahámnak Izsák volt a fia, Izsáknak Jákob, Jákobnak Júda és testvérei, Júdának Fáresz és Zára Támártól, Fáresznek Eszróm, Eszrómnak Árám, Árámnak Aminadáb, Aminadábnak Náásszón, Náásszónnak Szalmon, Szalmonnak Bóász Ráhábtól, Bóásznak Jóbéd Ruttól, Jóbédnek Izáj, Izájnak pedig Dávid király.\n\nDávidnak Salamon volt a fia Uriás feleségétől, Salamonnak Roboám, Roboámnak Abija, Abijának Ászáf, Ászáfnak Jozafát, Jozafátnak Jórám, Jórámnak Ozijás, Ozijásnak Joatám, Joatámnak Acház, Acháznak Ezekiás, Ezekiásnak Manasszesz, Manasszesznek Ámósz, Ámósznak Joziás, Joziásnak pedig Jekoniás és testvérei a babiloni fogság idején.\n\nA babiloni fogság után: Jekoniásnak Szálátiél volt a fia, Szálátiélnek Zorobábel, Zorobábelnek Ábiud, Ábiudnak Elijakim, Elijakimnak Ázór, Ázórnak Szádok, Szádoknak Áhim, Áhimnak Eliud, Eliudnak Eleazár, Eleazárnak Mattán, Mattánnak Jákob, Jákobnak pedig József. Ő volt a férje Máriának, akitől a Krisztusnak nevezett Jézus született.\n\nJézus Krisztus születése pedig így történt: Anyja, Mária jegyese volt Józsefnek. Mielőtt azonban egybekeltek volna, kitűnt, hogy Mária gyermeket fogant méhében a Szentlélektől. A férje, József igaz ember volt, nem akarta őt megszégyeníteni, ezért úgy határozott, hogy titokban bocsátja el. Míg ezen töprengett, megjelent neki álmában az Úr angyala, és így szólt: „József, Dávid fia, ne félj attól, hogy feleségül vedd Máriát, mert a benne fogant élet a Szentlélektől van. Fia születik majd, akit Jézusnak nevezel, mert ő váltja meg a népét bűneitől.”\n\nMindez pedig azért történt, hogy beteljesedjék, amit az Úr a próféta által mondott:\n\nÍme, a szűz gyermeket fogan és fiút szül, és az Emmánuel nevet adják neki, ami azt jelenti: „Velünk az Isten.”",
+  "cite": "Mt 1,1-16.18-23"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Mikeás próféta könyvéből",
+  "summary": "Eljön az idő, amikor Betlehemben megszületik a Messiás.",
+  "text": "Ezt mondja az Úr:\n\nTe, efratai Betlehem, bár a legkisebb vagy Júda nemzetségei között, mégis belőled születik majd nekem, aki uralkodni fog Izrael felett.\n\nSzármazása az ősidőkre, a régmúlt időkre nyúlik vissza.\n\nEzért elhagyja őket az Úr, míg nem szül, akinek szülnie kell, és testvéréhez, Izrael fiaihoz vissza nem tér a maradék.\n\nFöllép és legelteti nyáját az Úr erejében, az Úrnak, az ő Istenének, fenséges nevében.\n\nAkkor biztonságban élnek, mert hatalmát kiterjeszti egészen a föld határáig: és ez lesz a béke.",
+  "cite": "Mik 5,1-4a"
+ },
+ "reading2": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a rómaiakhoz írt leveléből",
+  "summary": "Isten arra rendelt minket, hogy Fiának képmását öltsük magunkra.",
+  "text": "Testvéreim!\n\nTudjuk, hogy az Istent szeretőknek minden a javukra válik, hiszen ő saját elhatározásából választotta ki őket. Akiket ugyanis előre ismert, azokat eleve arra rendelte, hogy Fiának képmását öltsék magukra. Így lesz ő elsőszülött a sok testvér között Akiket előre erre rendelt, azokat meg is hívta, akiket meghívott, azokat igazzá tette, akiket pedig igazzá tett, azokat meg is dicsőítette.",
+  "cite": "Róm 8,28-30"
+ }
+}

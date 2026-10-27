@@ -1,0 +1,32 @@
+{
+ "key": "evkozi-1-6-II",
+ "source_date": "2026-01-17",
+ "rank": "",
+ "day": "1. évközi hét szombat",
+ "psalm": {
+  "cite": "Zsolt 20,2-7",
+  "response": "Hatalmadnak, Uram, örvend a király.",
+  "verses": [
+   "Hatalmadnak, Uram, örvend a király,\nés ujjongva ujjong segítséged miatt.\nBetöltötted szíve vágyát,\nnem tagadtad meg ajkának kérését.",
+   "Boldogító áldásoddal elébe siettél,\nszínarany koronát tettél a fejére.\nÉletet kért tőled, és te megadtad néki;\na napok hosszú sorát mindörökre.",
+   "Jóvoltodból körülveszi őt a dicsőség,\nfönséggel és dicsőséggel övezted.\nÁldássá tetted őt minden időkre,\nörömmel töltötted el színed előtt."
+  ]
+ },
+ "alleluia": {
+  "text": "Az Úr elküldött, hogy a szegényeknek örömhírt vigyek, és a bűn rabjainak szabad életet hirdessek.",
+  "cite": "Lk4,18-19"
+ },
+ "gospel": {
+  "book": "Szent Márk",
+  "summary": "Jézus azért jött a földre, hogy a bűnösöket bűnbánatra hívja.",
+  "text": "Miután Jézus meggyógyított egy bénát, kiment a Tibériás-tó partjára. Nagy sokaság tódult hozzá, ő pedig tanította őket.\n\nAmint Jézus elhaladt a vám mellett, észrevette, hogy ott ül Lévi, aki Alfeus fia volt. Odaszólt neki: „Kövess engem!” Lévi (akit Máténak is hívtak) felállt, és követte.\n\nKésőbb Jézus elment vendégségbe Lévi házába. Ott Jézussal és tanítványaival együtt sok vámos és nyilvános bűnös is asztalhoz telepedett, mert sokan oda is elkísérték. Amikor a farizeusok közül való írástudók látták, hogy Jézus együtt eszik a nyilvános bűnösökkel és a vámosokkal, ezzel a kérdéssel fordultak a tanítványokhoz: „Miért eszik és iszik a ti Mesteretek együtt a vámosokkal és a nyilvános bűnösökkel?”\n\nEnnek hallatára Jézus ezt válaszolta nekik: „Nem az egészségeseknek van szükségük orvosra, hanem a betegeknek. Én nem azért jöttem, hogy az igazakat hívjam, hanem a bűnösöket.”",
+  "cite": "Mk 2,13-17"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Sámuel első könyvéből",
+  "summary": "Az Úr Sault választja ki népe első királyává.",
+  "text": "Sámuel próféta bíráskodásának utolsó napjaiban élt egy Benjámin törzséből származó derék és vitéz férfiú, akinek Kis volt a neve. Atyja a benjaminita Ábiel volt; ősei pedig Szeror, Bekorát meg Áfia. Volt neki egy Saul nevű kiváló és derék fia. Nem volt annál derekabb ember Izrael összes fiai között: fejjel magasabb volt mindenkinél.\n\nÉppen ebben az időben elvesztek Kisnek, Saul atyjának szamarai. Kis ezért azt mondta fiának: „Vedd magad mellé az egyik szolgalegényt, indulj útnak, és keresd meg a szamarakat!”\n\nBejárták Efraim hegységét és Salisa földjét, de nem találták meg azokat. Jártak Sáálim földjén is, de hiába. Majd bejárták Benjámin területét is, mégse találták meg az állatokat.\n\nVégül a szolgalegény tanácsára Sámuelhez indultak, hogy az ő segítségét kérjék. A város kapujában találkoztak vele. Mihelyt Sámuel meglátta Sault, az Úr így szólt hozzá: „Íme, ez az az ember, akiről szólottam néked! Ő lesz népem uralkodója.”\n\nEkkor Saul a kapuban Sámuel elé lépett, és megkérdezte: „Mondd, kérlek, hol van a próféta háza?” Sámuel azt felelte neki: „Én vagyok a próféta. Menj fel előttem oda a dombtetőre, és tartsatok velem a mai napon! Reggel aztán elbocsátalak benneteket, és megmondom neked mindazt, amit tudni szeretnél.”\n\nMásnap reggel Sámuel fogott egy korsó olajat, ráöntötte Saul fejére, majd megcsókolta őt, és kijelentette neki: „Íme, az Úr téged kent fel népe fejedelmévé, és te szabadítod meg népét ellenségeinek kezéből, akik körülveszik.”",
+  "cite": "1Sám 9,1-4.17-19;10,1a"
+ }
+}

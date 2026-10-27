@@ -1,0 +1,34 @@
+{
+ "key": "husvet-1-1",
+ "source_date": "2026-04-06",
+ "rank": "",
+ "day": "Húsvéthétfő",
+ "psalm": {
+  "cite": "Zsolt 15,1-2a és 5.7-8.9-10.11",
+  "response": "Védelmezz engem, Istenem, hiszen tebenned bízom. 1 D",
+  "verses": [
+   "Vagy: Alleluja. 1. szám.\nIstenem, oltalmazz engem, mert benned bízom!\nAzt mondom Uramnak: „Istenem te vagy nékem.”\nIsten az én osztályrészem és sorsom kelyhe:\nörökségemet tőle várom.",
+   "Vagy: Alleluja.\nÁldom az Urat, mert tanácsot adott nekem,\néjjel-nappal erre tanít szívem mélye.\nMindenkor Istent tartom szemem előtt;\njobbomon ő áll, semmitől sem félek.",
+   "Vagy: Alleluja.\nÖrvend a szívem, és dalt zeng a lelkem,\nsőt testem is megnyugszik bízva,\nmert nem hagyod lelkem az alvilág mélyén,\nés testemnek romlás nem árthat.",
+   "Vagy: Alleluja.\nMegmutatod nekem az élet útját,\nés a végtelen boldogságot, midőn szent orcád látom.\nGyönyörűségre hívtál engem,\njobbod mellett szünet nélkül.",
+   "Vagy: Alleluja."
+  ]
+ },
+ "alleluia": {
+  "text": "Ezt a napot az Úristen adta. Ujjongjunk és vigadjunk rajta!",
+  "cite": "Zsolt 117,24"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Vigyétek hírül testvéreimnek, hogy menjenek Galileába.\nOtt viszontláthatnak engem.",
+  "text": "Húsvétvasárnap reggel az asszonyok sietve távoztak el Jézus sírjától. Félelemmel, de még nagyobb örömmel eltelve futottak, hogy értesítsék a tanítványokat.\n\nEgyszerre csak Jézus jött szembe velük, és megszólította őket: „Üdv nektek!” Az asszonyok odafutottak, leborultak előtte, és átkarolták a lábát. Jézus így szólt hozzájuk: „Ne féljetek! Siessetek, és vigyétek hírül a tanítványoknak, hogy menjenek Galileába! Ott majd viszontlátnak engem.”\n\nAz asszonyok még úton voltak, amikor néhány őr a városba ment, és jelentette a főpapoknak mindazt, ami történt. Ezek összehívták a nép vezetőit, és tanácsot tartottak. Azután sok pénzt adtak a katonáknak, és meghagyták nekik: „Mondjátok, hogy éjnek idején, amíg mi aludtunk, eljöttek Jézus tanítványai, és ellopták őt. Ha a helytartó tudomást szerez a dologról, mi majd megnyugtatjuk, és kimentünk titeket.”\n\nA katonák elfogadták a pénzt, és úgy tettek, amint kioktatták őket. Ez a beszéd a zsidóknál a mai napig el van terjedve.",
+  "cite": "Mt 28,8-15"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "az Apostolok Cselekedeteiből",
+  "summary": "Isten feltámasztotta Jézust, és ennek mi mindannyian tanúi vagyunk.",
+  "text": "Pünkösd napján Péter a tizenegy kíséretében előlépett, és hangos szóval így beszélt:\n\n„Zsidó férfiak és Jeruzsálem egész népe! Vegyétek tudomásul és figyelemmel hallgassátok meg szavamat! Izraelita férfiak, hallgassátok meg szavaimat!\n\nA názáreti Jézust az Isten igazolta előttetek, amikor, mint tudjátok, általa hatalmas csodákat és jeleket vitt végbe köztetek. Ezt az embert ti az Isten előre elhatározott terve szerint kiszolgáltattátok, gonosz kezek által keresztre feszítettétek, és megöltétek. Isten azonban feloldotta a halál bilincseit és feltámasztotta őt. Lehetetlen is volt, hogy a halál fogva tartsa, hiszen Dávid így jövendölt róla:\n\nSzemem előtt az Úr mindenkoron,\n\nő áll jobbomon, meg nem inoghatok.\n\nÖrvend a szívem, az ajkam énekel,\n\nsőt reménységben nyugszik testem is.\n\nLelkemet a holtak honában nem hagyod,\n\nhogy Szented romlást lásson, nem akarod.\n\nAz élet útját mutatod meg nekem,\n\nszíned előtt örülni gyönyörűségem.\n\nFérfiak, testvérek! Ősatyánkról, Dávidról, nyíltan beszélhetek előttetek. Ő meghalt. Eltemették, és sírja mind a mai napig itt van közöttünk. De mivel próféta volt, tudta, hogy Isten esküvel erősített ígéretet tett neki; utódai közül ültet majd valakit trónjára. Ezért jövendölte Krisztus feltámadásáról, hogy nem marad az alvilágban, és testét nem éri enyészet.\n\nEzt a Jézust támasztotta fel Isten, Ennek mi mindannyian tanúi vagyunk. Miután, Isten jobbja felmagasztalta őt, elnyerte az Atyától a megígért Szentlelket, és kiárasztotta, ahogyan látjátok és halljátok.”",
+  "cite": "ApCsel 2,14.22-33"
+ }
+}

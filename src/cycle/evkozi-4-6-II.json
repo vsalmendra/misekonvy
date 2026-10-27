@@ -1,0 +1,35 @@
+{
+ "key": "evkozi-4-6-II",
+ "source_date": "2026-02-07",
+ "rank": "",
+ "day": "4. évközi hét szombat",
+ "psalm": {
+  "cite": "Zsolt 118,9.10.11.12.13.14",
+  "response": "Én Uram, Istenem, taníts meg igazságaidra engem!",
+  "verses": [
+   "Bűntől az ifjú hogyan tisztíthatja meg útját?\nCsak úgy, hogy megtartja tanításodat.",
+   "Egész szívemből téged kereslek,\nne engedd, hogy parancsaidtól eltérjek.",
+   "Szívem mélyére rejtettem szavadat,\nhogy ne vétkezzem ellened.",
+   "Áldott vagy, Uram, Istenem,\ntaníts meg igazságaidra engem!",
+   "Elsorolom ajkammal\nszádnak minden rendelését.",
+   "Végzéseid útján nagyobb örömre találok,\nmint bármilyen gazdagságban."
+  ]
+ },
+ "alleluia": {
+  "text": "Jézus mondja: „Juhaim hallgatnak szavamra, ismerem őket és ők a nyomomban járnak.”",
+  "cite": "Jn 10,27"
+ },
+ "gospel": {
+  "book": "Szent Márk",
+  "summary": "Jézus megértő szeretettel fordul az emberekhez, mert olyanok, mint a pásztor nélküli juhok.",
+  "text": "Abban az időben az apostolok visszatértek Jézushoz, és beszámoltak mindarról, amit tettek és tanítottak. Ő így szólt hozzájuk: „Gyertek ti is, (menjünk) a pusztaságba egy magányos helyre, hogy pihenjetek egy kicsit!” Mert olyan nagy jövés-menés volt körülöttük, hogy még evésre sem maradt idejük.\n\nBárkába szálltak tehát, és elmentek egy elhagyatott helyre, hogy magukban legyenek. De sokan látták, amikor elmentek, és sokan megtudták. Erre minden városból gyalog odasiettek, és megelőzték őket.\n\nAmikor Jézus kiszállt és látta a nagy tömeget, megesett rajtuk a szíve. Olyanok voltak, mint a pásztor nélküli juhok. Ezért tanítani kezdte őket sok mindenre.",
+  "cite": "Mk 6,30-34"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "a Királyok első könyvéből",
+  "summary": "Salamon trónra léptekor bölcsességet kér magának, népe javára.",
+  "text": "Trónja megszilárdítása után Salamon király elment Gábaonba, hogy ott áldozatot mutasson be, mert ez híres áldozati hely volt. Ezer áldozati állatot mutatott be Salamon egészen elégő áldozatul azon az oltáron, Gábaonban.\n\nÉjszaka álmában megjelent az Úr Salamonnak, és azt mondta neki: „Kérj bármit, és én megadom neked!”\n\nSalamon így válaszolt: „Nagy irgalmasságot cselekedtél szolgáddal, Dáviddal, az én atyámmal, minthogy hűséggel, igazsággal és egyenes szívvel járt színed előtt. Meg is őrizted iránta nagy irgalmasságodat, és fiút adtál neki, aki ma már az ő trónján ül. Uram Istenem, te királlyá tetted szolgádat atyám, Dávid helyett. Pedig én még kicsiny gyermek vagyok, és tapasztalatlan az ügyek intézésében. És most itt áll szolgád a te választott néped között; e nagyszámú nép között, melyet sokasága miatt megszámlálni és megolvasni lehetetlen. Adj tehát szolgádnak tanulékony szívet, hogy igazságot tudjon szolgáltatni népednek, és különbséget tudjon tenni jó és rossz között. Különben ki tudná kormányozni ezt a nagy népet?”\n\nTetszett az Úrnak a beszéd, hogy Salamon ilyen dolgot kért tőle. Azért így válaszolt neki: „Mivel ilyen dolgot kértél, és nem kértél magadnak sem hosszú életet, sem gazdagságot, sőt még ellenségeid életét sem kérted, hanem bölcsességet kértél magadnak, hogy igazságot tudj szolgáltatni: íme, teljesítem kérésedet. Olyan bölcs és igazságszerető szívet adok neked, hogy hozzád hasonló sem előtted nem volt, sem utánad nem lesz. Sőt amit nem kértél, azt is megadom neked: olyan gazdagságot és dicsőséget adok neked, hogy a te életedben nem lesz hozzád hasonló a királyok között.”",
+  "cite": "1Kir 3,4-13"
+ }
+}

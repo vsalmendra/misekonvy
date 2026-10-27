@@ -1,0 +1,33 @@
+{
+ "key": "husvet-3-3",
+ "source_date": "2026-04-22",
+ "rank": "",
+ "day": "húsvét 3. hét szerda",
+ "psalm": {
+  "cite": "Zsolt 65,1-3a.4-5.6-7a",
+  "response": "Minden föld Istent dicsérje!",
+  "verses": [
+   "Vagy: Alleluja. 10. szám.\nMinden föld dicsérje az Istent,\ndicső nevének zsoltárt zengjetek.\nMagasztaló énekkel mondjátok Istennek:\n„Mily csodásak a te műveid!”",
+   "Vagy: Alleluja.\nAz egész föld imádjon és magasztaljon téged,\nnevedet zsoltárral dicsérje.\nJöjjetek, és lássátok Isten műveit,\ncsodálatos, amit az emberekért végbevitt.",
+   "Vagy: Alleluja.\nSzárazfölddé lett a tenger,\ngyalogszerrel keltek át a vízen.\nÖrvendezzünk tehát őbenne,\nmert hatalmával uralkodik mindörökké.",
+   "Vagy: Alleluja."
+  ]
+ },
+ "alleluia": {
+  "text": "Jézus mondja: „Mindaz, aki hisz az Isten Fiában, örökké élni fog, és én az utolsó napon feltámasztom.”",
+  "cite": "Jn 6,40"
+ },
+ "gospel": {
+  "book": "Szent János",
+  "summary": "Jézus az élet kenyere.",
+  "text": "Kafarnaumban így tanította Jézus a sokaságot:\n\n„Én vagyok az élet kenyere. Aki hozzám jön, nem éhezik többé; és aki bennem hisz, nem szomjazik soha. Megmondtam nektek: »Bár láttok engem, mégsem hisztek.«\n\nMinden, amit a Atya nekem ad, hozzám jön. Aki tehát hozzám jön, nem utasítom el.\n\nNem azért jöttem le a mennyből, hogy a magam akaratát cselekedjem, hanem annak akaratát, aki küldött engem. Aki pedig küldött, annak az az akarata, hogy semmit el ne veszítsek abból, amit nekem adott, hanem feltámasszam az utolsó napon.\n\nAtyám akarata az, hogy mindaz, aki látja a Fiút és hisz benne, örökké éljen, és én feltámasztom az utolsó napon.”",
+  "cite": "Jn 6,35-40"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "az Apostolok Cselekedeteiből",
+  "summary": "Az üldözés ellenére a hívek mindenütt hirdették Isten igéjét.",
+  "text": "István diakónus megkövezése után nagy üldözés tört ki a jeruzsálemi egyház ellen. Az apostolok kivételével valamennyien elszéledtek Júdea és Szamaria vidékére. Istvánnak pedig istenfélő emberek megadták a végtisztességet, és nagyon megsiratták.\n\nSaul ellenben sanyargatta az egyházat: sorra járta a házakat, elhurcolta a férfiakat és az asszonyokat, és fogságba vetette őket.\n\nA szétszéledt hívek, ahol csak megfordultak, hirdették az evangéliumot. Fülöp diakónus Szamaria városába került, és ott hirdette Krisztust. A nép egy szívvel-lélekkel figyelt Fülöp szavaira, mert hallották és látták a csodajeleket, amelyeket művelt. Sok, ördögtől megszállott emberből ugyanis nagy kiáltozás közben eltávozott a tisztátalan lélek, amely megszállva tartotta őket. Sok béna meg sánta is meggyógyult, így aztán nagy öröm támadt abban a városban.",
+  "cite": "ApCsel 8,1b-8"
+ }
+}

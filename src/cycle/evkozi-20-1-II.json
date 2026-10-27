@@ -1,0 +1,32 @@
+{
+ "key": "evkozi-20-1-II",
+ "source_date": "2026-08-17",
+ "rank": "",
+ "day": "20. évközi hét hétfő",
+ "psalm": {
+  "cite": "MTörv 32,18-19.20-21",
+  "response": "Elhagytad az Urat, aki alkotott téged.",
+  "verses": [
+   "Elhagytad Uradat, aki alkotott téged,\nelfeledted Istenedet, aki életet adott néked.\nLátta az Isten, és haragra gerjedt,\nmert felingerelték őt népének fiai és leányai.",
+   "Akkor az Úr így szólt:\n„Elrejtem előlük arcomat;\nhadd lássam, mi lesz velük,\nmert csalárd és hűtlen ez a nemzedék.”",
+   "„Féltékennyé tettek engem a nem létező istenre,\nés kevélységükkel haragra indítottak.\nDe én is féltékennyé teszem őket idegen népekkel,\nés pogány népekkel ingerlem őket.”"
+  ]
+ },
+ "alleluia": {
+  "text": "Boldogok, akik lélekben szegények, övék a mennyek országa.",
+  "cite": "Mt 5,3"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Aki tökéletes akar lenni a Krisztus-követésben, annak áldozatot is kell vállalnia.",
+  "text": "Egy alkalommal Jézushoz járult egy gazdag ifjú, és megkérdezte: „Mester, mi jót kell tennem, hogy eljussak az örök életre?”\n\nJézus így válaszolt neki: „Miért kérdezel engem a jóról? Csak egyedül Isten a jó. Ha pedig el akarsz jutni az életre, tartsd meg a parancsokat!” Az ifjú tovább kérdezte: „Melyeket?” Jézus felsorolta: „Ne ölj, ne paráználkodjál, ne lopj, hamisan ne tanúskodjál, atyádat és anyádat tiszteld, és szeresd felebarátodat úgy, mint önmagadat!” Az ifjú erre kijelentette: „Ezt mind megtartottam. Mit kell még tennem?” Jézus így felelt: „Ha tökéletes akarsz lenni, menj, add el mindenedet, és árát oszd szét a szegények között, így kincsed lesz a mennyben. Azután jöjj, és kövess engem!” Ennek hallatára az ifjú szomorúan eltávozott, mert nagy vagyona volt.",
+  "cite": "Mt 19,16-22"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Ezekiel próféta könyvéből",
+  "summary": "A prófétát csodálatos jelként állítja az Úr a nép elé: a próféta sorsa a nép sorsa.",
+  "text": "Ezekielhez ezt a szózatot intézte az Úr:\n\n„Emberfia, én hirtelen halállal elveszem tőled feleségedet, aki szemed fényénél is drágább neked.\n\nDe ne gyászold, ne sirasd, ne hullass könnyeket; csak csendben szálljon sóhajod; ne tarts halotti gyászt!\n\nTurbánod legyen a fejeden, sarud a lábadon, ruháddal se takard be arcodat, a gyászolók eledelét se edd!”\n\nElmondtam ezt reggel a nép előtt, és estére meghalt a feleségem.\n\nMásnap reggel az Úr parancsa szerint jártam el.\n\nEkkor a nép megkérdezte: „Miért nem mondod meg nekünk, hogy mit jelent, amit cselekszel?”\n\nEzt mondtam nekik: „Így szól az Úr: Választott népemmel közöld az Úr szavát!\n\n»Nézzétek, én megszentségtelenítem szentélyemet, erőtök forrását, amelyre oly büszkék vagytok, az ország szeme fényét, amely oly kedves nektek; fiaitok és leányaitok pedig, akiket hátrahagytatok, mind kard élén vesznek el.«\n\nTi akkor az én példám szerint jártok el: ruháitokkal nem föditek el majd arcotokat, gyászeledelt nem fogyasztotok; turbán lesz a fejeteken, saru a lábatokon.\n\nNem sóhajtoztok, nem jajgattok, elsorvadtok majd bűneitek miatt, és csak egymás előtt mertek bánatot mutatni.\n\nAkkor majd intő jel lesz számotokra Ezekiel; ugyanazt teszitek pontosan ti is, amit ő tett.\n\nAmikor mindez sorra beteljesedik megtudjátok, hogy én vagyok az Úr, az Isten.”",
+  "cite": "Ez 24,15-24"
+ }
+}

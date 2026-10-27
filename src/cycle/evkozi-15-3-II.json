@@ -1,0 +1,33 @@
+{
+ "key": "evkozi-15-3-II",
+ "source_date": "2026-07-15",
+ "rank": "",
+ "day": "15. évközi hét szerda",
+ "psalm": {
+  "cite": "Zsolt 93,5-6.7-8.9-10.14-15",
+  "response": "Urunk, Istenünk nem hagyja el az ő népét.",
+  "verses": [
+   "Uram, megalázzák népedet,\nsanyargatják örökségedet.\nÖzvegyet és jövevényt megölnek,\nés árvákat legyilkolnak.",
+   "Azt mondják: „Ezt nem látja az Úr,\nezt nem veszi észre Jákob Istene.”\nÉrtsétek meg végre, ti, balgák a nép között;\nti, esztelenek, mikor tértek észre?",
+   "Aki fület teremt, az nem hallana,\naki formálta szemünket, az ne látna?\nAki népeket fenyít, az ne büntetne,\nő, aki bölcsességre oktatja az embert?",
+   "Az Úr nem taszítja el népét,\nés nem hagyja el örökségét,\nmert igazságos lesz az ítélet,\nés azt követi minden igaz szívű."
+  ]
+ },
+ "alleluia": {
+  "text": "Áldalak téged, Atyám, mennynek és földnek Istene, mert feltártad a kicsinyeknek országod titkait.",
+  "cite": "Vö. Mt 11,25"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Istent és az ő igazságait csak jóakaratú, alázatos emberek ismerhetik meg.",
+  "text": "Abban az időben Jézus így fejezte be tanítását:\n\nMagasztallak téged, Atyám, ég és föld Ura, mert elrejtetted mindezt a bölcsek és okosak elől, és kinyilatkoztattad a kicsinyeknek! Igen, Atyám, így tetszett ez neked! Az én Atyám mindent átadott nekem, és nem ismeri a Fiút senki más, csak az Atya, s az Atyát sem ismeri más, csak a Fiú, és akinek a Fiú ki akarja nyilatkoztatni.",
+  "cite": "Mt 11,25-27"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Izajás próféta könyvéből",
+  "summary": "Isten a pogányokat is eszközül használja, hogy nevelje választott népét.",
+  "text": "Ezt mondja az Úr: Jaj, Asszíriának, haragom vesszejének; az ő kezére bíztam fenyítő parancsomat.\n\nElküldtem őt a hűtlen nemzet ellen, parancsot adtam neki a nép ellen, amelyre haragszom,\n\nhogy zsákmányoljon, fosztogasson, és eltapossa, mint az út sarát.\n\nDe Asszíria téved, hogyha elbizakodik, és szíve egyre csak azon gondolkodik, hogy eltiporjon és kiirtson nem kevés nemzetet.\n\nNagy gőgjében ugyanis így gondolkodott: „Mindezt saját erőmből vittem végbe, és mindez bölcsességem műve volt, hogy országok határait tüntettem el, nagy fejedelmek kincseit raboltam el, és trónjaikról letaszítottam királyokat.\n\nA népek kincseire, mint valami madárfészekre, nyújtottam kezem, és amint összeszednek elhagyott tojásokat, úgy szedtem össze én a földnek kincseit.\n\nNem volt, aki mozdítani merte volna szárnyait, vagy csipogásra merte volna nyitni száját.” Így szólt akkor az Úr: „A fejsze vajon kérkedik-e azzal szemben, aki vág vele?\n\nVagy nagyzol-e a fűrész azzal szemben, aki húzza azt?\n\nTalán bizony a vessző suhogtatja-e azt, aki fölvette, és a bot emeli-e az ember karját?”\n\nEzért az Úr, a Seregek Ura sorvadással sújtja majd Asszíria hőseit, és emésztő tűzzel hamvasztja el gőgös dicsőségüket.",
+  "cite": "Iz 10,5-7.13-16"
+ }
+}

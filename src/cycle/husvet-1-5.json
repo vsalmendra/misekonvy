@@ -1,0 +1,33 @@
+{
+ "key": "husvet-1-5",
+ "source_date": "2026-04-10",
+ "rank": "",
+ "day": "Péntek húsvét nyolcadában",
+ "psalm": {
+  "cite": "Zsolt 117,1-2 és 4.22-24.25-27a",
+  "response": "Adjatok hálát az Úrnak, mert jó, mivel irgalma örökké megmarad.",
+  "verses": [
+   "Vagy: Alleluja. 6. szám.\nAdjatok hálát az Úrnak, mert jó,\nmivel irgalma örökké megmarad.\nMondja Izrael háza, hogy jó az Isten,\nmivel irgalma örökké megmarad.\nMondja Áron papi háza is,\nmivel irgalma örökké megmarad.",
+   "Vagy: Alleluja.\nA kő, amelyet az építők félredobtak,\níme, az vált szegletkővé.\nMindezt az Úr vitte végbe,\ncsodálatra méltó a mi szemünkben.\nEzt a napot az Úristen adta,\nörvendjünk és vigadjunk rajta.",
+   "Vagy: Alleluja.\nUram, szabadíts meg engem,\nó, Uram, adj nekünk bőséget.\nÁldott, aki jön az Úr nevében, † az Úr házából megáldunk titeket,\nIsten az Úr, ő ragyog felettünk.",
+   "Vagy: Alleluja."
+  ]
+ },
+ "alleluia": {
+  "text": "Ezt a napot az Úristen adta. Ujjongjunk és vigadjunk rajta!",
+  "cite": "Zsolt 117,24"
+ },
+ "gospel": {
+  "book": "Szent János",
+  "summary": "Jézus harmadszor jelenik meg tanítványainak: kenyérrel és hallal vendégeli meg őket.",
+  "text": "Feltámadása után Jézus egy alkalommal így jelent meg tanítványainak a Tibériás-tó partján:\n\nEgyütt voltak Simon Péter és Tamás, melléknevén Didimusz (vagyis Iker), továbbá a galileai Kánából való Nátánáel, Zebedeus fiai és még két másik tanítvány. Simon Péter így szólt hozzájuk: „Elmegyek halászni.” „Mi is veled megyünk” – felelték. Kimentek és bárkába szálltak. De azon az éjszakán nem fogtak semmit.\n\nAmikor megvirradt, Jézus ott állt a parton. A tanítványok azonban nem ismerték fel, hogy Jézus az.\n\nJézus megszólította őket: „Fiaim, nincs valami ennivalótok?” „Nincs” – felelték. Erre azt mondta nekik: „Vessétek ki a hálót a bárka jobb oldalán, ott majd találtok.” Kivetették a hálót, s alig bírták kihúzni a tömérdek haltól.\n\nErre az a tanítvány, akit Jézus szeretett, így szólt Péterhez: „Az Úr az!” Amint Simon Péter meghallotta, hogy az Úr az, magára öltötte köntösét – mert neki volt vetkőzve –, és beugrott a vízbe.\n\nA többi tanítvány követte a bárkával. A hallal teli hálót is maguk után húzták. Nem voltak messze a parttól, csak mintegy kétszáz könyöknyire.\n\nAmikor partot értek, izzó parazsat láttak, s rajta halat, mellette meg kenyeret. Jézus szólt nekik: „Hozzatok a halakból, amelyeket most fogtatok.” Péter visszament, és partra vonta a hálót, amely tele volt nagy halakkal, szám szerint százötvenhárommal, s bár ennyi volt benne, nem szakadt el a háló.\n\nJézus hívta őket: „Gyertek, egyetek!” A tanítványok közül senki sem merte megkérdezni: „Ki vagy?” – hiszen tudták, hogy az Úr az. Jézus fogta a kenyeret, és adott nekik. Ugyanígy a halból is.\n\nEz volt a harmadik eset, hogy a halálból való feltámadása után Jézus megjelent tanítványainak.",
+  "cite": "Jn 21,1-14"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "az Apostolok Cselekedeteiből",
+  "summary": "Senki másban nincs üdvösség, csak Jézusban.",
+  "text": "Péter és János apostol a béna meggyógyítása után még beszéltek a néphez, amikor a papok, a templomőrség parancsnoka és a szadduceusok odamentek hozzájuk. Rossz néven vették, hogy tanítják a népet, és hirdetik Jézus példájával a halálból való feltámadást.\n\nLetartóztatták tehát Pétert és Jánost. Mivel azonban már esteledett, másnapig őrizetben tartották őket. Azok közül, akik a beszédet hallgatták, sokan hívők lettek; úgyhogy a férfi hívők száma elérte az ötezret.\n\nMásnap összegyűltek Jeruzsálem elöljárói, a vének és az írástudók, Annás főpap, Kaifás, János és Sándor meg mind, akik a főpapi nemzetségből valók voltak. Előállították a két apostolt, és vallatóra fogták őket: „Miféle hatalommal, vagy kinek a nevében tettétek ezt?”\n\nAkkor Péter a Szentlélekkel eltelve így válaszolt: „Népünk elöljárói és ti, vének, halljátok! Ti most magatok elé idéztek minket, mert egy nyomorék emberrel jót tettünk. Kérdőre vontok, kinek a nevében gyógyítottuk meg. Hát tudjátok meg mindnyájan, ti és az egész választott nép, hogy annak a názáreti Jézus Krisztusnak nevében, akit ti keresztre feszítettetek, és akit az Isten feltámasztott a halálból. Az ő segítségével áll itt ez az ember egészségesen. Ő az a kő, amelyet ti, az építők, elvetettetek, de mégis szegletkővé lett. Nincsen üdvösség senki másban. Mert nem adatott más név az ég alatt, amelyben az emberek üdvözülhetnének.”",
+  "cite": "ApCsel 4,1-12"
+ }
+}

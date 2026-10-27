@@ -1,0 +1,41 @@
+{
+ "key": "evkozi-14-vas-A",
+ "source_date": "2026-07-05",
+ "rank": "",
+ "day": "Évközi 14. vasárnap",
+ "psalm": {
+  "cite": "Zsolt 144,1-2.8-9.10-11.13cd-14",
+  "response": "Istenem és királyom, magasztallak téged: szent nevedet áldom örökkön örökké.",
+  "verses": [
+   "Vagy: Alleluja. 5. szám.\nMagasztallak téged, Istenem, Királyom,\nés áldom nevedet örökkön örökké.\nMindennap áldalak téged,\nés dicsőítem nevedet örökkön örökké.",
+   "Vagy: Alleluja.\nIrgalmas az Úr és kegyelmes,\nnagy irgalmú és hosszan tűrő.\nAz Úr mindenkihez jóságos,\nés irgalmas minden művéhez.",
+   "Vagy: Alleluja.\nMagasztaljon téged, Uram, minden műved,\nszentjeid áldást mondjanak.\nOrszágod dicsőségéről szóljanak,\nés hatalmadat mindenek hirdessék.",
+   "Vagy: Alleluja.\nHűséges az Úr minden szavában,\nés tettei szentnek hirdetik.\nAz Úr a botladozót fenntartja,\nés fölemeli, akit megaláztak.",
+   "Vagy: Alleluja."
+  ]
+ },
+ "alleluia": {
+  "text": "Áldalak téged, Atyám, mennynek és földnek Istene, mert feltártad a kicsinyeknek országod titkait.",
+  "cite": "Mt 11,25"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Én szelíd vagyok és alázatos szívű – mondja az Úr.",
+  "text": "Abban az időben Jézus megszólalt, és ezt mondta:\n\nMagasztallak téged, Atyám, ég és föld Ura, mert elrejtetted mindezt a\n\nbölcsek és okosak elől, és kinyilatkoztattad a kicsinyeknek! Igen,\n\nAtyám, így tetszett ez neked! Az én Atyám mindent átadott nekem, és nem\n\nismeri a Fiút senki más, csak az Atya, s az Atyát sem ismeri más, csak\n\na Fiú, és akinek a Fiú ki akarja nyilatkoztatni.\n\nJöjjetek hozzám mindnyájan, akik fáradtak vagytok, és terhek alatt\n\ngörnyedtek: én felüdítlek titeket! Vegyétek magatokra igámat, és\n\ntanuljatok tőlem, mert én szelíd vagyok és alázatos szívű – és\n\nnyugalmat talál lelketek. Mert az én igám édes, s az én terhem könnyű.",
+  "cite": "Mt 11,25-30"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Zakariás próféta könyvéből",
+  "summary": "Íme, közeleg királyod.",
+  "text": "Ezt mondja az Úr:\n\nUjjongj, Sion leánya!\n\nZengj éneket, Jeruzsálem leánya!\n\nÍme, közeleg királyod:\n\nigaz és győzedelmes,\n\nalázatos,\n\nszamáron jön,\n\nszamár hátán, szamárnak csikaján.\n\nElpusztítja Efraimban a harci szekereket,\n\nés Jeruzsálemben a lovakat.\n\nSzéttöri a harci íjakat,\n\nés békét hirdet a népeknek,\n\nuralkodik tengertől tengerig,\n\na folyótól egészen a föld határáig.",
+  "cite": "Zak 9,9-10"
+ },
+ "reading2": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a rómaiakhoz írt leveléből",
+  "summary": "Ha lélekkel elfojtjátok a test szerinti tetteket, élni fogtok.",
+  "text": "Testvéreim!\n\nTi nem test, hanem lélek szerint éltek, ha valóban Isten\n\nLelke lakik bennetek. Ha pedig bennetek lakik annak Lelke, aki\n\nfeltámasztotta Jézust a halálból, ő, aki Krisztust feltámasztotta a\n\nhalottak közül, halandó testeteket is életre kelti a bennetek lakó\n\nLelke által.\n\nÍgy tehát, testvéreim, nem tartozunk a testnek azzal, hogy test\n\nszerint éljünk. Mert ha test szerint éltek, biztosan meghaltok, de ha\n\nlélekkel elfojtjátok a test szerinti tetteket, élni fogtok.",
+  "cite": "Róm 8,9.11-13"
+ }
+}

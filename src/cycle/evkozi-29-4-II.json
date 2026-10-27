@@ -1,0 +1,33 @@
+{
+ "key": "evkozi-29-4-II",
+ "source_date": "2026-10-22",
+ "rank": "",
+ "day": "29. évközi hét csütörtök",
+ "psalm": {
+  "cite": "Zsolt 32,1-2.4-5.11-12.18-19",
+  "response": "Kegyes az Isten hozzánk: jóságával eltölt mindent.",
+  "verses": [
+   "Örvendezzetek, igazak, az Úrban,\na szentekhez dicséret illik.\nDicsérjétek az Urat citerával,\ntízhúrú hárfán zengjetek néki.",
+   "Sziklaszilárd az Úr Igéje,\nminden tettét hűség vezeti.\nAz igazlelkűséget és a törvényt szereti,\ntelve van a föld az Úr irgalmával.",
+   "Az Úr szándéka megmarad örökre,\nszívének gondolata nemzedékről nemzedékre.\nBoldog az a nemzet, amelynek az Úr az Istene,\na nép, amelyet örökségül választott magának.",
+   "Az istenfélőkre ügyel az Úr szeme,\nakik bíznak az ő Irgalmában.\nMegmenti lelküket a haláltól,\nés táplálja őket éhínség idején."
+  ]
+ },
+ "alleluia": {
+  "text": "Mindent elvetettem, sőt szemétnek tekintek, csakhogy Krisztust elnyerjem, és őhozzá tartozzam.",
+  "cite": "Fil 3,8-9"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Krisztus evangéliumának sokan ellene mondanak.\n\nInnen támad a sok szakadás és békétlenség a világon.",
+  "text": "Abban az időben Jézus így szólt tanítványaihoz:\n\n„Azért jöttem, hogy tüzet gyújtsak a földön. Mi mást akarnék, mint hogy lángra lobbanjon. Keresztséggel kell megkereszteltetnem. Mennyire várom, hogy ez beteljesedjék!\n\nAzt gondoljátok, azért jöttem, hogy békét hozzak a földre? Mondom nektek, nem azt, hanem szakadást. Ezentúl, ha öten lesznek egy házban, megoszlanak egymás között: három kettő ellen, és kettő három ellen. Szembekerül apa a fiával és fiú az apjával, anya a lányával és lány az anyjával, anyós a menyével és meny az anyósával.”",
+  "cite": "Lk 12,49-53"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak az efezusiakhoz írt leveléből",
+  "summary": "Életünk alapja legyen a szeretet; hogy így Krisztusban megkapjuk a megváltás kegyelmének kincseit.",
+  "text": "Testvéreim!\n\nMeghajtom térdemet az Atya előtt: tőle származik ugyanis minden közösség az égben és a földön. Adja meg nektek dicsőségének gazdagsága szerint, hogy Lelke által megerősödjetek benső emberré, hogy a hittel Krisztus lakjék szívetekben, s gyökeret verjetek és alapot vessetek a szeretetben. Akkor majd fel tudjátok fogni az összes szenttel együtt, mi a szélesség és a hosszúság, a magasság és a mélység; megismeritek Krisztusnak minden értelmet meghaladó szeretetét, és beteltek az Isten egész teljességével.\n\nA végtelenül hatalmas Istennek pedig, aki hatalmával bennünk működik, és mindent megtehet azon felül is, amit kérünk vagy megértünk, legyen dicsőség az Egyházban és Jézus Krisztusban minden nemzedéken át mindörökké. Ámen.",
+  "cite": "Ef 3,14-21"
+ }
+}

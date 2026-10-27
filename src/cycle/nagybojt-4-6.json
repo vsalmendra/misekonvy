@@ -1,0 +1,33 @@
+{
+ "key": "nagybojt-4-6",
+ "source_date": "2026-03-21",
+ "rank": "",
+ "day": "4. nagyböjti hét szombat",
+ "psalm": {
+  "cite": "Zsolt 7,2-3.9bc-10.11-12",
+  "response": "Én Uram, Istenem, csak benned remélek.",
+  "verses": [
+   "Én Uram, Istenem, csak benned remélek,\nments meg minden üldözőmtől, és szabadíts meg engem.\nNehogy elragadja, lelkemet, mint egy oroszlán,\nés széttépje, mert nincs, ki megmentsen.",
+   "Ítélj meg, Uram, engem,\nmert igaz és ártatlan vagyok.\nSzűnjék meg a bűnösök gonoszsága † és az igazakat erősítsd meg,\nszíveket és veséket vizsgáló igaz Isten.",
+   "Oltalmamat én Istennél találom,\nmegmenti ő a tiszta szívűt.\nIsten igaz bíró,\nharagjától naponta félni kell."
+  ]
+ },
+ "alleluia": {
+  "text": "Boldogok, akik jó szívvel fogadják Isten igéjét, és állhatatosságukkal gyümölcsöt hoznak. Vö, Lk 8,15",
+  "cite": "",
+  "lent": true
+ },
+ "gospel": {
+  "book": "Szent János",
+  "summary": "Jézust nem akarják elismerni Messiásnak, mert Galileából származik.",
+  "text": "Amikor Jézus a jeruzsálemi templomban tanított, szavainak hallatára a nép közül egyesek felkiáltottak: „Ez valóban a Próféta.” Mások meg azt mondták: „Ez a Messiás.” Voltak azonban olyanok, akik megkérdezték: „Hát Galileából jön a Messiás? Az írás szerint nemde Dávid családjából és Dávid városából, Betlehemből kell jönnie a Messiásnak?”\n\nErre szakadás támadt a nép között. Néhányan el akarták őt fogni, de senki sem mert rá kezet emelni. A szolgák (akiket Jézusért küldtek), nélküle tértek vissza a főpapokhoz és a farizeusokhoz.\n\nAzok felelősségre vonták őket: „Miért nem hoztátok őt ide?” A szolgák mentegetőztek: „Ember így még nem beszélt!” Erre a farizeusok rájuk förmedtek: „Csak nem vezetett titeket is félre? Mondjátok: hitt-e benne egy is a főtanács tagjai vagy a farizeusok közül? Csak ez az átkozott népség, amely semmit sem ért a törvényhez.”\n\nEkkor az egyik tanácstag, Nikodémus, aki egy alkalommal éjnek idején fölkereste Jézust, így szólt: „A mi törvényünk nem ítélkezik senki felett anélkül, hogy ki ne hallgatta volna, és meg nem állapította volna, mi (rosszat) cselekedett.”\n\nA többiek azonban neki támadtak: „Talán te is galileai vagy? Kutass csak utána, és rájössz, hogy Galileából nem származik próféta!”\n\nEzután mindegyikük hazatért.",
+  "cite": "Jn 7,40-53"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Jeremiás próféta könyvéből",
+  "summary": "Legfájóbb csalódásaink közepette is bízzunk abban, hogy Istennek hozott áldozatunk nem marad gyümölcstelen!",
+  "text": "A gonoszoktól szorongatva a próféta így fohászkodott:\n\nUram, te megmutattad nekem, és így felismertem cselekedeteiket.\n\nVilágos lett előttem, mert feltártad szándékaikat.\n\nÉn pedig, mint szelíd bárány, amelyet áldozatra visznek,\n\nnem tudtam, hogy milyen tervet szőnek ellenem.\n\nAzt mondották: „Pusztítsuk ki a fát gyökerestől;\n\nirtsuk ki őt az élők földjéről,\n\nhogy még a nevét se emlegessék többé.”\n\nTe, seregek Ura, igazságosan ítélkezel,\n\nte a vesék és a szívek vizsgálója vagy:\n\nhadd lássam, miként ítéled és bünteted meg őket!\n\nEzért tártam fel előtted ügyemet.",
+  "cite": "Jer 11,18-20"
+ }
+}

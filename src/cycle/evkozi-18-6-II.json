@@ -1,0 +1,32 @@
+{
+ "key": "evkozi-18-6-II",
+ "source_date": "2026-08-08",
+ "rank": "",
+ "day": "18. évközi hét szombat",
+ "psalm": {
+  "cite": "Zsolt 9,8-9.10-11.12-13",
+  "response": "Nem hagyod cserben azokat, Uram, akik keresnek téged.",
+  "verses": [
+   "Az Úr uralkodik örökké,\nítéletre készen áll trónusa.\nIgazságban ítéli meg az egész földet,\nés igazságot oszt méltányosan minden népnek.",
+   "Az elnyomottnak az Úr a menedéke,\na nyomorúság és a szükség napjaiban egyetlen mentsége.\nAki nevedet ismeri, benned bízik,\nUram, soha nem hagyod el a téged keresőket.",
+   "Énekeljetek az Úrnak, aki Sionon lakik,\nhirdessétek nagy tetteit a népek között.\nJól emlékezik, a vért számon kéri,\na szegények jajszavát nem felejti."
+  ]
+ },
+ "alleluia": {
+  "text": "Üdvözítőnk, Jézus Krisztus győzött a halálon, s az evangéliumban felragyogtatta az örök életet.",
+  "cite": "2Tim 1,10b"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Ha erős a hitetek, semmi sem lesz nektek lehetetlen.",
+  "text": "Egy alkalommal egy ember járult Jézushoz, és térdre borulva így kérlelte őt: „Uram, könyörülj fiamon! Holdkóros szegény, és sokat szenved. Hol tűzbe esik, hol meg vízbe. Elvittem tanítványaidhoz, de nem tudták meggyógyítani.”\n\nJézus így válaszolt: „Hitetlen és romlott nemzedék! Meddig leszek még veletek? Meddig tűrjelek titeket? Hozzátok ide a gyermeket!” Jézus ráparancsolt az ördögre, az kiment belőle, és a gyermek azonnal meggyógyult.\n\nAmikor Jézus egyedül volt, a tanítványok hozzá mentek, és megkérdezték: „Miért nem tudtuk mi kiűzni?” Ő így válaszolt: „Mert gyönge a hitetek. Bizony, mondom nektek, ha csak akkora hitetek lesz is, mint a mustármag, és azt mondjátok e hegynek itt: »Menj innét amoda!« – átmegy, és semmi sem lesz számotokra lehetetlen.”",
+  "cite": "Mt 17,14-20"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Habakuk próféta könyvéből",
+  "summary": "Mindnyájan Isten kezében vagyunk; az igaz a hite által életet nyer.",
+  "text": "Saját magáért és népéért a próféta így imádkozik:\n\n„Uram, kezdettől fogva te vagy Istenünk, népünk Szentje, aki nem hal meg.\n\nUram, te rendelted ide Babilont, hogy ítéletet tartson, te tetted erős sziklává, hogy megfenyítsél általa.\n\nSzemed tisztább annál, hogysem a gonoszságra tekints!\n\nHogyan törheti szemed e gonosztevőket, és miért hallgatsz, amikor a gonosz elnyeli a nála igazabbat? Csak nem tekinted úgy az embert, mint a tenger halait, és mint a csúszómászót, amelynek még gazdája sincs?\n\nA halász valamennyit kifogja horoggal, varsájába fogja, hálójába gyűjti, aztán ezen örül és ujjong.\n\nEzért aztán varsájának mutat be áldozatot, hálójának gyújt jó illatot, mert azok juttatták jó fogáshoz és bőséges eledelhez.\n\nVajon örökké tart, hogy kiveti hálóját és kíméletlenül gyilkolja a nemzeteket?”\n\nMajd a próféta így folytatta: „Kiállok őrhelyemre, s megvetem lábamat a sáncon, éberen figyelek, hogy lássam: Mit szól hozzám majd az Úr, és mit felel panaszomra.”\n\nAkkor az Úr meg is szólalt, és ezt mondta: „Írd le a látomást, vésd fel táblára, hogy könnyen olvasható legyen.\n\nMert ez a látomás a maga idejében beteljesedik és nem hiúsul meg; ha késik, csak várj; biztosan bekövetkezik, tévedhetetlenül.\n\nAkinek nem igaz a lelke, az elbukik, de az igaz élni fog hűségéért.”",
+  "cite": "Hab 1,12-2,4"
+ }
+}

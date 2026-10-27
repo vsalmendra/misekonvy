@@ -1,0 +1,33 @@
+{
+ "key": "husvet-6-6",
+ "source_date": "2026-05-16",
+ "rank": "",
+ "day": "húsvét 6. hét szombat",
+ "psalm": {
+  "cite": "Zsolt 46,2-3.8-9.10",
+  "response": "Az egész világnak az Úr a királya és Istene.",
+  "verses": [
+   "Vagy: Alleluja. 5. szám.\nTapsoljatok, nemzetek, mindnyájan,\nujjongjatok Istennek dicsérő szóval,\nmert félelmetes az Úr, a fölséges Isten;\nnagy király az egész földön.",
+   "Vagy: Alleluja.\nMivel Isten az egész föld királya,\nbölcsességgel neki éneket zengjetek.\nIsten országol a nemzetek fölött,\nszent trónusán ül az Isten.",
+   "Vagy: Alleluja.\nA népek fejedelmei egybegyűlnek\nÁbrahám Istenének népével,\nmert Istené a földön minden hatalom,\nfölségesebb senki sincs nála.",
+   "Vagy: Alleluja."
+  ]
+ },
+ "alleluia": {
+  "text": "Az Atyától jöttem a világba: de most itt hagyom a világot, és visszatérek az Atyához.",
+  "cite": "Jn 16,28"
+ },
+ "gospel": {
+  "book": "Szent János",
+  "summary": "A Jézusban hívőket az Atya is szereti.",
+  "text": "Búcsúbeszédében Jézus így szólt tanítványaihoz:\n\nBizony, bizony, mondom nektek: Bármit kértek majd az én nevemben az Atyától, megadja nektek. Mindeddig semmit sem kértetek az én nevemben. Kérjetek, és kaptok, hogy örömötök teljes legyen!\n\nEzeket hasonlatokban mondtam nektek. Eljön az óra, amikor már nem hasonlatokban szólok, hanem nyíltan beszélek az Atyáról.\n\nAzon a napon majd az én nevemben kértek, és nem mondom azt nektek, hogy én kérem értetek az Atyát. Hiszen az Atya szeret titeket, mivel ti is szerettetek engem, és hittétek, hogy az Istentől jöttem.\n\nEljöttem az Atyától és a világba jöttem. Most elhagyom a világot, és visszatérek az Atyához.",
+  "cite": "Jn 16,23b-28"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "az Apostolok Cselekedeteiből",
+  "summary": "A zsidó származású Apolló ékesszólóan hirdeti a Szentírás nyomán, hogy Jézus a Megváltó.",
+  "text": "Pál apostol egy ideig a szíriai Antióchiában tartózkodott, majd sorra bejárta a galaták földjét és Frígiát, lelket öntve valamennyi tanítványba.\n\nEközben egy Apolló nevű alexandriai származású zsidó érkezett Efezusba. Ékesszóló és az írásokban igen jártas ember volt. Már kapott valami oktatást az Úr tanításáról. Buzgón és helyesen beszélt és tanított Jézusról, de még csak a János által hirdetett bűnbánati keresztségről tudott. Bátor bizalommal kezdett beszélni a zsinagógában.\n\nAmikor ezt Priszcilla és Akvilász meghallották, magukhoz hívták, és még behatóbban elmagyarázták neki Isten igéjét. Mivel Ahájába akart menni, a testvérek buzdították, és írtak a tanítványoknak, hogy fogadják őt szívesen.\n\nOdaérkezve nagy segítségére volt a híveknek. A nyilvánosság előtt eredményesen cáfolta a zsidókat: a Szentírásból bizonyította ugyanis, hogy Jézus a Messiás.",
+  "cite": "ApCsel 18,23-28"
+ }
+}

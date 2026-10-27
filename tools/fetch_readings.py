@@ -1,21 +1,26 @@
 #!/usr/bin/env python3
-"""Fetch the day's readings from igenaptár into src/readings/<date>.json.
+"""Fetch readings from igenaptár into src/cycle/<key>.json, stored by LITURGICAL day.
 
-    python3 tools/fetch_readings.py 2026-10-27 2026-12-31     # a range (inclusive)
+    python3 tools/fetch_readings.py 2025-11-30 2026-11-28     # a range (inclusive)
     python3 tools/fetch_readings.py 2026-11-08                # one day
 
-They are shown when a day has no Mass file yet (the app then shows the Order of Mass with these
-readings). Days with a Mass file use the readings written in that file, not these.
-Existing files are overwritten; check the output (`git diff src/readings`) before committing.
-Uses the same field names as a Mass file: reading1, psalm, reading2, alleluia (or verse before the
-gospel in Lent), gospel; plus "day" (igenaptár's name of the day).
+The key comes from tools/litcal.py ("evkozi-30-2-II" = 30th week of Ordinary Time, Tuesday,
+weekday year II; "evkozi-31-vas-A"; "advent-1-3"; ...), so the readings serve every later year
+with the same cycle. Feasts and solemnities on fixed dates (igenaptár marks them "– Ü" / "– FÜ")
+are stored as "fix-MM-DD" instead. igenaptár only serves the current liturgical year.
+They are shown when a day has no Mass file yet (the Order of Mass with the day's readings).
+Existing files are overwritten; check `git diff src/cycle` before committing.
+Fields as in a Mass file: reading1, psalm, reading2, alleluia (lent: true = verse before the
+gospel), gospel; plus day (igenaptár's name), source_date, rank.
 """
 import html, json, re, sys, urllib.request
 from datetime import date as Date, timedelta
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-OUT = ROOT / 'src' / 'readings'
+OUT = ROOT / 'src' / 'cycle'
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import litcal  # noqa: E402
 URL = 'https://igenaptar.katolikus.hu/nap/index.php?holnap={}'
 
 
@@ -164,20 +169,33 @@ def main(argv):
     a = Date.fromisoformat(argv[0])
     b = Date.fromisoformat(argv[1]) if len(argv) > 1 else a
     OUT.mkdir(parents=True, exist_ok=True)
-    bad = []
+    bad, mism = [], []
     d = a
     while d <= b:
         try:
             with urllib.request.urlopen(URL.format(d.isoformat()), timeout=30) as r:
                 page = r.read().decode('utf-8', 'replace')
             data = parse(page)
-            (OUT / f'{d.isoformat()}.json').write_text(json.dumps(data, ensure_ascii=False, indent=1) + '\n', encoding='utf-8')
-            print(f'{d}  {data["day"]}  {data["reading1"]["cite"]} | {data.get("reading2", {}).get("cite", "-")} | {data["gospel"]["cite"]}')
+            rank = re.search(r'[–-]\s*(FÜ|Ü)\b', data['day'])
+            key = litcal.key(d)
+            if rank and not litcal.is_special(key):
+                key = f'fix-{d.month:02d}-{d.day:02d}'
+            data = {'key': key, 'source_date': d.isoformat(), 'rank': rank.group(1) if rank else '', **data}
+            (OUT / f'{key}.json').write_text(json.dumps(data, ensure_ascii=False, indent=1) + '\n', encoding='utf-8')
+            print(f'{d}  {key:28} {data["day"][:45]:45} | {litcal.label(d)}')
+            if not rank and norm(data['day']) != norm(litcal.label(d)) and not key.startswith(('fix-', 'dec-')):
+                mism.append(f'{d}: igenaptár "{data["day"]}" / litcal "{litcal.label(d)}"')
         except Exception as e:  # report and go on; a day without readings shows the placeholders
             bad.append(f'{d}: {e}')
         d += timedelta(days=1)
+    if mism:
+        print('\nDay names differ (check the calendar):\n  ' + '\n  '.join(mism))
     if bad:
         print('\nNot fetched:\n  ' + '\n  '.join(bad))
+
+
+def norm(s):
+    return re.sub(r'[^a-záéíóöőúüű0-9]', '', s.lower())
 
 
 if __name__ == '__main__':

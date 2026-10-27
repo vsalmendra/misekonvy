@@ -1,0 +1,33 @@
+{
+ "key": "evkozi-10-4-II",
+ "source_date": "2026-06-11",
+ "rank": "",
+ "day": "10. évközi hét csütörtök",
+ "psalm": {
+  "cite": "Zsolt 64,10abcd.10e-11.12-13",
+  "response": "Téged illet a dicséret a Sion hegyén, Istenem.",
+  "verses": [
+   "Meglátogattad és megöntözted a földet,\nelhalmoztad bőséges áldással.\nAz egek csatornái megteltek vízzel;\ngabonát nevelsz az embernek.",
+   "Előkészíted a földet: † barázdáit öntözöd,\ngöröngyeit elsimítod.\nFellazítod áztató esőkkel,\nés megáldod sarjadó vetését.",
+   "Jóságoddal koronázod az esztendőt,\njólét és bőség jár lábad nyomában.\nEső csepeg a puszták füvére,\na dombok vígságba öltöznek.",
+   "Nyájak lepik el a réteket, † bőven nő a gabona a völgyekben,\nés minden ujjong és himnuszt énekel."
+  ]
+ },
+ "alleluia": {
+  "text": "Jézus mondja: „Új parancsot adok nektek. Szeressétek egymást, ahogyan én szeretlek titeket!”",
+  "cite": "Jn 13,34"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Tartsuk tiszteletben embertársaink életét és becsületét!",
+  "text": "Jézus a hegyi beszédben így szólt tanítványaihoz:\n\nMondom nektek: Ha igaz voltotok nem múlja felül az írástudókét és a farizeusokét, nem juthattok be a mennyek országába.\n\nHallottátok, hogy a régieknek ezt mondták: „Ne ölj! Aki öl, méltó az ítéletre.” Én viszont azt mondom nektek, hogy méltó az ítéletre mindaz, aki haragszik testvérére. Aki azt mondja testvérének: „Te esztelen!”, méltó a főtanács ítéletére. Aki pedig azt mondja: „Te istentelen!”, méltó a kárhozat tüzére.\n\nHa tehát ajándékot akarsz az oltáron felajánlani, és ott eszedbe jut, hogy testvérednek valami panasza van ellened, hagyd ott ajándékodat az oltár előtt, s menj, előbb békülj ki testvéreddel. Csak aztán térj vissza, hogy bemutasd áldozatodat. Ellenfeleddel szemben légy békülékeny, amikor még úton vagy vele, nehogy átadjon a bírónak, a bíró pedig a börtönőrnek, és a börtönbe vessenek. Bizony, mondom neked, ki nem jössz onnan, míg az utolsó garast is meg nem fizeted.",
+  "cite": "Mt 5,20-26"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "a Királyok első könyvéből",
+  "summary": "Illés próféta imádságára az Úr esőt ad.",
+  "text": "A Kármel-hegyi áldozat után Illés próféta figyelmeztette Ácháb királyt: „Menj fel, egyél és igyál, mert nagy eső zuhogása hallatszik.” Fölment Ácháb, hogy egyék és igyék, Illés pedig fölment a Kármel csúcsára, lekuporodott a földre, arcát térdei közé tette, és azt mondta szolgájának: „Menj föl és nézz a tenger felé.” A szolga, miután felment és arrafelé tekintett, azt mondta: „Nincs ott semmi sem.” Erre Illés ismét szólt neki: „Menj vissza hétszer.” Hetedik alkalommal aztán íme, egy kis felhőcske szállt fel a tengerből, akkora, mint az ember tenyere. Erre Illés meghagyta neki: „Eredj föl és mondd Áchábnak: »Fogass be szekeredbe és menj le, hogy utol ne érjen az eső.«” Közben elsötétedett az ég, nagy felhő, szél és hatalmás eső támadt. Ácháb tehát szekérre ült és Jezráelbe ment. Illést pedig megszállta az Úr ereje, és derekát felövezve futott Ácháb előtt, amíg Jezráelbe nem ért.",
+  "cite": "1Kir 18,41-46"
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "key": "evkozi-23-5-II",
+ "source_date": "2026-09-11",
+ "rank": "",
+ "day": "23. évközi hét péntek",
+ "psalm": {
+  "cite": "Zsolt 83,3-6.12",
+  "response": "Mily kedves a te hajlékod, Seregek Ura, Istene!",
+  "verses": [
+   "Sóvárog és vágyódik lelkem\naz Úr udvarába,\nszívem és testem\nörvendezik az élő Istenben.",
+   "Még a veréb is otthont talál magának,\nés a gerle fészket, ahová fiait helyezze;\na te oltárodnál, Seregek Ura,\nén Istenem és Királyom!",
+   "Boldogok, akik a te házadban laknak,\nörökkön örökké dicsérnek téged.\nBoldog az az ember, kinek segítsége tőled van,\nés szívében készülődik, hogy hozzád menjen.",
+   "Mert az Úristen nap és védőpajzs,\nkegyelmet oszt és dicsőséget.\nNem von meg semmi jót azoktól,\nakik ártatlanul élnek."
+  ]
+ },
+ "alleluia": {
+  "text": "Uram, a te szavad igazság, tégy szentté minket igazságod által! Vö. Jn 17,17b és a",
+  "cite": ""
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Jézus figyelmezteti tanítványait:\n\nCsak akkor tudnak megjavítani másokat, ha előbb a maguk hibáit szüntetik meg.",
+  "text": "Jézus a hegyi beszédben ezeket a hasonlatokat mondta tanítványainak:\n\n„Vajon vezethet-e vak világtalant? Nem esnek-e bele mind a ketten a gödörbe?\n\nNem nagyobb a tanítvány mesterénél: Akkor tökéletes az ember, amikor már olyan, mint a mestere.\n\nMiért látod meg a szálkát embertársad szemében, amikor a magad szemében a gerendát sem veszed észre? Hogyan mondhatod embertársadnak: »Barátom, hadd vegyem ki szemedből a szálkát«, holott saját szemedben nem látod meg a gerendát? Képmutató! Vedd ki előbb a magad szeméből a gerendát, s aztán törődj azzal, hogy kivedd a szálkát embertársad szeméből.”",
+  "cite": "Lk 6,39-42"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a korintusiakhoz írt első leveléből",
+  "summary": "Az apostol mindenkinek mindene lesz, hogy mindenkit az üdvösségre vezessen.",
+  "text": "Testvéreim!\n\nHogy az evangéliumot hirdetem, azzal nem dicsekedhetem, hiszen ez kényszerű kötelességem. Jaj, nekem ugyanis, ha nem hirdetem az evangéliumot!\n\nHa önszántamból teszem, jutalmam lesz, ha nem önszántamból, csak megbízott hivatalnok vagyok. Mi tehát a jutalmam? Az, hogy mint az evangélium hirdetője, ingyen nyújtsam az evangéliumot, és ne éljek az evangéliumban gyökerező jogommal.\n\nBár mindenkitől független voltam, mégis mindenkinek szolgája lettem, hogy minél több embert megnyerjek. Mindenkinek mindene lettem, hogy mindenkit üdvösségre vezessek. Mindezt az evangéliumért teszem, hogy nekem is részem legyen benne.\n\nNem tudjátok-e, hogy a pályán a versenyzők mindnyájan futnak ugyan, de a díjat csak egyikük nyeri el? Úgy fussatok, hogy elnyerjétek! A versenyzők valamennyien fegyelmezik magukat minden tekintetben; pedig ők csak hervadó koszorút akarnak elnyerni, mi ellenben a hervadhatatlant.\n\nÉn tehát úgy futok, hogy célba jussak. Nem a levegőt csapkodom, hanem megfékezem és fegyelmezem testemet, nehogy elveszítsem jutalmamat, miközben másoknak az evangéliumot hirdetem.",
+  "cite": "1Kor 9,16-19.22b-27"
+ }
+}

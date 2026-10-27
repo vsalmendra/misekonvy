@@ -1,0 +1,32 @@
+{
+ "key": "evkozi-10-2-II",
+ "source_date": "2026-06-09",
+ "rank": "",
+ "day": "10. évközi hét kedd",
+ "psalm": {
+  "cite": "Zsolt 4,2-3.4-5.7-8",
+  "response": "Ragyogtasd ránk, Uram, arcod fényességét!",
+  "verses": [
+   "Midőn segítségül hívtalak,\nmeghallgattál engem, igazságom Istene.\nMeddig lesz még kemény a szívetek, emberek,\nmiért szeretitek a haszontalanságot, meddig törekedtek még hazugságra?",
+   "Tudjátok meg: † Az Úr csodásan megmenti hívét;\nmeghallgat az Úr, ha én őhozzá kiáltok.\nBár haragusztok, többé ne vétkezzetek! † Szálljatok magatokba szívből,\nnyugovóra térve teremtsetek csendet.",
+   "Azt mondják sokan: † „Ki részesít jóban minket?”\nRagyogtasd ránk, Uram, arcod fényességét!\nSzívembe nagyobb örömet öntöttél,\nmint azoknak, akik dúskálnak búzában meg borban!"
+  ]
+ },
+ "alleluia": {
+  "text": "Úgy világítson a ti világosságotok az emberek előtt, hogy lássák jótetteiteket, és mennyei Atyátokat dicsőítsék érte!",
+  "cite": "Mt 5,16"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Krisztus híveinek példás élete tanítás az egész világnak.",
+  "text": "Jézus így tanított a hegyi beszédben:\n\n„Ti vagytok a föld sója. De ha a só ízét veszti, mivel sózzák meg? Nem való az egyébre, mint hogy kidobják, s eltapossák az emberek.\n\nTi vagytok a világ világossága. A hegyen épült várost nem lehet elrejteni. Lámpát sem azért gyújtanak, hogy a véka alá rejtsék, hanem a lámpatartóra teszik, hogy világítson mindenkinek a házban. Úgy világítson a ti világosságtok az emberek előtt, hogy látva jótetteiteket, magasztalják mennyei Atyátokat!”",
+  "cite": "Mt 5,13-16"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "a Királyok első könyvéből",
+  "summary": "Illés próféta megszaporítja a careftai özvegyasszony lisztjét és olaját.",
+  "text": "Egy bizonyos idő elmúltával – mivel nem volt eső Izraelben – kiszáradt a Kárit-patak, (amely mellett Illés próféta rejtőzködött).\n\nEzért az Úr szózatot intézett hozzá ezekkel a szavakkal: „Kelj fel, és eredj a Szidon-vidéki Careftába! Tartózkodjál ott! Íme, megparancsoltam ott egy özvegyasszonynak, hogy tápláljon téged.”\n\nIllés útra kelt, és elment Careftába. Amikor a város kapujához ért, épp ott volt egy özvegyasszony, aki rőzsét szedegetett. A próféta megszólította, és ezt mondta neki: „Hozz nekem egy kis vizet korsóban, hadd igyam!” Amikor az asszony elindult, utána szólt: „Hozz egy falat kenyeret is!”\n\nAz így felelt: „Amint igaz, hogy él a te Istened: Nincs sütve semmim, csak egy marék lisztem van a szakajtóban, meg egy kis olajom a korsóban. Épp azon vagyok, hogy rőzsét szedjek, aztán elmegyek és elkészítem magamnak és a fiamnak. Megesszük, aztán meghalunk.”\n\nIllés azonban így válaszolt neki: „Ne félj! Menj, s tedd, amit mondtál, csak előbb csinálj belőle egy kis lepényt, aztán hozd ki nekem. Magadnak és a fiadnak csak utána készíts. Mert ezt mondja az Úr, Izrael Istene: A szakajtó nem ürül ki, a korsó nem apad el addig, amíg az Úr esőt nem hullat a földre.”\n\nElment hát és úgy tett, amint Illés mondta. S volt mit ennie, neki is, fiának is. A szakajtó nem ürült ki, és a korsó nem apadt ki az Úr szava szerint, amelyet Illés által mondott.",
+  "cite": "1Kir 17,7-16"
+ }
+}

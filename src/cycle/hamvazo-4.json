@@ -1,0 +1,33 @@
+{
+ "key": "hamvazo-4",
+ "source_date": "2026-02-19",
+ "rank": "",
+ "day": "Csütörtök hamvazószerda után",
+ "psalm": {
+  "cite": "Zsolt 1,1-2.3-4 és 6",
+  "response": "Boldog az az ember, aki az Úrban bízik.",
+  "verses": [
+   "Boldog ember, aki nem követi a gonoszok tanácsát, † nem lép a bűnösök útjára,\na gúnyolódok körében nem foglal helyet,\nhanem az Úr törvényében leli örömét,\naz ő parancsairól elmélkedik éjjel és nappal.",
+   "Olyan, mint a fa, melyet folyóvíz mellé ültettek,\nmely idejében gyümölcsöt érlel.\nNem fonnyad el a lombja,\nsiker koronázza minden tettét.",
+   "Nem így járnak a gonoszok, nem így,\nhanem mint a polyva, melyet szétszór a szél,\nmert az Úr őrzi az igazak útját,\na gonoszok útja pusztulás."
+  ]
+ },
+ "alleluia": {
+  "text": "Jézus mondja: „tartsatok bűnbánatot, mert közel van a mennyek országa!”",
+  "cite": "Mt 4,17",
+  "lent": true
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Aki nem félti életét Krisztusért, megmenti azt az örök életre.",
+  "text": "Amikor Péter apostol megvallotta, hogy Jézus a Messiás, akkor az Úr így szólt a tanítványokhoz:\n\n„Az Emberfiának sokat kell szenvednie: a vének, a főpapok és az írástudók elutasítják, megölik, de harmadnapra feltámad.”\n\nMajd így szólt mindnyájukhoz: „Aki utánam akar jönni, tagadja meg magát, vegye föl mindennap a keresztjét, és úgy kövessen engem! Mert aki meg akarja menteni életét, elveszíti azt. De aki elveszíti életét énmiattam, megmenti azt.\n\nMit használ az embernek, ha az egész világot megnyeri is, önmagát azonban elveszíti, és romlásba dönti?”",
+  "cite": "Lk 9,22-25"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Mózes ötödik könyvéből",
+  "summary": "Mózes arra tanítja a választott népet, hogy az Istennel kötött szövetség áldás, de átok is lehet: élet vagy halál.",
+  "text": "Az Istennel kötött szövetség ismertetése után Mózes így beszélt a néphez:\n\n„Népem, figyelj! Ma szemed elé tártam az életet és az üdvösséget, a halált és a kárhozatot.\n\nHa engedelmeskedsz az Úr, a te Istened parancsainak,\n\namelyeket ma adok neked,\n\ns szereted az Urat, a te Istenedet, az ő útjain jársz,\n\nmegtartod parancsait, törvényeit és rendelkezéseit,\n\nakkor életben maradsz és megsokasodsz,\n\naz Úr, a te Istened megáld azon a földön,\n\nahova indulsz, hogy birtokodba vedd.\n\nHa azonban elfordul szíved és nem engedelmeskedsz,\n\nha elcsábulsz más isteneket imádni és nekik szolgálni,\n\nakkor ma tudtotokra adom:\n\nMenthetetlenül elpusztultok,\n\nés azon a földön,\n\namelyre a Jordánon átkelve elérkezel, hogy birtokba vedd,\n\nnem fogtok sokáig élni.\n\nMa tanúul hívom ellenetek az eget és a földet: Életet és halált,\n\náldást és átkot tártam a szemetek elé.\n\nÍgy hát válaszd az életet,\n\nhogy te is, utódaid is életben maradjatok;\n\nszeresd az Urat, a te Istenedet,\n\nhallgass a szavára és ragaszkodj hozzá.\n\nMert ez jelenti számodra az életet\n\nés napjaidnak hosszúra nyúlását azon a földön,\n\namelyre az Úr, a te Istened megesküdött atyáidnak,\n\nÁbrahámnak, Izsáknak és Jákobnak, hogy nekik adja.”",
+  "cite": "MTörv 30,15-20"
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "key": "fix-01-03",
+ "source_date": "2026-01-03",
+ "rank": "",
+ "day": "Karácsonyi idő - január 3.",
+ "psalm": {
+  "cite": "Zsolt 97,1.3cd-4.5-6",
+  "response": "A föld minden határa látta üdvözítő Urunknak jóságát.",
+  "verses": [
+   "Zengjetek az Úrnak új éneket,\ncsodálatra méltó, amit művelt.\nDiadalt aratott jobbjával,\ngyőzelmet szentséges karjával.",
+   "Meglátta a föld minden határa,\nszabadulást Istenünk hozott nekünk.\nMinden földek, zengjetek az Úrnak öröméneket,\nujjongjatok és zsoltárt mondjatok.",
+   "Daloljatok az Úrnak citerával,\nciterával és zsoltárok hangjával.\nHarsonákkal és zengő kürtökkel\nujjongjatok az Úr és Király előtt."
+  ]
+ },
+ "alleluia": {
+  "text": "Az Ige emberré lett, és itt élt köztünk, befogadóinak megadta, hogy Isten fiai legyenek, Jn 1,14 és 12a",
+  "cite": ""
+ },
+ "gospel": {
+  "book": "Szent János",
+  "summary": "Keresztelő János második tanúsága: Jézus az Isten Báránya!",
+  "text": "Abban az időben amikor Keresztelő János látta, hogy Jézus közeledik feléje, így szólt: „Íme, az Isten Báránya, aki elveszi a világ bűneit! Ő az, akiről azt mondtam: Utánam jön egy férfi, aki megelőz engem, mert előbb volt, mint én. Én sem ismertem öt, de azért jöttem, és azért keresztelek vízzel, hogy megismertessem őt Izraelben.”\n\nJános azután így folytatta tanúságtételét: „Láttam, hogy az égből, mint egy galamb, leszáll rá a Lélek, és rajta marad. Én sem ismertem őt, de aki küldött, hogy vízzel kereszteljek, az mondta nekem: »Akire látod, hogy rászáll a Lélek, és rajta marad, ő az, aki Lélekkel keresztel.« Én láttam, és tanúskodom arról, hogy ő az Isten Fia!”",
+  "cite": "Jn 1,29-34"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent János apostol első leveléből",
+  "summary": "Aki Krisztusban marad, nem követ el bűnt.",
+  "text": "Szeretteim!\n\nHa tudjátok, hogy Jézus az igazság, akkor azt is tudnotok kell, hogy mindaz, aki az igazság szerint cselekszik, őtőle született.\n\nNézzétek, mekkora szeretettel van irántunk az Atya: Isten gyermekeinek hívnak minket, és azok is vagyunk. A világ azért nem ismer minket, mert őt sem ismeri.\n\nSzeretteim, most Isten gyermekei vagyunk, de hogy mik leszünk, az még nem nyilvánvaló. Azt tudjuk, hogy ha ő megjelenik, hasonlók leszünk hozzá, mert látni fogjuk őt úgy, amint van. Mindaz, aki ebben reménykedik, megszentelődik, mert ő szent.\n\nAki vétkezik, megszegi a törvényt, mert a bűn törvényszegés. Tudjátok, hogy Jézus azért jött el, hogy elvegye bűneinket. Őbenne nincs bűn. Aki vétkezik, nem látta, és nem ismerte őt. Aki pedig megmarad őbenne, nem követ el bűnt.",
+  "cite": "1Jn 2,29–3,6"
+ }
+}

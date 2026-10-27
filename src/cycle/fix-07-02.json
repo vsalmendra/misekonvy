@@ -1,0 +1,39 @@
+{
+ "key": "fix-07-02",
+ "source_date": "2026-07-02",
+ "rank": "Ü",
+ "day": "Szűz Mária látogatása Erzsébetnél (Sarlós Boldogasszony) – Ü",
+ "psalm": {
+  "cite": "Iz 12,2-3.4bcd.5-6",
+  "response": "Nagy a ti körötökben Izrael szentje!",
+  "verses": [
+   "Íme, Isten az én üdvösségem,\nbízom benne, és nem félek.\nMert az Úr az én erősségem és dicsőségem,\nő lett nékem szabadulásom.\nÖrömmel meríttek majd vizet\naz üdvösség forrásaiból.",
+   "Adjatok hálát az Úrnak,\nmagasztaljátok az ő nevét.\nA népek közt hirdessétek tetteit,\nemlékezzetek meg arról, hogy Fölséges az ő neve.",
+   "Zengjetek dalt az Úrnak, mert csodás dolgokat művelt:\ntudja meg az egész világ!\nUjjongjatok és dicséretet mondjatok, Sion lakói,\nmert nagy a ti körötökben Izrael szentje."
+  ]
+ },
+ "alleluia": {
+  "text": "Boldog vagy, Szűz Mária, mert hitted, hogy beteljesedik mindaz, amit az Úr mondott néked.",
+  "cite": "Vö. Lk 1,45"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Erzsébet így szólt: Hogyan lehet az, hogy Uramnak anyja látogat el hozzám?",
+  "text": "Azokban a napokban Mária útra kelt, és a hegyek közé, Júda egyik városába sietett. Belépett Zakariás házába, és köszöntötte Erzsébetet. Amikor Erzsébet meghallotta Mária köszöntését, szíve alatt megmozdult a magzat, és a Szentlélek betöltötte Erzsébetet. Hangos szóval így kiáltott: „Áldott vagy te az asszonyok között, és áldott a te méhednek gyümölcse! De hogyan lehet az, hogy Uramnak anyja látogat el hozzám? Mert íme, amikor fülembe csendült köszöntésed szava, örvendezve felujjongott méhemben a magzat! Boldog, aki hitt annak beteljesedésében, amit az Úr mondott neki.” Mária megszólalt:\n\n„Magasztalja lelkem az Urat, és szívem ujjong megváltó Istenemben! Mert tekintetre méltatta alázatos szolgálóleányát, lám, ezentúl boldognak hirdet engem minden nemzedék. Nagy dolgokat művelt velem a Hatalmas, Szentséges az ő neve!\n\nIrgalma nemzedékről nemzedékre száll, mindazokra, akik félik őt. Nagyszerű dolgot tett karja ereje, széjjelszórta mind a gőgös szívűeket. Lesöpörte trónjukról a hatalmasokat, és felmagasztalta az alázatosakat. Az éhezőket elhalmozta minden jóval, de a gazdagokat elküldte üres kézzel. Felkarolta gyermekét, Izraelt, megemlékezve irgalmasságáról, amint atyáinknak megígérte: Ábrahámnak és utódainak mindörökre.” Mária ott maradt még körülbelül három hónapig, azután visszatért az otthonába.",
+  "cite": "Lk 1,39-56"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Szofoniás próféta könyvéből",
+  "summary": "Az Úr, Izrael királya közötted él.",
+  "text": "Dalolj, Sion leánya, zengj éneket, Izrael! Örülj és ujjongj egész szívedből, Jeruzsálem leánya! Nem hajtja végre rajtad az ítéletet az Úr, elűzte ellenségedet, Izraelnek az Úr a királya, ne félj többé semmi rossztól! Azon a napon így szólnak majd Jeruzsálemhez: Ne félj, Sion! Ne lankadjon kezed! Veled van az Úr, a te Istened, az erős Szabadító! Örül majd neked nagy örömmel, újjáéleszt szeretetével, örül majd neked ujjongó örömmel, mintha ünnepet ülne. A balsorsot elfordítottam tőled, hogy ne viseld többé a gyalázatot.",
+  "cite": "Szof 3,14-18"
+ },
+ "reading2": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a rómaiakhoz írt leveléből",
+  "summary": "Segítsetek a szenteken, ha szükségben vannak, gyakoroljátok a vendégszeretetet.",
+  "text": "Testvéreim!\n\nSzeressetek tettetés nélkül. Irtózzatok a rossztól, ragaszkodjatok a jóhoz. A testvéri szeretetben legyetek gyöngédek egymáshoz, a tiszteletadásban előzzétek meg egymást. A buzgóságban ne lankadjatok! Legyetek tüzes lelkületűek: az Úrnak szolgáltok. A reményben legyetek derűsek, a nyomorúságban béketűrők, az imádságban állhatatosak.\n\nSegítsetek a szenteken, ha szükségben vannak, gyakoroljátok a vendégszeretetet. Áldjátok üldözőiteket, áldjátok és ne átkozzátok őket. Azokkal, akik örülnek, örüljetek, és a sírókkal sírjatok. Éljetek egyetértésben. Ne legyetek fennhéjázók, hanem alkalmazkodjatok az egyszerű emberekhez.",
+  "cite": "Róm 12,9-16b"
+ }
+}

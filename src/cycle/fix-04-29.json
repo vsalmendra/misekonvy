@@ -1,0 +1,34 @@
+{
+ "key": "fix-04-29",
+ "source_date": "2026-04-29",
+ "rank": "Ü",
+ "day": "Sienai Szent Katalin szűz és egyháztanító, Európa társvédőszentje – Ü",
+ "psalm": {
+  "cite": "Zsolt 102,1-2.3-4.8-9.13-14.17-18a",
+  "response": "Áldjad, én lelkem, Urunkat, Istenünket!",
+  "verses": [
+   "Áldjad, lelkem, az Urat,\negész bensőm az ő szent nevét áldja.\nÁldjad, lelkem, az Urat,\nés ne feledd, hogy hozzád milyen jó volt.",
+   "Megbocsátja minden vétked,\nmeggyógyítja minden gyengeséged.\nA pusztulástól megmenti életed,\nkegyelmében és irgalmában meg is koronázza.",
+   "Irgalmas és kegyes a mi Istenünk,\nnagy irgalmú és hosszan tűrő.\nNem pöröl velünk szüntelen,\nés haragja nem tart mindörökké.",
+   "Ahogyan az atya megkönyörül fiain,\núgy könyörül meg az Úr az istenfélőn.\nŐ jól tudja, hogy miből formált,\nnem felejti, hogy porból lettünk.",
+   "Örökkévaló az Úr irgalma mindazokon, kik őt félik,\nés a fiak fiaival az ő igazsága,\nazokkal, akik szövetségét híven őrzik,\nés hűségesen teljesítik parancsait."
+  ]
+ },
+ "alleluia": {
+  "text": "Áldalak téged, Atyám, mennynek és földnek Istene, mert feltártad a kicsinyeknek országod titkait.",
+  "cite": "Vö. Mt 11, 25"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Országa titkait a mennyei Atya elrejtette a bölcsek és okosak elöl, de feltárta a kicsinyeknek.",
+  "text": "Abban az időben Jézus megszólalt, és ezt mondta:\n\nMagasztallak téged, Atyám, ég és föld Ura, mert elrejtetted mindezt a bölcsek és okosak elől, és kinyilatkoztattad a kicsinyeknek! Igen, Atyám, így tetszett ez neked! Az én Atyám mindent átadott nekem, és nem ismeri a Fiút senki más, csak az Atya, s az Atyát sem ismeri más, csak a Fiú, és akinek a Fiú ki akarja nyilatkoztatni.\n\nJöjjetek hozzám mindnyájan, akik fáradtak vagytok, és terhek alatt görnyedtek: én felüdítlek titeket! Vegyétek magatokra igámat, és tanuljatok tőlem, mert én szelíd vagyok és alázatos szívű – és nyugalmat talál lelketek. Mert az én igám édes, s az én terhem könnyű.",
+  "cite": "Mt 11,25-30"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent János apostol első leveléből",
+  "summary": "Jézus Krisztusnak vére megtisztít minket minden bűntől.",
+  "text": "Szeretteim!\n\nAz üzenet, amelyet Jézus Krisztustól hallottunk és nektek hirdetünk, ez: Az Isten világosság és nincs benne semmi sötétség. Ha azt állítjuk, hogy közösségben vagyunk vele és sötétségben élünk, akkor hazudunk, és nem cselekszünk az igazság szerint. De ha világosságban járunk, mint ahogy ő is világosságban van, akkor közösségben vagyunk egymással, és Fiának, Jézusnak vére megtisztít minket minden bűntől.\n\nHa azt állítjuk, hogy nincs bűnünk, saját magunkat vezetjük félre, és nincs meg bennünk az igazság. Ha megvalljuk bűneinket, akkor mivel jó és igazságos, megbocsátja bűneinket, és minden gonoszságtól megtisztít minket. Ha azt állítjuk, hogy nem vétkeztünk, hazugnak tüntetjük fel, és tanítása nincs bennünk.\n\nGyermekeim! Ezeket azért írom, hogy ne kövessetek el bűnt. De ha valaki bűnbe esett, van szószólónk az Atyánál: Jézus Krisztus, az Igaz. Ő az engesztelő áldozat bűneinkért, nemcsak a mieinkért, hanem az egész világ bűneiért is.",
+  "cite": "1Jn 1,5–2,2"
+ }
+}

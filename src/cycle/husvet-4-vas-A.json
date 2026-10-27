@@ -1,0 +1,41 @@
+{
+ "key": "husvet-4-vas-A",
+ "source_date": "2026-04-26",
+ "rank": "",
+ "day": "Húsvét 4. (Jópásztor) vasárnapja",
+ "psalm": {
+  "cite": "Zsolt 22,1-3a.3b-4.5.6",
+  "response": "Az Úr nékem pásztorom, ínséget nem kell látnom.",
+  "verses": [
+   "Vagy: Alleluja, alleluja, alleluja. 1. szám.\nAz Úr nékem pásztorom:\nínséget nem kell látnom.\nZöldellő mezőkön terelget engem,\ncsendes vizekhez vezet és lelkemet felüdíti.",
+   "Vagy: Alleluja, alleluja, alleluja.\nAz igazság ösvényén vezet engem,\nahogyan ő megígérte.\nA halál sötét völgyében sem félek, mert ott vagy vélem,\nbiztonságot ad vessződ és pásztorbotod.",
+   "Vagy: Alleluja, alleluja, alleluja.\nSzámomra asztalt terítettél,\nhogy üldözőimet szégyen érje.\nFejemet megkented olajoddal,\nserlegemet csordultig megtöltötted.",
+   "Vagy: Alleluja, alleluja, alleluja.\nJóságod és irgalmad nyomon követ\néletemnek minden napján.\nOtthonom lesz az Isten háza,\nmindörökké szünet nélkül.",
+   "Vagy: Alleluja, alleluja, alleluja."
+  ]
+ },
+ "alleluia": {
+  "text": "Jézus mondja: „Én vagyok a jó Pásztor. Ismerem juhaimat, és juhaim ismernek engem.",
+  "cite": "Jn 10,14"
+ },
+ "gospel": {
+  "book": "Szent János",
+  "summary": "Én vagyok a juhok kapuja.",
+  "text": "Abban az időben így szólt Jézus:\n\n„Bizony, bizony, mondom nektek: Aki nem a kapun megy be a juhok\n\naklába, hanem máshol, az tolvaj és rabló. Aki viszont az ajtón megy be,\n\naz a juhok pásztora. Az őr ajtót nyit neki, a juhok pedig hallgatnak\n\nszavára. Nevükön szólítja juhait, és kivezeti őket. Miután mind\n\nkivezette, előttük halad, és a juhok követik, mert ismerik a hangját.\n\nAz idegent nem követik, sőt elfutnak tőle, mert az idegen hangját nem\n\nismerik.”\n\nJézus ezt a hasonlatot mondta nekik, de ők nem értették meg, hogy\n\nmiről beszél.\n\nJézus ezért így folytatta: „Bizony, bizony, mondom nektek: Én vagyok\n\naz ajtó a juhok számára. Akik előttem jöttek, azok tolvajok és rablók.\n\nNem is hallgattak rájuk a juhok. Én vagyok az ajtó: aki rajtam\n\nkeresztül megy be, az üdvözül, ki- és bejár, s legelőre talál. A tolvaj\n\ncsak azért jön, hogy lopjon, öljön és pusztítson. Én azért jöttem, hogy\n\néletük legyen, és bőségben legyen.”",
+  "cite": "Jn 10,1-10"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "az Apostolok Cselekedeteiből",
+  "summary": "Isten Úrrá és Messiássá tette Jézust.",
+  "text": "Pünkösd napján Péter a tizenegy (apostol) kíséretében előlépett és\n\nhangos szóval így beszélt:\n\n„Tudja meg Izrael egész háza teljes bizonyossággal, hogy Isten azt a\n\nJézust, akit ti keresztre feszítettetek, Úrrá és Messiássá tette!”\n\nE szavak hallatára fájdalom járta át a szívüket, és megkérdezték\n\nPétert meg a többi apostolt: „Mit tegyünk hát, emberek, testvérek?”\n\nPéter azt felelte: „Tartsatok bűnbánatot, és keresztelkedjék meg\n\nmindegyiktek Jézus Krisztus nevében bűneitek bocsánatára. Akkor\n\nelnyeritek a Szentlélek ajándékát. Az ígéret ugyanis nektek és\n\ngyermekeiteknek szól, és mindazoknak, akik távol vannak ugyan, de a mi\n\nUrunk, Istenünk hívja őket.” Még más szavakkal is biztatta és\n\nbuzdította őket: „Engedjétek, hogy kimentsünk benneteket ebből a\n\nromlott nemzedékből!”\n\nErre azok, akik hajlottak szavára, megkeresztelkedtek. Aznap mintegy\n\nháromezer lélek tért meg.",
+  "cite": "ApCsel 2,14a.36-41"
+ },
+ "reading2": {
+  "label": "Szentlecke",
+  "sub": "Szent Péter apostol első leveléből",
+  "summary": "Megtértetek lelketek Pásztorához.",
+  "text": "Szeretteim!\n\nHa a jót teszitek és türelmesen szenvedtek, az kedves az\n\nIsten előtt. Hiszen erre kaptatok meghívást, mert Krisztus is\n\nszenvedett értünk, példát hagyva nektek, hogy a nyomában járjatok:\n\n„Bűnt nem követett el, s hamisság nem volt a szájában.”\n\nAmikor szidalmazták, nem viszonozta a szidalmat; amikor szenvedett,\n\nnem fenyegetőzött, hanem rábízta magát az igazságos Bíróra. Vétkeinket\n\nsaját testében fölvitte a keresztfára, hogy meghaljunk a bűnöknek, és\n\naz igazságnak éljünk. Az ő sebei szereztek számotokra gyógyulást.\n\nOlyanok voltatok ugyanis, mint a tévelygő juhok, de most megtértetek\n\nlelketek Pásztorához és oltalmazójához.",
+  "cite": "1Pét 2,20b-25"
+ }
+}

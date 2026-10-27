@@ -1,0 +1,34 @@
+{
+ "key": "nagyhet-1",
+ "source_date": "2026-03-30",
+ "rank": "",
+ "day": "Nagyhétfő",
+ "psalm": {
+  "cite": "Zsolt 26,1.2.3.13-14",
+  "response": "Világosságom az Isten, üdvözít engem.",
+  "verses": [
+   "Világosságom és üdvösségem az Úr,\nkitől félnék?\nÉletem oltalmazója az Úr,\nkitől rettegnék?",
+   "Ha a gonoszok rám törnek, hogy felfalják testemet,\nakkor ellenségeim és gyötrőim meginognak és a földre zuhannak.",
+   "Egész tábort állíthatnak ellenem, nem fél a szívem,\nádáz harcra kelhetnek ellenem, én akkor is remélek.",
+   "Hiszem, hogy meglátom az Úr javait,\naz élők földjén.\nRemélj az Úrban, bátran cselekedj,\nszíved legyen erős, és bízzál az Úrban."
+  ]
+ },
+ "alleluia": {
+  "text": "Üdvöz légy, Királyunk! Tévelygéseinken csak te könyörülsz.",
+  "cite": "",
+  "lent": true
+ },
+ "gospel": {
+  "book": "Szent János",
+  "summary": "Mária megkeni Jézus lábát, és ezt Jézus már temetési előkészületnek veszi.",
+  "text": "Hat nappal húsvét előtt Jézus Betániába ment. Itt élt Lázár, akit Jézus feltámasztott a halálból. Vacsorát rendeztek Jézus tiszteletére Márta felszolgált, Lázár pedig ott ült Jézussal a vendégek között.\n\nMária pedig vett egy font illatos, drága nárdusz-olajat, megkente vele Jézus lábát, majd hajával megtörölte. A ház betelt a kenet illatával.\n\nJézus tanítványai közül az egyik, aki elárulni készült őt, a karióti Júdás, megszólalt: „Miért nem adtuk el ezt a kenetet háromszáz dénárért, és miért nem osztottuk szét a szegények között?” Ezt azonban nem azért mondta, mintha gondja lett volna a szegényekre, hanem mert tolvaj volt; ő kezelte a pénzt, és az adományokat ellopkodta.\n\nJézus azt mondta neki; „Hagyd békén őt, hiszen temetésem napjára teszi. Mert szegények mindig lesznek veletek, én azonban nem leszek mindig veletek.”\n\nA zsidók közül sokan megtudták, hogy Jézus Betániában van, és odamentek nemcsak Jézus miatt, hanem hogy lássák Lázárt, akit feltámasztott a halálból. Ekkor a főpapok elhatározták, hogy Lázárt is megölik, mivel miatta a zsidók közül sokan hittek Jézusban.",
+  "cite": "Jn 12,1-11"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Izajás próféta könyvéből",
+  "summary": "Íme, az én szolgám, akiben kedvem telik.",
+  "text": "Ezt mondja az Úr:\n\n„Íme, az én szolgám, akit támogatok,\n\nválasztottam, akiben kedvem telik.\n\nKiárasztottam rá lelkemet,\n\nhogy igazságot vigyen a nemzeteknek.\n\nNem kiált majd, nem emeli föl a hangját,\n\nés szava sem hallatszik az utcákon.\n\nA megtört nádszálat nem töri össze,\n\na pislákoló mécsbelet nem oltja ki.\n\nHűségesen tanítja az igazságot, nem lankad el,\n\nsem kedvét el nem veszti,\n\nmíg az igazságot meg nem szilárdítja a földön.\n\nAz ő tanítására várnak a távoli szigetek.”\n\nEzt mondja az Isten, az Úr,\n\naki megteremtette az eget és kifeszítette,\n\naki megszilárdította a földet s kisarjasztotta rajta a növényeket,\n\naki éltető leheletet ad a földön lakó népnek,\n\nés életet mindennek, ami csak jár-kel rajta:\n\n„Én, az Úr hívtalak meg igazságban,\n\nén fogtam meg a kezed és én formáltalak.\n\nÁltalad kötök szövetséget népemmel,\n\nés adok világosságot a nemzeteknek,\n\nhogy nyisd meg a vakok szemét,\n\nés szabadítsd ki a börtönből a foglyokat,\n\nés a tömlöcből azokat, akik a sötétben ülnek.”",
+  "cite": "Iz 42,1-7"
+ }
+}

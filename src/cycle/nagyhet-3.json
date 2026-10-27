@@ -1,0 +1,33 @@
+{
+ "key": "nagyhet-3",
+ "source_date": "2026-04-01",
+ "rank": "",
+ "day": "Nagyszerda",
+ "psalm": {
+  "cite": "Zsolt 68,8-10.21bcd-22.31 és 33-34",
+  "response": "Uram, hallgass meg engem, nagy irgalmasságod szerint.",
+  "verses": [
+   "A gyalázatot érted viselem,\narcomat érted borítja, szégyen.\nTestvéreim előtt idegenné lettem,\nanyám fiai sem ismernek reám.\nA házadért való buzgóság emészt engem,\nrám hull a gyalázat, ha téged gyaláznak.",
+   "Vártam, hogy valaki együtt érez velem, † de nem akadt senki,\nnem volt, aki megvigasztalt volna.\nEnni nekem epét adtak,\nszomjúságomban ecettel itattak.",
+   "Énekemmel Isten nevét dicsérem,\nmagasztalom őt hálaénekkel.\nAz alázatosak látják ezt, és örülnek,\nkeressétek Istent, és szívetek újra éled.\nMert az Úr meghallgat minden szegényt,\nés foglyait nem hagyja magukra."
+  ]
+ },
+ "alleluia": {
+  "text": "Üdvöz légy, Királyunk! Tévelygéseinken csak te könyörülsz. – 4 g. tónus. Vagy: Üdvöz légy, Királyunk! Engedelmes voltál Atyádnak: megfeszíteni vittek, mint leölésre a szelíd bárányt.",
+  "cite": "",
+  "lent": true
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Az Emberfia elhagyja a világot, de jaj annak az embernek, aki őt elárulja.",
+  "text": "A betániai vacsora után a tizenkettő közül az egyik, akit karióti Júdásnak hívtak, elment a főpapokhoz és megkérdezte tőlük: „Mit adtok nekem, ha kezetekbe juttatom Jézust?” Azok harminc ezüstöt ígértek neki. Ettől kezdve csak a kedvező alkalmat kereste, hogy kiszolgáltassa őt nekik.\n\nA kovásztalan kenyér ünnepének első napján a tanítványok ezzel a kérdéssel fordultak Jézushoz: „Hol készítsük el neked a húsvéti vacsorát?” Ő így felelt: „Menjetek be a városba, egy bizonyos emberhez, és mondjátok neki: A Mester üzeni: »Közel van az én időm; tanítványaimmal nálad költöm el a húsvéti vacsorát.«” A tanítványok úgy tettek, ahogy Jézus meghagyta nekik, és elkészítették a húsvéti vacsorát.\n\nAmikor beesteledett, Jézus a tizenkét tanítvánnyal asztalhoz telepedett, Miközben ettek, így szólt hozzájuk: „Bizony mondom nektek, közületek egyvalaki elárul engem!” Erre nagyon elszomorodtak, és sorra kérdezték őt: „Csak nem én vagyok az, Uram?” Ő így válaszolt: „Aki velem egyszerre nyúl a tálba, az árul el engem. Az Emberfia ugyan elmegy, amint megírták róla, de jaj annak, aki az Emberfiát elárulja! Jobb lett volna annak az embernek, ha meg sem születik!” Erre Júdás, az áruló is megkérdezte: „Csak nem én vagyok az, Mester?” Ő így felelt: „Te magad mondtad!”",
+  "cite": "Mt 26,14-25"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Izajás próféta könyvéből",
+  "summary": "A megígért Megváltó az isten szolgája és a fájdalmak férfia; de szenvedése végül diadalt arat.",
+  "text": "Prófétája által Isten szenvedő Szolgája így beszél:\n\n„Isten, az Úr tanította nyelvemet,\n\nhogy az igével támasza lehessek a megfáradtaknak.\n\nReggelenként ő teszi figyelmessé fülemet,\n\nhogy rá hallgassak, mint a tanítványok.\n\nIsten, az Úr nyitotta meg fülemet.\n\nS én nem álltam ellen és nem hátráltam meg.\n\nHátamat odatartottam azoknak, akik vertek engem,\n\narcomat meg azoknak, akik szakállamat tépdesték.\n\nNem rejtettem el arcomat azok elől,\n\nakik gyaláztak és leköpdöstek.\n\nIsten, az Úr megsegít, ezért nem vallok szégyent.\n\nArcomat megkeményítem, mint a kőszikla,\n\ns tudom, hogy nem kell szégyenkeznem.\n\nKözel van, aki igazságot szolgáltat nekem.\n\nKi szállhat velem perbe?\n\nÁlljunk ki együtt! Ki az ellenfelem?\n\nJöjjön ide hozzám!\n\nIsten, az Úr segítségemre siet.\n\nKi ítélhetne el?”",
+  "cite": "Iz 50,4-9a"
+ }
+}

@@ -1,0 +1,34 @@
+{
+ "key": "advent-1-1",
+ "source_date": "2025-12-01",
+ "rank": "",
+ "day": "1. adventi hét hétfő",
+ "psalm": {
+  "cite": "Zsolt 121,1-2.3-4a.(4b-5. 6-7.)8-9",
+  "response": "Isten házába indulunk, örömtől dobban a szívünk.",
+  "verses": [
+   "Örvendeztem, amikor azt mondták nekem,\naz Úr házába megyünk.\nÍme, itt állunk már kapuid előtt,\nkapuid előtt, ó Jeruzsálem.",
+   "Jeruzsálem városa jól megépült,\nrészei egymáshoz illenek.\nOda járulnak föl a törzsek,\naz Úr népének törzsei.",
+   "Az Úr Izraelnek törvénybe adta,\nhogy ott nevére áldást mondjanak,\nmert ott állnak az ítélőszékek,\nDávid házának székei.",
+   "Jeruzsálemre békét esdjetek,\nbiztonságban éljen, aki szeret téged.\nBéke lakozzék falaid között,\nés nyugalom bástyáid tövében.",
+   "Testvéreim és barátaim miatt így könyörgök,\nlegyen békesség teveled!\nIstenünk és Urunk háza miatt\nkívánok áldást neked."
+  ]
+ },
+ "alleluia": {
+  "text": "Jöjj, és szabadíts meg minket, Urunk, Istenünk, mutasd meg arcodat, és mi szabadok leszünk.",
+  "cite": "Vö. Zsolt 79,4"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Sokan jönnek majd napkeletről és napnyugatról a mennyek országába.",
+  "text": "Abban az időben, amikor Jézus bement Kafarnaumba, egy (pogány) százados járult eléje, és így szólt: „Uram, szolgám bénán fekszik otthon, és szörnyen kínlódik.” Jézus így felelt: „Megyek és meggyógyítom.” A százados ezt válaszolta: „Uram, nem vagyok méltó, hogy hajlékomba jöjj, hanem csak egy szóval mondd, és meggyógyul az én szolgám. Jómagam, bár alárendelt ember vagyok, katonáknak parancsolok. Ha azt mondom az egyiknek: »Menj!« – elmegy; a másiknak: »Jöjj ide!« – akkor hozzám jön; és szolgámnak: »Tedd ezt!« – és megteszi.”\n\nAmikor Jézus ezt hallotta, elcsodálkozott, és így szólt kísérőihez: „Bizony mondom nektek, ekkora hitet senkinél sem találtam Izraelben. Ezért azt mondom nektek: Sokan jönnek majd napkeletről és napnyugatról, és asztalhoz telepednek Ábrahám, Izsák és Jákob mellé a mennyek országában.”",
+  "cite": "Mt 8,5-11"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Izajás próféta könyvéből",
+  "summary": "Eljövendő országába minden népet összegyűjt az Úr.\nHegyen álló temploma – az Egyház – az egész világ fényessége és menedéke lesz.",
+  "text": "Izajásnak, Ámosz fiának látomása Júdáról és Jeruzsálemről:\n\nAz utolsó időkben az Úr házának hegye szilárdan áll majd a hegyek tetején, és magasabb lesz a halmoknál. Odaözönlenek mind a nemzetek, feléje tart számos nép, és így szól:\n\n„Rajta, menjünk fel az Úr hegyére, Jákob Istenének házához, hogy tanítson meg útjaira, és így ösvényein járhassunk. Mert a Sionról jön a törvény, és Jeruzsálemből az Úr tanítása.”\n\nŐ ítéletet tart majd a nemzetek fölött, és igazságot szolgáltat számtalan népnek. Ők meg beolvasztják ekevasnak kardjukat és sarlóknak lándzsáikat. Nemzet nem emel kardot nemzet ellen, és nem tanul többé hadviselést.\n\nJákob háza, gyertek, járjunk az Úr világosságában!",
+  "cite": "Iz 2,1-5 v. Iz 4,2-6"
+ }
+}

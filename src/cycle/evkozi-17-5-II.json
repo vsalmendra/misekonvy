@@ -1,0 +1,32 @@
+{
+ "key": "evkozi-17-5-II",
+ "source_date": "2026-07-31",
+ "rank": "",
+ "day": "17. évközi hét péntek",
+ "psalm": {
+  "cite": "Zsolt 68,5.8-10.14",
+  "response": "Uram, hallgass meg engem nagy irgalmasságod szerint!",
+  "verses": [
+   "Hajam szálánál is többen vannak,\nakik ok nélkül gyűlölnek engem.\nÜldözőim, gonosz ellenségeim nagy erőre kaptak,\namit el sem vettem, azt kell megfizetnem.",
+   "A gyalázatot érted viselem,\narcomat érted borítja szégyen.\nTestvéreim előtt idegenné lettem,\nanyám fiai sem ismernek reám.\nA házadért való buzgóság emészt engem,\nrám hull a gyalázat, ha téged gyaláznak.",
+   "Hozzád imádkozom, Uram,\nhallgass meg kegyelmed idején, Istenem.\nMérhetetlen jóságodban hallgass meg,\nhűséged szerint segíts rajtam."
+  ]
+ },
+ "alleluia": {
+  "text": "Az Úr igéje örökké megmarad, ez az a tanítás, amelyet hirdettek nektek.",
+  "cite": "1Pét 1,25"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "A názáretiek hitetlen magatartása Jézussal szemben.",
+  "text": "Tanító körútján Jézus az ő városába, Názáretbe érkezett, és ott tanított a zsinagógában.\n\nHallgatói csodálkoztak, és így beszéltek róla: „Honnan van ennek a bölcsessége és csodatevő ereje? Hát nem az ács fia ez? És nem Mária az anyja? Nemde Jakab, József, Simon és Júdás az (unoka)fivérei? És nem itt élnek-e közöttünk az (unoka)nővérei is? Honnét vette hát mindezt?” És csak botránkoztak rajta.\n\nJézus erre így szólt: „Sehol sem becsülik kevesebbre a prófétát, mint szülőföldjén és otthonában.”\n\nHitetlenségük miatt nem is művelt ott sok csodát.",
+  "cite": "Mt 13,54-58"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Jeremiás próféta könyvéből",
+  "summary": "Fenyegető jövendölései miatt meg akarja ölni Jeremiást a papság és a nép.",
+  "text": "Jojakimnak, Jozia fiának, Júda királyának uralkodása kezdetén ezt a szózatot intézte az Úr Jeremiáshoz: „Ezt mondja az Úr: Állj oda az Úr házának udvarába, és azokat a szavakat mind, amelyeknek a hirdetésére parancsot adtam neked, hirdesd Júda városai lakóinak, akik imádkozni jönnek az Úr házába.\n\nNe hallgass el egyetlen szót sem!\n\nHátha szót fogadnak, és megtérnek gonosz útjaikról.\n\nAkkor én is visszavonom azt a veszedelmet, amelyet rájuk akarok hozni tetteik gonoszsága miatt.\n\nÍgy beszélj hozzájuk: Ezt mondja az Úr: Ha nem hallgattok rám, és nem jártok törvényeim szerint, amelyeket elétek tártam, és nem figyeltek szolgáimnak, a prófétáknak szavára, akiket én folyton-folyvást küldtem hozzátok, de ti soha nem hallgattatok rájuk, akkor ezt a templomot Silóhoz teszem hasonlóvá, ezt a várost pedig gyalázni fogja a föld összes nemzete.”\n\nA papok, az álpróféták és az egész nép hallotta, amint Jeremiás elmondta ezt a beszédet az Úr házának udvarán. Amikor tehát Jeremiás mind elmondta, amit az Úr parancsára el kellett mondania az egész népnek, a papok és az álpróféták megragadták, és így szóltak: „Halállal kell lakolnod!\n\nMiért jövendöltél az Úr nevében így: »Ez a templom Siló hegyéhez lesz hasonlóvá, ez a város meg úgy elpusztul, hogy lakója sem marad!«?”\n\nErre az Úr házában az egész nép egybegyűlt Jeremiás ellen.",
+  "cite": "Jer 26,1-9"
+ }
+}

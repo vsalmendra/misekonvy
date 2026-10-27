@@ -1,0 +1,32 @@
+{
+ "key": "advent-3-2",
+ "source_date": "2025-12-16",
+ "rank": "",
+ "day": "3. adventi hét kedd",
+ "psalm": {
+  "cite": "33,2-3.6-7.17-18.19 és 23",
+  "response": "A szegény az Úrhoz kiáltott, és az Úr meghallgatta őt.",
+  "verses": [
+   "Minden időben áldom az Urat,\ndicséretét szüntelenül zengi ajkam.\nLelkem az Úrban dicsekszik,\nhallják meg ezt a szelídek és örvendezzenek.",
+   "Megvilágosultok, ha az Úrra néztek,\nés arcotokat nem éri szégyen.\nAz Úr meghallgatta a szegényt, aki hozzá kiáltott,\nés minden szorongatásból kiszabadította.",
+   "Közel van az Úr azokhoz, akik töredelmes szívűek,\nszabadulást hoz a megtört lelkeknek.\nAz Úr megváltja szolgáinak lelkét,\nés nem bűnhődnek, akik őbenne bíznak,"
+  ]
+ },
+ "alleluia": {
+  "text": "Jöjj, és ne késlekedjél, Urunk, oldozd fel néped bűneit.",
+  "cite": ""
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Ne szavakkal, hanem tettekkel szeressük az Istent!",
+  "text": "Abban az időben Jézus ezt mondta a főpapoknak és a nép véneinek; „Erről mi a véleményetek? Egy embernek két fia volt. Odament az egyikhez, és így szólt hozzá: »Fiam, menj ki ma, és dolgozz a szőlőben!« A fiú azt válaszolta: »Nincs kedvem!«, de később megbánta, és mégis kiment. Odament a másikhoz, és annak is szólt. Az így válaszolt: »Szívesen, uram!« menni azonban nem ment. Kettőjük közül melyikük teljesítette az apa akaratát?”\n\nAzt felelték: „Az első.”\n\nErre Jézus így szólt hozzájuk: „Bizony mondom nektek: A vámosok és utcanők megelőznek titeket Isten országában. Mert eljött hozzátok János az igazságosság útján járva, és ti nem hittetek neki, a vámosok és utcanők viszont hittek neki. De ti, akik mindezt láttátok, még ezután sem tértetek jobb belátásra, hogy higgyetek neki!”",
+  "cite": "Mt 21,28-32"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Szofoniás próféta könyvéből",
+  "summary": "Isten megígéri a Megváltót, mint a szegények Szabadítóját és Üdvözítőjét. – De jaj a nagyhangú kevélyeknek!",
+  "text": "Prófétája által feddően szól az Úr: Jaj a lázadó és tisztátalan városnak, a hatalmaskodónak! Nem hallgatott a szóra, nem fogadta el a figyelmeztetést. Nem bízott az Úrban, Istenéhez nem közeledett! Igen, akkor majd tiszta ajkat adok a népeknek, hogy mindannyian segítségül hívhassák az Úr nevét, és egy szívvel szolgáljanak neki. Etiópia folyóin túlról is hoznak majd nekem áldozatot az én híveim, a szétszóratás fiai. Azon a napon nem kell majd szégyenkezned a tetteid miatt, amelyeket ellenem elkövettél. Mert akkor majd eltávolítom körödből azokat, akik gőgösek és hivalkodnak. Nem fogsz többé kérkedni szent hegyemen. Nem hagyok meg belőled mást, csak egy szerény kis népet, amely az Úr nevében reménykedik: Izrael maradékát. Nem művelnek többé gonoszságot, nem beszélnek hazugságot, és nem ejtenek álnok szavakat. Legelnek, delelnek, és senki sem háborgatja őket.",
+  "cite": "Szof 3,1-2.9-13"
+ }
+}

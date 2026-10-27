@@ -1,0 +1,34 @@
+{
+ "key": "nagybojt-3-1",
+ "source_date": "2026-03-09",
+ "rank": "",
+ "day": "3. nagyböjti hét hétfő",
+ "psalm": {
+  "cite": "Zsolt 41,2,3;42,3.4",
+  "response": "Az élő Isten után szomjazik lelkem, mikor jelenhetek meg Isten színe előtt.",
+  "verses": [
+   "Mint szarvasgím a források vizére,\núgy sóvárog utánad a lelkem, Istenem.",
+   "Lelkem szomjazik az Isten után, † az élő Isten után,\nmikor mehetek, hogy megjelenjek az Isten színe előtt.",
+   "Küldd el világosságodat és hűségedet,\nhogy azok vezessenek szent hegyedre és a te hajlékodba.",
+   "Odalépek Isten oltárához, † örömöm Istenéhez,\nciteraszóval magasztallak téged, én Uram, Istenem,"
+  ]
+ },
+ "alleluia": {
+  "text": "Az Úrban bízom: az ő igéjében remélek, mert az Úrnál az irgalom, és bőséges nála a megváltás.",
+  "cite": "Zsolt 129,5.7",
+  "lent": true
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Jézus Krisztus küldetése nemcsak a zsidókhoz szól, hanem a pogányokhoz is.",
+  "text": "A názáreti zsinagógában Jézus így beszélt a néphez: „Bizony mondom nektek, hogy egy próféta sem kedves a maga hazájában. Igazán mondom nektek, sok özvegy élt Izraelben Illés idejében, amikor az ég három évre és hat hónapra bezárult, úgyhogy nagy éhínség támadt az egész Földön. De közülük egyikhez sem kapott Illés küldetést, csak a szidoni Száreptában élő özvegyasszonyhoz. Ugyanígy Elizeus próféta korában is sok leprás élt Izraelben, s egyikük sem tisztult meg, csak a szíriai Námán.”\n\nEzt hallva, a zsinagógában mind haragra gerjedtek. Felugrottak, kiűzték Jézust a városon kívülre, és fölvezették arra a hegyre, amelyen városuk épült, a szakadék szélére, hogy letaszítsák. De ő áthaladt közöttük, és eltávozott.",
+  "cite": "Lk 4,24-30"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "a Királyok második könyvéből",
+  "summary": "Ne mi akarjuk meghatározni, hogy mikor és hogyan tegyen velünk jót az Isten: bízzuk rá magunkat teljesen!",
+  "text": "A királyok korában történt.\n\nNámán, a szíriai király seregének vezére, nagyra becsült, kedvelt embere volt urának, mert általa adott az Úr győzelmet Arámnak. De ez az ember leprás volt.\n\nA szíriaiak egyszer kivonultak portyázni, s Izrael földjéről magukkal hurcoltak egy lányt. Ez Námán feleségének szolgálatába került. S így szólt asszonyához: „Ha uram a prófétához fordulna Szamariában, biztosan megszabadítaná leprájától.” Námán erre elment urához és előadta; „Így és így beszélt ez az Izrael földjéről való lány.” Szíria királya azt válaszolta: „Menj el s adok neked egy levelet Izrael királya számára!” El is ment, s vitt magával 10 ezüst talentumot, 6000 sékel aranyat és 10 ünnepi köntöst. Aztán átadta Izrael királyának a levelet, amely így szólt: „Ezzel a levéllel egyszersmind szolgámat, Námánt is elküldöm hozzád, szabadítsd meg leprájától!”\n\nAmikor Izrael királya elolvasta a levelet, megszaggatta ruháját és felkiáltott: „Vajon Isten vagyok én, hogy halált vagy életet tudjak osztogatni? Miért küldte hát ide ezt az embert, hogy szabadítsam meg leprájától? Világosan láthatjátok, csak ürügyet keres, hogy belém köthessen.”\n\nAmikor Elizeus meghallotta, hogy a király megszaggatta ruháját, elküldött hozzá s ezt üzente neki: „Miért szaggattad meg ruhádat? Jöjjön el hozzám, és megtudja, hogy van próféta Izraelben.”\n\nNámán tehát elment lovastul, kocsistul, és megállt Elizeus házának ajtaja előtt. Elizeus kiküldte hozzá egyik emberét, ezzel az üzenettel: „Menj, fürödj meg hétszer a Jordánban, és fölépül a tested, tiszta leszel!” Námán megharagudott és azt mondta: „Nos, azt gondoltam, majd kijön, elém áll és segítségül hívja az Úrnak, az ő Istenének a nevét, aztán a beteg rész fölé tartja kezét, s így megszabadít a leprától. Hát nem különbek-e Damaszkusz folyói, az Abana és a Parpar Izrael minden vizénél? Miért ne fürödhetnék hát meg azokban, hogy megtisztuljak?” Azzal megfordult és haragosan elment onnan. Szolgái azonban eléje léptek és a lelkére beszéltek: „Atyám, ha a próféta valami nehezet kívánt volna, nem tennéd-e meg azt is? Mennyivel inkább (meg kell tenned), mivel csak azt mondta neked: Fürödj meg és tiszta leszel.”\n\nLeszállt tehát, és Elizeus utasítása szerint hétszer alámerült a Jordánban. A teste újra olyan tiszta lett, akár egy kisgyerek teste.\n\nAztán visszatért Isten emberéhez, egész kíséretével együtt. Amikor az kijött, odament, eléje állt és azt mondta: „Valóban, most már tudom, hogy nincs Isten az egész világon, csak Izraelben.”\n\nEz a Isten igéje.",
+  "cite": "2Kir 5,1-15a"
+ }
+}

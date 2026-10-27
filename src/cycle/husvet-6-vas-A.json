@@ -1,0 +1,41 @@
+{
+ "key": "husvet-6-vas-A",
+ "source_date": "2026-05-10",
+ "rank": "",
+ "day": "Húsvét 6. vasárnapja – A társadalmi kommunikáció világnapja",
+ "psalm": {
+  "cite": "Zsolt 65,1-3a.4-5.6-7a.16 és 20",
+  "response": "Minden föld Istent dicsérje!",
+  "verses": [
+   "Vagy: Alleluja, alleluja. 10. szám.\nMinden föld dicsérje az Istent,\ndicső nevének zsoltárt zengjetek.\nMagasztaló énekkel mondjátok Istennek:\n„Mily csodásak a te műveid!”",
+   "Vagy: Alleluja, alleluja.\nAz egész föld imádjon és magasztaljon téged,\nnevedet zsoltárral dicsérje.\nJöjjetek, és lássátok Isten műveit,\ncsodálatos, amit az emberekért végbevitt.",
+   "Vagy: Alleluja, alleluja.\nSzárazfölddé tette a tengert,\ngyalogszerrel keltek át a vízen.\nÖrvendezzünk tehát őbenne,\nmert hatalmával uralkodik mindörökké.",
+   "Vagy: Alleluja, alleluja.\nJertek ide mind, és halljátok, † kik félitek az Istent,\nelmondom, mily nagy dolgot tett vélem.\nÁldott legyen az Isten, aki nem vetette el imámat,\nés nem vonta meg tőlem irgalmát.",
+   "Vagy: Alleluja, alleluja."
+  ]
+ },
+ "alleluia": {
+  "text": "Jézus mondja: „Aki szeret engem, megfogadja szavamat. Atyám is szeretni fogja, és hozzá költözünk.",
+  "cite": "Jn 14,23"
+ },
+ "gospel": {
+  "book": "Szent János",
+  "summary": "Kérni fogom az Atyát, és más Vigasztalót ad majd nektek.",
+  "text": "Abban az időben Jézus így szólt tanítványaihoz:\n\nHa szerettek engem, tartsátok meg parancsaimat. Én pedig kérni fogom\n\naz Atyát, és ő más Vigasztalót ad majd nektek: az Igazság Lelkét, aki\n\nörökre veletek marad. A világ nem kaphatja meg, mert nem látja és nem\n\nismeri. De ti ismeritek őt, mert veletek marad és bennetek lakik.\n\nNem hagylak árván titeket: visszajövök hozzátok. Rövid idő, és már\n\nnem lát engem a világ. Ti azonban láttok, mert én élek, és ti is élni\n\nfogtok.\n\nAzon a napon megtudjátok majd, hogy én Atyámban vagyok, ti énbennem,\n\nén pedig tibennetek. Aki ismeri és teljesíti parancsaimat, az szeret\n\nengem. Aki pedig szeret engem, azt Atyám is szereti, én is szeretni\n\nfogom, és én megmutatom neki magamat.",
+  "cite": "Jn 14,15-21"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "az Apostolok Cselekedeteiből",
+  "summary": "Rájuk tették a kezüket, s azok megkapták a Szentlelket.",
+  "text": "Abban az időben:\n\nFülöp elment Szamaria városába, és hirdetni kezdte Krisztust. A nép,\n\nhallva és látva a csodákat, amelyeket végbevitt, feszült figyelemmel\n\nhallgatta. A tisztátalan lelkek ugyanis nagy kiáltással eltávoztak sok\n\nmegszállottból, és sok béna meg sánta meggyógyult. Nagy lett az öröm\n\nabban a városban.\n\nAmikor a Jeruzsálemben maradt apostolok meghallották, hogy Szamaria\n\nbefogadta az Isten szavát, elküldték hozzájuk Pétert és Jánost. Mikor\n\nmegérkeztek, imádkoztak értük, hogy szálljon le rájuk a Szentlélek.\n\nMert addig még nem szállt le rájuk, csak meg voltak keresztelve Urunk\n\nJézus nevében. Rájuk tették tehát a kezüket, és azok megkapták a\n\nSzentlelket.",
+  "cite": "ApCsel 8,5-8.14-17"
+ },
+ "reading2": {
+  "label": "Szentlecke",
+  "sub": "Szent Péter apostol első leveléből",
+  "summary": "Test szerint ugyan megölték Jézust, de a Lélek szerint életre kelt.",
+  "text": "Szeretteim!\n\nUrunkat, Krisztust szentül tiszteljétek szívetekben!\n\nLegyetek mindig készen arra, hogy mindenkinek válaszolni tudjatok, aki\n\ncsak kérdezi, mi az alapja reményeteknek. De ezt szelíden,\n\ntiszteletteljesen és jó lelkiismerettel tegyétek, hogy akik Krisztusban\n\nvaló szép életetek miatt gyaláznak titeket, szégyenben maradjanak\n\nrágalmaikkal.\n\nJobb ugyanis, ha inkább jótetteitekért szenvedtek, mikor ez az Isten\n\nakarata, mintsem gonoszságaitokért. Mert Krisztus is meghalt egykor a\n\nbűnök miatt, az Igaz a bűnösökért, hogy Istenhez vezessen minket. Test\n\nszerint ugyan megölték őt, de a Lélek szerint életre kelt.",
+  "cite": "1Pét 3,15-18"
+ }
+}

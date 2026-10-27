@@ -1,0 +1,33 @@
+{
+ "key": "nagybojt-2-3",
+ "source_date": "2026-03-04",
+ "rank": "",
+ "day": "2. nagyböjti hét szerda",
+ "psalm": {
+  "cite": "Zsolt 30,5-6.14.15-16",
+  "response": "Uram, Istenem, irgalmasságodban szabadíts meg engem.",
+  "verses": [
+   "Kiszabadítasz a hálóból, amelyet titkon vetettek nekem,\nmivel te vagy az én erősségem.\nUram, kezedbe ajánlom lelkemet,\nmegváltottál engem, hűséges Istenem.",
+   "Sokak gyalázkodó szavát hallom,\nrettegés vesz körül engem,\nmert összefogtak ellenem,\nazon tanakodnak, hogy életemet kioltsák.",
+   "Én azonban benned remélek, Uram,\nazt mondom: „Te vagy Istenem, sorsom kezedben van.”\nRagadj ki az ellenség kezéből,\nés azoktól, akik üldöznek engem."
+  ]
+ },
+ "alleluia": {
+  "text": "Én vagyok a világ világossága, – mondja az Úr, aki engem követ, övé lesz az élet világossága.",
+  "cite": "Jn 8,12b",
+  "lent": true
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Az Emberfia nem azért jött, hogy neki szolgáljanak, hanem hogy ő szolgáljon mindenkinek.",
+  "text": "Jézus Jeruzsálembe indult. Útközben magához hívta tizenkét tanítványát, és bizalmasan közölte velük;\n\n„Most fölmegyünk Jeruzsálembe. Ott az Emberfiát a főpapok és írástudók kezére adják, halálra ítélik, majd kiszolgáltatják a pogányoknak, megcsúfolják, megostorozzák és keresztre feszítik, de harmadnapra feltámad.”\n\nEkkor odalépett hozzá a Zebedeus-fiúknak (Jakab és János apostoloknak) anyja, fiaival együtt, és leborult előtte, hogy kérjen valamit. Jézus megkérdezte tőle: „Mit kívánsz?”\n\nŐ azt felelte: „Intézd úgy, (Uram,) hogy az én két fiam országodban melletted üljön: az egyik jobbodon, a másik pedig bal oldaladon.”\n\nJézus így válaszolt nekik: „Nem tudjátok, hogy mit kértek. Készek vagytok-e arra, hogy kiigyátok azt a kelyhet, amelyet nekem ki kell innom?”\n\n„Készek vagyunk!” – felelték.\n\nJézus erre így folytatta: „A szenvedések kelyhét velem együtt kiisszátok majd. De hogy ki üljön mellettem jobb és bal felől, azt nem én döntöm el. Azok ülnek majd ott, akiket mennyei Atyám erre kiválasztott.”\n\nAmikor a többi tíz (apostol) ezt meghallotta, méltatlankodni kezdett a testvérpár viselkedése miatt. Jézus magához hívta őket, és így szólt hozzájuk: „Tudjátok, hogy a pogányoknál hogyan hatalmaskodnak a vezető emberek: akinek nagyobb a rangja, érezteti a hatalmát. Nálatok ne így legyen! Aki köztetek nagyobb akar lenni, legyen a szolgátok! És aki első akar lenni, legyen a cselédetek! Az Emberfia sem azért jött, hogy neki szolgáljanak, hanem hogy ő szolgáljon másoknak, és odaadja életét váltságul mindenkiért.”",
+  "cite": "Mt 20,17-28"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Jeremiás próféta könyvéből",
+  "summary": "A gonoszok mindig üldözik a jókat, de Isten végül igazságot szolgáltat.",
+  "text": "Miközben Jeremiás az Úr parancsát teljesítette, így fondorkodtak egymás között ellenségei:\n\n„Rajta! Szőjünk összeesküvést Jeremiás ellen, mert nélküle sem vész ki a törvény a papnál, sem a tanács a bölcsnél, sem a beszéd a prófétánál! Gyertek, vádoljuk be őt, és gondosan figyeljük meg minden szavát.”\n\nJeremiás ekkor így imádkozott:\n\n„Figyelj rám, Uram,\n\nés halld meg ellenségeim szavát!\n\nVajon rosszal szokás-e fizetni a jóért?\n\nMiért ásnak hát vermet nekem?\n\nEmlékezzél! A színed elé álltam, hogy közbenjárjak értük,\n\nés elhárítsam a haragodat róluk.”",
+  "cite": "Jer 18,18-20"
+ }
+}

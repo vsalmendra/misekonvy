@@ -1,0 +1,33 @@
+{
+ "key": "evkozi-29-1-II",
+ "source_date": "2026-10-19",
+ "rank": "",
+ "day": "29. évközi hét hétfő",
+ "psalm": {
+  "cite": "Zsolt 99,2-5",
+  "response": "Az Úr alkotott minket, és övéi vagyunk mindnyájan.",
+  "verses": [
+   "Ujjongjatok az Úrnak, minden földek,\nszolgáljatok az Úrnak vidámsággal!\nJáruljatok színe elé\nvidám énekszóval!",
+   "Tudjátok meg, hogy az Úr az Isten,\növé vagyunk, ő alkotott minket.\nAz ő népe vagyunk,\nlegelőjének nyája.",
+   "Őt magasztalva lépjetek be kapuján, † énekelve vonuljatok hajlékába,\náldjátok nevét, és adjatok hálát néki.",
+   "Valóban jó az Úr, † irgalma örökké megmarad,\nés hűsége nemzedékről nemzedékre."
+  ]
+ },
+ "alleluia": {
+  "text": "Boldogok, akik lélekben szegények: övék a mennyek országa.",
+  "cite": "Mt 5,3"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Kerüld a kapzsiságot!\n\nLégy mindig kész a számadásra!",
+  "text": "Abban az időben amikor Jézus tanított, valaki megszólalt a sokaságból: „Mester, szólj testvéremnek, hogy ossza meg velem az örökséget!” Ő így válaszolt neki: „Ember, ki hatalmazott fel engem, hogy bírátok legyek, és elosszam örökségteket?”\n\nMajd a tömeghez fordult: „Vigyázzatok, és őrizkedjetek minden kapzsiságtól, mert nem a vagyonban való bővelkedéstől függ az ember élete.”\n\nPéldabeszédet is mondott nekik: „Egy gazdag embernek a földje bőséges termést hozott. Így okoskodott magában: »Mit tegyek? Nincs hová gyűjtenem a termésemet. Tudom már, mit teszek: lebontom csűreimet és nagyobbakat építek, oda gyűjtöm majd a termést és minden vagyonomat. Aztán majd elégedetten mondom magamnak: Ember, van elég vagyonod, eltart sok évig. Pihenj, egyél, igyál, és élvezd az életet!«\n\nÁm az Isten így szólt hozzá: »Esztelen, még az éjjel számon kérik tőled lelkedet. Kié lesz mindaz, amit szereztél?«\n\nÍgy jár az, aki kincset gyűjt magának, ahelyett hogy Istenben gazdagodnék!”",
+  "cite": "Lk 12,13-21"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak az efezusiakhoz írt leveléből",
+  "summary": "Isten Krisztussal életre keltett minket is a bűn halálából, hogy vele éljünk a mennyben.",
+  "text": "Testvéreim!\n\nEgykor halottak voltatok vétkeitek és bűneitek következtében, mert a világ szokásai szerint éltetek, és a gonosz lélek uralma alatt voltatok. Ez a gonosz fejedelem a hitetlenség fiaiban dolgozik most is. Amíg testi vágyainkban éltünk, és megtettük, amit a test és az érzékek kívántak, mi is közéjük tartoztunk. Születésünknél fogva mi is a harag gyermekei voltunk, akárcsak a többi ember.\n\nDe a végtelenül irgalmas Isten azzal mutatta meg nagy szeretetét irántunk, hogy Krisztussal életre keltett minket is, akik bűneink miatt halottak voltunk. Így az ő kegyelméből kaptátok az üdvösséget. Feltámasztott minket, és Krisztus Jézusban a mennyeiek közé helyezett, hogy az eljövendő korokban Jézus Krisztusban kinyilvánítsa kegyelmének túláradó bőségét, irántunk való jóságából.\n\nKegyelemből részesültetek az üdvösségben, a hit által. Ez tehát nem a magatok érdeme, hanem Isten ajándéka. Nem tetteiteknek köszönhetitek, hogy senki se dicsekedhessék. Az ő alkotása vagyunk: Krisztus Jézusban jótettekre teremtett minket. Ezeket Isten előre elrendelte, hogy bennük éljünk.",
+  "cite": "Ef 2,1-10"
+ }
+}

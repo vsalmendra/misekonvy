@@ -1,0 +1,33 @@
+{
+ "key": "evkozi-27-1-II",
+ "source_date": "2026-10-05",
+ "rank": "",
+ "day": "27. évközi hét hétfő",
+ "psalm": {
+  "cite": "Zsolt 110,1-2.7-9 és 10c",
+  "response": "Az Úr megemlékezik szövetségéről örökkön örökké.",
+  "verses": [
+   "Vagy: Alleluja. 12. szám.\nTeljes szívemből áldom az Urat\na szentek tanácsában és közösségében.\nNagyszerűek az Úr művei\nmindazok szemében, akik szeretik azokat.",
+   "Vagy: Alleluja.\nKezének műve igazság és igaz ítélet,\nparancsai mind szilárdak.\nMegmaradnak örökre,\nhűségre és igazságra épülnek.",
+   "Vagy: Alleluja.\nSzabadulást hozott népének,\nszövetséget kötött vele örökre.\nAkik így cselekszenek, bölcsekké válnak;\naz Úr dicsősége megmarad örökké.",
+   "Vagy: Alleluja."
+  ]
+ },
+ "alleluia": {
+  "text": "Jézus mondja: „Új parancsot adok nektek. Szeressétek egymást, ahogyan én szeretlek titeket!”",
+  "cite": "Jn 13,34"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Jézus példabeszédet mond az irgalmas szamaritánusról, és ezzel világítja meg, hogy az idegen ember is felebarátunk.",
+  "text": "Abban az időben egy törvénytudó odalépett Jézushoz, hogy próbára tegye őt: „Mester – szólította meg –, mit tegyek, hogy elnyerjem az örök életet?” Jézus így felelt: „Mit mond erről a törvény? Mit olvasol benne?” A törvénytudó így válaszolt: „Szeresd Uradat, Istenedet, teljes szívedből, teljes lelkedből, teljes erődből és teljes elmédből, felebarátodat pedig, mint saját magadat.” Jézus ezt mondta neki: „Helyesen feleltél. Tedd ezt, és élni fogsz.”\n\nA törvénytudó igazolni akarta magát, ezért megkérdezte Jézustól: „De hát ki az én felebarátom?”\n\nVálaszul Jézus ezt mondta neki: „Történt, hogy egy ember Jeruzsálemből lement Jerikóba. Rablók kezébe került. Ezek kifosztották, véresre verték, és félholtan otthagyták.\n\nEgyszer csak egy pap jött lefelé az úton. Észrevette, de elment mellette. Azután egy levita jött arra. Ő is meglátta, de elment mellette. Végül egy szamaritánusnak is arra vitt az útja. Amikor megpillantotta, megesett rajta a szíve. Odament hozzá, olajat és bort öntött sebeire, és bekötözte, majd pedig felültette teherhordó állatára, elvitte egy vendégfogadóba és gondoskodott róla. Másnap elővett két dénárt, odaadta a fogadósnak ezzel a kéréssel: »Viseld gondját, és ha többet költenél rá, visszatérve megadom neked.«\n\nMit gondolsz, e három közül ki volt a felebarátja annak, aki a rablók kezébe került?” A törvénytudó így válaszolt: „Aki irgalmasságot cselekedett vele.”\n\nJézus így folytatta: „Menj, és te is hasonlóképpen cselekedjél!”",
+  "cite": "Lk 10,25-37"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a galatákhoz írt leveléből",
+  "summary": "Szent Pál ünnepélyesen kijelenti: tanítása nem embertől való, hanem Jézus Krisztus kinyilatkoztatása.",
+  "text": "Testvéreim!\n\nCsodálkozom, hogy attól, aki meghívott titeket Krisztus kegyelmére, ilyen hamar átpártoltatok egy más evangéliumhoz, jóllehet más evangélium nincs. Legföljebb néhány ember akad, aki megzavar titeket, és igyekszik elferdíteni Krisztus evangéliumát.\n\nDe még ha mi, vagy egy mennyei angyal más evangéliumot hirdetne nektek, mint amit mi hirdettünk: átkozott legyen! Amint már kijelentettük, most újra megismételjük: „Ha valaki más evangéliumot hirdetne nektek, mint amit tőlünk hallottatok, átkozott legyen!” Az emberek kedvét keresem ezzel vagy az Istenét?\n\nTalán embereknek akarok tetszeni? Ha az emberek tetszését keresném, nem volnék Krisztus szolgája.\n\nBiztosítalak benneteket, hogy az általam hirdetett evangélium nem embertől való. Hiszen nem embertől kaptam vagy tanultam, hanem Jézus Krisztus kinyilatkoztatásából.",
+  "cite": "Gal 1,6-12"
+ }
+}

@@ -1,0 +1,39 @@
+{
+ "key": "evkozi-3-vas-A",
+ "source_date": "2026-01-25",
+ "rank": "",
+ "day": "Évközi 3. vasárnap – Isten igéjének vasárnapja",
+ "psalm": {
+  "cite": "Zsolt 26,1.4.13-14",
+  "response": "Világosságom az Isten, üdvözít engem.",
+  "verses": [
+   "(2. tónus.)\nVilágosságom és üdvösségem az Úr,\nkitől félnék?\nÉletem oltalmazója az Úr,\nkitől rettegnék?",
+   "Egyet kérek az Úrtól, † csak egy a vágyam,\nhogy az Úr házában lakjam életem minden napján,\nhogy élvezhessem az Úr örömét,\nés hogy szemlélhessem szent templomát.",
+   "Hiszem, hogy meglátom az Úr javait\naz élők földjén.\nRemélj az Úrban, bátran cselekedj,\nszíved legyen erős, és bízzál az Úrban."
+  ]
+ },
+ "alleluia": {
+  "text": "Jézus hirdette országának örömhírét, és minden betegséget meggyógyított a nép körében.",
+  "cite": "Mt 4,23"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Jézus Kafarnaumba jött, hogy beteljesedjék, amit Izajás mondott.",
+  "text": "Amikor Jézus meghallotta, hogy (Keresztelő) Jánost fogságba vetették,\n\nvisszatért Galileába. Elhagyta Názáretet, és a tengerparti Kafarnaumban\n\ntelepedett le, Zabulon és Neftali vidékén, hogy beteljesedjék, amit\n\nIzajás próféta mondott:\n\nZabulon földje és Neftali földje, a tenger útja, a Jordán vidéke, a pogányok Galileája: A sötétben lakó nép nagy fényt lát, és fény virrad a halál honában s árnyékában ülőkre.\n\nEttől kezdve Jézus tanítani kezdett. Ezt hirdette: „Térjetek meg,\n\nmert elközelgett a mennyek országa!”\n\nA Galileai-tenger mentén járva meglátott két testvért: Simont, akit\n\nPéternek is neveznek, és Andrást, a testvérét. Éppen hálót vetettek a\n\ntengerbe, mert halászok voltak. Így szólt hozzájuk: „Kövessetek engem,\n\nés én emberek halászává teszlek titeket!” Erre azok otthagyták\n\nhálóikat és követték őt. Amint onnan továbbment, meglátott másik két\n\ntestvért is: Zebedeus fiát, Jakabot és testvérét, Jánost. Apjukkal,\n\nZebedeussal a hálóikat javították a csónakban. Őket is elhívta. Ők is\n\notthagyták a csónakot és az apjukat, és követték őt.\n\nJézus pedig bejárta egész Galileát. Tanított a zsinagógákban,\n\nhirdette a mennyek országa örömhírét, és meggyógyított a nép körében\n\nminden betegséget és minden gyötrelmet.",
+  "cite": "Mt 4,12-23"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Izajás próféta könyvéből",
+  "summary": "A pogány nemzetek területén a nép nagy fényességet lát.",
+  "text": "Egykor megalázta az Úr Zabulon földjét és Neftali földjét. De az\n\neljövendő napokban megdicsőíti majd a Tenger útját, a Jordánon túli\n\nvidéket, a pogány nemzetek területét.\n\nA nép, amely sötétségben jár,\n\nnagy fényességet lát.\n\nAkik a halál árnyékának országában laknak,\n\nazoknak nagy világosság támad.\n\nNagy ujjongással töltöd el őket,\n\nkitörő örömöt adsz nekik.\n\nÚgy örülnek majd színed előtt,\n\nahogyan aratáskor szoktak örülni,\n\ns ahogy akkor örülnek, amikor a zsákmányt osztják.\n\nMert terhes igáját, a vállára nehezedő rudat,\n\nsanyargatója botját összetöröd, mint Midián idejében.",
+  "cite": "Iz 8,23b–9,3"
+ },
+ "reading2": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a korintusiakhoz írt első leveléből",
+  "summary": "Éjetek mindnyájan egyetértésben, és ne szakadjatok pártokra!",
+  "text": "Testvéreim!\n\nUrunk Jézus Krisztus nevére kérlek titeket, éljetek\n\nmindnyájan egyetértésben, és ne szakadjatok pártokra! Forrjatok eggyé\n\nugyanabban a lelkületben, ugyanabban a felfogásban! Kloé hozzátartozói\n\nugyanis azt a hírt hozták felőletek, testvérek, hogy pártokra\n\nszakadtatok. Arra gondolok, hogy akadnak köztetek, akik azt mondják:\n\n„Én Pállal tartok, én meg Apollóval, én Kéfással, én meg\n\nKrisztussal!”\n\nTalán megoszlott Krisztus? Vajon Pált feszítették értetek keresztre,\n\nvagy Pál nevében keresztelkedtetek meg?\n\nKrisztus engem nem keresztelni küldött, hanem azért, hogy hirdessem\n\naz evangéliumot, – de ne bölcselkedő beszéddel, hogy Krisztus\n\nkeresztje erejét ne veszítse.",
+  "cite": "1Kor 1,10-13.17"
+ }
+}

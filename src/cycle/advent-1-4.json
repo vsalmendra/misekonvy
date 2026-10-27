@@ -1,0 +1,33 @@
+{
+ "key": "advent-1-4",
+ "source_date": "2025-12-04",
+ "rank": "",
+ "day": "1. adventi hét csütörtök",
+ "psalm": {
+  "cite": "Zsolt 117,1 és 8-9.19-21.25-27",
+  "response": "Áldott, aki jön az Úr nevében, áldott legyen megváltó Királyunk.",
+  "verses": [
+   "Vagy: Alleluja. 6. szám.\nAdjatok hálát az Úrnak, mert jó,\nmivel irgalma örökké megmarad.\nJobb az Úrnál keresni oltalmat,\nmint emberekben bizakodni.\nJobb az Úrnál keresni oltalmat,\nmint hatalmasokban reménykedni.",
+   "Vagy: Alleluja.\nNyissátok meg nekem az igazság kapuit,\nhadd menjek be, hogy az Úrnak hálát adjak.\nEz az Úr kapuja,\nde csak az igazak lépnek be rajta.\nHálát adok neked, mert meghallgattál engem,\nés te lettél szabadítom.",
+   "Vagy: Alleluja.\nUram, szabadíts meg engem,\nó, Uram, adj nekünk bőséget!\nÁldott, aki jön az Úr nevében, † az Úr házából megáldunk titeket,\nIsten az Úr, ő ragyog fölöttünk.",
+   "Vagy: Alleluja."
+  ]
+ },
+ "alleluia": {
+  "text": "Keressétek az Urat, amíg rá nem találtok, hívjátok segítségül, amíg közel van hozzátok!",
+  "cite": "Iz 55,6"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Aki az Atya akaratát cselekszi, az eljut a mennyek országába.",
+  "text": "A hegyi beszédben Jézus így szólt tanítványaihoz:\n\n„Nem mindaz, aki azt mondja nekem: Uram, Uram! – jut be a mennyek országába, hanem csak az, aki teljesíti mennyei Atyám akaratát.\n\nAki hallgatja tanításomat, és tettekre is váltja, hasonlít a bölcs emberhez, aki házát sziklára építette. Szakadt a zápor, ömlött az ár, süvöltött a szél és rázúdult a házra, de az nem dőlt össze, mert sziklára épült.\n\nMindaz pedig, aki hallgatja ugyan tanításomat, de tettekre nem váltja, hasonlít a balga emberhez, aki házát homokra építette. Szakadt a zápor, ömlött az ár, süvöltött a szél és rázúdult a házra. Az összedőlt, és nagy romhalmaz lett belőle.”",
+  "cite": "Mt 7,21.24-27"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Izajás próféta könyvéből",
+  "summary": "Isten országába csak a szelídek juthatnak be; a gőgös kint marad, és megszégyenül.",
+  "text": "Prófétája által szól az Úr:\n\nAzon a napon ezt az éneket éneklik Júda földjén: Erős városunk van nekünk, védelmül kőfal és bástya van benne.\n\nNyissátok ki a kapukat!\n\nHadd vonuljon be az igaz nép, amely megőrzi a hűséget, amely meg van győződve arról, hogy az Úr megőrzi békében, mivel benne bízott.\n\nBízzatok az Úrban örökkön-örökké, mert az Úr örökké megmaradó Szikla! Letaszította a magasban lakókat, és a büszke várost megalázta, földig alázta, a porba sújtotta, úgyhogy most láb tiporja, a szegénynek lába, a szűkölködők talpa.",
+  "cite": "Iz 26,1-6"
+ }
+}

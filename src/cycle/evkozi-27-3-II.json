@@ -1,0 +1,32 @@
+{
+ "key": "evkozi-27-3-II",
+ "source_date": "2026-10-07",
+ "rank": "",
+ "day": "27. évközi hét szerda",
+ "psalm": {
+  "cite": "Zsolt 116,1-2",
+  "response": "Menjetek el az egész világra, és hirdessétek az evangéliumot! Mk l6,15.",
+  "verses": [
+   "Vagy: Alleluja. 8. szám.\nDicsérjétek az Urat minden népek,\nmagasztaljátok őt minden nemzetek.",
+   "Vagy: Alleluja.\nMert erős rajtunk az ő irgalma,\nés az Úr hűsége örökké megmarad.",
+   "Vagy: Alleluja."
+  ]
+ },
+ "alleluia": {
+  "text": "Megkaptátok a fogadott fiúság Lelkét, általa így szólítjuk Istent: „Abba, Atyánk!”",
+  "cite": "Róm 8,15"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Ma Lukács evangéliumából halljuk az Úr imádságának egy rövidebb változatát; a hosszabbat a Máté-evangélium közli.",
+  "text": "Történt egyszer, hogy Jézus éppen befejezte imádságát: Ekkor egyik tanítványa arra kérte: „Uram, taníts meg minket imádkozni, mint ahogy János is tanította imádkozni tanítványait.” Jézus erre így szólt hozzájuk: „Amikor imádkoztok, ezt mondjátok:\n\nAtyánk! Szenteltessék meg a te neved.\n\nJöjjön el a te országod.\n\nMindennapi kenyerünket add meg nekünk ma.\n\nBocsásd meg vétkeinket, miképpen mi is megbocsátunk minden ellenünk vétőnek.\n\nÉs ne vígy minket kísértésbe.”",
+  "cite": "Lk 11,1-4"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a galatákhoz írt leveléből",
+  "summary": "Pál apostol – hivatása tudatában – bátran kiáll pogányságból megtért hívei lelkiismereti szabadsága mellett.",
+  "text": "Testvéreim!\n\n(Meghívásom után) tizennégy évre Barnabással együtt ismét visszatértem Jeruzsálembe, és Tituszt is magammal vittem. Kinyilatkoztatástól indíttatva mentem, és megbeszéltem az apostolokkal a pogányok között végzett evangélium-hirdetés ügyét. Külön tárgyaltam a tekintélyesebbekkel is, hogy ne legyen hiábavaló az eddigi fáradozásom és a most folyó munkám.\n\nEllenkezés nélkül elismerték, hogy én éppen úgy megbízást kaptam az evangélium hirdetésére a pogányok között, mint ahogy Péter a zsidók körében. Aki ugyanis hatékonnyá tette Péter apostoli munkáját a zsidóknál, az enyémet is hatékonnyá tette a pogányoknál. Amikor Jakab, Péter és János, akiket oszlopoknak tekintenek, felismerték a nekem adott kegyelmet, az egyetértés jeléül jobbjukat nyújtották nekem és Barnabásnak: Mi apostolkodjunk a pogányok között, ők pedig a zsidók között! Csak gondunk legyen a szegényekre! Törekedtem is arra, hogy ezt megtegyem.\n\nAmikor azonban Péter Antiochiába jött, nyíltan szembeszálltam vele, mert okot adott rá. Mielőtt ugyanis a Jakab környezetéből való testvérek Antiochiába jöttek volna, együtt étkezett a pogányokkal. Amikor viszont azok megérkeztek, visszahúzódott, és tartózkodott a pogányságból megtért testvérektől, mert tartott a zsidóságból megtért keresztények véleményétől. Ehhez a viselkedéséhez aztán többen is csatlakoztak; még Barnabást is belesodorták a kétszínűségbe. Amikor tehát láttam, hogy nem az evangélium igazságához híven viselkednek, mindnyájuk előtt kijelentettem Péternek: „Ha te zsidó származásod ellenére sem ragaszkodsz a mózesi törvény előírásaihoz, milyen alapon kényszerítheted pogány származású testvéreinket, hogy aszerint éljenek?”",
+  "cite": "Gal 2,1-2.7-14"
+ }
+}

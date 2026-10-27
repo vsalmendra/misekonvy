@@ -1,0 +1,32 @@
+{
+ "key": "evkozi-5-4-II",
+ "source_date": "2026-02-12",
+ "rank": "",
+ "day": "5. évközi hét csütörtök",
+ "psalm": {
+  "cite": "Zsolt 105,3-4.35-36.37 és 40",
+  "response": "Emlékezzél meg, Uram, rólunk, hiszen népedhez te jóságos vagy.",
+  "verses": [
+   "Boldog, aki a törvényt megtartja,\nakinek tettei mindenkor igazak.\nEmlékezzél meg, Uram, mirólunk,\nlátogass meg minket üdvösségeddel.",
+   "Atyáink a pogányok közé vegyültek,\nés cselekedeteiket eltanulták.\nBálványaiknak szolgáltak,\nez lett a vesztük.",
+   "Fiaikat, lányaikat áldozatul adták,\na démonoknak.\nEzért az Úr haragra lobbant népe ellen,\nés megutálta örökségét."
+  ]
+ },
+ "alleluia": {
+  "text": "Fogadjátok tanulékony lélekkel a belétek oltott tanítást, amely megmentheti lelketeket.",
+  "cite": "Jak 1,21bc"
+ },
+ "gospel": {
+  "book": "Szent Márk",
+  "summary": "Jézus tanítása elsősorban a választott népnek szólt, de a hívő pogányok is részesültek benne.",
+  "text": "Jézus egyszer Tírusz és Szidon vidékére vonult vissza. Itt betért egy házba, és bár rejtve akart maradni, jelenléte mégsem maradhatott titokban.\n\nEgy asszony, akinek leányát tisztátalan lélek szállta meg, tudomást szerzett róla, odasietett hozzá, és a lábához borult. Az asszony szír–föníciai származású pogány volt. Azt kérte tőle, hogy űzze ki leányából a gonosz lelket.\n\nJézus először elutasította: „Hadd lakjanak jól előbb a gyermekek; mert nem helyes, ha elveszik a gyermekek kenyerét, és a kiskutyáknak vetik!” De az asszony így folytatta: „Igaz, Uram, de az asztal alatt a kiskutyák is esznek abból, amit a gyermekek elmorzsálnak.” Jézus azt válaszolta: „Szavad jutalmaként menj! A gonosz lélek elhagyta leányodat.”\n\nAmikor hazaért, leányát az ágyon fekve találta. Már elhagyta a gonosz lélek.",
+  "cite": "Mk 7,24-30"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "a Királyok első könyvéből",
+  "summary": "Salamon öregkorára bálványimádásba süllyed; büntetésül a fia elveszíti az ország nagyobbik részét.",
+  "text": "Amikor Salamon király megöregedett, pogány származású feleségei idegen istenek szolgálatára csábították. Nem ragaszkodott már olyan tántoríthatatlanul az Úrhoz, az ő Istenéhez, mint atyja, Dávid, hanem Astóretet tisztelte, a szidoniak istennőjét, meg Milkómot, az ammoniták bálványát. Ezzel Salamon olyat tett, ami nem tetszett az Úrnak, nem követte olyan állhatatosan az Urat, mint atyja, Dávid.\n\nEkkoriban épített Salamon szentélyt Kámosnak, a moábiták bálványának a Jeruzsálemmel szemben fekvő hegyen; aztán meg Mólóknak, az ammoniták bálványának. Így tett a kedvére többi pogány származású feleségének is, akik a maguk istenének gyújtottak tömjént, és mutattak be áldozatot.\n\nAz Úr megharagudott Salamonra, mivel szíve elfordult Urától, Izrael Istenétől. Az Úr kétszer is megjelent neki, és megparancsolta, hogy ne kövessen idegen isteneket, de ő mégse tartotta meg, amit az Úr parancsolt neki.\n\nEzért az Úr kijelentette Salamonnak: „Mivel ezt tetted, és nem tartottad meg szövetségemet meg a neked adott parancsaimat, elveszem tőled királyságodat, és egy alattvalódnak adom. Atyádra, Dávidra való tekintettel nem teszem meg ezt a te napjaidban, hanem fiad kezéből veszem majd el. De nem veszem el az egész királyságot; egy törzset meghagyok fiadnak, tekintettel szolgámnak, Dávidnak érdemeire meg Jeruzsálem miatt, melyet lakóhelyül választottam.",
+  "cite": "1Kir 11,4-13"
+ }
+}

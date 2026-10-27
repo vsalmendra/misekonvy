@@ -1,0 +1,35 @@
+{
+ "key": "fix-07-11",
+ "source_date": "2026-07-11",
+ "rank": "Ü",
+ "day": "Szent Benedek, apát, Európa fővédőszentje – Ü",
+ "psalm": {
+  "cite": "Zsolt 33,2-3.4-5.6-7.8-9.10-11",
+  "response": "Hálát adok az Úrnak minden időben!",
+  "verses": [
+   "Vagy: Ízleljétek és lássátok,\nmilyen édes az Úr. 9a. vers.\nMinden időben áldom az Urat,\ndicséretét szüntelenül zengi ajkam.\nLelkem az Úrban dicsekszik,\nhallják meg ezt a szelídek és örvendezzenek.",
+   "Vagy: Ízleljétek és lássátok,\nmilyen édes az Úr.\nMagasztaljátok az Urat énvelem,\ndicsőítsük az ő nevét mindnyájan.\nKerestem az Urat, és ő meghallgatott engem,\nés kiragadott minden rettegésből.",
+   "Vagy: Ízleljétek és lássátok,\nmilyen édes az Úr.\nMegvilágosultok, ha az Úrra néztek,\nés arcotokat nem éri szégyen.\nAz Úr meghallgatta a szegényt, aki hozzá kiáltott,\nés minden szorongatásából kiszabadította.",
+   "Vagy: Ízleljétek és lássátok,\nmilyen édes az Úr.\nAz Úr angyala minden istenfélőt körülsáncol,\nés megszabadítja őt.\nÍzleljétek és lássátok, milyen édes az Úr,\nboldog az az ember, aki őbenne bízik.",
+   "Vagy: Ízleljétek és lássátok,\nmilyen édes az Úr.\nFéljétek az Urat, ti, szentjei,\nmert semmit sem nélkülöznek az istenfélők.\nA gazdagok nyomorognak és éheznek,\nde akik az Urat keresik, nem szűkölködnek.",
+   "Vagy: Ízleljétek és lássátok,\nmilyen édes az Úr."
+  ]
+ },
+ "alleluia": {
+  "text": "Boldogok a lélekben szegények, mert övék a mennyek országa.",
+  "cite": "Mt 5,3"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Ti, akik elhagytatok mindent és követtetek engem, százannyit kaptok.",
+  "text": "Egy alkalommal Péter megkérdezte: „Nézd, mi mindenünket elhagytuk, és követtünk téged. Mi lesz a jutalmunk?” Jézus így válaszolt: „Bizony, mondom nektek: ti, akik követtetek engem: a világ megújulásakor, amikor az Emberfia dicsőséges trónjára ül, együtt ültök majd vele tizenkét trónon, hogy ítélkezzetek Izrael tizenkét törzse felett. Sőt mindaz, aki elhagyja értem otthonát, testvéreit, nővéreit, atyját, anyját, gyermekeit vagy földjét, százannyit kap, és elnyeri majd az örök életet.”",
+  "cite": "Mt 19,27-29"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "a Példabeszédek könyvéből",
+  "summary": "Tárd ki szívedet az okosság megismerésére.",
+  "text": "Fiam, ha megfogadod szavaimat, és megtartod parancsaimat, ha füledet megnyitod a bölcsesség előtt, és szívedet kitárod az okosság megismerésére, sőt ha hívod is a bölcsességet és szívedet az okosságra hajtod, ha keresed azt, mint az ezüstöt, és kutatod, mint rejtett kincset, akkor érted meg az Úr félelmét, és nyered el az Isten ismeretét. Mert csak az Úr adhat bölcsességet, az ő szájából származik a tudás és az értelem.\n\nKész üdvöt adni az igazaknak, védőpajzsuk azoknak, akik jámborul élnek. Védelmezi az igazság ösvényét és őrködik azok felett, akik hűek hozzá. Ha szívedbe fogadod a bölcsességet, akkor megérted az igazságosságot, a törvényt, a becsületet, a helyes utat.",
+  "cite": "Péld 2,1-9"
+ }
+}

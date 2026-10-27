@@ -1,0 +1,39 @@
+{
+ "key": "evkozi-19-vas-A",
+ "source_date": "2026-08-09",
+ "rank": "",
+ "day": "Évközi 19. vasárnap",
+ "psalm": {
+  "cite": "Zsolt 84,9ab-10.11-12.13-14",
+  "response": "Urunk, mutasd meg nekünk irgalmas szívedet, és üdvösségünket add meg nékünk!",
+  "verses": [
+   "Hadd halljam, mit mond az én Uram, Istenem,\nmert népének és szentjeinek békét ígér.\nAz istenfélőkhöz valóban közel az üdvösség,\nhogy országukba dicsőség költözzék.",
+   "Irgalom és hűség majd egymásra lelnek,\ncsókot vált az igazság és a béke.\nA földből a hűség kisarjad,\nés az igazságosság tekint le az égből.",
+   "Az Úr jóságát megmutatja,\nföldünk is meghozza termését.\nIgazság jár az Úr előtt,\nés béke a lába nyomában."
+  ]
+ },
+ "alleluia": {
+  "text": "Az Úrban remélek, igéjében bízom.",
+  "cite": "Zsolt 129,5"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Parancsold meg, hogy a vízen hozzád menjek!",
+  "text": "Amikor (a kenyérszaporítás után) a tömeg befejezte az étkezést, Jézus mindjárt a csónakba parancsolta tanítványait, hogy amíg ő elbocsátja a tömeget, menjenek át előtte a túlsó partra. Amint elbocsátotta az embereket, fölment a hegyre, hogy egyedül imádkozzék. Közben beesteledett, s ő ott volt egymagában. A csónak pedig már jó pár stádiumnyira eltávolodott a parttól. Hányták-vetették a hullámok, mert ellenszél fújt. Éjszaka a negyedik őrváltás idején Jézus elindult feléjük a víz színén járva. Amikor észrevették, azt hitték, hogy kísértet, és rémületükben felkiáltottak. De Jézus azonnal megszólította őket: „Bátorság! Én vagyok! Ne féljetek!” Erre Péter odaszólt neki: „Uram, ha te vagy az, parancsold meg, hogy hozzád menjek a vízen!” Ő azt mondta: „Jöjj!” Péter ki is szállt a csónakból, elindult a vízen, és ment Jézus felé. De az erős szél láttán megijedt, és merülni kezdett. Felkiáltott: „Ments meg, Uram!” Jézus nyomban kinyújtotta kezét, megfogta őt, és így szólt hozzá: „Te kicsinyhitű, miért kételkedtél?” Mikor beszálltak a bárkába, a szél elállt. A csónakban levők pedig leborultak előtte, és így szóltak: „Te valóban az Isten Fia vagy!”",
+  "cite": "Mt 14,22-33"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "a Királyok első könyvéből",
+  "summary": "A hegyen járulj az Úr színe elé!",
+  "text": "Illés próféta elérkezett Isten hegyéhez, a Hórebhez. Bement egy barlangba és ott töltötte az éjszakát. Az Úr azt mondta neki: „Menj és a hegyen járulj az Úr színe elé!” S íme az Úr elvonult arra. Hegyeket tépő, sziklákat sodró, hatalmas szélvész haladt az Úr előtt, de az Úr nem volt a szélviharban. A szélvésznek földrengés lépett a nyomába, de az Úr nem volt a földrengésben. A földrengés után tűz következett, de az Úr nem volt a tűzben. A tüzet enyhe szellő kísérte. Amikor ezt Illés észrevette, befödte arcát köntösével, kiment, és a barlang elé állt.",
+  "cite": "1Kir 19,9a.11-13a"
+ },
+ "reading2": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a rómaiakhoz írt leveléből",
+  "summary": "Inkább azt kívánnám, hogy magam legyek átok alatt testvéreimért.",
+  "text": "Testvéreim!\n\nIgazat mondok Krisztusban, nem hazudom. Lelkiismeretem tanúskodik a Szentlélekben, hogy nagy az én szomorúságom és állandó a szívem fájdalma!\n\nInkább azt kívánnám, hogy magam legyek átok alatt, távol Krisztustól testvéreimért, a test szerint népemből valókért, Izrael fiaiért! Hiszen övék az istenfiúság, a dicsőség, a szövetségek, a törvényadás, az istentisztelet és az ígéretek. Övéik az atyák, és test szerint közülük származik Krisztus, aki mindenek fölött való, mindörökké áldott Isten. Ámen.",
+  "cite": "Róm 9,1-5"
+ }
+}

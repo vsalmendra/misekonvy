@@ -1,0 +1,32 @@
+{
+ "key": "evkozi-17-1-II",
+ "source_date": "2026-07-27",
+ "rank": "",
+ "day": "17. évközi hét hétfő",
+ "psalm": {
+  "cite": "MTörv 32,18-19.20.21",
+  "response": "Elhagytad az Urat, aki alkotott téged.",
+  "verses": [
+   "Elhagytad Uradat, aki alkotott téged,\nelfeledted Istenedet, aki életet adott néked.\nLátta az Isten, és haragra gerjedt,\nmert felingerelték őt népének fiai és leányai.",
+   "Akkor az Úr így szólt:\n„Elrejtem előlük arcomat;\nhadd lássam, mi lesz velük,\nmert csalárd és hűtlen ez a nemzedék.”",
+   "„Féltékennyé tettek engem a nem létező istenre,\nés kevélységükkel haragra indítottak,\nde én is féltékennyé teszem őket idegen népekkel,\nés pogány népekkel ingerlem őket.”"
+  ]
+ },
+ "alleluia": {
+  "text": "Mennyei Atyánk életre hívott minket az igazság igéje által, hogy a teremtmények első zsengéje legyünk.",
+  "cite": "Jak 1,18"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Jézus példabeszédben tanítja: hogyan növekszik Isten országa.",
+  "text": "Jézus egy alkalommal ezt a példabeszédet mondta a népnek:\n\nA mennyek országa hasonló a mustármaghoz, amelyet a földműves elültet földjébe. Ez a mag kisebb ugyan mindenféle magnál, de amikor felnő, nagyobb, mint a kerti vetemények. Valóságos fa lesz belőle, úgyhogy az ég madarai eljönnek, és ágai között laknak.\n\nJézus azután egy másik példabeszédet is mondott nekik: A mennyek országa hasonló a kovászhoz. A gazdasszony elvegyíti három véka lisztbe, és a kovász átjárja az egész tésztát.\n\nMindezt példabeszédekben mondta Jézus a népnek. Példabeszéd nélkül nem szólt hozzájuk. Beteljesedett, amit így jövendölt meg a próféta: „Megnyitom ajkamat, és példabeszédekben hirdetem azt, ami titok volt a világ kezdete óta.”",
+  "cite": "Mt 13,31-35"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Jeremiás próféta könyvéből",
+  "summary": "A hűtlen néppel már semmit sem lehet kezdeni; ezért nem kerülheti el a büntetést.",
+  "text": "A nép sorsáról kapott látomását így írja le Jeremiás, így szólt az Úr: „Vásárolj magadnak egy lenvászon övet!\n\nKösd a derekadra, és óvd a nedvességtől!”\n\nMeg is szereztem az övet az Úr szava szerint, és a derekamra kötöttem.\n\nMajd másodszor is szólt hozzám az Úr: „Vedd az övet, amelyet vásároltál és a derekadra kötöttél; indulj az Eufrátesz folyóhoz, és rejtsd el ott egy sziklahasadékba!”\n\nElmentem, és el is rejtettem, ahogy az Úr parancsolta nekem.\n\nHosszú idő után így szólt hozzám az Úr: „Kelj föl, és az Eufrátesztől hozd el az övet, amelyről megparancsoltam, hogy rejtsd el ott!”\n\nEl is mentem, és elhoztam a rejtekhelyről az övet.\n\nAz öv már tönkrement, és nem volt használható semmire se.\n\nAz Úr meg így szólt hozzám, s ezt mondta nekem: „Így teszem tönkre Júda és Jeruzsálem kevély derekát, a gonosz népet, amely igémre hallgatni már nem akar.\n\nSzívük gonosz útján járnak, más istenekhez pártolnak, hogy azoknak szolgáljanak, és azokat imádják.\n\nAzért lesznek olyanokká, mint ez az elrothadt öv, amelyet semmire sem lehet többé használni.\n\nMert ahogy az öv az ember derekához simul, úgy csatoltam én is magamhoz Júda egész házát – mondja az Úr –, hogy népemmé, dicsőségemmé dicséretemmé és hírnevemmé legyenek!\n\nDe ők nem hallgattak rám.”",
+  "cite": "Jer 13,1-11"
+ }
+}

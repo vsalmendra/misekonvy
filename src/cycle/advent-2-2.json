@@ -1,0 +1,33 @@
+{
+ "key": "advent-2-2",
+ "source_date": "2025-12-09",
+ "rank": "",
+ "day": "2. adventi hét kedd",
+ "psalm": {
+  "cite": "Zsolt 95,1-2.3 és l0ac.11-12.13",
+  "response": "Íme, a mi Istenünk erővel és hatalommal érkezik hozzánk.",
+  "verses": [
+   "Énekeljetek az Úrnak új éneket,\nminden föld az Úrnak énekeljen!\nÉnekeljetek az Úrnak, áldjátok nevét,\nnapról napra hirdessétek üdvösségét.",
+   "Hirdessétek dicsőségét a nemzetek között,\nés csodatetteit minden népnek.\nMondjátok a nemzeteknek: † „Az Úr uralkodik”,\na népek fölött igazságban ítélkezik.",
+   "Örvendjen az ég, a föld ujjongjon,\nzúgjon a tenger és ami betölti.\nÖrvendjen a mező és minden, ami rajta van,\nujjongjon az erdő minden fája az Úr színe előtt.",
+   "Mert eljön, bizony jön, hogy ítélje a földet,\nigazságosan ítéli meg a földkerekséget, és a népeket hűsége szerint."
+  ]
+ },
+ "alleluia": {
+  "text": "Az Úr napja közel van, eljön, hogy üdvözítsen minket.",
+  "cite": ""
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "A jó Pásztor nem akarja a gyengék és a bűnösök vesztét.",
+  "text": "Egy alkalommal Jézus ezt a példabeszédet mondta tanítványainak: „Mit gondoltok? Ha valakinek száz juha van, és egy elcsatangol közülük, nem hagyja-e ott a kilencvenkilencet a hegyen, és nem megy-e, hogy megkeresse az eltévedtet? Ha aztán szerencsésen megtalálja, bizony mondom nektek: jobban örül neki, mint az el nem tévedt kilencvenkilencnek. Éppen így mennyei Atyátok sem akarja, hogy csak egy is elvesszen e kicsinyek közül.”",
+  "cite": "Mt 18,12-14"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Izajás próféta könyvéből",
+  "summary": "Vigasztaló jövendölés: a jó Pásztor érkezik. Ő a Megváltó.\nEgyengessétek útját – bűnbánattal!",
+  "text": "„Vigasztaljátok meg népemet, vigasztaljátok meg” – ezt mondja Istenetek. „Szóljatok Jeruzsálem szívéhez és kiáltsátok oda neki: Véget ért szolgaságának ideje, bocsánatot nyert gonoszsága, hiszen az Úr keze kétszeresen sújtotta minden bűnéért.” Egy hang kiált: „Készítsetek utat az Úrnak a pusztában, egyengessétek Istenünk ösvényét a sivatagon át. Minden völgy emelkedjék föl, minden hegy és halom süllyedjen alá. Ami egyenetlen, váljék egyenessé, és sima úttá, ami göröngyös. Akkor megnyilvánul az Úr dicsősége, és meglátják azt mindenek. Igen, az Úr szája mondta ezt így.” Egy hang kiált: „Hirdesd!” Erre megkérdeztem: „Mit hirdessek?” „Minden test olyan, mint a fű, és minden szépsége, mint a mező virága. Kiszárad a fű, elhervad a virág, ha az Úr lehelete éri. Valóban, olyan a nép, mint a fű! Kiszárad a fű, elhervad a virág, de Istenünk szava örökké megmarad.” Menj föl egy magas hegyre, te, aki jó hírt viszel Sionnak, emeld föl erősen hangodat, te, aki jó hírt viszel Jeruzsálemnek. Emeld föl hangodat! Ne félj! Hirdesd Júda városainak: „Íme, a ti Istenetek! Íme, a ti Uratok, Istenetek eljön hatalommal, karjával mindent uralma alá vet. Vele van győzelmének jutalma, és színe előtt a bőséges zsákmány. Úgy legelteti nyáját, mint a pásztor. Karjaiba veszi bárányait, ölében hordozza őket, az anyajuhokat pedig nagy gonddal vezeti.”",
+  "cite": "Iz 40,1-11"
+ }
+}

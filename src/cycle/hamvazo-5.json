@@ -1,0 +1,33 @@
+{
+ "key": "hamvazo-5",
+ "source_date": "2026-02-20",
+ "rank": "",
+ "day": "Péntek hamvazószerda után",
+ "psalm": {
+  "cite": "Zsolt 50,3-4.5-6a.18-19",
+  "response": "Istenem, te nem veted meg az alázatos és töredelmes szívet.",
+  "verses": [
+   "Könyörülj rajtam, Istenem! † Mivel irgalmas és jóságos vagy,\ntöröld el gonoszságomat mérhetetlen irgalmaddal.\nMosd le bűnömet teljesen,\nés vétkemtől tisztíts meg engem.",
+   "Gonoszságomat beismerem,\nszüntelen előttem lebeg bűnöm.\nEgyedül csak ellened vétettem,\nami színed előtt gonosz, olyat tettem.",
+   "Mert az áldozatban kedved nem leled,\ns ha égőáldozatot hoznék, nem vennéd szívesen.\nIsten előtt kedves áldozat a megtört lélek!\nIstenem, nem veted meg az alázatos és töredelmes szívet."
+  ]
+ },
+ "alleluia": {
+  "text": "A jót keressétek és ne a rosszat, hogy éljetek, és az Úr veletek marad.",
+  "cite": "Ám 5,14",
+  "lent": true
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Jézus tanítványai majd akkor böjtölnek, ha nem lesz velük a Mester.",
+  "text": "Keresztelő János tanítványai egyszer Jézushoz járultak, és megkérdezték tőle: „Miért van az, hogy mi és a farizeusok gyakran böjtölünk, a te tanítványaid viszont nem tartanak böjtöt?”\n\nJézus így felelt nekik: „Vajon szomorkodhat-e a násznép, amíg velük van a vőlegény? Eljönnek a napok, amikor elviszik tőlük a vőlegényt, akkor majd böjtölnek.”",
+  "cite": "Mt 9,14-15"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Izajás próféta könyvéből",
+  "summary": "Az igazi böjti lelkület: az önzetlen szeretetből fakadó jó cselekedetek gyakorlása.",
+  "text": "A helyes böjtölésről prófétája által szól az Úr:\n\nKiálts teli torokból, ne kíméld magad,\n\nemeld föl hangodat, mint a harsona.\n\nHirdesd népemnek hűtlenségét,\n\nJákob házának bűneit.\n\nMert hiszen napról napra keresnek,\n\nés szeretnék megismerni útjaimat,\n\nmint olyan nemzet, amely az igazsághoz szabja tetteit,\n\nés nem hagyja el Istenének törvényét.\n\nIgaz ítéletet követelnek tőlem,\n\nés Isten közelségét óhajtják:\n\n„Miért böjtölünk, ha nem látod meg,\n\nés miért sanyargatjuk magunkat, ha nem veszed észre?”\n\nDe lám, még a böjtöléstek napján is\n\ncsak a hasznot keresitek,\n\nés sanyargatjátok munkásaitokat.\n\nVeszekedés és perlekedés közt böjtöltök,\n\nés ököllel ütitek le a szegényt.\n\nBizony, mostani böjtöléstek\n\nsoha nem szerez nektek meghallgatást a magasságban.\n\nTalán az ilyen böjt tetszik nekem?\n\nIlyen az a nap, amelyen az ember megsanyargatja magát?\n\nLehajtjátok fejeteket, mint a káka,\n\nés zsákot meg hamut terítetek magatok alá.\n\nEzt nevezitek ti böjtnek,\n\nolyan napnak, amely tetszik az Úrnak?\n\nTudjátok, milyen az a böjt, amelyet én kedvelek?\n\nEzt mondja Isten, az Úr:\n\nTörd össze a jogtalan bilincseket,\n\nés oldd meg az iga köteleit!\n\nBocsásd szabadon az elnyomottakat,\n\ntörj össze minden igát!\n\nTörd meg az éhezőnek kenyeredet,\n\nés a hajléktalan szegényt fogadd be házadba.\n\nHa mezítelent látsz, öltöztesd föl,\n\nés ne fordulj el embertársad elől!\n\nAkkor majd felragyog világosságod, mint a hajnal,\n\nés a rajtad ejtett seb gyorsan beheged.\n\nElőtted halad majd igazságod,\n\nés az Úr dicsősége gyűjt egybe téged.\n\nAkkor, ha szólítod, az Úr válaszol,\n\nkönyörgő szavadra így felel: Nézd, itt vagyok!",
+  "cite": "Iz 58,1-9a"
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "key": "nagybojt-4-3",
+ "source_date": "2026-03-18",
+ "rank": "",
+ "day": "4. nagyböjti hét szerda",
+ "psalm": {
+  "cite": "Zsolt 144,8-9.13cd-14.17-18",
+  "response": "Irgalmas a mi Urunk, Istenünk: könyörületre hajlik szíve.",
+  "verses": [
+   "Irgalmas az Úr és kegyelmes,\nnagy irgalmú és hosszan tűrő.\nAz Úr mindenkihez jóságos,\nés irgalmas minden művéhez.",
+   "Hűséges az Úr minden szavában,\nés tettei szentnek hirdetik.\nAz Úr a botladozót fenntartja,\nés fölemeli, akit megaláztak.",
+   "Igazságos az Úr minden útján,\nés szent minden művében.\nKözel az Úr mindazokhoz, akik őt hívják,\nakik hozzá kiáltanak igaz szívvel."
+  ]
+ },
+ "alleluia": {
+  "text": "Jézus mondja: „Én vagyok a feltámadás és az élet, aki hisz énbennem, nem hal meg örökre.”",
+  "cite": "Jn 11,25a.26",
+  "lent": true
+ },
+ "gospel": {
+  "book": "Szent János",
+  "summary": "Úgy kell tisztelnünk a Fiút, ahogyan a mennyei Atyát tiszteljük.",
+  "text": "Egy alkalommal Jézus ezt mondta a zsidóknak: „Az én Atyám szüntelenül munkálkodik, ugyanúgy munkálkodom én is.”\n\nE szavak hallatára a zsidók még inkább az életére törtek, mert nemcsak a szombati nyugalmat szegte meg, hanem Istent Atyjának mondta, és így egyenlővé tette magát Istennel.\n\nJézus azonban tovább hirdette: „Bizony, bizony, mondom nektek: a Fiú semmit sem tehet önmagától. Csak azt teheti, amit az Atyánál lát. Amit ugyanis az Atya cselekszik, azt cselekszi a Fiú is. Az Atya szereti a Fiút, és mindent megmutat neki, amit cselekszik. Sőt még nagyobb dolgokat is mutat majd neki, hogy csodálkozzatok rajta. Amint ugyanis az Atya halottakat támaszt föl és kelt életre, úgy a Fiú is életre kelti azokat, akiket akar.\n\nAz Atya nem ítél meg senkit sem, hanem az ítéletet egészen a Fiúra bízta, hogy mindenki úgy tisztelje a Fiút, ahogyan az Atyát tiszteli. Aki a Fiút nem tiszteli, az nem tiszteli az Atyát sem, aki a Fiút küldte. Bizony, bizony, mondom nektek: aki hallgat az én tanításomra, és hisz abban, aki engem küldött, annak örök élete van, és nem sújtja őt az ítélet, mert már átment a halálból az életre.\n\nBizony, bizony, mondom nektek: eljön az óra – sőt már itt is van –, amikor a halottak meghallják az Isten Fiának szavát. Meghallják, és életre támadnak. Amint ugyanis az Atyának élete van önmagában, a Fiúnak is megadta, hogy élete legyen önmagában.\n\nA Fiúnak hatalmat adott arra is, hogy ítéletet tartson, mert ő az Emberfia. Ne csodálkozzatok ezen! Eljön az óra, amikor a halottak meghallják az Isten Fiának szavát, és előjönnek sírjukból. Akik jót cselekedtek, feltámadnak az életre; akik rosszat tettek, feltámadnak a kárhozatra.\n\nÉn önmagamtól semmit sem tehetek. Amint (Atyámtól) hallom, úgy ítélek; és az én ítéletem igazságos, mert nem a magam akaratát keresem, hanem annak akaratát, aki küldött engem.”",
+  "cite": "Jn 5,17-30"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Izajás próféta könyvéből",
+  "summary": "A választott nép hivatása, hogy megmutassa:\nmilyen az Istennel kötött szövetség.",
+  "text": "A szabadulásra váró népnek ezt mondja az Úr:\n\n„A kegyelem idején meghallgatlak,\n\na szabadulás napján segítségedre leszek.\n\nMegőriztelek, és szövetséges néppé tettelek,\n\nhogy helyreállítsd az országot,\n\nés birtokodba vedd az elpusztított örökséget;\n\nhogy azt mondd a foglyoknak: »Menjetek!«,\n\nés a sötétségben levőknek: »Jöjjetek a világosságra!«\n\nMinden út mentén legeltetnek majd,\n\nés minden kopár halmon legelőt találnak.\n\nNem éheznek és nem szomjaznak,\n\nforró szél nem éri, és a nap heve nem égeti őket.\n\nMert aki megkönyörült rajtuk,\n\naz vezeti, és vizek forrásaihoz tereli őket.\n\nÚttá teszem nekik a hegyeket, és járhatóvá az ösvényeket.\n\nÍme, ezek messze távolról jönnek,\n\nazok északról és a tenger felől,\n\namazok pedig a déli országokból.\n\nZengjetek dicséretet, egek, és ujjongj te, föld!\n\nHegyek, daloljatok örömötökben,\n\nmert az Úr megvigasztalja népét,\n\nés megkönyörül szegényein.\n\nÍgy panaszkodott Sion:\n\n»Elhagyott az Úr! Megfeledkezett rólam!«\n\nDe megfeledkezhet-e kisgyermekéről az asszony,\n\nés megtagadhatja-e szeretetét méhe szülöttétől?\n\nDe még ha az megfeledkeznék is,\n\nén akkor sem feledkezem meg rólad.”",
+  "cite": "Iz 49,8-15"
+ }
+}

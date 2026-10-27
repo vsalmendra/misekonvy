@@ -1,0 +1,33 @@
+{
+ "key": "fix-08-15",
+ "source_date": "2026-08-15",
+ "rank": "FÜ",
+ "day": "Szűz Mária mennybevétele (Nagyboldogasszony) – FÜ",
+ "psalm": {
+  "cite": "Zsolt 44,10bc.11.12ab.16",
+  "response": "Uram, jobbodon áll a királynő arannyal átszőtt ruhában.",
+  "verses": [
+   "(Vö. 10b. vers. - 11. tónus)\nJobbodon áll a királynő,\nOfir aranyával ékesítve.",
+   "Halljad, leányom, figyelj szavamra,\nfelejtsd el népedet és atyád házát.",
+   "Szépségedet kívánja a király,\nmert ő a te urad, hódolj előtte.",
+   "Ujjongó örömmel vonulnak,\nbevonulnak a király házába."
+  ]
+ },
+ "alleluia": {
+  "text": "Máriát fölvette az Úr a mennybe. Örvendezik az angyalok kórusa.",
+  "cite": ""
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Nagy dolgokat művelt a hatalmas Isten felmagasztalta az alázatosakat.",
+  "text": "Azokban a napokban Mária útra kelt, és a hegyek közé, Júda egyik városába sietett. Belépett Zakariás házába, és köszöntötte Erzsébetet. Amikor Erzsébet meghallotta Mária köszöntését, szíve alatt megmozdult a magzat, és a Szentlélek betöltötte Erzsébetet. Hangos szóval így kiáltott: „Áldott vagy te az asszonyok között, és áldott a te méhednek gyümölcse! De hogyan lehet az, hogy Uramnak anyja látogat el hozzám? Mert íme, amikor fülembe csendült köszöntésed szava, örvendezve felujjongott méhemben a magzat! Boldog, aki hitt annak beteljesedésében, amit az Úr mondott neki!” Mária megszólalt:\n\n„Magasztalja lelkem az Urat, és szívem ujjong megváltó Istenemben!\n\nMert tekintetre méltatta alázatos szolgálóleányát, lám, ezentúl boldognak hirdet engem minden nemzedék.\n\nNagy dolgokat művelt velem a Hatalmas, Szentséges az ő neve!\n\nIrgalma nemzedékről nemzedékre száll, mindazokra, akik félik őt.\n\nNagyszerű dolgot tett karja ereje, széjjelszórta mind a gőgös szívűeket.\n\nLesöpörte trónjukról a hatalmasokat, és felmagasztalta az alázatosakat.\n\nAz éhezőket elhalmozta minden jóval, de a gazdagokat elküldte üres kézzel.\n\nFelkarolta gyermekét, Izraelt, megemlékezve irgalmasságáról, amint atyáinknak megígérte: Ábrahámnak és utódainak mindörökre!”\n\nMária ott maradt még körülbelül három hónapig, azután visszatért az otthonába.",
+  "cite": "Lk 1,39-56"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a korintusiakhoz írt első leveléből",
+  "summary": "Először Krisztus támadt fel, majd azok, akik Krisztushoz tartoznak.",
+  "text": "Testvéreim!\n\nKrisztus feltámadt a halálból, elsőként a holtak közül. Egy ember által jött a halál, és egy ember által jön a holtak feltámadása is. Amint ugyanis Ádámban mindenki meghalt, úgy Krisztusban mindenki életre kel. Mindenki akkor támad fel, amikor sorra kerül: először Krisztus, majd amikor ő eljön, azok is mindannyian, akik Krisztushoz tartoznak.\n\nAzután következik a vég, amikor Krisztus átadja az Istennek, az Atyának az uralmat, miután minden felsőbbséget, hatalmat és erőt megsemmisített. Addig kell ugyanis uralkodnia, amíg ellenségeit mind lába alá nem veti.",
+  "cite": "1Kor 15,20-27"
+ }
+}

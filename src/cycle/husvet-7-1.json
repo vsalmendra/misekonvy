@@ -1,0 +1,33 @@
+{
+ "key": "husvet-7-1",
+ "source_date": "2026-05-18",
+ "rank": "",
+ "day": "húsvét 7. hét hétfő",
+ "psalm": {
+  "cite": "Zsolt 67,2-3.4-5ac.6-7ab",
+  "response": "A föld minden országa énekszóval áldja az Istent.",
+  "verses": [
+   "Vagy: Alleluja. 2. szám.\nFölkel az Isten és szétszóródnak ellenségei, † színe elől gyűlölői szertefutnak,\nszétszórod őket, amint a füst eloszlik.\nAmint elolvad a tűztől a viasz,\núgy pusztulnak el a gonoszok az Isten színe előtt.",
+   "Vagy: Alleluja.\nÖrvendjenek az igazak és ujjongjanak Isten színe előtt,\nés örömükben ujjongjanak.\nÉnekeljetek az Istennek, † nevének zsoltárt zengjetek,\nvalóban Úr az ő neve.",
+   "Vagy: Alleluja.\nÁrváknak atyja és özvegyek gyámola\nIsten az ő Szentséges templomában.\nIsten a hontalannak otthont készít,\na rabnak visszaadja szabadságát.",
+   "Vagy: Alleluja."
+  ]
+ },
+ "alleluia": {
+  "text": "Ha Krisztussal együtt feltámadtatok, keressétek, ami fönt van, ahol Krisztus ül az Isten jobbján!",
+  "cite": "Kol 3,1"
+ },
+ "gospel": {
+  "book": "Szent János",
+  "summary": "A búcsúzó Jézus bizalmat kér övéitől.",
+  "text": "Amikor az utolsó vacsorán Jézus elmondotta búcsúbeszédét, tanítványai megjegyezték:\n\n„Most nyíltan beszélsz, nem hasonlatokban. Most elismerjük, hogy mindent tudsz, és nincs szükség rá, hogy valaki is kérdezzen. Ezért hisszük, hogy Istentől jöttél.”\n\nJézus így felelt: „Most hisztek? Eljön az óra – már el is jött –, amikor szétszéledtek, ki-ki a maga útján, és engem magamra hagytok. De én nem vagyok egyedül, mert az Atya velem van.\n\nMindezt azért mondtam nektek, hogy békességet találjatok bennem. A világban üldözést szenvedtek; de bízzatok! Én legyőztem a világot.”",
+  "cite": "Jn 16,29-33"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "az Apostolok Cselekedeteiből",
+  "summary": "A keresztények, amikor megkeresztelkednek és megbérmálkoznak, megkapják a Szentlelket.",
+  "text": "Amíg Apolló Korintusban tartózkodott, Pál a felső tartományokon át Efezusba érkezett.\n\nItt Pál apostol néhány tanítványt talált, és megkérdezte őket: „Megkaptátok-e a Szentlelket, amikor hívők lettetek?” Erre ők azt válaszolták: „Még csak azt sem hallottuk hogy van Szentlélek.”\n\nPál tovább kérdezte őket: „Hát milyen keresztségben részesültetek?” „János keresztségében” – felelték.\n\nEkkor Pál megmagyarázta nekik: „János a bűnbánat keresztségével keresztelt. A népet pedig arra biztatta, hogy higgyenek abban, aki őutána jön, vagyis Jézusban.”\n\nEnnek hallatára megkeresztelkedtek az Úr Jézus nevében. Pál azután rájuk tette a kezét, és leszállt rájuk a Szentlélek. Ismeretlen nyelveken kezdték dicsérni Istent, és jövendöltek. Összesen vagy tizenketten lehettek.\n\nPál pedig bejárt a zsinagógába, és bátran tanított. Három hónapon át vitatkozott velük, és igyekezett meggyőzni őket Isten országáról.",
+  "cite": "ApCsel 19,1-8"
+ }
+}

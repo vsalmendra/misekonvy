@@ -1,0 +1,32 @@
+{
+ "key": "fix-12-29",
+ "source_date": "2025-12-29",
+ "rank": "",
+ "day": "Karácsonyi idő - december 29.",
+ "psalm": {
+  "cite": "Zsolt 95,1-2a.2b-3.5b-6",
+  "response": "Vigadozzanak az egek, örvendjen az egész világ!",
+  "verses": [
+   "Énekeljetek az Úrnak új éneket,\nminden föld az Úrnak énekeljen.\nÉnekeljetek az Úrnak, áldjátok nevét,\nnapról napra hirdessétek üdvösségét.",
+   "Hirdessétek dicsőségét a nemzetek között,\nés csodatetteit minden népnek.",
+   "Az Úr az ég alkotója, † színe előtt fönség és méltóság,\nhatalom és fényesség szentélyében."
+  ]
+ },
+ "alleluia": {
+  "text": "Új fény támadt, pogányoknak üdvösség, kiválasztott nemzetednek dicsőség.",
+  "cite": "Vö. Lk 2,32"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "A Messiás megjelenik Jeruzsálemben: a pogányok megvilágítására, és népének dicsőségére.",
+  "text": "Amikor Mózes törvénye szerint elteltek Mária tisztulásának napjai, szülei felvitték Jézust Jeruzsálembe, hogy bemutassák az Úrnak, amint az Úr törvénye előírja: „Minden elsőszülött fiú az Úr szent tulajdona.” Ekkor kellett Máriának, ugyancsak az Úr törvénye szerint, „egy pár gerlét vagy két galambfiókát” tisztulási áldozatul bemutatnia.\n\nÉs íme, volt Jeruzsálemben egy Simeon nevű férfiú, egy igaz és istenfélő ember, aki Izrael vigaszára várt, és a Szentlélek lakott benne. A Szentlélek kinyilatkoztatta neki, hogy nem lát halált addig, amíg meg nem látja az Úr Fölkentjét. A Lélek arra indította, hogy menjen a templomba, amikor a gyermek Jézust odavitték szülei, hogy a törvény előírásai szerint cselekedjenek vele.\n\nSimeon a karjára vette őt, és így magasztalta Istent: „Most már elbocsáthatod szolgádat, Uram, szavaid szerint békességben, mert szemeim meglátták szabadításodat, melyet minden nemzet számára készítettél, hogy világosság legyen: kinyilatkoztatás a pogányoknak, és dicsőség népednek, Izraelnek.”\n\nJézus atyja és anyja ámulva hallgatták mindazt, amit Simeon mondott. Simeon pedig megáldotta őket, és így szólt Máriához, Jézus anyjához: „Lám, e Gyermek által sokan elbuknak és sokan feltámadnak Izraelben! Az ellentmondás jele lesz ő – még a te lelkedet is tőr járja át –, hogy napfényre kerüljenek sok szívnek titkos gondolatai!”",
+  "cite": "Lk 2,22-35"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent János apostol első leveléből",
+  "summary": "Aki szereti embertestvérét, az világosságban él.",
+  "text": "Szeretteim!\n\nAbból tudjuk meg, hogy megismertük Jézust, ha megtartjuk parancsait. Aki azt mondja, hogy ismeri őt, de parancsait nem tartja meg, az hazug, és nincs meg benne az igazság. Aki viszont megtartja tanítását, az tökéletesen szereti Istent, Ebből ismerjük meg, hogy Jézusban élünk. Aki azt állítja, hogy benne él, annak úgy kell cselekednie, ahogyan ő cselekedett.\n\nSzeretteim! Nem új parancsról írok nektek, hanem a régi parancsról, amelyet kezdettől fogva kaptatok. A régi parancs az a tanítás, amelyet hallottatok. De új parancsnak is nevezhetem, amely Jézusban és bennetek vált valósággá. Mert oszladozik a sötétség, és már ragyog az igazi világosság.\n\nAki azt állítja, hogy világosságban él, de gyűlöli testvérét, az még mindig sötétségben él. Aki szereti testvérét, az világosságban él, és annak élete nem botránkoztat meg bennünket. De aki gyűlöli testvérét, az sötétségben él. Sötétségben jár, és nem tudja, merre visz útja, mert a sötétség megvakította szemét.",
+  "cite": "1Jn 2,3-11"
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "key": "husvet-6-4",
+ "source_date": "2026-05-14",
+ "rank": "",
+ "day": "húsvét 6. hét csütörtök",
+ "psalm": {
+  "cite": "Zsolt 97,1.2-3ab.3cd-4",
+  "response": "Az Úr megmutatta üdvösségét a nemzetek színe előtt.",
+  "verses": [
+   "Vagy: Alleluja. 6. szám.\nZengjetek az Úrnak új éneket,\ncsodálatra méltó, amit művelt.\nDiadalt aratott jobbjával,\ngyőzelmet Szentséges karjával.",
+   "Vagy: Alleluja.\nAz Úr megmutatta szabadító erejét,\nigazságosságát feltárta a népek előtt.\nEmlékezetébe idézte jóságát és hűségét\nIzrael népe iránt.",
+   "Vagy: Alleluja.\nMeglátta a föld minden határa,\nszabadulást Istenünk hozott nekünk.\nMinden földek, zengjetek az Úrnak öröméneket,\nujjongjatok és zsoltárt mondjatok.",
+   "Vagy: Alleluja."
+  ]
+ },
+ "alleluia": {
+  "text": "Jézus mondja: „Nem hagylak árván titeket, elmegyek, de visszajövök hozzátok és örülni fog majd szívetek.”",
+  "cite": "Jn 14,18"
+ },
+ "gospel": {
+  "book": "Szent János",
+  "summary": "Ha Krisztus távolléte miatt szomorkodunk is, bánatunk majd örömre fordul.",
+  "text": "Búcsúbeszédében Jézus így szólt tanítványaihoz:\n\n„Még egy kis idő, és már nem láttok engem, és ismét egy kis idő, és viszontláttok engem, (mert az Atyához megyek.)”\n\nTanítványai erre így tanakodtak: „Mit akar mondani ezzel: »Még egy kis idő, és már nem láttok engem, és ismét egy kis idő, és viszontláttok engem?« És hogy: »Az Atyához megyek?« Mit jelent az, hogy: »Még egy kis idő?« Nem értjük, mit beszél.”\n\nJézus észrevette, hogy kérdezni akarják. Így szólt tehát hozzájuk: „Azon tanakodtok, hogy azt mondtam: »Még egy kis idő, és már nem láttok engem, és ismét egy kis idő, és viszontláttok engem?« Bizony, bizony, mondom nektek: Sírni fogtok és jajgatni, a világ pedig örül. Szomorkodni fogtok, de szomorúságtok örömre fordul.”",
+  "cite": "Jn 16,16-20"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "az Apostolok Cselekedeteiből",
+  "summary": "Apostoli munkája mellett Pál megdolgozik megélhetéséért.",
+  "text": "Második apostoli körútja alkalmával Pál elhagyta Athént, és Korintusba érkezett. Itt találkozott egy Akvilász nevű, pontuszi származású zsidóval, aki nemrég érkezett Itáliából feleségével, Priszcillával, mert Klaudiusz császár elrendelte, hogy minden zsidónak el kell hagynia Rómát. Pál hozzájuk költözött, náluk maradt, és velük együtt dolgozott, mivel ugyanazt a mesterséget űzte. Sátorkészítők voltak ugyanis.\n\nMinden szombaton felszólalt a zsinagógában, és igyekezett meggyőzni a zsidókat meg a görögöket (Jézusról). Amikor pedig Szilás és Timóteus megérkezett Macedóniából, Pál egészen az igehirdetésnek szentelte magát. Bizonyítékokat tárt a zsidók elé, hogy Jézus a Messiás.\n\nDe azok ellene mondtak, és gyalázkodtak. Erre Pál ruháját rázva így kiáltott: „A saját fejetekre szálljon véretek! Én ártatlan vagyok. Mostantól fogva a pogányokhoz fordulok.”\n\nOtthagyta őket, és egy Tíciusz Jusztusz nevű istenfélő ember házában szállt meg, akinek lakása a zsinagóga szomszédságában állt.\n\nKriszpusz, a zsinagóga elöljárója azonban hitt az Úrban, egész háza népével együtt; és sok korintusi is megtért és megkeresztelkedett azok közül, akik hallgatták őt.",
+  "cite": "ApCsel 18,1-8"
+ }
+}

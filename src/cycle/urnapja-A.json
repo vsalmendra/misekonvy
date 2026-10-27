@@ -1,0 +1,39 @@
+{
+ "key": "urnapja-A",
+ "source_date": "2026-06-07",
+ "rank": "",
+ "day": "Krisztus Szent Teste és\nVére, Úrnapja",
+ "psalm": {
+  "cite": "Zsolt 147,12-13.14-15.19-20",
+  "response": "Jeruzsálem, szentek otthona, dicsérd fölséges Istened!",
+  "verses": [
+   "Dicsérd Uradat, Jeruzsálem,\nmagasztald, Sion, Istenedet.\nMert erőssé tette kapuid zárát,\nés megáldotta benned fiaidat.",
+   "Határaidon ő ad békét,\nés jóllakat kövér búzával.\nElküldi szavát a földre,\naz ő igéje gyorsan terjed.",
+   "Igéjét Jákobnak hirdeti,\ntörvényeit és végzéseit Izraelnek.\nEgyetlen néppel sem bánt így,\nvégzéseit nem fedte fel senki másnak."
+  ]
+ },
+ "alleluia": {
+  "text": "Jézus mondja: „Én vagyok az égből szállott élő kenyér. Aki eszik ebből a kenyérből, örökké élni fog.”",
+  "cite": "Jn 6,51-52"
+ },
+ "gospel": {
+  "book": "Szent János",
+  "summary": "Az én testem valóban étel, az én vérem valóban ital.",
+  "text": "Abban az időben így beszélt Jézus a zsidó tömeghez:\n\n„Én vagyok a mennyből alászállott, élő kenyér. Aki ebből a kenyérből\n\neszik, örökké fog élni. Az a kenyér, amelyet én adok, az én testem a\n\nvilág életéért.”\n\nVita támadt erre a zsidók között: „Hogyan adhatja ez testét eledelül\n\nnekünk?” Jézus így felelt nekik: „Bizony, bizony, mondom nektek: Ha\n\nnem eszitek az Emberfia testét, és nem isszátok az ő vérét, nem lesz\n\nélet bennetek. Aki eszi az én testemet, és issza az én véremet, annak\n\nörök élete van, és én feltámasztom őt az utolsó napon. Mert az én\n\ntestem valóban étel, és az én vérem valóban ital. Aki eszi az én\n\ntestemet, és issza az én véremet, az bennem marad, és én őbenne. Amint\n\nengem az élő Atya küldött, és én az Atya által élek, úgy az is, aki\n\nengem eszik, énáltalam él. Ez az égből alászállott kenyér! Nem az,\n\namelyet atyáitok ettek és meghaltak! Aki ezt a kenyeret eszi, örökké\n\nél!” Így tanított Jézus a kafarnaumi zsinagógában.",
+  "cite": "Jn 6,51-58"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Mózes ötödik könyvéből",
+  "summary": "Az Úr a pusztában mannával táplálta népét.",
+  "text": "A negyvenéves pusztai vándorlás után Mózes így beszélt a néphez:\n\nGondolj az egész útra, amelyen az Úr, a te Istened negyven éven át\n\nvezetett a pusztában, hogy megsanyargasson, próbára tegyen,\n\nmegvizsgálja a szívedet, vajon megtartod-e majd parancsait vagy sem.\n\nSanyargatott és hagyta, hogy éhezz, aztán mannával táplált, amelyet nem\n\nismertél és atyáid sem ismertek, hogy megtudd: nemcsak kenyérrel él az\n\nember, hanem mindazzal, ami az Úr szájából származik.\n\nNe felejtsd el az Urat, a te Istenedet, aki kihozott Egyiptom\n\nföldjéről, a szolgaság házából, átvezetett a mérges kígyók és skorpiók\n\nlakta nagy és félelmetes pusztán meg a víztelen sivatagon. A\n\nkősziklából fakasztott vizet neked, a pusztában pedig mannával táplált,\n\namelyet atyáid sem ismertek.",
+  "cite": "MTörv 8,2-3.14b-16a"
+ },
+ "reading2": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a korintusiakhoz írt első leveléből",
+  "summary": "Sokan egy kenyér, egy test vagyunk.",
+  "text": "Testvéreim!\n\nAz áldás kelyhe, amelyet megáldunk, nemde Krisztus\n\nvérében való részesedés? És a kenyér, amelyet megtörünk, nemde Krisztus\n\ntestében való részesedés?\n\nMi ugyanis sokan egy kenyér, egy test vagyunk; mert mindnyájan egy\n\nkenyérből részesülünk.",
+  "cite": "1Kor 10,16-17"
+ }
+}

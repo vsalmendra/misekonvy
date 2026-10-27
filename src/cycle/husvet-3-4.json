@@ -1,0 +1,35 @@
+{
+ "key": "husvet-3-4",
+ "source_date": "2026-04-23",
+ "rank": "",
+ "day": "húsvét 3. hét csütörtök",
+ "psalm": {
+  "cite": "Zsolt 65,8-9.16-17.20",
+  "response": "Dicsérd az Istent, nagy világ!",
+  "verses": [
+   "Vagy: Alleluja. 10. szám.\nÁldjátok Istenünket, nemzetek,\ndicsőségéről éneket zengjetek.",
+   "Vagy: Alleluja.\nÉletet ő ad lelkünkbe,\ns lábunkat meginogni nem hagyja.",
+   "Vagy: Alleluja.\nMindnyájan, kik félitek az Istent, † jertek, halljátok:\nelbeszélem, mily nagy csodákat tett vélem.",
+   "Vagy: Alleluja.\nAjkam hozzá kiáltott,\nnyelvem dicséretet mondott néki.",
+   "Vagy: Alleluja.\nÁldott legyen az Isten, aki nem vetette el imámat,\nés nem vonta meg tőlem irgalmát.",
+   "Vagy: Alleluja."
+  ]
+ },
+ "alleluia": {
+  "text": "Jézus mondja: „Én vagyok az égből alászállott élő kenyér. Aki eszik ebből a kenyérből, örökké élni fog.”",
+  "cite": "Jn 6,51"
+ },
+ "gospel": {
+  "book": "Szent János",
+  "summary": "Jézus a szentáldozásban az élet kenyere.",
+  "text": "A kenyérszaporítás utáni napon Jézus így szólt a sokasághoz: „Senki sem jöhet hozzám, ha nem vonzza az Atya, aki küldött engem. Én feltámasztom őt az utolsó napon. A prófétáknál ezt olvassuk: »Mindnyájan Isten tanítványai lesznek.« Mindaz, aki hallgat az Atyára, és tanul tőle, hozzám jön. Nem mintha az Atyát látta volna valaki. Csak aki Istentől való, az látta az Atyát. Bizony, bizony, mondom nektek: Aki hisz bennem, annak örök élete van.\n\nÉn vagyok az élet kenyere. Atyáitok mannát ettek a pusztában, és mégis meghaltak. Itt a mennyből alászállott kenyér, hogy aki eszik belőle, meg ne haljon. Én vagyok a mennyből alászállott élő kenyér. Aki e kenyérből eszik, örökké él. A kenyér, amelyet adni fogok, az én testem a világ életéért.”",
+  "cite": "Jn 6,44-51"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "az Apostolok Cselekedeteiből",
+  "summary": "Aki teljes szívből hisz, méltó a keresztségre.",
+  "text": "A jeruzsálemi üldözés idején az Úr angyala így szólt Fülöp diakónushoz:\n\n„Kelj föl! Menj délnek, arra az elhagyatott útra, amely Jeruzsálemből Gázába vezeti”\n\nFülöp felkerekedett és elindult. Egyszer csak megpillantotta az etióp királynőnek, Kandákénak egyik udvari főemberét, aki a királynő kincstárát kezelte. Az etióp kincstárnok Jeruzsálemben volt imádkozni. Visszatérőben kocsiján ülve Izajás próféta könyvét olvasta.\n\nA Szentlélek akkor így szólt Fülöphöz: „Menj, és szegődjél oda a kocsihoz!”\n\nFülöp odasietett, és hallotta, hogy Izajás próféta könyvéből olvas. Megkérdezte: „Érted-e, amit olvasol?” Az így válaszolt: „Hogyan érthetném, hacsak valaki meg nem magyarázza?”\n\nMeg is kérte Fülöpöt, hogy szálljon fel és üljön melléje. Éppen ezt a szentírási részletet olvasta:\n\nMint a juhot, úgy vitték leölésre, s miként a bárány elnémul nyírója előtt, ő sem nyitotta szólásra ajkát.\n\nMegaláztatásában vétetett el róla az ítélet.\n\nKi sorolhatja fel nemzedékét?\n\nHiszen élete elvétetik a földről.\n\nAz udvari tiszt odafordult Fülöphöz: „Kérlek, kiről mondja ezt a próféta, önmagáról vagy valaki másról?”\n\nFülöp akkor beszélni kezdett, és az írásnak ebből a részletéből kiindulva hirdette neki Jézust. Amint továbbhaladtak az úton, valamilyen vízhez érkeztek. Az udvari tiszt akkor megszólalt: „Nézd, itt a víz; mi akadályozza hát, hogy megkeresztelkedjem?”\n\nEzzel megállíttatta a kocsit, majd Fülöppel együtt lement a vízbe, és Fülöp megkeresztelte. Amikor kijöttek a vízből, az Úr Lelke elragadta Fülöpöt, és az udvari tiszt nem látta őt többé. Örvendezve folytatta útját, és öröm volt a szívében.\n\nFülöp pedig Azótusban találta magát, és amíg csak Cezáreába nem ért, útközben minden helységben hirdette az evangéliumot.",
+  "cite": "ApCsel 8,26-40"
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "key": "husvet-2-6",
+ "source_date": "2026-04-18",
+ "rank": "",
+ "day": "Húsvét 2. hét szombat",
+ "psalm": {
+  "cite": "Zsolt 32,1-2.4-5,18-19",
+  "response": "Kegyes szemed legyen rajtunk, tebenned van bizodalmunk.",
+  "verses": [
+   "Vagy: Alleluja. 5. szám.\nÖrvendezzetek, igazak az Úrban,\na szentekhez dicséret illik.\nDicsérjétek az Urat citerával,\ntízhúrú hárfán zengjetek néki.",
+   "Vagy: Alleluja.\nSziklaszilárd az Úr igéje,\nminden tettét hűség vezeti.\nAz igazlelkűséget és a törvényt szereti,\ntelve van a föld az Úr irgalmával.",
+   "Vagy: Alleluja.\nAz istenfélőkre ügyel az Úr szeme,\nakik bíznak az ő irgalmában.\nMegmenti lelküket a haláltól,\nés táplálja őket éhínség idején.",
+   "Vagy: Alleluja."
+  ]
+ },
+ "alleluia": {
+  "text": "Feltámadt Krisztus, aki mindent alkotott, megkönyörült a bűnös emberen.",
+  "cite": ""
+ },
+ "gospel": {
+  "book": "Szent János",
+  "summary": "Jézus megmutatja, hogy hatalma van az elemeken: a vízen jár.",
+  "text": "A kenyérszaporítás napján, amikor beesteledett, Jézus tanítványai lementek a tóra. Beszálltak a bárkába, és elindultak a tavon át Kafarnaum felé.\n\nMár rájuk sötétedett, de Jézus még mindig nem volt velük. Erős szél fújt, és a tó háborgott. Huszonöt-harminc stádiumnyit (mintegy öt kilométert) eveztek már, amikor látták, hogy Jézus a vízen járva közeledik a bárkához.\n\nNagyon megijedtek. De Jézus bátorította őket: „Én vagyok, ne féljetek!”\n\nFel akarták venni a bárkába, de a bárka abban a pillanatban partot ért, éppen ott, ahová tartottak.",
+  "cite": "Jn 6,16-21"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "az Apostolok Cselekedeteiből",
+  "summary": "A diakónusok vagyis a szerpapok kiválasztása.",
+  "text": "Azokban a napokban, amikor a tanítványok száma már megnövekedett, zúgolódás támadt a görögök közt a zsidók ellen, hogy a mindennapi alamizsnaosztáskor az ő özvegyeiket háttérbe szorítják. Ezért a Tizenkettő összehívta a tanítványokat, és így szóltak hozzájuk:\n\n„Nem volna rendjén, hogy elhanyagoljuk Isten igéjét, s az asztal szolgálatát lássuk el. Szemeljetek hát ki magatok közül, testvérek, hét jó hírben álló, Szentlélekkel eltelt bölcs férfit, akiket megbízhatunk ezzel a feladattal. Mi pedig majd az imádságnak és az ige szolgálatának szenteljük magunkat.”\n\nTetszett a javaslat az egész közösségnek, és kiválasztották Istvánt, ezt a hittel és Szentlélekkel eltelt férfit, aztán Fülöpöt és Prohóruszt, Nikánort és Timont, Parmenászt és Miklóst, az antióchiai prozelitát Az apostolok elé állították őket, azok pedig imádkoztak felettük, és rájuk tették kezüket.\n\nIsten igéje pedig tovább terjedt, úgyhogy a tanítványok száma igen megnőtt Jeruzsálemben. Még a papok közül is tömegesen hódoltak meg a hitnek.",
+  "cite": "ApCsel 6,1-7"
+ }
+}

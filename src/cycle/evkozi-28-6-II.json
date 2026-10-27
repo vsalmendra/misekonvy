@@ -1,0 +1,32 @@
+{
+ "key": "evkozi-28-6-II",
+ "source_date": "2026-10-17",
+ "rank": "",
+ "day": "28. évközi hét szombat",
+ "psalm": {
+  "cite": "Zsolt 8,2-7",
+  "response": "Fiad hatalmába adtad kezed minden művét.",
+  "verses": [
+   "Uram, mi Urunk,\nmily csodálatos a te neved az egész világon.\nDicsőséged fenségesebb az egeknél,\ndicséreted zengi a gyermekek és kicsinyek ajka.",
+   "Szemlélem az eget, ujjaid műve az,\nte alkottad a holdat és az összes csillagot.\nUgyan, mi az ember, hogy megemlékezel róla,\naz emberfia, hogy gondot viselsz rá?",
+   "Az embert kevéssel tetted kisebbé az angyaloknál, † megkoronáztad dicsőséggel és fönséggel,\nhatalmába adtad kezed műveit."
+  ]
+ },
+ "alleluia": {
+  "text": "Az igazság Lelke majd tanúságot tesz rólam –, mondja az Úr, – és ti is tanúságot tesztek rólam.",
+  "cite": "Jn 15,26b.27a"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Jézus megígéri, hogy aki bátran megvallja őt a földön, azt ő is megvallja majd a mennyben.",
+  "text": "Jézus egy alkalommal így beszélt tanítványaihoz:\n\nMondom nektek, hogy mindazt, aki megvall engem az emberek előtt, az Emberfia is megvallja Isten angyalai előtt. Aki pedig megtagad engem az emberek előtt, azt én is megtagadom Isten angyalai előtt.\n\nAki az Emberfia ellen szól, bocsánatot nyer, de aki a Szentlelket káromolja, az nem nyer bocsánatot.\n\nAmikor a zsinagógák, elöljárók vagy hatóságok elé hurcolnak titeket, ne aggódjatok, hogy miképpen és mivel védekezzetek, vagy mit mondjatok! A Szentlélek abban az órában megtanít majd titeket, hogy mit kell mondanotok.",
+  "cite": "Lk 12,8-12"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak az efezusiakhoz írt leveléből",
+  "summary": "Krisztus az Egyházfeje, az Egyház pedig az ő titokzatos teste.",
+  "text": "Testvéreim!\n\nAmióta értesültem az Úr Jézusba vetett hitetekről, és az összes szent iránt tanúsított szeretetetekről, szüntelenül hálát adok értetek, és imádságomban újra meg újra megemlékezem rólatok. Urunk Jézus Krisztus Istene, a dicsőséges Atya adja meg nektek a bölcsesség és a kinyilatkoztatás Lelkét, hogy megismerjétek őt.\n\nGyújtson lelketekben világosságot, hogy megértsétek, milyen reménységre hívott meg titeket, milyen gazdag az a fölséges örökség, amelyet ő a szenteknek készített, és milyen mérhetetlenül nagy a hatalma fölöttünk, akik hívőkké lettünk.\n\nNagyszerű erejét Krisztusban mutatta meg, amikor a halálból feltámasztotta őt, és a mennyben jobbjára ültette. Fölé emelte minden fejedelemségnek, hatalomnak, erőnek és uralomnak, s minden néven nevezendő méltóságnak, nemcsak ezen a világon, hanem az eljövendőben is.\n\nMindent lába alá vetett, őt magát pedig az egész Egyház fejévé tette: ez az ő teste, és teljessége annak, aki mindent mindenben betölt.",
+  "cite": "Ef 1,15-23"
+ }
+}

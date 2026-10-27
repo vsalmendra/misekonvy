@@ -1,0 +1,33 @@
+{
+ "key": "husvet-2-5",
+ "source_date": "2026-04-17",
+ "rank": "",
+ "day": "Húsvét 2. hét péntek",
+ "psalm": {
+  "cite": "Zsolt 26,1.4.13-14",
+  "response": "Csak egyet kérek az Úrtól, hogy az Úr házában lakjam.",
+  "verses": [
+   "Vagy: Alleluja. 2. szám.\nVilágosságom és üdvösségem az Úr,\nkitől félnék?\nÉletem oltalmazója az Úr,\nkitől rettegnék?",
+   "Vagy: Alleluja.\nEgyet kérek az Úrtól, † csak egy a vágyam,\nhogy az Úr házában lakjam életem minden napján,\nhogy élvezhessem az Úr örömét,\nés hogy szemlélhessem szent templomát.",
+   "Vagy: Alleluja.\nHiszem, hogy meglátom az Úr javait,\naz élők földjén.\nRemélj az Úrban, bátran cselekedj,\nszíved legyen erős, és bízzál az Úrban.",
+   "Vagy: Alleluja."
+  ]
+ },
+ "alleluia": {
+  "text": "Nemcsak kenyérrel él az ember, hanem minden igével is, mely Isten ajkáról való.",
+  "cite": "Mt 4,4b"
+ },
+ "gospel": {
+  "book": "Szent János",
+  "summary": "A csodás kenyérszaporítás.",
+  "text": "Abban az időben Jézus átment a Galileai-tengernek, vagyis Tibériás-tavának a túlsó partjára. Nagy tömeg követte, mert látták a csodajeleket, amelyeket a betegeken végbevitt, Jézus fölment egy hegyre, és ott leült tanítványaival együtt. Közel volt húsvét, a zsidók ünnepe.\n\nAmikor Jézus fölemelte szemét, és látta, hogy nagy tömeg jön feléje, így szólt Fülöphöz: „Honnan vegyünk kenyeret, hogy legyen mit enniük?” Ezt pedig azért kérdezte, hogy próbára tegye, mert ő tudta, hogy mit fog tenni.\n\n„Kétszáz dénár árú kenyér sem elég nekik, hogy mindenki kapjon valami keveset” – felelte Fülöp.\n\nAz egyik tanítvány, András, Simon Péter testvére megszólalt: „Van itt egy fiú, akinél öt kenyér és két hal van, de mi ez ennyinek?”\n\nJézus meghagyta: „Telepítsétek le az embereket!” Sok fű volt azon a helyen. Letelepedtek hát: szám szerint mintegy ötezren voltak csupán a férfiak.\n\nJézus pedig vette a kenyereket, hálát adott, és kiosztotta a letelepedett embereknek; ugyanígy (adott) a halból is, amennyit csak akartak. Amikor pedig jóllaktak, szólt tanítványainak: „Szedjétek össze a maradékot, hogy semmi se vesszen kárba.” Összeszedték, s tizenkét kosarat töltöttek meg az öt árpakenyér maradékából, amit meghagytak azok, akik ettek.\n\nAmikor pedig az emberek látták a csodajelet, amelyet Jézus végbevitt, így beszéltek: „Ez valóban az a próféta, aki a világba jön.”\n\nAmikor Jézus észrevette, hogy érte akarnak jönni, és el akarják vinni, hogy erőszakkal királlyá tegyék, ismét visszavonult a hegyre, egészen egyedül.",
+  "cite": "Jn 6,1-15"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "az Apostolok Cselekedeteiből",
+  "summary": "Az apostolok örvendezve fogadják, hogy Jézusért szenvedhetnek.",
+  "text": "Amikor számon kérték az apostoloktól, miért tanítanak Jézusról, felállt a főtanács egyik tagja, egy Gamáliel nevű farizeus, az egész nép előtt tiszteletben álló törvénytudó. Egy kis időre kiküldte az apostolokat, majd beszédet intézett a többiekhez:\n\n„Izraelita férfiak! Fontoljátok meg jól, mit akartok tenni ezekkel az emberekkel! Nemrégiben föllépett ugyanis Teodás, aki nagyra tartotta magát, és mintegy négyszáz férfi csatlakozott hozzá. De megölték; mindazokat pedig, akik hittek benne, szétszórták és megsemmisítették.\n\nUtána a népszámlálás idején a galileai Júdás lépett fel, és maga köré csábította a népet. Ő is elpusztult, és minden követője szétszóródott.\n\nEzért most is azt mondom nektek, hagyjátok békén ezeket az embereket, és engedjétek őket szabadon. Ha ez a törekvés vagy mozgalom emberektől származik, úgyis magától felbomlik. De ha Istentől van, nem tudjátok szétoszlatni őket, és úgy látszanék, mintha Isten ellen tusakodnátok.”\n\nÉrvelését elfogadták. Behívatták az apostolokat, megbotoztatták őket, azután rájuk parancsoltak, hogy ne beszéljenek Jézusról. Majd szabadon engedték őket.\n\nEkkor örvendezve távoztak a főtanácsból, mert méltóknak bizonyultak, hogy Jézusért gyalázatot szenvedjenek. Továbbra is mindennap tanítottak. A templomban és a házakban hirdették Jézus Krisztust.",
+  "cite": "ApCsel 5,34-42"
+ }
+}

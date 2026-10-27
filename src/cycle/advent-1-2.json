@@ -1,0 +1,33 @@
+{
+ "key": "advent-1-2",
+ "source_date": "2025-12-02",
+ "rank": "",
+ "day": "1. adventi hét kedd",
+ "psalm": {
+  "cite": "Zsolt 71,2.7-8.12-13.17",
+  "response": "(A Messiáskirály) napjaiban az igazság virága nyílik, és teljes béke lesz a világ végéig!",
+  "verses": [
+   "Istenem, ítéletedet add át a királynak,\nés igazságodat a király fiának,\nhogy igazságosan ítélkezzék népeden,\nés méltányosan minden szegényen.",
+   "Napjaiban virágzik az igazság és a béke teljessége,\namíg csak a hold meg nem szűnik.\nUralkodik tengertől tengerig,\na Folyótól a földkerekség határáig.",
+   "Megszabadítja a szegényt, aki hozzá kiált,\na nyomorultat, akin nem segít senki.\nKíméli a kicsinyt és a gyengét,\na szűkölködőt megsegíti.",
+   "Legyen áldott az ő neve örökké,\namíg csak világít a nap, neve fennmaradjon.\nÁldott legyen benne a föld minden népe,\nmagasztalja őt minden nemzet."
+  ]
+ },
+ "alleluia": {
+  "text": "Íme, Istenünk hatalommal érkezik, szolgáinak megadja a tisztánlátást.",
+  "cite": ""
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Jézus ujjongó hálaadása a Szentlélekben.",
+  "text": "Amikor a hetvenkét tanítvány nagy örömmel visszatért küldetéséből, Jézus felujjongott a Szentlélekben, és így imádkozott: „Áldalak téged, Atyám, mennynek és földnek Ura, mert elrejtetted ezeket a bölcsek és okosak elől, és a kicsinyeknek jelentetted ki. Igen, Atyám, így tetszett neked.\n\nMindent átadott nekem Atyám. Senki más nem ismeri a Fiút, csak az Atya; és az Atyát sem ismeri senki, csak a Fiú, és az, akinek a Fiú ki akarja jelenteni.”\n\nJézus ezután tanítványaihoz fordult, és külön nekik mondta: „Boldog a szem, amely látja, amit ti láttok. Mondom nektek, sok próféta és király szerette volna látni, amit ti láttok, de nem látta, és hallani, amit ti hallotok, de nem hallotta.”",
+  "cite": "Lk 10,21-24"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Izajás próféta könyvéből",
+  "summary": "Az ajándékozó Isten Lelke megnyugszik az Izáj törzsökéből származó Megváltón, akinek országa a békesség országa lesz.",
+  "text": "Az eljövendő Messiásról így szól a próféta:\n\nAzon a napon: Vessző kél majd Izáj törzsökéből és hajtás sarjad gyökeréből. Az Úr lelke nyugszik rajta: a bölcsesség és az értelem lelke, a tanács és az erősség lelke, a tudás és az Úr félelmének lelke, s az Úr félelmében telik öröme. Nem aszerint ítél majd, amit a szem lát, s nem aszerint ítélkezik, amit a fül hall, hanem igazságot szolgáltat az alacsony sorsúaknak, és méltányos ítéletet hoz a föld szegényeinek. Szája vesszejével megveri a földet, s ajka leheletével megöli a gonoszt. Az igazságosság lesz derekán az öv, s a hűség lesz csípőjén a kötő.\n\nAkkor majd együtt lakik a farkas a báránnyal, és a párduc együtt tanyázik a gödölyével. Együtt legelészik majd a borjú és az oroszlán, egy kisgyermek is terelgetheti őket. A tehén és a medve együtt legelnek, kicsinyeik is együtt pihennek, és szalmát eszik az oroszlán, akárcsak az ökör. A csecsemő nyugodtan játszadozhat a viperafészeknél, s az áspiskígyó üregébe is bedughatja kezét az anyatejtől elválasztott kisgyermek. Sehol nem ártanak s nem pusztítanak az én szent hegyemen. Mert a föld úgy tele lesz az Úr ismeretével, mint ahogy betöltik a vizek a tengert.\n\nAzon a napon az Izáj gyökeréből támadt sarj zászlóként áll majd a népek előtt. Keresni fogják a pogány nemzetek, és dicsőséges lesz lakhelye.",
+  "cite": "Iz 11,1-10"
+ }
+}

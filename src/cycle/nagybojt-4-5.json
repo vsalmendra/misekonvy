@@ -1,0 +1,33 @@
+{
+ "key": "nagybojt-4-5",
+ "source_date": "2026-03-20",
+ "rank": "",
+ "day": "4. nagyböjti hét péntek",
+ "psalm": {
+  "cite": "Zsolt 33,17-18.19-20.21 és 23",
+  "response": "Az Úr közel van azokhoz, akiknek töredelmes a szívük.",
+  "verses": [
+   "Az Úr arcát a gonoszok ellen fordítja,\nemléküket is eltörli a földről.\nKiáltottak az igazak, és az Úr meghallgatta őket,\nés minden szorongatásból megszabadultak.",
+   "Közel van az Úr azokhoz, kik töredelmes szívűek,\nés szabadulást hoz a megtört lelkeknek.\nAz igazak sokat szenvednek,\nde az Úr mindig megmenti őket.",
+   "Megőrzi minden csontjukat,\negy sem törhet össze azokból.\nAz Úr megváltja szolgáinak lelkét,\nés nem bűnhődnek, kik őbenne bíznak."
+  ]
+ },
+ "alleluia": {
+  "text": "Nemcsak kenyérrel él az ember, hanem minden igével is, mely Isten ajkáról való.",
+  "cite": "Mt 4,4b",
+  "lent": true
+ },
+ "gospel": {
+  "book": "Szent János",
+  "summary": "Jézust halálra keresik, de senki sem emel rá kezet, mert még nem jött el az ő órája.",
+  "text": "A csodálatos kenyérszaporítást követő viták után Jézus Galileában működött. Júdeában nem akart mutatkozni, mert a zsidók az életére törtek.\n\nKözeledett a zsidók Sátoros-ünnepe. Miután rokonai elzarándokoltak az ünnepre, Jézus is fölment utánuk Jeruzsálembe, de nem nyilvánosan, hanem titokban.\n\nAmikor a templomban tanítani kezdett, a jeruzsálemiek közül néhányan ezt kérdezték: „Nemde ő az, akit halálra keresnek: íme, nyilvánosan beszél, és nem szólnak neki semmit. Talán bizony már a vezetők is elismerik, hogy ő a Messiás? De róla tudjuk, honnan való, A Messiásról pedig, ha majd eljön, senki sem tudja, honnan való.”\n\nErre Jézus, aki a templomban tanított, emelt hangon odaszólt: „Ti ismertek engem, és azt is tudjátok, honnan vagyok. Én nem magamtól jöttem. Az Igaz (Isten) küldött engem, akit ti nem ismertek. Én viszont ismerem, mert tőle vagyok, és ő küldött engem.”\n\nErre szerették volna Jézust elfogni, de senki sem emelt rá kezet, mert még nem jött el az ő órája.",
+  "cite": "Jn 7,1-2.10.25-30"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "a Bölcsesség könyvéből",
+  "summary": "A bölcs ember Istentől kapott feladatnak tekinti az életet.",
+  "text": "Csalfa észjárásuk miatt azt mondják egymásnak a gonoszok:\n\n„Leselkedjünk az igazra, mert terhünkre van. Szembeszáll tetteinkkel: bepanaszol bennünket törvényszegésért, és szemünkre hányja, hogy vétünk a tisztesség ellen. Dicsekszik, hogy ismeri az Istent, és Isten gyermekének mondja magát.\n\nVádol bennünket, amiért így gondolkodunk; még a látása is terhes nekünk, mert az életmódja elüt másokétól, és szokatlanok útjai. Hamis pénznek néz bennünket, és mint szemetet, kerüli útjainkat. Az igazak végső sorsát boldognak hirdeti, és dicsekedve atyjának nevezi az Istent.\n\nLássuk hát, igazak-e beszédei. Figyeljük meg, mi végre jut! Mert ha valóban igaz, hogy ő Isten gyermeke, akkor Isten megóvja őt, és kiszabadítja ellenségei kezéből.\n\nTegyük próbára, gúnyoljuk és bántalmazzuk őt, hogy megismerjük szelídségét, és kipróbáljuk türelmét! Ítéljük gyalázatos halálra, hiszen azt mondta: ő Isten oltalmában részesül!”\n\nÍgy gondolkodnak, de tévednek, mert gonoszságuk vakká tette őket. Nem ismerik Isten titkait. Ezért sem az erény jutalmát nem remélik, sem a tiszta lelkek érdemét nem becsülik.",
+  "cite": "Bölcs 2,1a.12-22"
+ }
+}

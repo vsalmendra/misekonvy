@@ -1,0 +1,32 @@
+{
+ "key": "evkozi-22-4-II",
+ "source_date": "2026-09-03",
+ "rank": "",
+ "day": "22. évközi hét csütörtök",
+ "psalm": {
+  "cite": "Zsolt 23,1-2.3-4ab.5-6",
+  "response": "Istené az egész világ, és minden, ami létezik benne.",
+  "verses": [
+   "Az Úré a föld, és ami betölti,\na földkerekség és minden lakója.\nTengerek fölé ő rakta alapját,\ns a vizek árján ő tartja szilárdan.",
+   "Ki mehet föl az Úr hegyére,\nki állhat meg az ő szent helyén?\nAki ártatlan kezű, tiszta szívű,\nakinek az esze nem jár csaláson.",
+   "Az nyer áldást az Úrtól,\nés megigazulást üdvözítő Istenétől.\nEz az istenkeresők népe,\namely arcát kutatja Jákob Istenének."
+  ]
+ },
+ "alleluia": {
+  "text": "Kövessetek engem, mondja az Úr, és én emberek halászává teszlek titeket!",
+  "cite": "Mt 4,19"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Az első négy tanítvány meghívása a csodálatos halfogás után.",
+  "text": "Amikor Jézus egyszer a Genezáret tavánál állt, nagy tömeg sereglett köréje, hogy hallgassa az Isten szavát. Jézus látta, hogy a tó partján két bárka vesztegel. A halászok kiszálltak, és a hálóikat mosták. Beszállt hát az egyik bárkába, amelyik Simoné volt, s megkérte, hogy vigye kissé beljebb a parttól. Aztán leült, és a bárkából tanította a népet.\n\nAmikor befejezte a tanítást, így szólt Simonhoz: „Evezz a mélyre, és vessétek ki a hálótokat halfogásra.” „Mester – válaszolta Simon –, egész éjszaka fáradoztunk, s nem fogtunk semmit, de a te szavadra, kivetem a hálót.” Meg is tette, s annyi halat fogtak, hogy szakadozni kezdett a háló. Intettek a másik bárkában levő társaiknak, hogy jöjjenek és segítsenek. Azok odamentek, és úgy megtöltötték mind a két bárkát, hogy majdnem elsüllyedt.\n\nEnnek láttán Simon Péter Jézus lábához borult, és e szavakra fakadt: „Uram, menj el tőlem, mert bűnös ember vagyok.” A szerencsés halfogás láttán ugyanis társaival együtt félelem töltötte el. Hasonlóképpen Jakabot és Jánost is, Zebedeus fiait, Simon társait. De Jézus bátorságot öntött Simonba: „Ne félj! Ezentúl emberhalász leszel.”\n\nErre partra vonták hajóikat, és mindenüket elhagyva követték Jézust.",
+  "cite": "Lk 5,1-11"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a korintusiakhoz írt első leveléből",
+  "summary": "Krisztusban mindent nekünk adott az Isten.",
+  "text": "Testvéreim!\n\nSenki ne ámítsa önmagát! Aki közületek bölcsnek tartja magát ezen a világon, váljék oktalanná, hogy csakugyan bölcs lehessen. E világ bölcsessége ugyanis oktalanság Isten előtt. Hiszen írva van: „Saját ravaszságukkal fogja meg a bölcseket”, továbbá: „Tárva az Úr előtt az ember gondolata, csupa hiúság annak foglalata.”\n\nSenki se kérkedjék tehát emberekkel! Hisz minden a tiétek: Pál, Apolló, Péter, a világ, az élet, a halál, a jelenvalók, az eljövendők: Minden a tiétek; ti Krisztusé vagytok, Krisztus pedig az Istené.",
+  "cite": "1Kor 3,18-23"
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "key": "evkozi-1-4-II",
+ "source_date": "2026-01-15",
+ "rank": "",
+ "day": "1. évközi hét csütörtök",
+ "psalm": {
+  "cite": "Zsolt 43,10-11.14-15.24-25",
+  "response": "Válts meg minket, Uram, mivel irgalmas vagy.",
+  "verses": [
+   "Elvetettél és megaláztál minket,\nmár nem vonulsz ki seregünkkel együtt, Istenünk.\nMegfutamítottál ellenségeink elől,\nés kifosztottak, akik gyűlölnek minket.",
+   "Szomszédaink előtt gyalázattá tettél minket,\ncsúfolnak és gúnyolódnak, akik körülöttünk laknak.\nPéldálóznak rólunk a pogány nemzetek,\nfejüket csóválják a népek.",
+   "Ébredj föl, Uram, miért alszol,\nkelj fel, és ne taszíts el végleg. Miért fordítod el arcodat,\nmiért felejted el ínségünket és gyötrelmeinket?"
+  ]
+ },
+ "alleluia": {
+  "text": "Jézus hirdette országának örömhírét, és minden betegséget meggyógyított a nép körében.",
+  "cite": "Mt 4,23"
+ },
+ "gospel": {
+  "book": "Szent Márk",
+  "summary": "Jézus egy beteget meggyógyít leprájából.",
+  "text": "Abban az időben egy leprás jött Jézushoz. Térdre borult előtte, és így kérlelte: „Ha akarod, te megtisztíthatsz engem!” Jézusnak megesett rajta a szíve. Kinyújtotta kezét, megérintette, és azt mondta neki: „Akarom! Tisztulj meg!” Erre rögtön elmúlt a leprája, és megtisztult.\n\nJézus szigorúan ráparancsolt, azonnal elküldte, és így szólt hozzá: „Nézd, senkinek se szólj erről, hanem menj, mutasd meg magadat a papnak, és tisztulásodért ajánld fel a Mózes által rendelt áldozatot, bizonyságul nekik.”\n\nŐ azonban, alighogy elment, mindenfelé hirdetni és híresztelni kezdte a dolgot. Emiatt Jézus nem mehetett többé nyilvánosan a városba, inkább távolabbi, elhagyatott helyeken tartózkodott. Mégis, mindenünnen özönlöttek hozzá az emberek.",
+  "cite": "Mk 1,40-45"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Sámuel első könyvéből",
+  "summary": "Isten büntetése volt a csatavesztés és a frigyszekrény elvesztése.",
+  "text": "Héli főpap bíráskodásának utolsó napjaiban történt, hogy a filiszteusok megtámadták a választott népet. Erre ők is hadba vonultak a filiszteusok ellen. A Segítség kövénél ütöttek tábort, míg a filiszteusok Áfeknél sátoroztak.\n\nA filiszteusok csatarendbe álltak Izraellel szemben. Nehéz küzdelem volt, és Izrael vereséget szenvedett a filiszteusoktól. A harcban körülbelül négyezer férfi esett el a csatamezőn.\n\nMidőn a nép visszatért a táborba, vezetőik tanácskozni kezdtek: „Miért engedte meg Isten, hogy ma vereséget szenvedjünk a filiszteusoktól? Hozzuk el Silóból az Úr szövetségének szekrényét! Jöjjön közénk, és szabadítson meg ellenségeink kezéből!”\n\nA nép követeket küldött Silóba. El is hozták onnan a frigyszekrényt, melynek tetején a Seregek Ura trónol a kerubok felett. Héli két fia, Ofni és Fineász kísérték az Úr szövetségének szekrényét. Amint megérkezett a táborba, az egész nép akkora örömrivalgásban tört ki, hogy még a föld is rengett belé.\n\nAmikor a filiszteusok meghallották az ujjongás zaját, tanakodni kezdtek: „Mit jelent ez a nagy örömrivalgás a héberek táborában?” Mihelyt megtudták, hogy az Úr szekrénye érkezett meg a táborba, rémülten mondták egymásnak: „Az ő Istenük itt van a táborban.” Majd jajveszékelni kezdtek: „Jaj nekünk, mert nem volt ekkora ujjongás sem tegnap, sem tegnapelőtt! Jaj nekünk! Hogyan szabadulhatnánk meg ennek a hatalmas Istennek kezéből? Hisz ő az az Isten, aki oly sok csapással sújtotta az egyiptomiakat a pusztában. De ti, filiszteusok, legyetek bátrak és igazi férfiak, hogy ne kelljen szolgálnotok a hébereknek, mint ahogy azok nektek szolgáltak. Harcoljatok férfiakhoz méltó módon!”\n\nMeg is ütköztek a filiszteusok, és úgy megverték az izraelitákat, hogy mindenki hazafelé menekült. Igen nagy volt a vereség: harmincezer gyalogos esett el Izraelből. Héli két fia, Ofni és Fineász is a halottak között volt, sőt a frigyszekrény is az ellenség kezébe került.",
+  "cite": "1Sám 4,1-11"
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "key": "evkozi-6-2-II",
+ "source_date": "2026-02-17",
+ "rank": "",
+ "day": "6. évközi hét kedd",
+ "psalm": {
+  "cite": "Zsolt 93,12-13a.14-15.18-19",
+  "response": "Boldog az az ember, akit te tanítasz, Uram.",
+  "verses": [
+   "Boldog az az ember,\nakit te tanítasz, Uram,\nakit törvényedre oktatsz,\nhogy nehéz napjaiban enyhülést találjon.",
+   "Mert az Úr nem taszítja el népét,\nnem hagyja el örökségét.\nMert igazságos lesz az ítélet,\nés azt követi minden igaz szívű.",
+   "Ha azt mondtam: „Meginogtak lábaim!”,\nirgalmasságod, Uram, fenntartott engem.\nHa aggodalommal telik meg szívem,\nvigasztalásod felüdíti lelkemet."
+  ]
+ },
+ "alleluia": {
+  "text": "Aki szeret engem, megfogadja szavamat. Atyám is szeretni fogja, és hozzá költözünk. Jn 14,23 8 G. tónus.",
+  "cite": ""
+ },
+ "gospel": {
+  "book": "Szent Márk",
+  "summary": "Jézus emlékezteti tanítványait, hogy csodákkal igazolta isteni küldetését.",
+  "text": "A tanítványok egy alkalommal áthajóztak a Genezáreti-tavon. Elfelejtettek kenyeret vinni magukkal, és csak egy kenyerük volt a bárkában. Jézus a lelkükre kötötte: „Vigyázzatok! Óvakodjatok a farizeusok és Heródes kovászától!”\n\nŐk egymásközt arról beszélgettek, hogy nem hoztak magukkal kenyeret. Jézus észrevette, és így szólt: „Mit tanakodtok azon, hogy nincs kenyeretek? Még most sem értitek, és nem fogjátok föl? Még mindig érzéketlen a szívetek? Van szemetek, és nem láttok? Van fületek, és nem hallotok? Nem emlékeztek arra, hogy amikor öt kenyeret megtörtem ötezer embernek, hány tele kosár maradékot szedtetek össze?” Azt válaszolták: „Tizenkettőt.”\n\n„És amikor hetet törtem meg négyezer embernek, hány tele kosár maradékot szedtetek össze?” Azt felelték: „Hetet.”\n\nErre újra megjegyezte: „Hogyan lehet, hogy még mindig nem értitek?”",
+  "cite": "Mk 8,14-21"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent Jakab apostol leveléből",
+  "summary": "A bűn forrása nem Isten, hanem a mi rendetlen kívánságaink.",
+  "text": "Testvéreim! Boldog, aki állja a megpróbáltatást: hűségének jutalmául elnyeri az örök élet koronáját, amelyet Isten megígért azoknak, akik szeretik őt.\n\nNe mondja senki, ha próbára teszi a kísértés, hogy Isten viszi kísértésbe! Isten ugyanis felette áll minden gonosz kísértésnek, és ő maga sem kísért meg senkit. Kísértésbe úgy esik az ember, hogy saját érzékies természete ingerli és csábítja a rosszra. Ha pedig a rossz kívánság megfogant, bűnt szül. A bűn pedig, ha kifejlődik, halált okoz.\n\nNe essetek tehát tévedésbe, szeretett testvéreim! Amit a világosság Atyja ad nekünk az égből, az mind jó és tökéletes. Őbenne nincs változás, még árnyéka sincs nála a változandóságnak. Örök elhatározásával ő adott nekünk életet az igazság igéje által, hogy valamiképpen mi legyünk az elsők az egész teremtésben.",
+  "cite": "Jak 1,12-18"
+ }
+}

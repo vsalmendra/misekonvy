@@ -1,0 +1,33 @@
+{
+ "key": "evkozi-2-4-II",
+ "source_date": "2026-01-22",
+ "rank": "",
+ "day": "2. évközi hét csütörtök",
+ "psalm": {
+  "cite": "Zsolt 55,2-3.9-10ab.10c-11.12-13",
+  "response": "Istenben remélek, ezért nem kell félnem.",
+  "verses": [
+   "Irgalmazz, Istenem, mert rajtam tapodnak az emberek,\nnaphosszat szorongatnak és el akarnak nyomni.\nEllenségeim szüntelen tipornak,\nsokan vannak, akik vesztemre törnek, fölséges Istenem.",
+   "Bujdosásomat számon tartod, † gyűjtsd tömlődbe könnyeimet,\nugye, te mindent feljegyeztél?\nEllenségeim meghátrálnak előttem,\nvalahányszor hívlak téged.",
+   "Íme, tudom, Uram,\nhogy te vagy az én Istenem.\nIstenben remélek, akinek dicsérem szavát,\naz Úrban remélek, akinek dicsőítem beszédét.",
+   "Istenben bízom, nem félek,\nember mit árthat nékem?\nTeljesítem, Istenem, amit fogadtam néked,\nbemutatom a dicséret áldozatát."
+  ]
+ },
+ "alleluia": {
+  "text": "Üdvözítőnk, Jézus Krisztus, győzött a halálon, és az evangéliumban felragyogtatta az örök életet.",
+  "cite": "Vö. 2Tim 1,10"
+ },
+ "gospel": {
+  "book": "Szent Márk",
+  "summary": "Jézus sok beteget meggyógyít.\n\nMeghagyja azonban: Ne híreszteljék, hogy ő a Messiás.",
+  "text": "Abban az időben tanítványaival együtt Jézus visszavonult a Genezáreti-tóhoz. Nagy tömeg követte Galileából. Sőt Júdeából és Jeruzsálemből, Idumeából meg a Jordánon túlról, valamint Tírusz és Szidon környékéről is nagy sokaság csatlakozott hozzá, mert hallották, hogy milyen csodálatos dolgokat visz végbe.\n\nJézus meghagyta tanítványainak, hogy tartsanak készenlétben egy bárkát a tömeg tolongása miatt. Sokakat meggyógyított ugyanis, és aki valami bajban szenvedett, mind ott tolongott körülötte, hogy legalább megérinthesse.\n\nMég a tisztátalan lelkek is, amint meglátták Jézust, leborultak előtte, és így kiáltoztak: „Te vagy az Isten Fial” Ő azonban szigorúan meghagyta nekik, hogy ne híreszteljék, kicsoda ő.",
+  "cite": "Mk 3,7-12"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Sámuel első könyvéből",
+  "summary": "Saul irigységből Dávid életére tör, mert az nagyobb hős nála.",
+  "text": "Amikor Dávid a filiszteus Góliát legyőzése után Saul királlyal együtt hazafelé tartott, az asszonyok Izrael valamennyi városából kivonultak Saul király elé, hogy körtáncot lejtve, dobokkal, csörgőkkel, örömujjongással köszöntsék őt.\n\nEgymásnak felelgetve énekelték a táncoló asszonyok:\n\n„Saul megvert ezret,\n\nDávid pedig tízezret.”\n\nSaulnak nem tetszett ez a beszéd, és nagyon megharagudott érte. Gyanakodni kezdett: „Dávidnak tízezret adtak, nekem meg csak ezret? Más se hiányzik neki, csak a királyság.” Ettől kezdve Saul féltékenykedni kezdett Dávidra. Elmondta fiának, Jonatánnak, meg összes szolgáinak, hogy meg akarja ölni Dávidot.\n\nJonatán azonban nagyon szerette Dávidot, s ezért figyelmeztette őt: „Atyám, Saul, halálra keres téged. Holnap tehát vigyázz magadra, és rejtőzzél el! Én pedig majd kimegyek, és azon a mezőn, ahol rejtőzködöl, atyám elé állok. Beszélek vele az érdekedben, és amit megtudok, közlöm veled.”\n\nJonatán valóban közben is járt Saulnál Dávid érdekében. Ezekkel a szavakkal kérlelte őt: „Ne vétkezzék a király, az ő szolgája, Dávid ellen! Hiszen ő nem vétett ellened. Sőt cselekedetei nagyon hasznosak neked. Kockára tette az életét, amikor megverte a filiszteust; és az Úr általa adott nagy győzelmet Izrael egész népének. Ezt magad is láttad, és te is örvendeztél. Akkor most miért ontanál ártatlan vért és ölnéd meg Dávidot minden ok nélkül?”\n\nSaul hallgatott is Jonatán szavaira, és megesküdött: „Az Úr életére mondom, nem fogom Dávidot megöletni.”\n\nJonatán ekkor előhívta Dávidot, és mindent elmondott neki. Majd Saul elé vezette, és Dávid ismét kedves lett előtte, mint régebben volt.",
+  "cite": "1Sám 18,6-9;19,1-7"
+ }
+}

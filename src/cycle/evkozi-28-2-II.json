@@ -1,0 +1,32 @@
+{
+ "key": "evkozi-28-2-II",
+ "source_date": "2026-10-13",
+ "rank": "",
+ "day": "28. évközi hét kedd",
+ "psalm": {
+  "cite": "Zsolt 118,41.43-45.47-48",
+  "response": "Szálljon reám, Uram, a te irgalmad!",
+  "verses": [
+   "Fölöttem lebegjen irgalmad, Uram,\nés szabadításod, amit ígértél.\nFogyni ne hagyd számból a hűség igéjét,\nítéleteidben van reményem.",
+   "Fáradhatatlanul megtartom törvényedet,\nmindenkor és mindörökre.\nFeléd tartva széles úton járok,\nmert parancsaidat fürkészem.",
+   "Föllelkesülök parancsaidtól,\nmert örömöm telik bennük.\nFeléjük tárom kezemet, mert szeretem intelmeidet,\nrendelkezéseidről elmélkedem."
+  ]
+ },
+ "alleluia": {
+  "text": "Isten szava élő és átható, megítéli a gondolatot és szándékot szívünk mélyén.",
+  "cite": "Zsid 4,12"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Jézus elítéli azokat, akik a külső látszatra sokat adnak, de a belső, lelki tisztasággal nem törődnek.",
+  "text": "Egyik beszéde alkalmával meghívta Jézust egy farizeus, hogy étkezzék nála. Ő el is ment, és asztalhoz telepedett.\n\nAmikor a farizeus látta, hogy Jézus étkezés előtt nem mosott kezet, megütközött rajta.\n\nAz Úr ekkor így szólt hozzá: „Ti, farizeusok, tisztán tartjátok ugyan a pohár és a tál külsejét, de belül tele vagytok rablással és gonoszsággal. Esztelenek! Hát nem az alkotta a belsőt, aki a külsőt is? Adjátok inkább oda a rászorulóknak azt, amitek van, és akkor majd mindjárt tiszták lesztek egészen!”",
+  "cite": "Lk 11,37-41"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a galatákhoz írt leveléből",
+  "summary": "Isten előtt nem a törvény külső megtartása számít, hanem a szeretet által tettekben megnyilvánuló hit.",
+  "text": "Testvéreim!\n\nA szabadságot Krisztus szerezte meg nekünk. Álljatok tehát szilárdan, és ne hagyjátok, hogy újra a szolgaság igájába hajtsanak titeket.\n\nÉn, Pál mondom nektek: Ha csupán az ószövetségi törvényt tartjátok meg, Krisztus semmit sem használ nektek. Ismét kijelentem, hogy mindaz, aki a körülmetéléssel vállalja az ószövetségi törvényt, köteles azt a maga teljességében megtartani. Ha a mózesi törvény (megtartása) által akartok Isten előtt kedvessé válni, elszakadtatok Krisztustól, és elvesztettétek kegyelmét.\n\nMi azonban, a Szentlélektől vezetve, a hittől várjuk a megigazulást, és reméljük annak beteljesedését. Jézus Krisztusban ugyanis nem az számít, hogy valaki a körülmetélkedéssel vállalta-e az ószövetségi törvény megtartását vagy sem, hanem csak a hit, amely a szeretet által tevékeny.",
+  "cite": "Gal 5,1-6"
+ }
+}

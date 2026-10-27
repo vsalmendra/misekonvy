@@ -1,0 +1,31 @@
+{
+ "key": "fix-09-21",
+ "source_date": "2026-09-21",
+ "rank": "Ü",
+ "day": "Szent Máté apostol és evangélista – Ü",
+ "psalm": {
+  "cite": "Zsolt 18,2-3.4-5",
+  "response": "Minden földre elhat szózatuk.",
+  "verses": [
+   "Isten dicsőségét az egek hirdetik,\na mennybolt vallja kezének művét.\nEzt harsogja át egyik nap a másiknak,\nerre oktatja éj az éjszakát.",
+   "Nem olyan hang ez, nem olyan beszéd,\nhogy meg ne értenéd szavát.\nMinden földre elhat szózatuk,\na földkerekség végéig eljut igéjük."
+  ]
+ },
+ "alleluia": {
+  "text": "Téged, Isten, dicsérünk, téged Úrnak ismerünk! Téged dicsér, egek Ura, apostolok boldog kara.",
+  "cite": ""
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Jézus szólt Máténak: „Kövess engem!” Ő azonnal fölkelt és követte az Urat.",
+  "text": "Abban az időben amint Jézus továbbhaladt, látott egy Máté nevű embert a vámasztalnál ülni. Így szólt hozzá: „Kövess engem!” Az felállt és követte őt. Később, amikor Jézus az ő házában vendégeskedett, eljött sok vámos és bűnös, és helyet foglaltak az asztalnál Jézussal és tanítványaival együtt. Meglátták ezt a farizeusok és megkérdezték tanítványait: „Miért eszik a ti Mesteretek vámosokkal és bűnösökkel?” Jézus meghallotta ezt, és így válaszolt: „Nem az egészségeseknek kell az orvos, hanem a betegeknek. Menjetek csak, és tanuljátok meg, mit jelent ez: »Irgalmasságot várok és nem áldozatot!« Nem azért jöttem, hogy az igazakat hívjam, hanem hogy a bűnösöket.”",
+  "cite": "Mt 9,9-13"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak az efezusiakhoz írt leveléből",
+  "summary": "Mindegyikünk Krisztus ajándékozásának mértéke szerint részesült a kegyelemben.",
+  "text": "Testvéreim!\n\nKérlek benneteket, én, aki fogoly vagyok az Úrban, hogy éljetek méltón ahhoz a hivatáshoz, amelyet kaptatok; teljes alázatban, szelídségben és türelemben. Viseljétek el egymást szeretettel. Törekedjetek arra, hogy a béke kötelékével fenntartsátok a lelki egységet. Egy a Test és egy a Lélek, mint ahogy hivatástok is egy reményre szól.\n\nEgy az Úr, egy a hit, egy a keresztség. Egy az Isten, mindnyájunk Atyja, aki minden fölött áll, mindent áthat és mindenben benne van.\n\nMindegyikünk Krisztus ajándékozásának mértéke szerint részesült kegyelemben.\n\nŐ némelyeket apostollá, másokat prófétává, ismét másokat evangélistává, pásztorrá és tanítóvá tett, hogy szolgálatuk betöltésére neveljék a szenteket, és fölépítsék Krisztus testét, amíg mindnyájan el nem jutunk a hitben és az Isten Fia megismerésében az egységre, és meglett emberré nem leszünk, elérve Krisztus teljes életkorának mértékére.",
+  "cite": "Ef 4,1-7.11-13"
+ }
+}

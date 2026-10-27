@@ -1,0 +1,39 @@
+{
+ "key": "evkozi-21-vas-A",
+ "source_date": "2026-08-23",
+ "rank": "",
+ "day": "Évközi 21. vasárnap",
+ "psalm": {
+  "cite": "Zsolt 137,1-2a.2bc-3.6 és 8bc",
+  "response": "Örökké tart, Uram, a te irgalmad: ne vesd meg kezed alkotásait!",
+  "verses": [
+   "Ünnepellek, Uram, szívem mélyéből,\nmert meghallgattad ajkam igéit.\nAngyalaid előtt zsoltárt éneklek,\nszent templomodban arcra borulok.",
+   "Szent nevedet mindig megvallom,\nirgalmadért és igaz voltodért.\nmely napon hozzád kiáltok, hallgass meg engem,\ngyarapítsd az erőt lelkemben.",
+   "Valóban fölséges az Úr: † az alázatosnak gondját viseli,\nmessziről felismeri, kik a gőgösök.\nÖrökké tart, Uram, a te irgalmad:\nne vesd meg kezed alkotásait."
+  ]
+ },
+ "alleluia": {
+  "text": "Te Péter vagy, azaz kőszikla, és én erre a sziklára építem Egyházamat, és a pokol kapui nem vesznek erőt rajta.",
+  "cite": "Mt 16,18"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Te Péter vagy, és én neked adom a mennyek országának kulcsait.",
+  "text": "Abban az időben:\n\nAmikor Jézus Fülöp Cezáreájának vidékére ért, megkérdezte\n\ntanítványaitól: „Kinek tartják az emberek az Emberfiát?” Ezt\n\nválaszolták: „Van, aki Keresztelő Jánosnak, van, aki Illésnek, mások\n\nJeremiásnak vagy valamelyik prófétának.” Ő tovább kérdezte őket: „Hát\n\nti, kinek tartotok engem?” Simon Péter válaszolt: „Te vagy a\n\nKrisztus, az élő Isten Fia.” Erre Jézus azt mondta neki: „Boldog vagy\n\nSimon, Jónás fia, mert nem a test és a vér nyilatkoztatta ki ezt neked,\n\nhanem az én mennyei Atyám. Ezért mondom neked, hogy te Péter vagy, és\n\nén erre a sziklára építem Egyházamat, s a pokol kapui nem vesznek erőt\n\nrajta. Neked adom a mennyek országának kulcsait: Amit megkötsz a\n\nföldön, meg lesz kötve a mennyben is, és amit feloldasz a földön, fel\n\nlesz oldva a mennyben is.\n\nAkkor lelkére kötötte a tanítványoknak, el ne mondják senkinek, hogy\n\nő a Messiás.",
+  "cite": "Mt 16,13-20"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Izajás próféta könyvéből",
+  "summary": "Az Úr az ő szolgájának, a Messiásnak a vállára teszi le Dávid házának kulcsát.",
+  "text": "Így szól az Úr Sebna udvarnagyhoz:\n\n„Kivetlek tisztségedből,\n\nés elmozdítalak hivatalodból.\n\nAzon a napon elhívom szolgámat,\n\nEljákimot, Hilkijahu fiát,\n\nés reá adom köntösödet,\n\nés rá erősítem övedet:\n\na kezébe adom hatalmadat.\n\nÍgy atyja lesz Jeruzsálem lakóinak\n\nés Juda házának.\n\nAz ő vállára teszem le Dávid házának kulcsát,\n\namit kinyit, azt senki be nem zárja,\n\ns amit bezár, azt senki ki nem nyitja.\n\nMint a szeget, szilárd helyre verem be,\n\nés dicsőséges trónjává lesz atyja házának.”",
+  "cite": "Iz 22,19-23"
+ },
+ "reading2": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a rómaiakhoz írt leveléből",
+  "summary": "Őbelőle, őáltala és őérte van minden!",
+  "text": "Testvéreim!\n\nMilyen mélységesen gazdag az Isten bölcsessége és tudása!\n\nMilyen kifürkészhetetlenek szándékai,\n\nés milyen megfoghatatlanok útjai!\n\nVajon ki látta az Úr gondolatait,\n\nés tanácsot ki adott neki?\n\nKi kölcsönzött neki,\n\nhogy visszakövetelhetné tőle?\n\nŐbelőle, őáltala, és őérte van minden,\n\növé a dicsőség mindörökké! Ámen.",
+  "cite": "Róm 11,33-36"
+ }
+}

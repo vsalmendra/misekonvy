@@ -1,0 +1,32 @@
+{
+ "key": "evkozi-12-1-II",
+ "source_date": "2026-06-22",
+ "rank": "",
+ "day": "12. évközi hét hétfő",
+ "psalm": {
+  "cite": "Zsolt 59,3.4-5.12-13",
+  "response": "Szabadíts meg, Urunk, jobboddal, és hallgass meg minket!",
+  "verses": [
+   "Elvetettél minket, Istenünk, és magunkra hagytál\nmegharagudtál ránk, fordulj felénk újra.\nMegráztad a földet, úgyhogy meghasadt,\ngyógyítsd meg töréseit, mert megingott.",
+   "Népedet kemény próbára tetted,\nkábító borral itattál minket.\nIstenünk, te elvetettél minket,\nés már nem vonulsz ki seregünkkel.",
+   "Adj nekünk segítséget gyötrelmeinkben,\nmert az emberi segítség mit sem ér.\nIstennel nagy dolgokat viszünk végbe,\nő tiporja porba ellenségeinket."
+  ]
+ },
+ "alleluia": {
+  "text": "Isten szava élő és átható: megítéli a gondolatot és a szándékot szívünk mélyén.",
+  "cite": "Zsid 4,12"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Mielőtt mást megítélsz, nézz magadba!",
+  "text": "Jézus a hegyi beszédben ezt mondta tanítványainak:\n\nNe ítélkezzetek, hogy fölöttetek se ítélkezzenek! Amilyen ítélettel ítélkeztek, olyannal fognak fölöttetek is ítélkezni, és amilyen mértékkel mértek, olyannal mérnek majd nektek is.\n\nMiért látod meg embertársad szemében a szálkát, a magadéban meg nem veszed észre a gerendát? Vagy hogyan mondhatod embertársadnak: „Hadd vegyem ki szemedből a szálkát!”, holott a te szemedben gerenda van? Képmutató! Vedd ki előbb a saját szemedből a gerendát, és csak azután láss hozzá, hogy kivedd embertársad szeméből a szálkát!",
+  "cite": "Mt 7,1-5"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "a Királyok második könyvéből",
+  "summary": "Az Úr megbünteti és megalázza hűtlen népét.",
+  "text": "Ozeának, Izrael királyának napjaiban Szalmanasszár, Asszíria királya átvonult Izrael egész országán, és Szamaria ellen vonult. Háromévi ostrom után, Ozea király uralkodásának kilencedik esztendejében foglalta el Szamariát Asszíria királya. Izrael lakosságát Asszíriába hurcolta: Hálá városában telepítette le őket, Gózán tartomány folyója, a Hábor mellett, meg a médek városaiban.\n\nAz történt ugyanis, hogy Izrael fiai vétkeztek az Úr, az ő Istenük ellen, aki kihozta őket Egyiptom földjéről, a fáraónak, Egyiptom királyának hatalmából. Idegen isteneknek szolgáltak, és azoknak a pogány nemzeteknek szokásai szerint éltek, amelyeket az Úr elűzött Izrael fiai elől. Így cselekedtek Izrael királyai is.\n\nPedig az Úr figyelmeztette Izrael és Júda országát számos prófétája és látnoka által ilyen szavakkal: „Térjetek meg gonosz utaitokról! Tartsátok meg parancsaimat és szertartásaimat azok szerint a törvények szerint, amelyeket atyáitoknak parancsoltam, és ahogy nektek szolgáim, a hozzátok küldött próféták által meghagytam.”\n\nÁm ők nem hallgattak az Úrra, hanem megkeményítették nyakukat, miként atyáik, akik szintén nem akartak engedelmeskedni az Úrnak, az ő Istenüknek. Elvetették rendelkezéseit és szövetségét, amelyet atyáikkal kötött, és az ő intelmeit, amelyekkel figyelmeztette őket.\n\nEzért igen megharagudott az Úr Izraelre, és eltávolította őket színe elől, úgyhogy nem maradt meg más, csak Júda törzse.",
+  "cite": "2Kir 17,5-8.13-15a.18"
+ }
+}

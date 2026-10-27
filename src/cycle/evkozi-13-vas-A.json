@@ -1,0 +1,39 @@
+{
+ "key": "evkozi-13-vas-A",
+ "source_date": "2026-06-28",
+ "rank": "",
+ "day": "Évközi 13. vasárnap",
+ "psalm": {
+  "cite": "Zsolt 88,2-3.16-17.18-19",
+  "response": "Hadd énekeljem örökké Urunknak irgalmas jóságát. (",
+  "verses": [
+   "Az Úr irgalmáról énekelek örökkön örökké,\nhűségedet nemzedékről nemzedékre hirdeti ajkam.\nÍgy szóltál: † „Irgalmam szilárdan áll mindörökké.”\nValóban, a te hűséged erős, miként a mennybolt.",
+   "Boldog a nép, amely tud ünnepelni,\naz ilyen arcod fényében járhat, Uram.\nEgész nap örvendeznek nevednek,\nés igazságod felmagasztalja őket.",
+   "Te vagy néped erőssége,\nés jóvoltodból emeljük fel fejünket.\nMert a mi pajzsunk az Úrtól van,\nés királyunk Izrael Szentjétől."
+  ]
+ },
+ "alleluia": {
+  "text": "Ti mindnyájan választott nemzetség, királyi papság, szent nemzet vagytok. Hirdessétek annak erejét, aki a sötétségből csodálatos világosságára hívott meg titeket.",
+  "cite": "1Pét 2,9"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Aki a keresztjét föl nem veszi, nem méltó hozzám.\n\nAki titeket befogad, engem fogad be.",
+  "text": "Abban az időben Jézus ezt mondta apostolainak:\n\nAki apját vagy anyját jobban szereti, mint engem, nem méltó hozzám.\n\nAki nem veszi föl a keresztjét és nem követ engem, nem méltó hozzám.\n\nAki megtalálja életét, elveszíti azt, de aki értem elveszíti életét,\n\nmegtalálja azt.\n\nAki titeket befogad, engem fogad be, és aki engem befogad, azt\n\nfogadja be, aki engem küldött. Aki befogadja a prófétát, mert próféta,\n\naz a próféta jutalmát kapja. És aki az igazat befogadja, mert igaz, az\n\naz igaznak jutalmát kapja.\n\nS ha valaki csak egy pohár friss vizet ad is e legkisebbek egyikének\n\nazért, mert az én tanítványom, bizony mondom nektek, nem marad el a\n\njutalma.",
+  "cite": "Mt 10,37-42"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "a Királyok második könyvéből",
+  "summary": "Isten megjutalmazza a sunemi asszonyt, aki segíti az Isten emberét.",
+  "text": "Történt egy napon, hogy Elizeus próféta elindult és átment Sunembe.\n\nLakott ott egy előkelő asszony, aki meghívta asztalához, s így\n\nahányszor csak átment, mindig betért hozzá enni. Az (asszony) így szólt\n\nférjéhez: „Nézd, tudom, hogy Istennek szent embere az, aki mindig\n\nbetér hozzánk. Rendezzünk hát be neki a tetőn egy kis szobát, tegyünk\n\nbele ágyat, asztalt, széket meg mécsest, s ahányszor csak betér\n\nhozzánk, ott szálljon meg.”\n\nTörtént, hogy Elizeus egy nap megérkezett, betért a fönti szobába és\n\nlefeküdt. Aztán így szólt szolgájához, Gehászihoz: „Mi lenne az,\n\namivel viszonzást adhatnék az asszonynak?” Gehászi így válaszolt: „Ó,\n\nnincs neki fia, és a férje öreg.” Erre megparancsolta: „Hívd ide!”\n\nOdahívta, az megállt az ajtóban. Akkor Elizeus így szólt hozzá: „Egy\n\nesztendő elteltével ilyen idő tájt fiút dajkálsz.”",
+  "cite": "2Kir 4,8-11.14-16a"
+ },
+ "reading2": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a rómaiakhoz írt leveléből",
+  "summary": "A keresztségben eltemetkeztünk Krisztussal együtt a halálba, hogy új\néletre keljünk.",
+  "text": "Testvéreim!\n\nMi, akik Krisztus Jézusban megkeresztelkedtünk, az ő\n\nhalálában keresztelkedtünk meg. A keresztségben ugyanis eltemetkeztünk\n\nvele együtt a halálba, hogy miként Krisztus az Atya dicsőségére\n\nfeltámadt a halálból, úgy mi is új életre keljünk.\n\nHa Krisztussal meghaltunk, hisszük, hogy vele együtt élni is fogunk.\n\nTudjuk ugyanis, hogy Krisztus feltámadt a halálból, és többé nem hal\n\nmeg: a halál nem uralkodik többé rajta. Halálával egyszer s mindenkorra\n\nmeghalt a bűnnek, de életével Istennek él.\n\nÚgy tekintsétek tehát magatokat, mint akik meghaltatok a bűnnek, és\n\nmost az Istennek éltek, a mi Urunk Jézus Krisztusban.",
+  "cite": "Róm 6,3-4.8-11"
+ }
+}

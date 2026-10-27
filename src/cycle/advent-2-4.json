@@ -1,0 +1,32 @@
+{
+ "key": "advent-2-4",
+ "source_date": "2025-12-11",
+ "rank": "",
+ "day": "2. adventi hét csütörtök",
+ "psalm": {
+  "cite": "Zsolt 144,1 és 9.10-11.12-13ab",
+  "response": "Könyörületes az Úr és kegyes hozzánk, nagy irgalmú és hosszan tűrő.",
+  "verses": [
+   "Istenem és Királyom, magasztallak téged,\nszent nevedet áldom örökkön örökké.\nMindenkihez jóságos vagy, Uram,\nés irgalmas vagy minden művedhez.",
+   "Magasztaljon téged, Uram, minden műved,\nszentjeid áldást mondjanak.\nOrszágod dicsőségéről szóljanak,\nés hatalmadat mindenek hirdessék.",
+   "Hirdessék az emberek hatalmas tetteid,\nkirályságod fölséges dicsőségét.\nA te országod örökkévaló ország,\nuralmad megmarad nemzedékről nemzedékre."
+  ]
+ },
+ "alleluia": {
+  "text": "Harmatozzatok egek, onnan felülről, és ti, felhők hullassátok közénk az Igazat! Nyíljék meg a föld, és teremje az Üdvözítőt.",
+  "cite": "Iz 45,8"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "A Messiás magasztalja előhírnökének nagyságát.",
+  "text": "Abban az időben Jézus így nyilatkozott Keresztelő Jánosról: Bizony mondom nektek: Az asszonyok szülöttei között nem támadt nagyobb Keresztelő Jánosnál. De aki legkisebb a mennyek országában, nagyobb, mint ő. A mennyek országa Keresztelő János napjaitól mindmáig erőszakot szenved, és az erőszakosok szerzik meg. A próféták és a törvény Jánosig mindannyian ezt jövendölték. Ha tudni akarjátok, Illés ő, akinek el kell jönnie. Akinek füle van, hallja meg!",
+  "cite": "Mt 11,11-15"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Izajás próféta könyvéből",
+  "summary": "Az Úr megmutatja mindenható erejét:\naz őt váróknak mint gyengéd anya, a gőgösöknek mint szigorú bíró.",
+  "text": "Prófétája által szól az Úr:\n\nÉn, az Úr, a te Istened, én ragadtam meg jobbodat. Én szólok hozzád így: Ne félj! Én megsegítelek. Ne félj hát, Jákob, te, szegény féreg, te, maroknyi Izrael. Az Úr mondja ezt neked: Én magam vagyok a te gyámolod. Izrael Szentje, a te Megváltód. Nézd, cséplőszánná teszlek, új és éles fogú cséplőszánná. Hegyeket csépelsz és törsz majd össze, halmokat zúzol pozdorjává. Szélnek engeded majd, és a szél elsodorja őket, a forgószél szétszórja mind. De te ujjongsz majd az Úrban, és dicsekszel Izrael Szentjében. Vizet keresnek a szűkölködők és a szegények, de nincs, a nyelvük száraz a szomjúságtól. Én, az Úr, meghallgatom őket, én, Izraelnek Istene, nem hagyom el őket. Folyókat fakasztok a kopár dombokon, és forrásokat a völgyek ölén. A pusztaságot tóvá változtatom, vizek forrásaivá a kiaszott földet. A sivatagban cédrust növesztek, akácot, mirtuszt és olajfát; a pusztában fenyőt ültetek, platánt és ciprust, egymás mellett. Hogy így mindenki lássa és megtudja, meggondolja és megértse: Az Úr keze vitte ezt végbe mind, Izrael Szentje teremtette.",
+  "cite": "Iz 41,13-20"
+ }
+}

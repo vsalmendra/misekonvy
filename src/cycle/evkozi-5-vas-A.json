@@ -1,0 +1,39 @@
+{
+ "key": "evkozi-5-vas-A",
+ "source_date": "2026-02-08",
+ "rank": "",
+ "day": "Évközi 5. vasárnap",
+ "psalm": {
+  "cite": "Zsolt 111,4-5.6-7.8a és 9",
+  "response": "Az igaz ember világít, mint fény a sötétségben.",
+  "verses": [
+   "(6. tónus.)\nAz igaz világít, mint fény a sötétségben,\nigazságos, jóságos és irgalmas.\nBoldog ember, aki irgalmas, † és szívesen ad kölcsön,\naki a törvény szerint intézi minden dolgát.",
+   "Nem tántorodik meg soha,\naz igaz emléke örökké megmarad.\nRossz hírtől nem kell félnie,\nszíve nyugodt, mert az Úrban bízik.",
+   "Szíve erős, nem ismer félelmet,\nbőséges adományt oszt a szegénynek.\nIgazsága megmarad örökre,\nfeje dicsőségesen felemelkedik."
+  ]
+ },
+ "alleluia": {
+  "text": "„Én a világ világossága vagyok”, mondja a mi Urunk. „Aki engem követ, övé lesz az élet világossága.”",
+  "cite": "Jn 8,12"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Ti vagytok a világ világossága.",
+  "text": "Abban az időben Jézus így szólt tanítványaihoz:\n\n„Ti vagytok a föld sója. De ha a só ízét veszti, mivel sózzák meg?\n\nNem való az egyébre, mint hogy kidobják, s eltapossák az emberek.\n\nTi vagytok a világ világossága. A hegyen épült várost nem lehet\n\nelrejteni. Lámpát sem azért gyújtanak, hogy a véka alá rejtsék, hanem a\n\nlámpatartóra teszik, hogy világítson mindenkinek a házban. Úgy\n\nvilágítson a ti világosságtok az emberek előtt, hogy látva\n\njótetteiteket, magasztalják mennyei Atyátokat!”",
+  "cite": "Mt 5,13-16"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Izajás próféta könyvéből",
+  "summary": "Ha segítesz a rászorulókon, akkor majd felragyog világosságod.",
+  "text": "Oszd meg az éhezővel kenyeredet,\n\nés a hajléktalan szegényt fogadd be házadba.\n\nHa mezítelent látsz, öltöztesd föl,\n\nés ne fordulj el embertársad elől!\n\nAkkor majd felragyog világosságod, mint a hajnal,\n\nés a rajtad ejtett seb gyorsan beheged.\n\nElőtted halad majd igazságod,\n\nés az Úr dicsősége lesz a kísérőd.\n\nAkkor, ha szólítod, az Úr válaszol,\n\nkönyörgő szavadra így felel: Íme, itt vagyok!\n\nHa eltávolítod körödből az igát,\n\naz ujjal mutogatást és a gonosz beszédet,\n\nha odaadod az éhezőnek kenyeredet,\n\nés jóllakatod az elnyomottat,\n\nakkor felragyog a sötétségben világosságod,\n\nés homályod déli verőfényre változik.",
+  "cite": "Iz 58,7-10"
+ },
+ "reading2": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a korintusiakhoz írt első leveléből",
+  "summary": "Jézus Krisztust, a megfeszítettet hirdetem nektek.",
+  "text": "Testvéreim!\n\nAmikor nálatok jártam, nem választékos beszéddel vagy\n\nemberi bölcsességgel akartam hirdetni nektek Isten titkát. Elhatároztam\n\nugyanis, hogy nem akarok másról tudni köztetek, csak Jézus Krisztusról,\n\na megfeszítettről.\n\nGyöngeségem tudatában félve és nagyon elfogódva mentem hozzátok.\n\nTanításom és igehirdetésem ezért nem a bölcsesség elragadó szavaiból\n\nállt, hanem a lélek és az erő bizonyságából, hogy hiteteknek ne emberi\n\nbölcsesség, hanem Isten ereje legyen az alapja.",
+  "cite": "1Kor 2,1-5"
+ }
+}

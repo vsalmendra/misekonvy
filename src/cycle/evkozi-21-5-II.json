@@ -1,0 +1,32 @@
+{
+ "key": "evkozi-21-5-II",
+ "source_date": "2026-08-28",
+ "rank": "",
+ "day": "21. évközi hét péntek",
+ "psalm": {
+  "cite": "Zsolt 32,1-2.4-5.l0ab és 11",
+  "response": "Kegyes az Isten hozzánk: jóságával eltölt mindent.",
+  "verses": [
+   "Örvendezzetek, igazak, az Úrban,\na szentekhez dicséret illik.\nDicsérjétek az Urat citerával,\ntízhúrú hárfán zengjetek néki.",
+   "Sziklaszilárd az Úr igéje,\nminden tettét hűség vezeti.\nAz igazlelkűséget és a törvényt szereti,\ntelve van a föld az Úr irgalmával.",
+   "Semmivé teszi az Úr a pogányok szándékát,\nmeghiúsítja a népek terveit.\nÁm az Úr szándéka megmarad örökre,\nszívének gondolata nemzedékről nemzedékre."
+  ]
+ },
+ "alleluia": {
+  "text": "Imádkozva virrasszatok szüntelen, hogy az Emberfia elé méltón álljatok.",
+  "cite": "Lk 21,36"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Íme, jön a Vőlegény! Menjetek eléje!",
+  "text": "Abban az időben Jézus a következő példabeszédet mondta tanítványainak:\n\nA mennyek országa olyan, mint az a tíz szűz, akik vették lámpáikat, és kimentek a vőlegény elé. Öten közülük balgák voltak, öten pedig okosak. A balgák fogták a lámpásukat, de olajat nem vittek magukkal; az okosak azonban korsóikban olajat is vittek lámpásaikhoz. Késett a vőlegény, s ők mind elálmosodtak és elaludtak. Az éjszaka közepén egyszerre kiáltás hangzott: „Íme, a vőlegény!\n\nMenjetek eléje!” Erre a szüzek mindnyájan fölébredtek, és felszították lámpásaikat. A balgák kérték az okosakat: „Adjatok az olajotokból, mert lámpásaink kialvóban vannak!” Az okosak ezt válaszolták: „Nem lehet, nehogy nekünk is, nektek is kevés legyen. Inkább menjetek el a kereskedőkhöz, és vegyetek magatoknak!”\n\nMíg azok vásárolni mentek, megérkezett a vőlegény, és akik készen voltak, bementek vele a menyegzőre; az ajtó pedig bezárult. Később megérkezett a többi szűz is. Így szóltak: „Uram, uram! Nyiss ajtót nekünk!” De ő így válaszolt: „Bizony, mondom nektek, nem ismerlek titeket!”\n\nVirrasszatok tehát, mert nem ismeritek sem a napot, sem az órát!",
+  "cite": "Mt 25,1-13"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a korintusiakhoz írt első leveléből",
+  "summary": "Isten a megfeszített Jézusról szóló igehirdetéssel üdvözíti a meghívottakat.",
+  "text": "Testvéreim!\n\nKrisztus nem azért küldött engem, hogy kereszteljek, hanem hogy az evangéliumot hirdessem, de nem bölcselkedő beszéddel, hogy Krisztus keresztje erejét ne veszítse.\n\nA keresztre feszített Krisztusról szóló igehirdetésünk oktalanság azoknak, akik elvesznek, de nekünk, akik üdvözülünk, Isten ereje. Hiszen így olvassuk a Szentírásban:\n\nLerontom a bölcsek bölcsességét, s az okosak okosságát meghiúsítom.\n\nHol marad a (görög) bölcselő, a (zsidó) írástudó vagy az evilág tudósa? Nemde megmutatta Isten, hogy a világ bölcsessége ostobaság?\n\nMivel a világ a maga bölcsességével nem ismerte fel Istent isteni bölcsességében, úgy tetszett Istennek, hogy balgaságnak látszó igehirdetéssel üdvözítse a hívőket. A zsidók csodajeleket kívánnak, a görögök bölcsességet követelnek, mi azonban a megfeszített Krisztust hirdetjük. Ő a zsidóknak ugyan botrány, a pogányoknak meg ostobaság, de a meghívottaknak, legyenek bár zsidó- vagy pogány származásúak, Krisztus az Isten ereje és az Isten bölcsessége. Hiszen Isten „oktalansága” bölcsebb az embereknél, Isten „gyöngesége” pedig erősebb az embereknél.",
+  "cite": "1Kor 1,17-25"
+ }
+}

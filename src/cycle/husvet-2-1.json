@@ -1,0 +1,33 @@
+{
+ "key": "husvet-2-1",
+ "source_date": "2026-04-13",
+ "rank": "",
+ "day": "Húsvét 2. hét hétfő",
+ "psalm": {
+  "cite": "Zsolt 2,1-3.4-6.7-9",
+  "response": "Boldogok mindazok, akik benned bíznak, Uram!",
+  "verses": [
+   "Vagy: Alleluja. 2. szám.\nMiért zúgolódnak a nemzetek,\nmiért szőnek hiú terveket a népek.\nA föld királyai fölkelnek, † Összeesküdnek nagyjai\naz Úr ellen és fölkentje ellen.\nBilincsüket törjük össze,\nrázzuk le magunkról igájukat.",
+   "Vagy: Alleluja.\nA mennyben lakó csak mosolyog rajtuk,\naz Úr kineveti őket.\nHaragjában akkor így szól hozzájuk,\ndörgő szava rémületbe ejti őket:\n„Királyommá őt én magam tettem,\nszent hegyemen, Sion hegyén.”",
+   "Vagy: Alleluja.\nAz Úr szólt hozzám: † Fiam vagy nékem,\nma adtam neked életet.\nKérd tőlem, és örökségül adom neked a népeket,\naz egész földkerekség lesz a birtokod.\nVasvesszővel kormányzod őket,\nés mint cserépedényt törheted össze őket.",
+   "Vagy: Alleluja."
+  ]
+ },
+ "alleluia": {
+  "text": "Ha Krisztussal együtt feltámadtatok, keressétek, ami fönt van, ahol Krisztus ül az Isten jobbján.",
+  "cite": "Kol 3,1"
+ },
+ "gospel": {
+  "book": "Szent János",
+  "summary": "Csak az láthatja meg Isten országát, aki újjászületik.",
+  "text": "Volt a farizeusok között egy Nikodémus nevű férfi, aki a zsidók egyik főembere volt. Éjnek idején fölkereste Jézust, és ezt mondta neki:\n\n„Mester, tudjuk, hogy te Istentől jött tanító vagy. Senki sem tud ugyanis ilyen csodajeleket tenni, amilyeneket te művelsz, ha az Isten nincs vele.”\n\nJézus így felelt neki: „Bizony, bizony, mondom neked, ha valaki újra nem születik, nem láthatja meg az Isten országát.”\n\nErre Nikodémus megkérdezte: „Hogyan születhetik valaki újra, amikor már Öreg? Csak nem térhet vissza anyja méhébe, hogy újra szülessék?”\n\nJézus így felelt: „Bizony, bizony, mondom neked: aki újjá nem születik vízből és Szentlélekből, nem mehet be az Isten országába. Ami testből születik, az test, – ami viszont Lélekből születik, az lélek. Ne csodálkozz azon, hogy ezt mondtam neked: újjá kell születnetek!\n\nA szél ott fúj, ahol akar; hallod ugyan a zúgását, de nem tudod, honnan jön, és hová megy. Így van ez mindenkivel, aki a Lélekből született.”",
+  "cite": "Jn 3,1-8"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "az Apostolok Cselekedeteiből",
+  "summary": "Az apostolok, a Szentlélek erejében, bizalommal hirdetik Isten igéjét.",
+  "text": "Péter és János apostolok – kiszabadulásuk után – visszamentek övéikhez. Elbeszélték, hogy mit mondtak nekik a főpapok és a vének. Ennek hallatára egy szívvel-lélekkel felfohászkodtak Istenhez ezekkel a szavakkal:\n\n„Urunk! Te alkottad az eget, a földet, a tengert és mindent, ami benne van. Így szóltál a Szentlélek által Dávid király, a te szolgád szájával:\n\nMiért háborognak a nemzetek, és töprengenek hiábavalóságokon a népek? A föld királyai felkeltek, és a fejedelmek összefogtak az Úr ellen és az ő Fölkentje ellen.\n\nMert valóban, ebben a városban összefogott Heródes és Poncius Pilátus a pogányokkal és a választott néppel, szent Fiad, Jézus, a te felkent szolgád ellen, hogy végrehajtsák azt, amit hatalmad és akaratod előre elhatározott. Most tehát, Urunk, tekints fenyegetőzésükre, és add meg nekünk, hogy teljes bizalommal hirdessük igédet! Nyújtsd ki kezedet, hogy gyógyulások, jelek és csodák történjenek szent Fiad, Jézus nevében!”\n\nAmint így imádkoztak, megrendült a hely, ahol egybegyűltek. Mindnyájan elteltek Szentlélekkel, és bátor bizalommal hirdették az Isten igéjét.",
+  "cite": "ApCsel 4,23-31"
+ }
+}

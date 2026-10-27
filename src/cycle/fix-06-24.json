@@ -1,0 +1,32 @@
+{
+ "key": "fix-06-24",
+ "source_date": "2026-06-24",
+ "rank": "FÜ",
+ "day": "Keresztelő Szent János születése – FÜ",
+ "psalm": {
+  "cite": "138,1-3.13-14ab.14c-15",
+  "response": "Hálát adok neked, hogy oly csodásan alkottál!",
+  "verses": [
+   "Uram, te megvizsgálsz, és jól ismersz engem,\ntudod, ha leülök, vagy ha fölkelek.\nGondolataimat messziről is ismered, † szemmel tartod jártomat-keltemet,\njól látod minden utamat.",
+   "Egész bensőmet te alkottad,\nanyám méhében te szőttél egybe engem.\nMagasztallak, hogy oly csodásan alkottál, † csodálatos minden műved,\nlelkem jól tudja mindezt.",
+   "Csontjaim nem voltak rejtve előtted, † amikor létrejöttem a rejtek ölén,\nés megformáltál az anyaföld mélyében."
+  ]
+ },
+ "alleluia": {
+  "text": "Téged pedig, gyermek, a fölséges Isten prófétájának fognak mondani, mert az Úr előtt jársz, egyengetni az ő útját.",
+  "cite": "Lk 1,76"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Keresztelő Szent János születése.",
+  "text": "Amikor elérkezett Erzsébet szülésének ideje, fiúgyermeket szült. Szomszédai és rokonai meghallották, hogy milyen irgalmas volt hozzá az Úr, és együtt örült vele mindenki.\n\nA nyolcadik napon jöttek, hogy körülmetéljék a gyermeket. Atyja nevéről Zakariásnak akarták hívni. De anyja ellenezte: „Nem, János legyen a neve.” Azok megjegyezték: „Hiszen senki sincs a rokonságodban, akit így hívnának!”\n\nÉrdeklődtek erre atyjától, hogyan akarja őt nevezni. Atyja írótáblát kért, és ezeket a szavakat írta rá: „János a neve.” Erre mindnyájan meglepődtek. Neki pedig megnyílt az ajka, és megoldódott a nyelve: szólni kezdett, és magasztalta Istent.\n\nAkkor félelem szállta meg az összes szomszédokat, és Júdában meg az egész hegyvidéken erről az eseményről beszéltek. Aki csak hallott róla, elgondolkodva mondta: „Mi lesz ebből a gyermekből? Hiszen nyilván az Úr van vele.”\n\nA gyermek pedig növekedett, lélekben erősödött és mindaddig a pusztában élt, amíg Izrael előtt nyilvánosan fel nem lépett.",
+  "cite": "Lk 1,57-66.80"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "az Apostolok Cselekedeteiből",
+  "summary": "Jézus eljövetele előtt János a bűnbánat keresztségét hirdette.",
+  "text": "Amikor Pál apostol a pizidiai Antiochiába érkezett, a zsinagógában szólásra emelkedett. Kezével csendet parancsolt, és beszélni kezdett:\n\n„Isten Dávidot támasztotta királyul. Róla így nyilatkozott: »Rátaláltam Dávidra, Izáj fiára, a szívem szerint való férfiúra. Ő majd teljesíti minden szándékomat.«\n\nÍgéretéhez híven az ő utódai közül támasztotta Isten Izrael számára a Megváltót, Jézust. Az ő érkezése előtt János Izrael egész népének a bűnbánat keresztségét hirdette. Amikor János befejezte küldetését, így szólt: »Nem az vagyok, akinek engem hisztek. De íme, itt jön már az, akinek a saruját sem vagyok méltó leoldani.«\n\nFérfiak, testvérek! Ábrahám nemzetségének fiai és ti, istenfélők, az üdvösség híre nekünk szól.”",
+  "cite": "ApCsel 13,22-26"
+ }
+}

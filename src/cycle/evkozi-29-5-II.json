@@ -1,0 +1,32 @@
+{
+ "key": "evkozi-29-5-II",
+ "source_date": "2026-10-23",
+ "rank": "",
+ "day": "29. évközi hét péntek",
+ "psalm": {
+  "cite": "Zsolt 23,1-2.3-4ab.5-6",
+  "response": "Ez az istenkeresők népe, mely látni kívánja arcodat, Urunk.",
+  "verses": [
+   "Az Úré a föld, és ami betölti,\na földkerekség és minden lakója.\nTengerek fölé ő rakta alapját,\ns a vizek árján ő tartja szilárdan.",
+   "Ki mehet föl az Úr hegyére,\nki állhat meg az ő szent helyén?\nAki ártatlan kezű, tiszta szívű,\nakinek az esze nem jár csaláson.",
+   "Az nyer áldást az Úrtól,\nés megigazulást üdvözítő Istenétől.\nEz az istenkeresők népe,\namely arcát kutatja Jákob Istenének."
+  ]
+ },
+ "alleluia": {
+  "text": "Áldalak téged, Atyám, mennynek és földnek Istene, mert feltártad a kicsinyeknek országod titkait.",
+  "cite": "Vö. Mt 11,25"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Ismerjük fel az idők jeleiben az Isten üzenetét!",
+  "text": "Abban az időben Jézus így szólt a sokasághoz:\n\nHa látjátok, hogy nyugaton felhő támad, mindjárt mondjátok: „Eső jön!”, és úgy is történik. Ha déli szél fúj, azt mondjátok: „Hőség lesz!”, és megjön az is. Képmutatók! Az ég és föld jeleiből tudtok következtetni; a mai idők jeleit miért nem ismeritek fel? Miért nem ítélitek meg magatok, hogy mi az igazság?\n\nAmikor ellenfeleddel a hatóságokhoz mégy, igyekezzél még az úton kibékülni vele, hogy a bíróhoz ne hurcoljon. Mert ha a bíró elé visz, akkor a bíró átad a börtönőrnek, a börtönőr pedig börtönbe vet téged. Mondom neked, ki nem szabadulsz onnan, amíg tartozásodat az utolsó fillérig le nem fizeted.",
+  "cite": "Lk 12,54-59"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak az efezusiakhoz írt leveléből",
+  "summary": "Krisztus hívei a keresztség által Krisztus titokzatos testét alkotják a Szentlélekben.",
+  "text": "Testvéreim!\n\nKérlek benneteket, én, aki fogoly vagyok az Úrban, hogy éljetek méltón ahhoz a hivatáshoz, amelyet kaptatok; teljes alázatban, szelídségben és türelemben. Viseljétek el egymást szeretettel. Törekedjetek arra, hogy a béke kötelékével fenntartsátok a lelki egységet. Egy a Test és egy a Lélek, mint ahogy hivatástok is egy reményre szól.\n\nEgy az Úr, egy a hit, egy a keresztség. Egy az Isten, mindnyájunk Atyja, aki minden fölött áll, mindent áthat és mindenben benne van.",
+  "cite": "Ef 4,1-6"
+ }
+}

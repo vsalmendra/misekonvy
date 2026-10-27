@@ -69,10 +69,12 @@ still missing; the page shows "(A latin szöveg még nincs feltöltve.)" in thei
 ## The page
 
 - Days without a Mass file show the Order of Mass alone (`ORDINARY` in `tools/build.py`): the day's
-  prayers as rubric placeholders, prefaces of EP II (default) and EP IV, EP II default, and the day's
-  readings from `src/readings/<date>.json` (`tools/fetch_readings.py`, igenaptár; long forms kept,
-  singing aids stripped; Latin not included — one note in the Latin section). When a day gets a Mass
-  file, its own readings are used; the fetched JSON is a good start for the Mass file's readings.
+  prayers as rubric placeholders, prefaces of EP II (default) and EP IV, EP II default, and the
+  readings of the **liturgical day** (`tools/litcal.py` → `src/cycle/<key>.json`, fetched from
+  igenaptár; long forms kept, singing aids stripped; Latin not included — one note in the Latin
+  section). Fixed-date feasts/solemnities (igenaptár "– Ü"/"– FÜ") are stored as `fix-MM-DD` and
+  override the seasonal day (an Ü not on a Sunday). When a day gets a Mass file, its own readings are
+  used; `src/cycle/<key>.json` is a good start for them.
 
 - Header: date, title, colour, then the day ("29. évközi hét szerdája · választható emléknap") and
   **which Mass is used** (`mass_type`: proper / common (formula) / votive …). The Eucharistic prayer

@@ -1,0 +1,33 @@
+{
+ "key": "nagybojt-2-2",
+ "source_date": "2026-03-03",
+ "rank": "",
+ "day": "2. nagyböjti hét kedd",
+ "psalm": {
+  "cite": "Zsolt 49,8-9.16bc-17.21 és 23",
+  "response": "Aki szeplőtelenül járja az élet útját, annak mutatom meg az Isten üdvösségét.",
+  "verses": [
+   "Nem áldozataid miatt dorgállak meg én,\négőáldozataidat mindig látom.\nNem fogadok el borjakat házadtól,\nkecskéket sem kívánok legelődről.",
+   "Törvényeimet miért emlegeted,\nés miért veszed ajkadra szövetségem.\nHiszen gyűlölöd a törvény Fegyelmét,\nhátat fordítasz szavaimnak.",
+   "Így cselekedtél és én csak hallgattam, † úgy vélted, hogy hozzád hasonló vagyok,\nde felelned kell, mert számon kérlek.\nAki tisztel engem, az a dicséret áldozatát hozza, † aki szeplőtelenül járja az élet útját,\nannak mutatom meg az Isten üdvösségét."
+  ]
+ },
+ "alleluia": {
+  "text": "Szakítsatok minden törvényszegéssel, mondja a mi Urunk, Istenünk, szerezzetek magatoknak új szívet és új lelket a bűnbánatban!",
+  "cite": "Vö. Ez 18,31",
+  "lent": true
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Aki Isten törvényét tanítja, legyen példakép a törvény megtartásában is!",
+  "text": "Egy alkalommal Jézus e szavakkal fordult a néphez és tanítványaihoz;\n\n„Mózes tanítószékében az írástudók és a farizeusok ülnek. Tegyetek meg és tartsatok meg ezért mindent, amit mondanak nektek, de tetteikben ne kövessétek őket, mert tanítják ugyan, de maguk nem teszik azt. Súlyos, sőt elviselhetetlen terheket kötöznek össze és helyeznek az emberek vállára, de maguk egy ujjal sem hajlandók mozdítani rajta. Amit tesznek, azért teszik, hogy lássák őket az emberek. Szélesre szabják imaszíjukat, és köntösükön megnagyobbítják a bojtokat. Vendégségben szeretnek a főhelyekre ülni, a zsinagógában pedig az első székekbe. Elvárják, hogy az emberek köszönjenek nekik a főtereken, és hogy rabbinak, azaz mesternek szólítsák őket.\n\nTi ne hívassátok magatokat mesternek, mert egy a ti Mesteretek, ti pedig mindnyájan testvérek vagytok. De atyának se hívjatok senkit a földön, mert egy a ti Atyátok, a mennyei. És tanítónak se hívassátok magatokat, hisz egy a ti tanítótok: Krisztus. Aki a legnagyobb köztetek, az legyen a többi szolgája. Aki önmagát magasztalja, azt megalázzák, és aki önmagát megalázza, azt felmagasztalják.”",
+  "cite": "Mt 23,1-12"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Izajás próféta könyvéből",
+  "summary": "Sokszor a választottak is hálátlanok; a bűnbánatban azonban megtisztulunk, és örök életet nyerünk.",
+  "text": "Prófétája által szól az Úr:\n\nHalljátok az Úr szavát, Szodoma fejedelmei!\n\nFigyelj Isten parancsára, Gomorra népe!\n\n„Mosdjatok meg, s tisztuljatok meg.\n\nEl gonosz tetteitekkel színem elől,\n\nne tegyetek többé rosszat!\n\nTanuljatok meg jót tenni:\n\nkeressétek az igazságot,\n\nsegítsétek az elnyomottakat,\n\nszolgáltassatok igazságot az árvának\n\ns védelmezzétek az özvegyet.\n\nAztán jöjjetek s szálljatok velem perbe!” – mondja az Úr.\n\n„Ha olyanok volnának is bűneitek, mint a skarlát,\n\nfehérek lesznek, mint a hó;\n\nés ha olyan vörösek is, mint a bíbor,\n\nolyanok lesznek, mint a gyapjú.\n\nHa készséggel engedelmeskedtek,\n\nmajd a föld legjavából esztek.\n\nDe ha tovább is lázongtok ellenem,\n\nkard pusztít el benneteket.”\n\nIgen, az Úr szája mondta ezt.",
+  "cite": "Iz 1,10.16-20"
+ }
+}

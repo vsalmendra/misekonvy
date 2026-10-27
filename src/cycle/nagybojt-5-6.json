@@ -1,0 +1,33 @@
+{
+ "key": "nagybojt-5-6",
+ "source_date": "2026-03-28",
+ "rank": "",
+ "day": "5. nagyböjti hét szombat",
+ "psalm": {
+  "cite": "Jer 31,10.11-12ab.13",
+  "response": "Az Úr úgy őriz minket, miként nyáját a pásztor.",
+  "verses": [
+   "Halljátok az Úr szavát, nemzetek,\na távoli szigeteken is hirdessétek:\nAki szétszórta Izraelt össze is gyűjti,\nés őrzi, miként nyáját a pásztor.",
+   "Mert az Úr Jákobot megváltotta,\nés kiszabadította a zsarnok kezéből.\nEljönnek és örömükben ujjonganak Sion hegyén,\naz Úr javaiért hálát adni jönnek.",
+   "A leányok akkor örömükben körtáncot lejtenek,\naz ifjak és öregek velük vigadnak.\nGyászukat örömre fordítom,\nfájdalmukban megvigasztalom és felvidítom őket."
+  ]
+ },
+ "alleluia": {
+  "text": "Szakítsatok minden törvényszegéssel, mondja a mi Urunk, Istenünk, szerezzetek magatoknak új szívet és új lelket a bűnbánatban!",
+  "cite": "Ez 18,31",
+  "lent": true
+ },
+ "gospel": {
+  "book": "Szent János",
+  "summary": "Jézus meghal, hogy egybegyűjtse Isten szétszóródott gyermekeit.",
+  "text": "Lázár feltámasztása után a Mártához és Máriához jött zsidók közül sokan hittek Jézusban, mert látták, amit cselekedett.\n\nNémelyek azonban elmentek a farizeusokhoz, és jelentették, hogy mit tett Jézus. Erre a főpapok és a farizeusok összehívták a főtanácsot, és így tanakodtak: „Mit tegyünk? Ez az ember sok csodát művel. Ha engedjük, hogy folytassa, mindnyájan hisznek majd benne. Aztán jönnek a rómaiak, és elpusztítják szentélyünket és népünket.”\n\nKözülük az egyik, Kaifás, aki abban az évben főpap volt, ezt mondta nekik: „Ti nem tudtok semmit. Gondoljátok csak meg: Jobb, ha egy ember hal meg a népért, minthogy az egész nemzet elpusztuljon!”\n\nEzt pedig nem magától mondta, hanem mint annak az évnek főpapja prófétaként megjövendölte, hogy Jézus a népért hal meg; sőt nemcsak a népért, hanem hogy egybegyűjtse Isten szétszóródott gyermekeit.\n\nAttól a naptól kezdve megegyeztek abban, hogy megölik őt. Ezért Jézus nem mutatkozott többé nyilvánosan a zsidók előtt, hanem visszavonult a pusztaság melletti vidékre, egy Efrém nevű helységbe, és ott tartózkodott tanítványaival együtt.\n\nKözeledett a zsidók húsvétja. A vidékről már az ünnepek előtt sokan felzarándokoltak Jeruzsálembe, hogy megszentelődjenek. Ezek keresték Jézust, és még a templomban is beszélgettek róla: „Mit gondoltok, eljön-e az ünnepre?”\n\nA főpapok és a farizeusok ugyanis ekkor már kiadták a rendeletet, hogy aki tud valamit Jézus tartózkodási helyéről, jelentse, hogy elfoghassák őt.",
+  "cite": "Jn 11,45-57"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Ezekiel próféta könyvéből",
+  "summary": "Szétszórt népét összegyűjti majd az Isten, örök szövetségre lép velük, és köztük él.",
+  "text": "Prófétája által szól az Úr:\n\nÉn kiragadom Izrael fiait a népek közül, ahová elhurcolták őket. Összegyűjtöm őket mindenhonnan, és a saját földjükre vezetem őket.\n\nEgy néppé teszem Őket országomban, és Izrael hegyein egy király kormányozza majd őket, és nem alkotnak többé két népet, és nem oszlanak többé két országra.\n\nNem szennyezik be többé magukat bálványaikkal, tévelygéseikkel és bűneikkel. Kiszabadítom őket minden tévelygésükből, amellyel vétkeztek, megtisztítom őket, és az én népem lesznek, én meg az ő Istenük leszek.\n\nSzolgám, Dávid lesz majd a királyuk, és egyetlen pásztora lesz mindnyájuknak. Törvényeimhez igazodnak, és szemük előtt tartják parancsaimat, és teljesítik azokat.\n\nAzon a földön laknak majd, amelyet szolgámnak, Jákobnak adtam, s amelyen atyáitok is laktak. Ők is ezen laknak majd, fiaik is, sőt fiaik fiai is, mindörökre, és szolgám, Dávid lesz a fejedelmük mindörökké.\n\nA béke szövetségét kötöm velük, s ez örök szövetség lesz. Megerősítem és megsokasítom őket, és felállítom közöttük szentélyemet, örök időkre.\n\nKöztük lesz hajlékom, és én az ő Istenük leszek, ők meg az én népem lesznek. Akkor megtudják a nemzetek, hogy én vagyok az Úr, én szentelem meg Izraelt, mert szentélyem mindörökre köztük lesz.",
+  "cite": "Ez 37,21-28"
+ }
+}

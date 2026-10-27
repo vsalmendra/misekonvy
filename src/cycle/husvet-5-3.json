@@ -1,0 +1,33 @@
+{
+ "key": "husvet-5-3",
+ "source_date": "2026-05-06",
+ "rank": "",
+ "day": "húsvét 5. hét szerda",
+ "psalm": {
+  "cite": "Zsolt 121,1-2.3-4a.4b-5",
+  "response": "Isten házába indulunk, örömtől dobban a szívünk.",
+  "verses": [
+   "Vagy: Alleluja. 7. szám.\nÖrvendeztem, amikor azt mondták nekem,\naz Úr házába megyünk.\nÍme, itt állunk már kapuid előtt,\nkapuid előtt, ó, Jeruzsálem.",
+   "Vagy: Alleluja.\nJeruzsálem városa jól megépült,\nrészei egymáshoz illenek.\nOda járulnak föl a törzsek,\naz Úr népének törzsei.",
+   "Vagy: Alleluja.\nAz Úr Izraelnek törvénybe adta,\nhogy ott nevére áldást mondjanak.\nMert ott állnak az ítélőszékek,\nDávid házának székei.",
+   "Vagy: Alleluja."
+  ]
+ },
+ "alleluia": {
+  "text": "Jézus mondja: „Maradjatok meg bennem, és én bennetek! Aki énbennem marad, bőséges termést hoz.”",
+  "cite": "Jn 15,4a.5b"
+ },
+ "gospel": {
+  "book": "Szent János",
+  "summary": "Aki Jézusban marad, mint a szőlővessző a szőlőtőn, az sok gyümölcsöt terem.",
+  "text": "Abban az időben Jézus ezt mondta tanítványainak:\n\nÉn vagyok az igazi szőlőtő, és Atyám a szőlőműves. Minden szőlővesszőt, amely nem hoz gyümölcsöt bennem, lemetsz rólam, azt pedig, amely gyümölcsöt hoz, megtisztítja, hogy még többet teremjen. Ti már tiszták vagytok a tanítás által, amelyet hirdettem nektek. Maradjatok bennem, akkor én is bennetek maradok. Miként a szőlővessző nem hozhat gyümölcsöt magától, ha nem marad a szőlőtőn, úgy ti sem, ha nem maradtok bennem.\n\nÉn vagyok a szőlőtő, ti a szőlővesszők. Aki bennem marad, és én őbenne, az bő termést hoz, mert nélkülem semmit sem tehettek. Aki nem marad bennem, azt kivetik, mint a szőlővesszőt, és elszárad. Összeszedik, tűzre vetik és elégetik. Ha bennem maradtok, és szavaim is bennetek maradnak, akkor bármit akartok, kérjétek, és megkapjátok. Azáltal dicsőül meg Atyám, hogy bő termést hoztok, és a tanítványaim lesztek.",
+  "cite": "Jn 15,1-8"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "az Apostolok Cselekedeteiből",
+  "summary": "Pál és Barnabás Jeruzsálembe megy, hogy az apostolok döntését kérje a pogányságból megtért keresztények kötelezettségeiről.",
+  "text": "Amikor Pál és Barnabás befejezte első missziós útját, néhányan Júdeából Antióchiába érkeztek, és így tanították a pogányságból megtért testvéreket: „Ha nem fogadjátok el a Mózes törvényében előírt körülmetélkedést, nem üdvözülhettek.”\n\nMivel pedig Pál és Barnabás hevesen tiltakozott és vitába szállt velük, közösen elhatározták, hogy Pál és Barnabás meg még néhányan a többiek közül menjenek föl Jeruzsálembe az apostolokhoz és a presbiterekhez ennek a vitás kérdésnek ügyében.\n\nA közösség elbúcsúztatta őket. Ezután áthaladtak Fönícián és Szamarián, és elbeszélték az ottani híveknek a pogányok megtérését. Ezzel nagy örömöt szereztek nekik.\n\nAmikor megérkeztek Jeruzsálembe, az egyház, az apostolok és a presbiterek szívesen fogadták őket. Ők pedig elbeszélték, mi mindent művelt általuk az Isten.\n\nErre azonban felállt néhány, a farizeusok felekezetéből megtért hívő, és kijelentette: „Körül kell metélni őket, és rájuk kell parancsolni, hogy tartsák meg Mózes törvényét.”\n\nErre az apostolok és a presbiterek összegyűltek a kérdés megvizsgálására.",
+  "cite": "ApCsel 15,1-6"
+ }
+}

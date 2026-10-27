@@ -1,0 +1,32 @@
+{
+ "key": "evkozi-25-5-II",
+ "source_date": "2026-09-25",
+ "rank": "",
+ "day": "25. évközi hét péntek",
+ "psalm": {
+  "cite": "Zsolt 143,1a és 2abc.3-4",
+  "response": "Áldott legyen az Úr, ő az én segítségem!",
+  "verses": [
+   "Áldott legyen az Úr, ő az én segítségem, † ő tanította harcra kezemet,\nés ujjaimat viadalra.",
+   "Ő az én irgalmasságom és erősségem,\nmenedékem és szabadítom;\nő a védőpajzsom, benne remélek,\naki uralmam alá veti népemet.",
+   "Uram, ki az ember, hogy törődöl vele,\naz ember fia, hogy gondolsz reá?\nHiszen olyan az ember, mint a szellő,\nnapja pedig, mint a suhanó árnyék!"
+  ]
+ },
+ "alleluia": {
+  "text": "Az Emberfia azért jött, hogy szolgáljon, és életét sokakért váltságul adja.",
+  "cite": "Mk 10,45"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Isten Fölkentjének, a Messiásnak sokat kell szenvednie.",
+  "text": "Amikor egyszer Jézus egyedül imádkozott, és csak tanítványai voltak vele, megkérdezte tőlük: „Kinek tartanak engem az emberek?” Ők így válaszoltak: „Van, aki Keresztelő Jánosnak, van, aki Illésnek, mások szerint viszont a régi próféták közül támadt fel valaki.”\n\nŐ tovább kérdezte: „Hát ti kinek tartotok engem?” Péter válaszolt: „Az Isten Fölkentjének.”\n\nJézus rájuk parancsolt, hogy ezt ne mondják el senkinek. Majd hozzáfűzte: „Az Emberfiának sokat kell szenvednie. A vének, főpapok és írástudók elvetik őt, megölik, de harmadnapra feltámad.”",
+  "cite": "Lk 9,18-22"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "a Prédikátor könyvéből",
+  "summary": "Mindennek megvan a maga ideje;\n\na mindenség rendjét a teremtő Isten szabta meg.",
+  "text": "A Prédikátor így tanít: Mindennek megvan a maga ideje,\n\nés az ég alatt minden dolog elmúlik a maga idejében:\n\nIdeje van a születésnek és ideje a halálnak,\n\nideje az ültetésnek, és ideje a betakarításnak.\n\nIdeje van az ölésnek, és ideje a gyógyításnak,\n\nideje a lebontásnak, és ideje az építésnek.\n\nIdeje van a sírásnak, és ideje a nevetésnek,\n\nideje a gyásznak, és ideje a táncnak.\n\nIdeje van a kő szétdobálásának, és ideje a kő összeszedésének,\n\nideje az ölelkezésnek, és ideje az ölelkezéstől való tartózkodásnak.\n\nIdeje van a keresésnek, és ideje az elveszítésnek,\n\nideje a megőrzésnek, és ideje az eldobásnak.\n\nIdeje van az eltépésnek, és ideje a megvarrásnak,\n\nideje a hallgatásnak, és ideje a szólásnak.\n\nIdeje van a szeretetnek, és ideje van a gyűlölködésnek,\n\nideje a háborúnak, és ideje a békének.\n\nMi haszna van az embernek a fáradtságából?\n\nFigyeltem azt a vesződséget,\n\namelyet Isten az emberek fiainak adott,\n\nhogy bajlódjanak vele.\n\nMindent úgy alkotott, hogy helyes legyen a maga idejében.\n\nIsten a világot átadta az embernek, hogy kutassa azt,\n\nde az ember nem tudja teljesen kifürkészni Isten művét,\n\namelyet ő kezdettől fogva végbevisz.",
+  "cite": "Préd 3,1-11"
+ }
+}

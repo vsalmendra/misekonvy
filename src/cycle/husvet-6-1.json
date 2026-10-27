@@ -1,0 +1,33 @@
+{
+ "key": "husvet-6-1",
+ "source_date": "2026-05-11",
+ "rank": "",
+ "day": "húsvét 6. hét hétfő",
+ "psalm": {
+  "cite": "Zsolt 149,1-2.3-4.5 és 6a és 9b",
+  "response": "Kedvét találja az Úr az ő népében, és üdvösségre vezeti a szelídeket.",
+  "verses": [
+   "Vagy: Alleluja. 3. szám.\nAz Úrnak új dalt énekeljetek,\na szentek közösségében zengjen dicsérete.\nTeremtőjének örvendjen Izrael,\nés Sion gyermekei ujjongjanak királyuknak.",
+   "Vagy: Alleluja.\nNevét körtánccal dicsérjék:\nzengjen a zsoltár dobbal és citerával,\nmert kedvét találja az Úr az ő népében,\nés üdvösségre vezeti a szelídeket.",
+   "Vagy: Alleluja.\nÖrvendjenek a szentek dicsőségükben,\npihenőhelyükön is ujjongjanak.\nIsten magasztalása zeng az ajkukon,\nösszes szentjeinek ez lesz dicsősége.",
+   "Vagy: Alleluja."
+  ]
+ },
+ "alleluia": {
+  "text": "Jézus mondja: Az Igazság Lelke tanúságot tesz majd rólam, és ti is tanúságot tesztek.",
+  "cite": "Jn 15,26b.27a"
+ },
+ "gospel": {
+  "book": "Szent János",
+  "summary": "A Szentlélek, az Igazság Lelke tesz tanúságot a Fiúról.",
+  "text": "Jézus az utolsó vacsorán így szólt apostolaihoz:\n\nHa eljön a Vigasztaló, akit az Atyától küldök, az Igazság Lelke, aki az Atyától származik, ő majd tanúságot tesz rólam. Tegyetek ti is tanúságot rólam, hiszen kezdettől fogva velem vagytok!\n\nAzért mondtam ezt nektek, hogy meg ne botránkozzatok. Ki fognak zárni benneteket a zsinagógákból. Sőt eljön az óra, amikor mindaz, aki megöl titeket, azt hiszi, hogy szolgálatot tesz Istennek, így tesznek majd veletek, mert nem ismerik sem az Atyát, sem engem. Ezeket azért mondtam el nektek, hogy amikor eljön az óra, eszetekbe jusson, hogy előre megmondtam nektek.",
+  "cite": "Jn 15,26-16,4a"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "az Apostolok Cselekedeteiből",
+  "summary": "Az Úr megnyitja a hívek lelkét, hogy figyelemmel hallgassák Pál szavait.",
+  "text": "Pál éjszakai látomása után, Troászban tengerre szálltunk. Megérkeztünk Szamotrákiába, majd másnap Neápoliszba, innen meg Filippibe, amely Macedónia azon részének legjelentősebb városa, kolóniája volt. Néhány napig ebben a városban maradtunk.\n\nSzombaton kimentünk a város kapuján kívül a folyóhoz, mert úgy tudtuk, hogy ott van az imádság helye. Letelepedtünk, és beszélni kezdtünk a körénk gyűlt asszonyokhoz. A hallgatóság között volt egy Lídia nevű istenfélő bíborárus asszony Tiatíra városából. Ennek az Úr megnyitotta szívét, hogy figyelemmel hallgassa Pál szavait. Háza népével együtt megkeresztelkedett, és utána így rimánkodott: „Ha véleményetek szerint az Úr híve vagyok, térjetek be házamba, és ott vegyetek szállást!”\n\nÉs erővel rá is vett minket erre.",
+  "cite": "ApCsel 16,11-15"
+ }
+}

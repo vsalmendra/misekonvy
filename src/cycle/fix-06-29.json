@@ -1,0 +1,33 @@
+{
+ "key": "fix-06-29",
+ "source_date": "2026-06-29",
+ "rank": "FÜ",
+ "day": "Szent Péter és Szent Pál apostolok – FÜ",
+ "psalm": {
+  "cite": "Zsolt 33,2-3.4-5.6-7.8-9",
+  "response": "Az Úr kiragadott engem minden rettegésből!",
+  "verses": [
+   "Minden időben áldom az Urat,\ndicséretét szüntelenül zengi ajkam.\nLelkem az Úrban dicsekszik,\nhallják meg ezt a szelídek és örvendezzenek.",
+   "Magasztaljátok az Urat énvelem,\ndicsőítsük az ő nevét mindnyájan.\nKerestem az Urat, és ő meghallgatott engem,\nés kiragadott minden rettegésből.",
+   "Megvilágosultok, ha az Úrra néztek,\nés arcotokat nem éri szégyen.\nAz Úr meghallgatta a szegényt, aki hozzá kiáltott,\nés minden szorongatásából kiszabadította.",
+   "Az Úr angyala minden istenfélőt körülsáncol,\nés megszabadítja őt.\nÍzleljétek és lássátok, milyen édes az Úr,\nboldog az az ember, aki őbenne bízik."
+  ]
+ },
+ "alleluia": {
+  "text": "Te Péter vagy, és e sziklára építem Egyházam, s a pokol kapui nem vesznek erőt rajta.",
+  "cite": "Mt 16,18"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Te Péter vagy, és neked adom a mennyek országa kulcsait.",
+  "text": "Abban az időben amikor Jézus Fülöp Cezáreájának vidékére ért, megkérdezte tanítványaitól: „Kinek tartják az emberek az Emberfiát?” Ezt válaszolták: „Van, aki Keresztelő Jánosnak, van, aki Illésnek, mások Jeremiásnak vagy valamelyik prófétának.”\n\nŐ tovább kérdezte őket: „Hát ti, kinek tartotok engem?” Simon Péter válaszolt: „Te vagy a Krisztus, az élő Isten Fia.” Erre Jézus azt mondta neki: „Boldog vagy, Simon, Jónás fia, mert nem a test és a vér nyilatkoztatta ki ezt neked, hanem az én mennyei Atyám. Ezért mondom neked, hogy te Péter vagy, és én erre a sziklára építem Egyházamat, s a pokol kapui nem vesznek erőt rajta. Neked adom a mennyek országának kulcsait: Amit megkötsz a földön, meg lesz kötve a mennyben is, és amit feloldasz a földön, fel lesz oldva a mennyben is.”",
+  "cite": "Mt 16,13-19"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak Timóteushoz írt második leveléből",
+  "summary": "Készen vár rám az igazság győzelmi koszorúja.",
+  "text": "Kedves Fiam!\n\nAz én véremet nemsokára kiontják áldozatul. Eltávozásom ideje közel van. A jó harcot megharcoltam, a pályát végigfutottam, a hitet megtartottam. Készen vár rám az igazság győzelmi koszorúja, amelyet az Úr, az igazságos Bíró megad nekem azon a napon. De nemcsak nekem, hanem mindenkinek, aki örömmel várja az ő eljövetelét.\n\nMellém állt ugyanis az Úr és erőt öntött belém, hogy befejezzem az evangélium hirdetését, és tudomást szerezzen róla minden pogány. Így megmenekültem az oroszlán torkából. Sőt, az Úr ezután is megszabadít minden gonosz cselvetéstől és átment mennyei országába. Dicsőség legyen neki mindörökké! Ámen.",
+  "cite": "2Tim 4,6-8.17-18"
+ }
+}

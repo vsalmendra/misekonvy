@@ -1,0 +1,32 @@
+{
+ "key": "evkozi-26-4-II",
+ "source_date": "2026-10-01",
+ "rank": "",
+ "day": "26. évközi hét csütörtök",
+ "psalm": {
+  "cite": "Zsolt 26,7-9abc.13-14",
+  "response": "Hiszem, hogy meglátom az Úr javait az élők földjén.",
+  "verses": [
+   "Uram, halld meg kiáltó szavamat,\nkönyörülj rajtam, és hallgass meg engem.\nSzívem rólad mondta:\n„Keressétek az ő arcát!”",
+   "A te arcodat keresem, Uram,\nne rejtsd el előlem arcodat.\nNe fordulj el haragodban szolgádtól,\nsegítségem te vagy, el ne taszíts.",
+   "Hiszem, hogy meglátom az Úr javait\naz élők földjén.\nRemélj az Úrban, bátran cselekedj,\nszíved legyen erős, és bízzál az Úrban."
+  ]
+ },
+ "alleluia": {
+  "text": "Közel van az Isten országa, tartsatok bűnbánatot, és higgyetek az evangéliumban.",
+  "cite": "Mk 1,15"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Jézus apostoli munkára küldi a hetvenkét tanítványt.",
+  "text": "Az apostolok kiválasztása után Jézus kiválasztott más hetvenkét tanítványt, és elküldte őket kettesével maga előtt minden városba és helységbe, ahová menni szándékozott.\n\nÍgy szólt hozzájuk: „Az aratnivaló sok, de a munkás kevés. Kérjétek hát az aratás Urát, küldjön munkásokat aratásába.\n\nMenjetek! Úgy küldelek titeket, mint bárányokat a farkasok közé. Ne vigyetek magatokkal se erszényt, se tarisznyát, se sarut. Az úton senkit se köszöntsetek.\n\nHa betértek egy házba, először is ezt mondjátok: »Békesség e háznak!« Ha békesség fia lakik ott, rászáll a ti békességtek, ha nem, visszaszáll rátok. Maradjatok ugyanabban a házban, és azt egyétek és igyátok, amijük van. Mert méltó a munkás a maga bérére. Ne járjatok házról házra.\n\nHa egy városba érkeztek, és szívesen látnak titeket, egyétek, amit elétek adnak. Gyógyítsátok meg ott a betegeket, és hirdessétek: »Elérkezett hozzátok az Isten országa!«\n\nDe ha betértek valamelyik városba, és nem látnak titeket szívesen, menjetek ki az utcára, és mondjátok: »Még a port is lerázzuk, ami városotokban a lábunkra tapadt, de tudjátok meg: Elérkezett hozzátok az Isten országa!« Bizony, mondom nektek: Szodomának könnyebb sorsa lesz azon a napon, mint ennek a városnak.”",
+  "cite": "Lk 10,1-12"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Jób könyvéből",
+  "summary": "Végső szükségben az ember még barátaiban sem bízhat, csak Istenben, aki a halálból is kimenti.",
+  "text": "A mindenkitől elhagyott Jób így szólt barátaihoz: Szánjatok meg, barátaim, legalább ti szánjatok, mert megérintett engem az Úr keze!\n\nMiért üldöztök úgy most ti is, mint ahogy Isten üldöz engemet?\n\nMiért nem hagyjátok már abba, és miért marjátok testemet?\n\nBárcsak felírnák szavaimat, bárcsak feljegyeznék egy könyvbe!\n\nBárcsak vas íróvesszővel ólomtáblára, vagy vésővel sziklába vésnék azokat: Tudom, hogy Megváltóm él, és a végső napon feltámadok a földből.\n\nTestemet ismét bőr veszi körül, és testemben látom meg Istenemet.\n\nÉn magam látom majd őt, és nem valaki más; saját szememmel nézem őt; szívem titkos reménye ez.",
+  "cite": "Jób 19,21-27"
+ }
+}

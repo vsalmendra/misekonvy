@@ -1,0 +1,41 @@
+{
+ "key": "advent-1-vas-A",
+ "source_date": "2025-11-30",
+ "rank": "",
+ "day": "Advent 1. vasárnapja (A év)",
+ "psalm": {
+  "cite": "Zsolt 121,1-2.3-4a.(4b-5; 6-7).8-9",
+  "response": "Isten házába indulunk, örömtől dobban a szívünk.",
+  "verses": [
+   "Örvendeztem, mikor azt mondták nekem,\naz Úr házába megyünk.\nÍme, itt állunk már kapuid előtt,\nó Jeruzsálem.",
+   "Jeruzsálem városa jól megépült,\nrészei egymáshoz illenek.\nOda járnak föl a törzsek,\naz Úr népének törzsei.",
+   "Az Úr Izraelnek törvénybe adta,\nhogy ott nevére áldást mondjanak.\nMert ott állnak az ítélőszékek,\nDávid házának székei.",
+   "Jeruzsálemre békét esdjetek,\nbiztonságban éljen, aki szeret téged.\nBéke lakozzék falaid között,\nés nyugalom bástyáid tövében.",
+   "Testvéreim és barátaim miatt így könyörgök,\nlegyen békesség teveled.\nIstenünk és Urunk háza miatt\nkívánok áldást néked."
+  ]
+ },
+ "alleluia": {
+  "text": "Urunk, mutasd meg nékünk irgalmas szívedet, és az üdvösséget add meg nékünk.",
+  "cite": "Zsolt 84,8"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Virrasszatok, hogy készen álljatok!",
+  "text": "Abban az időben Jézus így szólt tanítványaihoz:\n\nAmikor az Emberfia eljön, ugyanaz történik, mint Noé napjaiban. A\n\nvízözön előtti napokban az emberek ettek, ittak, nősültek és férjhez\n\nmentek –, egészen addig a napig, amikor Noé beszállt a bárkába. Semmit\n\nsem sejtettek mindaddig, míg be nem következett a katasztrófa, és a víz\n\nel nem sodorta mindannyiukat. Így lesz ez akkor is, amikor az Emberfia\n\neljön. Ha akkor ketten lesznek kint a mezőn, az egyiket fölveszik, a\n\nmásikat otthagyják. Ha két asszony őröl a malmával, az egyiket\n\nfölveszik, a másikat otthagyják.\n\nVirrasszatok tehát, mert nem tudhatjátok, mely napon jön el a ti\n\nUratok! Mert nyilvánvaló, hogy ha a ház gazdája tudná, hogy melyik\n\nórában jön a tolvaj, fenn virrasztana, és nem hagyná, hogy betörjenek a\n\nházba. Legyetek tehát ti is készen, mert az Emberfia abban az órában\n\njön el, amikor nem is gondoljátok.",
+  "cite": "Mt 24,37-44"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Izajás próféta könyvéből",
+  "summary": "Egybegyűjti az Úr a nemzeteket Isten országának örök békéjére.",
+  "text": "Izajásnak, Ámosz fiának látomása Júdáról és Jeruzsálemről:\n\nAz utolsó időkben az Úr házának hegye szilárdan áll majd a hegyek\n\ntetején és magasabb lesz a halmoknál. Odaözönlenek mind a nemzetek,\n\nfelé tart számos nép, és így szól:\n\n„Rajta, menjünk fel az Úr hegyére, Jákob Istenének házához, hogy\n\ntanítson meg útjaira, és így ösvényein járhassunk. Mert Sionról jön a\n\ntörvény és Jeruzsálemből az Úr tanítása.”\n\nŐ tart majd ítéletet a nemzetek között, és igazságot szolgáltat\n\nszámtalan népnek. Ők meg beolvasztják ekevasnak kardjukat és sarlóknak\n\nlándzsáikat. Nemzet nem emel kardot nemzet ellen, és nem tanul többé\n\nhadviselést.\n\nJákob háza, gyertek, járjunk az Úr világosságában!",
+  "cite": "Iz 2,1-5"
+ },
+ "reading2": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a rómaiakhoz írt leveléből",
+  "summary": "Üdvösségünk közel van.",
+  "text": "Testvéreim!\n\nIsmeritek az időt: Itt az óra, hogy fölébredjünk\n\nálmunkból! Üdvösségünk közelebb van, mint amikor hinni kezdtünk!\n\nMúlóban az éjszaka, elközelgett a nappal. Vessük hát le a sötétség\n\ntetteit, és öltsük fel a világosság fegyvereit! Éljünk becsületesen,\n\namint az a nappalhoz illik, ne lakmározva és részegeskedve, ne\n\nkicsapongásban és érzékiségben, ne civakodva és viszálykodva! Öltsétek\n\ninkább magatokra Jézus Krisztust s a testi fegyelmet, hogy ne a bűnös\n\nvágyak szerint cselekedjetek.",
+  "cite": "Róm 13,11-14"
+ }
+}

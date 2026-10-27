@@ -1,0 +1,32 @@
+{
+ "key": "evkozi-29-3-II",
+ "source_date": "2026-10-21",
+ "rank": "",
+ "day": "29. évközi hét szerda",
+ "psalm": {
+  "cite": "Iz 12,2-3.4bcd.5-6",
+  "response": "Örömmel merítsetek vizet az Üdvözítő forrásaiból!",
+  "verses": [
+   "Íme, Isten az én üdvösségem,\nbízom benne, és nem félek.\nMert az Úr az én erősségem és dicsőségem,\nő lett nékem szabadulásom.",
+   "Adjatok hálát az Úrnak,\nmagasztaljátok az ő nevét.\nA népek közt hirdessétek tetteit,\nemlékezzetek meg arról, hogy Fölséges az ő neve.",
+   "Zengjetek dalt az Úrnak, mert csodás dolgokat művelt:\ntudja meg az egész világ!\nUjjongjatok és dicséretet mondjatok, Sion lakói,\nmert nagy a ti körötökben Izrael szentje."
+  ]
+ },
+ "alleluia": {
+  "text": "Virrasszatok és álljatok készen, mert nem tudjátok, hogy az Emberfia mikor érkezik!",
+  "cite": "Mt 24,42a.44"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Sokról kell számot adnia annak, aki sokat kapott.",
+  "text": "Abban az időben Jézus így szólt tanítványaihoz:\n\n„Gondoljátok meg: Ha tudná a házigazda, hogy melyik órában jön a tolvaj, nem engedné betörni házába. Éberen várjátok tehát az Emberfiát, mert eljön abban az órában, amikor nem is gondoljátok.”\n\nPéter megkérdezte: „Uram, csak nekünk mondod ezt a példabeszédet, vagy mindenkinek?”\n\nAz Úr így válaszolt: „Ki a hű és okos sáfár, akit ura szolgái fölé rendel, hogy ha eljön az ideje, kiadja részüket az élelemből?\n\nBoldog az a szolga, akit hazatérő ura ebben a tevékenységben talál. Bizony, mondom nektek, hogy minden vagyonát rábízza.\n\nDe ha a szolga azt mondja magában: »Uram bizonyára késni fog«, és elkezdi verni a többi szolgát és szolgálót, eszik-iszik meg részegeskedik, és megérkezik ennek a szolgának az ura olyan napon, amikor nem is várja, és olyan órában, amikor nem gondolja, bizony kegyetlenül megbünteti, és a hűtlenek sorsára juttatja.\n\nAz a szolga, aki ismeri ura akaratát, de nem áll készen, hogy akarata szerint járjon el, sok verést kap. Aki azonban nem ismeri, s így tesz olyat, amiért büntetést érdemel, csak kevés verést kap.\n\nMert aki sokat kapott, attól sokat követelnek, és akire sokat bíztak, attól többet kérnek számon.”",
+  "cite": "Lk 12,39-48"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak az efezusiakhoz írt leveléből",
+  "summary": "Krisztus szeretetének titka: a pogányok is társörökösök, és tagjai az Egyháznak.",
+  "text": "Testvéreim!\n\nBizonyára hallottatok Isten kegyelmi adományáról, amelyben a ti javatokra részesültem. Kinyilatkoztatásból megismertem Krisztus titkát, amint föntebb már röviden megírtam. Ha elolvassátok, megértitek, hogy megismertem Krisztus titkát, amelyről korábban nem tudtak az emberek, de most a (Szent)lélek a szent apostoloknak és prófétáknak kinyilatkoztatta.\n\nEszerint Jézus Krisztusban a pogányok is társörökösök, tagjai az egy testnek, és az evangélium által részesei az ígéreteknek. Ennek lettem szolgája Isten kegyelmi adományából, amelyet hathatós erejével juttatott nekem.\n\nNekem, az összes szent közül a legkisebbnek jutott osztályrészül az a kegyelem, hogy Krisztus felfoghatatlan gazdagságát hirdessem a pogányoknak, és megvilágosítsak minden embert; hogyan valósult meg ez a titok, amely kezdettől fogva el volt rejtve a mindent teremtő Istenben, hogy most az Egyház által az Isten szerfölött sokrétű bölcsessége nyilvánvalóvá legyen a mennyei fejedelemségek és hatalmasságok előtt. Ez volt az ő örök szándéka, amelyet Krisztus Jézusban, a mi Urunkban megvalósított. A benne való hit által van reményünk és biztonságos utunk Istenhez.",
+  "cite": "Ef 3,2-12"
+ }
+}

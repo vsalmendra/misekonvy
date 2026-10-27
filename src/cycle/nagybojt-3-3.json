@@ -1,0 +1,33 @@
+{
+ "key": "nagybojt-3-3",
+ "source_date": "2026-03-11",
+ "rank": "",
+ "day": "3. nagyböjti hét szerda",
+ "psalm": {
+  "cite": "Zsolt 147,12-13.15-16.19-20",
+  "response": "Jeruzsálem, szentek otthona, dicsérd fölséges Istened!",
+  "verses": [
+   "(Vö. 12a. vers. - 7. b tónus)\nDicsérd Uradat, Jeruzsálem,\nmagasztald, Sion, Istenedet,\nmert erőssé tette kapuid zárát,\nés megáldotta benned fiaidat.",
+   "Elküldi szavát a földre,\naz ő igéje gyorsan terjed.\nMint a gyapjút, a havat úgy hullatja,\núgy szórja a zúzmarát, mint a hamut.",
+   "Igéjét Jákobnak hirdeti,\ntörvényeit és végzéseit Izraelnek,\nEgyetlen néppel sem bánt így,\nvégzéseit nem fedte fel senki másnak."
+  ]
+ },
+ "alleluia": {
+  "text": "Uram, tanításod lélek és élet. Örök életet adó igéid vannak.",
+  "cite": "Jn 6,63c.68c",
+  "lent": true
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Isten törvényei örök érvényűek és változatlanok.",
+  "text": "A hegyi beszédben Jézus ezt mondta tanítványainak: „Ne gondoljátok, hogy azért jöttem, hogy megszüntessem a törvényt vagy a prófétákat. Nem megszüntetni jöttem, hanem tökéletessé tenni. Bizony mondom nektek, amíg az ég és föld el nem múlik, nem vész el a törvényből sem egy i betű, sem egy vessző, hanem minden érvényben marad. Aki tehát csak egyet is eltöröl akár a legkisebb parancsok közül is, és úgy tanítja az embereket, azt nagyon kicsinek fogják hívni a mennyek országában. És mindaz, aki megtartja és tanítja őket, igen nagy lesz a mennyek országában.”",
+  "cite": "Mt 5,17-19"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Mózes ötödik könyvéből",
+  "summary": "Ha Isten parancsai szerint élünk, tanúságot teszünk arról, hogy Isten üdvözíteni akarja az embereket.",
+  "text": "Mózes a választott nép előtt így beszélt:\n\nMost halld, Izrael, azokat a parancsokat és törvényeket, amelyeknek megtartására tanítalak, hogy éljetek és bevonulva elfoglaljátok azt a földet, amelyet az Úr, atyáitok Istene ad nektek.\n\nNézzétek, parancsokra és törvényekre tanítalak benneteket, ahogyan az Úr, az én Istenem parancsolta nekem, hogy hozzájuk igazodjatok azon a földön, ahova bevonultok, hogy birtokba vegyétek. Tartsátok szem előtt és kövessétek őket! Így tesztek szert bölcsességre és okosságra azoknak a népeknek a szemében, amelyek hallanak ezekről a törvényekről. Azt fogják mondani: „Valóban bölcs és okos nép ez a nagy nemzet!” Mert hát hol van olyan nagy nép, amelyhez istenei oly közel volnának, mint hozzánk az Úr, a mi Istenünk, amikor csak hozzá folyamodunk? És hol van olyan nagy nép, amelyiknek oly tökéletes parancsai és szabályai volnának, mint az az egész törvény, amelyet ma elétek tárok?\n\nMindenképpen vigyázz magadra és nagyon ügyelj, hogy amiket saját szemeddel láttál, el ne felejtsd, hanem őrizd meg emlékezetedben életed minden napján, sőt add tudtára gyermekeidnek és gyermekeid gyermekeinek is.",
+  "cite": "MTörv 4,1.5-9"
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "key": "evkozi-31-6-II",
+ "source_date": "2026-11-07",
+ "rank": "",
+ "day": "31. évközi hét szombat",
+ "psalm": {
+  "cite": "Zsolt 111,1-2.5-6.8a és 9",
+  "response": "Boldog az az ember, aki az Urat féli.",
+  "verses": [
+   "Vagy: Alleluja. 6. szám.\nBoldog ember, aki féli az Urat,\naki az Úr törvényében örömét leli.\nHatalmas lesz ivadéka a földön,\náldott lesz az igazak nemzetsége.",
+   "Vagy: Alleluja.\nBoldog ember, aki irgalmas, † és szívesen ad kölcsön,\naki a törvény szerint intézi minden dolgát.\nNem tántorodik meg soha,\naz igaz emléke örökké megmarad.",
+   "Vagy: Alleluja.\nSzíve erős, nem ismer félelmet,\nbőséges adományt oszt a szegényeknek.\nIgazsága megmarad örökre,\nfeje dicsőségesen felemelkedik.",
+   "Vagy: Alleluja."
+  ]
+ },
+ "alleluia": {
+  "text": "Jézus Krisztus vállalta a szegénységet, ámbár gazdag volt, hogy gazdaggá tegyen titeket szegénysége által.",
+  "cite": "2Kor 8,9"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Jézus a földi javak helyes használatára tanít minket.",
+  "text": "Jézus egyszer így beszélt tanítványaihoz:\n\n„Mondom nektek: Szerezzetek magatoknak barátokat a hamis mammonból, hogy amikor meghaltok, befogadjanak titeket az örök hajlékokba. Aki a kicsiben hű, az a nagyban is hű. Aki pedig hűtlen a kicsiben, az a nagyban is hűtlen. Ha tehát a hamis mammonban nem voltatok hűségesek, ki bízza rátok az igazi értéket? És ha a máséban nem voltatok hűek, ki adja oda nektek a tiéteket?\n\nEgy szolga sem szolgálhat két úrnak. Mert vagy az egyiket gyűlöli, és a másikat szereti, vagy: ragaszkodik az egyikhez, és a másikat megveti. Nem szolgálhattok Istennek és a mammonnak.”\n\nHallották mindezt a kapzsi farizeusok, és kigúnyolták őt. De Jézus kijelentette: „Ti igazaknak mutatjátok magatokat az emberek előtt, de Isten ismeri szíveteket. Ami ugyanis az emberek szemében nagy, Isten előtt semmiség.”",
+  "cite": "Lk 16,9-15"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a filippiekhez írt leveléből",
+  "summary": "Isten erejével mindent elviselhetünk és megtehetünk.",
+  "text": "Testvéreim!\n\nNagyon örültem az Úrban, hogy ismét lehetőségtek nyílt a rólam való gondoskodásra. Azelőtt is gondoskodtatok rólam, de mostanában nem volt rá alkalmatok. Nem a nélkülözés mondatja ezt velem, hiszen megtanultam, hogy beérjem azzal, amim van.\n\nTudok nélkülözni, de tudok bőségben is élni. Megszoktam mindig mindent: a jóllakást és az éhezést, a bővelkedést és a nélkülözést. Mindenre képes vagyok abban, aki nekem erőt ad.\n\nMégis jól tettétek, hogy szükségemben segítségemre voltatok. Ti is tudjátok, filippiek, hogy az evangélium hirdetésének kezdetén, amikor Macedóniából elindultam, egyetlen egyházközség sem állt velem az adás és viszonzás kapcsolatában, csak ti. Már Tesszalonikába is küldtetek egyszer-másszor, amire szükségem volt. Nem az adomány volt fontos nekem, hanem a gyümölcse, amelyet majd bőségesen a javatokra írnak.\n\nMegvan mindenem, mégpedig bőségesen. Bőven el vagyok látva, amióta Epafroditusztól átvettem küldeményeteket, mint kellemes illatú, Istennek tetsző áldozatot. Az én Istenem, gazdagságának mértéke szerint, a ti szükségeteket is bőségesen kielégíti majd a Jézus Krisztus által elnyert dicsőségben.",
+  "cite": "Fil 4,10-19"
+ }
+}

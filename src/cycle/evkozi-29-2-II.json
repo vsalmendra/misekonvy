@@ -1,0 +1,32 @@
+{
+ "key": "evkozi-29-2-II",
+ "source_date": "2026-10-20",
+ "rank": "",
+ "day": "29. évközi hét kedd",
+ "psalm": {
+  "cite": "Zsolt 84,9-14",
+  "response": "Népéhez szól az Isten, és hirdeti a békét.",
+  "verses": [
+   "Hadd halljam, mit mond az én Uram, Istenem,\nmert népének és szentjeinek békét ígér.\nAz istenfélőkhöz valóban közel az üdvösség,\nhogy országunkba dicsőség költözzék.",
+   "Irgalom és hűség majd egymásra lelnek,\ncsókot vált az igazság és a béke.\nA földből a hűség kisarjad,\nés az igazságosság tekint le az égből.",
+   "Az Úr jóságát megmutatja,\nföldünk is meghozza termését.\nIgazság jár az Úr előtt,\nés béke a lába nyomában."
+  ]
+ },
+ "alleluia": {
+  "text": "Imádkozva virrasszatok szüntelen, hogy az Emberfia elé méltón álljatok.",
+  "cite": "Lk 21,36"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Legyünk mindenkor készen az Isten előtti számadásra!",
+  "text": "Abban az időben Jézus így szólt tanítványaihoz:\n\nCsípőtök legyen felövezve, kezetekben pedig égő gyertya legyen. Hasonlítsatok az olyan emberekhez, akik urukra várnak, hogy mihelyt megérkezik a menyegzőről és zörget, rögtön ajtót nyissanak neki.\n\nBoldogok azok a szolgák, akiket uruk megérkezésekor ébren talál. Bizony, mondom nektek, felövezi magát, asztalhoz ülteti őket, körüljár és felszolgál nekik. És ha a második vagy a harmadik őrváltáskor érkezve is így találja őket, boldogok azok a szolgák.",
+  "cite": "Lk 12,35-38"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak az efezusiakhoz írt leveléből",
+  "summary": "Krisztus békét szerzett nekünk vére ontásával, és mindnyájunkat meghív országába.",
+  "text": "Testvéreim!\n\nEgykor Krisztus nélkül éltetek, Izrael vallási közösségén kívül. Nem volt részetek a megígért szövetségben, remény híján és Isten nélkül éltetek a világban. Most azonban ti, akik egykor „távol” voltatok, Krisztus Jézusban „közel” kerültetek, Krisztus vére árán.\n\nŐ a mi békességünk, aki a kettőt (Izraelt és a pogányokat) eggyé forrasztotta, és a közéjük emelt válaszfalat ledöntötte, az ellenségeskedést kiküszöbölte saját testében. A törvényt ugyanis parancsaival és rendelkezéseivel együtt érvénytelenítette. Mint békességszerző a két népet magában eggyé, új emberré teremtette, és egy testben mind a kettőt kiengesztelte Istennel kereszthalála által, amellyel az ellenségeskedést megölte.\n\nEljött, hogy békét hirdessen nektek, a távol levőknek, és békét a közel levőknek. Az ő révén van mindkettőnknek szabad utunk az egy Lélekben az Atyához. Most tehát nem vagytok már idegenek és jövevények, hanem a szentek polgártársai és Isten háza népe.\n\nApostolokra és prófétákra alapozott épület vagytok, amelynek szegletköve maga Jézus Krisztus. Benne kapcsolódik egybe az egész épület, és emelkedik az Úr szent templomává. Őbenne épültök egybe ti is, és lesztek a Szentlélek közreműködésével Isten hajlékává.",
+  "cite": "Ef 2,12-22"
+ }
+}

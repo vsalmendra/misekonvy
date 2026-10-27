@@ -1,0 +1,34 @@
+{
+ "key": "nagyhet-2",
+ "source_date": "2026-03-31",
+ "rank": "",
+ "day": "Nagykedd",
+ "psalm": {
+  "cite": "Zsolt 70,1-2.3-4a.5-6ab.15ab és 17",
+  "response": "Ajkam hirdeti, igazságodat, Uram.",
+  "verses": [
+   "Te vagy, Uram, én reményem,\nne hagyj soha szégyent érnem.\nIgazságodban ments meg, † szabadíts meg engem,\nfordítsd felém füled, és siess segítségemre.",
+   "Légy megmentő sziklám és erős váram,\nahol oltalmat nyerjek.\nMert te vagy, Istenem, erősségem és menedékem,\nragadj ki a bűnösök kezéből.",
+   "Te vagy reménységem, Istenem,\nifjúkorom óta, Uram, benned bízom.\nAnyám méhétől te vagy támaszom,\nanyám ölétől fogva védelmezőm.",
+   "Igazságodat hirdeti ajkam,\nés szabadító tetteidet egész nap.\nIfjúságom óta oktatsz engem, Istenem,\ncsodáidat mindmáig hirdetem."
+  ]
+ },
+ "alleluia": {
+  "text": "Üdvöz légy, Királyunk! Engedelmes voltál Atyádnak: megfeszíteni vittek, mint leölésre a szelíd bárányt.",
+  "cite": "",
+  "lent": true
+ },
+ "gospel": {
+  "book": "Szent János",
+  "summary": "Jézus megjövendöli tanítványai hűtlenségét: az egyik elárulja, a másik megtagadja.",
+  "text": "Az utolsó vacsorán Jézus mélyen megrendült lelkében, és újból kijelentette:\n\n„Bizony, bizony, mondom nektek, egy közületek elárul engem.” Erre a tanítványok tanácstalanul egymásra néztek, mert nem tudták kiről mondta ezt.\n\nA tanítványok közül az egyik, akit Jézus szeretett, a vacsora alatt Jézus mellett ült. Simon Péter intett neki: „Kérdezd meg, kiről beszél?” Ő Jézushoz fordult, és megkérdezte: „Uram, ki az?” Jézus így felelt: „Az, akinek a bemártott falatot adom.” Ezzel bemártotta a falatot (a tálba) és karióti Júdásnak, Simon fiának nyújtotta. A falat után mindjárt belé szállt a sátán. Jézus ennyit mondott neki: „Amit tenni akarsz, tedd meg mielőbb!”\n\nAz asztalnál ülők közül senki sem értette, miért mondta ezt neki Jézus. Egyesek azt hitték, hogy – mivel Júdásnál volt a pénz – Jézus megbízta: „Vedd meg, amire szükségünk lesz az ünnepen!” Mások pedig (azt gondolták), hogy adjon valamit a szegényeknek. Miután Júdás átvette a falatot, azonnal kiment. Éjszaka volt.\n\nJúdás távozása után Jézus ezeket mondta: „Most dicsőült meg az Emberfia, és az Isten is megdicsőült benne. Ha pedig az Isten megdicsőült benne, az Isten is meg fogja öt dicsőíteni önmagában, sőt hamarosan megdicsőíti. Gyermekeim, már csak rövid ideig vagyok veletek. Keresni fogtok engem, de amint a zsidóknak megmondottam, most nektek is megmondom: ahová én megyek, oda ti nem jöhettek.”\n\nErre Simon Péter megkérdezte: „Uram, hová mégy?” Jézus így válaszolt: „Ahová én megyek, oda most nem jöhetsz velem, de később követni fogsz.” Péter azonban erősködött: „Uram, miért ne követhetnélek most? Az életemet is odaadom érted,” Jézus ezt felelte neki: „Életedet adod értem? Bizony bizony, mondom neked, mire a kakas megszólal, háromszor tagadsz meg engem.”",
+  "cite": "Jn 13,21-33.36-38"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Izajás próféta könyvéből",
+  "summary": "Az eljövendő Megváltó a nemzetek világossága és az egész világ ékessége lesz.",
+  "text": "Prófétája által Megváltónk nevében így szól az Úr:\n\n„Halljátok, szigetek, és figyeljetek, távoli népek!\n\nAz Úr hívott meg, mielőtt még születtem;\n\nanyám méhétől fogva a nevemen szólított.\n\nSzámat éles kardhoz tette hasonlóvá,\n\ns kezének árnyékával oltalmazott engem.\n\nMint a hegyes nyíl, olyanná tett, és a tegzébe rejtett.\n\nS így szólt hozzám: »A szolgám vagy, Izrael,\n\nbenned fogok megdicsőülni!«\n\nDe én azt mondtam: »Hiába fáradtam,\n\nhaszontalanul tékozoltam erőmet.«\n\nÁm igaz ügyem az Úr előtt van,\n\nés jutalmam Istenemnél.\n\nÉs most ezt mondja az Úr,\n\naki már anyám méhétől fogva szolgájává tett,\n\nhogy visszavezessem hozzá Jákobot,\n\nés Izraelt köréje gyűjtsem,\n\nÍgy dicsővé lettem az Úr szemében,\n\nés Istenem lett az erőm.\n\nÉs mondotta az Úr:\n\n»Kevés az, hogy szolgám légy,\n\ns fölemeld Jákob törzseit,\n\nés visszatérítsd Izrael maradékát.\n\nA nemzetek világosságává teszlek,\n\nhogy üdvösségem eljusson a föld határáig.«”",
+  "cite": "Iz 49,1-6"
+ }
+}

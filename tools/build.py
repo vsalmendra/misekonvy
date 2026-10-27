@@ -11,11 +11,13 @@ Writes  app/data/calendar.json    (date -> title list, used by the date picker)
 and stamps a new cache name into app/sw.js.
 """
 import hashlib, html, json, re, sys, tomllib
-from datetime import date as Date
+from datetime import date as Date, timedelta
 from itertools import zip_longest
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
+sys.path.insert(0, str(ROOT / 'tools'))
+import litcal  # noqa: E402
 SRC, APP = ROOT / 'src', ROOT / 'app'
 MONTHS = 'január február március április május június július augusztus szeptember október november december'.split()
 DAYS = 'hétfő kedd szerda csütörtök péntek szombat vasárnap'.split()
@@ -369,28 +371,39 @@ def build_ordinary():
     return {'html': render(ORDINARY)}
 
 
-def build_readings():
-    """src/readings/<date>.json (tools/fetch_readings.py) -> app/data/readings/<date>.json: the day's
-    readings, put by the app into the Order of Mass on days without a Mass file."""
-    out = APP / 'data' / 'readings'
+def build_cycle(first=Date(2026, 10, 1), last=Date(2029, 12, 31)):
+    """src/cycle/<key>.json (tools/fetch_readings.py) -> app/data/cycle/<key>.json, and
+    app/data/days.json: for every date, the liturgical day's name and the key of its readings.
+    The app puts them into the Order of Mass on days without a Mass file."""
+    out = APP / 'data' / 'cycle'
     out.mkdir(parents=True, exist_ok=True)
-    have = {p.stem for p in (SRC / 'masses').glob('*.toml')}
-    written = set()
-    for path in sorted((SRC / 'readings').glob('*.json')):
-        if path.stem in have:   # the Mass file has its own readings
-            continue
+    have, written = {}, set()
+    for path in sorted((SRC / 'cycle').glob('*.json')):
         r = json.loads(path.read_text(encoding='utf-8'))
         hu = [reading(r['reading1']), psalm(r['psalm'])] + ([reading(r['reading2'])] if 'reading2' in r else [])
         hu += [alleluia(r['alleluia']), gospel(r['gospel'])]
         # No Latin lectionary text for these days yet: one note instead of a column of placeholders.
         la = [bi_h3('Lectiones', 'Olvasmányok'), bi_note('A napi olvasmányok latinul még nincsenek feltöltve; magyarul lásd fent.')]
-        (out / f'{path.stem}.json').write_text(json.dumps({'day': r.get('day', ''), 'html': '\n'.join(hu), 'la_html': ''.join(la)},
+        (out / f'{path.stem}.json').write_text(json.dumps({'html': '\n'.join(hu), 'la_html': ''.join(la)},
                                                           ensure_ascii=False), encoding='utf-8')
+        have[path.stem] = r
         written.add(f'{path.stem}.json')
     for stale in out.glob('*.json'):
         if stale.name not in written:
             stale.unlink()
-    print(f'{len(written)} days of readings')
+    days, found, d = {}, 0, first
+    while d <= last:
+        k, lab = litcal.key(d), litcal.label(d)
+        fix = have.get(f'fix-{d.month:02d}-{d.day:02d}')
+        if fix and not k.startswith('fix-') and (fix.get('rank') == 'FÜ' or (fix.get('rank') == 'Ü' and d.weekday() != 6)):
+            k, lab = f'fix-{d.month:02d}-{d.day:02d}', re.sub(r'\s*[–-]\s*F?Ü\s*$', '', fix['day'])
+        if k.startswith('fix-') and k in have and lab.startswith('Karácsonyi idő'):
+            lab = re.sub(r'\s*[–-]\s*F?Ü\s*$', '', ' '.join(have[k]['day'].split()))
+        days[d.isoformat()] = [lab, k if k in have else '']
+        found += k in have
+        d += timedelta(days=1)
+    (APP / 'data' / 'days.json').write_text(json.dumps(days, ensure_ascii=False, separators=(',', ':')), encoding='utf-8')
+    print(f'{len(written)} liturgical days of readings; {found} of {len(days)} dates covered ({first} - {last})')
 
 
 def render(m):
@@ -511,7 +524,7 @@ def main():
         if stale.name not in written:
             stale.unlink()
     (APP / 'data' / 'ordinary.json').write_text(json.dumps(build_ordinary(), ensure_ascii=False), encoding='utf-8')
-    build_readings()
+    build_cycle()
     (APP / 'data' / 'calendar.json').write_text(json.dumps({'masses': cal}, ensure_ascii=False, indent=1), encoding='utf-8')
 
     # New service-worker cache name whenever any app file changes, so installed apps pick up the update.

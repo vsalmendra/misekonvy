@@ -1,0 +1,33 @@
+{
+ "key": "husvet-5-4",
+ "source_date": "2026-05-07",
+ "rank": "",
+ "day": "húsvét 5. hét csütörtök",
+ "psalm": {
+  "cite": "Zsolt 95,1-2a.2b-3.10",
+  "response": "Hirdessétek minden népnek, mondjátok el az Úr csodás tetteit.",
+  "verses": [
+   "Vagy: Alleluja. 11. szám.\nÉnekeljetek az Úrnak új éneket,\nminden föld az Úrnak énekeljen.\nÉnekeljetek az Úrnak, áldjátok nevét,\nnapról napra hirdessétek üdvösségét.",
+   "Vagy: Alleluja.\nHirdessétek dicsőségét a nemzetek között,\nés csodatetteit minden népnek.",
+   "Vagy: Alleluja.\nMondjátok a nemzeteknek:\n„Az Úr uralkodik!”\nŐ tette a földet szilárddá, és az meg nem inog,\nő ítélkezik a népek fölött igazságban.",
+   "Vagy: Alleluja."
+  ]
+ },
+ "alleluia": {
+  "text": "Jézus mondja: „Juhaim hallgatnak szavamra, ismerem őket, és ők a nyomomban járnak.”",
+  "cite": "Jn 10,27"
+ },
+ "gospel": {
+  "book": "Szent János",
+  "summary": "Aki megmarad Jézus szeretetében, annak öröme teljes lesz.",
+  "text": "Jézus így tanított az utolsó vacsorán:\n\n„Amint engem szeret az Atya, úgy szeretlek én is titeket. Maradjatok meg az én szeretetemben!\n\nHa megtartjátok parancsaimat, megmaradtok szeretetemben, ahogy én is megtartottam Atyám parancsait, és megmaradok az ő szeretetében.\n\nEzeket azért mondtam nektek, hogy az én örömöm legyen bennetek, és örömötök ezzel teljes legyen.”",
+  "cite": "Jn 15,9-11"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "az Apostolok Cselekedeteiből",
+  "summary": "Az apostolok döntése szerint azok, akik a pogányok közül tértek meg, nem kötelesek teljes mértékben a mózesi törvény megtartására.",
+  "text": "Az apostoli zsinaton heves vita támadt a mózesi törvény megtartása körül. Péter akkor szólásra emelkedett:\n\n„Férfiak, testvérek! Tudjátok, hogy Isten már hosszabb ideje kiválasztott engem közületek, hogy a pogányok az én számból hallják az evangélium szavát, és az igaz hitre térjenek. A szíveket vizsgáló Isten bizonyságot tett mellettük, amikor nekik éppen úgy megadta a Szentlelket, mint nekünk. Nem tett különbséget köztünk és köztük, amikor a hit által szívüket megtisztította. Most tehát miért ellenkeztek Istennel azáltal, hogy azt az igát akarjátok a tanítványok nyakára tenni, amelyet sem atyáink, sem mi nem bírtunk viselni? Ellenkezőleg: a mi hitünk az, hogy Urunk Jézus Krisztus kegyelme által üdvözülünk, és éppen úgy ők is.”\n\nErre az egész gyülekezet lecsillapodott. Meghallgatta Barnabást és Pált, amint elbeszélték, milyen csodajeleket művelt általuk Isten a pogányok között. Amikor befejezték, Jakab apostol szólalt fel:\n\n„Férfiak, testvérek, hallgassatok meg engem! Simon (Péter) elbeszélte, hogyan mutatta meg Isten, hogy a pogányok közül akar magának népet választani. Ezzel megegyeznek a próféták szavai. Azt mondja ugyanis a Szentírás:\n\nEzek után visszatérek, és újjáépítem Dávid leomlott sátorát: omladékait újjáépítem és helyreállítom, hogy a többi ember is keresse az Urat, és minden nép, amely segítségül hívja nevemet.\n\nAz Úr mondja ezt, és meg is teszi. Ez az ő örök határozata. Véleményem szerint tehát nem kell háborgatnunk azokat, akik a pogányok közül tértek meg Istenhez. Azt azonban írjuk meg nekik, hogy (a köztük élő zsidókra való tekintettel) tartózkodjanak a bálványoknak bemutatott áldozati állatok evésétől, a paráznaságtól, valamint a fojtott állat és a vér fogyasztásától! Mózesnek ugyanis minden városban régtől fogva van hirdetője, hiszen minden szombaton olvassák a zsinagógában.”",
+  "cite": "ApCsel 15,7-21"
+ }
+}

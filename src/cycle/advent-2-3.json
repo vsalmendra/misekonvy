@@ -1,0 +1,32 @@
+{
+ "key": "advent-2-3",
+ "source_date": "2025-12-10",
+ "rank": "",
+ "day": "2. adventi hét szerda",
+ "psalm": {
+  "cite": "Zsolt 102,1-2.3-4.8 és 10",
+  "response": "Áldjad, én lelkem, áldjad az Urat!",
+  "verses": [
+   "Áldjad, lelkem, az Urat,\negész bensőm az ő szent nevét áldja.\nÁldjad, lelkem, az Urat,\nés ne feledd, hogy hozzád milyen jó volt.",
+   "Megbocsátja minden vétkedet,\nmeggyógyítja minden gyengeséged.\nA pusztulástól megmenti életed,\nkegyelmében és irgalmában meg is koronázza.",
+   "Irgalmas és kegyes a mi Istenünk,\nnagy irgalmú és hosszan tűrő.\nNem bűneink szerint bánik vélünk,\nés nem gonoszságaink szerint fizet vissza nekünk."
+  ]
+ },
+ "alleluia": {
+  "text": "Íme, jön már az Úr, hogy népét megváltsa, boldog, aki készen áll, hogy találkozzék véle!",
+  "cite": ""
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Jézus magához hívja a megfáradtakat és a szenvedőket.",
+  "text": "Abban az időben Jézus így szólt az őt követő emberekhez: „Jöjjetek hozzám mindnyájan, akik fáradtak vagytok, és terhek alatt görnyedtek: én felüdítelek titeket! Vegyétek magatokra igámat, és tanuljatok tőlem, mert én szelíd vagyok és alázatos szívű –, és nyugalmat talál lelketek. Mert az én igám édes, és az én terhem könnyű.”",
+  "cite": "Mt 11,28-30"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Izajás próféta könyvéből",
+  "summary": "Hatalmas az Úr, és megerősíti az elfáradtakat: a benne bízók új erőre kapnak.",
+  "text": "Prófétája által szól az Úr: A szent és nagy hatalmú Isten kérdezi: „Kihez hasonlítotok ti engem? És kivel tesztek egyenlővé? Emeljétek föl tekinteteteket és lássátok: Ki alkotta mind a csillagokat? Ő, aki elvezeti seregüket, megszámolja őket, és nevén szólítja valamennyit; hatalma és nagy ereje miatt el nem marad egy sem. Miért mondod ezt, Jákob, miért beszélsz így, Izrael: »Sorsom el van rejtve az Úr elől, és igazságom elkerüli Istenem figyelmét«? Hát nem tudod és nem hallottad még, hogy örökkévaló Isten az Úr? Ő teremtette a föld határait. Nem lankad el és nem fárad el, és bölcsessége kifürkészhetetlen. Erőt ad a fáradtaknak, és gyámolítja a kimerültét. Még a fiatalok is elfáradhatnak, ellankadhatnak, az ifjak is összeeshetnek erőtlenül. De akik az Úrban bíznak, új erőre kapnak, szárnyra kelnek, mint a sasok. Futnak, de nem fáradnak ki, járnak-kelnek, de nem lankadnak el.”",
+  "cite": "Iz 40,25-31"
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "key": "husvet-5-6",
+ "source_date": "2026-05-09",
+ "rank": "",
+ "day": "húsvét 5. hét szombat",
+ "psalm": {
+  "cite": "Zsolt 99,2.3.5.",
+  "response": "Örvendezzünk Isten előtt, az egész föld őt dicsérje.",
+  "verses": [
+   "Vagy: Alleluja. 1. szám.\nUjjongjatok az Úrnak, minden földek,\nszolgáljatok az Úrnak vidámsággal.\nJáruljatok színe elé,\nvidám énekszóval.",
+   "Vagy: Alleluja.\nTudjátok meg, hogy az Úr az Isten,\növéi vagyunk, ő alkotott minket.\nAz ő népe vagyunk,\nlegelőjének nyája.",
+   "Vagy: Alleluja.\nValóban jó az Úr, † irgalma örökké megmarad,\nés hűsége nemzedékről nemzedékre.",
+   "Vagy: Alleluja."
+  ]
+ },
+ "alleluia": {
+  "text": "Ha Krisztussal együtt feltámadtatok, keressétek, ami fönt van, ahol Krisztus ül az Isten jobbján!",
+  "cite": "Kol 3,1"
+ },
+ "gospel": {
+  "book": "Szent János",
+  "summary": "Jézus kiválasztotta övéit a világból, ezért gyűlöli őket a bűnös világ.",
+  "text": "Búcsúbeszédében Jézus így szólt övéihez:\n\n„Ha a világ gyűlöl titeket, tudjátok meg: engem előbb gyűlölt. Ha a világból volnátok, szeretne titeket a világ, mint övéit. De ti nem vagytok a világból, mert kiválasztottalak titeket a világból; ezért gyűlöl benneteket a világ.\n\nEmlékezzetek vissza tanításomra: nem nagyobb a szolga uránál! Ha engem üldöztek, titeket is üldözni fognak. Ha az én tanításomat megtartották, a tiéteket is megtartják.\n\nMindezt miattam teszik veletek, mert nem ismerik azt, aki küldött engem.”",
+  "cite": "Jn 15,18-21"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "az Apostolok Cselekedeteiből",
+  "summary": "Pál apostolt egy látomás Macedóniába hívja.",
+  "text": "Második apostoli útja során Pál eljutott Derbébe és Lisztrába is. Itt találkozott egy Timóteus nevű tanítvánnyal, egy hívő zsidó anyának, és egy görög apának fiával. A lisztrai és ikóniumi testvérek dicsérőleg nyilatkoztak róla.\n\nPál magával akarta vinni útitársul, és ezért a környékbeli zsidókra való tekintettel körülmetéltette, mert mindenki tudta, hogy az apja görög volt. Amikor aztán sorra járták a városokat, (az ott lakó testvéreknek) lelkükre kötötték, hogy tartsák meg az apostolok és a jeruzsálemi presbiterek által hozott végzéseket. Így az egyházak megerősödtek a hitben, és a hívek száma napról napra gyarapodott.\n\nMivel a Szentlélek megtiltotta, hogy Ázsia-tartományban prédikáljanak, Frígián és a galaták földjén utaztak keresztül. Mízia határához érve megkísérelték ugyan, hogy Bitíniába menjenek, de Jézus Lelke nem engedte meg nekik. Ezért keresztülvágtak Mízián és lementek Troászba. Itt egy éjszaka Pálnak látomása volt. Egy macedón férfi állt eléje ezzel a kéréssel: „Jöjj át Macedóniába, és segíts rajtunk!”\n\nE jelenés után azonnal készen voltunk, hogy elinduljunk Macedónia felé abban a biztos tudatban, hogy Isten rendelt minket oda az evangélium hirdetésére.",
+  "cite": "ApCsel 16,1-10"
+ }
+}

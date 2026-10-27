@@ -1,0 +1,40 @@
+{
+ "key": "fix-01-06",
+ "source_date": "2026-01-06",
+ "rank": "",
+ "day": "Urunk megjelenése, Vízkereszt (parancsolt főünnep)",
+ "psalm": {
+  "cite": "Zsolt 71,2.7-8.10-11.12-13",
+  "response": "Hódoljon előtted, Istenem, a föld minden nemzete!",
+  "verses": [
+   "Istenem, ítéletedet add át a királynak,\nés igazságodat a király fiának,\nhogy igazságosan ítélkezzék népeden,\nés méltányosan minden szegényen.",
+   "Napjaiban virágzik az igazság és a teljes béke,\nmíg csak a hold meg nem szűnik;\nuralkodik tengertől tengerig,\na Folyótól a földkerekség határáig.",
+   "Tarzis és a szigetek királyai ajándékokat hoznak,\nArábia és Sába királyai adományokkal közelednek.\nMinden király leborul előtte,\nés minden nép neki szolgál.",
+   "Megszabadítja a szegényt, mikor kiált hozzá,\na nyomorultat, akin nem segít senki.\nKíméli a kicsinyt és a gyengét,\na szegényeket megsegíti."
+  ]
+ },
+ "alleluia": {
+  "text": "Láttuk napkeleten csillagát, és eljöttünk, hogy hódoljunk az Úr előtt.",
+  "cite": "Mt 2,2"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Keletről jöttünk – imádni a Királyt.",
+  "text": "Amikor Heródes király idejében Jézus megszületett a júdeai\n\nBetlehemben, íme, napkeletről bölcsek jöttek Jeruzsálembe, és\n\ntudakolták: „Hol van a zsidók újszülött királya? Láttuk csillagát\n\nnapkeleten, és eljöttünk, hogy hódoljunk előtte.” Meghallotta ezt\n\nHeródes király és megrémült, s vele egész Jeruzsálem. Összehívatta a\n\nfőpapokat és a nép írástudóit, és megkérdezte tőlük, hogy hol kell\n\nszületnie a Messiásnak.\n\nAzok így válaszoltak: „A júdeai Betlehemben, mert ezt írja a próféta: Te, Betlehem, Júda földje, bizony nem vagy a legkisebb Júda nemzetségei között, mert belőled jő ki a fejedelem, aki pásztora lesz népemnek, Izraelnek.”\n\nErre Heródes titokban magához hívatta a bölcseket és pontosan\n\nmegtudakolta tőlük a csillag megjelenésének idejét. Aztán ezzel küldte\n\nőket Betlehembe: „Menjetek, tudakozódjatok szorgalmasan a gyermek\n\nfelől, és ha megtaláljátok, jelentsétek nekem. Én is elmegyek, hogy\n\nhódoljak előtte!” Ők pedig, miután meghallgatták a királyt,\n\nelindultak. És lám, a csillag, amelyet napkeleten láttak, előttük járt,\n\nmíg meg nem állapodott a ház fölött, ahol a Gyermek volt. A csillagot\n\nmeglátva nagyon megörültek. Bementek a házba, és ott látták a Gyermeket\n\nanyjával, Máriával. Földre borulva hódoltak előtte, majd kinyitották\n\nkincses zsákjaikat és ajándékokat adtak neki: aranyat, tömjént és\n\nmirhát.\n\nMivel álmukban utasítást kaptak, hogy ne menjenek vissza Heródeshez,\n\nmás úton tértek vissza országukba.",
+  "cite": "Mt 2,1-12"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Izajás próféta könyvéből",
+  "summary": "Az Úr dicsősége felragyogott fölötted.",
+  "text": "Kelj föl, és tündökölj, Jeruzsálem, mert elérkezett világosságod, és az Úr dicsősége felragyogott fölötted. Mert még sötétség borítja a földet, és homály a nemzeteket, de fölötted ott ragyog az Úr, és dicsősége megnyilvánul rajtad. Népek jönnek világosságodhoz, királyok a benned támadt fényességhez. Hordozd körül tekintetedet és lásd: mind egybegyűlnek és idejönnek hozzád. Fiaid messze távolból érkeznek, s leányaidat karon fogva hozzák. Ennek láttára földerülsz, szíved dobog az örömtől és kitágul, mert feléd áramlik a tengerek gazdagsága, és ide özönlik a nemzetek kincse. Tevék áradata borít majd el, Mádián és Efa dromedárjai. Mind Sábából jönnek; aranyat és tömjént hoznak, és az Úr dicsőségét zengik.",
+  "cite": "Iz 60,1-6"
+ },
+ "reading2": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak az efezusiakhoz írt leveléből",
+  "summary": "A Szentlélek kinyilatkoztatta, hogy a pogányok is társörökösök.",
+  "text": "Testvéreim!\n\nBizonyára hallottatok Isten kegyelmi adományáról,\n\namelyben a ti javatokra részesültem. Kinyilatkoztatásból megismertem\n\nKrisztus titkát, amelyről korábban nem tudtak az emberek, de most a\n\nLélek a szent apostoloknak és prófétáknak kinyilatkoztatta.\n\nEszerint Jézus Krisztusban a pogányok is társörökösök, tagjai az egy\n\ntestnek, és az evangélium által részesei az ígéreteknek.",
+  "cite": "Ef 3,2-3a.5-6"
+ }
+}

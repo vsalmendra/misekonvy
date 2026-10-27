@@ -1,0 +1,33 @@
+{
+ "key": "evkozi-20-2-II",
+ "source_date": "2026-08-18",
+ "rank": "",
+ "day": "20. évközi hét kedd",
+ "psalm": {
+  "cite": "MTörv 32,26-27ab.27cd-28a.30.35cd-36ab",
+  "response": "Én vagyok, aki lesújtok, én vagyok, aki életre keltek.",
+  "verses": [
+   "Így szól az Úr: † „Hűtlenségük miatt szétszórom népemet,\nkitörlöm emlékezetüket az emberek közül.\nDe az ellenség gőgje miatt nem teszem,\nnehogy elbizakodjanak, akik rájuk támadnak.",
+   "És azt mondanák: † »A mi hatalmas kezünk tette,\nnem Isten művelte mindezt!«\nUgyanis tévelygő nép ez,\nés nincs benne okosság.”",
+   "Ki üldözhetne ezret egymaga?\nMint futamíthat meg kettő tízezret?\nCsak úgy, ha Isten eladja népét,\nUrunk fogságba juttatta őket.",
+   "Közel van a pusztulás napja,\nsorsuk hamarosan utoléri őket.\nAz Úr igazságot szolgáltat népének,\nés könyörül szolgáin."
+  ]
+ },
+ "alleluia": {
+  "text": "Jézus Krisztus vállalta a szegénységet, ámbár gazdag volt, hogy gazdaggá tegyen titeket szegénysége által.",
+  "cite": "2Kor 8,9"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "A gazdag, aki szívében a földiekhez tapad, nagyon nehezen üdvözül.",
+  "text": "A gazdag ifjú távozása után Jézus így szólt tanítványaihoz: „Bizony, mondom nektek: A gazdag nehezen jut be a mennyek országába. Újra mondom nektek: Könnyebb a tevének átmenni a tű fokán, mint a gazdagnak bejutnia Isten országába.” Ennek hallatára a tanítványok igen megdöbbentek, és azt kérdezték: „Hát akkor ki üdvözülhet?” Jézus rájuk tekintett, és így szólt: „Embereknek ez lehetetlen, de Istennek minden lehetséges.”\n\nEkkor Péter megkérdezte: „Nézd, mi mindenünket elhagytuk, és követtünk téged. Mi lesz a jutalmunk?” Jézus így válaszolt: „Bizony, mondom nektek: ti, akik követtetek engem: a világ megújulásakor, amikor az Emberfia dicsőséges trónjára ül, együtt ültök majd vele tizenkét trónon, hogy ítélkezzetek Izrael tizenkét törzse felett. Sőt mindaz, aki elhagyja értem otthonát, testvéreit, nővéreit, atyját, anyját, gyermekeit vagy földjét, százannyit kap, és elnyeri majd az örök életet.\n\nSokan lesznek az elsőkből utolsók, és az utolsókból elsők.”",
+  "cite": "Mt 19,23-30"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Ezekiel próféta könyvéből",
+  "summary": "Aki gőgjében magát istennek képzeli, azt az igaz Isten szégyenletes bukással sújtja.",
+  "text": "Ezekiel prófétának ezt parancsolta az Úr: „Emberfia, vidd hírül Tirusz királyának szavamat: Mivelhogy szíved gőgös és felfuvalkodott, s azt mondtad: »Isten vagyok, és isteni trónon ülök a tenger közepén,« holott ember vagy, nem isten, csak gőgös szíved tette istenné magát.\n\nAzt hiszed, bölcsebb vagy, mint Dániel, s előtted nincs titok!\n\nNagy bölcsességgel, okossággal vagyont szereztél magadnak, kincstáraidban sok ezüstöt, aranyat halmoztál fel, nagy bölcsességeddel és kereskedő ügyességeddel gyarapítottad gazdagságodat, és szíved felfuvalkodott, mivel meggazdagodtál.\n\nEzért így szól most az Úr, az Isten: Mivelhogy nagy gőgödben istennek képzelted magadat, ezért a legerősebb pogány hadakat hozom reád.\n\nEzeknek kardja megnyirbálja majd ékes bölcsességedet, és véget vet fényűzésednek.\n\nA sírba döntenek, csúful lemészárolnak tégedet; így pusztulsz el trónodon, a tenger közepén.\n\nVajon mondod-e akkor gyilkosaidnak: »Isten vagyok én!«\n\nHolott bizony, ember vagy és nem isten a te gyilkosaid kezében. Úgy halsz meg, mint valami hitetlen pogány.\n\nÉs mindez így lesz, – ezt én mondom, az Úr, az Isten.”",
+  "cite": "Ez 28,1-10"
+ }
+}

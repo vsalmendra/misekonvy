@@ -1,0 +1,33 @@
+{
+ "key": "husvet-5-1",
+ "source_date": "2026-05-04",
+ "rank": "",
+ "day": "húsvét 5. hét hétfő",
+ "psalm": {
+  "cite": "Zsolt 113b,1-2.3-4.15-16",
+  "response": "Ne nekünk add, Urunk, a dicsőséget, hanem a te nevednek.",
+  "verses": [
+   "Vagy: Alleluja. 1. szám.\nNe nekünk add, Urunk, a dicsőséget, hanem a te nevednek,\nmert irgalmas vagy és igazságos.\nMiért mondják rólunk a pogány nemzetek?\n„Hol van hát az ő Istenük?”",
+   "Vagy: Alleluja.\nA mi Istenünk a mennyben lakik,\namit csak akar, mindent végbevitt,\nde az ő bálványaik csak arany és ezüst,\nemberi kéz alkotása.",
+   "Vagy: Alleluja.\nAz Úr megáldott titeket,\nő a mennynek és a földnek alkotója.\nA magas ég az Úr birodalma,\nde a földet átadta az embereknek.",
+   "Vagy: Alleluja."
+  ]
+ },
+ "alleluia": {
+  "text": "A Szentlélek mindenre megtanít titeket, eszetekbe juttat mindent, amit mondtam néktek.",
+  "cite": "Jn 14,26"
+ },
+ "gospel": {
+  "book": "Szent János",
+  "summary": "A vigasztaló Szentlélek, akit az Atya küld, mindenre megtanítja az apostolokat.",
+  "text": "Jézus az utolsó vacsorán így beszélt tanítványaihoz:\n\n„Aki ismeri és teljesíti parancsaimat, az szeret engem. Aki pedig szeret engem, azt Atyám is szereti. Én is szeretni fogom őt, és kinyilatkoztatom magam neki.”\n\nJúdás – nem a karióti – itt közbeszólt: „Uram, hogyan van az, hogy nekünk akarod kinyilatkoztatni magadat, és nem a világnak?” Jézus így folytatta: „Aki szeret engem, megtartja tanításomat. Atyám is szeretni fogja őt, hozzá megyünk, és lakóhelyet veszünk nála. Aki nem szeret engem, az nem tartja meg tanításomat. Az a tanítás pedig, amelyet hallotok, nem az enyém, hanem az Atyáé, aki engem küldött.\n\nEzeket akartam nektek elmondani, amíg veletek vagyok. S a Vigasztaló, a Szentlélek, akit majd a nevemben küld az Atya, megtanít titeket mindenre, és eszetekbe juttatja mindazt, amit mondtam nektek.”",
+  "cite": "Jn 14,21-26"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "az Apostolok Cselekedeteiből",
+  "summary": "Pál és Barnabás buzdítja a pogányokat, hogy térjenek az igaz Istenhez.",
+  "text": "Pál és Barnabás Ikónium városában eredményesen hirdették az Úr igéjét. Emiatt a pogányok és a zsidók – vezetőikkel együtt – arra készültek, hogy bántalmazzák, sőt megkövezzék őket. Ők azonban megtudták ezt, és elmenekültek Likaónia-tartomány városaiba: Lisztrába és Derbébe, és ezek környékére. Ott hirdették az evangéliumot.\n\nLisztrában élt akkor egy férfi, aki nem tudott a lábára állni. Béna volt ugyanis a születésétől fogva, és még soha egy lépést sem tett. Ő is hallgatta Pál beszédét, aki reátekintve látta rajta: elegendő hite van arra, hogy meggyógyuljon. Hangosan rákiáltott tehát: „Állj egyenesen a lábadra!” Az talpra ugrott, és járni kezdett.\n\nAmikor a tömeg látta, hogy Pál mit művelt, likaóniai nyelven felkiáltott: „Istenek szálltak le hozzánk emberi formát öltve!”\n\nBarnabást Jupiternek gondolták, Pált pedig – minthogy ő vitte a szót – Merkúrnak. Sőt a város előtt álló Jupiter-templom papja áldozati állatokat és koszorúkat hozatott a kapuk elé, és a néppel együtt áldozatot akart bemutatni.\n\nAmint Barnabás és Pál apostol ezt meghallották, ruhájukat megszaggatva a tömeg közé rohantak. „Emberek, mit csináltok?” – kiáltották. „Mi is hozzátok hasonló halandó emberek vagyunk, és éppen azt hirdetjük nektek, hogy ezektől a bálványoktól térjetek meg az élő Istenhez, aki az eget, a földet meg a tengert alkotta és mindazt, ami bennük van. Ő az előző korszakban megengedte, hogy a pogányok mind a maguk útját kövessék. Bár létezése akkor sem maradt bizonyíték nélkül, hiszen jót tett veletek: az égből esőt és termékeny időt küldött számotokra, és bőven adott nektek eledelt, a szívetekbe pedig örömet.”\n\nÍgy beszéltek, de így is alig tudták lecsillapítani a tömeget, nehogy áldozatot mutasson be nekik.",
+  "cite": "ApCsel 14,5-18"
+ }
+}

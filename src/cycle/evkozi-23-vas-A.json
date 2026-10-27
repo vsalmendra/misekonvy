@@ -1,0 +1,39 @@
+{
+ "key": "evkozi-23-vas-A",
+ "source_date": "2026-09-06",
+ "rank": "",
+ "day": "Évközi 23. vasárnap",
+ "psalm": {
+  "cite": "Zsolt 94,1-2.6-7.8-9",
+  "response": "Bár hallgatnátok ma Isten szavára: „Népem, ne légy kemény szívű.”",
+  "verses": [
+   "Jöjjetek, örvendezzünk az Úrnak,\nés ujjongjunk üdvünk sziklája előtt.\nDicsőítő énekkel lépjünk színe elé,\nmagasztaljuk őt zsoltárt zengve.",
+   "Jöjjetek, boruljunk le, hódoljunk előtte,\nhulljunk térdre Urunk, Alkotónk előtt.\nMert ő a mi Istenünk,\nmi pedig az ő népe, és kezére bízott nyáj vagyunk.",
+   "Bárcsak hallgatnátok ma az ő szavára:\n„Ne keményítsétek meg szíveteket,\nmint egykor Meribánál, Massza napján a pusztában, † ahol atyáitok megkísértettek engem,\npróbára tettek, bár látták számos csodámat.”"
+  ]
+ },
+ "alleluia": {
+  "text": "Isten Krisztusban kiengesztelődött a világgal, és ránk bízta a kiengesztelődés igéjét.",
+  "cite": "2Kor 5,19"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Ha hallgat rád, megnyerted testvéredet.",
+  "text": "Abban az időben Jézus így szólt apostolaihoz:\n\n„Ha testvéred vétkezik ellened, menj és figyelmeztesd őt\n\nnégyszemközt. Ha hallgat rád, megnyerted testvéredet. Ha azonban nem\n\nhallgat rád, vigyél magaddal egy vagy két társat, hogy »kettőnek a\n\ntanúbizonysága vagy háromé tanúsítsa a dolgot. Ha rájuk sem hallgat,\n\nmondd meg a hívek közösségének. Ha a hívek közösségére sem hallgat,\n\nvedd úgy, mintha pogány volna vagy vámos.\n\nBizony mondom nektek: Amit megköttök a földön, meg lesz kötve a\n\nmennyben is; és amit feloldotok a földön, fel lesz oldva a mennyben is.\n\nÉs bizony mondom nektek: Ha ketten közületek valamiben egyetértenek a\n\nföldön és úgy kérik, megkapják azt mennyei Atyámtól. Mert ahol ketten\n\nvagy hárman összejönnek az én nevemben, ott vagyok közöttük.”",
+  "cite": "Mt 18,15-20"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Ezekiel próféta könyvéből",
+  "summary": "Ha nem teszel semmit, hogy az istentelent visszatérítsd útjáról, vérét tőled kérem számon.",
+  "text": "Az Úr ezt a szózatot intézte Ezekiel prófétához: „Emberfia, őrnek állítottalak Izrael háza mellé, hogy halld számból szavaimat és közvetítsd üzeneteimet. Ha azt mondom az istentelennek: »Istentelen, meg kell halnod,« és te nem teszel semmit, hogy az istentelent visszatérítsd útjáról, az istentelen meghal ugyan vétke miatt, de vérét tőled kérem számon. Ha ellenben meginted az istentelent, hogy hagyjon fel életmódjával és térjen meg, de nem tér le útjáról, meghal ugyan gonoszsága miatt, de te megmented életedet.”",
+  "cite": "Ez 33,7-10"
+ },
+ "reading2": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a rómaiakhoz írt leveléből",
+  "summary": "A törvény teljessége a szeretet.",
+  "text": "Testvéreim!\n\nNe tartozzatok senkinek semmivel, csak kölcsönös szeretettel! Mert aki a másikat szereti, teljesíti a többi parancsot is. Hiszen a parancsok: „Ne ölj, ne törj házasságot, ne lopj, a másét ne kívánd”, és ami egyéb parancs még van, ebben az egyben foglalható össze: „Szeresd felebarátodat, mint önmagadat!”\n\nA szeretet nem tesz rosszat felebarátjának, mert a törvény teljessége a szeretet.",
+  "cite": "Róm 13,8-10"
+ }
+}

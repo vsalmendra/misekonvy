@@ -1,0 +1,35 @@
+{
+ "key": "fix-06-27",
+ "source_date": "2026-06-27",
+ "rank": "Ü",
+ "day": "Szent László király – Ü",
+ "psalm": {
+  "cite": "Zsolt 111,1-2.3-4.5-7a.7b-8.9",
+  "response": "Boldog az az ember, aki az Urat féli.",
+  "verses": [
+   "Vagy: Alleluja. 6. szám.\nBoldog ember, aki féli az Urat,\naki az Úr törvényében örömét leli.\nHatalmas lesz ivadéka a földön,\náldott lesz az igazak nemzetsége.",
+   "Vagy: Alleluja.\nDicsőség és gazdagság tölti be házát,\nigazsága örökre megmarad.\nAz igaz világít, mint fény a sötétségben,\nigazságos, jóságos és irgalmas.",
+   "Vagy: Alleluja.\nBoldog ember, aki irgalmas, † és szívesen ad kölcsön,\naki a törvény szerint intézi minden dolgát.\nNem tántorodik meg soha,\naz igaz emléke örökké megmarad.",
+   "Vagy: Alleluja.\nRossz hírtől nem kell félnie,\nszíve nyugodt, mert az Úrban bízik.\nSzíve erős, nem ismer félelmet,\nellenségei szégyenben maradnak.",
+   "Vagy: Alleluja.\nBőséges adományt oszt a szegényeknek, † igazsága megmarad örökre,\nfeje dicsőségesen felemelkedik.",
+   "Vagy: Alleluja."
+  ]
+ },
+ "alleluia": {
+  "text": "Jézus mondja: Új parancsot adok nektek: Szeressétek egymást, ahogy én szeretlek titeket.",
+  "cite": "Jn 13,34"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Szeresd Uradat Istenedet, és szeresd felebarátodat, mint saját magadat.",
+  "text": "Abban az időben amikor a farizeusok meghallották, hogy Jézus hogyan hallgattatta el a szadduceusokat, köréje gyűltek és egyikük, egy törvénytudó alattomos szándékkal a következő kérdést tette fel neki: „Mester, melyik a legfőbb parancs a törvényben?”\n\nJézus így válaszolt: „Szeresd az Urat, a te Istenedet teljes szíveddel, teljes lelkeddel és egész értelmeddel. Ez az első és legfőbb parancsolat. A második hasonló ehhez: Szeresd felebarátodat, mint saját magadat. E két parancson nyugszik az egész törvény és a próféták.”",
+  "cite": "Mt 22,34-40"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "a Bölcsesség könyvéből",
+  "summary": "A hívőnek az Úr megmutatja az igaz utat.",
+  "text": "A hívőnek az Úr megmutatja az igaz utat: feltárja előtte Isten országát, és megtanítja a szentek tudományára. Megáldja munkáját, és gazdagon megjutalmazza fáradozását. Oltalmazza őt az ármánykodóktól, akik kifosztanák. Bőséget ad neki. Megvédi ellenségeitől, megoltalmazza üldözőitől. Kemény harcaiban neki juttatja a győzelmet, hogy belássa, mennyivel hatalmasabb a bölcsesség mindennél.\n\nA bölcsesség nem hagyja el az igazat akkor sem, ha elárulják, hanem megszabadítja a gonoszoktól. Elkíséri a börtönbe, vele marad a bilincsekben is. Végül uralomra segíti, és oltalmat nyújt neki zsarnok elnyomóival szemben. Kimutatja azok álnokságát, akik őt gyalázták, neki pedig örök hírnevet ad a mi Istenünk.",
+  "cite": "Bölcs 10,10-14"
+ }
+}

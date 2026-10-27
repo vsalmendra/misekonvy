@@ -1,0 +1,34 @@
+{
+ "key": "nagybojt-5-2",
+ "source_date": "2026-03-24",
+ "rank": "",
+ "day": "5. nagyböjti hét kedd",
+ "psalm": {
+  "cite": "Zsolt 101,2-3.16-18.19-21",
+  "response": "Uram, hallgasd meg könyörgésemet, és kiáltásom jusson eléd!",
+  "verses": [
+   "Uram, hallgasd meg könyörgésemet,\nés kiáltásom jusson eléd!\nNe rejtsd el arcodat előlem, † amidőn szorongatnak engem, figyelj reám,\namely nap hozzád kiáltok, hallgasd meg kiáltásom.",
+   "A te nevedet, Uram, a nemzetek majd félve tisztelik,\nés a föld minden királya vallja dicsőséged,\nmert az Úr felépíti Sion városát,\nés megjelenik dicsőségben.",
+   "Meghallgatja a szegények imáját,\nnem veti meg kérésüket.\nAz eljövendő nemzedéknek írják le mindezt,\na születendő nép is az Urat magasztalja.",
+   "Fölséges szentélyéből Isten letekint,\naz Úr a mennyből a földre rátekintett,\nhogy meghallja a rabok sóhaját,\nés a halál fiait megmentsd fogságukból."
+  ]
+ },
+ "alleluia": {
+  "text": "A jó mag az Isten igéje, Krisztus a magvető; aki rátalál, örökké élni fog.",
+  "cite": "",
+  "lent": true
+ },
+ "gospel": {
+  "book": "Szent János",
+  "summary": "Krisztus igazi mivoltát megdicsőülése igazolja majd.",
+  "text": "A Sátoros-ünnep alkalmával Jézus így beszélt a farizeusokhoz: „Én elmegyek, és ti hiába kerestek, mert meghaltok bűneitekben. Ahová én megyek, oda ti nem jöhettek.”\n\nA zsidók erre tanakodni kezdtek: „Csak nem akarja megölni magát, hogy ezt mondja: »Ahová én megyek, oda ti nem jöhettek?«”\n\nJézus így folytatta: „Ti innen alulról vagytok, én felülről vagyok. Ti ebből a világból vagytok, én nem ebből a világból vagyok. Azért mondtam nektek, hogy meghaltok bűneitekben, mert nem hiszitek el rólam, hogy ki vagyok: ezért kell meghalnotok bűneitekben.”\n\nErre megkérdezték: „De hát ki vagy te?”\n\nJézus azt válaszolta: „Kezdettől fogva az vagyok, amit mondok is nektek. Sokat kellene még beszélnem rólatok, és ítéletet mondanom felettetek, mert aki engem küldött, igazmondó; én pedig azt hirdetem a világnak, amit tőle hallottam.” De azok nem értették meg, hogy az Atyáról beszél nekik.\n\nVégül Jézus azt mondta nekik: „Ha majd felemelitek (a kereszten) az Emberfiát, akkor megtudjátok, hogy én vagyok, és hogy semmit nem teszek önmagamtól, hanem azt hirdetem, amit Atyámtól tanultam. Aki küldött engem, az velem van, és nem hagy magamra, mert én mindig azt cselekszem, amiben ő tetszését találja.”\n\nE szavak után sokan hittek Jézusban.",
+  "cite": "Jn 8,21-30"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Mózes negyedik könyvéből",
+  "summary": "Isten megkönyörül mindazokon, akik a Megváltó előképére, a fán függő rézkígyóra föltekintenek.",
+  "text": "Az Egyiptomból való kivonulás idején\n\na választott nép elhagyta a Hór hegyét,\n\nés Edom földjét megkerülve a Vörös-tenger felé haladt.\n\nA nép azonban belefáradt a vándorlásba,\n\nés zúgolódni kezdett Isten és Mózes ellen:\n\n„Miért hoztál ki minket Egyiptomból,\n\nazért, hogy meghaljunk itt a pusztában?\n\nNincsen kenyér, nincsen ivóvíz,\n\nés unjuk már e semmit érő manna-étket is!”\n\nAz Úr ekkor mérges kígyókat küldött a népre,\n\ns ezek megmarták őket,\n\núgyhogy Izrael fiai közül sokan meghaltak.\n\nErre Mózes elé járultak, és így kérlelték őt:\n\n„Vétkeztünk, lázadoztunk Isten ellen és teellened.\n\nImádkozzál, hogy a kígyókat vegye el tőlünk az Úr!”\n\nMózes tehát közbenjárt a népért, és az Úr így válaszolt:\n\n„Csináltass egy rézkígyót, és tűzd ki jelül egy fára.\n\nAkit marás ért és rátekint, az életben marad.”\n\nCsináltatott is Mózes egy rézkígyót, és kitűzte jelül egy fára.\n\nAkit megmartak a kígyók, de föltekintett a rézkígyóra,\n\naz életben maradt.",
+  "cite": "Szám 21,4-9"
+ }
+}

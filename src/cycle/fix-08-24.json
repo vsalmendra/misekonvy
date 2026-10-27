@@ -1,0 +1,32 @@
+{
+ "key": "fix-08-24",
+ "source_date": "2026-08-24",
+ "rank": "Ü",
+ "day": "Szent Bertalan apostol – Ü",
+ "psalm": {
+  "cite": "Zsolt 144,10-11.12-13ab.17-18",
+  "response": "Szentjeid hirdetik, Uram, királyságod fölséges dicsőségét.",
+  "verses": [
+   "Magasztaljon téged, Uram, minden műved,\nszentjeid áldást mondjanak.\nOrszágod dicsőségéről szóljanak,\nés hatalmadat mindenek hirdessék.",
+   "Hirdessék az emberek hatalmas tetteid,\nkirályságod fölséges dicsőségét.\nA te országod örökkévaló ország,\nuralmad megmarad nemzedékről nemzedékre.",
+   "Igazságos az Úr minden útján,\nés szent minden művében.\nKözel az Úr mindazokhoz, akik őt hívják,\nakik hozzá kiáltanak igaz szívvel."
+  ]
+ },
+ "alleluia": {
+  "text": "Rabbi, te vagy az Isten Fia, te vagy Izrael királya.",
+  "cite": "Jn 1,49b"
+ },
+ "gospel": {
+  "book": "Szent János",
+  "summary": "Íme, egy igaz izraelita, akiben nincs semmi álnokság.",
+  "text": "Egy alkalommal Fülöp találkozott Nátánáellel, és közölte vele: „Megtaláltuk, akiről Mózes törvénye és a próféták szólnak, a názáreti Jézust, József fiát.” „Jöhetne valami jó Názáretből?” – kérdezte Nátánáel. „Jöjj, nézd meg!” – felelte Fülöp.\n\nAmikor Jézus látta, hogy Nátánáel közeledik hozzá, így szólt: „Nézzétek, ez egy igaz izraelita! Nincs benne kétszínűség!”\n\nNátánáel megkérdezte: „Honnan ismersz engem?” Jézus így felelt: „Még mielőtt Fülöp hívott volna, láttalak a fügefa alatt.”\n\nNátánáel erre elismerte: „Rabbi, te vagy az Isten Fia, te vagy Izrael Királya.”\n\nJézus így szólt: „Azért hiszel, mert azt mondtam: Láttalak a fügefa alatt. Nagyobb dolgokat is fogsz látni ennél.” Majd így folytatta: „Bizony, bizony, mondom nektek: látni fogjátok, hogy megnyílik az ég, és Isten angyalai fel-alá szállnak az Emberfia felett.”",
+  "cite": "Jn 1,45-51"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "a Jelenések könyvéből",
+  "summary": "Megmutatom neked a menyasszonyt, a Bárány hitvesét.",
+  "text": "János apostol így beszél látomásában a megdicsőült Egyházról: Szólt hozzám az angyal és ezt mondta: „Jöjj, megmutatom neked a menyasszonyt, a Bárány jegyesét.”\n\nA hét angyal egyike lélekben elvitt egy magas hegyre, és ott megmutatta nekem a mennyből, az Istentől alászállt szent várost, Jeruzsálemet. Isten dicsőségét sugározta. Ragyogott, mint a drágakő, mint a kristálytiszta jáspis.\n\nA városnak széles, magas fala volt, rajta tizenkét kapu. A kapuk fölött tizenkét angyal. A kapukra nevek voltak vésve, mégpedig Izrael fiai tizenkét törzsének a neve. Keleten három kapu volt, északon három kapu, délen három kapu, és nyugaton három kapu. A város falának tizenkét alapköve volt, rajtuk a Bárány tizenkét apostolának tizenkét neve.",
+  "cite": "Jel 21,9b-14"
+ }
+}

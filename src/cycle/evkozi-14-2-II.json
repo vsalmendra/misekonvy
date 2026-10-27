@@ -1,0 +1,34 @@
+{
+ "key": "evkozi-14-2-II",
+ "source_date": "2026-07-07",
+ "rank": "",
+ "day": "14. évközi hét kedd",
+ "psalm": {
+  "cite": "Zsolt 113B,3-4.5-6.7-8.9-10",
+  "response": "Az Úrban remél Isten egész háza népe.",
+  "verses": [
+   "Vagy: Alleluja. 1. szám.\nA mi Istenünk a mennyben lakik,\namit csak akar, mindent végbevitt,\nde az ő bálványaik csak arany és ezüst,\nemberi kéz alkotása.",
+   "Vagy: Alleluja.\nVan szájuk, de nem beszélnek,\nszemük is, de mégsem látnak.\nVan fülük, de nem hallanak,\nés orruk illatot nem érezhet.",
+   "Vagy: Alleluja.\nVan kezük, de nem tapintanak, † van lábuk, de nem járhatnak,\nés torkuk nem adhat hangot.\nEzekhez hasonlókká lesznek készítőik,\nés mindazok, kik bennük bíznak.",
+   "Vagy: Alleluja.\nIsten népe, az Úrban remélj,\nő lesz segítőd és védőpajzsod.\nÁron papi háza az Úrban remélj,\nő lesz segítőd és védőpajzsod.",
+   "Vagy. Alleluja."
+  ]
+ },
+ "alleluia": {
+  "text": "Jézus mondja: „Én vagyok a jó Pásztor. Ismerem juhaimat, és juhaim ismernek engem.”",
+  "cite": "Jn 10,14"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Jézus bejárja Galileát: tanít és gyógyít mindenütt.",
+  "text": "Egyszer egy ördögtől megszállott néma embert hoztak Jézus elé. Mihelyt kiűzte belőle az ördögöt, megszólalt a néma. A nép elámult ezen, és azt mondogatta: „Ilyen még sohasem történt Izraelben.” A farizeusok azonban megjegyezték: „Az ördögök fejedelmének segítségével űzi ki az ördögöket.”\n\nJézus ezután bejárta az összes várost és falut. Tanított a zsinagógákban, hirdette Isten országának örömhírét, és meggyógyított minden betegséget és minden bajt.\n\nAmikor látta a népsokaságot, megesett rajtuk a szíve, mert olyan fáradtak és kimerültek voltak, mint a nyáj, amelynek nincsen pásztora. Akkor így szólt tanítványaihoz: „Az aratnivaló sok, de a munkás kevés. Kérjétek az aratás Urát, hogy küldjön munkásokat aratásába!”",
+  "cite": "Mt 9,32-38"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Ozeás próféta könyvéből",
+  "summary": "Isten megtorolja népe hűtlenségét.",
+  "text": "Prófétája által Szamariát megfenyegeti az Úr:\n\nKirályokat választottak ők nélkülem; fejedelmeket választottak tudtomon kívül; ezüstjükből és aranyukból bálványokat csináltak, de csak romlásukra.\n\nElvetem (arany)borjúdat, Szamaria! Haragom felgerjed ellenük;\n\nmég meddig nem tudnak bálványaiktól megszabadulni?\n\nHiszen Izraelből való ez, mesterember készítette, nem isten az, és bizony szilánkokká lesz Szamaria (arany)borjúja.\n\nSzelet vetnek ők, de majd vihart aratnak, s a búzaszál nem hoz kalászt, a kalász nem ad lisztet, és ha ad is, idegenek eszik meg azt.\n\nMert sok oltárt épített Efraim, hogy vétkezzék, bűnné lettek számára az oltárok.\n\nHa még oly sok törvényt is írok elő neki, ő csak idegeneknek tekinti azokat.\n\nSzeretik a véres áldozatokat, húst áldoznak és esznek; de az Úr nem veszi ezt kegyesen; megemlékezik most gonoszságaikról, és megtorolja rajtuk bűneiket.\n\nVisszatérnek ők majd Egyiptomba!",
+  "cite": "Oz 8,4-7.11-13"
+ }
+}

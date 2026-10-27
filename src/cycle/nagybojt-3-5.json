@@ -1,0 +1,34 @@
+{
+ "key": "nagybojt-3-5",
+ "source_date": "2026-03-13",
+ "rank": "",
+ "day": "3. nagyböjti hét péntek",
+ "psalm": {
+  "cite": "Zsolt 80,6c-8a.8bc-9.10-11ab.14 és 17",
+  "response": "Én vagyok a te Urad, Istened: hallgass az én szavamra!",
+  "verses": [
+   "(Vö. 11. és 9a vers. - 4. g tónus)\nBeszédet hallottam, amelyet nem ismertem: † „Válláról levettem a terhet,\nkezéből kivettem a kosarat.\nGyötrelmedben segítségül hívtál,\nés én szabaddá tettelek.”",
+   "„Meghallgattalak a viharfelhőből,\npróbára tettelek Meriba vizénél.\nNépem, hallgass rám, hadd intselek,\nbárcsak hallgatnál rám, Izrael.”",
+   "„Ne legyen soha más istened,\nés ne imádj soha idegen istent,\nmert én vagyok a te Urad, Istened,\naki kivezetett téged Egyiptom földjéről.”",
+   "„Bárcsak hallgatna rám népem,\nbárcsak utamon járna Izrael.\nTáplálnám őket a búza javával,\nés jóllakatnám őket mézzel a sziklából.”"
+  ]
+ },
+ "alleluia": {
+  "text": "Jézus mondja: „Tartsatok bűnbánatot, mert közel van a mennyek országa!”",
+  "cite": "Mt 4,17",
+  "lent": true
+ },
+ "gospel": {
+  "book": "Szent Márk",
+  "summary": "Isten az egyetlen Úr: szeressük őt mindennél jobban!",
+  "text": "Abban az időben egy írástudó megkérdezte Jézustól: „Melyik az első a parancsok közül?”\n\nJézus így válaszolt: „Ez az első: »Halld, Izrael! Az Úr a mi Istenünk, az egyetlen Úr. Szeresd Uradat, Istenedet teljes szívedből, teljes lelkedből, teljes elmédből és minden erődből!« A második hasonló ehhez: »Szeresd felebarátodat, mint önmagadat!« Ezeknél nincs nagyobb parancsolat.”\n\nAz írástudó erre azt válaszolta: „Valóban, jól mondtad, Mester, hogy ő az Egyetlen, és hogy rajta kívül nincs más. És azt is, hogy őt teljes szívünkből teljes elménkből és teljes erőnkből szeretni, embertársunkat pedig úgy szeretni, mint saját magunkat, többet ér minden égő- vagy véres áldozatnál.”\n\nJézus az okos felelet hallatára megdicsérte: „Nem jársz messze Isten országától.” Ezután már több kérdést nem mertek neki föltenni.",
+  "cite": "Mk 12,28b-34"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Ozeás próféta könyvéből",
+  "summary": "Minden teremtmény a mi szolgálatunkra áll,\nha Istenhez térünk, és csak neki szolgálunk.",
+  "text": "Szamaria végveszélye idején így hirdette az igét Ozeás:\n\nTérj vissza az Úrhoz, a te Istenedhez, hisz bűnöd miatt buktál el! Bűnbánó szavakkal térjetek vissza az Úrhoz! Mondjátok neki: „Végy el minden gonoszságot, hogy elnyerjük a jót, és ajkunk gyümölcsét hozhassuk áldozatul, Asszíria nem segít rajtunk, lóra sem szállunk többé. Nem mondjuk kezünk alkotásának ezután: »Te vagy a mi istenünk!« – mert az árva csak nálad talál irgalmat.”\n\nAz Úr pedig ezt az ígéretet tette:\n\n„Meggyógyítom hűtlenségüket, s szívemből szeretni fogom őket, elfordul tőlük haragom. Népemhez olyan leszek, mint a harmat; virul majd, mint a liliom, gyökeret ereszt, mint a nyárfa. Hajtásai messze ágaznak, pompás lesz, mint az olajfa, s illatos, mint a Libanon, Visszatérnek, hogy árnyékomban lakjanak, búzát termelnek, és gondozzák a szőlőt, amelynek olyan híre lesz, mint a Libanon bora. Mi köze Efraimnak ezentúl a bálványokhoz? Én hallgatom meg, én viselek rá gondot. Olyan leszek, mint a zöldellő jegenyefenyő; tőlem származik gyümölcsöd.”\n\nAki bölcs, értse meg ezeket! Aki értelmes, lássa be ezt mind! Mert egyenesek az Úr útjai, azokon járnak az igazak, de a gonoszok elbuknak rajtuk.",
+  "cite": "Oz 14,2-10"
+ }
+}

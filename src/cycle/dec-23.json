@@ -1,0 +1,32 @@
+{
+ "key": "dec-23",
+ "source_date": "2025-12-23",
+ "rank": "",
+ "day": "Adventi köznapok - december 23.",
+ "psalm": {
+  "cite": "Zsolt 24,4bc-5ab.8-9.10 és 14",
+  "response": "Emeljétek föl fejeteket és nézzetek az égre, megváltástok napja közel van!",
+  "verses": [
+   "Utaidat, Uram, mutasd meg nékem,\nösvényeidre taníts meg engem.\nTaníts és vezess igazságod szerint,\nmert te vagy üdvözítő Istenem.",
+   "Az Úr igazságos és jóságos,\nezért a bűnösöknek is utat mutat.\nA szelídeket törvénnyel vezeti,\naz alázatosaknak ösvényét tanítja.",
+   "Az Úr minden útja irgalom és hűség azoknak,\nakik szövetségét és törvényét megtartják.\nIsten barátságát élvezik, akik őt félik,\nszövetségét feltárja nekik."
+  ]
+ },
+ "alleluia": {
+  "text": "Királya vagy a nemzeteknek és szegletköve az Egyháznak. Jöjj, mentsd meg az embert, akit a föld sarából alkottál!",
+  "cite": ""
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Keresztelő Szent János születése.",
+  "text": "Amikor elérkezett Erzsébet szülésének ideje, fiúgyermeket szült. Szomszédjai és rokonai meghallották, hogy milyen irgalmas volt hozzá az Úr, és együtt örült vele mindenki. A nyolcadik napon jöttek, hogy körülmetéljék a gyermeket. Atyja nevéről Zakariásnak akarták hívni. De anyja ellenezte: „Nem, János legyen a neve.” Azok megjegyezték: „Hiszen senki sincs a rokonságodban, akit így hívnának!”\n\nÉrdeklődtek erre atyjától, hogyan akarja őt nevezni. Atyja írótáblát kért, és ezeket a szavakat írta rá: János a neve.” Erre mindnyájan meglepődtek. Neki pedig megnyílt az ajka, és megoldódott a nyelve: szólni kezdett, és magasztalta Istent.\n\nAkkor félelem szállta meg az összes szomszédokat, és Júdában meg az egész hegyvidéken erről az eseményről beszéltek. Aki csak hallott róla, elgondolkodva mondta: „Mi lesz ebből a gyermekből? Hiszen nyilván az Úr van vele.”",
+  "cite": "Lk 1,57-66"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Malakiás próféta könyvéből",
+  "summary": "Az Úr megjelenését „angyal” készíti elő. A Megváltó előhírnöke – miként Illés – a bűnbánat tüzével tisztítja a szíveket.",
+  "text": "Ezt mondja az Úr, a mi Istenünk: „Íme, elküldöm hírnökömet, hogy elkészítse előttem az utat. Hamarosan belép szentélyébe az Úr, akit kerestek, és a szövetség angyala, aki után vágyakoztok. Lám, már jön is! – mondja a Seregek Ura. De ki tudja majd elviselni jövetele napját? És ki maradhat állva, amikor megjelenik? Mert olyan, mint az olvasztók tüze és a ványolók lúgja. Leül, mint az ezüstolvasztó és tisztító mester. Megtisztítja Lévi fiait, megnemesíti őket, mint az aranyat és az ezüstöt szokás, hogy igazságban mutassanak be áldozatot az Úrnak.” Júda és Jeruzsálem áldozata tetszeni fog akkor az Úrnak, éppúgy, mint a régmúlt időkben, mint az első években. Nézzétek, elküldöm nektek Illés prófétát, mielőtt elérkeznék az én nagy és félelmetes napom. Ő újra a fiak felé fordítja az apák szívét, és az apák felé a fiak szívét, nehogy elmenjek és átokkal sújtsam a földet.",
+  "cite": "Mal 3,1-4.23-24"
+ }
+}

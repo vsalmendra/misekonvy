@@ -1,0 +1,39 @@
+{
+ "key": "evkozi-20-vas-A",
+ "source_date": "2026-08-16",
+ "rank": "",
+ "day": "Évközi 20. vasárnap",
+ "psalm": {
+  "cite": "Zsolt 66,2-3.5.6 és 8",
+  "response": "Magasztaljanak téged a népek, Istenünk, magasztaljanak az összes nemzetek.",
+  "verses": [
+   "Könyörüljön rajtunk az Isten, és áldjon meg minket,\nragyogtassa fel arcát fölöttünk,\nhogy megismerjék a földön utadat,\nés üdvösségedet az összes nemzetek.",
+   "Örvendjenek és ujjongjanak a nemzetek, † mert igazságosan ítéled a népeket,\nés te vezérled őket a földön.",
+   "Magasztaljanak téged a népek, Istenünk,\ndicsőítsenek az összes nemzetek.\nÁldjon meg minket az Isten,\nfélve tisztelje őt a föld minden határa."
+  ]
+ },
+ "alleluia": {
+  "text": "Jézus mondja: „Én vagyok az út, az igazság és az élet, senki sem jut Atyámhoz, csak általam.”",
+  "cite": "Jn 14,23"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Asszony, nagy a te hited!",
+  "text": "Abban az időben:\n\nJézus továbbhaladt, és Tirusz és Szidon vidékére vonult vissza. És\n\níme, jött egy arra lakó kánaáni asszony, és kiáltozva kérte:\n\n„Könyörülj rajtam, Uram, Dávid fia! A lányomat kegyetlenül gyötri a\n\ngonosz szellem!” Ő azonban szóra sem méltatta. Végül odamentek hozzá\n\ntanítványai, és arra kérték: „Küldd el őt, ne kiáltozzon utánunk!”\n\nJézus kijelentette: „Az én küldetésem csak Izrael házának elveszett\n\njuhaihoz szól.” Ám az asszony odajött, és leborult előtte e szavakkal:\n\n„Uram, segíts rajtam!” Ő így válaszolt: „Nem való elvenni a gyerekek\n\nkenyerét és odadobni a kutyáknak!” Mire az asszony: „Igen, Uram, de a\n\nkutyák is esznek abból, ami lehull gazdájuk asztaláról!” Erre Jézus\n\nígy szólt hozzá: „Asszony! Nagy a te hited! Legyen úgy, amint\n\nszeretnéd!” És a lánya meggyógyult még abban az órában.",
+  "cite": "Mt 15,21-28"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Izajás próféta könyvéből",
+  "summary": "Az idegenek fiait elvezetem szent hegyemre.",
+  "text": "Ezt mondja az Úr:\n\n„Tartsátok meg a törvényt: szabjátok tetteiteket az igazsághoz, mert\n\nnemsokára eljön szabadításom és megnyilvánul igazságom.\n\nAz idegenek fiait pedig – akik az Úrhoz csatlakoznak, hogy\n\nszolgáljanak neki, szeressék nevét és szolgái legyenek, akik megtartják\n\nközülük a szombatot, s vigyáznak, nehogy megszentségtelenítsék, és\n\nragaszkodnak szövetségemhez – mind elvezetem szent hegyemre, és\n\nörömmel töltöm el házamban, az imádság helyén. Elfogadom égő- és\n\nvéres áldozataikat oltáromon, mert házam minden nép számára az imádság\n\nháza lesz.”",
+  "cite": "Iz 56,1.6-7"
+ },
+ "reading2": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a rómaiakhoz írt leveléből",
+  "summary": "Isten nem bánja meg kegyelmi adományait és meghívását.",
+  "text": "Testvéreim!\n\nA pogányoknak azt mondom: Mint a pogányok apostola,\n\nnagyra tartom szolgálatomat. Sőt, szeretném vetélkedésre serkenteni\n\nvéreimet, hogy elvezessem néhányukat az üdvösségre. Ha ugyanis az ő\n\nelvettetésük által kiáradt a megbékélés a világra, mi más lesz\n\nújrafelvételük, ha nem élet a halálból?\n\nIsten ugyanis nem bánja meg kegyelmi adományait és meghívását. Amint\n\negykor ti sem engedelmeskedtetek Istennek, de most, az ő\n\nengedetlenségük következtében irgalomra találtatok, úgy ők most\n\nhitetlenek lettek az irántatok tanúsított irgalmasság miatt, hogy\n\negykor ők is irgalomra találjanak. Isten ugyanis kiszolgáltatott\n\nmindenkit az engedetlenségnek, hogy mindenkin megkönyörüljön.",
+  "cite": "Róm 11,13-15.29-32"
+ }
+}

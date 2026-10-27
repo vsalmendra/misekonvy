@@ -1,0 +1,41 @@
+{
+ "key": "hamvazo-3",
+ "source_date": "2026-02-18",
+ "rank": "",
+ "day": "Hamvazószerda",
+ "psalm": {
+  "cite": "Zsolt 50,3-4.5-6a.12-13.14 és 17",
+  "response": "Könyörülj, Urunk, Istenünk, mert nagy a vétkünk.",
+  "verses": [
+   "(Vö. 3a vers. - 1 D2 tónus)\nKönyörülj rajtam, Istenem! † Mivel irgalmas és jóságos vagy,\ntöröld el gonoszságomat mérhetetlen irgalmaddal.\nMosd le bűnömet teljesen,\nés vétkemtől tisztíts meg engem.",
+   "Gonoszságomat beismerem,\nszüntelenül előttem lebeg bűnöm.\nEgyedül csak ellened vétettem,\nami színed előtt gonosz, olyat tettem.",
+   "Tiszta szívet teremts bennem, Istenem,\naz erős lelket éleszd fel újra bennem.\nNe taszíts el színed elől,\nés szent lelkedet ne vond meg tőlem.",
+   "Üdvösséged örömét add meg újra,\na készséges lelkületet erősítsd meg bennem.\nNyisd meg, Uram, ajkamat,\nhogy dicséretedet hirdesse ajkam."
+  ]
+ },
+ "alleluia": {
+  "text": "Bár hallgatnátok ma Isten szavára: „Népem, ne légy kemény szívű!”",
+  "cite": "Zsolt 94,8ab",
+  "lent": true
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Jócselekedeteinkkel ne az emberek elismerését keressük, hanem egyedül Istentől várjunk értük jutalmat!",
+  "text": "A hegyi beszédben Jézus így szólt tanítványaihoz:\n\nVigyázzatok! Jótetteitekkel ne hivalkodjatok az emberek előtt, mert így a mennyei Atyától nem kaptok értük jutalmat. Amikor tehát alamizsnát osztasz, ne kürtöltess magad előtt, mint a képmutatók teszik a zsinagógákban és az utcákon, hogy dicsérjék őket az emberek! Bizony mondom nektek, ezzel már meg is kapták jutalmukat. Amikor te adsz alamizsnát, ne tudja bal kezed, mit cselekszik a jobb kezed, hogy adományod rejtekben legyen, és akkor Atyád jutalmaz meg érte, aki lát téged a rejtekben is.\n\nAmikor pedig imádkoztok, ne legyetek olyanok, mint a képmutatók, akik szeretnek az emberek szeme láttára a zsinagógákban és az utcasarkokon állva imádkozni! Bizony mondom nektek, már meg is kapták jutalmukat. Amikor imádkozol, menj be a szobádba, és zárt ajtó mögött, a rejtekben imádkozzál Atyádhoz! Atyád, aki a rejtekben is lát, megfizet neked.\n\nAmikor böjtöltök, ne legyetek mogorvák, mint a képmutatók! Keserű arcot mutatnak, hogy az emberek meglássák rajtuk a böjtölést. Bizony mondom nektek, ezzel már meg is kapták jutalmukat. Amikor te böjtölsz, illatosítsd be hajadat és mosd meg arcodat, hogy az emberek ne vegyék észre böjtölésedet, csak Atyád, aki a rejtekben jelen van! Atyád, aki a rejtekben is lát, megfizet neked.",
+  "cite": "Mt 6,1-6.16-18"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Joel próféta könyvéből",
+  "summary": "Isten büntető ítélete gyakran buzdítás a hozzá való őszinte visszatérésre. Megtérésünk gyökeres, komoly cselekedet legyen!",
+  "text": "A bűnbánatra így figyelmeztet a próféta: Térjetek meg! Teljes szívetekből hozzám térjetek! Böjtöljetek, hangos szóval sirassátok bűneiteket! A szíveteket szaggassátok meg, és ne a ruhátokat; keressétek Isteneteket, Uratokat! Ő jóságos és irgalmas, türelemmel gyógyítgatja sebeiteket. Ki tudja, hátha visszatér és újra megbocsát, s áldás fakad a nyomában; így az Úr, a ti Istenetek elfogadja majd étel- s italáldozataitokat. Fújjatok meg minden harsonát a szent hegyen! Üdvös böjtöt is hirdessetek! Népemet gyűjtsétek egybe, szent közösséggé legyen! Hívjátok az öregeket, hozzátok a gyermekeket, még a csecsemőket is! Nászházát hagyja el most a vőlegény, és a menyasszony is! A papok, az Úr szolgái, hangos szóval sírjanak, az előcsarnok és az oltár között így kiáltsanak: „Könyörülj, Uram, könyörülj népeden, ne tűrj ilyen gyalázatot örökségeden! Ne uralkodjanak rajtunk pogány nemzetek! Ne mondhassák gúnyolódva: »Hol van hát Istenetek?«” Erre az Úr féltő szeretettel tekintett országára, és népének megkegyelmezett.",
+  "cite": "Joel 2,12-18"
+ },
+ "reading2": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a korintusiakhoz írt második leveléből",
+  "summary": "Itt az alkalmas idő, hogy kiengesztelődjünk Istennel.",
+  "text": "Testvéreim!\n\nKrisztus követségében járunk. Isten maga buzdít titeket általunk.\n\nKrisztus nevében kérlek, engesztelődjetek ki az Istennel! Ő a bűn hordozójává tette értünk azt, aki bűnt nem ismert (Jézust), hogy általa Isten igaz voltának részesei legyünk.\n\nMint az ő munkatársai, figyelmeztetünk titeket, hogy Isten kegyelmét ne vegyétek hiába. Azt mondja ugyanis az Úr: „Amikor az időt alkalmasnak látom, meghallgatlak, és ha eljön az üdvösség napja, segítek rajtad.”\n\nNézzétek, most van itt az alkalmas idő! Most van itt az üdvösség napja.",
+  "cite": "2Kor 5,20–6,2"
+ }
+}

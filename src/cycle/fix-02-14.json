@@ -1,0 +1,32 @@
+{
+ "key": "fix-02-14",
+ "source_date": "2026-02-14",
+ "rank": "Ü",
+ "day": "Szent Cirill szerzetes és Szent Me­tód püspök Európa társvédőszentjei – Ü",
+ "psalm": {
+  "cite": "Zsolt 116,1.2",
+  "response": "Menjetek el az egész világra, és hirdessétek az evangéliumot!",
+  "verses": [
+   "Vagy: Alleluja. 4. szám.\nDicsérjétek az Urat, minden népek,\nmagasztaljátok öt, minden nemzetek.",
+   "Vagy: Alleluja.\nMert erős rajtunk az ő irgalma,\nés az Úr hűsége örökké megmarad.",
+   "Vagy: Alleluja."
+  ]
+ },
+ "alleluia": {
+  "text": "Az Úr elküldött engem, hogy a szegényeknek örömhírt vigyek, és a bűn rabjainak szabad életet hirdessek.",
+  "cite": "Lk 4,18"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Az aratnivaló sok, a munkás pedig kevés.",
+  "text": "Az apostolok kiválasztása után Jézus kiválasztott más hetvenkét tanítványt, és elküldte őket kettesével maga előtt minden városba és helységbe, ahová menni szándékozott.\n\nÍgy szólt hozzájuk: „Az aratnivaló sok, de a munkás kevés. Kérjétek hát az aratás Urát, küldjön munkásokat aratásába.\n\nMenjetek! Úgy küldelek titeket, mint bárányokat a farkasok közé. Ne vigyetek magatokkal se erszényt, se tarisznyát, se sarut. Az úton senkit se köszöntsetek.\n\nHa betértek egy házba, először is ezt mondjátok: »Békesség e háznak!« Ha békesség fia lakik ott, rászáll a ti békességtek, ha nem, visszaszáll rátok. Maradjatok ugyanabban a házban, és azt egyétek és igyátok, amijük van. Mert méltó a munkás a maga bérére. Ne járjatok házról házra.\n\nHa egy városba érkeztek, és szívesen látnak titeket, egyétek, amit elétek adnak. Gyógyítsátok meg ott a betegeket, és hirdessétek: »Elérkezett hozzátok az Isten országa!«”",
+  "cite": "Lk 10,1-9"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "az Apostolok Cselekedeteiből",
+  "summary": "Isten üdvösségre szóló hívása minden néphez szól.",
+  "text": "Pál apostolnak a pizídiai Antiochiában mondott beszéde féltékennyé tette a zsidókat. Ezért Pál és Barnabás bátran megfeleltek nekik:\n\n„Először nektek kellett hirdetnünk az Isten igéjét. De mivel ti visszautasítjátok, és nem tartjátok magatokat méltónak az örök életre, most a pogányokhoz fordulunk. Ezt a parancsot adta nekünk az Úr:\n\nA pogányok világosságává rendeltelek téged, hogy üdvösségük légy egészen a föld végső határáig.\n\n”A pogányok ennek hallatára örvendezve magasztalták az Úr tanítását. Hittek is mindazok, akik az örök életre voltak rendelve. Az Úr igéje így az egész környéken elterjedt.\n\nEz az isten igéje.",
+  "cite": "ApCsel 13,46-49"
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "key": "husvet-7-6",
+ "source_date": "2026-05-23",
+ "rank": "",
+ "day": "húsvét 7. hét szombat",
+ "psalm": {
+  "cite": "Zsolt 10,4.5 és 7",
+  "response": "Minden igaz lelkű ember látni fogja arcodat, Uram.",
+  "verses": [
+   "Vagy: Alleluja. 2. szám.\nSzent templomában van az Isten,\naz Úr trónja a mennyben áll.\nRátekint szeme a szegényre,\npillantása az emberek fiait vizsgálja.",
+   "Vagy: Alleluja.\nAz Úr megvizsgálja az igazat és a bűnöst,\nutálja azt, aki az erőszakot kedveli.\nAz Úr igaz: az igazságot kedveli,\naz igazak meglátják az ő arcát.",
+   "Vagy: Alleluja."
+  ]
+ },
+ "alleluia": {
+  "text": "Jézus mondja: „Az Igazság Lelkét küldöm nektek. Ő minden igazságra megtanít titeket.”",
+  "cite": "Jn 16,7.13"
+ },
+ "gospel": {
+  "book": "Szent János",
+  "summary": "János apostol vallja, hogy igaz az ő tanúsága Jézusról.",
+  "text": "Amikor feltámadása után Jézus még együtt volt övéivel, Péter látta egyszer, hogy utána jön az a tanítvány, akit Jézus szeretett. Az, aki a vacsorán odahajolt hozzá, és megkérdezte: „Uram, ki az, aki téged elárul?”\n\nEnnek láttára Péter Jézushoz fordult: „Uram, hát ővele mi lesz?” Jézus így felelt: „Ha azt akarom, hogy így maradjon, amíg el nem jövök, mit törődöl vele? Te csak kövess engem!”\n\nÍgy a tanítványok között elterjedt az a vélemény, hogy ez a tanítvány nem hal meg. Jézus azonban nem azt mondta: „Nem hal meg”, hanem: „Ha azt akarom, hogy így maradjon, amíg el nem jövök, mit törődöl vele?”\n\nEz az a tanítvány, aki tanúságot tesz minderről, és ezeket írta. Tudjuk, hogy igaz az ő tanúsága.\n\nJézus még sok mást is cselekedett. Ha egyenként mind megírnák, azt hiszem, az egész világ sem tudná befogadni a könyveket, amelyeket írni kellene.",
+  "cite": "Jn 21,20-25"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "az Apostolok Cselekedeteiből",
+  "summary": "Pál apostol Rómában, fogolyként is hirdeti az Isten országát.",
+  "text": "Rómába érkezésünk után Pál engedélyt kapott, hogy saját szállásán maradhasson egy katona őrizete alatt.\n\nHarmadnapra magához kérette a legtekintélyesebb zsidókat. Amikor összejöttek, így szólt hozzájuk:\n\n„Férfiak, testvérek! Én semmit sem vétettem a nép vagy atyáink szokásai ellen, mégis bilincsbe verve adtak át Jeruzsálemben a rómaiak kezére. Ők kivizsgálták ügyemet, és szabadon akartak bocsátani, mert semmi okot sem találtak, amiért halálra ítéljenek. A zsidók tiltakozása miatt azonban kénytelen voltam a császárhoz föllebbezni, de nem azért, mintha népemet vádolni akarnám.\n\nEz az oka annak, hogy látni kívántalak titeket, és néhány szót akartam szólni hozzátok. Ezt a bilincset ugyanis a választott nép reménysége miatt rakták rám.”\n\nKét álló esztendeig maradt Pál apostol a bérelt szállásán. Mindenkit fogadott, aki csak fölkereste. Hirdette nekik az Isten országát, és bátran, akadálytalanul tanított Urunkról, Jézus Krisztusról.",
+  "cite": "ApCsel 28,16-20.30-31"
+ }
+}

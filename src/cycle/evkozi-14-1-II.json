@@ -1,0 +1,33 @@
+{
+ "key": "evkozi-14-1-II",
+ "source_date": "2026-07-06",
+ "rank": "",
+ "day": "14. évközi hét hétfő",
+ "psalm": {
+  "cite": "Zsolt 144,2-3.4-5.6-7.8-9",
+  "response": "Irgalmas a mi Urunk, Istenünk: könyörületre hajlik szíve.",
+  "verses": [
+   "Mindennap áldalak téged,\nés dicsőítem nevedet örökkön örökké.\nNagy az Úr és minden dicséretre méltó,\nnagyságát felfogni nem lehet.",
+   "Nemzedékről nemzedékre dicsérjék művedet,\nés hatalmadat hangosan hirdessék.\nMagasztos fölséged nagyságáról szóljanak,\nés beszéljék el minden csodás tettedet.",
+   "Félelmetes tetteid erejéről szóljanak,\nés hirdessék a te nagyságodat.\nTerjesszék végtelen jóságod hírét,\nigazságosságodat ujjongva áldják.",
+   "Irgalmas az Úr és kegyelmes,\nnagy irgalmú és hosszan tűrő.\nAz Úr mindenkihez jóságos,\nés irgalmas minden művéhez."
+  ]
+ },
+ "alleluia": {
+  "text": "Üdvözítőnk, Jézus Krisztus győzött a halálon, s az evangéliumban felragyogtatta az örök életet.",
+  "cite": "2Tim 1,10b"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Jézus az ő szavával gyógyít, és keze érintésével halottat támaszt fel.",
+  "text": "Amikor Jézus Kafarnaumban tanított, egy elöljáró lépett hozzá, leborult előtte, és így kérlelte: „Uram, a leányom most halt meg. De jöjj, tedd rá kezedet, és életre kel!” Erre Jézus fölkelt, és tanítványaival együtt elment vele.\n\nKözben egy asszony, aki tizenkét éve vérfolyásban szenvedett, hátulról Jézus közelébe férkőzött, és megérintette ruhájának szegélyét. Azt gondolta magában: „Ha csak a ruháját érintem is, meggyógyulok.” Jézus erre megfordult, ránézett, és így szólt: „Bízzál, leányom! Hited meggyógyított téged.” Attól az órától fogva egészséges lett az asszony.\n\nAmikor Jézus az elöljáró házába ért, és látta a fuvolásokat meg a lármás tömeget, rájuk szólt: „Távozzatok, hiszen nem halt meg a leány, csak alszik!” Azok kinevették. Miután eltávolították a tömeget, Jézus bement, megfogta a leány kezét, és az életre kelt. Ennek híre elterjedt azon az egész vidéken.",
+  "cite": "Mt 9,18-26"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Ozeás próféta könyvéből",
+  "summary": "Isten úgy szereti népét, mint a vőlegény a menyasszonyát.\n\nBűneit is megbocsátja, csak ezentúl hűséges legyen.",
+  "text": "Prófétája által így szól az Úr:\n\nÍme, én majd magamhoz édesgetem népemet, és kiviszem a pusztába, hogy szívére beszéljek, hogy úgy válaszoljon, mint ifjúsága napjaiban, és mint abban az időben, amikor Egyiptom földjéről feljött.\n\nAkkor majd – mondja az Úr – „Férjem”-nek hív ő engem, és nem mond többé „Baál”-nak.\n\nNépem, én eljegyezlek magamnak örökre, eljegyezlek téged igazsággal és törvénnyel, jósággal és szeretettel, eljegyezlek magamnak hűséggel, és ismerni fogod az Urat.",
+  "cite": "Oz 2,16.17b-18.21-22"
+ }
+}

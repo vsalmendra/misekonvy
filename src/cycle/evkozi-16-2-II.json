@@ -1,0 +1,32 @@
+{
+ "key": "evkozi-16-2-II",
+ "source_date": "2026-07-21",
+ "rank": "",
+ "day": "16. évközi hét kedd",
+ "psalm": {
+  "cite": "Zsolt 84,2-4.5-6.7-8",
+  "response": "Irgalmasságodat mutasd meg, Uram, és üdvösségedet add meg nékünk!",
+  "verses": [
+   "Megkegyelmeztél, Uram, országodnak,\njóra fordítottad Jákob sorsát.\nMegbocsátottad néped gonoszságát,\nbetakartad minden bűnét.\nNagy haragodat megfékezted,\neloltottad haragod lángját.",
+   "Szabadító Istenünk, téríts meg minket,\nharagodat fordítsd el tőlünk!\nÖrökké akarsz talán haragudni,\ns kiterjeszted haragodat minden nemzedékre?",
+   "Nem akarsz új életet adni nekünk,\nvajon néped nem ujjonghat többé benned?\nIrgalmasságodat mutasd meg, Uram,\nés üdvösségedet add meg nékünk!"
+  ]
+ },
+ "alleluia": {
+  "text": "Aki szeret engem, megfogadja szavamat, Atyám is szeretni fogja, és hozzá költözünk.",
+  "cite": "Jn 14,23"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Igazában azok tartoznak Jézushoz, akik teljesítik Isten akaratát.",
+  "text": "Egy alkalommal Jézus éppen a népsokaságot tanította. Eközben anyja és rokonai odaérkeztek, és kint várakoztak rá, mert beszélni akartak vele. Valaki szólt is Jézusnak: „Anyád és rokonaid kint várnak, és beszélni akarnak veled.”\n\nJézus erre így válaszolt annak, aki szólt neki: „Ki az én anyám, és kik az én rokonaim?” Majd kitárta kezét tanítványai felé, és így szólt: „Ezek az én anyám és rokonaim. Aki teljesíti mennyei Atyám akaratát, az mind testvérem, nővérem és anyám.”",
+  "cite": "Mt 12,46-50"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Mikeás próféta könyvéből",
+  "summary": "Isten mindig hűséges a népének tett ígéretéhez: a megtérő bűnösnek szívesen megbocsát.",
+  "text": "A nép helyett az Úr prófétája így imádkozott: Legeltesd pásztorbotoddal népedet, Urunk, örökséged nyáját, amely magányosan lakik az erdőségben, a kertek közepén.\n\nBárcsak legelhetne a Básánon és Gileádban, mint a hajdankor napjaiban.\n\nMint azokban a napokban, amikor kivonultál velünk Egyiptom földjéről.\n\nMutass nekünk csodajeleket!\n\nMelyik isten hasonló hozzád, aki megbocsátod a gonoszságot, és elengeded néped maradékának bűnét?\n\nNem tart örökké haragod, mert az irgalmasságot szereted.\n\nIsmét irgalmas leszel hozzánk, leveszed rólunk gonoszságainkat, s a tenger mélyére veted minden bűnünket.\n\nTe hűséges vagy választott népedhez, és irgalmas Ábrahám iránt, amint megesküdtél atyáinknak, a hajdankor napjaiban.",
+  "cite": "Mik 7,14-15.18-20"
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "key": "evkozi-10-1-II",
+ "source_date": "2026-06-08",
+ "rank": "",
+ "day": "10. évközi hét hétfő",
+ "psalm": {
+  "cite": "Zsolt 120,1-2.3-4.5-6.7-8",
+  "response": "Segítségünk az Úr nevében van, aki a mennynek és a földnek alkotója.",
+  "verses": [
+   "Szememet a hegyekre emelem,\nhonnét is jöhetne segítségem.\nSegítséget csak az Úrtól kaphatok,\naki a mennynek és a földnek alkotója.",
+   "Nem engedi inogni lábadat,\nnem alszik el, aki őriz téged.\nBizony nem szunnyad, nem is alszik el,\naki őre Izraelnek.",
+   "Az Úr a te őrződ, ő a te védelmed,\njobbod felől megóv tégedet.\nNem éget délben a Nap tüze,\nés nem dermeszt a holdas éjjel.",
+   "Az Úr megvédi lelkedet,\naz Úr megőriz minden bajtól.\nAz Úr vigyáz rád jártadban-keltedben,\nmostantól fogva mindörökké."
+  ]
+ },
+ "alleluia": {
+  "text": "Örüljetek és ujjongjatok, mert jutalmatok nagy lesz a mennyben.",
+  "cite": "Mt 5,12a"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Boldogok, akik lelkükben szegények.",
+  "text": "Abban az időben Jézus látva a tömeget, fölment a hegyre, leült, tanítványai pedig köréje gyűltek. Akkor szólásra nyitotta ajkát, és így tanította őket:\n\n„Boldogok a lélekben szegények, mert övék a mennyek országa.\n\nBoldogok, akik sírnak, mert ők vigasztalást nyernek.\n\nBoldogok a szelídek, mert ők öröklik a földet.\n\nBoldogok, akik éhezik és szomjazzák az igazságot, mert ők kielégítést nyernek.\n\nBoldogok az irgalmasok, mert nekik is irgalmaznak.\n\nBoldogok a tiszta szívűek, mert ők meglátják Istent.\n\nBoldogok a békességszerzők, mert őket Isten fiainak fogják hívni.\n\nBoldogok, akiket üldöznek az igazságért, mert övék a mennyek országa.\n\nBoldogok vagytok, ha miattam gyaláznak titeket és üldöznek, ha hazudozva mindenféle gonoszsággal vádolnak titeket. Örüljetek és ujjongjatok, mert nagy lesz a ti jutalmatok az égben.”",
+  "cite": "Mt 5,1-12"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "a Királyok első könyvéből",
+  "summary": "Illés próféta fellép Ácháb király bűnei ellen.",
+  "text": "A Gileád lakói közül való tesbi Illés próféta így szólt Áchábhoz, Izrael királyához:\n\n„Az Úrnak, Izrael Istenének életére mondom, akinek színe előtt szolgálok, hogy nem lesz ezekben az esztendőkben sem harmat, sem eső, csak majd az én szavamra.”\n\nEkkor az Úr szózatot intézett Illéshez ezekkel a szavakkal: „Távozz innét, és eredj napkeletre! Rejtőzzél el a Kárit-pataknál, amely a Jordán felé tart. A patakból lesz italod, és a hollóknak meghagytam, hogy ott tápláljanak téged.\n\n„Illés elment tehát, és az Úr szava szerint cselekedett; amikor odaért, megtelepedett a Kárit-pataknál, amely a Jordán felé tart. A hollók hoztak is neki kenyeret és húst reggel, valamint kenyeret és húst este. Vizet pedig a patakból ivott.",
+  "cite": "1Kir 17,1-6"
+ }
+}

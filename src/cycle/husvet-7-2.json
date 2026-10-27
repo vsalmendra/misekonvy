@@ -1,0 +1,32 @@
+{
+ "key": "husvet-7-2",
+ "source_date": "2026-05-19",
+ "rank": "",
+ "day": "húsvét 7. hét kedd",
+ "psalm": {
+  "cite": "Zsolt 67,10-11.20-21",
+  "response": "A Föld minden országa énekszóval áldja az Istent.",
+  "verses": [
+   "Vagy: Alleluja. 2. szám.\nBőséges esőt adtál, Istenünk,\nörökségedbe, ellankadt népedbe új erőt öntöttél.\nLakást adtál nyájadnak azon a földön,\namelyet jóságodban szereztél a szegényeknek, Istenünk.",
+   "Vagy: Alleluja.\nÁldott legyen az Úr mindennap,\nüdvösségünk Istene, ő visel ránk gondot.\nIstenünk ő, szabadító Istenünk,\naz Úr, a mi Urunk, kivezet minket a halálból.",
+   "Vagy: Alleluja."
+  ]
+ },
+ "alleluia": {
+  "text": "Kérni fogom az Atyát, és más Vigasztalót ád majd nektek, hogy veletek maradjon mindörökké.",
+  "cite": "Jn 14,16"
+ },
+ "gospel": {
+  "book": "Szent János",
+  "summary": "A búcsúzó Jézus imádkozik a világban maradó tanítványaiért.",
+  "text": "Jézus az utolsó vacsorán tekintetét az égre emelte, és így imádkozott:\n\n„Atyám, eljött az óra. Dicsőítsd meg Fiadat, hogy Fiad is megdicsőítsen téged! Te hatalmat adtál neki minden ember fölött, hogy mindenkinek, akit neki adtál, örök életet adjon. Az örök élet pedig az, hogy megismerjenek téged, az egy igaz Istent, és Jézus Krisztust, akit te küldtél.\n\nÉn megdicsőítettelek téged a földön. A feladatot, amelyet rám bíztál, teljesítettem. Atyám, most te dicsőíts meg engem azzal a dicsőséggel, amelyben részem volt nálad a világ teremtése előtt!\n\nKinyilatkoztattalak téged az embereknek, akiket e világból nekem adtál. Tieid voltak, és nekem adtad őket. Tanításodat megtartották. Most már tudják, hogy minden, amit nekem adtál, tőled van. Hiszen én a tőled vett igéket mondtam el nekik, ők pedig elfogadták: megismerték az igazságot, hogy tőled jöttem, és hittel elfogadták, hogy te küldtél engem.\n\nÉrtük könyörgök. Nem a világért könyörgök, hanem értük, akiket nekem adtál. Tieid ők – hiszen a tied mindaz, ami az enyém, és minden az enyém, ami a tiéd –, és én megdicsőültem bennük.\n\nÉn nem maradok tovább itt e világban, ők azonban a világban maradnak. Én most hozzád megyek.”",
+  "cite": "Jn 17,1-11a"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "az Apostolok Cselekedeteiből",
+  "summary": "Szent Pál azzal a vallomással búcsúzik híveitől, hogy ő az életét egészen Isten ügyének szentelte.",
+  "text": "Harmadik missziós útja vége felé Pál apostol Milétuszba érkezett. Magához kérette az efezusi egyház presbitereit. Amikor azok megérkeztek, így szólt hozzájuk:\n\n„Tudjátok jól, hogy Ázsiába jövetelem első napjától kezdve egészen a mai napig hogyan éltem köztetek. Az Úrnak szolgáltam teljes alázatossággal, könnyek és zaklatások között, amelyek a zsidók áskálódásai folytán értek engem. Semmit sem tagadtam meg tőletek, ami javatokra szolgálhatott: nyilvánosan és magánházakban tanítottalak titeket. Zsidóknak és görögöknek egyaránt hirdettem, hogy térjenek meg Istenhez, és higgyenek Jézusban, a mi Urunkban.\n\nMost pedig a Szentlélek ellenállhatatlan indítására Jeruzsálembe megyek. Nem tudom, mi történik ott velem, csak azt adta tudtomra a Szentlélek minden városban, hogy bilincs és megpróbáltatás vár rám. De mit sem aggódom. Nem becsülöm sokra életemet; csak fussam végig pályámat, amelyet az Úr Jézus rám bízott, és tanúságot tegyek az Isten kegyelmét hirdető evangéliumról.\n\nTudom azt is, hogy közületek, akiknek Isten országát hirdettem, nem lát többé senki. Ezért most ünnepélyesen kijelentem: Ártatlan vagyok abban, ha valaki mégis elvesznék. Mert nem riadtam vissza semmitől, hogy Isten akaratát teljes egészében föltárjam előttetek.”",
+  "cite": "ApCsel 20,17-27"
+ }
+}

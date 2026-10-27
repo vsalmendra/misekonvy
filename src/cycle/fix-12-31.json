@@ -1,0 +1,32 @@
+{
+ "key": "fix-12-31",
+ "source_date": "2025-12-31",
+ "rank": "",
+ "day": "Karácsonyi idő - december 31.",
+ "psalm": {
+  "cite": "Zsolt 95,1-2.11-12.13",
+  "response": "Vigadozzanak az egek, örvendjen az egész világ!",
+  "verses": [
+   "Énekeljetek az Úrnak új éneket,\nminden föld az Úrnak énekeljen.\nÉnekeljetek az Úrnak, áldjátok nevét,\nnapról napra hirdessétek üdvösségét.",
+   "Örvendjen az ég, a föld rajongjon,\nzúgjon a tenger és ami betölti.\nÖrvendjen a mező,\nés minden, ami rajta van.",
+   "Ujjongjon az erdő minden fája\naz Úr színe előtt, mert eljön.\nJön, hogy ítélje a földet, † igazságosan ítéli meg a földkerekséget,\nés a népeket hűsége szerint."
+  ]
+ },
+ "alleluia": {
+  "text": "Az Ige emberré lett és itt élt köztünk, befogadóinak megadta, hogy Isten fiai legyenek.",
+  "cite": "Jn 1,14.12a"
+ },
+ "gospel": {
+  "book": "Szent János",
+  "summary": "Az Ige testté lett, és közöttünk lakott.",
+  "text": "Kezdetben volt az Ige. Az Ige Istennél volt, és Isten volt az Ige. Ő volt kezdetben Istennél. Minden őáltala lett, és nélküle semmi sem lett, ami lett. Őbenne élet volt, és ez az élet volt az emberek világossága. A világosság a sötétségben világít, de a sötétség nem fogadta be.\n\nFöllépett egy ember, akit Isten küldött: János volt a neve. Azért jött, hogy tanúságot tegyen: tanúságot a világosságról, hogy mindenki higgyen általa. Nem ő volt a világosság, ő csak azért jött, hogy tanúságot tegyen a világosságról.\n\nAz Ige az igazi világosság volt, amely a világba jött, hogy megvilágítson minden embert. A világban volt, és a világ őáltala lett, de a világ nem ismerte fel őt. A tulajdonába jött, de övéi nem fogadták be. Mindazoknak azonban, akik befogadták, hatalmat adott, hogy Isten gyermekei legyenek; azoknak, akik hisznek benne, akik nem vér szerint, nem a test kívánságából, és nem is a férfi akaratából, hanem Istentől születtek.\n\nÉs az Ige testté lett, és közöttünk lakott. Mi pedig láttuk az ő dicsőségét, mely az Atya Egyszülöttjének dicsősége, telve kegyelemmel és igazsággal.\n\nJános tanúságot tett róla, amikor ezt hirdette: „Ő az, akiről mondtam, hogy utánam jön, de megelőz engem, mert előbb volt, mint én.” Hiszen mi mindannyian az ő teljességéből nyertünk kegyelemből kegyelmet. A törvényt ugyanis Mózes által kaptuk, a kegyelem és az igazság azonban Jézus Krisztus által valósult meg.\n\nIstent soha senki nem látta, Isten Egyszülöttje, aki az Atya kebelén van, ő nyilatkoztatta ki.",
+  "cite": "Jn 1,1-18"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent János apostol első leveléből",
+  "summary": "A keresztség és a bérmálás által a Szentlélek kegyelmében részesülünk; ő megtanít mindarra, ami az üdvösségre szükséges.",
+  "text": "Gyermekeim!\n\nItt az utolsó óra! Amint hallottátok, eljön az antikrisztus.\n\nMár eddig is sok antikrisztus lépett föl. Ebből tudjuk, hogy itt az utolsó óra. Közülünk kerültek ki, de nem tartoztak közénk. Ha közénk tartoztak volna, velünk maradtak volna. De rajtuk kellett nyilvánvalóvá lennie, hogy nem mindenki tartozik közénk.\n\nTi azonban a Szent(lélek) kenetében részesültetek, és ezt mindannyian tudjátok. Nem azért írtam nektek, mintha nem ismernétek az igazságot, hanem azért, mert ismeritek; és azt is tudjátok, hogy semmiféle hazugság nem származik az igazságból.\n\nEz a Isten igéje.",
+  "cite": "1Jn 2,18-21"
+ }
+}

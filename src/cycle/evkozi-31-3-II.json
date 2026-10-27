@@ -1,0 +1,32 @@
+{
+ "key": "evkozi-31-3-II",
+ "source_date": "2026-11-04",
+ "rank": "",
+ "day": "31. évközi hét szerda",
+ "psalm": {
+  "cite": "Zsolt 26,1.4.13-14",
+  "response": "Az Úr az én világosságom, ő az én üdvösségem.",
+  "verses": [
+   "Világosságom és üdvösségem az Úr,\nkitől félnék?\nÉletem oltalmazója az Úr,\nkitől rettegnék?",
+   "Egyet kérek az Úrtól, csak egy a vágyam,\nhogy az Úr házában lakjam életem minden napján,\nhogy élvezhessem az Úr örömét,\nés szemlélhessem szent templomát.",
+   "Hiszem, hogy meglátom az Úr javait\naz élők földjén.\nRemélj az Úrban, bátran cselekedj,\nszíved legyen erős, és bízzál az Úrban."
+  ]
+ },
+ "alleluia": {
+  "text": "Boldogok vagytok, ha gyalázatot szenvedtek Krisztusért, mert Isten Lelke nyugszik rajtatok.",
+  "cite": "1Pét 4,14"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Csak az lehet Jézus tanítványa, aki vele együtt vállalja a keresztet is.",
+  "text": "Abban az időben amikor Jézust nagy népsokaság követte, ő hozzájuk fordult, és így szólt: „Aki hozzám jön, de nem gyűlöli apját, anyját, feleségét, gyermekeit, fivérét és nővéreit, sőt még saját magát is, nem lehet az én tanítványom.\n\nAki tehát nem hordozza keresztjét, és nem így követ engem, nem lehet az én tanítványom. Ha valaki közületek tornyot akar építeni, vajon nem ül le előbb, hogy kiszámítsa a költségeket, hogy van-e miből befejeznie? Mert ha az alapokat lerakta, de (az építkezést) befejezni nem tudta, mindenki, aki csak látja, gúnyolni kezdi: »Ez az ember építkezésbe fogott, de nem tudta befejezni.«\n\nVagy, ha egy király hadba vonul egy másik király ellen, előbb leül és számot vet, vajon a maga tízezer katonájával szembe tud-e szállni azzal, aki húszezerrel jön ellene? Mert ha nem, követséget küld hozzá, amikor még messze van, és békét kér tőle.\n\nTehát mindaz, aki közületek nem mond le mindarról, amije van, nem lehet az én tanítványom.”",
+  "cite": "Lk 14,25-33"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a filippiekhez írt leveléből",
+  "summary": "Isten meghív az üdvösségre, és erőt is ad, hogy elérhessük azt.",
+  "text": "Testvéreim!\n\nTi, akik mindig engedelmesek voltatok, félve-remegve munkáljátok üdvösségteket! Nemcsak amikor köztetek vagyok, hanem sokkal inkább most, hogy távol kell lennem. Hiszen Isten maga műveli bennetek jóakarata szerint a szándékot is, meg a végrehajtást is.\n\nZúgolódás és okoskodás nélkül tegyetek meg mindent, hogy kifogástalanok és tiszták legyetek: Istennek kedves és ártatlan gyermekei a gonosz és romlott nemzedék között, akik között úgy ragyogtok, mint csillagok a világmindenségben. Ragaszkodjatok az életet tápláló tanításhoz, hogy Krisztus (eljövetele) napján dicsőségemre váljatok!\n\nHa így lesz, akkor nem küszködtem hiába, és nem fáradtam fölöslegesen. Még ha a hitetekért hozott áldozaton és szolgálaton felül a véremet is ontják, örülni fogok, és együtt örvendezek mindnyájatokkal. Ti is örüljetek és örvendezzetek velem!",
+  "cite": "Fil 2,12-18"
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "key": "husvet-1-6",
+ "source_date": "2026-04-11",
+ "rank": "",
+ "day": "Szombat húsvét nyolcadában",
+ "psalm": {
+  "cite": "Zsolt 117,1 és 14-15.16ab és 18.19-21",
+  "response": "Hálát adok neked, Istenem, mert meghallgattál engem.",
+  "verses": [
+   "Vagy: Alleluja. 6. szám.\nAdjatok hálát az Úrnak, mert jó,\nmivel irgalma örökké megmarad.\nAz Úr erősségem és dicsőségem,\nő lett az én szabadítóm.\nAz igazak sátra\nörömujjongástól és énektől hangos.",
+   "Vagy: Alleluja.\nAz Úr jobb keze erősnek bizonyult,\naz Úrnak jobbja fölemelt engem.\nMegfenyített az Úr és megpróbált,\nde nem adott halálra engem.",
+   "Vagy: Alleluja.\nNyissátok meg nekem az igazság kapuit,\nhadd menjek be, hogy az Úrnak hálát adjak.\nEz az Úr kapuja,\nde csak az igazak lépnek be rajta.\nHálát adok neked, mert meghallgattál engem,\nés te lettél szabadítóm.",
+   "Vagy: Alleluja."
+  ]
+ },
+ "alleluia": {
+  "text": "Ezt a napot az Úristen adta. Ujjongjunk és vigadjunk rajta!",
+  "cite": "Zsolt 117,24"
+ },
+ "gospel": {
+  "book": "Szent Márk",
+  "summary": "Jézus megbízatást ad apostolainak: „Menjetek el az egész világra, és hirdessétek az evangéliumot minden teremtménynek!”",
+  "text": "Miután húsvétvasárnap reggel Jézus feltámadt, először Mária Magdolnának jelent meg, akiből (annak idején) hét ördögöt űzött ki.\n\nMagdolna elment, és elvitte a hírt a gyászoló és szomorkodó tanítványoknak. Amikor a tanítványok meghallották, hogy Jézus él, és hogy Magdolna látta őt, nem hitték el neki.\n\nEzután Jézus más alakban megjelent két tanítványnak útközben, amikor vidékre mentek. Ezek visszatértek, és közölték a hírt a többiekkel, de ők nekik sem hittek.\n\nVégül megjelent Jézus a tizenegy (apostolnak), amikor éppen asztalnál ültek. Szemükre vetette hitetlenségüket és keményszívűségüket, hogy nem hittek azoknak, akik látták őt feltámadása után. Azután így szólt hozzájuk: „Menjetek el az egész világra, és hirdessétek az evangéliumot minden teremtménynek!”",
+  "cite": "Mk 16,9-15"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "az Apostolok Cselekedeteiből",
+  "summary": "Az apostolok nem hallgathatnak arról amit láttak és hallottak.",
+  "text": "Amikor a jeruzsálemi főtanácsban látták Péter és János bátorságát, és amikor megtudták, hogy írástudatlan és tanulatlan emberek, meglepődtek. Fölismerték bennük Jézus tanítványait, ráadásul a meggyógyult ember is ott állt, és így nem tudtak mit mondani.\n\nKiküldték tehát őket a gyűlésteremből, és egymás között tanakodtak: „Mitévők legyünk ezekkel az emberekkel, hiszen egész Jeruzsálem tudja, és nem is tagadhatjuk, hogy nyilvánvalóan csoda történt általuk? De, hogy a dolognak tovább ne terjedjen a híre a nép között, fenyegessük meg őket, hogy senkinek se említsék többé az ő nevét.” Ezzel behívták őket, és megparancsolták nekik, hogy egyáltalán ne beszéljenek és ne tanítsanak Jézus nevében.\n\nPéter és János azonban így válaszolt: „Ítéljétek meg magatok, helyes volna-e Isten előtt, hogy inkább rátok hallgassunk, mint Istenre! Mi nem hallgathatunk arról, amit láttunk és hallottunk.”\n\nErre újra megfenyegették, majd a népre való tekintettel szabadon bocsátották őket, mert semmi jogcímet sem találtak megbüntetésükre.\n\nMindenki dicsőítette Istent a történtek miatt.",
+  "cite": "ApCsel 4,13-21"
+ }
+}

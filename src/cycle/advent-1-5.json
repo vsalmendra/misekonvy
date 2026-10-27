@@ -1,0 +1,32 @@
+{
+ "key": "advent-1-5",
+ "source_date": "2025-12-05",
+ "rank": "",
+ "day": "1. adventi hét péntek",
+ "psalm": {
+  "cite": "Zsolt 26,1.4.13-14",
+  "response": "Világosságom az Isten, ő az üdvösségem.",
+  "verses": [
+   "Világosságom és üdvösségem az Úr,\nkitől félnék?\nÉletem oltalmazója az Úr,\nkitől rettegnék?",
+   "Egyet kérek az Úrtól, csak egy a vágyam,\nhogy az Úr házában lakjam életem minden napján.\nHogy élvezhessem az Úr örömét,\nés szemlélhessem szent templomát.",
+   "Hiszem, hogy meglátom az Úr javait,\naz élők földjén.\nRemélj az Úrban, bátran cselekedj,\nszíved legyen erős, és bízzál az Úrban."
+  ]
+ },
+ "alleluia": {
+  "text": "Íme, Istenünk hatalommal érkezik, és megadja szolgáinak a tisztánlátást.",
+  "cite": ""
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "A Jézusban hívő vakok visszanyerik látásukat.",
+  "text": "Tanító útján egyik alkalommal két vak követte Jézust. Egyre ezt kiáltozták: „Könyörülj rajtunk, Dávid fia!”\n\nAmint hazaérkezett, bementek hozzá a vakok. Jézus megkérdezte tőlük: „Hiszitek-e, hogy tudok segíteni rajtatok?”\n\n„Hisszük, Uram!” – felelték azok.\n\nAkkor megérintette szemüket, és így szólt: „Legyen a hitetek szerint!”\n\nErre megnyílt a szemük. Jézus pedig rájuk parancsolt: „Vigyázzatok, ezt senki meg ne tudja!”\n\nÁm azok elmenvén, elhíresztelték a dolgot az egész vidéken.",
+  "cite": "Mt 9,27-31"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Izajás próféta könyvéből",
+  "summary": "Hamarosan eljön a Megváltó, hogy megnyissa a vakok szemét, és megszabadítsa választott népét.",
+  "text": "Prófétája által szól az Úr: Még egy nagyon kis idő, és nemde gyümölcsöskert lesz a Libanon, a gyümölcsöskert meg erdővé terebélyesedik?\n\nAzon a napon a siketek is meghallják az írás szavát, a vakok szeme pedig látásra nyílik a sötét homály után.\n\nA szelídek ismét örvendeznek az Úrban, és a szegények ujjonganak Izrael Szentjében.\n\nMert a zsarnok elvész, a gúnyolódó kipusztul, és kiirtatnak mindazok, akik gonoszat forralnak, akik gonoszul megrágalmaznak másokat, akik becsapják a bírót, ha pörre mennek, és az igazat alaptalanul megfosztják jogától.\n\nEzért mondja az Úr, Jákob házának Istene, aki megváltotta Ábrahámot: „Nem szégyenül meg többé Jákob, és arca nem sápad el többé, mert látni fogja, amit kezem végbevitt körükben, és szentnek hirdeti nevemet.”\n\nValóban, szentnek magasztalják majd Jákob Szentjét, és félve tisztelik Izrael Istenét.\n\nAkkor a tévelygő lelkűek bölcsességet tanulnak, és a zúgolódók elfogadják a fegyelmet.",
+  "cite": "Iz 29,17-24"
+ }
+}

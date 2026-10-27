@@ -1,0 +1,33 @@
+{
+ "key": "nagybojt-1-3",
+ "source_date": "2026-02-25",
+ "rank": "",
+ "day": "1. nagyböjti hét szerda",
+ "psalm": {
+  "cite": "Zsolt 50,3-4.12-13.18-19",
+  "response": "Istenem, te nem veted meg az alázatos és töredelmes szívet.",
+  "verses": [
+   "Könyörülj rajtam, Istenem! † Mivel irgalmas és jóságos vagy,\ntöröld el gonoszságomat mérhetetlen irgalmaddal.\nMosd le bűnömet teljesen,\nés vétkemtől tisztíts meg engem.",
+   "Tiszta szívet teremts bennem, Istenem,\naz erős lelket éleszd fel újra bennem.\nNe taszíts el színed elől,\nés szent lelkedet ne vond meg tőlem.",
+   "Te a véres áldozatot nem kedveled,\ns ha égőáldozatot hoznék, nem vennéd szívesen.\nIsten előtt kedves áldozat a megtört lélek,\nIstenem, te nem veted meg az alázatos és töredelmes szívet."
+  ]
+ },
+ "alleluia": {
+  "text": "Teljes szívvel térjetek vissza most hozzám, mondja a mi Urunk, Istenünk, mert én jóságos és irgalmas vagyok tihozzátok!",
+  "cite": "Joel 2,12-13",
+  "lent": true
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Jézus bölcsessége felülmúlja Salamonét, tanítása Jónás prófétáét. Hallgatnunk kell az ő szavára!",
+  "text": "Egyszer Jézus köré sereglett a csodaváró tömeg, de ő így szólt hozzájuk:\n\n„Ez a nemzedék gonosz nemzedék. Csodajelet követel, de nem kap más jelet, mint Jónás próféta jelét. Ahogy Jónás jel volt a niniveieknek, úgy lesz az Emberfia is jel ennek a nemzedéknek.\n\nAz ítéleten majd ezzel a nemzedékkel együtt megjelenik Dél királynője is, és helyeselni fogja elítélésüket, hiszen ő a föld végéről is eljött, hogy hallgathassa Salamon bölcsességét; itt pedig nagyobb valaki van, mint Salamon.\n\nNinive lakói is ott lesznek az ítéleten ezzel a nemzedékkel együtt, és helyeselni fogják a megbüntetését, mert ők Jónás szavára bűnbánatot tartottak; itt pedig nagyobb valaki van, mint Jónás.”",
+  "cite": "Lk 11,29-32"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Jónás próféta könyvéből",
+  "summary": "Isten a pogányokról sem feledkezik meg:\nNinive lakói megtérnek, és az Úr megbocsát nekik.",
+  "text": "Az Úr másodszor is szólt Jónáshoz:\n\n„Kelj fel, menj el Ninivébe, a nagy városba, és hirdesd azt, amit majd mondok neked!”\n\nJónás fölkelt, és elment Ninivébe az Úr parancsa szerint. Ninive nagy város volt, három napba telt, míg az ember végigment rajta. Jónás bement a városba, egy napi járásnyira, és hirdetni kezdte: „Még negyven nap, és Ninive elpusztul!”\n\nNinive lakói hittek Istennek. Böjtöt hirdettek, nagyok és kicsik egyaránt (bűnbánati) zsákruhát öltöttek.\n\nAmikor a szózat eljutott Ninive királyához, ő is leszállt trónjáról, levetette palástját, és zsákruhába öltözve hamuba ült.\n\nAztán a király és a főemberek parancsára kihirdették és elrendelték Ninivében:\n\n„Ember és állat, ökör és juh semmit se egyék, ne legeljen, és vizet se igyék. Öltsön zsákruhát ember és állat, és harsány hangon könyörögjön az Istenhez. Mindenki hagyja el gonosz útjait és a rosszat, amit a keze végbevitt.\n\nKi tudja, hátha irgalmas lesz és újra megbocsát az Isten, lecsillapul izzó haragja, és nem kell elvesznünk!”\n\nIsten látta a bűnbánó cselekedeteiket, és azt is, hogy milyen komolyan veszik megtérésüket. Ezért nem is bocsátotta rájuk azt a pusztulást, amelyet büntetésükre tervezett.",
+  "cite": "Jón 3,1-10"
+ }
+}

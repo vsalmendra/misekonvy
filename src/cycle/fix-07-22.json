@@ -1,0 +1,40 @@
+{
+ "key": "fix-07-22",
+ "source_date": "2026-07-22",
+ "rank": "Ü",
+ "day": "Szent Mária Magdolna – Ü",
+ "psalm": {
+  "cite": "Zsolt 62,2.3-4.5-6.8-9",
+  "response": "Terád szomjas a lelkem, én Uram, Istenem.",
+  "verses": [
+   "Uram, Istenem, virrasztva kereslek,\naz én Istenem te vagy nékem.\nTéged szomjaz a lelkem, testem utánad eped,\nmint a puszta tikkadt, kiaszott földje.",
+   "Szentélyedben neked szolgáltam,\nhogy erődet és dicsőségedet megláthassam.\nMert irgalmad többet ér, mint az élet,\nezért ajkam dicsőít téged.",
+   "Neked mondok áldást, amíg csak élek,\na te nevedben tárom imára kezemet.\nMint dús lakomával, teljék be lelkem,\najkam ujjong, szám dicsőít téged.",
+   "Te lettél védelmezőm,\nés szárnyaid oltalmában örvendezem.\nLelkem szorosan átölel téged,\nés a jobbod szilárdan tart fenn engem."
+  ]
+ },
+ "alleluia": {
+  "text": "Mária Magdolna, mondd, mit láttál utadon? Az élő Krisztusnak sírját: a Föltámadt nagy diadalmát!",
+  "cite": ""
+ },
+ "gospel": {
+  "book": "Szent János",
+  "summary": "Asszony, miért sírsz? Kit keresel?",
+  "text": "A hét első napján, (húsvétvasárnap) kora reggel, amikor még sötét volt, Mária Magdolna kiment Jézus sírjához. Odaérve látta, hogy a követ elmozdították a sírtól.\n\nAmint ott sírdogált, betekintett a sziklasírba, és ahol Jézus holtteste feküdt, két, fehér ruhába öltözött angyalt látott. Ott ültek, az egyik a fejnél, a másik a lábnál.\n\nÍgy szóltak hozzá: „Asszony, miért sírsz?” „Mert elvitték az én Uramat – felelte –, és nem tudom, hová tették.”\n\nEzzel hátrafordult, és íme, Jézus állt előtte. Nézte, de nem ismerte föl, hogy ő az.\n\nJézus megkérdezte: „Asszony, miért sírsz? Kit keresel?” Mária Magdolna azt hitte, hogy a kertész az, és így válaszolt: „Uram, ha te vitted el, mondd meg, hová tetted, hogy magammal vihessem.” Jézus erre megszólította: „Mária!” Mária felkiáltott: „Rabbóni!” – vagyis „Mester”!\n\n„Ne tartóztass! – felelte Jézus. Még nem mentem föl az Atyához. Te most menj testvéreimhez, és vigyél hírt nekik! Fölmegyek az én Atyámhoz és a ti Atyátokhoz, az én Istenemhez és a ti Istenetekhez.”\n\nMária Magdolna elsietett. Hírül vitte a tanítványoknak: „Láttam az Urat.” – És elmondta, amit az Úr üzent.",
+  "cite": "Jn 20,1.11-18"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "az Énekek Énekéből",
+  "summary": "Megtaláltam, akit szeret a lelkem.",
+  "text": "Ezt mondja a menyasszony:\n\nÉjszaka ágyamban kerestem, akit szeret a lelkem; de hiába kerestem, nem találtam. Azért hát fölkelek, bejárom a várost, keresem a tereken és utcákon, keresem, akit szeret a lelkem: Kerestem őt, de nem találtam.\n\nTalálkoztam az őrökkel, akik a várost járták. „Nem láttátok, akit szeret a lelkem?” Alig mentem tovább, otthagyva őket, megtaláltam, akit szeret a lelkem.",
+  "cite": "Én 3,1-4a"
+ },
+ "reading2": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a korintusiakhoz írt második leveléből",
+  "summary": "Ha Krisztust azelőtt emberi szempontból ismertük is, most már nem úgy ismerjük.",
+  "text": "Testvéreim!\n\nKrisztus szeretete sürget minket, hiszen arra a meggyőződésre jutottunk, hogy ha egy meghalt mindenkiért, akkor mindenki meghalt. És ő azért halt meg mindenkiért, hogy akik élnek, ne maguknak éljenek, hanem annak, aki értük meghalt és feltámadt.\n\nEzután tehát nem ismerünk senkit emberi szempontból. Ha Krisztust azelőtt emberi módon ismertük is, most már nem úgy ismerjük. Mindenki, aki Krisztusban van, új teremtmény. A régi megszűnt, valami új valósult meg.",
+  "cite": "2Kor 5,14-17"
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "key": "evkozi-17-6-II",
+ "source_date": "2026-08-01",
+ "rank": "",
+ "day": "17. évközi hét szombat",
+ "psalm": {
+  "cite": "Zsolt 68,15-16.30-31.33-34",
+  "response": "A kegyelem idején hallgass meg, Istenem!",
+  "verses": [
+   "Emelj ki az iszapból, hogy el ne süllyedjek, † ragadj ki azok közül, akik gyűlölnek,\nés a vizek mélységéből.\nNe borítson el a vizek hulláma: † és ne húzzon le a mélység,\nne záruljon be fölöttem a verem szája.",
+   "Én azonban szegény vagyok, és szenvedek,\nde szabadításod, Istenem, fölemel engem.\nÉnekszóval áldom Isten nevét,\ndicsérettel magasztalom őt.",
+   "Az alázatosak látják ezt, és örülnek.\nKeressétek Istent, és szívetek újra éled,\nmert az Úr meghallgat minden szegényt,\nés foglyait nem hagyja magukra."
+  ]
+ },
+ "alleluia": {
+  "text": "Boldogok, akik üldözést szenvednek az igazságért, mert övék a mennyek országa.",
+  "cite": "Mt 5,10"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Keresztelő János vértanúsága.",
+  "text": "Amikor Heródes Antipász, a negyedes fejedelem meghallotta a Jézusról szóló híreket, azt mondta szolgáinak: „Ez Keresztelő János: ő támadt fel a halálból, azért van ilyen csodatevő ereje.”\n\nHeródes ugyanis annak idején elfogatta Jánost, bilincsbe verette és börtönbe vetette Heródiás miatt, aki fivérének, Fülöpnek a felesége volt. János ugyanis figyelmeztette: „Nem szabad őt feleségül venned!” Heródes emiatt ki akarta végeztetni Jánost, de félt a néptől, mert prófétának tartották őt.\n\nAmikor Heródesnek születésnapja volt, Heródiás leánya a vendégek előtt táncolt. Ez nagyon megtetszett Heródesnek, ezért esküvel ígérte, hogy bármit is kér, megadja neki. A leány, mivel anyja már előre kioktatta, így szólt: „Add nekem egy tálon Keresztelő János fejét!” Erre a király elszomorodott, de esküje és a jelenlevő vendégek miatt megparancsolta, hogy adják oda neki (Keresztelő János fejét).\n\nErre elküldvén lefejeztette Jánost a börtönben. Fejét elhozták egy tálon, és odaadták a leánynak; ő meg elvitte anyjának.\n\nAkkor János tanítványai eljöttek, elvitték a holttestet, és eltemették. Majd felkeresték Jézust, és mindezt hírül adták neki.",
+  "cite": "Mt 14,1-12"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Jeremiás próféta könyvéből",
+  "summary": "Az Úr nem hagyja el a bajban azt, aki hűségesen jár el küldetésében.",
+  "text": "A választott nép papjai és álprófétái így szóltak a főemberekhez és az egész néphez: „Ez az ember, Jeremiás halált érdemel; fületek hallatára ugyanis Jeruzsálem ellen jövendölt.”\n\nErre Jeremiás próféta így szólt a főemberek és a nép előtt:\n\n„Az Úr küldött engem, hogy jövendöljek háza ellen és a város ellen is, hogy elmondjam az ő igéit, amelyeket hallottatok.\n\nVáltoztassátok meg életmódotokat és tetteiteket!\n\nHallgassatok Uratok, Istenetek szavára, és akkor ő visszavonja sújtó kezét rólatok.\n\nÉn most a ti kezetekben vagyok: tegyétek velem azt, amit jónak és helyesnek láttok!\n\nDe fontoljátok meg, hogyha itt most megöltök engem, ártatlan vér száll a fejetekre és erre a városra meg lakóira.\n\nMert valóban az Úr küldött engem hozzátok, hogy mindezt elmondjam fületek hallatára.”\n\nA főemberek és a nép így szóltak a papokhoz és az álprófétákhoz: „Ezt az embert nem ítélhetjük halálra, mert ő a Úrnak, a mi Istenünknek igéit mondta el nekünk.”\n\nÁhikám, Sáfán fia is pártját fogta Jeremiásnak, és így nem került a nép kezére, hogy megöljék őt.",
+  "cite": "Jer 26,11-16.24"
+ }
+}

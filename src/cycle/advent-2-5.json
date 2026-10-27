@@ -1,0 +1,32 @@
+{
+ "key": "advent-2-5",
+ "source_date": "2025-12-12",
+ "rank": "",
+ "day": "2. adventi hét péntek",
+ "psalm": {
+  "cite": "Zsolt 1,1-2.3.4 és 6",
+  "response": "Aki téged követ, Uram, azé lesz az élet világossága.",
+  "verses": [
+   "Boldog ember, aki nem követi a gonoszok tanácsát, † nem lép a bűnösök útjára,\na gúnyolódok körében nem foglal helyet,\nhanem az Úr törvényében leli örömét,\naz ő parancsairól elmélkedik éjjel és nappal.",
+   "Olyan, mint a fa, melyet folyóvíz mellé ültettek,\nmely idejében gyümölcsöt érlel.\nNem fonnyad el a lombja,\nsiker koronázza minden tettét.",
+   "Nem így járnak a gonoszok, nem így,\nhanem mint a pelyva, melyet szétszór a szél,\nmert az Úr őrzi az igazak útját,\na gonoszok útja pusztulás."
+  ]
+ },
+ "alleluia": {
+  "text": "Eljön a mi Urunk, siessünk elébe! Uralma meghozza az áldott békét.",
+  "cite": ""
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Ne tartozzunk azok közé, akik sem a Keresztelőre, sem a Messiásra nem hallgatnak!",
+  "text": "Egy alkalommal így szólt Jézus a néphez: „Kihez hasonlítsam ezt a nemzedéket? Hasonlít a piacon tanyázó gyermekekhez, akik odakiáltják pajtásaiknak: »Furulyáztunk, de nem táncoltatok. Siránkoztunk, de nem zokogtatok.« Eljött János. Nem eszik, és nem iszik; azt mondják rá: »Ördöge van.« Eljött az Emberfia. Eszik-iszik, és azt mondják rá: »Lám, a falánk, borissza ember, a vámosok és a bűnösök barátja!« Az Isten bölcsességét azonban művei igazolták.”",
+  "cite": "Mt 11,16-19"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Izajás próféta könyvéből",
+  "summary": "Isten védi a választott népet, de hűséget vár tőle.\n\nKülönben nincs kiút a bajból.",
+  "text": "Ezt mondja az Úr, a te Megváltód, Izrael Szentje: „Én az Úr, a te Istened arra tanítalak, ami javadra válik, és arra az útra vezetlek, amelyen járnod kell. Ha megtartottad volna parancsaimat, békéd olyan lenne, mint a folyam, igazságod, mint a tenger hullámai. Nemzetséged annyi volna, mint a föveny, és ivadékod, mint a homokszem. Neved sohasem tűnne el, és nem halványodnék el szemem előtt.”",
+  "cite": "Iz 48,17-19"
+ }
+}

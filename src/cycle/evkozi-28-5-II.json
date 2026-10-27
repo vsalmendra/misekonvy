@@ -1,0 +1,32 @@
+{
+ "key": "evkozi-28-5-II",
+ "source_date": "2026-10-16",
+ "rank": "",
+ "day": "28. évközi hét péntek",
+ "psalm": {
+  "cite": "Zsolt 32,1-2.4-5.12-13",
+  "response": "Boldog az a nemzet, melyet az Úr örökségül választott magának.",
+  "verses": [
+   "Örvendezzetek, igazak, az Úrban,\na szentekhez dicséret illik.\nDicsérjétek az Urat citerával,\ntízhúrú hárfán zengjetek néki.",
+   "Sziklaszilárd az Úr igéje,\nminden tettét hűség vezeti.\nAz igazlelkűséget és a törvényt szereti,\ntele van a föld az Úr irgalmával.",
+   "Boldog az a nemzet, amelynek az Úr az Istene,\na nép, amelyet örökségül választott magának.\nLetekint Isten a mennyből,\nés látja mind az emberek fiait."
+  ]
+ },
+ "alleluia": {
+  "text": "Kegyes szemed legyen rajtunk, Istenem, amiképpen bízunk benned!",
+  "cite": "Zsolt 32,22"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Jézus buzdítja apostolait, hogy félelem nélkül hirdessék az evangéliumot, mert Isten nem feledkezik meg róluk.",
+  "text": "Egyszer olyan nagy tömeg gyűlt Jézus köré, hogy csaknem agyontaposták egymást. Így beszélt akkor tanítványaihoz: „Óvakodjatok a farizeusok kovászától, vagyis a képmutatástól!\n\nNincs olyan rejtett dolog, amely napfényre ne kerülne; sem olyan titok, amely ki ne tudódnék. Amit szűk körben bizalmasan mondtatok, nyilvánosan elbeszélik, és amit zárt ajtók mögött fülbe súgtatok, szájról szájra adják.\n\nMint barátaimnak, azt mondom nektek: ne tartsatok azoktól, akik megölik a testet, de többre nincs hatalmuk. Megmondom nektek, kitől féljetek. Féljetek attól, akinek – azonfelül, hogy megöl – arra is hatalma van, hogy kárhozatra vessen. Újból mondom: ettől féljetek!\n\nNemde öt veréb sem ér többet, mint két krajcár? Isten mégsem feledkezik meg egyetlen egyről sem. Sőt, számon tartja fejetek minden hajszálát is. Ne féljetek tehát! Sokkal többet értek ti, mint a verebek.”",
+  "cite": "Lk 12,1-7"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak az efezusiakhoz írt leveléből",
+  "summary": "Krisztusban nyerjük el a mennyei örökséget a Szentlélek által.",
+  "text": "Testvéreim!\n\nKrisztusban nyertük el mi is az örökséget Isten rendelése szerint, aki mindent szabad elhatározásából tesz. Szolgáljunk hát fölsége dicsőségére, mi, akik már korábban is Krisztusba vetettük reményünket. Benne kaptátok meg ti is a megígért Szentlélek pecsétjét, miután hallottátok az igazságról szóló tanítást, üdvösségetek evangéliumát, és hittetek benne.\n\nŐ a foglalója örökségünknek, annak, hogy teljesen megváltva övéi legyünk az Isten fölségének dicsőségére.",
+  "cite": "Ef 1,11-14"
+ }
+}

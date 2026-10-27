@@ -1,0 +1,32 @@
+{
+ "key": "dec-20",
+ "source_date": "2025-12-20",
+ "rank": "",
+ "day": "Adventi köznapok - december 20.",
+ "psalm": {
+  "cite": "Zsolt 23,1-2.3-4ab.5-6",
+  "response": "Urunk, Istenünk érkezik: ő a dicsőség királya.",
+  "verses": [
+   "Az Úré a föld, és minden, ami betölti,\na földkerekség és minden lakója.\nAlapjait ő ágyazta tengerek mélyébe,\ns a vizek árján ő tartja szilárdan.",
+   "Ki mehet föl az Úr hegyére,\nki állhat meg az ő szent helyén?\nAki ártatlan kezű, tiszta szívű,\nakinek az esze nem jár csaláson.",
+   "Az nyer áldást az Úrtól,\nés megigazulást üdvözítő Istenétől.\nEz az istenkeresők népe,\namely arcát kutatja Jákob Istenének."
+  ]
+ },
+ "alleluia": {
+  "text": "Dávid kulcsa, te megnyitod az örök ország ajtaját. Jöjj, hozd ki sötét börtönükből a bűnök rabjait!",
+  "cite": ""
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Jézus születésének hírüladása.",
+  "text": "Hat hónappal Keresztelő János születésének hírüladása után Isten elküldte Gábor angyalt Galilea Názáret nevű városába egy szűzhöz, aki jegyese volt egy férfinak, a Dávid házából való Józsefnek. A szűz neve Mária volt. Az angyal belépett hozzá, és így szólt: „Üdvöz légy, kegyelemmel teljes! Az Úr veled van! Áldottabb vagy te minden asszonynál!” Ennek hallatára Mária zavarba jött és gondolkodóba esett, hogy miféle köszöntés ez.\n\nAz angyal azonban folytatta: „Ne félj, Mária! Hisz kegyelmet találtál Istennél! Mert íme, gyermeket fogansz méhedben és fiút szülsz, s Jézusnak fogod őt nevezni! Nagy lesz ő: a Magasságbeli Fiának fogják hívni. Uralkodni fog Jákob házán mindörökké, és uralmának soha nem lesz vége!”\n\nMária ekkor megkérdezte az angyalt: „Hogyan történhet meg ez, amikor én férfit nem ismerek?” Az angyal ezt válaszolta neki: „A Szentlélek száll le rád, és a Magasságbeli ereje borít be árnyékával. Ezért szent lesz az, aki tőled születik: Isten Fiának fogják őt hívni. Lásd, rokonod, Erzsébet is gyermeket fogant öregségében, sőt, már a hatodik hónapban van, bár magtalannak tartják az emberek. Istennél semmi sem lehetetlen.”\n\nErre Mária így szólt: „Íme, az Úr szolgálóleánya: történjék velem szavaid szerint!” Ezután az angyal eltávozott.",
+  "cite": "Lk 1,26-38"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Izajás próféta könyvéből",
+  "summary": "Isten csodás módon szabadítja meg népét. Hatalmának nagy jele: a Szabadító – Szűztől születik!",
+  "text": "A választott nép szorongatott napjaiban Izajás próféta által így szólt az Úr Acház királyhoz; „Kérj magadnak jelet az Úrtól, a te Istenedtől, akár az alvilág mélységeiből, akár felülről a magasból.”\n\nDe Acház így válaszolt: „Nem kérek jelet, és nem kísértem az Urat.”\n\nErre Izajás próféta azt mondta: „Halljátok hát, Dávid háza! Nem elég nektek, hogy próbára teszitek az emberek türelmét, még az én Istenem türelmét is próbára teszitek? Ezért az Úr maga ad nektek jelet: Íme, a szűz fogan, fiút szül, és Emmánuelnek nevezi, ami annyit jelent: Velünk az Isten.”",
+  "cite": "Iz 7,10-14"
+ }
+}

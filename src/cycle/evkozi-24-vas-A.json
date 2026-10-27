@@ -1,0 +1,40 @@
+{
+ "key": "evkozi-24-vas-A",
+ "source_date": "2026-09-13",
+ "rank": "",
+ "day": "Évközi 24. vasárnap",
+ "psalm": {
+  "cite": "Zsolt 102,1-2.3-4.9-10.11-12",
+  "response": "Irgalmas a mi Urunk, Istenünk: könyörületre hajlik szíve.",
+  "verses": [
+   "Áldjad, lelkem, az Urat,\negész bensőm az ő szent nevét áldja.\nÁldjad, lelkem, az Urat,\nés ne feledd, hogy hozzád milyen jó volt.",
+   "Megbocsátja minden vétked,\nmeggyógyítja minden gyengeséged.\nA pusztulástól megmenti életed,\nkegyelmében és irgalmában meg is koronázza.",
+   "Irgalmas és kegyes a mi Istenünk:\nnagy irgalmú és hosszan tűrő.\nNem bűneink szerint bánik velünk,\nés nem gonoszságunk szerint fizet vissza nekünk.",
+   "Amilyen messze van napkelettől a napnyugat,\nbűneinket olyan messze dobja tőlünk.\nAhogyan az atya megkönyörül fiain,\núgy könyörül meg az Úr az istenfélőn."
+  ]
+ },
+ "alleluia": {
+  "text": "Jézus mondja: „Új parancsot adok nektek, szeressétek egymást, amint én szeretlek titeket.”",
+  "cite": "Jn 13,34"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Nem mondom, hogy hétszer bocsáss meg, hanem hetvenszer hétszer.",
+  "text": "Abban az időben:\n\nPéter odament Jézushoz, és megkérdezte: „Uram, ha testvérem vétkezik\n\nellenem, hányszor kell megbocsátanom neki? Talán hétszer?” Jézus így\n\nfelelt: „Nem mondom, hogy hétszer, hanem hetvenszer hétszer!\n\nA mennyek országa olyan, mint amikor egy király el akart számolni\n\nszolgáival. Amikor elkezdte, odahozták egyik adósát, aki tízezer\n\ntalentummal tartozott. Mivel nem volt miből megfizetnie, az úr\n\nmegparancsolta, hogy adják el őt, a feleségét, a gyermekeit, és\n\nmindenét, amije csak van, és így törlessze adósságát. De a szolga\n\nleborult előtte és úgy kérlelte: Légy türelmes irántam, mindent\n\nmegfizetek! Az úr szíve megesett a szolgán: szabadon bocsátotta őt, sőt\n\nmég az adósságát is elengedte.\n\nA szolga kiment, és találkozott egyik szolgatársával, aki neki száz\n\ndénárral tartozott. Elkapta és fojtogatni kezdte: »Add meg, amivel\n\ntartozol!« Szolgatársa térdre hullott előtte és kérlelte: Légy türelmes\n\nirántam, mindent megfizetek!« De ő nem engedett, hanem ment és börtönbe\n\nvetette, míg meg nem fizeti tartozását.\n\nSzolgatársai látták a történteket. Elmentek és elbeszélték uruknak.\n\nAz úr akkor magához hívatta őt, és így szólt hozzá: »Te gonosz szolga!\n\nAmikor kérleltél, én minden tartozásodat elengedtem neked. Nem kellett\n\nvolna neked is megkönyörülnöd szolgatársadon, mint ahogy én\n\nmegkönyörültem rajtad?« És az úr nagy haraggal átadta őt az őröknek,\n\nmíg meg nem fizet mindent, amivel tartozik.\n\nAz én mennyei Atyám is így tesz veletek, ha tiszta szívből meg nem\n\nbocsát mindegyiktek a testvérének.”",
+  "cite": "Mt 18,21-35"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Sirák fia könyvéből",
+  "summary": "Bocsásd meg a másik embernek, ha vétett, imádkozzál, és neked is\nmegbocsátják vétked.",
+  "text": "A düh és a harag egyaránt utálatos,\n\ncsak az ragaszkodik hozzá, aki bűnös.\n\nAki bosszút áll, azon bosszút áll az Úr is,\n\nkemény számadást tart vele bűneiért.\n\nBocsáss meg a másik embernek, ha vétett,\n\nimádkozzál, és neked is megbocsátják vétked.\n\nAki más emberre konokul haragszik,\n\nhogy keres Istennél gyógyulást magának?\n\nAki nem könyörül meg embertársán,\n\na saját bűneiért hogyan imádkozik?\n\nJóllehet ő csak ember, kitart a haragban,\n\nés ugyanakkor bocsánatot kér Istentől?!\n\n– hát az ő bűneiért ki ad elégtételt?\n\nGondolj a végső dolgokra, hagyd a gyűlölködést,\n\ngondolj halálodra, s tartsd meg a parancsokat.\n\nGondolj a törvényre, ne gyűlöld embertársadat,\n\ngondolj az Istennel kötött szövetségre, s nézd el a sértést.",
+  "cite": "Sir 27,30-28,7"
+ },
+ "reading2": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a rómaiakhoz írt leveléből",
+  "summary": "Akár élünk, akár halunk, mindig az Úréi vagyunk.",
+  "text": "Testvéreim!\n\nEgyikünk sem él csak önmagának, és egyikünk sem hal meg csak önmagának. Amíg élünk, Istennek élünk, és ha meghalunk, Istennek halunk meg. Tehát akár élünk, akár meghalunk, mindig az Úréi vagyunk. Krisztus ugyanis azért halt meg és azért támadt fel, hogy mind a holtaknak, mind az élőknek Ura legyen.",
+  "cite": "Róm 14,7-9"
+ }
+}

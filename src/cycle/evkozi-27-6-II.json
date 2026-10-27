@@ -1,0 +1,33 @@
+{
+ "key": "evkozi-27-6-II",
+ "source_date": "2026-10-10",
+ "rank": "",
+ "day": "27. évközi hét szombat",
+ "psalm": {
+  "cite": "Zsolt 104,2-7",
+  "response": "Sohasem felejti az Isten az ő szövetségét.",
+  "verses": [
+   "Vagy: Alleluja. 8. szám.\nÉnekeljetek és zengjetek zsoltárt neki,\nemlegessétek minden csodáját.\nDicsekedjetek szent nevével,\naz Urat kereső szívek örvendezzenek.",
+   "Vagy: Alleluja.\nKeressétek az Urat és hatalmas erejét,\nkeressétek arcát szüntelen.\nEmlékezzetek a csodatettekre, melyeket végbevitt,\ncsodáira és az ajkáról elhangzó döntésekre.",
+   "Vagy: Alleluja.\nTi vagytok Ábrahámnak, az ő szolgájának ivadékai,\nválasztottjának, Jákobnak fiai.\nŐ a mi Urunk és Istenünk,\nő ítélkezik az egész földön.",
+   "Vagy: Alleluja."
+  ]
+ },
+ "alleluia": {
+  "text": "Boldogok, akik Isten szavát hallgatják, és hűségesek maradnak hozzá.",
+  "cite": "Lk 11,28"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Jézus arról tanít, hogy ki lehet igazán boldog.",
+  "text": "Egy alkalommal, amikor Jézus tanított, felkiáltott egy asszony a tömegből: „Boldog a méh, mely hordozott téged, és az emlő, amely táplált!”\n\nErre ő így válaszolt: „És még milyen boldogok azok, akik Isten szavát hallgatják és meg is tartják!”",
+  "cite": "Lk 11,27-28"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a galatákhoz írt leveléből",
+  "summary": "A Jézus Krisztusba vetett hit által mindnyájan Isten gyermekei vagyunk.",
+  "text": "Testvéreim!\n\nA Szentírás az ószövetségi törvény minden megszegőjét bűnösnek nyilvánította.\n\nA hívek a Jézus Krisztusba vetett hitük által részesülnek az Isten ígéretében. Amíg azonban a Jézus Krisztusban való hit ideje el nem érkezett, addig az ószövetségi törvény óvott és őrzött bennünket a hit számára, amelyet Isten a jövőben akart kinyilatkoztatni. Az ószövetségi törvény tehát mintegy a nevelő szerepét töltötte be: Krisztushoz vezetett, hogy a Jézusban való hit által megigazuljunk. Mivel pedig most már hiszünk Krisztusban, nincs szükségünk tovább a nevelőre (vagyis az ószövetségi törvényre).\n\nA Jézus Krisztusba vetett hit által ugyanis mindnyájan Isten fiai vagytok, hiszen mindannyian, akik megkeresztelkedtetek Krisztusra, Krisztust öltöttétek magatokra. Nincs többé zsidó vagy görög, rabszolga vagy szabad, férfi vagy nő, mert mindannyian egyek vagytok Krisztus Jézusban.\n\nHa azonban Krisztuséi vagytok, akkor Ábrahám utódai is, s az ígéret szerint örökösök.",
+  "cite": "Gal 3,22-29"
+ }
+}

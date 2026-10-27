@@ -1,0 +1,40 @@
+{
+ "key": "evkozi-27-vas-A",
+ "source_date": "2026-10-04",
+ "rank": "",
+ "day": "Évközi 27. vasárnap – Terménybetakarítási hálaadás",
+ "psalm": {
+  "cite": "Zsolt 79,9 és 12.13-14.15-16.19-20",
+  "response": "Isten kedves szőlője az ő választott népe.",
+  "verses": [
+   "Egyiptomból telepítetted át szőlődet,\nnépeket űztél el, hogy elültethesd.\nIndái a tengerig elértek,\nhajtásai pedig a Folyamig.",
+   "Miért romboltad le falait,\nhogy az arra járók mind leszüreteljék?\nElpusztította az erdei vadkan,\na magányos vad lelegelte.",
+   "Seregek Ura, fordulj hozzánk, † tekints le az égből,\nlásd és látogasd meg ezt a szőlőt!\nVédd meg, amit jobbod ültetett,\nés az emberfiát, akit magadnak megerősítettél.",
+   "Nem hagyunk el többé, éltess még bennünket,\nés mi segítségül hívjuk nevedet.\nSeregek Ura, Istene, téríts meg minket,\nragyogtasd ránk arcodat, és szabadok leszünk."
+  ]
+ },
+ "alleluia": {
+  "text": "Én választottalak titeket a világból, hogy menjetek és gyümölcsöt teremjetek, és gyümölcsötök maradandó legyen, mondja az Úr.",
+  "cite": "Jn 15,16"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Más munkásoknak adja bérbe szőlőskertjét.",
+  "text": "Abban az időben Jézus ezt mondta a főpapoknak és a nép véneinek:\n\nHallgassatok meg egy másik példabeszédet! Volt egy gazdaember, aki szőlőt telepített, bekerítette sövénnyel, belül pedig (a sziklába) taposógödröt vágott, és őrtornyot épített. Aztán rábízta a szőlőt a munkásokra, és elutazott. Amikor eljött a szüret ideje, elküldte szolgáit a szőlőmunkásokhoz, hogy a termést átvegyék. Ám a szőlőmunkások megragadták a szolgáit, s az egyiket összeverték, a másikat megölték, a harmadikat pedig megkövezték. Erre más szolgákat küldött, többet, mint először, de ezekkel is ugyanúgy bántak. Végül a fiát küldte le hozzájuk, mondván: „A fiamat csak megbecsülik!” Mikor azonban a szőlőmunkások meglátták a fiút, így szóltak egymáshoz: „Ez itt az örökös! Gyertek, öljük meg, és miénk lesz az öröksége!” Meg is ragadták őt, kidobták a szőlőből, és megölték.\n\nAmikor megjön a szőlőskert ura, ugyan mit tesz majd ezekkel a szőlőmunkásokkal?\n\nEzt válaszolták: „Gonoszul elbánik a gonoszokkal, a szőlőt pedig más munkásokra bízza, akik idejében átadják neki a termést.”\n\nJézus így folytatta: „Nem olvastátok soha az Írásokban: A kő, melyet az építők elvetettek, mégis szegletkővé lett, az Úr tette azzá,\n\nés szemünkben csodálatos ez! Ezért mondom nektek: Az Isten országát elveszik tőletek, és olyan népnek adják, amely majd megtermi annak gyümölcsét.”",
+  "cite": "Mt 21,33-43"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Izajás próféta könyvéből",
+  "summary": "A Seregek Urának szőlője Izrael háza.",
+  "text": "Hadd zengjem el barátomnak az ő szőlője iránt érzett szerelmes énekét.\n\nA barátomnak volt egy szőlőskertje, termékeny domboldalon. Felásta földjét, a köveket kiszedte belőle és nemes szőlőfajtákkal ültette be. A középre tornyot épített, sajtót is vágott benne. Aztán várta, hogy szőlőt teremjen, de csak vadszőlőt hozott. Most hát, Jeruzsálem lakói és ti, Juda férfiai: Tegyetek igazságot köztem és szőlőm között!\n\nMit kellett volna még tennem szőlőmmel, mit nem tettem meg vele? Azt vártam, hogy szőlőt teremjen, hát miért hozott csak vadszőlőt? Most ezért tudtotokra adom, mit fogok tenni szőlőmmel: Lebontom sövényét, hadd legeljék le, lerombolom falát, hadd tapossák össze. Parlaggá teszem: Nem metszik és nem kapálják meg, hadd verje föl a bozót és a gaz. És megparancsolom a felhőknek: ne hullassanak rá esőt. Igen, a Seregek Urának szőlője Izrael háza, és Juda népe az ő dédelgetett ültetvénye. Azt várta, hogy igaz tetteket vigyenek végbe, és lám, gaztetteket követnek el. Azt várta, hogy igazság terem náluk, de csak jajkiáltás hallik és siralom.",
+  "cite": "Iz 5,1-7"
+ },
+ "reading2": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a filippiekhez írt leveléből",
+  "summary": "Amit tanultatok, váltsátok tettekre, és veletek lesz a béke Istene!",
+  "text": "Testvéreim!\n\nNe aggódjatok semmiért, hanem minden imádságotokban és könyörgésetekben terjesszétek kéréseteket hálaadással együtt az Úr elé. Akkor Isten békéje, amely minden értelmet meghalad, megőrzi szíveteket és értelmeteket Krisztus Jézusban.\n\nEgyébként, testvéreim, arra irányuljanak gondolataitok, ami igaz, tisztességes és igazságos, arra, ami ártatlan, kedves, dicséretre méltó, ami erényes és magasztos. Amit tanultatok és elfogadtatok, amit hallottatok és példámon láttatok, azt váltsátok is tettekre, és veletek lesz a béke Istene!",
+  "cite": "Fil 4,6-9"
+ }
+}

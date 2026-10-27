@@ -1,0 +1,32 @@
+{
+ "key": "evkozi-30-1-II",
+ "source_date": "2026-10-26",
+ "rank": "",
+ "day": "30. évközi hét hétfő",
+ "psalm": {
+  "cite": "Zsolt 1,1-2.3.4 és 6",
+  "response": "Mint Isten kedves gyermekei, legyetek az ő követői.",
+  "verses": [
+   "Boldog ember, aki nem követi a gonoszok tanácsát, † nem lép a bűnösök útjára,\na gúnyolódok körében nem foglal helyet,\nhanem az Úr törvényében leli örömét,\naz ő parancsairól elmélkedik éjjel és nappal.",
+   "Olyan, mint a fa, melyet folyóvíz mellé ültettek,\nmely idejében gyümölcsöt érlel.\nNem fonnyad el a lombja,\nsiker koronázza minden tettét.",
+   "Nem így járnak a gonoszok, nem így,\nhanem mint a polyva, melyet szétszór a szél.\nMert az Úr őrzi az igazak útját,\na gonoszok útja pusztulás."
+  ]
+ },
+ "alleluia": {
+  "text": "Uram, a te szavad igazság, tégy szentté minket igazságod által! Vö. Jn 17,17b és a",
+  "cite": ""
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Jót mindennap tehetünk: Jézus szombaton is meggyógyítja a beteg asszonyt.",
+  "text": "Jézus szombatonként a zsinagógában tanított. Volt ott egy asszony, akit a betegség lelke már tizennyolc éve hatalmában tartott. Annyira meggörnyedt, hogy egyáltalán nem tudott felegyenesedni.\n\nAmikor Jézus meglátta, magához hívta, és így szólt hozzá: „Asszony, megszabadultál betegségedtől.” Közben rátette a kezét. Az rögtön felegyenesedett, és dicsőítette az Istent.\n\nA zsinagóga elöljárója méltatlankodott azért, hogy Jézus szombaton gyógyított, és a sokasághoz fordult: „Hat napotok van a munkára. Akkor jöjjetek gyógyulást keresni, ne szombaton!”\n\nJézus feléje fordult, és megfelelt neki: „Képmutatók! Van-e köztetek egy is, aki nem oldja el a jászoltól ökrét vagy szamarát szombati napon, hogy megitassa? Ábrahámnak ezt a lányát pedig a sátán tartotta megkötözve immár tizennyolc éve. Nem kellett-e őt feloldani kötelékétől akár szombaton is?”\n\nEllenfelei e szavakra szégyenükben elpirultak. A nép pedig örvendezett, hogy Jézus ilyen csodát művelt.",
+  "cite": "Lk 13,10-17"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak az efezusiakhoz írt leveléből",
+  "summary": "Éljünk szeretetben, amint Krisztus is szeretett minket!",
+  "text": "Testvéreim!\n\nLegyetek egymás iránt jóindulatúak, könyörületesek, és bocsássatok meg egymásnak, amint Isten is megbocsátott nektek Krisztusban.\n\nMint Isten kedves gyermekei, legyetek az ő követői, és éljetek szeretetben, ahogy Krisztus is szeretett minket, és odaadta magát értünk Istennek jó illatú áldozati adományként.\n\nParáznaságról és más tisztátalanságról vagy kapzsiságról szó se essék köztetek! Ez nem illik Krisztus híveihez. Ocsmány, léha vagy kétértelmű szót ne ejtsetek ki! Ez sem illik hozzátok. Ehelyett inkább hálaadással magasztaljátok Istent!\n\nÉrtsétek meg, és jegyezzétek meg jól magatoknak: Krisztus és Isten országában semmi része sincs annak, aki parázna, tisztátalan vagy kapzsi, és így földi dolgoknak szolgál Isten helyett. Ne engedjétek, hogy hamis beszédekkel a bűn útjára vezessenek titeket! Isten büntetése éri mindazokat, akik nem engedelmeskednek neki. Kerüljétek tehát az ilyen cselekedeteket!\n\nEgykor ti is sötétségben éltetek, de most már eljutottatok a világosságra az Úrban. Úgy éljetek, mint a világosság fiai!",
+  "cite": "Ef 4,32-5,8"
+ }
+}

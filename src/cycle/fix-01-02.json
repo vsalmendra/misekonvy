@@ -1,0 +1,32 @@
+{
+ "key": "fix-01-02",
+ "source_date": "2026-01-02",
+ "rank": "",
+ "day": "Karácsonyi idő - január 2.",
+ "psalm": {
+  "cite": "Zsolt 97,1.2-3ab.3cd-4",
+  "response": "A föld minden határa látta üdvözítő Urunknak jóságát.",
+  "verses": [
+   "Zengjetek az Úrnak új éneket,\ncsodálatra méltó, amit művelt.\nDiadalt aratott jobbjával,\ngyőzelmet szentséges karjával.",
+   "Az Úr megmutatta szabadító erejét,\nigazságosságát feltárta a népek előtt.\nEmlékezetébe idézte jóságát és hűségét\nIzrael népe iránt.",
+   "Meglátta a föld minden határa,\nszabadulást Istenünk hozott nekünk.\nMinden földek, zengjetek az Úrnak öröméneket,\nujjongjatok és zsoltárt mondjatok."
+  ]
+ },
+ "alleluia": {
+  "text": "Sok ízben szólt az ősatyákhoz egykor az Isten, Végül a beteljesedés napjaiban Fia által szólt hozzánk.",
+  "cite": "Zsid 1,1-2"
+ },
+ "gospel": {
+  "book": "Szent János",
+  "summary": "Keresztelő János tanúsága a Messiásról.",
+  "text": "Keresztelő János így tett tanúságot:\n\nA zsidók papokat és levitákat küldtek hozzá Jeruzsálemből, hogy megkérdezzék öt: „Ki vagy te?” Erre megvallotta, nem tagadta, hanem megvallotta: „Nem én vagyok a Messiás.”\n\nEzért megkérdezték tőle: „Hát akkor? Talán Illés vagy?”\n\n„Nem vagyok” – felelte.\n\n„A próféta vagy?”\n\nErre is nemmel válaszolt.\n\nAzt mondták tehát neki: „Akkor ki vagy? Mert választ kell vinnünk azoknak, akik küldtek minket. Mit mondasz magadról?”\n\nJános ezt felelte: „A pusztában kiáltó hangja vagyok: Egyengessétek az Úr útját”, amint Izajás próféta mondta.\n\nA küldöttek a farizeusoktól jöttek, ezért megkérdezték: „Miért keresztelsz hát, ha nem te vagy a Messiás, sem Illés, sem pedig a próféta?”\n\nJános így válaszolt: „Én csak vízzel keresztelek. De köztetek áll az, akit nem ismertek, aki utánam jön, s akinek még a saruszíját sem vagyok méltó megoldani.”\n\nEz Betániában történt, a Jordánon túl, ahol János tartózkodott és keresztelt.",
+  "cite": "Jn 1,19-28"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent János apostol első leveléből",
+  "summary": "Maradjatok hűségesek a keresztény tanításhoz!",
+  "text": "Szeretteim!\n\nMindaz, aki tagadja, hogy Jézus a Messiás, az hazug. Az antikrisztus az, aki tagadja az Atyát és a Fiút. Mindenki, aki tagadja a Fiút, nem ismeri el az Atyát sem, és aki megvallja a Fiút, elismeri az Atyát is.\n\nAmit kezdettől fogva hallottatok, az maradjon meg bennetek! Ha megmarad bennetek a tanítás, amelyet kezdettől fogva hallottatok, akkor ti is megmaradtok a Fiúban és az Atyában. Az ígéret pedig, amelyet (Jézus) ehhez fűzött: az örök élet.\n\nEzt azok miatt írtam, akik félrevezetnek titeket. Maradjon meg bennetek a tőle kapott Kenet, (vagyis a Szentlélek), akkor nincs szükségtek más tanítóra, hiszen az ő Kenete megtanít benneteket mindenre, és ez igaz, s nem hazugság. Maradjatok tehát őbenne, amint tanította!\n\nGyermekeim! Maradjatok meg most őbenne, hogy amikor majd megjelenik, bizalommal lehessünk iránta, és ne szégyenüljünk meg az ő eljövetelekor!",
+  "cite": "1Jn 2,22-28"
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "key": "husvet-1-2",
+ "source_date": "2026-04-07",
+ "rank": "",
+ "day": "Kedd húsvét nyolcadában",
+ "psalm": {
+  "cite": "Zsolt 32,4-5.18-19.20 és 22",
+  "response": "A föld telve van az Úr irgalmával.",
+  "verses": [
+   "Vagy: Alleluja. 5. szám.\nSziklaszilárd az Úr igéje,\nminden tettét hűség vezeti.\nAz igazlelkűséget és a törvényt szereti,\ntelve van a föld az Úr irgalmával.",
+   "Vagy: Alleluja.\nAz istenfélőkre ügyel az Úr szeme,\nakik bíznak az ő irgalmában.\nMegmenti lelküket a haláltól,\nés táplálja őket éhínség idején.",
+   "Vagy: Alleluja.\nAz Úrra hagyatkozik lelkünk,\nő a segítőnk, és ő a mi oltalmunk.\nKegyes szemed legyen rajtunk,\ntebenned van bizodalmunk.",
+   "Vagy; Alleluja."
+  ]
+ },
+ "alleluia": {
+  "text": "Ezt a napot az Úristen adta. Ujjongjunk és vigadjunk rajta!",
+  "cite": "Zsolt 117,24"
+ },
+ "gospel": {
+  "book": "Szent János",
+  "summary": "A feltámadt Jézus megjelenik Mária Magdolnának.",
+  "text": "Húsvétvasárnap reggel Mária Magdolna könnyezve állt Jézus sírjánál. Amint ott sírdogált, betekintett a sziklasírba, és ahol Jézus holtteste feküdt, két, fehér ruhába öltözött angyalt látott. Ott ültek, az egyik a fejnél, a másik a lábnál.\n\nÍgy szóltak hozzá: „Asszony, miért sírsz?” „Mert elvitték az én Uramat – felelte –, és nem tudom, hová tették.”\n\nEzzel hátrafordult, és íme, Jézus állt előtte. Nézte, de nem ismerte föl, hogy ő az.\n\nJézus megkérdezte: „Asszony, miért sírsz? Kit keresel?” Mária Magdolna azt hitte, hogy a kertész az, és így válaszolt: „Uram, ha te vitted el, mondd meg, hová tetted, hogy magammal vihessem.” Jézus erre megszólította: „Mária!” Mária felkiáltott: „Rabboni!” – vagyis Mester.\n\n„Ne tartóztass! – felelte Jézus. – Még nem mentem föl az Atyához, Te most menj testvéreimhez, és vigyél hírt nekik! Fölmegyek az én Atyámhoz és a ti Atyátokhoz, az én Istenemhez és a ti Istenetekhez.”\n\nMária Magdolna elsietett. Hírül vitte a tanítványoknak: „Láttam az Urat.” – És elmondta, amit az Úr üzent.",
+  "cite": "Jn 20,11-18"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "az Apostolok Cselekedeteiből",
+  "summary": "Tartsatok bűnbánatot, és keresztelkedjetek meg Jézus Krisztus nevében bűneitek bocsánatára!",
+  "text": "Pünkösd ünnepén Péter apostol így szólt a néphez:\n\n„Tudja meg az egész választott nép teljes bizonyossággal, hogy Isten azt a Jézust, akit ti keresztre feszítettetek, Úrrá és Messiássá tette!”\n\nEnnek hallatára fájdalom járta át szívüket. Megkérdezték Pétert és a többi apostolt: „Mit tegyünk, testvérek?”\n\nPéter így felelt: „Tartsatok bűnbánatot, és keresztelkedjetek meg Jézus Krisztus nevében bűneitek bocsánatára! Így megkapjátok a Szentlélek ajándékát. Az ígéret ugyanis nektek és gyermekeiteknek szól, meg azoknak, akik távol vannak ugyan, de akiket meghívott a mi Urunk, Istenünk.”\n\nSzámos egyéb szóval is biztatta és buzdította őket: „Mentsétek meg magatokat ettől a gonosz nemzedéktől!”\n\nAkik megfogadták szavát, megkeresztelkedtek. Aznap mintegy háromezren csatlakoztak hozzájuk.",
+  "cite": "ApCsel 2,36-41"
+ }
+}

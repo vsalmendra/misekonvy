@@ -1,0 +1,33 @@
+{
+ "key": "nagybojt-1-4",
+ "source_date": "2026-02-26",
+ "rank": "",
+ "day": "1. nagyböjti hét csütörtök",
+ "psalm": {
+  "cite": "Zsolt 137,l-2a,2bc-3.7c-8",
+  "response": "Uram, bármikor szólok tehozzád, hallgasd meg kérő szavamat.",
+  "verses": [
+   "Ünnepellek, Uram, szívem mélyéből,\nmert meghallgattad ajkam igéit.\nAngyalaid előtt zsoltárt éneklek,\nszent templomodban arcra borulok.",
+   "Hálaimát mondok nevednek irgalmadért és igaz voltodért,\nmert ígéreted méltó tehozzád.\nSegítségül jöttél, mikor hívtam nevedet:\ngyarapítottad az erőt lelkemben.",
+   "Az ellenségtől megszabadít engem jobb kezed,\njóságodat reám árasztod.\nÖrökké tart, Uram, a te irgalmad;\nne vesd meg kezed alkotásait!"
+  ]
+ },
+ "alleluia": {
+  "text": "Tiszta szívet teremts bennem, Istenem: és üdvösséged örömét add meg nékem újra!",
+  "cite": "Zsolt 50,12a.14a",
+  "lent": true
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Az állhatatos imádságot meghallgatja az Isten.",
+  "text": "A hegyi beszédben Jézus így szólt tanítványaihoz:\n\n„Kérjetek, és adnak nektek; keressetek, és találtok; zörgessetek, és ajtót nyitnak nektek. Mert aki kér, az kap; aki keres, az talál; aki zörget, annak ajtót nyitnak.\n\nKicsoda az közületek, aki fiának követ ad, amikor az kenyeret kér tőle. Vagy ha halat kér, ki ad kígyót neki?\n\nHa tehát ti – bár rosszak vagytok – tudtok jót adni gyermekeiteknek, mennyivel inkább jót ad a ti mennyei Atyátok azoknak, akik kérik őt.\n\nAmit tehát akartok, hogy veletek tegyenek az emberek, ti is tegyétek velük! Ez ugyanis a mózesi törvény és a próféták tanítása.”",
+  "cite": "Mt 7,7-12"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Eszter könyvéből",
+  "summary": "Eszter királyné hitvallása: Isten mindig hű marad szövetségéhez, és most is megmenti népét.",
+  "text": "A veszély idején, amikor a választott népet ellenségei ki akarták irtani, Eszter királyné is (miként gyámja, Mardokeus) a fenyegető halál elől menedéket csak az Úrnál keresett.\n\nA választott nép Istenéhez Eszter így imádkozott:\n\n„Uram, segíts, hisz egyedüli királyunk te vagy! Nézd, milyen egyedül vagyok, és más segítőm rajtad kívül nincs sehol! Végveszélyem immár kézzelfogható.\n\nGyermekkoromban úgy tanultam rólad, Istenem, hogy kiválasztottad népünket minden pogány nép közül.\n\nAtyáinkat is kiemelted őseik közül,\n\nhogy mindörökre a tieid legyenek,\n\nés meg is védted őket, amint ígérted.\n\nGondolj reánk, Uram,\n\nés nehéz napjainkban mutasd felénk arcodat!\n\nBelém is önts bizalmat, Uram, Istenem,\n\nki minden égi-földi hatalom királya vagy!\n\nAjkamra adj hatékony, ékes szavakat,\n\nha megjelenek a király előtt!\n\nHajlítsd szívét, hogy ellenségünket büntesse meg:\n\nhadd vesszen az, és mindazok, akik egyetértenek vele!\n\nMinket pedig védjen meg jobbod ereje!\n\nSegíts meg engem, rajtad kívül senkim sincs, Uram!\n\nCsak te segíthetsz, te, aki mindent tudsz.”",
+  "cite": "Eszt 4,17n.p-r.aa-bb.gg-hh"
+ }
+}

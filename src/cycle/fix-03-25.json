@@ -1,0 +1,40 @@
+{
+ "key": "fix-03-25",
+ "source_date": "2026-03-25",
+ "rank": "FÜ",
+ "day": "Urunk születésének hírüladása (Gyümölcsoltó Boldogasszony) – FÜ",
+ "psalm": {
+  "cite": "Zsolt 39,7-8a.8b-9.10-11",
+  "response": "Íme, eljövök, Uram, hogy megtegyem a te akaratodat.",
+  "verses": [
+   "Sem véres, sem ételáldozat nem kellett neked,\nfülemet azonban megnyitottad.\nNem követeltél égő- és engesztelő áldozatot,\nígy szóltam akkor: „Íme, eljövök.”",
+   "„A könyvtekercsben rólam írva áll,\nhogy akaratodat teljesítsem.\nErre vágyom, Istenem,\ntörvényed szívemet örömmel tölti el.”",
+   "Igazságodat hirdetem a nagy közösségben,\najkam el nem hallgat, Uram, jól tudod.\nIgazságodat nem rejtettem el szívem mélyén,\nhűségedet és segítségedet elbeszéltem."
+  ]
+ },
+ "alleluia": {
+  "text": "Az Ige emberré lett, és itt élt köztünk, és láttuk az ő dicsőségét.",
+  "cite": "Jn 1,14ab",
+  "lent": true
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Isten feltárta örök tervét Mária előtt, hogy őt választotta a Megváltó anyjának.",
+  "text": "Abban az időben: Isten elküldte Gábor angyalt Galilea Názáret nevű városába egy szűzhöz, aki jegyese volt egy férfinak, a Dávid házából való Józsefnek. A szűz neve Mária volt.\n\nAz angyal belépett hozzá és így szólt: „Üdvöz légy, kegyelemmel teljes! Az Úr veled van! Áldottabb vagy te minden asszonynál!”\n\nEnnek hallatára Mária zavarba jött, és gondolkodóba esett, hogy miféle köszöntés ez.\n\nAz angyal azonban folytatta: Ne félj, Mária! Hisz kegyelmet találtál Istennél! Mert íme, gyermeket fogansz méhedben és fiút szülsz, s Jézusnak fogod őt nevezni! Nagy lesz ő: a Magasságbeli Fiának fogják hívni. Az Úristen neki adja atyjának, Dávidnak trónját. Uralkodni fog Jákob házán mindörökké, és uralmának soha nem lesz vége!\n\nMária ekkor megkérdezte az angyalt: „Hogyan történhet meg ez, amikor én férfit nem ismerek?”\n\nAz angyal ezt válaszolta neki: „A Szentlélek száll le rád, és a Magasságbeli ereje borít be árnyékával. Ezért szent lesz az, ki tőled születik: Isten Fiának fogják őt hívni. Lásd, rokonod, Erzsébet is gyermeket fogant öregségében, sőt, már a hatodik hónapban van, bár magtalannak tartják az emberek. Istennél semmi sem lehetetlen.”\n\nErre Mária így szólt: „Íme, az Úr szolgálóleánya: történjék velem szavaid szerint!”\n\nEzután az angyal eltávozott.",
+  "cite": "Lk 1,26-38"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Izajás próféta könyvéből",
+  "summary": "Íme, a szűz fogan.",
+  "text": "Azokban a napokban így szólt az Úr Acház királyhoz: „Kérj magadnak jelet az Úrtól, a te Istenedtől, akár az alvilág mélységeiből, akár felülről a magasból.”\n\nDe Acház így válaszolt: „Nem kérek jelet és nem kísértem az Urat.”\n\nErre Izajás próféta azt mondta: „Halljátok hát, Dávid háza! Nem elég nektek, hogy próbára teszitek az emberek türelmét, még az én Istenem türelmét is próbára teszitek? Ezért az Úr maga ad nektek jelet: íme, a szűz fogan, fiút szül, és Emmánuelnek nevezi el, ami annyit jelent: Velünk az Isten.”",
+  "cite": "Iz 7,10-14;8,10"
+ },
+ "reading2": {
+  "label": "Szentlecke",
+  "sub": "a Zsidókhoz írt levélből",
+  "summary": "Íme, eljövök, hogy teljesítsem akaratodat.",
+  "text": "Testvéreim!\n\nLehetetlen, hogy bikák és bakok vére bűnöket töröljön el. Ezért nyilatkozik így Krisztus, amikor a világba lép: Áldozatot és ajándékot nem kívántál, hanem emberi testet alkottál nekem. Nem kedves előtted az engesztelő és égőáldozat.\n\nEzért így szóltam: íme, elmegyek, hogy teljesítsem akaratodat, amint a könyvtekercsben rólam írva van. Először tehát ezt mondta: „Áldozatot, ajándékot, engesztelő és égőáldozatot nem akartál, nem volt az kedves előtted”, jóllehet ezeket a törvény írta elő. Azután így folytatta: „Íme, elmegyek, hogy teljesítsem akaratodat.” Tehát az előzőket eltörli, hogy helyébe állítsa az utóbbit. Vagyis Isten akarata szerint Jézus Krisztus testének feláldozása egyszer s mindenkorra megszentel bennünket.",
+  "cite": "Zsid 10,4-10"
+ }
+}

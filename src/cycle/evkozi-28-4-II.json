@@ -1,0 +1,33 @@
+{
+ "key": "evkozi-28-4-II",
+ "source_date": "2026-10-15",
+ "rank": "",
+ "day": "28. évközi hét csütörtök",
+ "psalm": {
+  "cite": "Zsolt 97,1-6",
+  "response": "Megmutatta az Úr nékünk üdvözítő jóságát.",
+  "verses": [
+   "Zengjetek az Úrnak új éneket,\ncsodálatra méltó, amit művelt.\nDiadalt aratott jobbjával,\ngyőzelmet Szentséges karjával.",
+   "Az Úr megmutatta szabadító erejét,\nigazságosságát feltárta a népek előtt.\nEmlékezetébe idézte jóságát és hűségét\nIzrael népe iránt.",
+   "Meglátta a föld minden határa,\nszabadulást Istenünk hozott nekünk.\nMinden földek, zengjetek az Úrnak öröméneket,\nujjongjatok és zsoltárt mondjatok.",
+   "Daloljatok az Úrnak citerával,\nciterával és zsoltárok hangjával.\nHarsonákkal és zengő kürtökkel\nujjongjatok az Úr és Király előtt."
+  ]
+ },
+ "alleluia": {
+  "text": "Jézus mondja: „Én vagyok az út, az igazság és az élet. Senki sem jut Atyámhoz, csak általam.”",
+  "cite": "Jn 14,6"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "A farizeusok ellenségesen szemben állnak Jézussal.",
+  "text": "Jézus egy lakomán így korholta a farizeusokat:\n\n„Jaj, nektek, akik síremléket építetek azoknak a prófétáknak, akiket a ti atyáitok megöltek! Ezzel is csak azt igazoljátok, hogy helyeslitek atyáitok cselekedeteit, és egyetértetek velük: azok megölték őket, ti meg sírt készítetek nekik.\n\nNem hiába mondja Isten bölcsessége: Prófétákat és apostolokat küldök hozzájuk. Némelyeket közülük megölnek, másokat üldözni fognak.\n\nE nemzedéknek számot kell adnia minden próféta véréről, amelyet kiontottak a világ kezdetétől, Ábel vérétől egészen Zakariás véréig, akit az oltár és a templomépület között megöltek. Igenis, mondom nektek: felelősségre vonják mindezért ezt a nemzedéket.\n\nJaj, nektek, törvénytudók! Lefoglaltátok a tudás kulcsát. Magatok nem mentetek be vele, az odaigyekvőket pedig megakadályozzátok.”\n\nAmikor ezeket elmondta nekik, az írástudók és a farizeusok nagy felháborodásukban különféle kérdésekkel kezdték faggatni. Azon fondorkodtak, hogy rajtakapják valami olyan kijelentésén, amellyel vádolhatják.",
+  "cite": "Lk 11,47-54"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak az efezusiakhoz írt leveléből",
+  "summary": "Isten már a világ teremtése előtt kiválasztott minket Krisztusban.",
+  "text": "Pál Isten akaratából Jézus Krisztus apostola, az Efezusban élő testvéreknek, a Jézus Krisztusban élő híveknek (üdvözletét küldi).\n\nTestvéreim!\n\nÁldott legyen az Isten, Urunk, Jézus Krisztus Atyja, aki minden lelki, mennyei áldással megáldott minket Krisztus által. Őbenne választott ki minket a világ teremtése előtt, hogy szentek és feddhetetlenek legyünk színe előtt. Szeretetből eleve arra rendelt bennünket, hogy akaratának tetszése szerint Jézus Krisztus által fogadott fiakká legyünk, és magasztaljuk fölséges kegyelmét, amellyel szeretett Fiában jóságosan megajándékozott minket.\n\nŐbenne nyertük el vére árán a megváltást és bűneink bocsánatát bőséges kegyelme folytán, amelyet teljes bölcsességben és megértésben gazdagon árasztott ránk. Tudtunkra adta ugyanis akaratának titkát, azt az őbenne előre meghatározott jóságos tervet, hogy elérkezik az idők teljessége, és Krisztusban mint Főben egyesít mindent, ami a mennyben és a földön van.",
+  "cite": "Ef 1,1-10"
+ }
+}

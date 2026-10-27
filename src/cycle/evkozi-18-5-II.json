@@ -1,0 +1,32 @@
+{
+ "key": "evkozi-18-5-II",
+ "source_date": "2026-08-07",
+ "rank": "",
+ "day": "18. évközi hét péntek",
+ "psalm": {
+  "cite": "MTörv 32,35cd-36ab.39abcd.41",
+  "response": "Én vagyok, aki lesújtok, én vagyok, aki életre keltek.",
+  "verses": [
+   "Közel van a pusztulás napja,\nsorsuk hamarosan utoléri őket.\nAz Úr igazságot szolgáltat népének,\nés könyörül szolgáin.",
+   "Lássátok végre, hogy egyedül én vagyok,\nrajtam kívül nincs más Isten.\nÉn vagyok, aki lesújtok, † én vagyok, aki életre keltek,\nnincs, aki kezemből kimenthetne.",
+   "Kiélesítem villámló kardomat,\nés kezemmel érvényt szerzek a jognak.\nEllenségeimen bosszút állok,\nmegfizetek azoknak, akik gyűlölnek."
+  ]
+ },
+ "alleluia": {
+  "text": "Boldogok, akik üldözést szenvednek az igazságért, mert övék a mennyek országa.",
+  "cite": "Mt 5,10"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Aki követni akarja Jézust, vegye fel keresztjét!",
+  "text": "Egy alkalommal Jézus így szólt tanítványaihoz:\n\nHa valaki követni akar engem, tagadja meg magát, vegye föl keresztjét, és kövessen! Mert mindaz, aki meg akarja menteni életét, elveszíti azt; és aki énérettem elveszíti életét, megtalálja azt.\n\nMert mit használ az embernek, ha az egész világot megnyeri is, de a lelke kárt szenved? Mit is adhatna az ember cserébe saját lelkéért?\n\nAz Emberfia pedig el fog jönni Atyjának dicsőségében, angyalai kíséretében, és megfizet mindenkinek tettei szerint.\n\nBizony, mondom nektek: Az itt állók közül néhányan nem halnak meg, amíg meg nem látják az Emberfiát, amint eljön országában.",
+  "cite": "Mt 16,24-28"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Náhum próféta könyvéből",
+  "summary": "A megtérő választott nép ünnepeljen; ámde a gőgös pogány városok remegjenek, mert közeleg az Úr ítélete!",
+  "text": "Örvendezésre hívja népét az Úr: Íme, jön már a hegyeken az örömhírt hozó, aki békességet hirdet, mert az Úr helyreállítja Jákob házának nagyságát és népének, Izraelnek dicsőségét, bár vad fosztogatók széjjelszórták őket, és tönkretették csemetéiket.\n\nJaj, a vérengző városnak, (Ninivének), amely telve van hazugsággal és rablással, s folyvást fosztogat!\n\nCsattog az ostor, dübörög a robogó kerék, zihál a harci mén, és száguld a szekér, a lovak nekirugaszkodnak.\n\nCsillog a kard, villog a lándzsa, tömérdek a sebesült, rengeteg a halott.\n\nSzámtalan a holttest, mindenütt hullákba botlanak.\n\nUtálatosságot hozok rád, gyalázattal illetlek, és pellengérre állítalak.\n\nOlyan leszel, hogy aki rád tekint, mind elfordul tőled, és így kiált:\n\n„Nézzétek, így pusztult el Ninive!”\n\nNem lesz, aki megsajnálna téged, és részvéttel lenne irántad.",
+  "cite": "Náh 2,1.3;3,1-3.6-7"
+ }
+}

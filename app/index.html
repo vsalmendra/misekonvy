@@ -319,14 +319,20 @@ body.empty #top, body.empty #jump-latin, body.empty #notice, body.empty .legend 
       document.title = 'Napi szentmise';
       document.body.classList.remove('empty'); document.body.classList.add('ordinary');
       var box = $('mass'); box.innerHTML = m.html; wire(box);
-      // the day's readings, fetched ahead from igenaptár (tools/fetch_readings.py), if available
+      // The liturgical day of today's date (days.json, from tools/litcal.py) and its readings
+      // (cycle/<key>.json: the lectionary readings of that day, fetched from igenaptár).
       var day = today;
-      getJSON('data/readings/' + day + '.json').then(function (r) {
-        if (current !== null || day !== today) return;           // the user moved on meanwhile
-        $('m-meta').textContent = r.day;
-        var hu = box.querySelector('.day-readings'), la = box.querySelector('.day-readings-la');
-        if (hu) hu.innerHTML = r.html;
-        if (la) la.innerHTML = r.la_html;
+      getJSON('data/days.json').then(function (days) {
+        var e = days[day];
+        if (!e || current !== null || day !== today) return;     // unknown date, or the user moved on
+        $('m-meta').textContent = e[0];
+        if (!e[1]) return;
+        return getJSON('data/cycle/' + e[1] + '.json').then(function (r) {
+          if (current !== null || day !== today) return;
+          var hu = box.querySelector('.day-readings'), la = box.querySelector('.day-readings-la');
+          if (hu) hu.innerHTML = r.html;
+          if (la) la.innerHTML = r.la_html;
+        });
       }).catch(function () {});
       var n = $('notice'); n.hidden = false;
       n.innerHTML = '<span></span><span class="jump"><button type="button" class="btn" id="empty-reload">↻ Újratöltés</button>' +

@@ -1,0 +1,32 @@
+{
+ "key": "advent-3-1",
+ "source_date": "2025-12-15",
+ "rank": "",
+ "day": "3. adventi hét hétfő",
+ "psalm": {
+  "cite": "Zsolt 24,4bc-5ab.6-7bc.8-9",
+  "response": "Ösvényeidre taníts meg engem, én Uram, Istenem.",
+  "verses": [
+   "Utaidat, Uram, mutasd meg nekem,\nösvényeidre taníts meg engem.\nTaníts és vezess igazságod szerint,\nmert te vagy üdvözítő Istenem.",
+   "Irgalmasságodról emlékezzél meg, Uram,\nés könyörületességedről, mely öröktől való.\nNe emlékezzél ifjúságom bűnére és vétkére,\njóságodban, Uram, gondolj rám irgalommal.",
+   "Az Úr igazságos és jóságos,\nezért a bűnösöknek is utat mutat.\nA szelídeket törvénnyel vezeti,\naz alázatosaknak ösvényét tanítja."
+  ]
+ },
+ "alleluia": {
+  "text": "Urunk, mutasd meg nekünk irgalmas szívedet, és üdvösségedet add meg nékünk.",
+  "cite": "Zsolt 84,8"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Jézus a farizeusok kérdésére kérdéssel válaszol: „Honnan van János keresztsége?”",
+  "text": "Egy alkalommal Jézus a templomba ment, és tanított. Közben odaléptek hozzá a főpapok meg a nép vénei, és megkérdezték: „Miféle hatalommal teszed ezeket? Ki adta neked a hatalmat ehhez?”\n\nJézus így válaszolt: „Én is kérdezek tőletek valamit. Ha megfeleltek rá, megmondom nektek, milyen hatalommal teszek így. Honnan volt János keresztsége? A mennyből-e vagy az emberektől?”\n\nAzok tanakodni kezdtek egymás között: „Ha azt mondjuk, a mennyből volt, azt feleli: »Hát akkor miért nem hittetek neki?« Ha pedig azt mondjuk: »Az emberektől, akkor meg félnünk kell a néptől, mert Jánost mindenki prófétának tartja.”\n\nEzért ezt a választ adták Jézusnak: „Nem tudjuk.”\n\n„Akkor én sem mondom meg nektek, hogy milyen hatalommal teszek így” – felelte Jézus.",
+  "cite": "Mt 21,23-27"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Mózes negyedik könyvéből",
+  "summary": "A Bileám által megjövendölt Csillag győzelmes világossága Isten népének, és legyőzője a pogányság sötét hatalmának.",
+  "text": "Bileám – akit azért küldött pogány ura, hogy átkozza meg Isten népét – széttekintett a hegyről, és meglátta a törzsek szerint táborozó választott népet. Akkor az Isten Lelke leszállott rá, és ő így kezdte prófétai tanítását: „Így beszél Bileám, Beor fia, így beszél a mélyreható tekintetű ember. Így beszél, aki felfogja az Isten szavát, látja a Mindenható arcát, Istentől kap választ, a szeme megnyílik; Mily szépek, Jákob, a sátraid, és a hajlékaid, Izrael! Mint a szétterülő völgyek s a kertek a folyó mentén! Mint az Úr ültette tölgyek s a cédrusok végig a parton. Miként a víz ömlik vedreiből, oly bőven árad ivadéka is. Királya hatalmasabb lesz Agágnál, és királysága dicsőségre emelkedik.”\n\nMajd újra kezdte: „Így beszél Bileám, Beor fia, így beszél a mélyreható tekintetű ember. Így beszél, aki felfogja Isten szavát, birtokolja a Magasságbeli tudását, látja a Mindenható arcát, Istentől kap választ, a szeme megnyílik: Látom őt, de nincs még itt; nézem őt, de nincs még közel. Csillag támad Jákob (törzséből), és királyi pálca kél fel Izraelből.”",
+  "cite": "Szám 24,2-7.15-17a"
+ }
+}

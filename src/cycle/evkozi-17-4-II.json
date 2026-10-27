@@ -1,0 +1,33 @@
+{
+ "key": "evkozi-17-4-II",
+ "source_date": "2026-07-30",
+ "rank": "",
+ "day": "17. évközi hét csütörtök",
+ "psalm": {
+  "cite": "Zsolt 145,2abc.2d-4.5-6",
+  "response": "Boldog az az ember, akinek segítője Jákob Istene!",
+  "verses": [
+   "Vagy: Alleluja. 4. szám.\nDicsérd, lelkem, az Urat; † az Urat dicsérem, amíg élek,\nzsoltárt zengek Istenemnek, amíg csak leszek.",
+   "Vagy: Alleluja.\nFejedelmekben ne bízzatok, † de más emberfiában se,\nmert nem tud segíteni rajtatok.\nLelke elszáll, és visszatér a porba,\nés még aznap megsemmisül minden terve.",
+   "Vagy: Alleluja.\nBoldog, akinek segítője Jákob Istene,\nés akinek Istenben, az Úrban van reménye.\nŐ alkotta az eget és a földet,\na tengert és mindazt, ami benne él.",
+   "Vagy: Alleluja."
+  ]
+ },
+ "alleluia": {
+  "text": "Uram, nyisd meg szívünket, hogy meghallgassuk Fiad igéit! Vö. ApCsel 16,14b",
+  "cite": ""
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Példabeszéd a tengerbe vetett hálóról.",
+  "text": "Abban az időben Jézus így szólt tanítványaihoz:\n\n„A mennyek országa olyan, mint amikor a hálót a tengerbe vetik és az mindenféle halat összefog. Mihelyt megtelik, a partra vonják, és nekiülve kiválogatják: a javát edényekbe rakják, a hitványát pedig kidobják. Így lesz a világ végén is. Kivonulnak az angyalok, a gonoszokat elválasztják az igazaktól és tüzes kemencébe vetik, ott sírás lesz és fogcsikorgatás.\n\nÉrtitek-e mindezt?”\n\n„Igen!” – felelték. Erre így folytatta: „Minden írástudó, aki jártas a mennyek országáról szóló tanításban, olyan, mint a családapa, aki kincseiből régit és újat vesz elő.”\n\nAmikor Jézus befejezte példabeszédeit, más helyre ment onnét.",
+  "cite": "Mt 13,47-53"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Jeremiás próféta könyvéből",
+  "summary": "Isten a választott nép föltétlen Ura, az ő kezében van a nép sorsa.",
+  "text": "Jeremiás próféta így tudósít az Úr parancsáról: így szólt az Úr: „Kelj fel, és menj le a fazekashoz, ott majd meghallod igéimet!”\n\nLementem tehát a fazekas házába, és íme, az éppen dolgozott a korongon.\n\nHa a fazekas kezében rosszul sikerült az edény, amelyet az agyagból formált, újból készített belőle egy másik edényt, ahogy a fazekas szemében helyesnek látszott, hogy elkészítse.\n\nAkkor így hangzott az Úr igéje hozzám: „Vajon nem tehetek én is úgy veletek, Izrael háza, mint az agyagedénnyel tett ez a fazekas?\n\nIgen, Izrael háza, olyanok vagytok ti is az én kezemben, mint az agyag a fazekas kezében.” Így szólt az Úr.",
+  "cite": "Jer 18,1-6"
+ }
+}

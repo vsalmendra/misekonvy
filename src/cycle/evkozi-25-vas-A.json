@@ -1,0 +1,39 @@
+{
+ "key": "evkozi-25-vas-A",
+ "source_date": "2026-09-20",
+ "rank": "",
+ "day": "Évközi 25. vasárnap",
+ "psalm": {
+  "cite": "Zsolt 144,2-3.8-9.17-18",
+  "response": "Közel az Úr azokhoz, akik oltalmát kérik.",
+  "verses": [
+   "Mindennap áldalak téged,\nés dicsőítem nevedet örökkön örökké.\nNagy az Úr és minden dicséretre méltó,\nnagyságát felfogni nem lehet.",
+   "Irgalmas az Úr és kegyelmes,\nnagy irgalmú és hosszan tűrő.\nAz Úr mindenkihez jóságos,\nés irgalmas minden művéhez.",
+   "Igazságos az Úr minden útján,\nés szent minden művében.\nKözel az Úr azokhoz, akik őt hívják,\nakik hozzá kiáltanak igaz szívvel."
+  ]
+ },
+ "alleluia": {
+  "text": "Uram, nyisd meg szívünket, hogy meghallgassuk Fiad igéit. Vö. ApCsel 16,14b",
+  "cite": ""
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Talán rossz szemmel nézed, hogy én jó vagyok?",
+  "text": "Abban az időben Jézus ezt a példabeszédet mondta tanítványainak: A\n\nmennyek országa olyan, mint amikor egy gazda kora reggel kiment, hogy\n\nszőlőjébe munkásokat fogadjon. Miután napi egy dénárban megegyezett a\n\nmunkásokkal, elküldte őket a szőlőjébe. A harmadik óra körül megint\n\nkiment, s látta, hogy mások is ácsorognak ott tétlenül a piactéren. Ezt\n\nmondta nekik: „Menjetek ti is a szőlőmbe, és ami jár, megadom majd\n\nnektek.” Azok el is mentek. Majd a hatodik és a kilencedik órában újra\n\nkiment és ugyanígy cselekedett. Kiment végül a tizenegyedik óra körül\n\nis, és újabb ácsorgókat talált. Megkérdezte tőlük: „Miért álldogáltok\n\nitt egész nap tétlenül?” Azok ezt válaszolták: „Mert senki sem\n\nfogadott fel minket.” Erre azt mondta nekik: „Menjetek ti is a\n\nszőlőmbe!”\n\nAmikor beesteledett, a szőlősgazda így szólt intézőjéhez: „Hívd\n\nössze a munkásokat, és add ki a bérüket, az utolsókon kezdve az\n\nelsőkig!” Először azok jöttek tehát, akik a tizenegyedik óra körül\n\nkezdtek, és egy-egy dénárt kaptak. Amikor az elsők jöttek, azt hitték,\n\nhogy nekik többet fognak adni, de ők is csak egy-egy dénárt kaptak.\n\nAmikor átvették, zúgolódni kezdtek a gazda ellen: „Ezek az utolsók\n\ncsak egy órát dolgoztak, és ugyanúgy bántál velük, mint velünk, akik a\n\nnap terhét és hevét viseltük!” Ő azonban ezt felelte az egyiküknek:\n\n„Barátom, nem vagyok igazságtalan veled. Nem egy dénárban egyeztél meg\n\nvelem? Ami a tied, fogd és menj! Talán azzal, ami az enyém, nem tehetem\n\nazt, amit akarok? Vagy rossz szemmel nézed, hogy én jó vagyok?”",
+  "cite": "Mt 20,1-16a"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Izajás próféta könyvéből",
+  "summary": "Az én gondolataim nem a ti gondolataitok.",
+  "text": "Keressétek az Urat, amíg megtaláljátok, hívjátok segítségül, amíg közel van!\n\nHagyja el útját a gonosz, és gondolatait a bűnös; térjen vissza az Úrhoz, mert megkönyörül rajta, Istenünkhöz, mert bőkezű a megbocsátásban.\n\nHiszen az én gondolataim nem a ti gondolataitok, és az én útjaim nem a ti útjaitok – mondja az Úr.\n\nIgen, amennyivel magasabb az ég a földnél, annyival magasabbak az én útjaim a ti útjaitoknál, az én gondolataim – a ti gondolataitoknál.",
+  "cite": "Iz 55,6-9"
+ },
+ "reading2": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a filippiekhez írt leveléből",
+  "summary": "Számomra az élet Krisztus.",
+  "text": "Testvéreim!\n\nNyíltan megmondom, hogy Krisztus most is, mint mindig, megdicsőül testemben, akkor is, ha élek, akkor is, ha meghalok. Hiszen számomra az élet Krisztus, a halál pedig nyereség. Ha viszont tovább kell élnem, az gyümölcsöző munkát jelent.\n\nNem tudom tehát, mit válasszak, mert mind a kettő vonz: Szeretnék elköltözni, hogy Krisztussal legyek, mert ez mindennél jobb volna. De hogy értetek életben maradjak, arra nagyobb szükség van. Éljetek hát ti is Krisztus evangéliumához méltóan!",
+  "cite": "Fil 1,20a-24.27a"
+ }
+}

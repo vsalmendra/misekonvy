@@ -1,0 +1,33 @@
+{
+ "key": "husvet-6-5",
+ "source_date": "2026-05-15",
+ "rank": "",
+ "day": "húsvét 6. hét péntek",
+ "psalm": {
+  "cite": "Zsolt 46,2-3.4-5.6-7",
+  "response": "Az egész világnak az Úr a királya és Istene.",
+  "verses": [
+   "Vagy: Alleluja. 5. szám.\nTapsoljatok, nemzetek, mindnyájan,\nujjongjatok Istennek dicsérő szóval,\nmert félelmetes az Úr, a fölséges Isten;\nnagy király az egész földön.",
+   "Vagy: Alleluja.\nA népeket uralmunk alá vetette,\nés a nemzeteket lábunkhoz alázta.\nÖrökséget választott nékünk,\ndicsőséget Jákobnak, akit szeretett.",
+   "Vagy: Alleluja.\nUjjongás közt ment föl Isten,\naz Úr az égbe emelkedett harsonaszóval.\nZengjetek dalt Istenünknek, zengjetek,\nzengjetek dalt királyunknak, zsoltárt zengjetek!",
+   "Vagy: Alleluja."
+  ]
+ },
+ "alleluia": {
+  "text": "Krisztusnak szenvednie kellett, és feltámadnia a halálból, hogy bemehessen dicső országába.",
+  "cite": "Lk 24,46.26"
+ },
+ "gospel": {
+  "book": "Szent János",
+  "summary": "A Jézustól kapott örömet senki sem veheti el a tanítványoktól.",
+  "text": "Búcsúbeszédében Jézus így szólt tanítványaihoz:\n\nBizony, bizony, mondom nektek: ti majd sírtok és jajgattok, a világ azonban örülni fog. Ti szomorkodtok, de szomorúságtok örömre fordul.\n\nAz asszony is, amikor szül, szomorkodik, mert eljött az ő órája; de amikor megszülte gyermekét, már nem emlékszik gyötrelmeire, mert örül, hogy ember született a világra.\n\nÍgy ti is most szomorkodtok ugyan, de majd viszontlátlak titeket. Akkor örülni fog szívetek, és örömeteket senki sem veszi el többé tőletek.\n\nAzon a napon már nem lesz több kérdeznivalótok tőlem.",
+  "cite": "Jn 16,20-23a"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "az Apostolok Cselekedeteiből",
+  "summary": "Pál apostolt az Úr bátorítja, hogy Korintusban sok hívet fog szerezni.",
+  "text": "Amikor Pál apostol Korintusban tartózkodott, egy éjjel látomásban az Úr így szólt hozzá:\n\n„Ne félj, hanem beszélj, és ne hallgass, mert én veled vagyok. Senki sem fog hozzád nyúlni vagy ártani neked, nagyszámú népem lakik ugyanis ebben a városban.”\n\nOtt maradt tehát másfél évig, és ezalatt hirdette náluk az Isten igéjét.\n\nAmikor Gallió volt Ahája helytartója, a zsidók egy emberként Pálra támadtak, és a törvényszék elé hurcolták, és így vádolták: „Ez itt arra próbálja rábeszélni az embereket, hogy Mózes törvényével ellenkező módon tiszteljék az Istent.”\n\nPál már éppen szólásra nyitotta ajkát, amikor Gallió a zsidókhoz fordult: „Emberek! Ha csakugyan valami törvénytelenségről vagy gaztettről volna szó, akkor meghallgatnálak benneteket türelemmel. Ha azonban valamely tanítással, személlyel vagy vallási törvényeitekkel kapcsolatban vetődik fel vitás kérdés, azt intézzétek el ti magatok! Ilyesmiben én nem akarok bíró lenni.” Ezzel elkergette őket a törvényszék elől.\n\nErre mindannyian nekiestek Szósztenésznek, a zsinagóga elöljárójának, és ütlegelni kezdték a törvényszék előtt. De Gallió mit sem törődött vele.\n\nPál még jó ideig Korintusban maradt, azután búcsút vett a testvérektől. Priszcilla és Akvilász társaságában áthajózott Szíriába. Előbb azonban Kenkreában lenyíratta a haját, mert fogadalmat tett.",
+  "cite": "ApCsel 18,9-18"
+ }
+}

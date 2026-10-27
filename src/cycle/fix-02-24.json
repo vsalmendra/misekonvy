@@ -1,0 +1,34 @@
+{
+ "key": "fix-02-24",
+ "source_date": "2026-02-24",
+ "rank": "Ü",
+ "day": "Szent Mátyás apostol – Ü",
+ "psalm": {
+  "cite": "Zsolt 112,1-2.3-4.5-6.7-8",
+  "response": "Odaültette az Úr őt népének fejedelmei közé!",
+  "verses": [
+   "Vagy: Alleluja. 2. szám.\nDicsérjétek az Urat, ti, szolgái,\ndicsérjétek az Úr nevét!\nLegyen áldott az Úr neve\nmost és mindörökké!",
+   "Vagy: Alleluja.\nDicsértessék az Úr neve,\nnapkelettől napnyugatig.\nFölséges az Úr minden nép fölött,\ndicsősége magasabb az egeknél.",
+   "Vagy: Alleluja.\nKi olyan, mint a mi Istenünk, † aki a magasságban trónol,\nlehajol, hogy letekintsen az égre és a földre.",
+   "Vagy: Alleluja.\nAz elhagyottat a porból magához vonja,\nfölemeli a szegényt a sárból,\nhogy odaültesse a gazdagok közé,\nnépének gazdagjai közé.",
+   "Vagy: Alleluja."
+  ]
+ },
+ "alleluia": {
+  "text": "Én választottalak titeket a világból, hogy menjetek és gyümölcsöt teremjetek, és gyümölcsötök maradandó legyen, mondja az Úr.",
+  "cite": "Jn 15,16"
+ },
+ "gospel": {
+  "book": "Szent János",
+  "summary": "Arra rendeltelek benneteket, hogy elmenjetek és gyümölcsöt hozzatok.",
+  "text": "Jézus így tanított az utolsó vacsorán:\n\n„Amint engem szeret az Atya, úgy szeretlek én is titeket. Maradjatok meg az én szeretetemben!\n\nHa megtartjátok parancsaimat, megmaradtok szeretetemben, ahogy én is megtartottam Atyám parancsait, és megmaradok az ő szeretetében.\n\nEzeket azért mondtam nektek, hogy az én örömöm legyen bennetek, és örömötök ezzel teljes legyen.\n\nAz az én parancsom, hogy szeressétek egymást, amint én szerettelek titeket! Nagyobb szeretete senkinek sincs annál, mint annak, aki életét adja barátaiért. Ti barátaim vagytok, ha megteszitek, amit parancsolok nektek.\n\nNem mondalak titeket többé szolgának, mert a szolga nem tudja, mit tesz az ura. Barátaimnak mondalak benneteket, mert mindazt, amit hallottam Atyámtól, tudtul adtam nektek.\n\nNem ti választottatok engem, hanem én választottalak titeket; és arra rendeltelek, hogy elmenjetek és gyümölcsöt hozzatok: maradandó gyümölcsöt. Bármit kértek az Atyától az én nevemben, megadja nektek.\n\nAzt parancsolom nektek, hogy szeressétek egymást!”",
+  "cite": "Jn 15,9-17"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "az Apostolok Cselekedeteiből",
+  "summary": "A sors Mátyásra esett, így a tizenegy apostolhoz sorolták.",
+  "text": "Jézus mennybemenetele után egy alkalommal, amikor a testvérek mintegy százhúszan lehettek együtt, Péter szólásra emelkedett: „Testvérek, férfiak! Be kellett teljesednie az írásnak, amelyet a Szentlélek előre megmondott Dávid szája által Júdásról, azok vezetőjéről, akik elfogták Jézust. Közénk tartozott, és ő is részt kapott a mi szolgálatunkból. Benne van ugyanis a Zsoltárok könyvében: »Lakóhelyük váljék pusztasággá, ne legyen senki, aki sátrukat lakja«, továbbá: »Tisztségét kapja meg más«. Kell tehát, hogy azok közül a férfiak közül, akik mindig velünk voltak, amikor a mi Urunk, Jézus közöttünk járt-kelt – kezdve János keresztségétől egészen addig a napig, amikor felment a mennybe –, valaki velünk együtt tanúskodjék feltámadásáról.”\n\nKijelöltek tehát kettőt: Józsefet, akit Barszabbásznak, vagy más néven Jusztusznak is hívtak, és Mátyást. Majd így imádkoztak: „Uram, te ismered mindenkinek a szívét, mutasd meg, kit választasz e kettő közül, hogy átvegye az apostoli szolgálatban azt a helyet, amelyet Júdás hűtlenül elhagyott, hogy az őt megillető helyre kerüljön.” Ezután sorsot vetettek. A sors Mátyásra esett, így őt a tizenegy apostolhoz sorolták.",
+  "cite": "ApCsel 1,15-17.20-26"
+ }
+}

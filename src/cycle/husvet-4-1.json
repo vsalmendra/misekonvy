@@ -1,0 +1,32 @@
+{
+ "key": "husvet-4-1",
+ "source_date": "2026-04-27",
+ "rank": "",
+ "day": "húsvét 4. hét hétfő",
+ "psalm": {
+  "cite": "Zsolt 41,2-3;42,3.4",
+  "response": "Istent szomjazza lelkem: az élő Istent.",
+  "verses": [
+   "Vagy: Alleluja. 4, szám\nMint szarvasgím a források vizére,\núgy sóvárog utánad a lelkem, Istenem.\nLelkem szomjazik az Isten után, † az élő Isten után,\nmikor mehetek, hogy megjelenjek az Isten színe előtt?",
+   "Vagy: Alleluja.\nKüldd el világosságodat és hűségedet,\nhogy azok vezessenek szent hegyedre és a te hajlékodba.\nOdalépek Isten oltárához, † örömöm Istenéhez,\nciteraszóval magasztallak téged, én Uram, Istenem.",
+   "Vagy: Alleluja."
+  ]
+ },
+ "alleluia": {
+  "text": "Jézus mondja: „Én vagyok a jó Pásztor. Ismerem enyéimet, és ők ismernek engem.”",
+  "cite": "Jn 10,14"
+ },
+ "gospel": {
+  "book": "Szent János",
+  "summary": "Jézus övéinek jó pásztora és üdvözítője.",
+  "text": "Abban az időben így szólt Jézus:\n\n„Bizony, bizony, mondom nektek: Aki nem a kapun megy be a juhok aklába, hanem máshol, az tolvaj és rabló. Aki viszont az ajtón megy be, az a juhok pásztora. Az őr ajtót nyit neki, a juhok pedig hallgatnak szavára. Nevükön szólítja juhait, és kivezeti őket. Miután mind kivezette, előttük halad, és a juhok követik, mert ismerik a hangját. Az idegent nem követik, sőt elfutnak tőle, mert az idegen hangját nem ismerik.”\n\nJézus ezt a hasonlatot mondta nekik, de ők nem értették meg, hogy miről beszél.\n\nJézus ezért így folytatta: „Bizony, bizony, mondom nektek: Én vagyok az ajtó a juhok számára. Akik előttem jöttek, azok tolvajok és rablók. Nem is hallgattak rájuk a juhok. Én vagyok az ajtó: aki rajtam keresztül megy be, az üdvözül, ki- és bejár, s legelőre talál. A tolvaj csak azért jön, hogy lopjon, öljön és pusztítson. Én azért jöttem, hogy életük legyen, és bőségben legyen.”",
+  "cite": "Jn 10,1-10 \"A\" évben: Jn 10,11-18"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "az Apostolok Cselekedeteiből",
+  "summary": "Isten minden népet meghív a keresztény életre.",
+  "text": "Amikor az apostolok és a júdeai testvérek megtudták, hogy a pogányok is befogadták Isten igéjét, a Jeruzsálembe visszatérő Pétert néhányan a kereszténnyé lett zsidók közül szemrehányással illették: „Te olyan embereket látogattál meg, és olyanokkal étkeztél együtt, akik nem tartják meg a mózesi törvény előírásait.”\n\nPéter erre hozzáfogott és szép sorjában elbeszélte nekik az eseményeket:\n\n„Joppé városában tartózkodtam és imádkoztam, amikor elragadtatásban látomásom volt. Valami lepedőféle ereszkedett le négy csücskénél fogva az égből egészen elém. Amikor jól szemügyre vettem, szárazföldi négylábú állatokat, vadakat, csúszómászókat és égi madarakat láttam benne. Egyúttal hangot is hallottam, amely így szólított meg: »Péter, kelj föl, öld meg és egyél belőle!« De én szabadkoztam: »Szó se lehet róla. Uram, hiszen közönséges vagy tisztátalan ételt sohasem vettem a számba.« Ekkor a mennyei hang másodszor is megszólalt: »Amiről Isten úgy nyilatkozott, hogy tiszta, azt te ne tartsd tisztátalannak!« Ez háromszor megismétlődött, azután az egész fölemelkedett az égbe.\n\nAkkor nyomban három férfi állt meg a ház előtt, ahol laktam. Cezáreából küldték őket hozzám. A Szentlélek felszólított, hogy habozás nélkül tartsak velük. Velem jött hat testvér is, és így tértünk be Kornéliusz házába. Ő aztán elmondta, hogy házában angyal jelent meg neki, és felszólította: »Küldj Joppéba! Hívasd el Simont, más néven Pétert! Ő olyan tanítást hirdet neked, amely által üdvözülsz te és egész házad népe.«\n\nAlighogy beszélni kezdtem nekik, leszállt rájuk a Szentlélek, akárcsak kezdetben mireánk. Eszembe jutottak az Úr szavai, amikor így szólt: »János csak vízzel keresztelt, ti ellenben a Szentlélekben fogtok megkeresztelkedni.« Ha tehát Isten ugyanazt az ajándékot adta nekik, mint nekünk, akik hiszünk Jézus Krisztusban, ki vagyok én, hogy akadályt gördítsek Isten útjába?”\n\nEnnek hallatára a tanítványok lecsillapodtak, és dicsőítették Istent: „Így hát a pogányoknak is megadta Isten az örök életre vezető bűnbánatot!”",
+  "cite": "ApCsel 11,1-18"
+ }
+}

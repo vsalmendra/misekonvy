@@ -1,0 +1,41 @@
+{
+ "key": "evkozi-12-vas-A",
+ "source_date": "2026-06-21",
+ "rank": "",
+ "day": "Évközi 12. vasárnap",
+ "psalm": {
+  "cite": "Zsolt 68,8-10.14 és 17.33-35",
+  "response": "Uram, hallgass meg engem, nagy irgalmasságod szerint.",
+  "verses": [
+   "A gyalázatot érted viselem,\narcomat érted borítja szégyen.\nTestvéreim előtt idegenné lettem,\nanyám fiai sem ismernek reám.",
+   "A házadért való buzgóság emészt engem,\nrám hull a gyalázat, ha téged gyaláznak.\nDe én hozzád imádkozom, Uram,\nkegyelmed idején, Istenem.",
+   "Mérhetetlen jóságodban hallgass meg,\nhűséged szerint segíts rajtam.\nHallgass meg, Uram, hisz kegyelmed jóságos,\nirgalmad bőségében tekints reám.",
+   "Az alázatosak látják ezt és örülnek,\nkeressétek Istent, és szívetek újra éled.\nMert az Úr meghallgat minden szegényt,\nés foglyait nem hagyja magukra.",
+   "Dicsérje őt az ég, a föld és a tenger,\nés bennük minden élőlény."
+  ]
+ },
+ "alleluia": {
+  "text": "„Az igazság Lelke majd tanúságot tesz rólam”, mondja az Úr, „és ti is tanúságot tesztek rólam”.",
+  "cite": "Jn 15,26b.27a"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Ne féljetek azoktól, akik a testet ölik meg!",
+  "text": "Abban az időben Jézus ezt mondta apostolainak:\n\nNe féljetek az emberektől! Nincs rejtett dolog, amelyre fény ne\n\nderülne, sem titok, amely ki ne tudódnék. Amit én sötétben mondok\n\nnektek, azt ti mondjátok el világosban: és amit fülbe súgva hallotok,\n\nhirdessétek a háztetőkön!\n\nÉs ne féljetek azoktól, akik a testet megölik, de a lelket nem tudják\n\nmegölni. Inkább attól féljetek, aki a lelket is, a testet is a pokolba\n\ntaszíthatja.\n\nEgy fillérért ugye két verebet adnak? És mégsem hull a földre egy se\n\nközülük Atyátok tudta nélkül? Nektek pedig minden szál hajatokat számon\n\ntartják! Ne féljetek hát: sokkal többet értek ti a verebeknél!\n\nHa valaki megvall engem az emberek előtt, én is megvallom őt Atyám\n\nelőtt, aki a mennyekben van. De ha valaki megtagad engem az emberek\n\nelőtt, én is megtagadom őt Atyám előtt, aki a mennyekben van.",
+  "cite": "Mt 10,26-33"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Jeremiás próféta könyvéből",
+  "summary": "Megszabadította a szegénynek lelkét a gonoszok kezéből.",
+  "text": "Jeremiás próféta így panaszkodik szenvedése idején:\n\nHallom sokak gyalázkodását:\n\n„Rettegés mindenütt!\n\nJelentsétek föl! Följelentjük!”\n\nMég azok is, akik barátaim voltak,\n\nbukásomra lestek:\n\n„Hátha valamiképp tőrbe csalhatnánk, legyőzhetnénk,\n\nés bosszút állhatnánk rajta.”\n\nDe az Úr, mint hős harcos, mellettem áll.\n\nEllenfeleim meginognak, s nem bírnak velem,\n\nszégyent vallnak és elbuknak.\n\nÖrökké tartó, soha el nem múló gyalázatban lesz részük.\n\nTe pedig, Seregek Ura, igazságos Bíró,\n\naki a vesék és szívek vizsgálója vagy,\n\nengedd, hadd lássam, miként állsz rajtuk bosszút,\n\nmert eléd tártam ügyemet.\n\nÉnekeljetek az Úrnak! Dicsőítsétek az Urat,\n\nmert kiszabadította a szegénynek lelkét\n\na gonoszok kezéből.",
+  "cite": "Jer 20,10-13"
+ },
+ "reading2": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a rómaiakhoz írt leveléből",
+  "summary": "A kegyelem hatása nem olyan, mint a bűnbeesésé.",
+  "text": "Testvéreim!\n\nA bűn egy ember által lépett a világba, és a bűn\n\nkövetkezményeként a halál. Így a halál minden ember osztályrésze lett,\n\nmert mindnyájan bűnbe estek.\n\nVolt a világon bűn a mózesi törvény előtt is, de a bűn, ha nincs\n\ntörvény, nem számít bűnnek. Ám a halál mégis uralkodott Ádámtól Mózesig azokon is, akik nem vétkeztek mint Ádám, aki az Eljövendőnek\n\nelőképe.\n\nA kegyelem hatása azonban nem olyan, mint a bűnbeesésé. Mert ha\n\negynek bűnbeesése miatt sokan meghaltak, Isten kegyelme és az egy\n\nembernek, Jézus Krisztusnak irgalmából nyert ajándék még inkább kiárad\n\nsokakra.",
+  "cite": "Róm 5,12-15"
+ }
+}

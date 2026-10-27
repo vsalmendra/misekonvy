@@ -1,0 +1,33 @@
+{
+ "key": "nagybojt-4-1",
+ "source_date": "2026-03-16",
+ "rank": "",
+ "day": "4. nagyböjti hét hétfő",
+ "psalm": {
+  "cite": "Zsolt 29,2 és 4.5-6.11 és 12a és 13b",
+  "response": "Dicsőítelek téged, Uram, mivel megmentettél engem.",
+  "verses": [
+   "(2a. vers. - 6. tónus)\nDicsőítelek téged, Uram, † mivel megmentettél engem,\nnem engedted, hogy ellenségeim ujjongjanak rajtam.\nUram, lelkemet kihoztad a halál országából,\néletben tartottál, nehogy sírba szálljak.",
+   "Zsoltárt zengjetek az Úrnak, ti, az ő szentjei,\nés dicsérjétek az ő szent nevét,\nmert haragja csak egy pillanat,\nde jósága végigkísér egész életünkön.\nHa este meglátogat is a sírás,\nreggelre az öröm visszatér.",
+   "Meghallgatott az Úr, és megkönyörült rajtam,\naz Úr lett az én segítségem.\nSírásomat örömre fordítottad,\nUram, Istenem, magasztallak mindörökké."
+  ]
+ },
+ "alleluia": {
+  "text": "A jót keressétek és ne a rosszat, hogy éljetek, és az Úr veletek marad.",
+  "cite": "Vö. Ám 5,14",
+  "lent": true
+ },
+ "gospel": {
+  "book": "Szent János",
+  "summary": "A királyi tisztviselő fiának meggyógyítása.",
+  "text": "Egy alkalommal Jézus Szamariából Galileába ment. Jóllehet maga mondta, hogy a prófétának nincs becsülete saját hazájában, mégis, midőn Galileába érkezett, az ottaniak szívesen fogadták. Látták ugyanis mindazt, amit Jézus az ünnepek alkalmából Jeruzsálemben cselekedett, mert ők is ott voltak az ünnepeken.\n\nÍgy jutott el Jézus újra a galileai Kánába, ahol a vizet borrá változtatta.\n\nÉlt Kafarnaumban egy királyi tisztviselő, akinek a fia megbetegedett. Amikor meghallotta, hogy Jézus Júdeából Galileába érkezett, elment hozzá, és kérte: jöjjön és gyógyítsa meg a fiát. A gyermek már halálán volt.\n\nJézus ezt mondta: „Hacsak jeleket és csodákat nem láttok, nem hisztek.” A királyi tisztviselő azonban így szólt: „Uram, jöjj, mielőtt meghalna a fiam!” Jézus erre azt felelte: „Menj csak! Fiad él.”\n\nHitt az ember Jézus szavának, és elment. Még útban volt hazafelé, amikor eléje futottak szolgái, és kijelentették, hogy a fia él. Megkérdezte tőlük: „Melyik órában lett jobban?” Ezt mondták: „Tegnap déltájban hagyta el a láz.” Az apa visszaemlékezett, hogy abban az órában mondta neki Jézus: „Fiad él.” Erre hitt ő maga, és vele egész házanépe.\n\nEz volt Jézus második csodája, amelyet Júdeából Galileába jövet művelt (az ünnepek után).",
+  "cite": "Jn 4,43-54"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Izajás próféta könyvéből",
+  "summary": "Isten a régi, bűnös népet újjá, bűntelenné akarja teremteni.",
+  "text": "Az újjáteremtésről prófétája által szól az Úr:\n\nÍme, új eget és új földet teremtek;\n\na régi feledésbe merül, és eszébe se jut többé senkinek.\n\nÖrüljetek és ujjongjatok mindörökké azon,\n\namit majd teremtek!\n\nMert Jeruzsálemet „Öröm”-nek teremtem,\n\nés népét „Ujjongás”-nak.\n\nÖrömöm telik majd Jeruzsálemben,\n\nés ujjongani fogok népemen.\n\nNem hallatszik többé benne sem sírás, sem jajkiáltás.\n\nNem lesz ott többé olyan gyermek,\n\naki csak néhány napig él;\n\nsem öreg ember,\n\naki nem töltené be élete napjait.\n\nMert a legfiatalabb is százéves korában hal meg;\n\ns aki nem éri meg a századik évét, az már átkozottnak számít.\n\nAki házat épít, ő maga lakik benne;\n\naki szőlőt ültet, ő maga élvezi gyümölcsét.",
+  "cite": "Iz 65,17-21"
+ }
+}

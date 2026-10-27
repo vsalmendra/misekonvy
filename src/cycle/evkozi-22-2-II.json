@@ -1,0 +1,33 @@
+{
+ "key": "evkozi-22-2-II",
+ "source_date": "2026-09-01",
+ "rank": "",
+ "day": "22. évközi hét kedd",
+ "psalm": {
+  "cite": "Zsolt 144,8-9.10-11.12-13ab.13cd-14",
+  "response": "Igazságos az Isten minden végzésében.",
+  "verses": [
+   "Irgalmas az Úr és kegyelmes,\nnagy irgalmú és hosszan tűrő.\nAz Úr mindenkihez jóságos,\nés irgalmas minden művéhez.",
+   "Magasztaljon téged, Uram, minden műved,\nszentjeid áldást mondjanak.\nOrszágod dicsőségéről szóljanak,\nés hatalmadat mindenek hirdessék.",
+   "Hirdessék az emberek hatalmas tetteid,\nkirályságod fölséges dicsőségét.\nA te országod örökkévaló ország,\nuralmad megmarad nemzedékről nemzedékre.",
+   "Hűséges az Úr minden szavában,\nés tettei szentnek hirdetik.\nAz Úr a botladozót fenntartja,\nés fölemeli, akit megaláztak."
+  ]
+ },
+ "alleluia": {
+  "text": "Nagy próféta támadt köztünk: Isten meglátogatta az ő népét.",
+  "cite": "Lk 7,16"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Jézus Kafarnaumban tanít, és meggyógyít egy megszállottat.",
+  "text": "Jézus egyszer lement Kafarnaumba, Galilea egyik városába, és szombaton ott tanított. Tanítása ámulatba ejtett mindenkit, mert szavának hatalma volt.\n\nVolt ott a zsinagógában egy tisztátalan lélektől megszállt ember, aki így kiáltozott: „El innen! Mi dolgunk veled, názáreti Jézus? Azért jöttél, hogy elveszíts minket? Tudom, ki vagy: az Isten Szentje.” Jézus ráparancsolt: „Némulj el, és menj ki belőle!” Erre az ördög a földre sújtotta az embert, és kiment belőle, anélkül hogy bajt okozott volna neki.\n\nCsodálkozás fogta el valamennyiüket, és egymás közt ezt mondogatták: „Mi ez? Akkora hatalommal és erővel parancsol a tisztátalan lelkeknek, hogy kimennek a megszállottakból.”\n\nEnnek híre elterjedt az egész környéken.",
+  "cite": "Lk 4,31-37"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a korintusiakhoz írt első leveléből",
+  "summary": "A földi gondolkodású ember nem érti meg Isten bölcsességét, míg a lelki ember mindent Isten bölcsessége szerint ítél.",
+  "text": "Testvéreim!\n\nA Szentlélek mindent megismer, még Isten mélységeit is. Ki ismeri az ember belső dolgait, ha nem az ember lelke, amely benne van? Hasonlóképpen Isten titkait sem ismeri senki, csak Isten Lelke. Mi nem a világ lelkét kaptuk, hanem az Istentől származó Szentlelket, hogy megismerjük, amit Isten kegyelemből nekünk ajándékozott.\n\nEzeket hirdetjük, de nem az emberi bölcsesség tudós szavaival, hanem ahogy a Szentlélek tanítja – lelki embereknek lelkieket nyújtva. Az érzéki ember nem fogja fel, ami Isten Lelkéből ered. Oktalanságnak tűnik előtte, és nem képes megérteni, mert lelkileg kellene azt elbírálnia. A lelki ember mindent el tud bírálni, de őt nem tudják helyesen megítélni. „Vajon ki látta át az Úr gondolatait, hogy oktathatná őt?” Mi azonban megkaptuk Krisztus gondolatainak ismeretét.",
+  "cite": "1Kor 2,10b-16"
+ }
+}

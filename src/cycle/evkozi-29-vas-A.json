@@ -1,0 +1,40 @@
+{
+ "key": "evkozi-29-vas-A",
+ "source_date": "2026-10-18",
+ "rank": "",
+ "day": "Évközi 29. vasárnap – Missziós vasárnap",
+ "psalm": {
+  "cite": "Zsolt 95,1.3.4-5.7-8.9-10a.c",
+  "response": "Adjatok az Úrnak dicsőséget, ismerjétek el hatalmát.",
+  "verses": [
+   "Énekeljetek az Úrnak új éneket,\nminden föld az Úrnak énekeljen.\nHirdessétek dicsőségét a nemzetek között,\nés csodatetteit minden népnek.",
+   "Mert nagy az Úr, és minden dicséretre méltó,\nfélelmetesebb az összes isteneknél.\nA népek minden istene csak üres semmiség,\naz Úr azonban az ég alkotója.",
+   "Népek családjai, adjatok az Úrnak,\nadjatok az Úrnak dicsőséget és hatalmat.\nIsmerjétek el az Úr nevének dicsőségét,\náldozatot hozva lépjetek udvarába.",
+   "Boruljatok le az Úr előtt,\nszíne előtt rendüljön meg az egész föld.\nMondjátok a nemzeteknek: „Az Úr uralkodik,\nigazságban ítéli meg a népeket."
+  ]
+ },
+ "alleluia": {
+  "text": "Úgy ragyogjatok, mint csillagok a mindenségben, és tartsátok meg az örök élet igéit.",
+  "cite": "Vö. Fil 2,15d-16a"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Adjátok meg a császárnak, ami a császáré, az Istennek pedig, ami az Istené.",
+  "text": "Abban az időben:\n\nA farizeusok félrevonultak és megtanácskozták, hogyan tudnának belekötni Jézus szavaiba. Majd odaküldték hozzá tanítványaikat és a Heródes-pártiakat a következő kérdéssel: „Mester! Tudjuk, hogy igazat beszélsz, és az Isten útját az igazsághoz híven tanítod, és nem vagy tekintettel az emberek személyére. Mondd hát meg nekünk, mi a véleményed: Szabad-e adót fizetni a császárnak vagy nem?” De Jézus felismerte gonoszságukat és így szólt hozzájuk: „Miért kísértetek, ti képmutatók! Mutassátok csak meg az adópénzt!” Aztán megkérdezte tőlük: „Kinek a képe és a felirata ez?” Azok azt felelték: „A császáré.” Erre ő így szólt hozzájuk: „Akkor hát adjátok meg a császárnak, ami a császáré – az Istennek pedig, ami az Istené!” Ennek hallatára elcsodálkoztak, otthagyták őt, és elmentek.",
+  "cite": "Mt 22,15-21"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Izajás próféta könyvéből",
+  "summary": "Megfogtam Kürosz jobbját, hogy színe előtt meghódolásra bírjam a nemzeteket.",
+  "text": "Az Úr így szól fölkentjéhez, Küroszhoz, akinek megfogja jobbját, hogy színe előtt meghódolásra bírja a nemzeteket, és megoldja a királyok derekán az övet; hogy megnyissa előtte a kapukat, és ne maradjon egyetlen kapu se zárva: „Szolgámért, Jákobért, és választottamért, Izraelért szólítottalak neveden.\n\nDicső nevet adtam neked, bár nem ismertél. Én vagyok az Úr, és senki más. Rajtam kívül nincs más Isten.\n\nBár nem ismersz, mégis felövezlek, hogy napkelettől napnyugatig megtudják: rajtam kívül nincsen más. Én vagyok az Úr, és senki más.”",
+  "cite": "Iz 45,1.4-6"
+ },
+ "reading2": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a tesszaloniki hívekhez írt első leveléből",
+  "summary": "Megemlékezünk hitetekről, szeretetekről és reményetekről.",
+  "text": "Pál, Szilvánusz és Timóteus a tesszalonikiek egyházának az Atyaistenben és Urunkban, Jézus Krisztusban: Kegyelem nektek és békesség!\n\nMindenkor hálát adunk Istennek mindnyájatokért, ahányszor csak megemlékezünk rólatok imádságainkban. Szüntelen gondolunk Istenünk és Atyánk előtt tevékeny hitetekre, áldozatos szeretetetekre és Urunkba, Jézus Krisztusba vetett szilárd reményetekre. Testvéreim, kiket az Úr szeret! Jól tudjátok, hogy választottak vagytok! Hiszen az evangéliumot nem csak szóval hirdettük köztetek, hanem erővel, Szentlélekkel és mélységes meggyőződéssel!",
+  "cite": "1Tessz 1,1-5b"
+ }
+}

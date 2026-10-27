@@ -1,0 +1,33 @@
+{
+ "key": "husvet-2-2",
+ "source_date": "2026-04-14",
+ "rank": "",
+ "day": "Húsvét 2. hét kedd",
+ "psalm": {
+  "cite": "Zsolt 92,1ab.1c-2.5",
+  "response": "Király az Úr, a mi Istenünk, az Úr fölségbe öltözik.",
+  "verses": [
+   "Vagy: Alleluja. 5 szám.\nAz Úr országol, királyi fölségbe öltözött, † az Úr fölségbe Öltözött,\nfelövezte magát hatalommal.",
+   "Vagy: Alleluja.\nMegerősítette a földet, hogy meg ne inogjon, † Öröktől fogva vagy te, Uram,\nszilárdan áll trónod kezdet óta.",
+   "Vagy: Alleluja.\nBizonyságaid valóban igazak, † Uram, szentség illeti házadat,\nmost és mindörökké.",
+   "Vagy: Alleluja."
+  ]
+ },
+ "alleluia": {
+  "text": "Magasba kell emeltetnie az Emberfiának, hogy örökké éljen minden őbenne hívő.",
+  "cite": "Jn 3,15"
+ },
+ "gospel": {
+  "book": "Szent János",
+  "summary": "Senki sem ment föl a mennybe, csak az, aki a mennyből alászállott: az Emberfia, Jézus Krisztus.",
+  "text": "Abban az időben: Nikodémus éjnek idején felkereste Jézust, aki így szólt hozzá:\n\n„Ne csodálkozzál, hogy azt mondtam neked: újjá kell születnetek! A szél ott fúj, ahol akar: hallod ugyan a zúgását, de nem tudod, honnan jön, és hová megy, így van ez mindenkivel, aki a Lélekből született.”\n\nErre Nikodémus megkérdezte: „Hogyan lehetséges ez?” Jézus így válaszolt neki: „Te Izrael népének tanítója vagy, és nem érted ezeket? Bizony, bizony, mondom neked, hogy arról beszélünk, amit tudunk; és arról tanúskodunk, amit látunk. De a mi tanúságtételünket nem fogadjátok el. Ha földi dolgokról beszélek nektek és azt sem hiszitek el, hogyan fogjátok elhinni, ha mennyei dolgokról beszélek majd nektek?\n\nSenki sem ment föl a mennybe, csak az, aki a mennyből alászállott: az Emberfia. És amint Mózes felemelte a kígyót a pusztában, úgy fogják felmagasztalni az Emberfiát is, hogy mindaz, aki hisz benne, el ne vesszen, hanem örökké éljen.”",
+  "cite": "Jn 3,7b-15"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "az Apostolok Cselekedeteiből",
+  "summary": "Az őskeresztény Egyház tagjainak példamutató élete.",
+  "text": "A hívők sokaságának egy volt a szíve-lelke. Egyikük sem mondta vagyonát a saját tulajdonának, hanem mindenük közös volt. Az apostolok pedig nagy erővel tettek tanúságot Urunknak, Jézusnak feltámadásáról, és nagy kegyelem munkálkodott mindnyájukban.\n\nNem is akadt közöttük szűkölködő, mert akinek földje vagy háza volt, eladta, és az érte kapott pénzt elhozta, és az apostolok elé tette. Mindenkinek adtak belőle, kinek-kinek a szükséghez mérten.\n\nJózsef, a ciprusi származású levita, akit az apostolok Barnabásnak neveztek el – ami azt jelenti, hogy a vigasztalás fia –, eladta földjét, és árát az apostolok lába elé tette.",
+  "cite": "ApCsel 4,32-37"
+ }
+}

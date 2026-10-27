@@ -1,0 +1,39 @@
+{
+ "key": "fix-12-08",
+ "source_date": "2025-12-08",
+ "rank": "FÜ",
+ "day": "A Boldogságos Szűz Mária szeplőtelen fogantatása – FÜ",
+ "psalm": {
+  "cite": "Zsolt 97,1.2-3ab.3cd-4",
+  "response": "Énekeljetek az Úrnak új éneket, mert csodás dolgokat művelt.",
+  "verses": [
+   "Zengjetek az Úrnak új éneket,\ncsodálatra méltó, amit művelt.\nDiadalt aratott jobbjával,\ngyőzelmet szentséges karjával.",
+   "Az Úr megmutatta szabadító erejét,\nigazságosságát feltárta a népek előtt.\nEmlékezetébe idézte jóságát és hűségét\nIzrael népe iránt.",
+   "Meglátta a föld minden határa,\nszabadulást Istenünk hozott nekünk.\nMinden földek, zengjetek az Úrnak öröméneket,\nujjongjatok és zsoltárt mondjatok."
+  ]
+ },
+ "alleluia": {
+  "text": "Üdvöz légy, Mária, kegyelemmel teljes, az Úr van véled, áldottabb vagy te minden asszonynál.",
+  "cite": "Lk 1,28"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Üdvöz légy, kegyelemmel teljes! Az Úr veled van.",
+  "text": "Abban az időben:\n\nIsten elküldte Gábor angyalt Galilea Názáret nevű városába egy szűzhöz, aki jegyese volt egy férfinak, a Dávid házából való Józsefnek. A szűz neve Mária volt. Az angyal belépett hozzá és így szólt: „Üdvöz légy, kegyelemmel teljes! Az Úr veled van! Áldottabb vagy te minden asszonynál!” Ennek hallatára Mária zavarba jött, és gondolkodóba esett, hogy miféle köszöntés ez.\n\nAz angyal azonban folytatta: Ne félj, Mária! Hisz kegyelmet találtál Istennél! Mert íme, gyermeket fogansz méhedben és fiút szülsz, s Jézusnak fogod őt nevezni! Nagy lesz ő: a Magasságbeli Fiának fogják hívni. Az Úristen neki adja atyjának, Dávidnak trónját. Uralkodni fog Jákob házán mindörökké, és uralmának soha nem lesz vége!\n\nMária ekkor megkérdezte az angyalt: „Hogyan történhet meg ez, amikor én férfit nem ismerek?” Az angyal ezt válaszolta neki: „A Szentlélek száll le rád, és a Magasságbeli ereje borít be árnyékával. Ezért szent lesz az, ki tőled születik: Isten Fiának fogják őt hívni. Lásd, rokonod, Erzsébet is gyermeket fogant öregségében, sőt, már a hatodik hónapban van, bár magtalannak tartják az emberek. Istennél semmi sem lehetetlen.”\n\nErre Mária így szólt: „Íme, az Úr szolgálóleánya: történjék velem szavaid szerint!”\n\nEzután az angyal eltávozott.",
+  "cite": "Lk 1,26-38"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "a Teremtés könyvéből",
+  "summary": "Ellenségeskedést vetek közéd és az asszony közé, a te ivadékod és az ő ivadéka közé.",
+  "text": "Az (első) ember és felesége a bűn elkövetése után elrejtőztek az Édenkert fái között. De az Úristen hívta az embert, és így szólt hozzá: „Hol vagy?”\n\nŐ így válaszolt: „Hallottam lépteidet a kertben, s féltem, mert mezítelen vagyok, tehát elrejtőztem.”\n\nDe Isten így szólt: „Ki adta tudtodra, hogy mezítelen vagy? Talán ettél a fáról, amelyről megtiltottam, hogy egyél?”\n\nAz ember így válaszolt: „Az asszony, akit mellém rendeltél, ő adott nekem a fáról, ezért ettem.”\n\nAz Úristen megkérdezte az asszonyt: „Mit tettél?” Az asszony így felelt: „A kígyó vezetett félre, azért ettem.”\n\nAz Úristen így szólt a kígyóhoz: „Mivel ezt tetted, átkozott leszel minden állat és a mező minden vadja között. Hasadon csúszol, és a föld porát eszed életed minden napján. Ellenkezést vetek közéd és az asszony közé, a te ivadékod és az ő ivadéka közé. Az (ő ivadéka) széttiporja fejedet, te pedig a sarkát mardosod.”\n\nAz ember Évának nevezte feleségét, mert ő lett minden élő anyja.",
+  "cite": "Ter 3,9-15.20"
+ },
+ "reading2": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak az efezusiakhoz írt leveléből",
+  "summary": "Isten Krisztusban választott ki minket a világ teremtése előtt, hogy fogadott fiakká legyünk.",
+  "text": "Testvéreim!\n\nÁldott legyen az Isten, Urunk, Jézus Krisztus Atyja, aki Lelkének minden mennyei áldásával megáldott minket Krisztus által. Őbenne választott ki minket a világ teremtése előtt, hogy szentek és feddhetetlenek legyünk színe előtt. Szeretetből eleve arra rendelt minket, hogy akaratának tetszése szerint Jézus Krisztus által fogadott fiakká legyünk, és magasztaljuk fölséges kegyelmét, amellyel szeretett Fiában jóságosan megajándékozott minket.\n\nŐbenne nyertük el mi is az örökséget annak rendelése szerint, aki mindent szabad elhatározásából tesz. Szolgáljunk hát fölsége dicsőségére, mi, akik már korábban is Krisztusba vetettük reményünket.",
+  "cite": "Ef 1,3-6.11-12"
+ }
+}

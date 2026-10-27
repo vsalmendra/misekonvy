@@ -1,0 +1,33 @@
+{
+ "key": "evkozi-15-6-II",
+ "source_date": "2026-07-18",
+ "rank": "",
+ "day": "15. évközi hét szombat",
+ "psalm": {
+  "cite": "Zsolt 9,22-23.24-25.28-29.35",
+  "response": "Ne feledkezzél el a szegényekről, mi Urunk, Istenünk!",
+  "verses": [
+   "Uram, miért vagy olyan messze,\nmiért rejtőzöl el a nyomorúság válságos napjaiban?\nGyötri a a szegényt a kevély gonosz,\nde belehull tervei tőrébe.",
+   "A gonosz dicsekszik bűnös vágyaival,\na kapzsi önmagát magasztalja.\nElbizakodottságában a bűnös semmibe veszi az Urat:\n„Nem kéri számon, hisz úgy sincsen Isten!”",
+   "Telve a szája átokkal, álnoksággal és csalárdsággal,\nnyelve bajt okoz és nyomorúságot.\nLeshelyén ül az utak mentén,\nhogy titokban ártatlanok vérét ontsa.",
+   "Uram, te ezt látod, † te minden kínt és könnyet számon tartasz,\nezeket a te kezed utoléri.\nRád hagyatkozik az elhagyatott,\naz árvának te vagy segítője."
+  ]
+ },
+ "alleluia": {
+  "text": "Isten kiengesztelődött Krisztusban a bűnös világgal, és ránk bízta a kiengesztelődés hirdetését.",
+  "cite": "2Kor 5,19"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Jézus meghagyta azoknak, akiket meggyógyított, hogy róla mint Messiásról még ne beszéljenek.",
+  "text": "A fél kezére béna ember szombat napon történt meggyógyítása után a farizeusok kivonultak a zsinagógából, és maguk között arról tanakodtak, hogyan okozhatnák Jézus vesztét. Jézus tudta ezt, ezért eltávozott onnét.\n\nSokan azonban utána mentek, és ő valamennyiüket meggyógyította, de megtiltotta nekik, hogy nyíltan beszéljenek róla. Így beteljesedett Izajás próféta jövendölése:\n\n„Ez az én szolgám, akit kiválasztottam, szeretett fiam, akiben kedvem telik.\n\nKiárasztom rá lelkemet, és ítéletet hirdet a nemzeteknek.\n\nNem vitatkozik, és nem kiabál; szavát sem hallják a tereken.\n\nA megroppant nádszálat nem töri el, a pislákoló mécsbelet nem oltja ki, míg csak győzelemre nem viszi az igazságot. Az ő nevében bíznak a nemzetek.”",
+  "cite": "Mt 12,14-21"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Mikeás próféta könyvéből",
+  "summary": "Isten megbünteti a kapzsi erőszakoskodókat.\n\nEzeknek nincs helyük az Úr közösségében.",
+  "text": "Isten prófétája így figyelmezteti népét: „Jaj, azoknak, akik álnokságot és gaztetteket terveznek fekvőhelyükön, és kora reggel végrehajtják, mert van hozzá hatalmuk!\n\nMegkívánják és elrabolják a mezőket, a házakat is elveszik, kihasználják az embert és házát, őt magát és birtokát.”\n\nAzért ezt mondja az Úr: „Most én tervezek rosszat e nemzetség ellen, nem húzhatjátok ki belőle nyakatokat, és nem járhattok kevélyen, mert gonosz idő lesz az!\n\nAzon a napon gúnydalt költenek, és siratóéneket mondanak rólatok, amely így szól:\n\n»Végünk van, el kell vesznünk!\n\nNépünk öröksége gazdát cserél!\n\nJaj, elveszik tőlünk, és bitorlók közt osztják szét mezeinket!«\n\nEzért nem is lesz senki, aki az Úr gyülekezetében kimérje neked osztályrészedet.”",
+  "cite": "Mik 2,1-5"
+ }
+}

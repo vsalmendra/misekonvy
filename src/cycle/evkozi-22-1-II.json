@@ -1,0 +1,32 @@
+{
+ "key": "evkozi-22-1-II",
+ "source_date": "2026-08-31",
+ "rank": "",
+ "day": "22. évközi hét hétfő",
+ "psalm": {
+  "cite": "Zsolt 118,97-102",
+  "response": "Törvényedet szívből szeretem, én Uram, Istenem.",
+  "verses": [
+   "Mennyire szeretem törvényedet, Uram,\negész nap azon elmélkedem.\nMily bölccsé tett parancsolatod ellenségem ellen is,\nmert az az enyém már örökre.",
+   "Minden tanítómnál okosabb lettem,\nmert mindig intelmeidről elmélkedem.\nMeghaladja értelmem a vénekét,\nmert parancsaidat megtartom.",
+   "Minden gonosz úttól távol tartom lábamat,\nhogy megtarthassam szavadat.\nMeghozott ítéleteidtől sosem hajlok el,\nte magad tanítottál rájuk."
+  ]
+ },
+ "alleluia": {
+  "text": "Az Úr lelke van rajtam: elküldött, hogy a szegényeknek örömhírt vigyek.",
+  "cite": "Lk 4,18"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Jézus fellépésével megkezdődött a megváltás kegyelmi ideje, de lakóhelyén ezt nehezen értették meg.",
+  "text": "Abban az időben Jézus elment Názáretbe, ahol (egykor) nevelkedett. Szokása szerint bement szombaton a zsinagógába, és olvasásra jelentkezett. Izajás próféta könyvét adták oda neki. Szétbontotta a tekercset, és éppen arra a helyre talált, ahol ez volt írva: „Az Úr Lelke van rajtam. Fölkent engem és elküldött, hogy örömhírt vigyek a szegényeknek, s hirdessem a foglyoknak a szabadulást, a vakoknak a látást, hogy szabaddá tegyem az elnyomottakat, és hirdessem: elérkezett az Úr esztendeje.”\n\nÖsszetekerte az írást, átadta a szolgának, és leült. A zsinagógában minden szem rászegeződött. Ő pedig elkezdte beszédét: „Ma beteljesedett az írás, amelyet az imént hallottatok.” Mindenki helyeselt neki, és csodálkozott a fönséges szavakon, amelyek ajkáról fakadtak. „De hát nem József fia ez?” – kérdezgették.\n\nEkkor így szólt hozzájuk: „Biztosan ezt a mondást szegezitek majd nekem: »Orvos, gyógyítsd önmagadat!« A nagy tetteket, amelyeket – mint hallottuk – Kafarnaumban végbevittél, tedd meg a hazádban is!” Majd így folytatta:\n\n„Bizony, mondom nektek, hogy egy próféta sem kedves a maga hazájában. Igazán mondom nektek, sok özvegy élt Izraelben Illés idejében, amikor az ég három évre és hat hónapra bezárult, úgyhogy nagy éhínség támadt az egész földön. De közülük egyikhez sem kapott Illés küldetést, csak a szidoni Cáreftában élő özvegyasszonyhoz. Ugyanígy Elizeus próféta korában is sok leprás élt Izraelben, s egyikük sem tisztult meg, csak a szíriai Námán.”\n\nEzt hallva, a zsinagógában mind haragra gerjedtek. Felugrottak, kiűzték őt a városon kívülre, és fölvezették arra a hegyre, amelyen városuk épült, a szakadék szélére, hogy letaszítsák. De ő áthaladt közöttük, és eltávozott.",
+  "cite": "Lk 4,16-30"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a korintusiakhoz írt első leveléből",
+  "summary": "Amikor Szent Pál az evangéliumot hirdeti, a megfeszített Krisztusról tesz tanúságot.",
+  "text": "Testvéreim!\n\nAmikor nálatok jártam, nem választékos beszéddel vagy emberi bölcsességgel akartam hirdetni nektek Isten titkát. Elhatároztam ugyanis, hogy nem akarok másról tudni köztetek, csak Jézus Krisztusról, a megfeszítettről.\n\nGyöngeségem tudatában félve és nagyon elfogódva mentem hozzátok. Tanításom és igehirdetésem ezért nem a bölcsesség elragadó szavaiból állt, hanem a lélek és az erő bizonyságából, hogy hiteteknek ne emberi bölcsesség, hanem Isten ereje legyen az alapja.",
+  "cite": "1Kor 2,1-5"
+ }
+}

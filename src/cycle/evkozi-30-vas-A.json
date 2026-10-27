@@ -1,0 +1,39 @@
+{
+ "key": "evkozi-30-vas-A",
+ "source_date": "2026-10-25",
+ "rank": "",
+ "day": "Évközi 30. vasárnap",
+ "psalm": {
+  "cite": "Zsolt 17,2-3a.3bc-4.47 és 51ab",
+  "response": "Szeretlek, Uram, Istenem, én erősségem.",
+  "verses": [
+   "Szeretlek, Uram, Istenem,\nén erősségem.\nMenedékem és sziklaváram,\nszabadítóm te vagy, Uram.",
+   "Istenem, segítőm, akiben remélek,\noltalmazóm, pártfogóm és üdvöm ereje.\nAz Úrhoz kiáltok, aki dicséretre méltó,\nés megszabadulok ellenségeimtől.",
+   "Él az Úr, az én áldott segítőm,\nlegyen dicsőség üdvöm Istenének.\nFelmagasztalta királyát, győzelmet adott néki,\nirgalmas volt fölkentjéhez."
+  ]
+ },
+ "alleluia": {
+  "text": "Jézus mondja: Aki szeret engem, megfogadja szavamat, Atyám is szeretni fogja, és hozzá költözünk.",
+  "cite": "Jn 14,23"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Szeresd az Urat, a te Istenedet, és felebarátodat, mint saját magadat.",
+  "text": "Abban az időben: Amikor a farizeusok meghallották, hogy Jézus hogyan hallgattatta el a szadduceusokat, köréje gyűltek és egyikük, egy törvénytudó alattomos szándékkal a következő kérdést tette fel neki: „Mester, melyik a legfőbb parancs a törvényben?” Jézus így válaszolt: „Szeresd az Urat, a te Istenedet teljes szíveddel, teljes lelkeddel és egész értelmeddel. Ez az első és legfőbb parancsolat. A második hasonló ehhez: Szeresd felebarátodat, mint saját magadat. E két parancson nyugszik az egész törvény és a próféták.”",
+  "cite": "Mt 22,34-40"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Mózes második könyvéből",
+  "summary": "Ha az özvegyet és árvát sanyargatjátok, fellobban ellenetek haragom.",
+  "text": "Ezt mondja az Úr: Az idegent ne használd ki és ne nyomd el, hiszen ti is idegenek voltatok Egyiptomban.\n\nAz özvegyet és árvát ne sanyargassátok. Ha sanyargatjátok őket, s ők hozzám kiáltanak, meghallom panaszukat, és fellobban haragom. Kard által veszítelek el benneteket, hogy asszonyaitok özvegyek, gyermekeitek árvák legyenek.\n\nHa a népemből való szegénynek, aki közötted él, pénzt kölcsönzöl, ne viselkedj vele szemben uzsorás módjára. Ne követelj tőle kamatot. Ha embertársad köntösét zálogba veszed, napszálltakor add vissza neki.\n\nHisz ez az egyetlen takarója, amelybe beburkolja testét. Különben mivel takarózna? Ha hozzám kiált, meghallgatom, mert irgalmas vagyok.",
+  "cite": "Kiv 22,20-26"
+ },
+ "reading2": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a tesszaloniki hívekhez írt első leveléből",
+  "summary": "Elfordultatok a bálványoktól, hogy az Istennek szolgáljatok és várjátok a mennyből az ő Fiát.",
+  "text": "Testvéreim!\n\nMindnyájan tudjátok, hogy hogyan viselkedtünk körötökben a ti szolgálatotokra. Ti pedig az Úr és a mi követőink lettetek. A tanítást a sok nehézség ellenére is a Szentlélek örömével fogadtátok, és így Makedóniában és Ahájában minden hívőnek példaképei lettetek. Istenbe vetett hitetek mindenütt ismertté vált, ezért nem is kell róla beszélnünk. Az emberek maguktól mondják el, hogyan fogadtatok minket, hogyan fordultatok a bálványoktól az Istenhez, hogy az élő és igaz Istennek szolgáljatok és várjátok a mennyből Fiát, Jézust, akit a halálból feltámasztott, s aki megment minket az eljövendő haragtól.",
+  "cite": "1Tessz 1,5c-10"
+ }
+}

@@ -1,0 +1,39 @@
+{
+ "key": "fix-03-19",
+ "source_date": "2026-03-19",
+ "rank": "FÜ",
+ "day": "Szent József, a Boldogságos Szűz Mária jegyese – FÜ",
+ "psalm": {
+  "cite": "Zsolt 88,2-3.4-5.27.29",
+  "response": "Dávid ivadéka fennmarad mindörökké.",
+  "verses": [
+   "Az Úr irgalmáról énekelek örökkön örökké,\nhűségedet nemzedékről nemzedékre hirdeti ajkam,\nígy szóltál: † „Irgalmam szilárdan áll mindörökké.”\nValóban, a te hűséged erős, miként a mennybolt.",
+   "Választottammal szövetséget kötöttem,\nmegesküdtem szolgámnak, Dávidnak.\nMegerősítem ivadékodat örökre,\nés megszilárdítom trónodat nemzedékről nemzedékre.",
+   "Így szólít engem: „Atyám vagy nékem,\nIstenem és üdvöm sziklája.”\n„Irgalmam iránta örökké megmarad,\nszövetségem hűsége nem szűnik meg.”"
+  ]
+ },
+ "alleluia": {
+  "text": "Boldogok, akik házadban élnek, Istenem! Mindörökké dicsérnek téged.",
+  "cite": "Zsolt 83,5"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "József úgy cselekedett, ahogy az Úr angyala parancsolta neki.",
+  "text": "Dávid utódai közül Jákobtól született József, aki jegyese volt Máriának, Jézus Krisztus szülőanyjának.\n\nJézus Krisztus születése pedig így történt: Anyja, Mária jegyese volt Józsefnek. Mielőtt azonban egybekeltek volna, Mária gyermeket fogant méhében a Szentlélektől. Férje, József igaz ember volt, nem akarta őt megszégyeníteni. Ezért úgy határozott, hogy titokban bocsátja el. Míg ezen töprengett, megjelent neki álmában az Úr angyala, és így szólt: „József, Dávid fia, ne félj attól, hogy feleségül vedd Máriát, mert a benne fogant élet a Szentlélektől van. Fiad születik majd, akit Jézusnak nevezel, mert ő váltja meg népét bűneitől!”\n\nAmikor József felébredt álmából, úgy cselekedett, amint az Úr angyala megparancsolta neki.",
+  "cite": "Mt 1,16.18-21.24a vagy Lk 2,41-51a"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Sámuel második könyvéből",
+  "summary": "Úristen neki adja atyjának, Dávidnak trónját. (Lk 1,32)",
+  "text": "Amikor Dávid király elhatározta, hogy Jeruzsálemben templomot épít az Úrnak, még akkor éjszaka az Úr szózatot intézett Nátán prófétához: „Menj, és mondd meg szolgámnak, Dávidnak:\n\nEzt mondja az Úr:\n\nHa majd napjaid betelnek és megtérsz atyáidhoz, megtartom a magvadból származó utódodat, és megszilárdítom királyságát. Ő házat épít nevemnek, én meg minden időre megszilárdítom királyi trónját. Én az ő atyja leszek, ő pedig az én fiam.\n\nHázad és királyságod örökre fennmarad színem előtt, trónod örökké szilárd marad.”",
+  "cite": "2Sám 7,4-5a.12-14a.16"
+ },
+ "reading2": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a rómaiakhoz írt leveléből",
+  "summary": "A reménytelenségben is reménykedve hitt.",
+  "text": "Testvéreim!\n\nAz az ígéret, hogy Ábrahám utódai öröklik a világot, nem a mózesi törvénnyel, hanem a hitből fakadó megigazulással kapcsolatban hangzott el.\n\nAzért a hittel kapcsolatban, hogy kegyelemből legyen. Így lett az ígéret minden utód számára biztos, nemcsak azok számára, akik alá vannak vetve a törvénynek, hanem azok számára is, akik Ábrahám hitéből valók. Nekik mindnyájuknak atyja ő Isten előtt, amint az írás mondja róla: „Sok nép atyjává rendeltelek.” Mert hitt abban, aki életre kelti a halottakat, és létet ad a nemlétezőknek. A reménytelenségben is reménykedve hitte, hogy sok nép atyja lesz, Isten ígérete szerint: „Nagy lesz a te nemzetséged.”\n\nEz szolgált megigazulására.",
+  "cite": "Róm 4,13.16-18.22"
+ }
+}

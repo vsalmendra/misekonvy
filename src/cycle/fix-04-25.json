@@ -1,0 +1,33 @@
+{
+ "key": "fix-04-25",
+ "source_date": "2026-04-25",
+ "rank": "Ü",
+ "day": "Szent Márk evangélista – Ü",
+ "psalm": {
+  "cite": "Zsolt 88,2-3.6-7.16-17",
+  "response": "Hadd énekeljem örökké Urunknak irgalmas jóságát.",
+  "verses": [
+   "Vagy: Alleluja. 6. szám.\nA Úr irgalmáról éneklek örökkön örökké,\nhűségedet nemzedékről nemzedékre hirdeti ajkam.\nÍgy szóltál: † „Irgalmam szilárdan áll mindörökké.”\nValóban, a te hűséged erős, miként a mennybolt.",
+   "Vagy: Alleluja.\nMagasztalják csodás tetteidet az egek, Uram,\na szentek közösségében pedig hűségedet.\nA fellegekben van-e az Úrhoz hasonló,\naz Isten fiai között ki mérhető az Úrhoz?",
+   "Vagy: Alleluja.\nBoldog a nép, amely tud ünnepelni,\naz ilyen arcod fényében járhat, Uram.\nEgész nap örvendeznek nevednek,\nés felmagasztalja őket igazságod.",
+   "Vagy: Alleluja."
+  ]
+ },
+ "alleluia": {
+  "text": "Mi a megfeszített Krisztust hirdetjük, Isten erejét és Isten bölcsességét!",
+  "cite": "1Kor 1,23-24"
+ },
+ "gospel": {
+  "book": "Szent Márk",
+  "summary": "Menjetek el az egész világra és hirdessétek az evangéliumot!",
+  "text": "Abban az időben Jézus megjelent a Tizenegynek, és így szólt hozzájuk:\n\n„Menjetek el az egész világra, és hirdessétek az evangéliumot minden teremtménynek! Aki hisz és megkeresztelkedik, az üdvözül, aki nem hisz, az elkárhozik. A híveket ezek a jelek fogják kísérni: A nevemben ördögöket űznek ki, új nyelveken beszélnek, kígyókat vehetnek a kezükbe, és ha valami mérget isznak, nem árt nekik. Ráteszik a kezüket a betegekre, és azok meggyógyulnak.”\n\nAz Úr Jézus, miután ezeket elmondta nekik, felvétetett a mennybe, és helyet foglalt az Isten jobbján. Ők pedig elmentek, és mindenütt hirdették az evangéliumot. Az Úr együtt munkálkodott velük, és az igehirdetést megerősítette a jelek által, amelyek kísérték őket.",
+  "cite": "Mk 16,15-20"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent Péter apostol első leveléből",
+  "summary": "Köszönt titeket Márk.",
+  "text": "Szeretteim!\n\nEgymás iránt valamennyien legyetek alázatosak, mert Isten a kevélyeknek ellenáll, az alázatosaknak azonban kegyelmet ad. Alázkodjatok meg az Isten hatalmas keze alatt, hogy annak idején felmagasztaljon titeket. Minden gondotokat hagyjátok Őreá, mert neki gondja van rátok. Józanok legyetek és virrasszatok! Ellenségetek, a sátán, ordító oroszlán módjára ott kószál mindenütt, és keresi, kit nyeljen el. Erősen álljatok ellen neki a hitben! A minden kegyelem Istene pedig, aki Krisztus Jézusban az ő örök dicsőségére hívott meg minket, rövid szenvedés után ő maga fog majd bennünket tökéletesíteni, megerősíteni és megszilárdítani. Őneki legyen dicsőség és uralom mindörökkön örökké. Ámen.\n\nSzilvánus által, akit hűséges testvérnek tartok, röviden írtam nektek, hogy buzdítsalak titeket és bizonyítsam, hogy ez az Isten kegyelme, amelyben éltek.\n\nKöszönt titeket a veletek együtt kiválasztott egyház itt Babilonban, fiammal, Márkkal együtt. Köszöntsétek egymást szent csókkal. Békesség nektek, akik Krisztusban éltek.",
+  "cite": "1Pét 5,5b-14"
+ }
+}

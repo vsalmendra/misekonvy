@@ -1,0 +1,33 @@
+{
+ "key": "evkozi-3-4-II",
+ "source_date": "2026-01-29",
+ "rank": "",
+ "day": "3. évközi hét csütörtök",
+ "psalm": {
+  "cite": "Zsolt 131,1-2.3-5.11.12.13-14",
+  "response": "Néki adja Urunk, Istenünk, atyjának, Dávidnak trónját.",
+  "verses": [
+   "Emlékezz meg, Uram, Dávidról,\nés arról, hogy mennyit buzgólkodott,\nmert az Úrnak megesküdött,\nfogadalmat tett Jákob erős Istenének:",
+   "„Nem lépek addig házam belsejébe\nés nem lépek nyugvóhelyemhez,\nnem engedem szunnyadni szememet,\nnem hunyom álomra szempillámat,\nmíg nem találok az Úrnak lakóhelyet,\nhajlékot Jákob erős Istenének.”",
+   "Esküt tett az Úr Dávidnak, † igaz esküjét nem vonja vissza:\n„Véredből származó utódot ültetek trónodra.\nHa megtartják szövetségemet fiaid és a parancsokat, melyekre tanítom őket,\nakkor még az ő fiaik is trónodon ülnek mindörökre.”",
+   "Az Úr kiválasztotta Siont magának,\nezt kívánta lakóhelyül:\n„Nyugalmam helye ez lesz örökre,\nitt fogok lakni, ez a kívánságom.”"
+  ]
+ },
+ "alleluia": {
+  "text": "Lámpás a te igéd lábam előtt, és ösvényem világossága.",
+  "cite": "Zsolt 118,105"
+ },
+ "gospel": {
+  "book": "Szent Márk",
+  "summary": "Keresztény életünk példájával világítanunk kell embertársainknak.",
+  "text": "Egy alkalommal Jézus így beszélt hallgatóihoz: „Vajon azért gyújtanak-e lámpát, hogy a véka alá vagy az ágy alá rejtsék? Nem azért-e, hogy a lámpatartóra tegyék? Semmi sincs elrejtve, hacsak nem azért, hogy nyilvánosságra jusson; és semmi sem történik titokban, hacsak nem azért, hogy napfényre kerüljön. Akinek füle van a hallásra, hallja meg!”\n\nMajd így folytatta: „Figyeljetek arra, amit hallotok! Amilyen mértékkel mértek, olyan mértékkel mérnek majd nektek is. Sőt ráadást is adnak hozzá. Mert akinek van, még kap; akinek pedig nincs, attól még azt is elveszik, amije van.”",
+  "cite": "Mk 4,21-25"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Sámuel második könyvéből",
+  "summary": "Dávid király köszönete az Úrnak családja kiválasztásáért.",
+  "text": "Nátán próféta közölte Dáviddal az isteni ígéretet családja örök fennmaradásáról. Ekkor Dávid király az Úr elé járult, és így imádkozott:\n\n„Ki vagyok én, Uram, Istenem, és mi az én (királyi) házam, hogy engem ilyen magasra emeltél? Sőt még ez is kevésnek látszott előtted, Uram, Istenem, azért hosszú időre szóló ígéretet tettél szolgád házának. Ilyen sokra becsültél engem az emberek sorában, Uram, Istenem?\n\nVálasztott népedet biztosítottad, hogy mindörökre néped lesz, mivel te, Uram, az ő Istenük lettél.\n\nNos tehát, Uram, Istenem, teljesítsd mindörökre ígéretedet, amelyet szolgádnak és házának tettél! Tégy úgy, ahogy előre mondottad, hogy magasztalják nevedet mindörökké, és hirdessék: Izrael Istene a Seregek Ura! S akkor szolgádnak, Dávidnak háza állandó lesz színed előtt.\n\nSeregek Ura, Izrael Istene! Te nyilatkoztattad ki szolgádnak a szót: Házat építek neked. Azért volt olyan bátor a szolgád, hogy ezzel az imádsággal fordult hozzád.\n\nNos tehát, Uram, Istenem, te mindenható vagy, és szavad valóra válik. Hiszen te ígérted szolgádnak mindezt a jót. Láss tehát hozzá, és áldd meg szolgád házát, hogy fennmaradjon előtted mindörökké! Hiszen a te szavad ez, Uram, Istenem, és áldásod fogja kísérni szolgád házát mindörökké.”",
+  "cite": "2Sám 7,18-19.24-29"
+ }
+}

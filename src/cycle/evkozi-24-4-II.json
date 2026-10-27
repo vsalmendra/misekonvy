@@ -1,0 +1,33 @@
+{
+ "key": "evkozi-24-4-II",
+ "source_date": "2026-09-17",
+ "rank": "",
+ "day": "24. évközi hét csütörtök",
+ "psalm": {
+  "cite": "Zsolt 117,1-2.16ab-17.28",
+  "response": "Adjatok hálát az Úrnak, mert jóságos hozzánk!",
+  "verses": [
+   "Vagy: Alleluja. 6. szám.\nAdjatok hálát az Úrnak, mert jó,\nmivel irgalma örökké megmarad.\nMondja Izrael háza, hogy jó az Isten,\nmivel irgalma örökké megmarad.",
+   "Vagy: Alleluja.\nAz Úr jobb keze erősnek bizonyult:\naz Úrnak jobbja fölemelt engem.\nNem halok meg, hanem élek,\nés hirdetem az Úr nagy tetteit.",
+   "Vagy: Alleluja.\nHálát adok néked, te vagy Istenem,\nmagasztallak, Istenem, téged.",
+   "Vagy: Alleluja."
+  ]
+ },
+ "alleluia": {
+  "text": "Jöjjetek hozzám mindnyájan, akik fáradtak vagytok, és terhek alatt görnyedtek: Én felüdítlek titeket – mondja a mi Urunk.",
+  "cite": "Mt 11,2"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Jézus a legnagyobb bűnösnek is megbocsát őszinte bűnbánatáért.",
+  "text": "Abban az időben:\n\nEgy farizeus meghívta Jézust, hogy étkezzék nála. Betért hát a farizeus házába, és ott asztalhoz ült. Élt a városban egy bűnös nő. Amikor megtudta, hogy Jézus a farizeus házában van vendégségben, alabástrom edényben illatos olajat hozott. Megállt hátul Jézus lábánál. Sírt, könnyeivel öntözte Jézus lábát, majd hajával megtörölte, és csókolgatta. Végül pedig megkente illatos olajjal.\n\nEnnek láttára a vendéglátó farizeus így szólt magában: „Ha ez próféta volna, tudná, hogy ki és miféle, aki érinti őt: hogy ez egy bűnös nő.” Jézus akkor hozzáfordult: „Simon, mondanék neked valamit.” Az így válaszolt: „Mester, beszélj!”\n\n„Egy hitelezőnek két adósa volt. Az egyik ötszáz dénárral tartozott neki, a másik ötvennel. Nem volt miből fizetniük, hát elengedte tartozását mindkettőnek. Melyikük szereti most jobban?”\n\n„Úgy gondolom az, akinek többet engedett el – felelte Simon. „Helyesen ítéltél” – válaszolta Jézus.\n\nMajd az asszony felé fordulva így szólt Simonhoz: „Látod ezt az asszonyt? Betértem házadba, s te nem adtál vizet a lábamra. Ez viszont könnyeivel öntözte a lábamat, és hajával törölgette. Csókot sem adtál nekem, ez meg szüntelenül csókolgatja lábamat, amióta csak bejött. Aztán te nem kented meg fejemet olajjal. Ez meg kenetet öntött a lábamra.\n\nAzt mondom hát neked, sok bűne bocsánatot nyert, mert nagyon szeretett. Akinek keveset bocsátanak meg, az kevésbé szeret.” Aztán így szólt az asszonyhoz: „Bocsánatot nyertek bűneid. Menj békével!”",
+  "cite": "Lk 7,36-50"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a korintusiakhoz írt első leveléből",
+  "summary": "Az apostolok ugyanazt az evangéliumot hirdetik, hogy ugyanabban a Krisztusban higgyünk.",
+  "text": "Testvéreim!\n\nFigyelmetekbe ajánlom az evangéliumot, amelyet hirdettem nektek. Elfogadtátok, és szilárdan kitartotok benne. Általa elnyeritek az üdvösséget, ha megtartjátok úgy, ahogy hirdettem nektek. Különben hiába lettetek volna hívőkké.\n\nElsősorban azt hagytam rátok, amit magam is kaptam: Krisztus meghalt bűneinkért, az írás szerint; eltemették és harmadnap feltámadt, ismét az írás szerint. Megjelent Péternek, majd a tizenkettőnek. Később egyszerre több mint ötszáz testvérnek is megjelent. Ezek közül a legtöbben még élnek, néhányan azonban már meghaltak. Azután megjelent Jakabnak, majd az összes apostolnak. Utánuk pedig, mint egy elvetéltnek, megjelent nekem is.\n\nÉn ugyanis az utolsó vagyok az apostolok között, s arra sem méltó, hogy apostolnak hívjanak, hiszen üldöztem az Isten egyházát. De Isten kegyelméből vagyok az, ami vagyok, s rám árasztott kegyelme nem maradt bennem hatástalan. Többet dolgoztam mindegyiküknél, igaz ugyan, hogy nem én, hanem az Isten kegyelme, amely velem van.\n\nMindegy tehát, hogy én vagy ők: ugyanazt hirdetjük, s így lettetek hívőkké.",
+  "cite": "1Kor 15,1-11"
+ }
+}

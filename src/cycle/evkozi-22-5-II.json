@@ -1,0 +1,33 @@
+{
+ "key": "evkozi-22-5-II",
+ "source_date": "2026-09-04",
+ "rank": "",
+ "day": "22. évközi hét péntek",
+ "psalm": {
+  "cite": "Zsolt 36,3-6.27-28.39-40",
+  "response": "Te vagy, Urunk, Istenünk, az igazak üdvössége.",
+  "verses": [
+   "Bízzál az Úrban és a jót cselekedd,\nígy lakhatsz a földeden és biztonságban élhetsz.\nAz Úrban legyen örömed,\nés ő teljesíti szíved vágyait.",
+   "Bízd sorsodat az Úrra, benne remélj,\nés ő gondoskodik rólad.\nIgazságodat napfényre hozza,\nmint a déli nap, úgy ragyog igazad.",
+   "Fordulj el a rossztól, és a jót cselekedd,\nés megmaradsz örökkön örökké,\nmert az Úr az igazságot kedveli,\nés nem hagyja cserben híveit.",
+   "Az Úrtól van az igazak üdvössége,\nő oltalmazza őket a szorongatás idején.\nSegítőjük és szabadítójuk az Úr, † megmenti a bűnösöktől, és üdvözíti őket,\nmivel őbenne bíztak."
+  ]
+ },
+ "alleluia": {
+  "text": "Én vagyok a világ világossága – mondja az Úr, aki engem követ, övé lesz az élet világossága.",
+  "cite": "Jn 8,12"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Az új tanítás, amelyet Jézus hozott, nem mérhető a régi mértékkel.",
+  "text": "Egy alkalommal a farizeusok és írástudók így szóltak Jézushoz: „János tanítványai gyakran böjtölnek és imádkoznak, és ugyanígy a farizeusok tanítványai is; a tieid azonban csak esznek-isznak.” Jézus így felelt nekik: „Csak nem foghatjátok böjtre a násznépet, amíg vele van a vőlegény? Eljön az idő, amikor elviszik a vőlegényt: akkor majd böjtölnek.”\n\nPéldabeszédet is mondott nekik: „Senki sem hasít ki új ruhából foltot, hogy ócska ruhára tegye. Hiszen így az újat is elszakítja, és az ócska ruhára sem illik az új folt. Senki sem tölt új bort régi tömlőkbe, mert az új bor szétszakítja a tömlőket; a bor kiömlik, és a tömlők is tönkremennek. Az új bor új tömlőbe való: akkor mindkettő megmarad. Aki óbort iszik, nem kívánja az újat, mert azt mondja: »Jobb az óbor.«”",
+  "cite": "Lk 5,33-39"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a korintusiakhoz írt első leveléből",
+  "summary": "Istené az ítélkezés, mert ő ismeri a szívek szándékait.",
+  "text": "Testvéreim!\n\nÚgy tekintsenek minket az emberek, mint Krisztus szolgáit és Isten titkainak intézőit. Az intézőktől azt kívánják, hogy hűségesek legyenek.\n\nA magam részéről nem törődöm azzal, hogy ti vagy más emberi bíróság hogyan ítélkezik fölöttem, hiszen én még önmagam felett sem ítélkezem. Nem érzem ugyan magamat semmiben sem bűnösnek, de ez még nem jelenti azt, hogy igaz vagyok: az Úr mond fölöttem ítéletet.\n\nNe ítélkezzetek hát időnap előtt, amíg el nem jön az Úr. Ő majd megvilágítja a sötétség titkait, és feltárja a szívek szándékait. Akkor mindenki megkapja az elismerést Istentől.",
+  "cite": "1Kor 4,1-5"
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "key": "fix-12-26",
+ "source_date": "2025-12-26",
+ "rank": "Ü",
+ "day": "Szent István első vértanú – Ü",
+ "psalm": {
+  "cite": "Zsolt 30,3cd-4.6 és 8ab.16bc és 17",
+  "response": "Én Uram, én Istenem, kezedbe ajánlom lelkemet.",
+  "verses": [
+   "Légy oltalmazó sziklaváram és megerősített házam,\nhogy megszabadíts engem!\nErősségem és menedékem te vagy nékem,\nnevedért vezess és irányíts engem!",
+   "Kezedbe ajánlom lelkemet,\nmegváltottál engem, Uram, igazság Istene.\nUjjongok és örvendezem irgalmasságod miatt,\nmert kicsiny voltomat tekintetre méltattad.",
+   "Ragadj ki az ellenség kezéből,\nés azoktól, akik üldöznek engem.\nRagyogjon föl arcod szolgád fölött,\nirgalmasságodban szabadíts meg engem."
+  ]
+ },
+ "alleluia": {
+  "text": "Áldott, aki az Úr nevében közeleg, Isten az Úr, és reánk árasztja fényét.",
+  "cite": "Zsolt 117,6a.27a"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Nem ti fogtok beszélni, hanem Atyátok Lelke fog szólni belőletek.",
+  "text": "Abban az időben Jézus így szólt tanítványaihoz: Legyetek óvatosak az emberekkel szemben, mert bíróság elé állítanak, zsinagógáikban pedig megostoroznak benneteket. Miattam helytartók és királyok elé hurcolnak, hogy tanúságot tegyetek előttük és a pogányok előtt. Amikor átadnak benneteket a bíróságnak, ne töprengjetek, hogyan és mit mondjatok. Abban az órában megadatik majd nektek, hogy hogyan beszéljetek. Hiszen nem ti fogtok beszélni, hanem Atyátok Lelke szól majd belőletek. Halálra adja akkor a testvér a testvérét, az apa a gyermekét, a gyermekek pedig szüleik ellen támadnak, hogy vesztüket okozzák. Miattam mindenki gyűlölni fog titeket. De aki állhatatos marad mindvégig, az üdvözül.",
+  "cite": "Mt 10,17-22"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "az Apostolok Cselekedeteiből",
+  "summary": "Látom a megnyílt eget és az Emberfiát!",
+  "text": "Abban az időben:\n\nIstván kegyelemmel és erővel eltelve csodákat és jeleket művelt a nép körében. Erre a libertinusok, cireneiek, alexandriaiak, kilikiaiak és ázsiaiak zsinagógáiból némelyek ellene támadtak, és vitatkozni kezdtek Istvánnal. De bölcsességével és a Lélekkel szemben, amellyel beszélt, nem tudtak helytállni.\n\nMiközben hallgatták, haragra gyulladtak, és a fogukat vicsorgatták ellene. Ő azonban a Szentlélekkel eltelve fölnézett az égre, látta az Isten dicsőségét, és Jézust az Isten jobbján. Felkiáltott: „Látom a megnyílt eget, és az Emberfiát, ahogy az Isten jobbján áll!” Erre ordítozni kezdtek, és befogták fülüket. Egy akarattal rárontottak, kivonszolták a városból, és megkövezték. A tanúk egy Saul nevű ifjú lábához rakták le a ruháikat.\n\nMiközben megkövezték, István így imádkozott: „Uram, Jézus, vedd magadhoz lelkemet!” Majd térdre esett, és hangosan felkiáltott: „Uram, ne ródd fel nekik bűnül!” Amint ezt kimondta, halálba szenderült.",
+  "cite": "ApCsel 6,8-10;7,54-59"
+ }
+}

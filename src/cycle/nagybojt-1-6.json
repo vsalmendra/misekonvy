@@ -1,0 +1,33 @@
+{
+ "key": "nagybojt-1-6",
+ "source_date": "2026-02-28",
+ "rank": "",
+ "day": "1. nagyböjti hét szombat",
+ "psalm": {
+  "cite": "Zsolt 118,1-2.4-5.7-8",
+  "response": "Boldogok, akik Isten útján járnak, és törvényét követik.",
+  "verses": [
+   "Boldogok, akiknek útja szeplőtlen:\nakik az Úr törvényét követik.\nBoldogok, akik rendelését megtartják,\nőt keresik teljes szívvel.",
+   "Azt parancsoltad nekünk,\nhogy hűségesen megtartsuk törvényedet.\nBárcsak arra vezetnének útjaim,\nhogy megtartsam, amit parancsoltál.",
+   "Hálát adok neked tiszta szívből,\nmert megtanultam igaz végzéseidet.\nMegtartom, amit elrendeltél,\nne hagyj el soha engemet."
+  ]
+ },
+ "alleluia": {
+  "text": "Most van itt az alkalmas idő, most van itt az üdvösség napja.",
+  "cite": "2Kor 6,2b",
+  "lent": true
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Jézus tanítása szerint ellenségeinket is szeretnünk kell.",
+  "text": "A hegyi beszédben Jézus így szólt tanítványaihoz:\n\n„Hallottátok a (régi) parancsot: »Szeresd felebarátodat és gyűlöld ellenségedet!« Én pedig ezt mondom nektek: Szeressétek ellenségeiteket! Tegyetek jót azokkal, akik gyűlölnek titeket! Imádkozzatok azokért, akik üldöznek és gyaláznak titeket, hogy gyermekei legyetek mennyei Atyátoknak, aki fölkelti napját jókra és gonoszakra, és esőt ad mind az igazaknak, mind a bűnösöknek.\n\nHa ugyanis csak azokat szeretitek, akik titeket szeretnek, ugyan mi lesz a jutalmatok? Nem teszik meg ezt a vámosok is? És ha csak a testvéreiteknek köszöntök, mi az, amivel többet tesztek? Nem teszik meg ezt a pogányok is?\n\nTi legyetek olyan tökéletesek, mint amilyen tökéletes a ti mennyei Atyátok!”",
+  "cite": "Mt 5,43-48"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Mózes ötödik könyvéből",
+  "summary": "Isten szent népének mindenki tagja lehet, ha teljes szívvel vállalja az isteni parancsok megtartását.",
+  "text": "Mózes felolvasta az Úr törvényeit,\n\nés így oktatta a választott nép fiait:\n\nMa azt parancsolja neked Urad és Istened,\n\nhogy mind e szavát s rendeletét teljesítsd.\n\nTeljes szívedből és lelkedből tartsd meg tehát azokat!\n\nTe itt ma Istenednek ismerted el az Urat.\n\nMegígérted, hogy megtartod szent parancsait,\n\nrendeleteit és ősi szertartásait,\n\nés mindig engedelmeskedsz neki.\n\nAz Úr pedig ma téged választott, hogy népe légy.\n\nÍgérte, hogy ha híven megtartod parancsait,\n\nminden nemzetnél\n\n– amelyeket saját dicsőségére és hírnevére alkotott –\n\ndicsőbbé tesz téged,\n\nhogy szent népe légy:\n\naz Úrnak, a te Istenednek ígérete szerint.",
+  "cite": "MTörv 26,16-19"
+ }
+}

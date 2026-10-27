@@ -1,0 +1,33 @@
+{
+ "key": "evkozi-28-1-II",
+ "source_date": "2026-10-12",
+ "rank": "",
+ "day": "28. évközi hét hétfő",
+ "psalm": {
+  "cite": "Zsolt 112,1-7",
+  "response": "Legyen áldott örökkön örökké Urunk, Istenünk szent neve!",
+  "verses": [
+   "Vagy: Alleluja. 2. szám.\nDicsérjétek az Urat, ti, szolgái,\ndicsérjétek az Úr nevét!\nLegyen áldott az Úr neve\nmost és mindörökké!",
+   "Vagy: Alleluja.\nDicsértessék az Úr neve,\nnapkelettől napnyugatig.\nFölséges az Úr minden nép fölött,\ndicsősége magasabb az egeknél.",
+   "Vagy: Alleluja.\nKi hasonlítható Istenünkhöz, az Úrhoz,\naki trónjáról tekint alá égre és földre?\nAz elhagyottat a porból magához vonja,\nfölemeli a szegényt a sárból.",
+   "Vagy: Alleluja."
+  ]
+ },
+ "alleluia": {
+  "text": "Bár hallgatnátok ma Isten szavára! Ne legyetek többé keményszívűek!",
+  "cite": "Zsolt 94,8ab"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "A legnagyobb csoda az, hogy Jézus jelen van köztünk.",
+  "text": "Egyszer Jézus köré sereglett a csodaváró tömeg, de ő így szólt hozzájuk:\n\n„Ez a nemzedék gonosz nemzedék. Csodajelet követel, de nem kap más jelet, mint Jónás próféta jelét. Ahogy Jónás jel volt a niniveieknek, úgy lesz az Emberfia is jel ennek a nemzedéknek.\n\nAz ítéleten majd ezzel a nemzedékkel együtt megjelenik Dél királynője is, és helyeselni fogja elítélésüket, hiszen ő a föld végéről is eljött, hogy hallgathassa Salamon bölcsességét; itt pedig nagyobb valaki van, mint Salamon.\n\nNinive lakói is ott lesznek az ítéleten ezzel a nemzedékkel együtt, és helyeselni fogják a megbüntetését, mert ők Jónás szavára bűnbánatot tartottak; itt pedig nagyobb valaki van, mint Jónás.”",
+  "cite": "Lk 11,29-32"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a galatákhoz írt leveléből",
+  "summary": "A krisztusi szabadságra születtünk, és nem a bűn rabságára.",
+  "text": "Testvéreim!\n\nA Szentírás szerint Ábrahámnak két fia volt. Az egyiknek anyja szolgáló volt, a másiké szabad asszony. A szolgáló fia pusztán a természet rendje szerint született, a szabad asszony fia azonban Isten ígérete alapján.\n\nElőkép volt ez, amelynek ez az értelme: A két asszony a két szövetséget jelenti (az Ószövetséget és az Újszövetséget). Az Ószövetség a Sínai-hegynél jött létre: gyermekei szolgaságra születtek. Ezt jelképezi Ágár, a szolgáló. Ezzel szemben (Sára), a szabad asszony a mennyei Jeruzsálemet (az Egyházat) jelképezi. Ez a mi anyánk. Róla áll, amit a Szentírás mond:\n\nÖrvendj, ha nincs is fiad, ujjongj és kiálts, ha nem is adtál életet!\n\nMert több a gyermeke a magányosnak, mint akinek férje van.\n\nMi tehát, testvéreim, szabadságra születtünk, és nem szolgaságra, A szabadságot Krisztus szerezte meg nekünk. Álljatok tehát szilárdan, és ne hagyjátok magatokat újra a szolgaság igájába hajtani!",
+  "cite": "Gal 4,22-24.26-27.31-5,1"
+ }
+}

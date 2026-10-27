@@ -1,0 +1,33 @@
+{
+ "key": "dec-17",
+ "source_date": "2025-12-17",
+ "rank": "",
+ "day": "Adventi köznapok - december 17.",
+ "psalm": {
+  "cite": "Zsolt 71,2.3-4ab,7-8.17",
+  "response": "(A Messiáskirály) napjaiban az igazság virága nyílik, és teljes béke lesz a világ végéig.",
+  "verses": [
+   "Istenem, ítéletedet add át a királynak:\nés igazságodat a király fiának,\nhogy igazságosan ítélkezzék népeden,\nés méltányosan minden szegényen.",
+   "A hegyek hozzanak békét a népnek,\nés a halmok Igazságot.\nA nép szegényeit igazságban ítéli,\na szűkölködők fiait szabaddá teszi.",
+   "Napjaiban virágzik az igazság és a teljes béke,\nmíg csak a hold meg nem szűnik.\nUralkodik tengertől tengerig,\na Folyótól a földkerekség határáig.",
+   "Legyen áldott a neve örökké,\namíg csak világít a nap, neve fennmaradjon.\nÁldott legyen benne a föld minden népe,\nmagasztalja őt minden nemzet."
+  ]
+ },
+ "alleluia": {
+  "text": "Örök isteni Bölcsesség! Műveidben erő és szépség tündöklik. Jöjj, taníts meg minket okosan járni az élet útját!",
+  "cite": ""
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Jézus Krisztusnak, Dávid fiának származása.",
+  "text": "Jézus Krisztusnak, Dávid és Ábrahám fiának családfája. Ábrahámnak Izsák volt a fia, Izsáknak Jákob, Jákobnak Júda és testvérei, Júdának Fáresz és Zára Támártól, Fáresznek Eszróm. Eszrómnak Árám, Árámnak Aminadáb, Aminadábnak Náásszón, Náásszónnak Szalmon, Szalmonnak Bóász Ráhábtól, Bóásznak Jóbéd Ruttól, Jóbédnek Izáj, Izájnak pedig Dávid király.\n\nDávidnak Salamon volt a fia Uriás feleségétől, Salamonnak Roboám, Roboámnak Abija, Abijának Ászáf, Ászáfnak Jozafát, Jozafátnak Jórám, Jórámnak Ozijás, Ozijásnak Joatám, Joatámnak Acház, Acháznak Ezekiás, Ezekiásnak Manasszesz, Manasszesznek Ámosz, Ámosznak Joziás, Joziásnak pedig Jekoniás és testvérei a babiloni fogság idején.\n\nA babiloni fogság után: Jekoniásnak Szálátiél volt a fia, Szálátiélnek Zorobábel, Zorobábelnek Ábiud, Ábiudnak Elijakim, Elijakimnak Ázór, Ázórnak Szádok, Szádoknak Áhim, Áhimnak Eliud, Eliudnak Eleazár, Eleazárnak Mattán, Mattánnak Jákob, Jákobnak pedig József. Ő volt a férje Máriának, akitől a Krisztusnak nevezett Jézus született.\n\nÖsszesen tehát: Ábrahámtól Dávidig tizennégy nemzedék, Dávidtól a babiloni fogságig tizennégy nemzedék, és a babiloni fogságtól Krisztusig is tizennégy nemzedék.",
+  "cite": "Mt 1,1-17"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Mózes első könyvéből",
+  "summary": "Jákob megjövendöli, hogy Júda törzséből fog születni a Megváltó, aki minden nép reménységét betölti.",
+  "text": "Halálos ágyán Jákob így szólt fiaihoz: Gyűljetek körém, fiaim, és halljátok; a választott népről jövendöl atyátok! Júda, téged dicsérnek majd testvéreid, kezed ellenségeid nyakán lesz. Atyád fiai meghajolnak előtted, Júda, fiatal oroszlán, a zsákmánytól kelsz fel, fiam. Azután elnyújtózkodol, s úgy fekszel ott, mint egy oroszlán, mint egy anyaoroszlán. Ki merészelné azt háborgatni? Nem vétetik el a fejedelmi pálca Júdától, sem a vezéri bot az ő kezéből, míg el nem jön az Eljövendő, akinek a népek engedelmeskedni fognak.",
+  "cite": "Ter 49,2.8-10"
+ }
+}

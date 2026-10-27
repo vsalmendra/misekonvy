@@ -1,0 +1,33 @@
+{
+ "key": "nagybojt-5-4",
+ "source_date": "2026-03-26",
+ "rank": "",
+ "day": "5. nagyböjti hét csütörtök",
+ "psalm": {
+  "cite": "Zsolt 104,4-5.6-7.8-9",
+  "response": "Sohasem felejti az Isten az ő szövetségét.",
+  "verses": [
+   "Keressétek az Urat és hatalmas erejét,\nkeressétek arcát szüntelen.\nEmlékezzetek csodatetteire, melyeket végbevitt,\nés ajkáról elhangzó csodás döntéseire.",
+   "Ti vagytok Ábrahámnak, az ő szolgájának ivadékai,\nválasztottjának, Jákobnak fiai.\nŐ a mi Urunk és Istenünk,\nő ítélkezik az egész földön.",
+   "Örökké emlékezik szövetségére,\nezernyi nemzedéknek adott igéjére,\nmelyet Ábrahámnak adott,\nés az esküre, melyet Izsáknak esküdött."
+  ]
+ },
+ "alleluia": {
+  "text": "Bár hallgatnátok ma Isten szavára: „Népem, ne légy kemény szívű!”",
+  "cite": "Zsolt 94,8ab",
+  "lent": true
+ },
+ "gospel": {
+  "book": "Szent János",
+  "summary": "Aki Jézus tanítását megtartja, nem hal meg örökre.",
+  "text": "Egy alkalommal Jézus így beszélt a zsidókhoz: „Bizony, bizony, mondom nektek: Aki tanításomat megtartja, nem hal meg örökre.”\n\nA zsidók azt felelték: „Most már tudjuk, hogy valóban ördögtől megszállott vagy. Ábrahám meghalt, és a próféták is meghaltak. Te meg azt mondod: »Aki tanításomat megtartja, nem hal meg örökre«. Nagyobb vagy talán Ábrahám atyánknál, aki meghalt? A próféták is meghaltak. Mivé teszed magadat?”\n\nJézus így válaszolt: „Ha önmagamat dicsőíteném, az semmit nem érne. Az én Atyám az, aki megdicsőít engem. Ti Isteneteknek mondjátok őt, de nem ismeritek.\n\nÉn ismerem őt, és ha azt mondanám, hogy nem ismerem, hozzátok hasonló, hazug lennék. De én ismerem az Atyát, és megteszem, amit mond. Ősatyátok, Ábrahám ujjongott, hogy megláthatja eljövetelem napját. Látta, és örvendezett.”\n\nA zsidók erre felháborodtak: „Még ötven esztendős sem vagy, és láttad Ábrahámot?”\n\nJézus így válaszolt: „Bizony, bizony, mondom nektek: Mielőtt Ábrahám lett volna, én vagyok.”\n\nA zsidók erre köveket ragadtak, hogy megkövezzék. Jézus azonban eltűnt előlük, és kiment a templomból.",
+  "cite": "Jn 8,51-59"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Mózes első könyvéből",
+  "summary": "Az Úr Isten ismételten megígéri, hogy országának örökösei azok lesznek, akik hűségesen megtartják törvényeit.",
+  "text": "Ábrám arcra borult, Isten pedig ezt mondta neki:\n\n„Íme, ezt a szövetséget kötöm veled.\n\nSok nemzet atyja leszel.\n\nEzért ne hívjanak többé Ábrámnak,\n\nhanem Ábrahám legyen a neved,\n\nmivel sok nemzet atyjává teszlek.\n\nMegsokasítom ivadékodat, nagy néppé leszel;\n\nés királyok származnak majd tőled.\n\nSzövetséget kötök veled nemzedékről nemzedékre\n\nés utódaiddal is örök szövetséget,\n\nhogy Istene legyek neked és utódaidnak.\n\nNeked és utódaidnak adom majd azt a földet is,\n\nahol most vándorként és idegenként bujdosol;\n\nKánaánnak egész földjét népednek adom örök tulajdonul,\n\n– és Istenük leszek nekik.”\n\nMajd Ábrahámhoz így beszélt tovább az Úr:\n\n„Éppen ezért tartsd meg e szövetségemet,\n\nte és utódaid nemzedékről nemzedékre!”",
+  "cite": "Ter 17,3-9"
+ }
+}

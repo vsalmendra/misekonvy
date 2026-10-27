@@ -1,0 +1,33 @@
+{
+ "key": "nagybojt-3-6",
+ "source_date": "2026-03-14",
+ "rank": "",
+ "day": "3. nagyböjti hét szombat",
+ "psalm": {
+  "cite": "Zsolt 50,3-4.18-19.20-21ab",
+  "response": "Nem áldozatot kívánok tőled, hanem irgalmas szívet!",
+  "verses": [
+   "Könyörülj rajtam, Istenem! † Mivel irgalmas és jóságos vagy,\ntöröld el gonoszságomat mérhetetlen irgalmaddal.\nMosd le bűnömet teljesen,\nés vétkemtől tisztíts meg engem.",
+   "Te a véres áldozatot nem kedveled,\ns ha égőáldozatot hoznék, nem vennéd szívesen.\nIsten előtt kedves áldozat a megtört lélek,\nIstenem, te nem veted meg az alázatos és töredelmes szívet.",
+   "Jóságodban, Uram, tégy jót Sionnal,\nJeruzsálem falait építsd fel újra.\nAkkor majd elfogadod az igaz áldozatot,\naz égő és a teljes áldozatot."
+  ]
+ },
+ "alleluia": {
+  "text": "Bár hallgatnátok ma Isten szavára: „Népem, ne légy kemény szívű!” Zsolt 94,8ab – 12, tónus.",
+  "cite": "",
+  "lent": true
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Aki magát megalázza, azt dicsőségre emelik.",
+  "text": "Abban az időben az elbizakodottaknak, akik magukat igaznak tartották, másokat pedig megvetettek, Jézus ezt a példabeszédet mondta:\n\n„Két ember fölment a templomba imádkozni, az egyik farizeus volt, a másik vámos.\n\nA farizeus megállt, és így imádkozott magában: »Istenem, hálát adok neked, hogy nem vagyok olyan, mint a többi ember, rabló, igazságtalan, házasságtörő, mint ez a vámos is. Kétszer böjtölök hetenként, és tizedet adok mindenből, amim van.«\n\nA vámos pedig távolabb állt meg, és a szemét sem merte az égre emelni, hanem a mellét verve így szólt: »Istenem, légy irgalmas nekem, bűnösnek!«\n\nMondom nektek, hogy ez megigazultan ment haza, amaz viszont nem. Mert mindazt, aki magát felmagasztalja, megalázzák, aki pedig megalázza magát, azt felmagasztalják.”",
+  "cite": "Lk 18,9-14"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Ozeás próféta könyvéből",
+  "summary": "Először Istenhez kell visszatérnünk, hogy rendezhessük kapcsolatainkat embertársainkkal.",
+  "text": "Így szól a néphez az Úr prófétája:\n\nJöjjetek, térjünk vissza az Úrhoz, mert ő szaggatott szét, de ő gyógyít is meg minket, ő sebesített meg, de Ő kötöz is be bennünket. Életre támaszt minket két nap múlva, és feltámaszt a harmadik napon, hogy élhessünk az ő színe előtt. Ismerjük meg, törekedjünk megismerni az Urat; biztosan eljön, mint a hajnal, megjön, mint a zápor, mint a tavaszi eső, amely megöntözi a földet.\n\nÍgy szól az Úr: „Mit tegyek veled, Efraim? Mit tegyek veled, Júda? Hűségetek olyan, mint a reggeli felhő, és mint a harmat, amely gyorsan tovatűnik. Ezért sújtottam őket a próféták szavával, ezért pusztítottam őket ajkam igéjével, ítéletem napnál világosabb. Mert irgalmat akarok, és nem áldozatot, istenismeretet várok, és nem égőáldozatot.”",
+  "cite": "Oz 6,1-6"
+ }
+}

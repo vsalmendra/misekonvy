@@ -1,0 +1,40 @@
+{
+ "key": "evkozi-22-vas-A",
+ "source_date": "2026-08-30",
+ "rank": "",
+ "day": "Évközi 22. vasárnap",
+ "psalm": {
+  "cite": "Zsolt 62,2.3-4.5-6.8-9",
+  "response": "Hozzád vágyódik szívem, én Uram, Istenem.",
+  "verses": [
+   "Uram, Istenem, virrasztva kereslek,\naz én Istenem te vagy nékem.\nTéged szomjaz lelkem, testem utánad eped,\nmint a puszta tikkadt, kiaszott földje.",
+   "Szentélyedben neked szolgáltam,\nhogy erődet és dicsőségedet megláthassam.\nMert irgalmad többet ér, mint az élet,\nezért ajkam dicsőít téged.",
+   "Neked mondok áldást, amíg csak élek,\na te nevedben tárom imára kezemet.\nMint dús lakomával, teljék be lelkem,\najkam ujjong, szám dicsőít téged.",
+   "Valóban te lettél védelmezőm,\nszárnyaid oltalmában örvendezem.\nLelkem tehozzád ragaszkodik,\njobbod szilárdan tart fenn engem."
+  ]
+ },
+ "alleluia": {
+  "text": "Urunk, Jézus Krisztus Atyja, világosítsa meg lelkünket, hogy megértsük, mily reménységre hívott meg minket.",
+  "cite": "Ef 1,17-18"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Aki utánam akar jönni, tagadja meg önmagát!",
+  "text": "Abban az időben:\n\nJézus többször felhívta tanítványai figyelmét arra, hogy neki\n\nJeruzsálembe kell mennie, sokat kell szenvednie a vénektől, főpapoktól\n\nés az írástudóktól, megölik, de a harmadik napon feltámad a halálból.\n\nErre Péter félrevonta őt, és óva intette: „Isten ments, Uram! Ez nem\n\ntörténhet veled!” Mire ő Péterhez fordult: „Távozz tőlem, sátán!\n\nBotránkoztatsz, mert nem az Isten ügyére van gondod, hanem az\n\nemberekére!”\n\nAzután így szólt tanítványaihoz: „Ha valaki követni akar engem,\n\ntagadja meg magát, vegye föl keresztjét és kövessen. Mert mindaz, aki\n\nmeg akarja menteni életét, elveszíti azt; és aki énértem elveszíti\n\néletét, megtalálja azt. Mert mit használ az embernek, ha az egész\n\nvilágot megnyeri is, de a lelke kárt szenved? Mit is adhatna az ember\n\ncserébe saját lelkéért?\n\nAz Emberfia pedig el fog jönni Atyjának dicsőségében, angyalai\n\nkíséretében, és megfizet mindenkinek tettei szerint.”",
+  "cite": "16,21-27"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Jeremiás próféta könyvéből",
+  "summary": "Az Úr szava gyalázatomra vált.",
+  "text": "Jeremiás próféta így panaszkodik a szenvedések idején:\n\n„Rászedtél, Uram! S én hagytam, hogy rászedj.\n\nErősebb voltál nálam és legyőztél.\n\nNevetségessé váltam napról napra:\n\nAki csak lát, mind kicsúfol.\n\nAkárhányszor csak beszélek,\n\nazt kell kiáltanom, azt kell hirdetnem: Erőszak! Romlás!\n\nAz Úr szava így mindennap\n\ngyalázatomra vált és csúfságomra.\n\nMár azt gondoltam: Nem törődöm vele,\n\nés nem beszélek többé nevében.\n\nDe ilyenkor mintha perzselő tűz gyúlt volna szívemben,\n\nés átjárta minden csontomat.\n\nS ha megfeszítettem erőmet, hogy ellenálljak,\n\nbelefáradtam és nem tudtam elviselni.”",
+  "cite": "Jer 20,7-9"
+ },
+ "reading2": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a rómaiakhoz írt leveléből",
+  "summary": "Adjátok testeteket élő áldozatul!",
+  "text": "Testvéreim!\n\nIsten irgalmára kérlek benneteket: Adjátok testeteket\n\nélő, szent, Istennek tetsző áldozatul. Legyen ez a ti értelmetek\n\nhódolata!\n\nNe hasonuljatok a világhoz, hanem gondolkodástokban megújulva\n\nalakuljatok át, hogy felismerjétek, mi az Isten akarata, mi a helyes,\n\nmi a kedves előtte. és mi a tökéletes!",
+  "cite": "Róm 12,1-2"
+ }
+}

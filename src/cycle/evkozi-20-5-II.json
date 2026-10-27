@@ -1,0 +1,33 @@
+{
+ "key": "evkozi-20-5-II",
+ "source_date": "2026-08-21",
+ "rank": "",
+ "day": "20. évközi hét péntek",
+ "psalm": {
+  "cite": "Zsolt 106,2-3.4-5.6-7.8-9",
+  "response": "Adjatok hálát az Úrnak, mivel irgalma örökké megmarad.",
+  "verses": [
+   "Így szóljanak azok, akiket az Úr megváltott,\nakiket megmentett az ellenség kezéből,\nés akiket minden tájról összegyűjtött, † napkeletről és napnyugatról,\nészakról és délről.",
+   "Bolyongtak a sivatagban, a pusztában,\nlakott város felé utat nem találtak.\nA szomjúságtól és az éhségtől\nszinte elepedt a lelkük.",
+   "Gyötrelmükben az Úrhoz fordultak,\naki szorult helyzetükből kiragadta őket.\nEgyenes úton vezette őket,\nhogy lakott városba jussanak.",
+   "Adjanak hálát irgalmáért az Úrnak,\naz emberek fiaival tett nagy csodáiért,\nmert a szomjazóknak bő vizet adott,\naz éhezőket ellátta javakkal."
+  ]
+ },
+ "alleluia": {
+  "text": "Taníts meg ösvényeidre, Uram, igazságod szerint vezess engem!",
+  "cite": "Zsolt 24,4b.5a"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Legfontosabb dolgunk a földön: szeretni Istent és az embereket.",
+  "text": "Abban az időben amikor a farizeusok meghallották, hogy Jézus hogyan hallgattatta el a szadduceusokat, köréje gyűltek, és egyikük, egy törvénytudó alattomos szándékkal a következő kérdést tette fel neki: „Mester, melyik a legfőbb parancs a törvényben?”\n\nJézus így válaszolt: „Szeresd az Urat, a te Istenedet teljes szíveddel, teljes lelkeddel és egész értelmeddel. Ez az első és legfőbb parancsolat. A második hasonló ehhez: Szeresd felebarátodat, mint saját magadat. E két parancson nyugszik az egész törvény és a próféták.”",
+  "cite": "Mt 22,34-40"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Ezekiel próféta könyvéből",
+  "summary": "Isten Lelke új életet áraszt a halott csontokba: feltámasztja porig alázott népét.",
+  "text": "Az Úr keze megragadott engem, és lelke által az Úr kivezérelt és egy völgybe vitt, amely tele volt csontokkal. Körbe vezetett a csontok között mindenfelé. Tömérdek volt belőlük a völgyben, és teljesen ki voltak száradva.\n\nAz Úr így szólt hozzám: „Emberfia, életre kelnek-e még ezek a csontok?” Így feleltem: „Uram, Istenem, te tudod.”\n\nEkkor így folytatta: „Jövendölj ezekről a csontokról! Így beszélj: Ti, kiszáradt csontvázak, halljátok az Úr szavát! Ezt üzeni az Úr, az Isten ezeknek a csontoknak: »Íme, éltető leheletet adok belétek, és megelevenedtek. Ellátlak inakkal és húst növesztek rajtatok, bőrrel borítalak titeket és éltető leheletet adok nektek és élni fogtok. Akkor megtudjátok, hogy én vagyok az Úr.«”\n\nÉs én jövendöltem, miként a parancs szólt. S lám, amint jövendöltem, zaj keletkezett, majd zörgés támadt, és a csontok egymáshoz közeledtek. Aztán láttam: ín és hús került rájuk, és bőr vonta be őket, de éltető lehelet még nem volt bennük.\n\nEkkor így szólt hozzám: „Jövendölj az éltető leheletről, jövendölj, emberfia, mondd az éltető leheletnek: Ezt mondja az Úr, az Isten: »Gyere elő a négy szél hazájából, és fújj ezekre a megöltekre, hogy megelevenedjenek.«”\n\nEkkor jövendöltem, amint megparancsolta nekem, és éltető lehelet szállt beléjük, életre keltek, talpra álltak: egy igen nagy sereg.\n\nAkkor így szólt hozzám: „Emberfia, ezek a csontok: Izrael egész háza. Lám azt mondják: »Elszáradt a csontunk, oda a reményünk, végünk van.« Jövendölj ezért és így beszélj: Ezt mondja az Úr, az Isten:\n\n»Íme, kinyitom sírjaitokat, én népem, kihozlak sírjaitokból, és elvezetlek benneteket Izrael földjére. Akkor majd megtudjátok, hogy én vagyok az Úr, amikor kinyitom sírjaitokat és kihozlak benneteket sírjaitokból, én népem. Belétek oltom lelkemet és életre keltek. Letelepítelek benneteket földeteken, és megtudjátok, hogy én, az Úr mondom ezt, és végbe is viszem« – mondja az Úr.”",
+  "cite": "Ez 37,1-14"
+ }
+}

@@ -1,0 +1,34 @@
+{
+ "key": "nagybojt-5-5",
+ "source_date": "2026-03-27",
+ "rank": "",
+ "day": "5. nagyböjti hét péntek",
+ "psalm": {
+  "cite": "Zsolt 17,2-3a,3bc-4.5-6.7",
+  "response": "Az Urat szólítottam a szenvedés idején, és ő meghallgatott engem.",
+  "verses": [
+   "Szeretlek, Uram, Istenem,\nés erősségem.\nMenedékem és sziklaváram,\nszabadítóm te vagy, Uram.",
+   "Istenem, segítőm, akiben remélek,\noltalmazom, pártfogóm és üdvöm ereje.\nAz Úrhoz kiáltok, aki dicséretre méltó,\nés megszabadulok ellenségeimtől.",
+   "A halál örvényei körülvettek engem,\nmegrémített a pusztító áradat.\nAz alvilág kötelékei körülfogtak,\na halál foglyul ejtett.",
+   "Az Urat szólítottam a szenvedés idején,\nés ő meghallgatott engem.\nTemplomából meghallotta szavamat,\nkiáltásom színe elé jutott."
+  ]
+ },
+ "alleluia": {
+  "text": "Uram, tanításod lélek és élet. Örök életet adó igéid vannak.",
+  "cite": "Jn 6,63c.68c",
+  "lent": true
+ },
+ "gospel": {
+  "book": "Szent János",
+  "summary": "Csodái igazolják, hogy Jézus az Isten Fia.",
+  "text": "Egy alkalommal a zsidók köveket ragadtak, hogy megkövezzék Jézust. Erre ő megkérdezte tőlük: „Sok jótettet vittem végbe köztetek Atyám nevében. Melyik jó cselekedetért akartok megkövezni engem?”\n\nA zsidók ezt válaszolták: „Nem a jó cselekedetért, hanem a káromkodás miatt akarunk megkövezni, mert ember létedre Istenné teszed magadat.”\n\nJézus ezt felelte: „A Szentírásban nemde ez áll: Én mondottam: istenek vagytok? Ha már azokat is isteneknek mondja az írás, akikhez Isten igéje szólt – és az írás nem veszítheti érvényét –, hogyan mondhatjátok arról, akit az Atya megszentelt és a világba küldött: »Káromkodol!« – mert azt mondtam, hogy Isten Fia vagyok? Ha nem cselekszem Atyám tetteit, ne higgyetek nekem! De ha azokat cselekszem, és nekem nem akartok hinni, higgyetek a tetteknek, hogy végre lássátok és elismerjétek: az Atya énbennem van és én az Atyában.” Erre ismét el akarták fogni őt, de kiszabadította magát kezükből.\n\nEzután Jézus újra a Jordánon túlra ment, arra a helyre, ahol János először keresztelt, és ott is maradt. Sokan keresték fel, mert így vélekedtek: „János ugyan egyetlen csodát sem tett, de amit Jézusról mondott, az igaznak bizonyult.” És sokan hittek Jézusban.",
+  "cite": "Jn 10,31-42"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Jeremiás próféta könyvéből",
+  "summary": "Isten megszabadította a szegénynek lelkét a gonoszok kezéből.",
+  "text": "Jeremiás próféta így panaszkodik szenvedése idején:\n\nHallom sokak gyalázkodását:\n\n„Rettegés mindenütt!\n\nJelentsétek föl! Följelentjük!”\n\nMég azok is, akik barátaim voltak, bukásomra lestek:\n\n„Hátha valamiképp tőrbe csalhatnánk, legyőzhetnénk,\n\nés bosszút állhatnánk rajta.”\n\nDe az Úr, mint hős harcos, mellettem áll.\n\nEllenfeleim meginognak, s nem bírnak velem,\n\nszégyent vallanak, mivel mit sem értek el.\n\nÖrökké tartó, soha el nem múló gyalázatban lesz részük.\n\nTe pedig, Seregek Ura, igazságos Bíró,\n\naki a vesék és szívek vizsgálója vagy,\n\nengedd, hadd lássam, miként állsz rajtuk bosszút,\n\nmert eléd tártam ügyemet.\n\nÉnekeljetek az Úrnak! Dicsőítsétek az Urat,\n\nmert kiszabadította a szegénynek lelkét\n\na gonoszok kezéből.\n\nEz a Isten igéje.",
+  "cite": "Jer 20,10-13"
+ }
+}

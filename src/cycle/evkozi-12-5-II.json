@@ -1,0 +1,33 @@
+{
+ "key": "evkozi-12-5-II",
+ "source_date": "2026-06-26",
+ "rank": "",
+ "day": "12. évközi hét péntek",
+ "psalm": {
+  "cite": "Zsolt 136,1-2.3.4-5.6",
+  "response": "Ragadjon ínyemhez a nyelvem, ha megfeledkezem rólad!",
+  "verses": [
+   "Babilon folyói mellett ültünk és sírtunk,\nSion városára emlékeztünk.\nHárfáinkat fűzfákra függesztettük\nazon a földön.",
+   "Mert akik elhurcoltak minket,\ndalt akartak hallani tőlünk.\nElnyomóink öröméneket követeltek tőlünk:\n„Daloljatok nekünk Sion dalaiból!”",
+   "Hogyan dalolhatnánk az Úr énekeit\naz idegen földön?\nHa elfelednélek téged, Jeruzsálem,\nszáradjon el a jobb kezem!",
+   "Ragadjon ínyemhez a nyelvem,\nha nem emlékezem meg rólad,\nha nem Jeruzsálemet tartom\nlegfőbb örömömnek."
+  ]
+ },
+ "alleluia": {
+  "text": "Krisztus gyengeségeinket magára vette, és betegségeinket ő hordozta.",
+  "cite": "Mt 8,17"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Jézus meggyógyít egy leprást.",
+  "text": "Amikor Jézus befejezte a hegyi beszédet és lejött a hegyről, nagy sokaság követte. Ekkor odament hozzá egy leprás, leborult előtte, és így kérlelte: „Uram, ha akarod, megtisztíthatsz engem.”\n\nJézus kinyújtotta kezét, megérintette őt, és így szólt: „Akarom, tisztulj meg!” Erre a leprás azonnal megtisztult. Akkor Jézus így szólt hozzá: „Nézd, ne mondd el ezt senkinek se, hanem menj, mutasd meg magadat a papnak, és ajánld föl azt az áldozatot, amelyet Mózes rendelt, bizonyságul a gyógyulásról!”",
+  "cite": "Mt 8,1-4"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "a Királyok második könyvéből",
+  "summary": "Szedekiás király idejében teljesen elpusztul Júda országa és Jeruzsálem városa.",
+  "text": "Szedekiás király uralkodásának kilencedik esztendejében a tizedik hónap tizedik napján történt, hogy Nabukodonozor babiloni király egész hadseregével felvonult Jeruzsálem ellen. Körülzárta a várost, és ostromműveket épített köréje. Szedekiás király uralkodásának tizenegyedik esztendejéig, a negyedik hónap kilencedik napjáig tartották ostromzár alatt a várost. Közben az éhség annyira elhatalmasodott a városban, hogy a föld népének egyáltalán nem volt kenyere.\n\nEkkor rést ütöttek a város falán, mire éjszaka folyamán a király és az összes harcosok a király kertje felé vezető két kőfal közötti kapun át kiszöktek a városból, bár a kaldeusok körös-körül megszállva tartották a várost. A puszta felé vezető úton menekültek. De a kaldeusok serege a király után vetette magát, és Jerikó síkságán utol is érték őt. Ekkor összes harcosai elszéledtek és magára hagyták.\n\nA királyt elfogták, és Reblába vitték a babiloni királyhoz, aki ítéletet tartott fölötte. A babiloni király megölette Szedekiás fiait atyjuk szeme láttára, majd Szedekiást megvakíttatta, és bilincsbe verve Babilonba vitette.\n\nAz ötödik hónapban, a hónap hetedik napján – ez Nabukodonozornak, Babilon királyának tizenkilencedik esztendejében történt – Nabuzárdán, a testőrök kapitánya, Babilon királyának szolgája elment Jeruzsálembe. Felgyújtotta az Úr templomát és a királyi palotát; aztán felperzselt Jeruzsálemben minden házat és palotát. A kaldeusok egész serege, amely a testőrök kapitányának parancsnoksága alatt volt, körös-körül lerombolta a város falait.\n\nA nép maradékát, amely a városban életben maradt, valamint a szökevényeket, akik átszöktek Babilon királyához, meg a többi megmaradtat is fogságba hurcolta Nabuzárdán, a testőrök kapitánya. Csak a föld szegényeiből hagyott ott a testőrök kapitánya néhány szőlőmunkást és földművest.",
+  "cite": "2Kir 25,1-12"
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "key": "fix-08-20",
+ "source_date": "2026-08-20",
+ "rank": "FÜ",
+ "day": "Szent István király, Magyarország fővédőszentje – FÜ",
+ "psalm": {
+  "cite": "Zsolt 65,1-2.8.9 és 16.17",
+  "response": "Légy áldott, Szent István király!",
+  "verses": [
+   "Vagy: Alleluja, alleluja. 10. szám.\nMinden föld dicsérje Istent, † dicső nevének zsoltárt zengjetek,\nmagasztaló éneket mondjatok.",
+   "Vagy: Alleluja, alleluja.\nÁldjátok Istenünket, nemzetek,\ndicsőségéről éneket zengjetek.",
+   "Vagy: Alleluja, alleluja.\nÉletet ő ad lelkünkbe,\ns lábunkat meginogni nem hagyja.",
+   "Vagy: Alleluja, alleluja.\nMindnyájan, kik félitek az Istent, † jertek, halljátok:\nelbeszélem, mily nagy csodákat tett vélem.",
+   "Vagy: Alleluja, alleluja.\nAjkam hozzá kiáltott,\nnyelvem dicséretet mondott néki.",
+   "Vagy: Alleluja, alleluja."
+  ]
+ },
+ "alleluia": {
+  "text": "Ha megmaradtok tanításomban, valóban az én tanítványaim lesztek, megismeritek az igazságot, s az igazság tesz szabaddá titeket.",
+  "cite": "Jn 8,31b.32"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Az okos ember a házát sziklára építette.",
+  "text": "Abban az időben Jézus így szólt tanítványaihoz:\n\nMindaz, aki meghallgatja szavaimat és szerintük cselekszik, ahhoz az okos emberhez hasonlít, aki a házát sziklára építette. Szakadt a zápor, ömlött az ár, süvített a szél, és nekizúdult a háznak, de az nem dőlt össze, mert sziklára épült.\n\nAki viszont hallgatja szavaimat, de nem követi azokat, ahhoz az ostoba emberhez hasonlít, aki a házát homokra építette. Szakadt a zápor, ömlött az ár, süvített a szél, nekizúdult a háznak, az összedőlt, és nagy romhalmaz lett belőle.\n\nEzzel Jézus befejezte beszédét. A nép elragadtatással hallgatta tanítását, mert úgy tanított, mint akinek hatalma van, nem úgy, mint az írástudók.",
+  "cite": "Mt 7,24-29"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "a Példabeszédek könyvéből",
+  "summary": "Szent István király intelme: Járjunk az igaz úton.",
+  "text": "Hallgasd meg, fiam, fogadd el szavaimat, akkor megsokasodnak életed esztendei.\n\nMegmutatom neked a bölcsesség útját, egyenes lesz az út, amelyen vezetlek.\n\nSemmi sem gátolja lépteidet, amikor jársz, és ha gyorsan szaladsz, akkor sem botlasz meg.\n\nTartsd meg intelmemet, ne tágíts tőle! Őrizd meg, hiszen ez a te életed!\n\nNe lépj a gonoszok ösvényére, és a gonosztevők útján ne járj!\n\nHagyd el s ne menj rajta tovább, kanyarodj el tőle, úgy folytasd utadat!\n\nAz igaz ember útja olyan, mint a hajnal pirkadása, amely egyre világosabb, míg fényes nappal nem lesz.\n\nA gonoszok útja olyan, mint a sötét éjszaka, maguk sem tudják, miben botlanak meg.\n\nFiam, figyelj szavaimra, nyisd ki füledet a beszédeimre!\n\nNe téveszd el őket soha a szemed elől, és őrizd meg a szíved közepében!\n\nMert élet annak, aki megleli őket, gyógyulás az egész testének.\n\nNagy gonddal őrizd a szívedet, mert hiszen belőle indul ki az élet.\n\nTartsd távol magadtól a száj hamisságát, távolítsd el az ajkak álnokságát!\n\nEgyenest előre nézzen a szemed, legyen egyenes a szemed pillantása.\n\nEgyengess sima utat a lábadnak, legyenek biztosak mind az útjaid.\n\nSe jobbra, se balra ne térj le az útról, és a gonosztól tartsd távol a lábad.",
+  "cite": "Péld 4,10-15.18-27"
+ },
+ "reading2": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak az efezusiakhoz írt leveléből",
+  "summary": "Öltsétek magatokra az új embert, aki Istenhez hasonló!",
+  "text": "Testvéreim!\n\nAzt mondom nektek, sőt figyelmeztetlek titeket az Úrban: Ne éljetek úgy, mint a pogányok, akik hiábavalóságokon\n\njártatják az eszüket. Elméjükre sötétség borult, elidegenedtek az istenes élettől tudatlanságukban, amely szívük megátalkodottságának következménye. Lelkileg eltompulva kicsapongásra adták magukat, és kapzsiságból mindenféle ocsmányságot művelnek.\n\nTi azonban nem ezt tanultátok Krisztustól, ha valóban őrá hallgattok, és megtanultátok, hogy az igazság Jézusban van. Tehát eddigi életmódotokkal ellentétben vessétek le a régi embert, akit a csalóka vágyakozások romlásba döntenek. Újuljatok meg lélekben és érzéseitekben! Öltsétek magatokra az új embert, aki Istenhez hasonló, igaz és valóban szent teremtmény.",
+  "cite": "Ef 4,17-24"
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "key": "fix-07-23",
+ "source_date": "2026-07-23",
+ "rank": "Ü",
+ "day": "Svéd Szent Brigitta, szerzetesnő, Európa társvédőszentje – Ü",
+ "psalm": {
+  "cite": "Zsolt 33,2-3.4-5.6-7.8-9.10-11",
+  "response": "Hálát adok az Úrnak minden időben!",
+  "verses": [
+   "Vagy: Ízleljétek és lássátok,\nmilyen édes az Úr. 9a. vers.\nMinden időben áldom az Urat,\ndicséretét szüntelenül zengi ajkam.\nLelkem az Úrban dicsekszik,\nhallják meg ezt a szelídek és örvendezzenek.",
+   "Vagy: Ízleljétek és lássátok,\nmilyen édes az Úr.\nMagasztaljátok az Urat énvelem,\ndicsőítsük az ő nevét mindnyájan.\nKerestem az Urat, és ő meghallgatott engem,\nés kiragadott minden rettegésből.",
+   "Vagy: Ízleljétek és lássátok,\nmilyen édes az Úr.\nMegvilágosultok, ha az Úrra néztek,\nés arcotokat nem éri szégyen.\nAz Úr meghallgatta a szegényt, aki hozzá kiáltott,\nés minden szorongatásából kiszabadította.",
+   "Vagy: Ízleljétek és lássátok,\nmilyen édes az Úr.\nAz Úr angyala minden istenfélőt körülsáncol,\nés megszabadítja őt.\nÍzleljétek és lássátok, milyen édes az Úr,\nboldog az az ember, aki őbenne bízik.",
+   "Vagy: Ízleljétek és lássátok,\nmilyen édes az Úr.\nFéljétek az Urat, ti, szentjei,\nmert semmit sem nélkülöznek az istenfélők.\nA gazdagok nyomorognak és éheznek,\nde akik az Urat keresik, nem szűkölködnek.",
+   "Vagy: Ízleljétek és lássátok,\nmilyen édes az Úr."
+  ]
+ },
+ "alleluia": {
+  "text": "Jézus mondja: Maradjatok meg szeretetemben! Aki bennem marad, és én őbenne, az bőséges termést hoz.",
+  "cite": "Jn 15,9b.5b"
+ },
+ "gospel": {
+  "book": "Szent János",
+  "summary": "Aki bennem marad és én őbenne, az bő termést hoz.",
+  "text": "Abban az időben Jézus ezt mondta tanítványainak:\n\nÉn vagyok az igazi szőlőtő, Atyám a szőlőműves. Minden szőlővesszőt, amely nem hoz gyümölcsöt bennem, lemetsz rólam, azt pedig, amely gyümölcsöt hoz, megtisztítja, hogy még többet teremjen. Ti már tiszták vagytok a tanítás által, amelyet hirdettem nektek. Maradjatok bennem, akkor én is bennetek maradok. Miként a szőlővessző nem hozhat gyümölcsöt magától, ha nem marad a szőlőtőn, úgy ti sem, ha nem maradtok bennem.\n\nÉn vagyok a szőlőtő, ti a szőlővesszők. Aki bennem marad, és én őbenne, az bő termést hoz. Mert nélkülem semmit sem tehettek. Aki nem marad bennem, azt kivetik, mint a szőlővesszőt, és elszárad. Összeszedik, tűzre vetik és elégetik. Ha bennem maradtok, és szavaim is bennetek maradnak, akkor bármit akartok, kérjétek, és megkapjátok. Azáltal dicsőül meg Atyám, hogy bő termést hoztok, és a tanítványaim lesztek.",
+  "cite": "Jn 15,1-8"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a galatákhoz írt leveléből",
+  "summary": "Élek, de már nem én, hanem Krisztus él bennem.",
+  "text": "Testvéreim!\n\nA törvény által meghaltam a törvénynek, hogy Istennek éljek, mert Krisztussal engem is keresztre feszítettek. Élek, de már nem én, hanem Krisztus él énbennem.\n\nMinthogy azonban most még testben élek, Isten Fiának hitében élek, aki szeretett engem, és feláldozta magát értem.",
+  "cite": "Gal 2,19-20"
+ }
+}

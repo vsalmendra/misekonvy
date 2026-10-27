@@ -1,0 +1,32 @@
+{
+ "key": "husvet-5-5",
+ "source_date": "2026-05-08",
+ "rank": "",
+ "day": "húsvét 5. hét péntek",
+ "psalm": {
+  "cite": "Zsolt 56,8-9.10-12",
+  "response": "Hadd magasztaljalak, Uram, minden nép között!",
+  "verses": [
+   "Vagy: Alleluja. 2. szám.\nKész az én szívem, Istenem, † kész az én szívem,\nhadd daloljak, hadd ujjongjak.\nKelj föl dicsőségem, † kelj föl, lantom, citerám,\nhadd ébresszem így a hajnalt.",
+   "Vagy: Alleluja.\nDicsőítelek a népek között, Uram,\na nemzetek előtt neked szól énekem.\nSzerető jóságod felér az égig,\nés hűséged a fellegekig.\nEmelkedj, Istenem, az egek fölé,\nés a te dicsőséged az egész föld fölé.",
+   "Vagy: Alleluja."
+  ]
+ },
+ "alleluia": {
+  "text": "Barátaimnak mondalak titeket, mondja az Úr, mert elmondtam nektek mindent, amit Atyámtól hallottam.",
+  "cite": "Jn 15,15b"
+ },
+ "gospel": {
+  "book": "Szent János",
+  "summary": "Jézus új parancsolata: szeressétek egymást, amint én szerettelek titeket!",
+  "text": "Jézus így tanított az utolsó vacsorán:\n\n„Az az én parancsom, hogy szeressétek egymást, amint én szerettelek titeket! Nagyobb szeretete senkinek sincs annál, mint annak, aki életét adja barátaiért. Ti barátaim vagytok, ha megteszitek, amit parancsolok nektek.\n\nNem mondalak titeket többé szolgának, mert a szolga nem tudja, mit tesz az ura. Barátaimnak mondalak benneteket, mert mindazt, amit hallottam Atyámtól, tudtul adtam nektek.\n\nNem ti választottatok engem, hanem én választottalak titeket; és arra rendeltelek, hogy elmenjetek és gyümölcsöt hozzatok: maradandó gyümölcsöt. Bármit kértek az Atyától az én nevemben, megadja nektek.\n\nAzt parancsolom nektek, hogy szeressétek egymást!”",
+  "cite": "Jn 15,12-17"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "az Apostolok Cselekedeteiből",
+  "summary": "Az apostolok kihirdetik, amit a Szentlélek nevében helyesnek és szükségesnek tartottak a pogányok közül megtért keresztény testvérek számára.",
+  "text": "Az apostoli zsinaton az apostolok és a presbiterek az egész közösséggel együtt elhatározták, hogy néhány férfit kiválasztanak maguk közül, és Pállal meg Barnabással Antióchiába küldik: mégpedig Júdást, más néven Barszabbást meg Szilást, akik vezető szerepet töltöttek be a testvérek között. Ezt az írást küldték velük:\n\n„Az apostolok és a presbiterek testvéri üdvözletüket küldik az Antióchiában, Szíriában és Kilikiában élő, pogányok közül megtért testvéreknek.\n\nHallottuk, hogy közülünk néhányan – megbízásunk nélkül tanítva – megzavartak titeket, és földúlták lelketeket. Ezért megállapodásra jutva, jónak láttuk, hogy kiválasszunk és hozzátok küldjünk néhány férfit a számunkra igen kedves Barnabással és Pállal, akik egészen a mi Urunknak, Jézus Krisztusnak szentelték magukat. Elküldtük tehát Júdást és Szilást, akik személyesen, élő szóval is tudtotokra adják a következőket: A Szentlélek és mi magunk azt tartottuk helyesnek, hogy ne rakjunk rátok több terhet, mint ami szükséges. Tartózkodjatok ezért a bálványoknak bemutatott áldozati állatok evésétől, a vér és fojtott állat fogyasztásától, valamint a paráznaságtól! Ha ezektől őrizkedtek, helyesen cselekedtek. Üdvözlünk titeket.”\n\nA küldötteket útra bocsátották, és ezek lementek Antióchiába. Itt egybegyűjtötték a közösséget, és átadták a levelet. A hívek örömmel olvasták a megnyugtató sorokat.",
+  "cite": "ApCsel 15,22-31"
+ }
+}

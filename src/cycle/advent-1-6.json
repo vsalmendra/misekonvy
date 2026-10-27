@@ -1,0 +1,32 @@
+{
+ "key": "advent-1-6",
+ "source_date": "2025-12-06",
+ "rank": "",
+ "day": "1. adventi hét szombat",
+ "psalm": {
+  "cite": "Zsolt 146,1-2.3-4.5-6",
+  "response": "Boldogok mindazok, akik az Urat várják.",
+  "verses": [
+   "Dicsérjétek az Urat, mert jó dolog őt áldani,\nIstenünknek kedves a dicséret.\nJeruzsálemet az Úr újjáépíti,\nIzrael szétszórt fiait egybegyűjti.",
+   "Ő a megtört szívűeket meggyógyítja,\nés sebeiket bekötözi.\nA csillagokat számon tartja,\nés nevén szólítja valamennyit.",
+   "Nagy a mi Urunk, nagy az ő hatalma,\nbölcsességének nincs határa.\nA szelídeket magához emeli,\nde porig alázza a bűnösöket."
+  ]
+ },
+ "alleluia": {
+  "text": "Isten a mi bíránk, a mi törvényhozónk és a mi királyunk, ő üdvözít minket.",
+  "cite": "Iz 33,22"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Jézus irgalmas, és segít a nép nyomorán.",
+  "text": "Nyilvános működése idején Jézus bejárt minden várost és falut. Tanított a zsinagógákban, hirdette országának örömhírét, meggyógyított minden betegséget és minden bajt. Ahogy végignézett az embereken, megesett a szíve rajtuk, mert olyanok voltak, mint a pásztor nélküli juhok: elcsigázottak és kimerültek. Akkor így szólt tanítványaihoz:\n\n„Az aratnivaló sok, de a munkás kevés. Kérjétek az aratás Urát, küldjön munkásokat aratásába!”\n\nAkkor összehívta tizenkét tanítványát, és hatalmat adott nekik, hogy kiűzzék a tisztátalan lelkeket, és meggyógyítsanak minden betegséget és minden bajt. Majd elküldte őket, és megparancsolta nekik:\n\n„Menjetek Izrael házának elveszett juhaihoz! Menjetek és hirdessétek: Közel van a mennyek országa. Gyógyítsatok betegeket, támasszatok fel halottakat, tisztítsatok meg leprásokat, űzzetek ki ördögöket! Ingyen kaptátok, ingyen is adjátok!”",
+  "cite": "Mt 9,35–10,1.6-8"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Izajás próféta könyvéből",
+  "summary": "Az Úr megkönyörül népén; meggyógyítja sebeit, megáldja termőföldjeit, legyőzi ellenségeit.",
+  "text": "Prófétája által így vigasztal az Úr:\n\nSion népe, te Jeruzsálemben élsz majd és nem kell többé sírnod. (Az Úr) irgalmas lesz irántad, amikor meghallja hozzá kiáltó szavadat; mihelyt meghallja, meg is hallgat. Bár a szenvedés kenyerét és a nyomorúság vizét adta neked az Úr, de ő, a te tanítód, nem rejtőzik el többé előled, és szemed látni fogja tanítódat. Ha meg akár jobbra, akár balra letérnél, füled hallani fogja a mögötted álló figyelmeztetőnek szavát: „Ez a helyes út, ezen járjatok!”\n\nBárhol vetsz a földön, vetésednek esőben lesz része, és a föld termette kenyér ízes lesz és tápláló. Nyájaid tágas mezőkön legelnek majd azon a napon. Ökreid és szamárcsikóid, amelyek a földet megmunkálják, sóval vegyített, szórólapáttal megtisztított eleséget esznek. Minden magas hegyen és minden dombtetőn folyóvizek és patakok folynak majd a nagy öldöklés napján, azon a napon, amikor a bástyák leomlanak. A hold fénye olyan lesz, mint a nap ragyogása, a nap fénye pedig hétszer ragyogóbb lesz, olyan mint hét napnak a fénye; azon a napon az Úr bekötözi népe sebeit, és meggyógyítja a sebhelyeket, amelyeket verésével okozott neki.",
+  "cite": "Iz 30,19-21.23-26"
+ }
+}

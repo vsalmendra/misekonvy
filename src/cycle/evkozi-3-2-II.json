@@ -1,0 +1,33 @@
+{
+ "key": "evkozi-3-2-II",
+ "source_date": "2026-01-27",
+ "rank": "",
+ "day": "3. évközi hét kedd",
+ "psalm": {
+  "cite": "Zsolt 23,7.8.9.10",
+  "response": "Ki ez a dicsőséges Király? Urunk, Istenünk érkezik.",
+  "verses": [
+   "Emeljétek föl fejeteket, kapuk, † táruljatok föl, örök kapuk,\nés bevonul a dicsőség Királya.",
+   "Ki a dicsőség Királya? † Az Úr, a hatalmas és erős,\naz Úr a harcban győzhetetlen.",
+   "Emeljétek föl fejeteket, kapuk, † táruljatok föl, örök kapuk,\nés bevonul a dicsőség Királya.",
+   "Ki a dicsőség Királya?\nA seregek Ura a dicsőség Királya."
+  ]
+ },
+ "alleluia": {
+  "text": "Áldalak téged, Atyám, mennynek és földnek Istene, mert feltártad a kicsinyeknek országod titkait.",
+  "cite": "Vö. Mt 11,25"
+ },
+ "gospel": {
+  "book": "Szent Márk",
+  "summary": "Azok tartoznak igazán Jézushoz, akik teljesítik a mennyei Atya akaratát.",
+  "text": "Egy alkalommal Jézust fölkeresték anyja és rokonai. De nem mentek be a házba, ahol Jézus tanított, hanem hívatták őt.\n\nAkik körülötte ültek, odaszóltak Jézusnak: „Anyád és rokonaid kint vannak, és keresnek téged.”\n\nJézus azonban így válaszolt: „Ki az én anyám? Kik az én rokonaim?” Aztán végighordozta tekintetét a körülötte ülőkön, és csak ennyit mondott: „Ezek az én anyám és rokonaim. Aki teljesíti Isten akaratát, az az én testvérem, nővérem és anyám!”",
+  "cite": "Mk 3,31-35"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Sámuel második könyvéből",
+  "summary": "Dávid király Jeruzsálembe viteti a frigyszekrényt; hogy ott legyen az ország vallási központja is.",
+  "text": "Miután Dávid elfoglalta és újjáépítette Jeruzsálemet, az Isten szekrényét nagy örömujjongás közepette átvitette Obededom házából Dávid városába.\n\n(Dávid hét énekkart és áldozati borjakat is vitt magával.) Amikor az Úr szekrényének hordozói hat lépést tettek, Dávid egy bikát és egy hizlalt borjút áldozott.\n\nBuzgalmában – papi gyolcsruhába öltözve – ő maga is részt vett az ünnepi táncban az Úr színe előtt. így vitte Dávid és az egész nép örömujjongás és harsonaszó közepette az Úr szekrényét.\n\nAzután bevitték abba a sátorba, amelyet Dávid újonnan emeltetett az Úr szekrénye számára, és a helyére, középre állították. Majd egészen elégő és békeáldozatokat mutatott be Dávid az Úr színe előtt.\n\nMiután befejezte az áldozatok bemutatását, áldó imát mondott a népre a Seregek Urának nevében. Azután személyenként egy-egy kenyeret, egy-egy datolyát és mazsolás kalácsot osztott ki a nép egész sokaságának, férfiaknak és nőknek egyaránt. Mindezek végeztével mindenki hazatért, ki-ki a maga házába.",
+  "cite": "2Sám 6,12b-15.17-19"
+ }
+}
