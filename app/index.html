@@ -220,12 +220,18 @@ body.empty #top, body.empty #jump-latin, body.empty #notice, body.empty .legend 
     box.querySelectorAll('select[data-sel]').forEach(function (sel) {
       // the same choice drives the Hungarian text and the Latin–Hungarian section
       var groups = box.querySelectorAll('.variants[data-group="' + sel.dataset.sel + '"]');
-      function show() { groups.forEach(function (g) { g.querySelectorAll(':scope > .variant').forEach(function (v) { v.hidden = v.dataset.opt !== sel.value; }); }); }
+      function show() {
+        groups.forEach(function (g) { g.querySelectorAll(':scope > .variant').forEach(function (v) { v.hidden = v.dataset.opt !== sel.value; }); });
+        // the other dropdown of the same group (Hungarian part / Latin section) follows
+        box.querySelectorAll('select[data-sel="' + sel.dataset.sel + '"]').forEach(function (o) { if (o !== sel) o.value = sel.value; });
+      }
       sel.addEventListener('change', show); show();
     });
     // EP IV may only be said with its own preface
-    var ep = box.querySelector('#sel-ep'), pref = box.querySelector('#sel-pref');
-    if (ep && pref) ep.addEventListener('change', function () { if (ep.value === '4' && pref.value !== 'ep4') { pref.value = 'ep4'; pref.dispatchEvent(new Event('change')); } });
+    var pref = box.querySelector('#sel-pref');
+    box.querySelectorAll('select[data-sel="ep"]').forEach(function (ep) {
+      ep.addEventListener('change', function () { if (pref && ep.value === '4' && pref.value !== 'ep4') { pref.value = 'ep4'; pref.dispatchEvent(new Event('change')); } });
+    });
     // Alternative texts: row of buttons, one panel visible
     box.querySelectorAll('.alts').forEach(function (alts) {
       var btns = alts.querySelectorAll('.alt-btn'), panels = alts.querySelectorAll(':scope > .alt');

@@ -64,6 +64,10 @@ async function open(day, path = '', { blockCalendar = false, blockOrdinary = fal
   check(!s.empty && s.title === cal.find(m => m.date === last).title, `${last}: opens "${s.title}"`);
   check(t.loads.length === 1, `${last}: no reload (${t.loads.length} page load)`);
   check(t.errors.length === 0, `${last}: no script errors ${t.errors.join(' ')}`);
+  // The Eucharistic prayer can be chosen in the Latin section too; both dropdowns stay in step.
+  await t.page.selectOption('#sel-ep-la', '2');
+  const shown = await t.page.$$eval('#latin .variants[data-group="ep"] > .variant:not([hidden])', v => v.map(x => x.dataset.opt));
+  check(await t.page.$eval('#sel-ep', s => s.value) === '2' && shown.join() === '2', 'Latin EP dropdown switches the prayer and the Hungarian dropdown');
   // The date picker offers exactly the days in the calendar.
   await t.page.click('#menu-fab'); await t.page.click('#pick-date');
   const months = new Set(dates.map(d => d.slice(0, 7)));

@@ -321,6 +321,13 @@ def chooser(group, label, items, default):
             + variants(group, [(k, body) for k, _, body in items], default))
 
 
+def la_chooser(group, label, items, default):
+    """The same choice inside the Latin section (kept in step with the Hungarian dropdown)."""
+    sel = ''.join(f'<option value="{k}"{" selected" if k == default else ""}>{esc(lab)}</option>' for k, lab in items)
+    return (f'<div class="choice bi-full"><label for="sel-{group}-la">{label}</label>'
+            f'<select id="sel-{group}-la" data-sel="{group}">{sel}</select></div>')
+
+
 def variants(group, items, default):
     """Blocks shown one at a time; the dropdown of the same group (Hungarian part) drives both languages."""
     var = '\n'.join(f'<div class="variant" data-opt="{k}"{"" if k == default else " hidden"}>\n{body}\n</div>' for k, body in items)
@@ -501,8 +508,10 @@ def render(m):
     g.append(bi_h2('Liturgia eucharistica · Az Eucharisztia liturgiája'))
     g.append(ORDO_LA['gifts'])
     g.append(bi_prayer('Super oblata', 'Felajánló könyörgés', o['offertory'], False))
+    g.append(la_chooser('pref', 'Praefatio · Prefáció', [(k, PREFACES[k].get('la_label') or PREFACES[k]['label']) for k in pref_keys], pref_keys[0]))
     g.append(variants('pref', [(k, bi_preface(k, names)) for k in pref_keys], pref_keys[0]))
     g.append(ORDO_LA['sanctus'])
+    g.append(la_chooser('ep', 'Prex eucharistica · Eucharisztikus ima', [(k, v.get('la_label') or v['label']) for k, v in EPS.items()], ep))
     g.append(variants('ep', [(k, bi_ep(k)) for k in EPS], ep))
     g.append(bi_h2('Ritus communionis · A szentáldozás szertartása'))
     g.append(ORDO_LA['communion_rite'])
