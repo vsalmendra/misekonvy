@@ -267,3 +267,51 @@ Quóniam Ecclésiam tuam in apostólicis tribuísti consístere fundaméntis, ut
 
 Quaprópter nunc et usque in sǽculum cum omni milítia Angelórum devóta tibi mente concínimus, clamántes atque dicéntes:
 '''
+
+[eucharisztia-1]
+label = "Prefáció a Legszentebb Oltáriszentségről I."
+source = "Római Misekönyv 1991 (PPEK 335), 56. prefáció, 387. o. – az új misekönyvvel még nem egyeztetve"
+sub = "Az Eukarisztia Krisztus áldozata és szentsége"
+la_label = "Praefatio I de Sanctissima Eucharistia"
+text = '''
+Valóban méltó és igazságos, illő és üdvös, hogy mindig és mindenütt hálát adjunk néked, mi Urunk, szentséges Atyánk, mindenható, örök Isten: Krisztus, a mi Urunk által.
+
+Ő az igazi örök Főpap, ki üdvösségünkért feláldozta önmagát, és minden időkre szóló áldozatot rendelt, meghagyva, hogy emlékezetére mi is felajánljuk néked. Ha értünk adott testét magunkhoz vesszük, erőt áraszt lelkünkbe, ha értünk ontott vérét isszuk, tisztára mos minket.
+
+Ezért mi is, miként az angyalok és főangyalok, a trónod körül álló hatalmas égi szellemek, és minden seregek a mennyben, dicsőséged himnuszát zengjük, és velük együtt vég nélkül mondjuk:
+'''
+la = '''
+Vere dignum et iustum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine, sancte Pater, omnípotens ætérne Deus: per Christum Dóminum nostrum.
+
+Qui, verus æternúsque Sacérdos, formam sacrifícii perénnis instítuens, hóstiam tibi se primus óbtulit salutárem, et nos, in sui memóriam, præcépit offérre. Cuius carnem pro nobis immolátam dum súmimus, roborámur, et fusum pro nobis sánguinem dum potámus, ablúimur.
+
+Et ídeo cum Angelis et Archángelis, cum Thronis et Dominatiónibus, cumque omni milítia cæléstis exércitus, hymnum glóriæ tuæ cánimus, sine fine dicéntes:
+'''
+
+[eucharisztia-2]
+label = "Prefáció a Legszentebb Oltáriszentségről II."
+source = "Római Misekönyv 1991 (PPEK 335), 57. prefáció, 388. o. (OCR: „szentséd” → „szentséged”, „zeni” → „zeng”) – az új misekönyvvel még nem egyeztetve"
+sub = "Az Eukarisztia gyümölcsei"
+la_label = "Praefatio II de Sanctissima Eucharistia"
+text = '''
+Valóban méltó és igazságos, illő és üdvös, hogy mindig és mindenütt hálát adjunk néked, mi Urunk, szentséges Atyánk, mindenható, örök Isten: Krisztus, a mi Urunk által.
+
+Az utolsó vacsorán apostolaival együtt étkezett, és örökül hagyva üdvösségszerző kereszthalálának emlékét, feláldozta önmagát, mint szeplőtelen Bárányt, tökéletes, dicsőítő ajándékul neked.
+
+E szentséges titok által táplálod és megszenteled hívő népedet, hogy a földkerekségen minden ember az egy hit világosságában éljen, és szeretetben forrjon eggyé.
+
+E csodálatos szentséged asztalához azért járulunk, hogy boldogító kegyelmed töltsön el minket, és egyre jobban magunkra öltsük szent Fiadat, Jézus Krisztust.
+
+Ezért zeng néked az imádás új énekét minden élő a mennyben és a földön. Mi pedig az angyalok egész kórusával együtt hangos szóval hirdetjük, és vég nélkül mondjuk:
+'''
+la = '''
+Vere dignum et iustum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine, sancte Pater, omnípotens ætérne Deus: per Christum Dóminum nostrum.
+
+Qui cum Apóstolis suis in novíssima cena convéscens, salutíferam crucis memóriam prosecutúrus in sǽcula, Agnum sine mácula se tibi óbtulit, perféctæ laudis munus accéptum.
+
+Quo venerábili mystério fidéles tuos aléndo sanctíficas, ut humánum genus, quod cóntinet unus orbis, una fides illúminet, cáritas una coniúngat.
+
+Ad mensam ígitur accédimus tam mirábilis sacraménti, ut, grátiæ tuæ suavitáte perfúsi, ad cæléstis formæ imáginem transeámus.
+
+Propter quod cæléstia tibi atque terréstria cánticum novum cóncinunt adorándo, et nos cum omni exércitu Angelórum proclamámus, sine fine dicéntes:
+'''

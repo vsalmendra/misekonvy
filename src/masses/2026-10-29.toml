@@ -1,0 +1,191 @@
+# Recipe: src/masses/2026-10-29.md
+date = "2026-10-29"
+title = "Votív mise a Legszentebb Oltáriszentségről"
+day = "30. évközi hét csütörtöke"
+rank = "fehér színben"
+gloria = false
+creed = false
+eucharistic_prayer = 2
+prefaces = ["eucharisztia-1", "eucharisztia-2"]
+mass_type = "Votív mise: a Legszentebb Oltáriszentségről (Úrnapja miséje)"
+
+[entrance]
+cite = "Zsolt 80,17"
+text = '''
+A gabona javával táplálta őket az Úr,
+és jóllakatta mézzel a sziklából.
+'''
+la = '''
+Cibavit eos ex adipe frumenti,
+et de petra melle saturavit eos.
+'''
+
+[collect]
+text = '''
+Urunk, Jézus Krisztus,
+te ebben a csodálatos szentségben
+kínszenvedésed emlékét hagytad ránk.
+Add, kérünk,
+tested és véred szent titkát úgy tisztelnünk,
+hogy megváltásod gyümölcsét szüntelenül élvezzük.
+Aki élsz és uralkodol a Szentlélekkel egységben,
+Isten mindörökkön-örökké.
+'''
+la = '''
+Deus, qui nobis sub sacramento mirabili
+passionis tuae memoriam reliquisti,
+tribue, quaesumus,
+ita nos Corporis et Sanguinis tui
+sacra mysteria venerari,
+ut redemptionis tuae fructum
+in nobis iugiter sentiamus.
+Qui vivis et regnas cum Deo Patre in unitate Spiritus Sancti,
+Deus, per omnia saecula saeculorum.
+'''
+
+[offertory]
+text = '''
+Kérünk, Istenünk,
+add meg Egyházadnak az egység és a béke ajándékát,
+amelyet a felajánlott áldozati adományok titokzatosan jelképeznek.
+Krisztus, a mi Urunk által.
+'''
+la = '''
+Ecclesiae tuae, quaesumus, Domine,
+unitatis et pacis propitius dona concede,
+quae sub oblatis muneribus mystice designantur.
+Per Christum Dominum nostrum.
+'''
+
+[communion]
+cite = "Jn 6,57"
+text = '''
+Aki eszi az én testemet és issza az én véremet,
+az bennem marad, én meg benne – mondja az Úr.
+'''
+la = '''
+Qui manducat meam carnem
+et bibit meum sanguinem,
+in me manet et ego in eo,
+dicit Dominus.
+'''
+
+[postcommunion]
+text = '''
+Kérünk, Urunk,
+töltsd be lelkünket istenséged örökkévaló élvezetével,
+amelyet drága testednek és vérednek
+mostani vétele már előre jelez.
+Aki élsz és uralkodol mindörökkön-örökké.
+'''
+la = '''
+Fac nos, quaesumus, Domine,
+divinitatis tuae sempiterna fruitione repleri,
+quam pretiosi Corporis et Sanguinis tui
+temporalis perceptio praefigurat.
+Qui vivis et regnas in saecula saeculorum.
+'''
+
+# Readings: of the day (30. évközi hét csütörtök, II. év), from src/cycle/evkozi-30-4-II.json (igenaptár).
+[reading1]
+label = "Szentlecke"
+sub = "Szent Pál apostolnak az efezusiakhoz írt leveléből"
+summary = "A gonosz szellem támadásait lelki fegyverekkel kell visszaverni."
+cite = "Ef 6,10-20"
+la_sub = "Lectio Epistolae beati Pauli apostoli ad Ephesios"
+text = '''
+Testvéreim!
+
+Erősödjetek meg az Úrban az ő hatalmas ereje által! Öltsétek magatokra Isten fegyverzetét, hogy megállhassatok a sátán támadásaival szemben! Nem emberi gyengeségeink ellen kell ugyanis küzdenünk, hanem a gonosz szellem túlvilági hatalmasságai és erői ellen, amelyek a sötétség hatalmába akarják hajtani a világot.
+
+Öltsétek tehát magatokra Isten teljes fegyverzetét, hogy a Gonosz támadása idején ellenállhassatok, és minden tekintetben helytálljatok! Készüljetek fel: derékövetek legyen az igazmondás, páncélotok az igazlelkűség! Legyetek útra készek, hogy a békesség örömhírét bárhová elvigyétek! Mindig tartsátok kézben a hit pajzsát, amellyel kivédhetitek a gonosz lélek tüzes nyilait! Végül pedig vegyétek fel az üdvösség sisakját, és ragadjátok meg a Lélek kardját, vagyis az Isten igéjét!
+
+Szüntelenül esedezzetek bensőséges könyörgéssel és imával a Szentlélekben! Legyetek éberek és állhatatosak az összes testvérekért mondott imádságban! Értem is imádkozzatok, hogy megkapjam a beszéd ajándékát, és amikor megnyitom ajkamat, bátran hirdessem az evangélium titkát, amelynek a bilincsekben is hírnöke vagyok! Hadd hirdessem bátran, amint kötelességem!
+'''
+la = '''
+—
+
+De cetero, fratres, confortamini in Domino et in potentia virtutis eius, induite armaturam Dei ut possitis stare adversus insidias diaboli; quia non est nobis colluctatio adversus sanguinem et carnem, sed adversus Principatus, adversus Potestates, adversus mundi rectores tenebrarum harum, contra spiritalia nequitiae in caelestibus.
+
+Propterea accipite armaturam Dei, ut possitis resistere in die malo et, omnibus perfectis, stare. State ergo succincti lumbos vestros in veritate et induti loricam iustitiae, et calceati pedes in praeparatione Evangelii pacis, in omnibus sumentes scutum fidei, in quo possitis omnia tela Maligni ignea exstinguere; et galeam salutis assumite, et gladium Spiritus, quod est verbum Dei,
+
+per omnem orationem et obsecrationem orantes omni tempore in Spiritu, et in ipso vigilantes in omni instantia et obsecratione pro omnibus sanctis et pro me, ut detur mihi sermo in aperitione oris mei, cum fiducia notum facere mysterium Evangelii, pro quo legatione fungor in catena, ut in ipso audeam prout oportet me loqui.
+'''
+
+[psalm]
+cite = "Zsolt 143,1.2.9-10"
+response = "Áldott legyen az Úr, ő az én segítségem!"
+la_response = "Benedictus Dominus, praesidium meum."
+verses = [
+'''
+Áldott legyen az Úr, ő az én segítségem, † ő tanította harcra kezemet,
+és ujjaimat viadalra.
+''',
+'''
+Ő az én irgalmasságom és erősségem,
+menedékem és szabadítóm;
+ő a védőpajzsom, benne remélek,
+aki uralmam alá veti népemet.
+''',
+'''
+Új éneket éneklek neked, Istenem,
+tízhúrú hárfán zsoltárt zengek.
+Diadalra segíted a királyokat,
+és szolgádat, Dávidot megóvod a gonosz kardtól.
+''']
+la_verses = [
+'''
+Benedictus Dominus, praesidium meum,
+qui docet manus meas ad proelium,
+et digitos meos ad bellum.
+''',
+'''
+Misericordia mea et fortitudo mea,
+refugium meum et liberator meus;
+scutum meum, et in ipso speravi,
+qui subdit populum meum sub me.
+''',
+'''
+Deus, canticum novum cantabo tibi,
+in psalterio decachordo psallam tibi,
+qui das salutem regibus,
+qui redimis David servum tuum de gladio maligno.
+''']
+
+[alleluia]
+cite = "Lk 19,38;2,14"
+text = "Áldott, aki az Úr nevében királyként érkezik! Békesség a mennyből, és dicsőség a magasságban!"
+la = "Benedictus qui venit rex in nomine Domini, pax in caelo et gloria in excelsis."
+
+[gospel]
+book = "Szent Lukács"
+la_book = "Lucam"
+summary = "Ellenségei nem akadályozhatják meg Jézust küldetése teljesítésében."
+cite = "Lk 13,31-35"
+text = '''
+Abban az időben néhány farizeus jött Jézushoz, és figyelmeztették: „Sietve távozzál innen! Heródes meg akar ölni.”
+
+De ő ezt válaszolta: „Menjetek, mondjátok meg annak a rókának: Íme, ördögöket űzök, és gyógyítok ma és holnap; csak harmadnapra fejezem be. De ma, holnap és holnapután tovább kell járnom utamat, mert nem veszhet el próféta Jeruzsálemen kívül.
+
+Jeruzsálem, Jeruzsálem, te megölöd a prófétákat, és megkövezed azokat, akiket hozzád küldtek. Hányszor akartam egybegyűjteni fiaidat, mint ahogy a tyúk szárnya alá gyűjti csibéit, de te nem akartad. Meglátjátok, elhagyott lesz házatok. Mondom nektek: Nem láttok engem mindaddig, amíg el nem jön az az idő, amikor így kiáltoztok: »Áldott, aki jön az Úr nevében!«”
+'''
+la = '''
+In ipsa hora accesserunt quidam Pharisaeorum ad Iesum, dicentes illi: «Exi et vade hinc, quia Herodes vult te occidere».
+
+Et ait illis: «Ite et dicite vulpi illi: “Ecce eicio daemonia, et sanitates perficio hodie et cras, et tertia consummor”. Verumtamen oportet me hodie et cras et sequenti ambulare, quia non capit prophetam perire extra Ierusalem.
+
+Ierusalem, Ierusalem, quae occidis prophetas et lapidas eos, qui missi sunt ad te, quotiens volui congregare filios tuos quemadmodum avis nidum suum sub pinnis, et noluistis. Ecce relinquitur vobis domus vestra. Dico autem vobis: Non videbitis me donec veniat cum dicetis: “Benedictus qui venit in nomine Domini”».
+'''
+
+[faithful]
+intro = "Testvéreim, áldjuk és magasztaljuk Istent, aki testi és lelki adományaival elhalmoz minket!"
+response = "Kérünk téged, hallgass meg minket!"
+petitions = [
+  "Hogy mindig hálásak legyünk a teremtés és a megváltás gazdag ajándékaiért, kérjük Urunkat!",
+  "Hogy készséges lélekkel fogadjuk a Gondviselés minden rendelkezését, kérjük Urunkat!",
+  "Hogy Isten és a felebarát szeretete irányítsa gondolatainkat, érzéseinket és cselekedeteinket, kérjük Urunkat!",
+  "Hogy az irigységet és az önzést, a haragot és a gyűlölködést tartsa távol tőlünk, kérjük Urunkat!",
+  "Hogy a munkásoknak munkát, az éhezőknek kenyeret, a szomorúaknak vigaszt, és minden embernek üdvösséget adjon, kérjük Urunkat!",
+  { note = "Ha a szentmisét elhunytért mutatják be:", text = "Hogy elhunyt N. testvérünket (nővérünket), hozzátartozóinkat és jótevőinket fogadja be a szentek boldog társaságába, kérjük Urunkat!" },
+]
+conclusion = "Jóságos, mennyei Atyánk! Hittel valljuk, hogy örök szereteteddel te irányítod emberi sorsunkat. Add, hogy életünk minden napján hűségesen szolgáljunk neked. Aki élsz és uralkodol mindörökkön-örökké."
