@@ -144,8 +144,8 @@ def gospel(block):
 
 
 def parse(page):
-    day = (re.search(r'</p>\s*<b>(.*?)</b>', page, re.S) or               # current year's page
-           re.search(r'<b>[\d-]+</b>(?:\s*<br>)*\s*<b>(.*?)</b>', page, re.S))   # archived years
+    # the date in bold, then the day's name in bold (three page layouts over the years)
+    day = re.search(r'<b>[\d-]+</b>(?:\s|<br>|</?p[^>]*>)*<b>(.*?)</b>', page, re.S)
     out = {'day': clean(day.group(1)) if day else ''}
     readings = []
     for block in re.findall(r'(?is)<p align="justify">(.*?)</p>', page):
