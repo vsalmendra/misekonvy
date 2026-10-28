@@ -7,83 +7,92 @@ gloria = false
 creed = false
 eucharistic_prayer = 2
 prefaces = ["eucharisztia-1", "eucharisztia-2"]
-mass_type = "Votív mise: a Legszentebb Oltáriszentségről (Úrnapja miséje)"
+mass_type = "Votív mise: a Legszentebb Oltáriszentségről (A)"
 
 [entrance]
-cite = "Zsolt 80,17"
+cite = "Zsolt 77,23-25"
 text = '''
-A gabona javával táplálta őket az Úr,
-és jóllakatta mézzel a sziklából.
+Megnyitotta az Úr az ég kapuit,
+mannát hullatott eledelül,
+mennyei kenyeret adott nekik.
+Angyalok kenyerét ette az ember.
 '''
 la = '''
-Cibavit eos ex adipe frumenti,
-et de petra melle saturavit eos.
+Ianuas caeli aperuit Dominus,
+et pluit illis manna ad manducandum,
+et panem caeli dedit eis:
+panem angelorum manducavit homo.
 '''
 
 [collect]
 text = '''
-Urunk, Jézus Krisztus,
-te ebben a csodálatos szentségben
-kínszenvedésed emlékét hagytad ránk.
+Istenünk, te az emberek megváltásának művét
+egyszülött Fiad húsvéti misztériumával beteljesítetted.
 Add, kérünk,
-tested és véred szent titkát úgy tisztelnünk,
-hogy megváltásod gyümölcsét szüntelenül élvezzük.
-Aki élsz és uralkodol a Szentlélekkel egységben,
+hogy akik Krisztus halálát és feltámadását
+a szentségi jelekben hívő lélekkel ünnepeljük,
+üdvözítő kegyelmedben szüntelenül növekedjünk.
+A mi Urunk, Jézus Krisztus, a te Fiad által,
+aki veled él és uralkodik a Szentlélekkel egységben,
 Isten mindörökkön-örökké.
 '''
 la = '''
-Deus, qui nobis sub sacramento mirabili
-passionis tuae memoriam reliquisti,
-tribue, quaesumus,
-ita nos Corporis et Sanguinis tui
-sacra mysteria venerari,
-ut redemptionis tuae fructum
-in nobis iugiter sentiamus.
-Qui vivis et regnas cum Deo Patre in unitate Spiritus Sancti,
+Deus, qui humanae redemptionis opus
+per Unigeniti tui paschale mysterium implevisti,
+concede propitius,
+ut, qui Christi mortem et resurrectionem
+in sacramentorum signis annuntiamus fidenter,
+salvationis tuae continuum experiamur augmentum.
+Per Dominum nostrum Iesum Christum, Filium tuum,
+qui tecum vivit et regnat in unitate Spiritus Sancti,
 Deus, per omnia saecula saeculorum.
 '''
 
 [offertory]
 text = '''
-Kérünk, Istenünk,
-add meg Egyházadnak az egység és a béke ajándékát,
-amelyet a felajánlott áldozati adományok titokzatosan jelképeznek.
+Megváltásunk emlékezetét ünnepelve
+kérve kérjük, Istenünk,
+hogy atyai jóságodnak ez a szentsége
+legyen számunkra az egység jele és a szeretet köteléke.
 Krisztus, a mi Urunk által.
 '''
 la = '''
-Ecclesiae tuae, quaesumus, Domine,
-unitatis et pacis propitius dona concede,
-quae sub oblatis muneribus mystice designantur.
+Salutis nostrae memoriale celebrantes,
+clementiam tuam, Domine, suppliciter exoramus,
+ut hoc sacramentum pietatis
+fiat nobis signum unitatis et vinculum caritatis.
 Per Christum Dominum nostrum.
 '''
 
 [communion]
-cite = "Jn 6,57"
+cite = "Jn 6,51-52"
 text = '''
-Aki eszi az én testemet és issza az én véremet,
-az bennem marad, én meg benne – mondja az Úr.
+Én vagyok a mennyből alászállott élő kenyér.
+Aki e kenyérből eszik, örökké él.
+A kenyér, amelyet adok,
+az én testem a világ életéért – mondja az Úr.
 '''
 la = '''
-Qui manducat meam carnem
-et bibit meum sanguinem,
-in me manet et ego in eo,
+Ego sum panis vivus, qui de caelo descendi,
 dicit Dominus.
+Si quis manducaverit ex hoc pane, vivet in aeternum;
+et panis, quem ego dabo, caro mea est pro mundi vita.
 '''
 
 [postcommunion]
 text = '''
-Kérünk, Urunk,
-töltsd be lelkünket istenséged örökkévaló élvezetével,
-amelyet drága testednek és vérednek
-mostani vétele már előre jelez.
-Aki élsz és uralkodol mindörökkön-örökké.
+Kérünk, Istenünk, tégy szentté minket,
+akik a mennyei asztalról táplálkoztunk,
+hogy Krisztus teste és vére
+mindnyájunkat igaz testvériségben kössön össze.
+Krisztus, a mi Urunk által.
 '''
 la = '''
-Fac nos, quaesumus, Domine,
-divinitatis tuae sempiterna fruitione repleri,
-quam pretiosi Corporis et Sanguinis tui
-temporalis perceptio praefigurat.
-Qui vivis et regnas in saecula saeculorum.
+Sanctificet nos, quaesumus, Domine,
+mensae caelestis participatio,
+ut, per Corpus et Sanguinem Christi,
+fraternitas cuncta copuletur.
+Per Christum Dominum nostrum.
 '''
 
 # Readings: of the day (30. évközi hét csütörtök, II. év), from src/cycle/evkozi-30-4-II.json (igenaptár).

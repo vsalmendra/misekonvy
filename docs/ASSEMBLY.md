@@ -139,7 +139,8 @@ I by default; readings ferial unless the user asks for the lectionary for the de
 ("N.-nek és N.-nek", Latin "(N. et N.)") are optional: for all the dead drop them with `names` /
 `la_names`, for named dead put the names in.
 
-**Votive masses** — propers from the votive formula of the missal; readings ferial.
+**Votive masses** — propers from the votive Mass's own first formula (e.g. "A"), not from a feast
+the rubric also allows (user, 2026-10-28: Eucharist votive → formula A, not Úrnapja); readings ferial.
 
 **Prefaces** — the dropdown always offers, after the day's suggestions, the own prefaces of
 Eucharistic prayers II and IV. Choosing EP IV switches the preface to EP IV's own (it may only be
