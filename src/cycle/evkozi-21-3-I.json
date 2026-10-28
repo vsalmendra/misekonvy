@@ -1,0 +1,32 @@
+{
+ "key": "evkozi-21-3-I",
+ "source_date": "2025-08-27",
+ "rank": "",
+ "day": "21. évközi hét szerda",
+ "psalm": {
+  "cite": "Zsolt 138,7-8.9-10.11-12ab",
+  "response": "Te megvizsgáltál, Uram, és ismersz engem.",
+  "verses": [
+   "Lelked elől ugyan hová mehetnék?\nSzíned elől hová futhatnék?\nHa fölszállnék az égbe, te ott vagy,\nha a holtak hazájában pihennék, ott is jelen vagy.",
+   "Ha felölteném a hajnal szárnyait,\nés a tenger túlsó végén laknék,\noda is a te kezed vezetne,\nés jobbod tartana engem.",
+   "Ha azt mondom: † „Sötétség rejtsen el,\nés a fény körülöttem boruljon éjbe!”\nneked a sötétség akkor sem lesz sötét,\ns az éj világos, akár a nappal."
+  ]
+ },
+ "alleluia": {
+  "text": "Aki megtartja Krisztus igéjét, abban Isten szeretete valóban tökéletes.",
+  "cite": "1Jn 2,5"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "A képmutatást leleplezi majd Isten ítélete.",
+  "text": "Jézus egyszer így korholta a farizeusokat:\n\nJaj, nektek, képmutató írástudók és farizeusok! Olyanok vagytok, mint a fehérre meszelt sírok, amelyek kívülről szépnek látszanak, belül azonban holtak csontjaival és mindenféle undoksággal vannak tele. Így ti is kívülről igaznak látszotok az emberek előtt, de belül tele vagytok képmutatással és gonoszsággal.\n\nJaj, nektek, képmutató írástudók és farizeusok! Sírboltokat emeltek a prófétáknak, feldíszítitek az igazak síremlékeit, és kijelentitek: „Ha atyáink napjaiban éltünk volna, nem lettünk volna bűnrészesek a próféták vérében.” Ezzel ti magatok tanúsítjátok, hogy a próféták gyilkosainak fiai vagytok. Nos, fejezzétek hát be, amit atyáitok elkezdtek!",
+  "cite": "Mt 23,27-32"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a tesszaloniki hívekhez írt első leveléből",
+  "summary": "Az apostol éjjel-nappal dolgozik híveiért, és hirdeti nekik Isten evangéliumát.",
+  "text": "Testvéreim!\n\nEmlékezhettek fáradozásunkra és kemény munkánkra: éjjel-nappal dolgoztunk, hogy senkinek se legyünk a terhére. Így hirdettük nektek Isten evangéliumát.\n\nTanúim vagytok, ti és az Isten, milyen szentül, becsületesen és feddhetetlenül éltünk nálatok, akik hívők lettetek. Azt is tudjátok, hogy mint az atya a gyermekét, úgy intettünk, buzdítottunk és kérve kértünk titeket, hogy méltóképpen éljetek Istenhez, aki dicsőséges országába meghívott titeket.\n\nEzért szüntelenül hálát adunk Istennek, hogy amikor Isten szavát hallottátok tőlünk, nem úgy fogadtátok azt, mint emberi tanítást, hanem mint Isten szavát, amint valóban az is. Bennetek is, akik hittetek, hatékonynak fog bizonyulni.",
+  "cite": "1Tessz 2,9-13"
+ }
+}

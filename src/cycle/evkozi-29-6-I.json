@@ -1,0 +1,32 @@
+{
+ "key": "evkozi-29-6-I",
+ "source_date": "2025-10-25",
+ "rank": "",
+ "day": "29. évközi hét szombat",
+ "psalm": {
+  "cite": "Zsolt 23,1-2.3-4ab.5-6",
+  "response": "Ez az istenkeresők népe, mely látni kívánja arcodat, Urunk.",
+  "verses": [
+   "Az Úré a föld, és ami betölti,\na földkerekség és minden lakója.\nTengerek fölé ő rakta alapját,\ns a vizek árján ő tartja szilárdan.",
+   "Ki mehet föl az Úr hegyére,\nki állhat meg az ő szent helyén?\nAki ártatlan kezű, tiszta szívű,\nakinek az esze nem jár csaláson.",
+   "Az nyer áldást az Úrtól,\nés megigazulást üdvözítő Istenétől.\nEz az istenkeresők népe,\namely arcát kutatja Jákob Istenének."
+  ]
+ },
+ "alleluia": {
+  "text": "Én nem kívánom a bűnös halálát, mondja a mi Urunk, Istenünk, hanem hogy a bűnös éljen, és hozzám térjen.",
+  "cite": "Ez 33,11"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Tartsunk mindnyájan bűnbánatot, mert így mentjük meg lelkünket!",
+  "text": "Abban az időben odajött Jézushoz néhány ember, s azokról a galileaiakról hozott hírt, akiknek vérét Pilátus az áldozat vérével vegyítette.\n\nErre Jézus megjegyezte: „Azt hiszitek, hogy ezek a galileaiak bűnösebbek voltak, mint a többi galileai, mivel így jártak? Mondom nektek: nem! De ha nem tartotok bűnbánatot, éppúgy elvesztek ti is mindnyájan. Vagy azt gondoljátok, hogy az a tizennyolc ember, akire rádőlt Siloámban a torony és megölte őket, bűnösebbek voltak a Jeruzsálemben élő többi embernél? Mondom nektek: nem! De ha nem tartotok bűnbánatot, éppúgy elvesztek ti is mindnyájan.”\n\nAztán egy példabeszédet mondott. „Egy embernek fügefa volt a szőlőjében. Kiment, gyümölcsöt keresett rajta, de nem talált. Erre így szólt vincellérjéhez: »Idejárok három év óta, hogy gyümölcsöt keressek ezen a fügefán, de nem találok. Vágd ki! Miért foglalja itt a helyet?« De az így válaszolt: »Uram, hagyd meg még az idén. Körülásom és megtrágyázom, hátha terem majd jövőre. Ha mégsem, akkor kivághatod.«”",
+  "cite": "Lk 13,1-9"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a rómaiakhoz írt leveléből",
+  "summary": "A mennyei Atya, aki Jézust is feltámasztotta a halálból, bennünket is életre kelt a Szentlélek erejével.",
+  "text": "Testvéreim!\n\nNincs semmi ítéletre méltó azokban, akik Jézus Krisztusban élnek. Hiszen a lélek törvénye, amelyet a Jézus Krisztusban való élet ad, felszabadít minket a bűnnek és a halálnak törvényétől.\n\nAmire ugyanis az ószövetségben adott törvény képtelen volt, mert a test miatt erőtlenné vált, azt Isten végrehajtotta. A bűn miatt tulajdon Fiát küldte, a bűnös testhez hasonló alakban. Ő azért jött, hogy elítélje a testben lévő bűnt, hogy beteljesedjék a törvény rajtunk, akik már nem test, hanem a Lélek szerint élünk.\n\nAki a test szerint él, testiekre vágyik; aki viszont a Lélek szerint él, lelkiekre törekszik. A test kívánsága a halálra vezet, a lélek törekvése az életre és a békére. A test vágyódása ugyanis Isten ellen van, mert nem veti alá magát Isten törvényének, hiszen nem is képes rá. Aki test szerint él, nem lehet kedves Isten előtt.\n\nTi azonban nem a test, hanem a lélek szerint éltek, ha valóban Isten Lelke lakik bennetek. De akiben nem lakik Krisztus Lelke, az nem Krisztusé.\n\nHa Krisztus bennetek lakik, jóllehet a test a bűn miatt halott, a lélek a megigazulás következtében él. Ha pedig bennetek lakik annak Lelke, aki feltámasztotta Jézust a halálból, ő, aki Krisztust feltámasztotta a halottak közül, a ti halandó testeteket is életre kelti a bennetek lakó Lelke által.",
+  "cite": "Róm 8,1-11"
+ }
+}

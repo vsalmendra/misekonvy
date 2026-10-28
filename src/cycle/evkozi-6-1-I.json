@@ -1,0 +1,32 @@
+{
+ "key": "evkozi-6-1-I",
+ "source_date": "2025-02-17",
+ "rank": "",
+ "day": "6. évközi hét hétfő",
+ "psalm": {
+  "cite": "Zsolt 49,1 és 8.16bc-l7.20-21",
+  "response": "A dicséret áldozatát, ajánld fel Uradnak, Istenednek.",
+  "verses": [
+   "Szólott az Úr, az istenek Istene,\nhívta a földet napkelettől napnyugatig:\n„Nem áldozataid miatt dorgállak meg én,\négőáldozataidat mindig látom.”",
+   "„Törvényeimet miért emlegeted,\nés miért veszed ajkadra szövetségem.\nHiszen gyűlölöd a törvény fegyelmét,\nhátat fordítasz szavaimnak.”",
+   "„Leülsz és máris gyalázod testvéredet,\nanyád gyermekéről rosszat mondasz.\nÍgy cselekedtél, és én csak hallgattam, † úgy vélted, hogy hozzád hasonló vagyok,\nde felelned kell, mert számon kérlek.”"
+  ]
+ },
+ "alleluia": {
+  "text": "Jézus mondja: „Én vagyok az út, az igazság és az élet. Senki sem jut Atyámhoz, csak általam.”",
+  "cite": "Jn 14,6"
+ },
+ "gospel": {
+  "book": "Szent Márk",
+  "summary": "Jézustól égi jelet vártak kortársai, pedig ő maga volt az égi jel.",
+  "text": "Egy alkalommal farizeusok mentek Jézushoz, és vitatkozni kezdtek vele. Égi jelet kértek tőle, mert próbára akarták tenni.\n\nŐ lelke mélyéből felsóhajtott, és így szólt: „Miért akar jelet ez a nemzedék? Bizony mondom nektek: ez a nemzedék nem kap semmiféle jelet.”\n\nEzzel otthagyta őket. Ismét hajóba szállt, és átkelt a Galileai-tó túlsó partjára.",
+  "cite": "Mk 8,11-13"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Mózes első könyvéből",
+  "summary": "Isten Ábel áldozatát fogadta szívesen; Káin ezért megharagudott, és megölte testvérét.",
+  "text": "Ádámnak és Évának fia született: Káin. Éva azt mondta: „Fiúgyermeket kaptam Isten kegyelméből.” Majd Káinnak öccse is született: Ábel. Ábel pásztor volt, Káin pedig földműves.\n\nHosszabb idő elmúltával történt, hogy Káin a föld gyümölcséből áldozatot mutatott be az Úrnak. Ábel is áldozott nyájának legjavából és azok hájából. Az Úr szívesen tekintett Ábelre és áldozatára, de Káinra és áldozatára nem. Erre Káin nagy haragra lobbant; még az arca is elváltozott.\n\nÁm az Úr figyelmeztette: „Miért lobbantál haragra? És miért változott el az arcod? Nemde ha jót cselekedtél, emeld fel tekinteted; de ha rosszat tettél, az ajtóban leselkedik a bűn. Állj ellen a bűnös kívánságnak és uralkodjál rajta!”\n\nKáin akkor azt mondta öccsének, Ábelnak: „Menjünk ki a mezőre!” És amikor kinn voltak, Káin rátámadt öccsére, és megölte.\n\nAz Úr felelősségre vonta Káint: „Hol van testvéred, Ábel?” Azt felelte: „Nem tudom. Vajon őrzője vagyok én testvéremnek?”\n\nErre azt mondta neki az Úr: „Mit műveltél? Testvéred vére felkiált hozzám a földről. Nos tehát átkozott leszel, kitaszítva a földről, mely megnyitotta száját, és fölitta testvéred kiontott vérét. Ha megműveled is, nem ad neked termést. Kóbor bujdosó leszel a földön.”\n\nKáin erre azt válaszolta az Úrnak: „Túl nagy az én büntetésem ahhoz, hogy el tudjam viselni. Most elűzöl erről a vidékről, rejtőznöm kell színed elől, és kóbor bujdosó lesz belőlem a földön. Bárki megölhet, aki rám talál.”\n\nErre az Úr azt mondta neki: „Semmi esetre nem lesz úgy! Bárki, aki megöli Káint, hétszeresen bűnhődik.” Jelet is tett az Úr Káinra, hogy ne ölje meg senki, aki rátalál.\n\nEzek után Ádámnak és Évának újra fia született. Éva Szetnek nevezte és ezt mondta: „Másik magzatot adott nékem az Isten Ábel helyett, akit Káin megölt.”",
+  "cite": "Ter 4,1-15.25"
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "key": "evkozi-20-4-II",
+ "source_date": "2024-08-22",
+ "rank": "",
+ "day": "20. évközi hét csütörtök",
+ "psalm": {
+  "cite": "Zsolt 50,12-13.14-15.18-19",
+  "response": "Tiszta vizet árassz reánk, és tisztíts meg minden gonoszságtól!",
+  "verses": [
+   "Tiszta szívet teremts bennem, Istenem,\naz erős lelket éleszd fel újra bennem.\nNe taszíts el színed elől,\nés szent lelkedet ne vond meg tőlem.",
+   "Üdvösséged örömét add meg újra,\na készséges lelkületet erősítsd meg bennem.\nMegtanítom utaidat a vétkeseknek,\nés a bűnösök hozzád térnek.",
+   "Te a véres áldozatot nem kedveled,\ns ha égőáldozatot hoznék, nem vennéd szívesen.\nIsten előtt kedves áldozat a megtört lélek,\nIstenem, te nem veted meg az alázatos és töredelmes szívet."
+  ]
+ },
+ "alleluia": {
+  "text": "Bár hallgatnátok ma Isten szavára! Ne legyetek többé keményszívűek!",
+  "cite": "Zsolt 94,8ab"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Isten mindenkit meghív az Egyházba és az örök üdvösségre.",
+  "text": "Abban az időben Jézus ismét példabeszédekben szólt a főpapokhoz és a nép véneihez: A mennyek országa olyan, mint amikor egy király menyegzőt rendezett a fiának. Elküldte szolgáit, hogy szóljanak a meghívottaknak, jöjjenek a menyegzőre. Ők azonban nem akartak jönni. Erre más szolgákat küldött: „Mondjátok meg a meghívottaknak: Íme, a lakomát elkészítettem. Ökreim és hizlalt állataim leöltem. Minden készen áll, jöjjetek a menyegzőre!” De azok mindezzel mit sem törődve szétszéledtek: az egyik a földjére ment, a másik az üzlete után nézett. A többiek pedig a szolgáknak estek: összeverték, sőt meg is ölték őket. A király nagy haragra lobbant. Elküldte seregeit, és felkoncoltatta a gyilkosokat, városukat pedig felégette. Azután így szólt a szolgákhoz: „A menyegző kész, de a meghívottak nem voltak rá méltók. Menjetek hát ki az útkereszteződésekre, és akit csak találtok, hívjátok el a menyegzőre!” A szolgák kimentek az utakra és összeszedtek mindenkit, akit csak találtak, gonoszokat és jókat egyaránt. A lakodalmas ház megtelt vendégekkel.\n\nAmikor a király bejött, hogy megszemlélje a vendégeket, meglátott köztük egy embert, aki nem volt menyegzős ruhába öltözve. Megszólította: „Barátom, hogy jöhettél be ide, ha nincs menyegzős ruhád?” De az csak hallgatott. Erre a király megparancsolta a szolgáknak: „Kezét-lábát kötözzétek meg, és dobjátok ki a külső sötétségre! Ott sírás lesz és fogcsikorgatás!”\n\nSokan vannak a meghívottak, de kevesen a választottak!",
+  "cite": "Mt 22,1-14"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Ezekiel próféta könyvéből",
+  "summary": "Isten új szívet ad övéinek; megszenteli és országába vezeti őket.",
+  "text": "Prófétája által így vigasztalja népét az Úr:\n\nSzentté teszem nagy nevemet, amelyet gyalázat ért a népek között, amelyet ti megszentségtelenítettetek közöttük. Akkor majd megtudják a népek, hogy én vagyok az Úr – mondja az Úr, az Isten –, amikor a szemük láttára megmutatom rajtatok, hogy szent vagyok.\n\nKihozlak titeket a népek közül, összegyűjtelek minden országból, és visszaviszlek saját földetekre. Akkor majd tiszta vizet hintek rátok, hogy megtisztuljatok minden tisztátalanságtól, s minden bálványtól megtisztítalak benneteket.\n\nÚj szívet adok nektek és új lelket oltok belétek, kiveszem testetekből a kőszívet és hússzívet adok nektek. Az én lelkemet oltom belétek és gondoskodom róla, hogy parancsaim szerint éljetek, és szemetek előtt tartsátok törvényeimet és hozzájuk igazodjatok. Abban az országban laktok majd, amelyet atyáitoknak adtam, s az én népem lesztek, én meg a ti Istenetek leszek.",
+  "cite": "Ez 36,23-28"
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "key": "evkozi-27-6-I",
+ "source_date": "2025-10-11",
+ "rank": "",
+ "day": "27. évközi hét szombat",
+ "psalm": {
+  "cite": "Zsolt 96,1-2.5-6.11-12",
+  "response": "Örvendjetek, igazak, az Úrban, áldjátok nevét!",
+  "verses": [
+   "Király az Úr, a föld ujjongjon,\nés örvendjen minden sziget.\nSötét felhő lebegi őt körül,\ntrónjának támasza jog és igazság.",
+   "Viaszként szétfolynak a hegyek az Úr előtt,\naz egész föld Urának színe előtt.\nIgazságosságát hirdetik az egek,\nés nagy fölségét meglátják a népek.",
+   "Fényesség ragyog az igazra,\nés öröm a tiszta szívűekre.\nÖrvendjetek, igazak, az Úrban,\nés szent nevére áldást mondjatok."
+  ]
+ },
+ "alleluia": {
+  "text": "Boldogok, akik Isten szavát hallgatják, és hűségesek maradnak hozzá.",
+  "cite": "Lk 11,28"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Jézus arról tanít, hogy ki lehet igazán boldog.",
+  "text": "Egy alkalommal, amikor Jézus tanított, felkiáltott egy asszony a tömegből: „Boldog a méh, mely hordozott téged, és az emlő, amely táplált!”\n\nErre ő így válaszolt: „És még milyen boldogok azok, akik Isten szavát hallgatják és meg is tartják!”",
+  "cite": "Lk 11,27-28"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Joel próféta könyvéből",
+  "summary": "A vetés megérett az aratásra, a világ megérett az ítéletre.\n\nA gonoszok meglakolnak, az igazak üdvözülnek.",
+  "text": "Az utolsó ítéletről prófétája által szól az Úr: Keljetek fel, ti, nemzetek, és jertek a Jozafát völgyébe, mert ott tartok ítéletet minden nép felett.\n\nVegyétek elő a sarlót, mert a vetés már megérett!\n\nJöjjetek és tapossátok, tele van már a borsajtó!\n\nUgyanígy túlárad a népek gonoszsága.\n\nNépek népek után jelennek meg a Döntés völgyében; mert közel van az Úr napja a Döntés völgyében.\n\nA Nap és a Hold elsötétedik, a csillagok elveszítik fényüket.\n\nAz Úr szózata zeng a Sion hegyéről, és hallatja szavát Jeruzsálemből úgy, hogy megrendül tőle az ég és a föld.\n\nNépének azonban menedéke az Úr lesz, és választottjainak erőssége.\n\nAkkor majd megtudjátok, hogy én, az Úr vagyok a ti Istenetek, aki szent hegyemen, a Sionon lakom.\n\nSzent hely lesz akkor Jeruzsálem, és idegenek nem vonulnak át rajta.\n\nAzon a napon a hegyekről édes must csorog, és a halmokról a völgybe tej folyik.\n\nJúda minden patakjának medrét víz árasztja el.\n\nForrás fakad az Úr házából, és megöntözi a Tövisek völgyét.\n\nEgyiptom pusztasággá lesz és Edom kietlen sivataggá, mert gonoszságot cselekedtek Júda fiai ellen, és ártatlan vért ontottak földjükön,\n\nJúda azonban lakott lesz mindörökké, és Jeruzsálem is nemzedékről nemzedékre.\n\nMegbosszulom vérüket, nem hagyom büntetés nélkül.\n\nS az Úr majd a Sion-hegyen lakik.",
+  "cite": "Joel 4,12-21"
+ }
+}

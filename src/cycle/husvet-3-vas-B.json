@@ -1,0 +1,41 @@
+{
+ "key": "husvet-3-vas-B",
+ "source_date": "2024-04-14",
+ "rank": "",
+ "day": "Húsvét 3. vasárnapja",
+ "psalm": {
+  "cite": "Zsolt 4,2.4.7.9",
+  "response": "Ragyogtasd ránk, Uram, arcod fényességét!",
+  "verses": [
+   "Vagy: Alleluja. 4. szám.\nMidőn segítségül hívtalak,\nmeghallgattál engem, igazságom Istene.\nSzorult helyzetemben megsegítettél engem;\nkönyörülj rajtam, és hallgasd meg imámat.",
+   "Vagy: Alleluja.\nTudjátok meg: † Az Úr csodásan megmenti hívét;\nmeghallgat az Úr, ha hozzá kiáltok.",
+   "Vagy: Alleluja.\nMondják sokan: † „Ki részesít jóban minket?”\nRagyogtasd ránk, Uram, arcod fényességét!",
+   "Vagy: Alleluja.\nAlig térek nyugovóra, békében elalszom,\nmert egyedül te adsz nékem biztonságot, Uram.",
+   "Vagy: Alleluja."
+  ]
+ },
+ "alleluia": {
+  "text": "Urunk, Jézus, tárd fel nekünk az Írások értelmét! Hadd lángoljon a szívünk, midőn tanítasz minket!",
+  "cite": "Lk 24,32"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "",
+  "text": "Abban az időben: Az (Emmauszból visszatért) tanítványok beszámoltak az úton történtekről, meg arról, hogyan ismerték fel Jézust a kenyértöréskor. Míg ezekről beszélgettek, egyszer csak megjelent köztük (Jézus), és köszöntötte őket: „Békesség nektek!” Ijedtükben és félelmükben azt vélték, hogy szellemet látnak. De ő így szólt hozzájuk: „Miért ijedtetek meg, és miért támad kétely a szívetekben? Nézzétek meg kezemet és lábamat! Én vagyok. Tapintsatok meg és lássátok! A szellemnek nincs húsa és csontja, de amint látjátok, nekem van.” Ezután megmutatta nekik a kezét és a lábát. De örömükben még mindig nem mertek hinni, és csodálkoztak. Ezért így szólt hozzájuk: „Van itt valami ennivalótok?” Adtak neki egy darab sült halat. Fogta és a szemük láttára evett belőle.\n\nAztán így szólt hozzájuk: „Ezeket mondtam nektek, amikor még veletek voltam. Be kell teljesednie mindannak, amit rólam Mózes törvényében, a prófétákban és a zsoltárokban írtak.” Ekkor megnyitotta értelmüket, hogy megértsék az Írásokat. Majd így folytatta: „Meg van írva, hogy a Messiásnak szenvednie kell, és harmadnap fel kell támadnia a halálból. Nevében megtérést és bűnbocsánatot kell hirdetni Jeruzsálemtől kezdve minden népnek. Ti tanúi vagytok ezeknek. Én meg kiárasztom rátok Atyám ígéretét.”",
+  "cite": "Lk 24,35-48"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "az Apostolok Cselekedeteiből",
+  "summary": "",
+  "text": "Azokban a napokban Péter így beszélt a néphez: Ábrahám, Izsák és Jákob Istene, atyáink Istene megdicsőítette Szolgáját, Jézust, akit ti kiszolgáltattatok és megtagadtatok Pilátus színe előtt, noha ő úgy határozott, hogy szabadon bocsátja. Ti azonban megtagadtátok a Szentet és az Igazat, és (Pilátust) arra kértétek, hogy a gyilkosnak kegyelmezzen, az élet Fejedelmét pedig megöltétek. Isten azonban feltámasztotta őt a halálból, és ennek mi tanúi vagyunk. Tudom, testvérek, hogy csak tudatlanságból cselekedtétek, amit tettetek, ahogy vezetőitek is. Isten azonban így teljesítette be, amit minden prófétájának szájával hirdetett: hogy az ő Fölkentjének szenvednie kell. Tartsatok hát bűnbánatot, és térjetek meg, hogy bűneitek bocsánatot nyerjenek.",
+  "cite": "ApCsel 3,13-15.17-19"
+ },
+ "reading2": {
+  "label": "Szentlecke",
+  "sub": "Szent János apostol első leveléből",
+  "summary": "",
+  "text": "Gyermekeim! Ezeket azért írom, hogy ne kövessetek el bűnt. De ha valaki bűnbe esik, van szószólónk az Atyánál: Jézus Krisztus, az Igaz. Ő az engesztelő áldozat bűneinkért, nemcsak a mieinkért, hanem az egész világ bűneiért is.\n\nAbból tudjuk meg, hogy megismertük, ha megtartjuk parancsait. Aki azt mondja: „ismerem”, de parancsait nem tartja meg, az hazudik, és nincs meg benne az igazság. De aki megtartja tanítását, abban az Isten szeretete valóban tökéletes.",
+  "cite": "1Jn 2,1-5a"
+ }
+}

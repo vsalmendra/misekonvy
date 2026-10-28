@@ -1,0 +1,41 @@
+{
+ "key": "nagybojt-5-vas-C",
+ "source_date": "2025-04-06",
+ "rank": "",
+ "day": "Nagyböjt 5. vasárnap",
+ "psalm": {
+  "cite": "Zsolt 125,1-2ab.2cd-3.4-5.6",
+  "response": "Hatalmas dolgot művelt az Úr vélünk, azért szívből ujjongunk. 3. vers.",
+  "verses": [
+   "Midőn az Úr hazahívta Sionnak foglyait,\nolyanok voltunk, mint akik álmodnak.\nMegtelt akkor örömmel az ajkunk,\nés a nyelvünk ujjongással.",
+   "Akkor így beszéltek a nemzetek:\n„Az Úr nagy dolgot művelt vélük.”\nHatalmas dolgot művelt az Úr vélünk,\nazért szívből ujjongunk.",
+   "Fordítsd, Uram, jóra sorsunkat,\namint megárasztod délen a folyókat.\nAkik könnyek között vetnek,\nmajd ujjongva aratnak.",
+   "Sírva viszik a magot, mikor vetni indulnak,\nde ujjongva jönnek, jönnek és hozzák kévéiket."
+  ]
+ },
+ "alleluia": {
+  "text": "Teljes szívvel térjetek vissza hozzám, mondja a mi Urunk Istenünk, mert jóságos és irgalmas vagyok tihozzátok!",
+  "cite": "Joel 2,12-13",
+  "lent": true
+ },
+ "gospel": {
+  "book": "Szent János",
+  "summary": "Az vesse rá az első követ, aki bűntelen közületek!",
+  "text": "Abban az időben Jézus kiment az Olajfák-hegyére. Kora reggel újra megjelent a\n\ntemplomban. A nép köréje sereglett, ő pedig leült, és tanította őket.\n\nAz írástudók és a farizeusok egy házasságtörésen ért asszonyt vittek\n\neléje. Odaállították középre, és így szóltak hozzá: „Mester, ezt az\n\nasszonyt házasságtörésen érték. Mózes azt parancsolta a törvényben,\n\nhogy az ilyet meg kell kövezni. Hát te mit mondasz?” Ezt azért\n\nkérdezték, hogy próbára tegyék, és vádolhassák.\n\nJézus lehajolt, és az ujjával írni kezdett a földön. Ők azonban\n\ntovább faggatták. Erre fölegyenesedett, és azt mondta nekik: „Az vesse\n\nrá az első követ, aki közületek bűn nélkül van!” Aztán újra lehajolt,\n\ns tovább írt a földön. Azok meg ennek hallatára egymás után\n\neloldalogtak, kezdve a véneken, s csak Jézus maradt ott a középen álló\n\nasszonnyal.\n\nJézus fölegyenesedett és megszólította: „Asszony, hol vannak, akik\n\nvádoltak téged? Senki sem ítélt el?”\n\n„Senki, Uram” – felelte az asszony.\n\nErre Jézus azt mondta neki: „Én sem ítéllek el. Menj, de többé ne\n\nvétkezzél!”",
+  "cite": "Jn 8,1-11"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Izajás próféta könyvéből",
+  "summary": "Új dolgot visz végbe az Isten: vizet fakaszt népének a pusztaságban,\nés megnyitja számára a kegyelem forrását.",
+  "text": "Ezt mondja az Úr:\n\naki egykor utat készített a tengeren át\n\nés ösvényt a nagy vizekben,\n\naki kivezette a harci szekereket és lovakat,\n\na hadsereget és a hőst:\n\nelbuktak és nem keltek föl többé,\n\nodavesztek, és kialudtak, mint a mécses lángja:\n\n„Most már ne arra gondoljatok, ami régen történt,\n\nés ne a múlt dolgaira figyeljetek!\n\nNézzétek: én valami újat viszek végbe,\n\nés már sarjadóban is van, nem látjátok?\n\nValóban, utat készítek a pusztában,\n\nés folyókat a sivatagban.\n\nDicsőíteni fog a mező minden vadja,\n\na sakálok és a struccok,\n\nmert vizet fakasztok a pusztában\n\nés folyókat a sivatagban,\n\nhogy inni adjak népemnek, az én kiválasztottamnak.\n\nA nép, amelyet magamnak alkottam,\n\nhirdetni fogja dicsőségemet.”",
+  "cite": "Iz 43,16-21"
+ },
+ "reading2": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a filippiekhez írt leveléből",
+  "summary": "Tekintsünk Krisztusért mindent értéktelennek, és így hasonlóak\nleszünk hozzá a halálban.",
+  "text": "Testvéreim!\n\nKrisztus Jézusnak fönséges ismeretéhez mérten mindent\n\nhátránynak tartok. Érte mindent elvetettem, sőt szemétnek tekintek,\n\ncsakhogy Krisztust elnyerhessem és hozzá tartozzam. Hiszen nem a\n\ntörvény útján váltam igazzá, hanem a Jézus Krisztusba vetett hit révén.\n\nIsten ugyanis a hit által tett igazzá, hogy megismerjem őt és\n\nfeltámadásának erejét, de a szenvedésben is vállaljam vele a\n\nközösséget. Így hasonló akarok lenni hozzá halálában, hogy ezáltal\n\neljussak a halálból a feltámadásra is.\n\nNem mintha már elértem volna, vagy már a célban lennék, de futok\n\nutána, hogy magamhoz ragadjam, ahogy Krisztus is megragadott engem.\n\nTestvéreim, nem gondolom, hogy máris magamhoz ragadtam, de azt igen,\n\nhogy elfelejtem, ami mögöttem van, és nekilendülök annak, ami előttem\n\nvan. Futok a kitűzött cél felé, az égi hivatás jutalmáért, amelyre\n\nIsten meghívott Krisztusban.",
+  "cite": "Fil 3,8-14"
+ }
+}

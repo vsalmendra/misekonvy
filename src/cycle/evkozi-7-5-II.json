@@ -1,0 +1,33 @@
+{
+ "key": "evkozi-7-5-II",
+ "source_date": "2024-05-24",
+ "rank": "",
+ "day": "7. évközi hét péntek",
+ "psalm": {
+  "cite": "Zsolt 102,1-2.3-4.8-9.11-12",
+  "response": "Irgalmas a mi Urunk, Istenünk, könyörületre hajlik szíve.",
+  "verses": [
+   "Áldjad, lelkem, az Urat,\negész bensőm az ő szent nevét áldja.\nÁldjad, lelkem, az Urat,\nés ne feledd, hogy hozzád milyen jó volt.",
+   "Megbocsátja minden vétked,\nmeggyógyítja minden gyengeséged.\nA pusztulástól megmenti életed,\nkegyelmében és irgalmában meg is koronázza.",
+   "Irgalmas és kegyes a mi Istenünk,\nnagy irgalmú és hosszan tűrő.\nNem pöröl velünk szüntelen,\nés haragja nem tart mindörökké.",
+   "Mert amilyen messze van az ég a földtől,\nolyan nagy a szeretete az őt félők iránt,\nés amilyen messze van napkelet napnyugattól,\nolyan messzire veti el vétkeinket."
+  ]
+ },
+ "alleluia": {
+  "text": "Uram, a te szavad igazság, tégy szentté minket igazságod által! Vö. Jn 17,17b és a",
+  "cite": ""
+ },
+ "gospel": {
+  "book": "Szent Márk",
+  "summary": "Jézus a házasság felbonthatatlanságáról ad tanítást.",
+  "text": "Egy alkalommal Jézus útra kelt Kafarnaumból, és Júdea határába ment, a Jordán túlsó partjára. Ott ismét nagy tömeg sereglett köréje, ő pedig szokása szerint tanította őket.\n\nAkkor a farizeusok odamentek Jézushoz, és megkérdezték: „Szabad-e a férjnek elbocsátania feleségét?” Próbára akarták ugyanis tenni.\n\nŐ azonban kérdéssel válaszolt: „Mit parancsolt nektek Mózes?” Azt felelték: „Mózes megengedte, hogy válólevelet írjunk, és elbocsássuk őt.”\n\nJézus folytatta: „A ti szívetek keménysége miatt írta nektek ezt a parancsot. Isten azonban kezdetben, a teremtéskor férfit és nőt alkotott. Az ember ezért elhagyja apját, anyját, a feleségéhez csatlakozik, és ketten egy test lesznek. Ettől kezdve már nem két test, hanem csak egy. Amit tehát Isten egybekötött, azt ember szét ne válassza!”\n\nTanítványai otthon ismét megkérdezték őt erről. Ezt válaszolta nekik: „Aki elbocsátja feleségét és mást vesz el, házasságtöréssel vét ellene. Ha pedig a feleség hagyja el férjét, és máshoz megy, szintén házasságtörést követ el.”",
+  "cite": "Mk 10,1-12"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent Jakab apostol leveléből",
+  "summary": "Magatartásunkban legyünk türelmesek, beszédünkben pedig igazságszeretők!",
+  "text": "Testvéreim!\n\nNe zúgolódjatok egymás ellen, hogy ítéletet ne vonjatok magatokra! Hiszen az Úr, az igazságos Bíró az ajtóban áll, hogy eljöjjön.\n\nA bajok állhatatos elviselésében és a türelemben vegyetek példát a prófétákról, akik az Úr nevében szóltak! Boldognak mondjuk azokat, akik kitartottak. Hallottatok Jób türelméről, és tudjátok, hová juttatta őt az Úr. Hiszen irgalmas az Úr és könyörületes.\n\nFőleg pedig, testvéreim, ne esküdözzetek se az égre, se a földre, se más egyébre! Beszédetekben az „igen” legyen IGEN, a „nem” pedig NEM, nehogy ítélet sújtson titeket!",
+  "cite": "Jak 5,9-12"
+ }
+}

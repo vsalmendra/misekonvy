@@ -1,0 +1,32 @@
+{
+ "key": "evkozi-30-5-I",
+ "source_date": "2025-10-31",
+ "rank": "",
+ "day": "30. évközi hét péntek",
+ "psalm": {
+  "cite": "Zsolt 147,12-13.14-15.19-20",
+  "response": "Jeruzsálem, szentek otthona, dicsérd fölséges Istened!",
+  "verses": [
+   "Dicsérd Uradat, Jeruzsálem,\nmagasztald, Sion, Istenedet,\nmert erőssé tette kapuid zárát,\nés megáldotta benned fiaidat.",
+   "Határaidon ő ad békét,\nés jóllakat kövér búzával.\nElküldi szavát a földre,\naz ő igéje gyorsan terjed.",
+   "Igéjét Jákobnak hirdeti,\ntörvényeit és végzéseit Izraelnek.\nEgyetlen néppel sem bánt így,\nvégzéseit nem fedte fel senki másnak."
+  ]
+ },
+ "alleluia": {
+  "text": "Jézus mondja: „Juhaim hallgatnak szavamra; ismerem őket, és ők a nyomomban járnak.”",
+  "cite": "Jn 10,27"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Jézus ura a szombatnak.",
+  "text": "Az egyik szombaton Jézus betért egy vezető farizeus házába, hogy nála étkezzék. Az ott tartózkodók figyelték őt.\n\nAkkor eléje állt egy vízkóros ember. Jézus megkérdezte a törvénytudókat és farizeusokat: „Szabad-e szombaton gyógyítani?” De azok nem válaszoltak. Erre ő megérintette a beteget, meggyógyította és elbocsátotta.\n\nAzután a jelenlevőkhöz fordult: „Ha valamelyiktek szamara vagy ökre szombaton kútba esik, nem húzza-e ki azonnal?” Azok semmit sem tudtak felelni neki.",
+  "cite": "Lk 14,1-6"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a rómaiakhoz írt leveléből",
+  "summary": "Izrael népe – Isten nagy ajándékai ellenére is – elutasította Krisztust.\n\nAz apostol szívesen vállalna mindent népe üdvösségéért.",
+  "text": "Testvéreim!\n\nIgazat mondok Krisztusban, nem hazudom. Lelkiismeretem tanúskodik mellettem a Szentlélekben, hogy nagy az én szomorúságom és állandó a szívem fájdalma!\n\nInkább azt kívánnám, hogy magam legyek átok alatt, távol Krisztustól testvéreimért, a test szerint való rokonaimért, Izrael fiaiért! Hiszen övék az istenfiúság, a dicsőség, a szövetségek, a törvényadás, az istentisztelet és az ígéretek. Övék az atyák, és test szerint közülük származik Krisztus, aki mindenek fölött való mindörökké áldott Isten. Ámen.",
+  "cite": "Róm 9,1-5"
+ }
+}

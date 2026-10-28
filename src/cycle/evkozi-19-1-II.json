@@ -1,0 +1,34 @@
+{
+ "key": "evkozi-19-1-II",
+ "source_date": "2024-08-12",
+ "rank": "",
+ "day": "19. évközi hét hétfő",
+ "psalm": {
+  "cite": "Zsolt 148,1-2.ll-12ab.12c-14a.14bcd",
+  "response": "Dicsőséged betölti a mennyet és a földet!",
+  "verses": [
+   "Vagy: Alleluja. 8. szám.\nDicsérjétek az Urat a mennyből,\ndicsérjétek őt a magasságban!\nDicsérjétek mindnyájan, angyalok,\ndicsérjétek, összes mennyei karok!",
+   "Vagy: Alleluja.\nFöld királyai és minden népek,\nfejedelmek és a föld minden bírája,\nifjak és leányok,\nöregek és gyermekek, dicsérjétek az Úr nevét.",
+   "Vagy. Alleluja.\nDicsérjétek az Úr nevét,\nmert egyedül csak az ő neve fölséges.\nFölsége felülmúlja az eget és a földet,\nés ő emeli fel népe fejét.",
+   "Vagy: Alleluja.\nDicsérő ének ez minden szentjének,\nIzrael fiainak, a népnek, amely közel áll hozzá.",
+   "Vagy: Alleluja"
+  ]
+ },
+ "alleluia": {
+  "text": "Isten meghívott minket az evangélium által, hogy részesüljünk Urunk Jézus Krisztus dicsőségében.",
+  "cite": "Vö. 2Tessz 2,14"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Jézus az ő szenvedéséről és haláláról beszél, és megfizeti a templomadót.",
+  "text": "Galileai útjuk során Jézus ezt mondta tanítványainak:\n\n„Az Emberfiát az emberek kezébe fogják adni. Megölik őt, de harmadnapra feltámad.” Erre a tanítványok igen elszomorodtak.\n\nAmikor Kafarnaumba érkeztek, az adószedők Péterhez fordultak, és megkérdezték: „A ti Mesteretek nem fizet templomadót?” – „De igen” – felelte. Amikor belépett a házba, Jézus megelőzte őt kérdésével: „Mit gondolsz, Simon, a földi királyok kitől szednek vámot vagy adót, fiaiktól vagy az idegenektől?” „Az idegenektől” – felelte Péter.\n\nErre Jézus így szólt: „A fiak tehát mentesek. De hogy meg ne botránkoztassuk őket, menj ki a tóra, vess horgot, és az első halat, amelyik ráakad, húzd ki! Nyisd ki a száját: találsz benne egy pénzdarabot. Vedd ki és add oda nekik értem és érted!”",
+  "cite": "Mt 17,22-27"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Ezekiel próféta könyvéből",
+  "summary": "Az igaz Isten tűzhöz hasonló szellemi lény.",
+  "text": "Prófétai meghívását így írja le Ezekiel: Joákin király száműzetésének ötödik évében, a negyedik hónap ötödik napján, amikor a káldeusok földjén a Kobár folyó mellett voltam, megnyílt az ég, és én, Ezekiel pap, Búsi fia isteni látomásokat láttam: Ott volt felettem az Úr keze.\n\nForgószél támadt észak felől és nagy felhő.\n\nFényesség vette körül, és tűz, amelyből villámok törtek elő.\n\nA tűz bensejéből olyasvalami tűnt elő, mint a fénylő érc.\n\nA tűzben négy élőlényféle is volt látható, emberi formájuk volt.\n\nHallottam szárnyuk suhogását.\n\nOlyan volt mint a nagy vizek zúgása, vagy mint a Mindenható hangja.\n\nAmikor mentek, hangjuk dübörögve szólt, miként a morajló tömegnek, avagy harci népnek zaja.\n\nAmikor megálltak, leeresztették szárnyukat; mert valahányszor égi szózat hangzott fel fejük felett, azonnal lebocsátották szárnyukat.\n\nA fejük felett álló égboltozaton zafírkőféle látszott, mint királyi trón.\n\nA trónszerű dolog felett is emberhez hasonló lény volt látható.\n\nLáttam: fénylett, mint az érc, s mintha tűz vette volna körül.\n\nA derekától felfelé és lefelé pedig olyasmit láttam, mint a fénylő tűzfolyam.\n\nOlyasmit, mint a szivárvány, amely esős napokon a felhőkön feltűnik.\n\nIlyennek láttam ezt a tündöklést körös-körül.\n\nIlyennek mutatkozott meg előttem az Úr dicsősége.\n\nAmint ezt láttam, arccal a földre borultam.",
+  "cite": "Ez 1,2-5.24-28c"
+ }
+}

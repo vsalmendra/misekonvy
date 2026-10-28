@@ -1,0 +1,31 @@
+{
+ "key": "evkozi-11-4-I",
+ "source_date": "2025-06-19",
+ "rank": "",
+ "day": "11. évközi hét csütörtök",
+ "psalm": {
+  "cite": "Zsolt 110,1-2.3-4.7-8",
+  "response": "Hűség és igazság, amit az Úr keze művelt.",
+  "verses": [
+   "Teljes szívemből áldom az Urat\na szentek tanácsában és közösségében.\nNagyszerűek az Úr művei\nmindazok szemében, akik szeretik azokat.\nHívek. Hűség és igazság,\namit az Úr keze művelt.\nDicsőséges és fönséges minden cselekedete,\nés igazságossága örökre megmarad.\nCsodatetteinek emléket szerzett\na jóságos és irgalmas Isten.",
+   "Kezének műve igazság és igaz ítélet,\nparancsai mind szilárdak.\nMegmaradnak örökre,\nhűségre és igazságra épülnek."
+  ]
+ },
+ "alleluia": {
+  "text": "Megkaptátok a fogadott fiúság Lelkét, általa így szólítjuk Istent: „Abba, Atyánk!”",
+  "cite": "Róm 8,15"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Jézus megtanít bennünket a Miatyánkra.",
+  "text": "Jézus a hegyi beszédben ezt mondta tanítványainak:\n\n„Amikor imádkoztok, ne szaporítsátok a szót, mint a pogányok! Azt hiszik ugyanis, hogy akkor nyernek meghallgatást, ha sokat beszélnek. Ne utánozzátok őket! Hiszen mennyei Atyátok tudja, mire van szükségetek, még mielőtt kérnétek őt. Ti tehát így imádkozzatok:\n\nMi Atyánk, aki a mennyekben vagy, szenteltessék meg a te neved; jöjjön el a te országod; legyen meg a te akaratod, amint a mennyben, úgy a földön is.\n\nMindennapi kenyerünket add meg nekünk ma; és bocsásd meg vétkeinket, miképpen mi is megbocsátunk az ellenünk vétkezőknek; és ne vígy minket kísértésbe, de szabadíts meg a gonosztól!\n\nMert ha ti megbocsátjátok az embereknek, hogy (ellenetek) vétettek, mennyei Atyátok nektek is megbocsátja bűneiteket. De ha ti nem bocsátotok meg az embereknek, Atyátok sem bocsátja meg nektek bűneiteket.”",
+  "cite": "Mt 6,7-15"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a korintusiakhoz írt második leveléből",
+  "summary": "Az apostol ingyen hirdeti az evangéliumot.",
+  "text": "Testvéreim!\n\nBárcsak eltűrnétek részemről némi oktalanságot! De hiszen meg is teszitek. Én Isten féltő szeretetével aggódom értetek. Eljegyeztelek ugyanis titeket egy férfival, Krisztussal, hogy tiszta szűzként vezesselek titeket őhozzá. Félek azonban, hogy a gonosz lélek, amint álnokul rászedte Évát, a ti elméteket is megzavarja, és akkor véget ér a Krisztushoz való őszinte ragaszkodástok. (Attól is félek, hogy) ha valaki jönne, és más Jézust hirdetne, mint akit mi hirdettünk, vagy más Lelket kapnátok, mint akit elnyertetek, vagy más evangéliumot, mint amit elfogadtatok: szívesen vennétek.\n\nPedig azt gondolom, semmivel sem vagyok kisebb a „fő-fő apostoloknál”. Mert ha az ékesszólásban járatlan vagyok is, a tudásban nem. Ezt egyébként minden tekintetben igazoltuk előttetek.\n\nVagy talán hibát követtem el akkor, amikor magamat megaláztam, hogy titeket felmagasztaljalak, és ingyen hirdettem köztetek az Isten evangéliumát? Más egyházaknak voltam terhére, amikor tőlük támogatást fogadtam el, csakhogy nektek szolgálhassak. Amikor pedig köztetek tartózkodtam, nem voltam senkinek terhére akkor sem, ha szükséget szenvedtem. Ha valamiben hiányt szenvedtem, a Macedóniából jövő testvérek segítettek ki a bajból. Mindenképpen ügyeltem rá, hogy terhetekre ne legyek, és a jövőben is ügyelek. Krisztus igazságára mondom: ezt a dicsőséget Ahája tájain sem vehetik el tőlem. Ugyan miért? Talán mert nem szeretlek titeket? Isten a tudója, (hogy szeretlek).",
+  "cite": "2Kor 11,1-11"
+ }
+}

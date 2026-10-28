@@ -1,0 +1,33 @@
+{
+ "key": "evkozi-21-1-I",
+ "source_date": "2025-08-25",
+ "rank": "",
+ "day": "21. évközi hét hétfő",
+ "psalm": {
+  "cite": "Zsolt 149,1-2.3-4.5 és 6a és 9b",
+  "response": "Népében az Úr kedvét találja, üdvösségre vezeti a szelídeket.",
+  "verses": [
+   "Vagy: Alleluja. 3. szám.\nAz Úrnak új dalt énekeljetek,\na szentek közösségében zengjen dicsérete.\nTeremtőjének örvendjen Izrael,\nés Sion gyermekei ujjongjanak királyuknak.",
+   "Vagy: Alleluja.\nNevét körtánccal dicsérjék:\nzengjen a zsoltár dobbal és citerával.\nNépében az Úr kedvét találja,\nüdvösségre vezeti a szelídeket.",
+   "Vagy: Alleluja.\nÖrvendjenek a szentek dicsőségükben,\npihenőhelyükön is ujjongjanak.\nIsten magasztalása zeng az ajkukon,\nösszes szentjeinek ez lesz dicsősége.",
+   "Vagy: Alleluja."
+  ]
+ },
+ "alleluia": {
+  "text": "Jézus mondja: „Juhaim hallgatnak szavamra; ismerem őket, és ők a nyomomban járnak.”",
+  "cite": "Jn 10,27"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Jézus elítéli a vak vezetőket.",
+  "text": "Jézus egyszer így korholta a farizeusokat:\n\nJaj, nektek, képmutató írástudók és farizeusok! Elzárjátok a mennyek országába vezető utat az emberek elől. Ti magatok nem mentek be oda, és azokat sem engeditek odajutni, akik be szeretnének menni.\n\nJaj, nektek, képmutató írástudók és farizeusok! Tengert és szárazföldet bejártok, hogy egyetlen pogányt megtérítsetek, és ha megtért, a kárhozat fiává teszitek, kétszerte inkább, mint magatokat.\n\nJaj, nektek, vak vezetők! Azt mondjátok: „Ha valaki a templomra esküszik, az semmi; ha azonban a templom aranyára esküszik, az kötelez.” Ti, esztelenek és vakok! Hát mi nagyobb: az arany vagy a templom, amely megszenteli az aranyat? – Továbbá azt mondjátok: „Ha valaki az oltárra esküszik, az semmi, de ha a rajta lévő áldozati ajándékra esküszik, az kötelez.” – Ti, vakok! Hát mi nagyobb: az áldozati ajándék vagy az oltár, amely megszenteli az ajándékot? Aki tehát az oltárra esküszik, az esküszik az oltárra és mindarra, ami rajta van. Aki a templomra esküszik, az esküszik a templomra és arra, aki ott lakik. Végül aki az égre esküszik, az az Isten trónjára esküszik és arra, aki a trónon ül.",
+  "cite": "Mt 23,13-22"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a tesszaloniki hívekhez írt első leveléből",
+  "summary": "A tesszaloniki egyházközség példakép számunkra az igaz hit és szeretet gyakorlásában.",
+  "text": "Testvéreim!\n\nImádságainkban megemlékezünk rólatok, és szüntelenül gondolunk Istenünk és Atyánk előtt tevékeny hitetekre, áldozatos szeretetetekre és Urunkba, Jézus Krisztusba vetett szilárd reményetekre.\n\nTestvéreim, kiket az Úr szeret! Jól tudjátok, hogy választottak vagytok! Hiszen az evangéliumot nemcsak szóval hirdettük köztetek, hanem erővel, Szentlélekkel és mélységes meggyőződéssel!\n\nMindnyájan tudjátok, hogy hogyan viselkedtünk körötökben a ti szolgálatotokra.\n\nIstenbe vetett hitetek mindenütt ismertté vált, ezért nem is kell róla beszélnünk. Az emberek maguktól mondják el, hogyan fogadtatok minket, hogyan fordultatok a bálványoktól az Istenhez, hogy az élő és igaz Istennek szolgáljatok és várjátok a mennyből Fiát, Jézust, akit a halálból feltámasztott, s aki megment minket az eljövendő haragtól.",
+  "cite": "1Tessz 1,2b-5.8b-10"
+ }
+}

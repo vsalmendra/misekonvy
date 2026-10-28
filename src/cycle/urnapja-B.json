@@ -1,0 +1,40 @@
+{
+ "key": "urnapja-B",
+ "source_date": "2024-06-02",
+ "rank": "",
+ "day": "Krisztus Szent Teste és Vére, Úrnapja",
+ "psalm": {
+  "cite": "Zsolt 115,12-13.15 és 1abc.17-18",
+  "response": "Veszem az üdvösség kelyhét, és az Úr nevét hívom segítségül.",
+  "verses": [
+   "Vagy: Alleluja, alleluja, alleluja. 7. szám.\nAz Úrnak mit adhatnék,\nmindazért, amit nékem adott?\nVeszem az üdvösség kelyhét,\nés az Úr nevét hívom segítségül.",
+   "Vagy: Alleluja, alleluja, alleluja.\nDrága dolog az Úr színe előtt,\nszentjei dicső halála.\nSzolgád vagyok, Uram, és szolgálód gyermeke,\nbilincseimet széjjeltörted.",
+   "Vagy: Alleluja, alleluja, alleluja.\nBemutatom néked a dicséret áldozatát,\nés az Úr nevét hívom segítségül.\nMegadom az Úrnak, amit fogadtam,\negész népének színe előtt.",
+   "Vagy: Alleluja, alleluja, alleluja."
+  ]
+ },
+ "alleluia": {
+  "text": "Jézus mondja: „Én vagyok az égből szállott élő kenyér. Aki eszik ebből a kenyérből, örökké élni fog.”",
+  "cite": "Jn 6,51"
+ },
+ "gospel": {
+  "book": "Szent Márk",
+  "summary": "",
+  "text": "A kovásztalan kenyerek ünnepének első napján, amikor a húsvéti bárányt feláldozzák, tanítványai megkérdezték (Jézust): „Mit akarsz, hová menjünk, hogy elkészítsük számodra a húsvéti vacsorát?” Erre elküldte két tanítványát ezekkel a szavakkal: „Menjetek a városba. Találkoztok ott egy emberrel, aki vizeskorsót visz. Kövessétek őt, aztán ahová bemegy, ott mondjátok meg a házigazdának: A Mester kérdezi, hogy hol van az a szállás, ahol a húsvéti vacsorát tanítványaimmal elfogyaszthatom? Ő mutat majd nektek egy étkezésre berendezett, tágas, emeleti termet. Ott készítsétek el nekünk.” A tanítványok elmentek, s a városba érve mindent úgy találtak, ahogy megmondta; és elkészítették a húsvéti vacsorát. Vacsora közben kezébe vette a kenyeret, megáldotta, megtörte, és ezekkel a szavakkal adta nekik: „Vegyétek, ez az én testem.” Majd fogta a kelyhet, hálát adott, odanyújtotta nekik, és mindnyájan ittak belőle. Ő pedig így szólt: „Ez az én vérem, a szövetségé, amely sokakért kiontatik. Bizony mondom nektek: nem iszom többé a szőlő terméséből addig a napig, amíg az újat nem iszom az Isten országában.” Ezután zsoltárt énekelve kimentek az Olajfák hegyére.",
+  "cite": "Mk 14,12-16.22-26"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Mózes második könyvéből",
+  "summary": "",
+  "text": "Miután az Úr közölte a feltételeket, amelyek alapján szövetséget akart kötni népével, Mózes lejött a hegyről, s kihirdette a népnek az Úr minden szavát és parancsát. Az egész nép egy szívvel felelte: „Az Úr minden szavát megtartjuk.” Ezután Mózes leírta az Úr valamennyi törvényét. Másnap reggel a hegy lábánál felállított egy oltárt és tizenkét emlékoszlopot Izrael tizenkét törzsének megfelelően. Azután megbízott néhány fiatalt Izrael népéből, hogy égőáldozatot mutassanak be, és bikákat ajánljanak fel az Úrnak békeáldozatul.\n\nMózes vette a vér felét és áldozati csészékbe öntötte, a vér másik felét pedig az oltárra hintette. Majd fogta a szövetség könyvét, és felolvasta a népnek. Ők kijelentették: „Követjük és megtartjuk, amit az Úr parancsol.”\n\nErre Mózes vette a vért, meghintette vele a népet, és így szólt: „Ez annak a szövetségnek vére, amelyet az Úr mindezen igék alapján kötött veletek.”",
+  "cite": "Kiv 24,3-8"
+ },
+ "reading2": {
+  "label": "Szentlecke",
+  "sub": "a Zsidókhoz írt levélből",
+  "summary": "",
+  "text": "Testvéreim! Krisztus a ránk váró javak főpapjaként jelent meg, s belépett abba a nagyobb és tökéletesebb sátorba, amelyet nem ember keze alkotott, vagyis nem ebből a világból való. Nem a bakok vagy borjak vérével, hanem saját vérével lépett be egyszer s mindenkorra a szentélybe, és örök megváltást szerzett. Ha ugyanis a bakok és bikák vére, meg az üsző hamva, a tisztátalanokra hintve külsőleg tisztává teszi őket, mennyivel inkább megtisztítja lelkiismeretünket a holt cselekedetektől Krisztus vére. Ő az örök Lélek által saját magát adta tiszta áldozatul az Istennek, hogy az élő Istennek szolgáljunk. Ezért ő új szövetség közvetítője. Előbb azonban a régi szövetség idején elkövetett bűnök megváltásáért el kellett szenvednie a halált, hogy a meghívottak elnyerjék az örökké tartó örökséget.",
+  "cite": "Zsid 9,11-15"
+ }
+}

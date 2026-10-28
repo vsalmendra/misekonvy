@@ -1,0 +1,39 @@
+{
+ "key": "evkozi-6-vas-C",
+ "source_date": "2025-02-16",
+ "rank": "",
+ "day": "Évközi 6. vasárnap",
+ "psalm": {
+  "cite": "Zsolt 1,1-2.3.4 és 6",
+  "response": "Boldog az az ember, aki az Úrban bízik.",
+  "verses": [
+   "Boldog ember, aki nem követi a gonoszok tanácsát, † nem lép a bűnösök útjára,\na gúnyolódók körében nem foglal helyet.\nHanem az Úr törvényében leli örömét,\naz ő parancsairól elmélkedik éjjel és nappal.",
+   "Olyan, mint a fa, melyet folyóvíz mellé ültettek,\nmely idejében gyümölcsöt érlel.\nNem fonnyad el a lombja,\nsiker koronázza minden tettét.",
+   "Nem így járnak a gonoszok, nem így,\nhanem mint a polyva, melyet szétszór a szél.\nMert az Úr őrzi az igazak útját,\na gonoszok útja pusztulás."
+  ]
+ },
+ "alleluia": {
+  "text": "Örüljetek és vigadjatok, mondja a mi Urunk, mert nagy lesz a mennyben jutalmatok.",
+  "cite": "Lk 6,23ab"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Jézus boldognak hirdeti a lélekben szegényeket, de jajt kiált a szívtelen gazdagokra.",
+  "text": "Az apostolok kiválasztása után Jézus lejött a hegyről, és egy sík\n\nterepen megállt. Rengeteg tanítvány sereglett köréje, és hatalmas tömeg\n\nvette körül egész Júdeából, Jeruzsálemből, valamint a tiruszi és szidoni\n\ntengermellékről.\n\nEkkor tanítványaira emelte tekintetét, és megszólalt:\n\n„Boldogok vagytok, ti, szegények, mert tiétek az Isten országa.\n\nBoldogok vagytok, akik most éheztek, mert jutalmul bőségben lesz\n\nrészetek.\n\nBoldogok vagytok, akik most sírtok, mert sírástok nevetésre fordul.\n\nBoldogok vagytok, ha gyűlölnek titeket az emberek, kizárnak körükből\n\nés megrágalmaznak, s neveteket, mint valami szégyenletes dolgot,\n\nemlegetik az Emberfia miatt. Örüljetek, ha majd ez bekövetkezik, és\n\nujjongjatok, mert nagy jutalomban részesültök a mennyben. Atyáik is így\n\nbántak a prófétákkal.\n\nDe jaj, nektek, gazdagok, mert már megkaptátok vigasztalástokat.\n\nJaj nektek, akik most jóllaktatok, mert éhezni fogtok.\n\nJaj nektek, akik most nevettek, mert sírni és jajgatni fogtok!\n\nJaj nektek, ha az emberek hízelegnek nektek! Hisz atyáik is így\n\ntettek a hamis prófétákkal.”",
+  "cite": "Lk 6,17.20-26"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Jeremiás próféta könyvéből",
+  "summary": "A próféta figyelmezteti Jojákim királyt, hogy ne az emberekbe, hanem\naz Istenbe vesse bizalmát.",
+  "text": "Ezt mondja az Úr:\n\nÁtkozott az az ember, aki emberben bízik,\n\naki halandóra támaszkodik,\n\nés akinek szíve elfordul az Úrtól.\n\nOlyan lesz, mint a cserje a pusztában:\n\nsemmi jót nem várhat,\n\na kiaszott sivatagban tanyázik,\n\nsós és lakhatatlan földön.\n\nÁldott az az ember, aki az Úrban bízik,\n\nakinek az Úrban van a reménye.\n\nOlyan lesz, mint a víz mellé ültetett fa,\n\namely gyökereit egészen a folyóig ereszti.\n\nHa jön a hőség, nem kell félnie,\n\nlombja mindig zöldellni fog.\n\nSzárazság idején sem kell aggódnia,\n\nakkor sem szűnik meg gyümölcsöt teremni.",
+  "cite": "Jer 17,5-8"
+ },
+ "reading2": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a korintusiakhoz írt első leveléből",
+  "summary": "Ha Krisztus nem támadt fel, semmit sem ér a hitünk.",
+  "text": "Testvéreim!\n\nHa mi azt hirdetjük, hogy Krisztus feltámadt a halálból,\n\nhogyan állíthatják némelyek közületek, hogy nincs feltámadás?\n\nHa ugyanis a halottak nem támadnak fel, akkor Krisztus sem támadt\n\nfel. Ha pedig Krisztus nem támadt fel, semmit sem ér a hitetek, mert\n\nmég mindig bűneitekben vagytok. Sőt azok is elvesztek, akik Krisztusban\n\nhaltak meg. Ha csak ebben az életben reménykedünk Krisztusban, minden\n\nembernél szánalomra méltóbbak vagyunk.\n\nDe Krisztus feltámadt a halálból, elsőként a halottak közül.",
+  "cite": "1Kor 15,12.16-20"
+ }
+}

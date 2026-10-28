@@ -1,0 +1,33 @@
+{
+ "key": "evkozi-20-1-I",
+ "source_date": "2025-08-18",
+ "rank": "",
+ "day": "20. évközi hét hétfő",
+ "psalm": {
+  "cite": "Zsolt 105,34-35.36-37.39-40.43ab és 44",
+  "response": "Emlékezzél meg, Uram, rólunk, hiszen népedhez te jóságos vagy.",
+  "verses": [
+   "Nem irtották ki a pogány népeket,\namint az Úr meghagyta nékik.\nAtyáink a pogányok közé vegyültek,\nés cselekedeteiket eltanulták.",
+   "Bálványaiknak szolgáltak,\nez lett a vesztük.\nSaját fiaikat áldozatul adták,\nés lányaikat a démonoknak.",
+   "Cselekedeteikkel bemocskolták magukat,\nhitszegőkké váltak tetteik által.\nEzért az Úr haragra lobbant népe ellen,\nés megutálta örökségét.",
+   "Újra és újra megmentette őket,\nők azonban szándékukkal tovább ingerelték.\nÁm ismét rátekintett nyomorúságukra,\nés meghallgatta könyörgésüket."
+  ]
+ },
+ "alleluia": {
+  "text": "Boldogok, akik lélekben szegények, övék a mennyek országa.",
+  "cite": "Mt 5,3"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Aki tökéletes akar lenni a Krisztus-követésben, annak áldozatot is kell vállalnia.",
+  "text": "Egy alkalommal Jézushoz járult egy gazdag ifjú, és megkérdezte: „Mester, mi jót kell tennem, hogy eljussak az örök életre?”\n\nJézus így válaszolt neki: „Miért kérdezel engem a jóról? Csak egyedül Isten a jó. Ha pedig el akarsz jutni az életre, tartsd meg a parancsokat!” Az ifjú tovább kérdezte: „Melyeket?” Jézus felsorolta: „Ne ölj, ne paráználkodjál, ne lopj, hamisan ne tanúskodjál, atyádat és anyádat tiszteld, és szeresd felebarátodat úgy, mint önmagadat!” Az ifjú erre kijelentette: „Ezt mind megtartottam. Mit kell még tennem?” Jézus így felelt: „Ha tökéletes akarsz lenni, menj, add el mindenedet, és árát oszd szét a szegények között, így kincsed lesz a mennyben. Azután jöjj, és kövess engem!” Ennek hallatára az ifjú szomorúan eltávozott, mert nagy vagyona volt.",
+  "cite": "Mt 19,16-22"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "a Bírák könyvéből",
+  "summary": "Az Úr gondoskodik választott népéről.\nErőskezű vezetőket is küld; de, sajnos, a népet mindig kísérti a bálványimádás bűne.",
+  "text": "Józsue halála után a választott nép fiai vétkeztek az Úr ellen: bálványok szolgálatára adták magukat.\n\nElhagyták az Urat, atyáik Istenét, aki megszabadította őket az egyiptomi rabságból. A körülöttük élő népek bálványisteneit imádták. Ezért az Úr haragját vonták magukra, mert őhelyette a Napot és a Holdat tisztelték istenek gyanánt. Haragjában fosztogatók kezére adta népét az Úr: kiszolgáltatta őket a körülöttük élő ellenségeiknek, akiknek nem tudtak ellenállni. Bárhová mentek is, rájuk nehezedett az Úr keze, amint megmondta nekik, és amint megesküdött erre az Úr. Így aztán igen nagy nyomorúságba jutottak.\n\nEkkor az Úr bírákat (népvezéreket) támasztott közöttük, hogy azok szabadítsák ki őket elnyomóik hatalmából, de azokra sem hallgattak. Idegen istenekkel adták össze magukat, és azokat imádták. Elhagyták az igaz utat, amelyen atyáik az Úr parancsai szerint jártak; gonosz útra tértek.\n\nValahányszor azonban az Úr bírákat küldött nekik, az Úr a bírákkal volt, és kiszabadította népét az ellenség kezéből, amíg csak a bírák éltek. Az elnyomottak segélykiáltását ugyanis meghallgatta, és megkönyörült rajtuk az Úr. Mihelyt azonban meghaltak a bírák, ismét gonoszságra adták magukat. Gonoszabbul éltek, mint atyáik. Bálványaik után mentek, saját elképzeléseik rabjaivá lettek, és konokul járták a maguk útját.",
+  "cite": "Bír 2,11-19"
+ }
+}

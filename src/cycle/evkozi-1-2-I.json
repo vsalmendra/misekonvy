@@ -1,0 +1,32 @@
+{
+ "key": "evkozi-1-2-I",
+ "source_date": "2025-01-14",
+ "rank": "",
+ "day": "1. évközi hét kedd",
+ "psalm": {
+  "cite": "Zsolt 8,2a és 5-9",
+  "response": "Fiad hatalmába adtad kezed minden művét.",
+  "verses": [
+   "Urunk, Istenünk,\na te neved széles e világon mily csodálatos.\nUgyan mi az ember, hogy megemlékezel róla,\naz ember fia, hogy gondot viselsz rá?",
+   "Az embert kevéssel tetted kisebbé az angyaloknál, † megkoronáztad dicsőséggel és fönséggel,\nhatalmába adtad kezed műveit.",
+   "Mindent lába alá vetettél, † minden juhot és barmot,\nhozzá még a mezők vadjait,\naz ég madarait és a tenger halait,\nmelyek a tenger ösvényét járják."
+  ]
+ },
+ "alleluia": {
+  "text": "Isten tanítását ne vegyétek emberi szónak, hanem Isten igéjének, mert valóban az.",
+  "cite": "Vö. 1Tessz 2,13"
+ },
+ "gospel": {
+  "book": "Szent Márk",
+  "summary": "Jézus úgy tanított, mint akinek hatalma van.",
+  "text": "Kafarnaum városában Jézus egy szombaton bement a kafarnaumi zsinagógába, és tanított. Mindenki nagyon csodálkozott tanításán, mert úgy tanította őket, mint akinek hatalma van, és nem úgy, mint az írástudók.\n\nA zsinagógában volt egy ember, akit megszállt a tisztátalan lélek, így kiáltozott: „Mi közünk egymáshoz, názáreti Jézus? Azért jöttél, hogy elpusztíts minket? Tudom, ki vagy: az Isten Szentje!”\n\nJézus ráparancsolt: „Hallgass el, és menj ki belőle!” A tisztátalan lélek erre összevissza rángatta az embert, aztán nagy kiáltással kiment belőle.\n\nMindenki nagyon megdöbbent. Az emberek egymást kérdezgették: „Mi ez? Új tanítás, és milyen hatalmas! Még a tisztátalan lelkeknek is parancsol, és azok engedelmeskednek neki!” El is terjedt a híre hamarosan Galilea egész vidékén.",
+  "cite": "Mk 1,21-28"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "a Zsidókhoz írt levélből",
+  "summary": "Jézus, az üdvösség szerzője, a szenvedésben dicsőült meg.",
+  "text": "Testvéreim!\n\nAz eljövendő világot, amelyről beszélünk, nem az angyalok uralma alá rendelte Isten. Hiszen egy helyen a Szentírásban ez olvasható:\n\n„Ugyan mi az ember, hogy törődsz vele, az ember fia, hogy gondod van rá?\n\nKevéssel tetted kisebbé az angyaloknál, dicsőséggel és méltósággal koronáztad őt, fölébe emelted kezed műveinek.”\n\nHa pedig mindent uralma alá vetett, semmit sem hagyott, ami nem volna neki alávetve. Most ugyan még nem látjuk, hogy uralma alatt lenne minden. De annyit azért már látunk, hogy Jézus, aki (emberi természete szerint) kisebb az angyaloknál, a halál elszenvedéséért elnyerte a dicsőség és a méltóság koronáját, hiszen Isten irántunk való irgalmából mindnyájunkért megízlelte a halált.\n\nIllett ugyanis, hogy Isten – akiért és aki által a mindenség lett, és aki számtalan fiát elvezette az üdvösségre – Jézust, üdvösségük szerzőjét a szenvedésben megdicsőítse. Mert a megszentelő is, és a megszenteltek is ugyanattól az egy Istentől vannak. Ezért (Jézus) nem szégyenli testvéreinek nevezni azokat, akiket megszentelt, amikor azt mondja (Istennek az ő Atyjának):\n\n„Hirdetlek majd téged testvéreimnek,\n\nÉs a hívek közösségében dicsőítelek téged.”",
+  "cite": "Zsid 2,5-12"
+ }
+}

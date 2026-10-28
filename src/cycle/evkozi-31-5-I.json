@@ -1,0 +1,32 @@
+{
+ "key": "evkozi-31-5-I",
+ "source_date": "2025-11-07",
+ "rank": "",
+ "day": "31. évközi hét péntek",
+ "psalm": {
+  "cite": "Zsolt 97,1.2-3ab.3cd-4",
+  "response": "Az Úr megmutatta üdvösségét a nemzetek színe előtt.",
+  "verses": [
+   "Zengjetek az Úrnak új éneket,\ncsodálatra méltó, amit művelt.\nDiadalt aratott jobbjával,\ngyőzelmet Szentséges karjával.",
+   "Az Úr megmutatta szabadító erejét,\nigazságosságát feltárta a népek előtt.\nEmlékezetébe idézte jóságát és hűségét\nIzrael népe iránt.",
+   "Meglátta a föld minden határa,\nszabadulást Istenünk hozott nekünk.\nMinden földek, zengjetek az Úrnak öröméneket,\nujjongjatok és zsoltárt mondjatok."
+  ]
+ },
+ "alleluia": {
+  "text": "Aki megtartja Krisztus igéjét, abban Isten szeretete valóban tökéletes.",
+  "cite": "1Jn 2,5"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Okosan használjuk fel a ránk bízott javakat!",
+  "text": "Abban az időben Jézus ezt a példabeszédet mondta tanítványainak:\n\n„Egy gazdag ember előtt bevádolták intézőjét, hogy eltékozolja ura vagyonát. Erre ő magához hívatta és így szólt hozzá: »Mit hallok rólad? Adj számot gazdálkodásodról, mert nem maradhatsz tovább intézőm.«\n\nAz intéző így gondolkodott magában: »Mitévő legyek, ha uram elveszi tőlem az intézőséget? Kapálni nem tudok, koldulni szégyellek. Tudom már, mit teszek, hogy befogadjanak az emberek házukba, ha gazdám elmozdít az intézőségből.« Egyenként magához hívatta tehát urának adósait. Megkérdezte az elsőt: »Mennyivel tartozol uramnak?« Azt felelte: »Száz korsó olajjal.« Erre azt mondta neki; »Vedd elő adósleveledet, ülj le hamar, és írj ötvenet.« Aztán megkérdezett egy másikat: »Te mennyivel tartozol?« »Száz véka búzával« – hangzott a válasz. »Fogd adósleveledet – mondta neki –, és írj nyolcvanat.«\n\nAz úr megdicsérte a hűtlen intézőt, hogy okosan járt el.\n\nBizony, a világ fiai a maguk módján okosabbak a világosság fiainál.”",
+  "cite": "Lk 16,1-8"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a rómaiakhoz írt leveléből",
+  "summary": "Az apostol Jézus Krisztusnak szolgája a népek megtérítésében.",
+  "text": "Testvéreim!\n\nMeg vagyok győződve, hogy tele vagytok jóindulattal, és oly bőséges tudással rendelkeztek, hogy figyelmeztetni tudjátok egymást. Helyenként merészebben írtam nektek, hogy egyet-mást emlékezetetekbe idézzek az Istentől kapott kegyelem alapján.\n\nJézus Krisztus szolgájának kell lennem a pogányok között, és Isten evangéliumának szent szolgálatát kell végeznem, hogy a pogány népek a Szentlélektől megszentelt kedves áldozati ajándékká legyenek. Ezzel tehát dicsekedhetem Jézus Krisztusban Isten előtt.\n\nNem merek ugyanis dicsekedni mással, csak azzal, amit Krisztus vitt végbe általam szóval és tettel a pogányok megtérítésére, jelek és csodák hatásával és a Szentlélek erejével. Így Jeruzsálemtől Illíriáig bejártam az egész vidéket, és hirdettem Krisztus evangéliumát. De becsületbeli dolognak tartottam, hogy ne ott hirdessem az evangéliumot, ahol Krisztus neve már ismerős volt, és ne a mástól rakott alapra építsek, mert írva van:\n\nAkiknek nem hirdették, majd meglátják, és megértik majd, akik hírét sem hallották.",
+  "cite": "Róm 15,14-21"
+ }
+}

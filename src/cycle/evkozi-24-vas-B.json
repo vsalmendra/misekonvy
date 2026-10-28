@@ -1,0 +1,41 @@
+{
+ "key": "evkozi-24-vas-B",
+ "source_date": "2024-09-15",
+ "rank": "",
+ "day": "Évközi 24. vasárnap",
+ "psalm": {
+  "cite": "Zsolt 114,1-2.3-4.5-6.8-9",
+  "response": "Az Úr színe előtt járok, az élők földjén.",
+  "verses": [
+   "Vagy: Alleluja, alleluja, alleluja.\nAz Urat nagyon szeretem\nmert könyörgésem szavát meghallgatta.\nFülét hozzám fordította,\namely napon hozzá kiáltottam.",
+   "Vagy: Alleluja, alleluja, alleluja.\nA halál kötelékei körül fontak,\nelértek engem az alvilág gyötrelmei.\nSzorongatás és fájdalom fogott el, † ámde az Úr nevét kiáltottam,\n„Uram, mentsd meg az életemet.”",
+   "Vagy: Alleluja, alleluja, alleluja.\nAz Úr jóságos és igazságos,\nirgalmas a mi Istenünk.\nAz Úr oltalmába fogadja a kicsinyeket;\nnyomorult voltam, de ő megmentett.”",
+   "Vagy: Alleluja, alleluja, alleluja.\nLelkemet a haláltól megmentette,\nszememet a könnyhullatástól, lábamat az elbukástól.\nAz Úr színe előtt járok,\naz élők földjén.",
+   "Vagy: Alleluja, alleluja, alleluja."
+  ]
+ },
+ "alleluia": {
+  "text": "Nincs másban dicsekvésem, mint az Úr keresztjében, általa a világ megfeszíttetett számomra, és én a világ számára.",
+  "cite": "Gal 6,14"
+ },
+ "gospel": {
+  "book": "Szent Márk",
+  "summary": "",
+  "text": "Abban az időben Jézus elment tanítványaival Fülöp Cezáreájának vidékére. Útközben megkérdezte tanítványait: „Kinek tartanak engem az emberek?” Azok így válaszoltak: „Némelyek Keresztelő Jánosnak, mások Illésnek, ismét mások valamelyik prófétának.” Erre megkérdezte tőlük: „Hát ti mit mondotok, ki vagyok?” Péter válaszolt: „Te vagy a Messiás!” Ekkor Jézus a lelkükre kötötte, hogy ne szóljanak erről senkinek. Ezután arra kezdte tanítani őket, hogy az Emberfiának sokat kell szenvednie, a vének, a főpapok és az írástudók elvetik, megölik, de harmadnapra feltámad. Ezt egészen nyíltan megmondta.\n\nErre Péter félrevonta és szemrehányást tett neki. De ő hátrafordult, ránézett tanítványaira, és így korholta Pétert: „Távozz tőlem, sátán, mert nem Isten szándéka szerint gondolkodsz, hanem emberi módon.” Majd összehívta a népet és tanítványait, s így szólt hozzájuk: „Ha valaki követni akar, tagadja meg magát, vegye fel keresztjét, és kövessen. Mert aki meg akarja menteni életét, elveszíti azt, de aki elveszíti életét értem és az evangéliumért, megmenti azt.",
+  "cite": "Mk 8,27-35"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Izajás próféta könyvéből",
+  "summary": "",
+  "text": "Prófétája által a Megváltó így beszél: „Isten, az Úr megnyitotta fülemet. Én nem álltam ellen, és nem hátráltam meg. Hátamat odafordítottam azoknak, akik vertek, arcomat pedig azoknak, akik tépáztak. Nem rejtettem el arcomat azok elől, akik gyaláztak és leköpdöstek. Isten, az Úr megsegít, ezért nem vallok szégyent. Arcomat megkeményítem, mint a kőszikla, s tudom, hogy nem kell szégyenkeznem. Közel van, aki igazságot szolgáltat nekem. Ki szállhat velem perbe? Álljunk ki együtt! Ki az ellenfelem? Jöjjön ide hozzám! Isten, az Úr segítségemre siet. Ki ítélhetne el?”",
+  "cite": "Iz 50,5-9a"
+ },
+ "reading2": {
+  "label": "Szentlecke",
+  "sub": "Szent Jakab leveléből",
+  "summary": "",
+  "text": "Testvéreim!\n\nMit használ, ha valaki azt állítja, hogy van hite, belőle fakadó tettei azonban nincsenek? Üdvözítheti a hite? Ha valamelyik testvérnek nem volna ruhája és nem volna meg a mindennapi tápláléka, és egyiketek így szólna hozzá: „Menj békében, melegedj, és lakjál jól!”, de nem adnátok meg neki, amire testének szüksége van, mit használna? Ugyanígy a hit is, ha tettek nem származnak belőle, magában holt dolog. Azt is mondhatja valaki: „Neked hited van, nekem meg tetteim.” Ha tettek nélkül megmutatod nekem hitedet, tetteim alapján én is bebizonyítom neked hitemet.",
+  "cite": "Jak 2,14-18"
+ }
+}

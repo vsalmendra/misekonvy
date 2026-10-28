@@ -1,0 +1,40 @@
+{
+ "key": "evkozi-19-vas-B",
+ "source_date": "2024-08-11",
+ "rank": "",
+ "day": "Évközi 19. vasárnap",
+ "psalm": {
+  "cite": "Zsolt 33,2-3.4-5.6-7.8-9",
+  "response": "Ízleljétek és lássátok, milyen édes az Úr!",
+  "verses": [
+   "Minden időben áldom az Urat,\ndicséretét szüntelenül zengi ajkam.\nLelkem az Úrban dicsekszik,\nhallják meg a szelídek és örvendezzenek.",
+   "Magasztaljátok az Urat énvelem,\ndicsőítsük az ő nevét mindnyájan.\nKerestem az Urat, és ő meghallgatott engem,\nés kiragadott minden rettegésből.",
+   "Megvilágosultok, ha az Úrra néztek,\nés arcotokat nem éri szégyen.\nAz Úr meghallgatta a szegényt, aki hozzá kiáltott,\nés minden szorongatásából kiszabadította.",
+   "Az Úr angyala minden istenfélőt körülsáncol,\nés megszabadítja őt.\nÍzleljétek és lássátok, milyen édes az Úr,\nboldog az az ember, aki őbenne bízik."
+  ]
+ },
+ "alleluia": {
+  "text": "Jézus mondja: „Én vagyok az égből szállott élő kenyér, aki eszik ebből a kenyérből, örökké élni fog.”",
+  "cite": "Jn 6,51"
+ },
+ "gospel": {
+  "book": "Szent János",
+  "summary": "",
+  "text": "Abban az időben a zsidók zúgolódni kezdtek Jézus ellen, amiért azt mondta: „Én vagyok az égből alászállott kenyér.” Így érveltek: „Nem, Jézus ez, Józsefnek a fia, akinek ismerjük apját, anyját? Hogyan mondhatja hát: az égből szálltam alá?”\n\nJézus azonban így szólt: „Ne zúgolódjatok egymás között. Senki sem jöhet hozzám, hacsak az Atya, aki engem küldött, nem vonzza, – és én feltámasztom az utolsó napon. Meg van írva a prófétáknál: Mindnyájan Isten tanítványai lesznek. Mindenki, aki hallgat az Atyára, és tanul tőle, hozzám jön. Nem mintha valaki is látta volna az Atyát, csak aki az Istentől van, az látta az Atyát. Bizony, bizony, mondom nektek: Aki hisz bennem, annak örök élete van.\n\nÉn vagyok az élet kenyere. Atyáitok mannát ettek a pusztában, mégis meghaltak. Ez az a kenyér, amely az égből szállott alá, hogy aki ebből eszik, meg ne haljon. Én vagyok az égből alászállott élő kenyér. Aki a kenyérből eszik, örökké él. A kenyér pedig, amelyet én adok, az én testem a világ életéért.”",
+  "cite": "Jn 6,41-51"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "a Királyok első könyvéből",
+  "summary": "",
+  "text": "Az áldozat bemutatása után Illés prófétának a Kármel hegyéről menekülnie kellett Izebel királyné haragja elől.\n\nIllés visszavonult a pusztába egynapi járóföldre. Odaérkezett egy borókabokorhoz, leült alá, és a halálát kívánta. Azt mondta: „Most már elég, Uram! Vedd magadhoz lelkemet! Én sem vagyok különb atyáimnál.” Ezzel lefeküdt és elaludt.\n\nEgyszer csak egy angyal megérintette, és így szólt hozzá: „Kelj föl és egyél!” Ahogy föltekintett, íme, a fejénél egy sült cipó meg egy korsó víz volt. Evett és ivott, aztán újra lefeküdt aludni.\n\nÁm az Úr angyala másodszor is megjelent, megérintette őt és ezt mondta: „Kelj föl és egyél! Mert különben túl hosszú lesz számodra az út.” Illés fölkelt, evett, ivott, aztán ennek az ételnek erejéből negyven nap és negyven éjjel vándorolt, egészen Isten hegyéig, a Hórebig.",
+  "cite": "1Kir 19,4-8"
+ },
+ "reading2": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak az efezusiakhoz írt leveléből",
+  "summary": "",
+  "text": "Testvéreim!\n\nNe szomorítsátok meg Isten Szentlelkét, akivel meg vagytok jelölve a megváltás napjára. Legyen távol tőletek minden keserűség, indulat, haragtartás, szóváltás, káromkodás és minden egyéb rossz. Inkább legyetek egymás iránt jóindulatúak, könyörületesek, és bocsássatok meg egymásnak, amint Isten is megbocsátott nektek Krisztusban. Mint Isten kedves gyermekei, legyetek az ő követői, és éljetek szeretetben, ahogy Krisztus is szeretett minket, és odaadta magát értünk Istennek jó illatú áldozati adományként.",
+  "cite": "Ef 4,30–5,2"
+ }
+}

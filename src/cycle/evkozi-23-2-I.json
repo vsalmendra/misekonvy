@@ -1,0 +1,32 @@
+{
+ "key": "evkozi-23-2-I",
+ "source_date": "2025-09-09",
+ "rank": "",
+ "day": "23. évközi hét kedd",
+ "psalm": {
+  "cite": "Zsolt 144,1-2.8-9.10-11",
+  "response": "Jóságos az Isten: kegyes az egész világhoz.",
+  "verses": [
+   "Magasztallak téged, Istenem, Királyom,\náldom nevedet örökkön örökké.\nMindennap áldalak téged,\nés dicsőítem nevedet örökkön örökké.",
+   "Irgalmas az Úr és kegyelmes,\nnagy irgalmú és hosszan tűrő.\nAz Úr mindenkihez jóságos,\nés irgalmas minden művéhez.",
+   "Magasztaljon téged, Uram, minden műved,\nszentjeid áldást mondjanak.\nOrszágod dicsőségéről szóljanak,\nés hatalmad mindenek hirdessék."
+  ]
+ },
+ "alleluia": {
+  "text": "Jézus mondja: „Én kiválasztottalak titeket a világból, hogy menjetek és termést hozzatok, és termésetek meg is maradjon.”",
+  "cite": "Jn 15,16"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Jézus egy imádságban töltött éjszaka után kiválasztja tizenkét apostolát.",
+  "text": "Jézus egyszer fölment egy hegyre imádkozni. Az egész éjszakát Isten imádásában töltötte.\n\nMásnap magához hívta tanítványait, és kiválasztott közülük tizenkettőt, akiket apostoloknak nevezett: Simont, akit Péternek is hívott, és testvérét, Andrást; Jakabot és Jánost, Fülöpöt és Bertalant, Mátét és Tamást; Jakabot, Alfeus fiát és a buzgó Simont; Júdást, Jakab fiát, továbbá karióti Júdást, aki később elárulta őt.\n\nAzután lement velük, és egy sík mezőn megállt. Ott nagy csoport tanítvány sereglett köréje, és hatalmas tömeg vette körül Júdeából, Jeruzsálemből, Tírusz és Szidon tengerparti vidékéről. Ezek azért gyűltek össze, hogy hallgassák őt, és gyógyulást nyerjenek betegségükből. Meggyógyultak azok is, akiket tisztátalan lelkek gyötörtek. Az egész tömeg érinteni akarta őt, mert erő áradt ki belőle, és mindenkit meggyógyított.",
+  "cite": "Lk 6,12-19"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a kolosszeiekhez írt leveléből",
+  "summary": "A mennyei Atya megbocsátotta bűneinket, és a keresztségben új életre támasztott Krisztussal.",
+  "text": "Testvéreim!\n\nMivel elismertétek Jézus Krisztust uratoknak, éljetek is őbenne! Verjetek benne gyökeret! Épüljetek rá, és erősödjetek meg a hitben, ahogy tanultátok; és legyen túláradó a hálaadástok!\n\nVigyázzatok, hogy senki félre ne vezessen titeket bölcselkedéssel és hamis tanítással, amely emberi hagyományokhoz és a világot hatalmukban tartó szellemekhez igazodik, nem pedig Krisztushoz. Mert Krisztusban lakik testi formában az Istenség egész teljessége; és a vele való életközösség által lettetek ennek a teljességnek részesei. Ő az égi fejedelmek és hatalmasságok feje. Benne vagytok körülmetélve, nem kézzel végzett körülmetéléssel, hanem az érzékies test leverésével, mert ez a Krisztus szerint való körülmetélés.\n\nEzáltal a keresztségben Jézus Krisztusba temetkeztetek el, és benne fel is támadtatok annak az Istennek az erejébe vetett hit által, aki őt a halálból feltámasztotta.\n\nTiteket tehát, akik bűneitek és testi körülmetéletlenségetek következtében halottak voltatok, vele együtt életre keltett. Megbocsátotta minden bűnünket. A követelményeivel ellenünk szóló adóslevelet eltörölte, az útból eltávolította és a keresztre szegezte. Lefegyverezte a (bukott égi) fejedelemségeket és hatalmasságokat, nyilvánosan pellengérre állította őket, és Krisztusban diadalmaskodott rajtuk.",
+  "cite": "Kol 2,6-15"
+ }
+}

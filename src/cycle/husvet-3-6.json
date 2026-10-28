@@ -1,0 +1,33 @@
+{
+ "key": "husvet-3-6",
+ "source_date": "2025-05-10",
+ "rank": "",
+ "day": "húsvét 3. hét szombat",
+ "psalm": {
+  "cite": "Zsolt 115,12-13.14-15.16-17",
+  "response": "Mit adhatnék az Úrnak viszonzásul, mindazért, amit nékem adott.",
+  "verses": [
+   "Vagy: Alleluja. 7. szám.\nAz Úrnak mit adhatnék,\nmindazért, amit nékem adott?\nVeszem az üdvösség kelyhét,\nés az Úr nevét hívom segítségül.",
+   "Vagy: Alleluja.\nAmit az Úrnak fogadtam,\nmegadom egész népének színe előtt.\nDrága dolog az Úr színe előtt\nszentjei dicső halála.",
+   "Vagy: Alleluja.\nSzolgád vagyok, Uram, és szolgálód gyermeke,\nbilincseimet széjjeltörted.\nBemutatom néked a dicséret áldozatát,\nés az Úr nevét hívom segítségül.",
+   "Vagy: Alleluja."
+  ]
+ },
+ "alleluia": {
+  "text": "Uram, tanításod lélek és élet. Örök életet adó igéid vannak.",
+  "cite": "Jn 6,63c.68c"
+ },
+ "gospel": {
+  "book": "Szent János",
+  "summary": "Az Eucharisztia hitet kíván tőlünk.",
+  "text": "Abban az időben, amikor Jézus Kafarnaumban az élet kenyeréről beszélt, tanítványai közül, akik (szavait) hallották, többen azt mondták: „Kemény beszéd ez. Ugyan ki hallgatja?”\n\nJézus tudta, hogy tanítványai méltatlankodtak miatta, azért így szólt hozzájuk: „Ez megbotránkoztat titeket? Hát ha majd azt látjátok, hogy az Emberfia fölmegy oda, ahol azelőtt volt! A Lélek az, ami életre kelt, a test nem használ semmit. A szavak, amelyeket nektek mondok, Lélek és élet. De vannak közöttetek, akik nem hisznek.” Jézus ugyanis kezdettől fogva tudta, hogy kik nem hisznek benne, és hogy ki fogja őt elárulni.\n\nAztán így folytatta: „Ezért mondtam nektek, hogy senki sem jöhet hozzám, hacsak az Atya meg nem adja neki.”\n\nEttől kezdve tanítványai közül sokan visszahúzódtak, és többé nem jártak vele.\n\nJézus ezért a tizenkettőhöz fordult: „Ti is el akartok menni?”\n\nSimon Péter ezt válaszolta neki: „Uram, kihez menjünk? Az örök élet igéi nálad vannak. Mi hittünk, és tudjuk, hogy te vagy az Isten Szentje.”",
+  "cite": "Jn 6,60-69"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "az Apostolok Cselekedeteiből",
+  "summary": "Az Egyház az üldöztetések ellenére is erősödik, és a Szentlélek békéjében él.",
+  "text": "A jeruzsálemi üldözés elmúltával az Egyház egész Júdeában, Galileában és Szamariában békét élvezett, és tovább terjedt. Az Úr félelmében élt, és a Szentlélek vigasztalása töltötte el.\n\nEkkor történt, hogy Péter mindenhová elment. Így a Liddában élő hívekhez is eljutott. Ott egy Éneász nevű béna emberre talált, aki már nyolc éve ágyban feküdt. Péter megszólította: „Éneász, Jézus Krisztus meggyógyít téged. Kelj föl, és vesd be ágyadat!”\n\nAz nyomban fel is kelt, Lidda és Száron lakói mindnyájan látták a meggyógyultat, és megtértek.\n\nJoppében volt a tanítványok között egy asszony. Tabitának hívták, ami annyit jelent, mint gazella. Sok jót tett, és bőven juttatott a rászorulóknak. Éppen azokban a napokban megbetegedett és meghalt. Lemosták tehát, és felravatalozták az emeleti teremben. Mivel Lidda közei esik Joppéhoz, és a tanítványok meghallották, hogy Péter ott tartózkodik, elküldtek hozzá két férfit ezzel a kéréssel: „Késedelem nélkül siess hozzánk!”\n\nPéter rögtön útnak indult velük együtt. Amikor megérkezett, fölvezették az emeleti terembe. Az özvegyek mind körülállták, és sírva mutogatták neki azokat a ruhákat és köntösöket, amelyeket Tabita még életében készített számukra. Péter mindenkit kiküldött, majd térdre borulva imádkozott. Azután a halotthoz fordult, és felszólította: „Tabita, kelj föl!”\n\nErre ő felnyitotta szemét, és amikor meglátta Pétert, felült. Péter kezét nyújtotta neki, és fölsegítette. Azután behívta a híveket meg az özvegyeket, és megmutatta nekik, hogy Tabita él. Az eseménynek egész Joppéban híre terjedt, és sokan hittek az Úrban.",
+  "cite": "ApCsel 9,31-42"
+ }
+}

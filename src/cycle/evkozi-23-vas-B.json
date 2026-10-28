@@ -1,0 +1,39 @@
+{
+ "key": "evkozi-23-vas-B",
+ "source_date": "2024-09-08",
+ "rank": "",
+ "day": "Évközi 23. vasárnap",
+ "psalm": {
+  "cite": "Zsolt 145,7.8-9a.9bc-10",
+  "response": "Áldjad, lelkem, az Urat, dicsőítsed az Istent!",
+  "verses": [
+   "Isten igaz marad örökké,\naz elnyomottnak igazságot szolgáltat.\nAz éhezőnek ő ad kenyeret,\nkiszabadítja az Úr a foglyokat.",
+   "Az Úr megnyitja a vakok szemét,\naz Úr fölemeli azt, aki elesett.\nAz Úr szereti az igaz embert,\na jövevényt megvédi.",
+   "Az Úr támogatja az árvát és özvegyet,\nés elpusztítja a gonoszok útját.\nAz Úr uralkodik örökké,\na te Istened, ó Sion, nemzedékről nemzedékre."
+  ]
+ },
+ "alleluia": {
+  "text": "Jézus hirdette országának örömhírét, és minden betegséget meggyógyított a nép körében.",
+  "cite": "Mt 4,23"
+ },
+ "gospel": {
+  "book": "Szent Márk",
+  "summary": "",
+  "text": "Abban az időben: Jézus elhagyta Tirusz vidékét, és Szidonon át a Galileai-tóhoz ment a Tízváros határába. Itt eléje hoztak egy dadogva beszélő siketet, és kérték, tegye rá a kezét. (Jézus) félrevonta őt a tömegből, a fülébe dugta az ujját, majd megnyálazott ujjával megérintette a nyelvét. Föltekintett az égre, fohászkodott és így szólt: „Effata, azaz: Nyílj meg!” Azon nyomban megnyílt a füle, megoldódott a nyelve, és érthetően beszélt. Jézus megparancsolta nekik, hogy a dologról ne szóljanak senkinek. De minél jobban tiltotta, annál inkább hirdették. Szerfölött csodálkoztak, és hangoztatták: „Csupa jót tett: A siketeket hallókká teszi, a némákat pedig beszélőkké!”",
+  "cite": "Mk 7,31-37"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Izajás próféta könyvéből",
+  "summary": "",
+  "text": "Mondjátok a csüggedt szívűeknek: „Bátorság? Ne féljetek! Íme, eljön Istenetek, eljön, hogy bosszút álljon és megfizessen. Maga Isten jön el, hogy szabadulást hozzon nektek.” Akkor megnyílik a vakok szeme, és a siketek füle hallani fog. Ugrándozik majd a sánta, mint a szarvas, és a némák nyelve örvendezve ujjong. Mert vizek fakadnak a pusztában, és folyóvizek a sivatagban. A száraz vidék tóvá változik, a szomjas föld vizek forrásává.",
+  "cite": "Iz 35,4-7a"
+ },
+ "reading2": {
+  "label": "Szentlecke",
+  "sub": "Szent Jakab leveléből",
+  "summary": "",
+  "text": "Testvéreim!\n\nHa hisztek dicsőséges Urunkban, Jézus Krisztusban, ne legyetek személyválogatók. Amikor közösségetekbe belép egy férfi pompás öltözékben, aranygyűrűvel az ujján, és belép egy szegény is elnyűtt ruhában, figyelmetek a pompás öltözékű felé fordul, és így szóltok hozzá: „Foglalj itt kényelmesen helyet.” A szegénynek meg azt mondjátok: „Állj oda oldalra!” Vagy: „Lépj ide zsámolyomhoz!” Hát nem megkülönböztetés ez? Nem ítéltek e szívetekben részrehajlón, helytelenül gondolkozva? Hallgassatok ide, szeretett testvéreim! Hát Isten nem azokat választotta-e ki, akik a világ szemében szegények, hogy a hitben gazdagok legyenek, és örököljék az országot, amelyet azoknak ígért, akik őt szeretik?",
+  "cite": "Jak 2,1-5"
+ }
+}

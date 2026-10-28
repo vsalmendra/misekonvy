@@ -1,0 +1,33 @@
+{
+ "key": "fix-01-11",
+ "source_date": "2025-01-11",
+ "rank": "",
+ "day": "Karácsonyi idő - Január 11.",
+ "psalm": {
+  "cite": "Zsolt 147,12-13.14-15.19-20",
+  "response": "Dicsérd Uradat, Jeruzsálem, magasztald, Sion, Istenedet.",
+  "verses": [
+   "Vagy: Alleluja. 7. szám.\nDicsérd Uradat, Jeruzsálem,\nmagasztald, Sion Istenedet,\nmert erőssé tette kapuid zárát,\nés megáldotta benned fiaidat.",
+   "Vagy: Alleluja.\nHatáraidon ő ad békét,\nés jóllakat kövér búzával.\nElküldi szavát a földre,\naz ő igéje gyorsan terjed.",
+   "Vagy: Alleluja.\nIgéjét Jákobnak hirdeti,\ntörvényeit és végzéseit Izraelnek.\nEgyetlen néppel sem bánt így,\nvégzéseit nem fedte fel senki másnak.",
+   "Vagy: Alleluja."
+  ]
+ },
+ "alleluia": {
+  "text": "Jézus hirdette országának örömhírét, és minden betegséget meggyógyított a nép körében.",
+  "cite": "Mt 4,23"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Jézus meggyógyít egy leprást.",
+  "text": "Abban az időben, amikor Jézus az egyik városban tartózkodott, talált ott egy leprával borított férfit. Mihelyt a leprás meglátta Jézust, arcra borult előtte, és kérlelte: „Uram, ha akarod, meggyógyíthatsz engem.”\n\nJézus kinyújtotta kezét, megérintette, és így szólt hozzá: „Akarom, tisztulj meg!”\n\nErre azonnal elhagyta őt a lepra. Jézus meghagyta neki, hogy senkinek se szóljon. „Menj inkább – mondta –, mutasd meg magadat a papnak, és gyógyulásodnak bizonyságául ajánld fel tisztulásodért az áldozatot, amint Mózes rendelte!”\n\nA gyógyítás híre mégis egyre jobban elterjedt. A nép nagy tömegben tódult Jézushoz, hogy hallgassa, és betegségeiből gyógyulást nyerjen. Ő azonban inkább egy magányos helyre vonult vissza, hogy imádkozzék.",
+  "cite": "Lk 5,12-16"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent János apostol első leveléből",
+  "summary": "Isten tanúságot tett Fiáról: Jézus megkeresztelkedésekor a víz és a Szentlétek által, a keresztfán a víz és a vér által.",
+  "text": "Szeretteim!\n\nKi győzi le a világot, ha nem az, aki hiszi, hogy Jézus az Isten Fia?\n\nŐ az, aki víz és vér által jött: Jézus Krisztus. Nem csupán víz által, hanem víz és vér által. És a Lélek tesz tanúságot róla, mert a Lélek igazság. Tehát hárman tanúskodnak: a Lélek, a víz és a vér, és ez a három egy.\n\nAz emberek tanúságát is elfogadjuk, de az Isten tanúsága többet jelent. Az Isten tanúsága az, hogy tanúságot tett a Fia mellett. Aki hisz az Isten Fiában, Isten tanúbizonyságát fogadja el. Aki viszont nem hisz Istennek, hazugságot tulajdonít neki, mert nem hisz Isten tanúságában, amelyet Fiáról tett.\n\nEz a tanúságtétel pedig abban áll, hogy az Isten örök életet adott nekünk, és ez az élet az ő Fiában van. Aki tehát magáénak mondhatja a Fiút, annak van élete. Akiben nincs az Isten Fia, annak nincsen élete.\n\nEzt azért írtam nektek, akik hisztek az Isten Fiában, hogy tudjátok: örök életetek van.",
+  "cite": "1Jn 5,5-13"
+ }
+}

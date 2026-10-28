@@ -1,0 +1,32 @@
+{
+ "key": "evkozi-4-3-I",
+ "source_date": "2025-02-05",
+ "rank": "",
+ "day": "4. évközi hét szerda",
+ "psalm": {
+  "cite": "Zsolt 102,1-2.13-14.17-18a",
+  "response": "Örökkévaló az Úr irgalma mindazokon, kik őt félik.",
+  "verses": [
+   "Áldjad, lelkem, az Urat,\negész bensőm az ő szent nevét áldja.\nÁldjad, lelkem, az Urat,\nés ne feledd, hogy hozzád milyen jó volt.",
+   "Ahogyan az atya megkönyörül fiain,\núgy könyörül meg az Úr az istenfélőn.\nŐ jól tudja, hogy miből formált,\nnem felejti, hogy porból lettünk.",
+   "Örökkévaló az Úr irgalma mindazokon, kik őt félik,\nés a fiak fiaival az ő igazsága,\nazokkal, akik szövetségét híven őrzik,\nés hűségesen teljesítik parancsait."
+  ]
+ },
+ "alleluia": {
+  "text": "Jézus mondja: „Juhaim hallgatnak szavamra; ismerem őket, és ők a nyomomban járnak.”",
+  "cite": "Jn 10,27"
+ },
+ "gospel": {
+  "book": "Szent Márk",
+  "summary": "A názáretiek nem ismerik fel Jézusban a Megváltót, mert nincs hitük.",
+  "text": "Abban az időben Jézus hazament Názáretbe. Tanítványai elkísérték. Amikor elérkezett a szombat napja, tanítani kezdett a zsinagógában.\n\nSokan hallgatták, és csodálkozva mondogatták: „Honnét vette ezt? Miféle bölcsesség ez, amely neki adatott? És a csodák, amelyeket kezével véghezvisz! Nem az ács ez, Mária fia, Jakab, József, Júdás és Simon rokona? S ugye nővérei is itt élnek közöttünk?” És megbotránkoztak benne.\n\nJézus erre megjegyezte: „Nem vetik meg a prófétát, csak a hazájában, rokonai körében, a saját házában.” Nem is tehetett ott csodát, csupán néhány beteget gyógyított meg, kézrátétellel. Maga is csodálkozott hitetlenségükön.",
+  "cite": "Mk 6,1-6"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "a Zsidókhoz írt levélből",
+  "summary": "Akit szeret az Isten, azt próbára teszi.",
+  "text": "Testvéreim!\n\nA bűn elleni küzdelemben még nem álltatok ellen véretek ontásáig és megfeledkeztetek a vigasztalásról, mely nektek, mint fiaknak szól: Fiam, ne kicsinyeld le az Úr fenyítését, és ne csüggedj el, ha korhol!\n\nAkit az Úr szeret, megfenyíti, és megostorozza minden fiát, akit kedvel.\n\nA fenyítések között is maradjatok állhatatosak! Isten úgy bánik veletek, mint fiaival. Melyik az a fiú, akit atyja meg ne fenyítene? A jelenben ugyan minden fenyíték inkább szomorúságot okoz, mint örömet, később azonban az igazi élet és a béke gyümölcsét hozza annak, aki elviselte.\n\nEzért emeljétek föl a lankadt kezeket, a megroggyant térdet nyújtsátok ki. Járjatok egyenesen, hogy a megbénult tag ki ne ficamodjék, hanem inkább meggyógyuljon! Törekedjetek az életszentségre és a békességre mindenkivel! Enélkül senki sem látja meg az Urat.\n\nÜgyeljetek arra, hogy Isten kegyelmét senki el ne hanyagolja! És senki se legyen mérgező gyökérré, amely felnövekedve kárt okoz, és megfertőz másokat!",
+  "cite": "Zsid 12,4-7.11-15"
+ }
+}

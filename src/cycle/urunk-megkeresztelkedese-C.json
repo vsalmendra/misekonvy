@@ -1,0 +1,44 @@
+{
+ "key": "urunk-megkeresztelkedese-C",
+ "source_date": "2025-01-12",
+ "rank": "",
+ "day": "Urunk megkeresztelkedése",
+ "psalm": {
+  "cite": "Zsolt 28,1a és 2.3ac-4.3b. és 9b-10 v.\n103,1b-2.3-4.24-25.27-28.29-30",
+  "response": "Mondj áldást lelkem az Úrnak, mert csodálatos az ő nagysága.",
+  "verses": [
+   "vers. (4 g. tónus)\nAdjátok meg az Úrnak,\nIsten gyermekei,\nadjátok meg az Úrnak a nevét megillető dicsőséget,\nimádjátok az Urat\nszent ünnepi díszben!",
+   "Az Úr szava zúg a vizek árján,\naz Úr lebeg a nagy vizek fölött.\nAz Úr szava telve erővel,\naz Úr szava telve fönséggel.",
+   "A dicsőség Istene mennydörög,\ntemplomában mindenek az ő dicséretét\nzengik.\nAz Úr trónol a vízözön fölött,\naz Úr király örökké.",
+   "vagy\nUram, Istenem, csodálatos a te nagyságod,\nfenségbe és ékességbe öltözöl.\nSugárzó fény a te köntösöd,\nkifeszíted az eget, mint egy sátort.",
+   "Vizek fölött áll a te otthonod, † a felhőket fogatul használod,\nés\ntovaszállsz a szelek szárnyán.\nKöveteddé teszed a szeleket,\nés szolgáddá a tüzes villámot.",
+   "Mily számosak a te műveid, Uram, † bölcsességgel alkottál mindent,\nteremtményeid betöltik a földet.\nMily nagy és széles a tenger, † megszámlálhatatlan élőlény nyüzsög benne:\nkicsiny és hatalmas állatok.",
+   "Mindenek tőled várják,\nhogy enniök adj a kellő időben.\nÖsszegyűjtik, amit nekik juttatsz,\nmegnyitod kezedet, és eltelnek minden jóval.",
+   "De megzavarodnak, ha elfordítod arcodat,\nelpusztulnak és a porba térnek, ha megvonod éltető erődet.\nÁm, ha újra kiárasztod lelkedet, életre kelnek,\nés a föld színét megújítod."
+  ]
+ },
+ "alleluia": {
+  "text": "Eljön az, aki hatalmasabb nálam – mondja Keresztelő János, ő majd Szentlélekkel és tűzzel keresztel meg titeket.",
+  "cite": "Vö. Lk 3,16"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Amikor Jézus megkeresztelkedett és imádkozott, megnyílt az ég.",
+  "text": "Abban az időben:\n\nA nép feszülten várakozott. Mindnyájan azon töprengtek magukban,\n\nvajon nem János-e a Krisztus. Ezért János így szólt hozzájuk: „Én csak\n\nvízzel keresztellek benneteket. De eljön, aki hatalmasabb nálam, akinek\n\nsaruszíját sem vagyok méltó megoldani. Ő majd Szentlélekkel és tűzzel\n\nfog titeket megkeresztelni.\n\nEkkor történt, hogy amikor a nép keresztelkedni ment, Jézus is\n\nmegkeresztelkedett. Miközben imádkozott, megnyílt az ég, és a\n\nSzentlélek leszállt rá látható alakban, mint egy galamb. Szózat is\n\nhallatszott az égből: „Te vagy az én szeretett Fiam, benned telik\n\nkedvem.”",
+  "cite": "Lk 3,15-16.21-22"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Izajás próféta könyvéből",
+  "summary": "Íme az én szolgám, akiben kedvem telik.",
+  "text": "Ezt mondja az Úr:\n\nÍme, az én szolgám, akit támogatok, választottam, akiben kedvem\n\ntelik. Kiárasztom rá lelkemet, és igazságot visz a nemzeteknek. Nem\n\nkiált majd, nem emeli föl a hangját, és szava se hallatszik az utcákon.\n\nA megtört nádszálat nem töri össze, a pislákoló mécsbelet nem oltja ki.\n\nHűségesen tanítja az igazságot, nem lankad el, sem kedvét el nem\n\nveszti, míg az igazságot meg nem szilárdítja a földön. Az ő tanítására\n\nvárnak a nemzetek.\n\nÉn, az Úr hívtalak meg igazságban, én fogtam meg a kezed és én\n\nformáltalak. Általad kötök szövetséget népemmel, és adok világosságot a\n\nnemzeteknek, hogy nyisd meg a vakok szemét, és szabadítsd ki a\n\nbörtönből a foglyokat, és a tömlöcből azokat, akik a sötétben ülnek.",
+  "cite": "Iz 42,1-4.6-7 v. Iz 40,1-5.9-11"
+ },
+ "reading2": {
+  "label": "Szentlecke",
+  "sub": "az Apostolok Cselekedeteiből",
+  "summary": "Isten fölkente a názáreti Jézust Szentlélekkel.",
+  "text": "Kornéliusz (százados) házában Péter szólásra nyitotta ajkát, és\n\nezeket mondta: „Valóban el kell ismernem, hogy Isten nem\n\nszemélyválogató. Mindenki kedves előtte, bármely néphez tartozik is,\n\naki féli őt és az igazságot cselekszi. Isten a tanítást Izrael fiainak\n\nadta, és a béke örömhírét hirdette Jézus által. Ő a mindenség Ura.\n\nTi tudjátok, hogy mi minden történt Galileától egész Judeáig attól\n\nkezdve, hogy János hirdette a keresztséget: Hogyan kente fel az Isten a\n\nnázáreti Jézust Szentlélekkel és hatalommal. Ő pedig, amerre csak járt,\n\njótetteket vitt végbe, és meggyógyított minden ördögtől megszállottat,\n\nmert vele volt az Isten.”",
+  "cite": "ApCsel 10,34-38 v. Tit 2,11-14;3,4-7"
+ }
+}

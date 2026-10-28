@@ -1,0 +1,32 @@
+{
+ "key": "evkozi-23-3-I",
+ "source_date": "2025-09-10",
+ "rank": "",
+ "day": "23. évközi hét szerda",
+ "psalm": {
+  "cite": "Zsolt 144,2-3.10-13ab",
+  "response": "Jóságos az Isten: kegyes az egész világhoz.",
+  "verses": [
+   "Mindennap áldalak téged,\nés dicsőítem nevedet örökkön örökké.\nNagy az Úr és minden dicséretre méltó,\nnagyságát felfogni nem lehet.",
+   "Magasztaljon téged, Uram, minden műved,\nszentjeid áldást mondjanak.\nOrszágod dicsőségéről szóljanak,\nés hatalmadat mindenek hirdessék.",
+   "Hirdessék az emberek hatalmas tetteid,\nkirályságod fölséges dicsőségét.\nA te országod örökkévaló ország,\nuralmad megmarad nemzedékről nemzedékre."
+  ]
+ },
+ "alleluia": {
+  "text": "Örüljetek és vigadjatok, mondja a mi Urunk, mert nagy lesz a mennyben jutalmatok!",
+  "cite": "Lk 6,23ab"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Boldogok, akik Istenre hagyatkoznak; de jaj, azoknak, akik csak a földi javakban bíznak!",
+  "text": "Az apostolok kiválasztása után Jézus lejött a hegyről, tanítványaira emelte tekintetét, és így szólt:\n\n„Boldogok vagytok, ti, szegények, mert tiétek az Isten országa.\n\nBoldogok vagytok, akik most éheztek, mert jutalmul bőségben lesz részetek.\n\nBoldogok vagytok, akik most sírtok, mert sírástok nevetésre fordul.\n\nBoldogok vagytok, ha gyűlölnek titeket az emberek, kizárnak körükből és megrágalmaznak, s neveteket, mint valami szégyenletes dolgot emlegetik az Emberfia miatt. Örüljetek, ha majd ez bekövetkezik, és ujjongjatok, mert nagy jutalomban részesültök a mennyben. Atyáik is így bántak a prófétákkal.\n\nDe jaj, nektek, gazdagok, mert már megkaptátok vigasztalástokat.\n\nJaj, nektek, akik most jóllaktatok, mert éhezni fogtok.\n\nJaj, nektek, akik most nevettek, mert sírni és jajgatni fogtok!\n\nJaj, nektek, ha az emberek hízelegnek nektek! Hisz atyáik is így tettek a hamis prófétákkal.”",
+  "cite": "Lk 6,20-26"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a kolosszeiekhez írt leveléből",
+  "summary": "Krisztussal meghaltunk a bűnös életnek, győzzük le tehát testünkben mindazt, ami bűnre vezet.",
+  "text": "Testvéreim!\n\nKrisztussal együtt ti is feltámadtatok. Keressétek tehát azt, ami odafönt van, ahol Krisztus ül az Isten jobbján. Az égiekre irányuljon figyelmetek, ne a földiekre. Hiszen meghaltatok, és életetek Krisztussal az Istenben van elrejtve.\n\nAmikor azonban Krisztus, a mi életünk, újra megjelenik, vele együtt ti is megjelentek a dicsőségben.\n\nFojtsátok el tehát tagjaitokban, ami földies: a paráznaságot, a tisztátalanságot, az érzéki vágyakat, a bűnös kívánságokat és a kapzsiságot, ami nem más, mint bálványimádás.\n\nNe hazudjatok egymásnak! Vessétek le a régi embert szokásaival együtt, és öltsétek föl az újat, aki állandóan megújul Teremtőjének képmására a teljes megismerésig. Itt már nincs többé görög vagy zsidó, körülmetélt vagy körülmetéletlen, barbár vagy szittya, szolga vagy szabad, hanem Krisztus a minden, és ő van mindenben.",
+  "cite": "Kol 3,1-11"
+ }
+}

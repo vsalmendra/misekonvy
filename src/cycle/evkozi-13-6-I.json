@@ -1,0 +1,33 @@
+{
+ "key": "evkozi-13-6-I",
+ "source_date": "2025-07-05",
+ "rank": "",
+ "day": "13. évközi hét szombat",
+ "psalm": {
+  "cite": "Zsolt 134,1-2.3-4.5-6",
+  "response": "Dicsérjétek az Urat, mert jó az Úr!",
+  "verses": [
+   "Vagy: Alleluja. 4. szám.\nDicsérjétek az Úr nevét,\nti, az Úr szolgái, dicsérjétek őt, ti, akik az Úr házában álltok,\nIstenünk házának udvarán.",
+   "Vagy: Alleluja.\nDicsérjétek az Urat, mert jó az Úr,\nzsoltárt zengjetek fölséges nevének,\nmert magának választotta az Úr Jákob házát,\ntulajdonába vette Izraelt.",
+   "Vagy: Alleluja.\nÉn megismertem, hogy milyen nagy a mi Urunk,\na mi Istenünk minden pogány istennél nagyobb.\nAmit akar az Úr, mindent végbevisz,\naz égben és a földön, a tengeren és a vizek mélyén.",
+   "Vagy: Alleluja."
+  ]
+ },
+ "alleluia": {
+  "text": "Jézus mondja: „Juhaim hallgatnak szavamra; ismerem őket, és ők a nyomomban járnak.”",
+  "cite": "Jn 10,27"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Jézus tanítása új lelkületet kíván követőitől.",
+  "text": "Keresztelő János tanítványai egyszer Jézushoz járultak, és megkérdezték tőle: „Miért van az, hogy mi és a farizeusok gyakran böjtölünk, a te tanítványaid viszont nem tartanak böjtöt?”\n\nJézus így felelt nekik: „Vajon szomorkodhat-e a násznép, amíg velük van a vőlegény? Eljönnek a napok, amikor elviszik tőlük a vőlegényt, akkor majd böjtölnek.\n\nSenki sem tesz régi ruhára új szövetből foltot, mert az új szövet kiszakítja a régit, és a szakadás még nagyobb lesz. Új bort sem töltenek régi tömlőkbe: mert így kiszakadnak a tömlők, a bor kiömlik, és a tömlők is tönkremennek. Az új bor új tömlőkbe való; akkor mindkettő megmarad.”",
+  "cite": "Mt 9,14-17"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Mózes első könyvéből",
+  "summary": "Jákob csellel megszerzi az atyai áldást Ézsau elől.",
+  "text": "Amikor Izsák megöregedett, és szeme annyira elhomályosodott, hogy nem is látott, hívatta az idősebbik fiát, Ézsaut, és megszólította: „Fiam!” Ő azt felelte: „Itt vagyok.”\n\nEkkor azt mondta neki: „Látod, megöregedtem, és nem tudhatom halálom napját. Most hát vedd fegyvereidet, a tegzet meg az íjat! Menj ki a mezőre, és lőjj nekem valami vadat! Készítsd el ízletesen, ahogyan én szeretem; aztán hozd be, hogy egyem belőle, és megáldjalak, mielőtt meghalok!”\n\nRebekka azonban meghallotta, amit Izsák a fiával, Ézsauval beszélt. Amint Ézsau elment vadászni, hogy valami vadat hozzon, Rebekka fogta idősebbik fiának, Ézsaunak otthon levő legjobb ruháját, és ráadta azt kisebbik fiára, Jákobra. A kezét és a sima nyakát pedig kecskegidák bőrével borította be. Majd az ízletes ételeket és a kenyeret, amelyeket készített, kezébe adta fiának, Jákobnak.\n\nJákob bement atyjához, és megszólította: „Atyám!” Ő azt válaszolta: „Hallom. Ki vagy te, fiam?” Jákob erre azt felelte: „Én vagyok elsőszülötted, Ézsau. Úgy cselekedtem, ahogyan parancsoltad nekem. Ülj fel tehát, és egyél vadászzsákmányomból, hogy áldásodban részesüljek!” Izsák megkérdezte fiától: „Fiam! Hogyan találtál vadat ilyen hamar?” Ő így válaszolt: „Az Úr, a te Istened akarata volt, hogy elém kerüljön.”\n\nEkkor Izsák azt mondta Jákobnak: „Jöjj közelebb! Hadd tapogassalak meg, hogy valóban te vagy-e az én Ézsau fiam, vagy sem?” Jákob közelebb ment atyjához, Izsákhoz, aki megtapogatta, és azt mondta: „A hang ugyan Jákob hangja, de a kéz Ézsau keze.” Nem ismerte meg, mert olyan szőrös volt a keze, mint bátyjának, Ézsaunak a keze.\n\nMegáldotta tehát, de azért megkérdezte tőle: „Te vagy az én Ézsau fiam?” Ő azt felelte: „Én vagyok.” Erre Izsák így szólt: „Hozd ide vadászzsákmányodat, fiam, hadd egyem belőle, hogy aztán megáldjalak téged!” Odavitte neki, és amikor elfogyasztotta, bort is hozott neki, és ő ivott belőle. Akkor atyja, Izsák így szólt hozzá: „Jöjj közelebb, és csókolj meg, fiam!” Ő odament és megcsókolta.\n\nAmikor Izsák megérezte ruhájának illatát, megáldotta őt e szavakkal: „Íme, fiam illata olyan, mint a mező illata, melyet megáldott az Úr. Adjon neked az Isten az ég harmatából és a föld bőségéből sok gabonát és bort! Népek szolgáljanak téged, és nemzetek boruljanak le előtted! Légy ura testvéreidnek, és boruljanak le előtted anyád fiai! Aki téged átkoz, legyen átkozott, aki pedig áld, legyen áldott!”",
+  "cite": "Ter 27,1-5.15-29"
+ }
+}

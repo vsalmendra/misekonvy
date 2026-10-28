@@ -1,0 +1,33 @@
+{
+ "key": "evkozi-24-6-I",
+ "source_date": "2025-09-20",
+ "rank": "",
+ "day": "24. évközi hét szombat",
+ "psalm": {
+  "cite": "Zsolt 99,2-5",
+  "response": "Járuljatok az Úr színe elé vidám énekszóval!",
+  "verses": [
+   "Ujjongjatok az Úrnak, minden földek,\nszolgáljatok az Úrnak vidámsággal!\nJáruljatok színe elé\nvidám énekszóval!",
+   "Tudjátok meg, hogy az Úr az Isten,\növé vagyunk, ő alkotott minket.\nAz ő népe vagyunk,\nlegelőjének nyája.",
+   "Őt magasztalva lépjetek be kapuján, † énekelve vonuljatok hajlékába,\náldjátok nevét, és adjatok hálát néki.",
+   "Valóban jó az Úr, † irgalma örökké megmarad,\nés hűsége nemzedékről nemzedékre."
+  ]
+ },
+ "alleluia": {
+  "text": "Boldogok, akik jó szívvel fogadják Isten igéjét, és állhatatosságukkal gyümölcsöt hoznak.",
+  "cite": "Vö. Lk 8,15"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Isten igéjét készséges szívvel kell befogadni és tettekre váltani!",
+  "text": "Amikor egyszer a városokból nagy tömeg gyűlt Jézus köré, ő ezt a példabeszédet mondta nekik:\n\n„Kiment a magvető magot vetni. Amint vetett, némely szem az útfélre esett; ott eltaposták, és az égi madarak felcsipegették. Némely mag köves helyre esett. Alighogy kikelt, elszáradt, mert nem volt nedvessége. Némely pedig tövisek közé hullott. A tövisek felnőttek vele együtt, és elfojtották. A többi jó földbe hullott. Kikelt, és százszoros termést hozott.” E szavak után Jézus felkiáltott: „Akinek füle van, hallja meg!”\n\nAkkor megkérdezték tanítványai, hogy mi a példabeszéd értelme. Így válaszolt: „Nektek megadatott, hogy megértsétek Isten országának titkait. A többieknek csak példabeszédekben, hogy nézzenek, de ne lássanak, halljanak, de ne értsenek.\n\nA példabeszéd értelme ez: a mag Isten igéje. Az útfélre eső mag azokat jelenti, akik hallgatják az igét, de aztán jön az ördög, és kiveszi a szívükbe hullott igét, hogy ne higgyenek, és így ne is üdvözüljenek. A köves talajra hullott mag azokat jelenti, akik meghallgatják az igét, örömmel be is fogadják, de az nem ver bennük gyökeret. Egy ideig hisznek, de a kísértés idején elpártolnak. A tövisek közé eső mag azokat jelenti, akik meghallgatják az igét, de az élet gondjai, gazdagsága és élvezetei elfojtják bennük a növekedést, és termést nem hoznak. A jó földbe eső mag végül azokat jelenti, akik meghallgatják az igét, jó és erényes szívvel meg is tartják, és termést is hoznak állhatatosságban.”",
+  "cite": "Lk 8,4-15"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak Timóteushoz írt első leveléből",
+  "summary": "Őrizzük meg feddhetetlenül keresztény hivatásunkat: tegyünk tanúságot Krisztusról!",
+  "text": "Szeretett Fiam!\n\nFelszólítalak az Isten nevében, aki mindeneket éltet, és Krisztus Jézus nevében, aki Poncius Pilátus előtt tanúságot tett az igazság mellett, hogy teljesítsd megbízatásodat bűntelenül és feddhetetlenül Urunk, Jézus Krisztus eljöveteléig.\n\nEzt a kellő időben megmutatja majd a boldog és egyedül Uralkodó, a Királyok Királya és Urak Ura, aki egyedül halhatatlan, aki megközelíthetetlen fényességben lakik, akit senki nem látott, és nem is láthat: övé a dicsőség és az örök hatalom! Ámen.",
+  "cite": "1Tim 6,13-16"
+ }
+}

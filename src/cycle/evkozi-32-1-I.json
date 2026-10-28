@@ -1,0 +1,34 @@
+{
+ "key": "evkozi-32-1-I",
+ "source_date": "2025-11-10",
+ "rank": "",
+ "day": "32. évközi hét hétfő",
+ "psalm": {
+  "cite": "Zsolt 138,1-10",
+  "response": "Vezess engem, Uram, az örök élet biztos útján!",
+  "verses": [
+   "Uram, te megvizsgálsz, és jól ismersz engem,\ntudod, ha leülök, vagy ha fölkelek.\nGondolataimat messziről is ismered, † szemmel tartod jártomat-keltemet,\njól látod minden utamat.",
+   "Szavam még el sem éri nyelvemet,\níme, te már ismered, Uram.\nMinden oldalról körülfogtál,\nés kezedet rajtam nyugtatod.\nCsodálatos ezt tudnom,\noly magasztos, hogy fel sem foghatom.",
+   "Lelked elől ugyan hová mehetnék?\nSzíned elől hová futhatnék?\nHa fölszállnék az égbe, te ott vagy,\nha a holtak hazájában pihennék, ott is jelen vagy.",
+   "Ha felölteném a hajnal szárnyait,\nés a tenger túlsó végén laknék,\noda is a te kezed vezetne,\nés jobbod tartana engem.",
+   "Egész bensőmet te alkottad,\nanyám méhében te szőttél egybe engem.\nMagasztallak, hogy oly csodásán alkottál, † csodálatos minden műved,\nlelkem jól tudja mindezt."
+  ]
+ },
+ "alleluia": {
+  "text": "Úgy ragyogtok, mint csillagok az égen, ha megtartjátok az élet igéit.",
+  "cite": "Fil 2,15d-16a"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "A megtérőnek mindig meg kell bocsátanunk.",
+  "text": "Egy alkalommal Jézus így beszélt tanítványaihoz:\n\n„Lehetetlen, hogy botrányok ne forduljanak elő; de jaj annak, aki azokat okozza! Jobb lenne, ha malomkövet kötnének a nyakára, és a tengerbe dobnák, mint hogy egyet is megbotránkoztasson ezek közül a kicsinyek közül. Vigyázzatok magatokra!\n\nHa vét ellened testvéred, fedd meg! De ha megbánja, bocsáss meg neki! Még ha napjában hétszer vét is ellened, de hétszer fordul hozzád, és azt mondja: Megbántam, – bocsáss meg neki!”\n\nAz apostolok kérték az Urat: „Növeld bennünk a hitet!”\n\nAz Úr így válaszolt: „Ha csak akkora hitetek lesz is, mint a mustármag, és azt mondjátok ennek a szederfának: Szakadj ki tövestől, és verj gyökeret a tengerben! – engedelmeskedik nektek.”",
+  "cite": "Lk 17,1-6"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "a Bölcsesség könyvéből",
+  "summary": "Az isteni Bölcsesség ad értelmet életünknek, tehát ezt kell keresnünk; Isten Lelke betölti a mindenséget, tehát mindenki megtalálhatja, aki tiszta szívből keresi.",
+  "text": "Így szól az örök Bölcsesség: Szeressétek az igazságot, ti, föld kormányzói! Gondoljatok az Úrra jó lélekkel, keressétek őt szívetek egyszerűségében, mert azok találnak rá, akik nem kísértik, és azoknak nyilvánítja ki magát, akik bíznak benne! Az aljas gondolatok ugyanis eltávolítanak Istentől; aki pedig Isten hatalmával balgán szembeszáll, elnyeri büntetését. Mert nem tér be a Bölcsesség gonosz szándékú lélekbe, és nem vesz lakást olyan testben, amely a bűnnek szolgál. Hisz a fegyelem szent lelke menekül a hamisságtól, távol tartja magát az esztelen gondolatoktól, és visszariad, ha igaztalanság közelít. A Bölcsesség emberbarát lélek ugyan, de nem hagyja büntetlenül a káromló ember ajkának vétkét, mert Isten belelát a veséjébe, ismeri szívét, és hallja szavait. Az Úr Lelke ugyanis betölti a földkerekséget, és aki egybefogja a mindenséget, az tud is minden szóról!",
+  "cite": "Bölcs 1,1-7"
+ }
+}

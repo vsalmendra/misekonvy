@@ -1,0 +1,39 @@
+{
+ "key": "evkozi-8-vas-C",
+ "source_date": "2025-03-02",
+ "rank": "",
+ "day": "Évközi 8. vasárnap – Könyörgőnap a világ éhezőiért",
+ "psalm": {
+  "cite": "Zsolt 91,2-3.13-14.15-16",
+  "response": "Mennyire jólesik nékem, tégedet, Uram, hálával dicsérnem.",
+  "verses": [
+   "Jó dolog az Urat dicsérni,\nnevednek, ó Fölséges, éneket zengeni.\nIrgalmadat hajnalban hirdetni,\nés egész éjszaka hűségedet.",
+   "Virul az igaz, akár a pálma,\núgy növekszik mint a Libanon cédrusa.\nAz Úr házában ültették el őket,\nIstenünk csarnokában virágzanak.",
+   "Még öregkorukban is gyümölcsöt hoznak,\ntelve vannak bőséges élettel.\nHogy hirdessék: „Igaz az Isten,\nnincs benne hamisság, ő a menedékem.”"
+  ]
+ },
+ "alleluia": {
+  "text": "Úgy ragyogjatok, mint csillagok a mindenségben, és tartsátok meg az örök élet igéit.",
+  "cite": "Fil 2,15d.16a"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "A szív bőségéből beszél a száj.",
+  "text": "Jézus a hegyi beszédben ezeket a hasonlatokat mondta tanítványainak:\n\n„Vajon vezethet-e vak világtalant? Nem esnek-e bele mind a ketten a\n\ngödörbe?\n\nNem nagyobb a tanítvány mesterénél: Akkor tökéletes az ember, amikor\n\nmár olyan, mint a mestere.\n\nMiért látod meg a szálkát embertársad szemében, amikor a magad szemében\n\na gerendát sem veszed észre? Hogyan mondhatod embertársadnak: Barátom,\n\nhadd vegyem ki szemedből a szálkát, holott saját szemedben nem látod\n\nmeg a gerendát? Képmutató! Vedd ki előbb a magad szeméből a gerendát, s\n\naztán törődj azzal, hogy kivedd a szálkát embertársad szeméből.\n\nMert nincsen jó fa, amely rossz gyümölcsöt terem, és nincsen rossz\n\nfa, amely jó gyümölcsöt hoz. Minden fát gyümölcséről lehet megismerni.\n\nNem szednek a tövisbokorról fügét, sem a tüskebokorról nem szüretelnek\n\nszőlőt. A jó ember szívének jó kincséből jót hoz elő, a rossz ember\n\npedig a rosszból rosszat hoz elő. Hisz a szív bőségéből beszél a\n\nszáj.”",
+  "cite": "Lk 6,39-45"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Sirák fia könyvéből",
+  "summary": "Az ember beszéde sokat elárul belső világáról.",
+  "text": "Amikor szitálnak, fennakad a szemét,\n\nha valaki beszél, kiderül a gyengéje.\n\nA cserép akkor lesz kemény, ha meleg a kemence,\n\naz ember értékét pedig a beszéde szabja meg.\n\nA fák gyümölcse szerint becsülik meg a kertet,\n\naz embert szavai alapján ítélik meg.\n\nNe magasztalj senkit, amíg nem beszélt,\n\nmert ez az ember legjobb próbája.",
+  "cite": "Sir 27,5-8"
+ },
+ "reading2": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a korintusiakhoz írt első leveléből",
+  "summary": "Isten Jézus Krisztus által győzelmet adott nekünk a halál felett.",
+  "text": "Testvéreim!\n\nAmikor a romlandó test magára ölti a romolhatatlanságot,\n\na halandó a halhatatlanságot, akkor beteljesedik az Írás szava:\n\nA győzelem elnyelte a halált.\n\nHalál, hol a te győzelmed?\n\nHalál, hol a te fullánkod?\n\nA halál fullánkja a bűn, a bűn ereje pedig a törvény. Legyen hála az\n\nIstennek, mert ő győzelemre segít minket, Jézus Krisztus, a mi Urunk\n\náltal.\n\nLegyetek tehát állhatatosak és kitartóak, szeretett testvéreim!\n\nTegyetek minél többet az Úr ügyéért szüntelen, hiszen tudjátok, hogy\n\nfáradozástok az Úrban nem hiábavaló.",
+  "cite": "1Kor 15,54-58"
+ }
+}

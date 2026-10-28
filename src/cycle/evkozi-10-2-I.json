@@ -1,0 +1,32 @@
+{
+ "key": "evkozi-10-2-I",
+ "source_date": "2025-06-10",
+ "rank": "",
+ "day": "10. évközi hét kedd",
+ "psalm": {
+  "cite": "Zsolt 118,129.130.131.132.133.135",
+  "response": "Ragyogtasd fel arcodat szolgád felett, Uram!",
+  "verses": [
+   "Rendelkezéseid oly csodásak,\nezért figyel azokra lelkem.\nRagyogva világít szavad fénye,\nértelmessé teszi a kicsinyeket.",
+   "Reménykedve nyitom fel ajkamat,\nparancsaid után sóvárgok.\nRészvéttel hajolj felém, és könyörülj rajtam,\nahogy szoktál azokon, akik nevedet tisztelik.",
+   "Rendezd lépteimet törvényed szerint,\na gonosz ne uralkodjék rajtam.\nRagyogtasd szolgád fölé arcodat,\ntaníts meg rendelkezéseidre."
+  ]
+ },
+ "alleluia": {
+  "text": "Úgy világítson a ti világosságotok az emberek előtt, hogy lássák jótetteiteket, és mennyei Atyátokat dicsőítsék érte!",
+  "cite": "Mt 5,16"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Krisztus híveinek példás élete tanítás az egész világnak.",
+  "text": "Jézus így tanított a hegyi beszédben:\n\n„Ti vagytok a föld sója. De ha a só ízét veszti, mivel sózzák meg? Nem való az egyébre, mint hogy kidobják, s eltapossák az emberek.\n\nTi vagytok a világ világossága. A hegyen épült várost nem lehet elrejteni. Lámpát sem azért gyújtanak, hogy a véka alá rejtsék, hanem a lámpatartóra teszik, hogy világítson mindenkinek a házban. Úgy világítson a ti világosságtok az emberek előtt, hogy látva jótetteiteket, magasztalják mennyei Atyátokat!”",
+  "cite": "Mt 5,13-16"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a korintusiakhoz írt második leveléből",
+  "summary": "Isten ígérete Jézus Krisztusban valósult meg.",
+  "text": "Testvéreim!\n\nIsten a tanúnk, hogy szavainkban, amelyeket hozzátok intézünk, nem mindegy az „Igen” és a „Nem”. Az Isten Fia, Jézus Krisztus ugyanis, akit mi – én, Szilvánusz és Timóteus – köztetek hirdettünk, nem volt „Igen” is, meg „Nem” is, hanem az „Igen” valósult meg benne.\n\nIsten valamennyi ígérete „Igen”-né vált őbenne. Ezért hangzik fel általa ajkunkon az „Ámen” Isten dicsőségére.\n\nIsten az, aki minket veletek együtt megerősít és fölken Krisztusban. Pecsétjével megjelölt minket, és foglalóul szívünkbe árasztotta a (Szent)lelket.",
+  "cite": "2Kor 1,18-22"
+ }
+}

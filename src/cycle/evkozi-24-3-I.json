@@ -1,0 +1,33 @@
+{
+ "key": "evkozi-24-3-I",
+ "source_date": "2025-09-17",
+ "rank": "",
+ "day": "24. évközi hét szerda",
+ "psalm": {
+  "cite": "Zsolt 110,1-6",
+  "response": "Urunk és Istenünk, mily nagyszerűek a te műveid!",
+  "verses": [
+   "Vagy: Alleluja. 12. szám.\nTeljes szívemből áldom az Urat\na szentek tanácsában és közösségében.\nNagyszerűek az Úr művei,\nmindazok szemében, akik szeretik azokat.",
+   "Vagy: Alleluja.\nDicsőséges és fönséges minden cselekedete,\nés igazságossága örökre megmarad.\nCsodatetteinek emléket szerzett\na jóságos és irgalmas Isten.",
+   "Vagy: Alleluja.\nEledelt adott az őt félőknek,\nmegemlékezik szövetségéről örökkön örökké.\nNépének megmutatta hatalmas műveit,\nnekik adta a pogányok örökségét.",
+   "Vagy: Alleluja."
+  ]
+ },
+ "alleluia": {
+  "text": "Uram, a te tanításod lélek és élet: örök életet adó igéid vannak.",
+  "cite": "Vö. Jn 6,63c.68c"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Akik mindenben kifogásolni valót találnak, azoknak sem Keresztelő János szigorú élete, sem Jézus emberi közvetlensége nem tetszik.",
+  "text": "Egy alkalommal Jézus így szólt a néphez:\n\nKihez hasonlítsam e nemzedék fiait? Kihez is hasonlítanak? Olyanok, mint az utcán tanyázó gyermekek, akik így kiáltoznak egymáshoz:\n\nFurulyáztunk, de nem táncoltatok.\n\nSiránkoztunk, de nem zokogtatok.\n\nEljött Keresztelő János: kenyeret nem eszik, bort nem iszik. Erre azt mondjátok: „Ördöge van.” Eljött az Emberfia, eszik és iszik. Erre meg azt mondjátok: „Nézd a falánk és borissza embert, a vámosok és a bűnösök barátját!”\n\nAz Isten bölcsességét azonban fiai igazolták.",
+  "cite": "Lk 7,31-35"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak Timóteushoz írt első leveléből",
+  "summary": "A keresztény hit nagy titka maga Jézus Krisztus.",
+  "text": "Szeretett Fiam!\n\nÍrok neked, bár remélem, hogy hamarosan eljutok hozzád. Ha mégis később érkeznék, tudd, hogyan kell viselkedned Isten népe között, amely az élő Isten egyháza, az igazság oszlopa és szilárd alapja.\n\nKétségkívül fenséges a mi hitünk nagy titka, az Úr Jézus Krisztus, aki\n\nnyilvánvaló lett a testben, és igazolást nyert a Szentlélek által; megjelent az angyaloknak, és hirdették a nemzetek között; világszerte hittek benne; és fölment a dicsőségbe.",
+  "cite": "1Tim 3,14-16"
+ }
+}

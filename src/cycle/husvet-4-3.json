@@ -1,0 +1,33 @@
+{
+ "key": "husvet-4-3",
+ "source_date": "2025-05-14",
+ "rank": "",
+ "day": "húsvét 4. hét szerda",
+ "psalm": {
+  "cite": "Zsolt 66,2-3.5.6 és 8",
+  "response": "Magasztaljanak téged a népek, Istenünk, magasztaljanak az összes nemzetek!",
+  "verses": [
+   "Vagy: Alleluja. 5. szám.\nKönyörüljön rajtunk az Isten, és áldjon meg minket,\nragyogtassa fel arcát fölöttünk,\nhogy megismerjék a földön utadat,\nés üdvösségedet az összes nemzetek.",
+   "Vagy: Alleluja.\nÖrvendjenek és ujjongjanak a nemzetek, † mert igazságosan ítéled a népeket,\nés te vezérled őket a földön.",
+   "Vagy: Alleluja.\nMagasztaljanak téged a népek, Istenünk,\ndicsőítsenek az összes nemzetek.\nÁldjon meg minket az Isten,\nfélve tisztelje őt a föld minden határa.",
+   "Vagy: Alleluja."
+  ]
+ },
+ "alleluia": {
+  "text": "Én a világ világossága vagyok – mondja a mi Urunk. Aki engem követ, övé lesz az élet világossága.",
+  "cite": "Vö. Jn 8,12"
+ },
+ "gospel": {
+  "book": "Szent János",
+  "summary": "Jézus világosságul jött e világra.",
+  "text": "Abban az időben Jézus hangos szóval hirdette:\n\nAki bennem hisz, nem énbennem hisz, hanem abban, aki küldött engem. Aki engem lát, azt látja, aki küldött engem.\n\nÉn világosságul jöttem e világra, hogy aki bennem hisz, ne maradjon sötétségben. Aki hallgatja ugyan tanításomat, de nem tartja meg, azt nem én ítélem el, mert hiszen nem azért jöttem, hogy elítéljem a világot, hanem hogy megváltsam a világot. Van bírája annak, aki megvet, és nem fogadja el tanításomat. A tőlem hirdetett ige ítéli el őt az utolsó napon. Mert én nem magamtól beszéltem, hanem az Atya, aki küldött engem, hagyta meg nekem, hogy mit mondjak és mit hirdessek.\n\nTudom, hogy az ő parancsa örök élet. Amit tehát hirdetek, úgy hirdetem, amint az Atya mondta nekem.",
+  "cite": "Jn 12,44-50"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "az Apostolok Cselekedeteiből",
+  "summary": "A Szentlélek Pált és Barnabást apostoli munkára küldi.",
+  "text": "Az Úr igéje egyre szélesebb körben terjedt. Barnabás és Saul feladatuk végeztével visszatértek Jeruzsálemből (ahová az antióchiai testvérek adományait vitték). A Márknak nevezett Jánost is magukkal hozták.\n\nAz antióchiai egyházban több próféta és tanító volt, például Barnabás, a Nigernek nevezett Simon, a cirenei Lúciusz, továbbá Manaén, aki együtt nevelkedett Heródes fejedelemmel és Saul.\n\nEgy alkalommal, amikor istentiszteletet tartottak és böjtöltek, így szólt hozzájuk a Szentlélek: „Válasszátok ki Barnabást és Sault arra a munkára, amelyre meghívtam őket!” Erre böjtöltek és imádkoztak, majd rájuk tették kezüket, és útnak indították őket.\n\nŐk tehát a Szentlélektől küldetve Szeleukiába mentek, és onnan áthajóztak Ciprusba. Szalamiszba érve a zsinagógában hirdetni kezdték a Jézusról szóló tanítást.",
+  "cite": "ApCsel 12,24-13,5a"
+ }
+}

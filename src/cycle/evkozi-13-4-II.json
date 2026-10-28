@@ -1,0 +1,33 @@
+{
+ "key": "evkozi-13-4-II",
+ "source_date": "2024-07-04",
+ "rank": "",
+ "day": "13. évközi hét csütörtök",
+ "psalm": {
+  "cite": "Zsolt 18,8.9.10.11",
+  "response": "Az Úr ítéletei igazak, és mind egyaránt jogosak.",
+  "verses": [
+   "Tökéletes az Úr törvénye,\nmegújítja a lelket.\nAz Úr tanúságában bízhatunk,\nbölcsességet ad a kicsinyeknek.",
+   "Az Úr végzése igaz,\nmegvidámítja a szívet.\nAz Úr parancsa világos,\nfényt gyújt a szemnek.",
+   "Az Úr félelme tiszta,\nörökké megmarad.\nAz Úr ítéletei igazak,\nés mind egyaránt jogosak.",
+   "Értékesebb az aranynál,\na legdrágább drágakőnél.\nÉdesebb a méznél,\na csorduló lépesméznél."
+  ]
+ },
+ "alleluia": {
+  "text": "Isten kiengesztelődött Krisztusban a bűnös világgal, és ránk bízta a kiengesztelődés hirdetését.",
+  "cite": "2Kor 5,19"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Jézus a béna ember meggyógyításával bizonyítja bűnbocsátó hatalmát.",
+  "text": "Jézus egyszer hajóba szállt, átkelt a Genezáreti-tavon, és az ő városába, Kafarnaumba érkezett. Ott egy bénát hoztak eléje hordágyon. Hitük láttára Jézus így szólt a bénához: „Bízzál fiam! Bocsánatot nyernek bűneid!”\n\nNéhány írástudó erre azt gondolta magában: „Ez káromkodik.” Jézus belelátott gondolataikba, és szemükre vetette: „Miért gondoltok rosszat szívetekben? Mi könnyebb, ha azt mondom: »Bocsánatot nyernek bűneid!«, vagy ha azt mondom: »Kelj föl, és járj!«? Tudjátok meg tehát, hogy az Emberfiának hatalma van a földön a bűnök megbocsátására!” A bénához fordulva folytatta: „Kelj föl, fogd ágyadat, és menj haza!” Az ember fölkelt és hazament.\n\nEnnek láttára félelem fogta el a tömeget, és dicsőíteni kezdték Istent, aki ilyen hatalmat adott az embereknek.",
+  "cite": "Mt 9,1-8"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Ámosz próféta könyvéből",
+  "summary": "Aki Isten ügyének hűséges szolgája,\naz nem rendülhet meg emberi fenyegetésektől.",
+  "text": "Amásziás, Bétel papja, ezt üzente Jeroboám királynak: „Ámosz összeesküvést szít ellened Izrael házában; az ország nem tűrheti tovább mindenféle beszédjét!\n\nAzt mondja ugyanis Ámosz: »Kard által fog meghalni Jeroboám, és Izraelt fogságba hurcolják országából!«”\n\nÁmoszhoz pedig így szólt Amásziás: „Eredj innen, próféta! Fuss Júda földjére, ott edd kenyeredet, és ott prófétálj! De Bételben ne prófétálj többé, mert ez királyi szentély és a királyság temploma!”\n\nÁmosz így felelt Amásziásnak: „Nem vagyok én próféta, sem próféta fia; pásztor vagyok én, és vadfügét szedegetek.\n\nDe az Úr meghívott engem, amikor a nyájat tereltem, és azt mondta nekem az Úr:\n\n»Menj, prófétálj népemnek, Izraelnek!«\n\nMost pedig halljad az Úr szavát: Te így szólsz: »Ne prófétálj Izrael ellen, és ne beszélj Izsák háza ellen!«\n\nEzért így szól az Úr: »Feleséged a város cédája lesz, fiaid és leányaid kard által hullanak el, földedet felmérik és felosztják, te tisztátalan földön halsz meg, és Izraelt országából fogságba hurcolják!«”",
+  "cite": "Ám 7,10-17"
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "key": "szentharomsag-B",
+ "source_date": "2024-05-26",
+ "rank": "",
+ "day": "Szentháromság vasárnap",
+ "psalm": {
+  "cite": "Zsolt 32,4-5.6 és 9.18-19.20 és 22",
+  "response": "Boldog az a nemzet, melyet az Úr örökbe fogadott.",
+  "verses": [
+   "Sziklaszilárd az Úr igéje,\nminden tettét hűség vezeti.\nAz igazlelkűséget és a törvényt szereti,\ntelve van a föld az Úr irgalmával.",
+   "Az Úr szavára lett a mennybolt,\nszája leheletére a csillagok ezrei.\nMert csak szólt és meglettek,\nparancsolt és létrejöttek.",
+   "Az istenfélőkre ügyel az Úr szeme,\nakik bíznak az ő irgalmában.\nMegmenti lelküket a haláltól,\nés táplálja őket éhínség idején.",
+   "Az Úrra hagyatkozik lelkünk,\nő a segítőnk, és ő a mi oltalmunk.\nKegyes szemed legyen rajtunk,\ntebenned van bizodalmunk."
+  ]
+ },
+ "alleluia": {
+  "text": "Dicsőség az Atyának, a Fiúnak és a Szentléleknek: Istennek, aki van, aki volt, és aki eljön újra.",
+  "cite": "Vö. Jel 1,8"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "",
+  "text": "Abban az időben: A tizenegy tanítvány elment Galileába, fel arra a hegyre, ahova Jézus rendelte őket. Amikor meglátták őt, leborultak előtte a földre. Egyesek azonban még mindig kételkedtek. Jézus odament hozzájuk, és ezt mondta nekik: „Én kaptam meg minden hatalmat az égen és a földön. Ezért most menjetek el, és tegyetek tanítványommá minden nemzetet! Kereszteljétek meg őket az Atya, a Fiú és a Szentlélek nevében! Tanítsátok meg őket mindannak megtartására, amit parancsoltam nektek! És íme, én veletek vagyok mindennap a világ végéig!”",
+  "cite": "Mt 28,16-20"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Mózes ötödik könyvéből",
+  "summary": "",
+  "text": "Mózes a pusztában ezt a beszédet intézte a néphez: „Kutasd a régi időket, amelyek előtted voltak, attól a naptól kezdve, hogy Isten embert teremtett a földre! Vajon az ég egyik határától a másikig történt-e valaha ilyen nagy dolog, lehetett-e hallani hasonlót? Van-e olyan nép, amelyik hallotta az élő Istent lángok közül beszélni, ahogy te hallottad, – és életben maradt? Volt-e valaha is olyan Isten, aki megtette, hogy egy népet kivezessen egy másik nép köréből; megpróbáltatásokkal, jelekkel és csodákkal, háborúsággal, erős kézzel és kinyújtott karral, nagy csapásokkal, ahogy az Úr, a ti Istenetek veletek tette Egyiptomban a szemetek láttára? Tudd meg hát és vésd szívedbe, hogy fönn az égben és lenn a földön az Úr az Isten, senki más! Tartsd meg parancsait és törvényeit, amelyeket ma parancsolok neked, hogy jól menjen sorod, és majd utánad gyermekeidnek is, és hogy sokáig élj azon a földön, amelyet az Úr, a te Istened neked ad örökre!”",
+  "cite": "MTörv 4,32-34.39-40"
+ },
+ "reading2": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a rómaiakhoz írt leveléből",
+  "summary": "",
+  "text": "Testvéreim! Akiket Isten Lelke vezérel, azok Isten fiai. Nem a szolgaság lelkét kaptátok ugyanis, hogy ismét félelemben éljetek, hanem a fogadott fiúság Lelkét nyertétek el. Általa szólítjuk őt így: „Abba, Atya!”\n\nA Lélek maga tesz tanúságot lelkünkben, hogy Isten gyermekei vagyunk. Ha pedig gyermekei, akkor örökösei is: Istennek örökösei, Krisztusnak pedig társörökösei. Előbb azonban szenvednünk kell vele együtt, hogy vele együtt meg is dicsőüljünk.",
+  "cite": "Róm 8,14-17"
+ }
+}

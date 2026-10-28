@@ -1,0 +1,33 @@
+{
+ "key": "evkozi-3-2-I",
+ "source_date": "2025-01-28",
+ "rank": "",
+ "day": "3. évközi hét kedd",
+ "psalm": {
+  "cite": "Zsolt 39,2 és 4ab.7-8a.10.11",
+  "response": "Íme, eljövök, Uram, hogy teljesítsem azt, amit kívánsz.",
+  "verses": [
+   "Várva vártam az Urat,\nés ő lehajolt hozzám.\nÚj éneket adott ajkamra,\nIstenünknek zengő éneket.",
+   "Sem véres, sem ételáldozat nem kellett neked,\nfülemet azonban megnyitottad.\nNem követeltél égő és engesztelő áldozatot,\nígy szóltam akkor: „Íme, eljövök.”",
+   "Igazságodat hirdetem a nagy közösségben,\najkam el nem hallgat, Uram, jól tudod.",
+   "Igazságodat nem rejtettem el szívem mélyén,\nhűségedet és segítségedet elbeszéltem."
+  ]
+ },
+ "alleluia": {
+  "text": "Áldalak téged, Atyám, mennynek és földnek Istene, mert feltártad a kicsinyeknek országod titkait.",
+  "cite": "Vö. Mt 11,25"
+ },
+ "gospel": {
+  "book": "Szent Márk",
+  "summary": "Azok tartoznak igazán Jézushoz, akik teljesítik a mennyei Atya akaratát.",
+  "text": "Egy alkalommal Jézust fölkeresték anyja és rokonai. De nem mentek be a házba, ahol Jézus tanított, hanem hívatták őt.\n\nAkik körülötte ültek, odaszóltak Jézusnak: „Anyád és rokonaid kint vannak, és keresnek téged.”\n\nJézus azonban így válaszolt: „Ki az én anyám? Kik az én rokonaim?” Aztán végighordozta tekintetét a körülötte ülőkön, és csak ennyit mondott: „Ezek az én anyám és rokonaim. Aki teljesíti Isten akaratát, az az én testvérem, nővérem és anyám!”",
+  "cite": "Mk 3,31-35"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "a Zsidókhoz írt levélből",
+  "summary": "Krisztus azért jött a világba, hogy teljesítse Atyja akaratát.",
+  "text": "Testvéreim!\n\nMivel a mózesi törvény csak árnyéka az eljövendő javaknak, és nem a valóság képe, még azokkal az áldozatokkal sem tehette tökéletessé a résztvevőket, amelyeket évről évre megszakítás nélkül bemutattak.\n\nNemde abbahagyták volna az áldozatok bemutatását, ha a bemutatók az egyszeri megtisztulás után megszabadultak volna a bűntudattól? Ellenkezőleg, éppen az áldozat emlékeztette őket évről évre a bűnre.\n\nLehetetlen ugyanis, hogy bikák és bakok vére bűnöket töröljön el. Ezért nyilatkozik így Krisztus, amikor a világba lép:\n\nÁldozatot és ajándékot nem kívántál, hanem emberi testet alkottál nekem.\n\nNem kedves előtted az engesztelő és az égőáldozat.\n\nEzért így szóltam: Íme elmegyek, hogy teljesítsem akaratodat, Istenem, amint a könyvtekercsben rólam írva van.\n\nElőször tehát azt mondta: „Áldozatot, ajándékot, engesztelő és égőáldozatot nem akartál, nem volt az kedves előtted”, jóllehet ezeket a törvény írta elő. Azután így folytatta: „Íme, elmegyek, hogy teljesítsem akaratodat.” Tehát az előzőket eltörli, hogy helyükbe állítsa az utóbbit. Vagyis Isten akarata szerint Jézus Krisztus testének feláldozásával egyszer s mindenkorra megszentel minket.",
+  "cite": "Zsid 10,1-10"
+ }
+}

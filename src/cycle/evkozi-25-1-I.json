@@ -1,0 +1,33 @@
+{
+ "key": "evkozi-25-1-I",
+ "source_date": "2025-09-22",
+ "rank": "",
+ "day": "25. évközi hét hétfő",
+ "psalm": {
+  "cite": "Zsolt 125,1-6",
+  "response": "Hatalmas dolgot művelt az Úr vélünk.",
+  "verses": [
+   "Midőn az Úr hazahívta Sionnak foglyait,\nolyanok voltunk, mint akik álmodnak.\nMegtelt akkor örömmel az ajkunk,\nés a nyelvünk ujjongással.",
+   "Akkor így beszéltek a nemzetek:\n„Az Úr nagy dolgot művelt vélük.”\nHatalmas dolgot művelt az Úr vélünk,\nazért szívből ujjongunk.",
+   "Fordítsd, Uram, jóra sorsunkat,\namint megárasztod délen a folyókat.\nAkik könnyek között vetnek,\nmajd ujjongva aratnak.",
+   "Sírva viszik a magot, mikor vetni indulnak,\nde ujjongva jönnek, jönnek, és hozzák kévéiket."
+  ]
+ },
+ "alleluia": {
+  "text": "Úgy világítson a ti világosságtok az emberek körében, hogy jótetteitek láttán Atyátokat dicsőítsék!",
+  "cite": "Mt 5,16"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "A keresztény ember hivatása az, hogy világítson másoknak.",
+  "text": "Jézus egyszer így beszélt tanítványaihoz:\n\nHa valaki lámpát gyújt, nem takarja le, vagy nem rejti az ágy alá. Inkább felteszi a tartójára, hogy aki belép a házba, világosságot találjon.\n\nSemmi sincs elrejtve, ami nyilvánosságra ne jutna; és nincs olyan titok, ami ki ne derülne, és nyilvánvalóvá ne lenne.\n\nÜgyeljetek hát, hogy milyen figyelemmel hallgattok! Akinek ugyanis van, az még kap hozzá; akinek pedig nincsen, az még azt is elveszíti, amiről azt vélte, hogy az övé.",
+  "cite": "Lk 8,16-18"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Ezdrás könyvéből",
+  "summary": "A perzsák királya megengedi, hogy a választott nép visszatérjen ősi hazájába, és Jeruzsálemben felépítse az Úr templomát. Megparancsolja, hogy mindenki segítsen a templomépítésben.",
+  "text": "Kürosz, perzsa király uralkodásának első esztendejében teljesítette az Úr, amit Jeremiás által megjövendölt. Az Úr arra indította ugyanis a király szívét, hogy a következő írásbeli rendelkezést tegye közzé egész birodalmában.\n\nÍgy szól Kürosz perzsa király parancsa:\n\n„A föld minden országának urává tett engem az Úr, az ég Istene. Ő hagyta meg nekem, hogy felépítsem templomát Jeruzsálemben, Júdea fővárosában. Aki tehát ebből a népből még országunkban él, sietve induljon Jeruzsálembe, amely Júdeában van! Legyen vele az ő Istene, hogy segítse felépíteni az Úrnak, Izrael Istenének templomát. Ő ugyanis az az Isten, aki Jeruzsálemben lakozik. Országunk többi lakosai viszont mindenütt segítsék a hazatérőket, bárhol lakjanak is: ezüsttel, arannyal, felszereléssel, jószággal – azon felül, amit önként és szabadon felajánlanak Isten jeruzsálemi templomának javára.”\n\nElindultak erre Júda és Benjámin családjának vezető emberei a papokkal, levitákkal és mindazokkal, akiket Isten arra indított sugallatával, hogy hazatérjenek Jeruzsálembe, felépíteni az Úr templomát. A környező lakosság segítségükre volt minden munkájukban: ezüsttel, arannyal, felszereléssel, jószággal és egyéb holmikkal, azon felül, amit ajándékul adtak a templomra, önkéntesen és szabadon.",
+  "cite": "Ezd 1,1-6"
+ }
+}

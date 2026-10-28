@@ -1,0 +1,39 @@
+{
+ "key": "evkozi-5-vas-B",
+ "source_date": "2024-02-04",
+ "rank": "",
+ "day": "Évközi 5. vasárnap",
+ "psalm": {
+  "cite": "Zsolt 146,1-2.3-4.5-6",
+  "response": "Dicsérjétek az Urat, aki a megtört szívűeket meggyógyítja.",
+  "verses": [
+   "Dicsérjétek az Urat, mert jó dolog őt áldani,\nIstenünknek kedves a dicséret.\nJeruzsálemet az Úr újjáépíti,\nIzrael szétszórt fiait egybegyűjti.",
+   "Aki a megtört szívűeket meggyógyítja,\nés sebeiket bekötözi.\nA csillagokat számon tartja,\nés nevén szólítja valamennyit.",
+   "Nagy a mi Urunk, nagy az ő hatalma,\nbölcsességének nincs határa.\nA szelídeket magához emeli,\nde porig alázza a bűnösöket."
+  ]
+ },
+ "alleluia": {
+  "text": "Krisztus gyengeségünket magára vette, és betegségeinket ő hordozta.",
+  "cite": "Mt 8,17"
+ },
+ "gospel": {
+  "book": "Szent Márk",
+  "summary": "",
+  "text": "Abban az időben Jézus kijött a zsinagógából, és elment Simon és András házába. Simon\n\nanyósa lázas betegen feküdt. Mindjárt szóltak is Jézusnak. Jézus\n\nodament hozzá, megfogta a kezét, és fölsegítette. Erre megszűnt a láza,\n\nés szolgált nekik.\n\nAmikor lement a nap és beesteledett, odavitték hozzá a betegeket és a\n\ngonosz lélektől megszállottakat. Az egész város ott szorongott az ajtó\n\nelőtt. Jézus pedig sokakat meggyógyított, akik különböző bajokban\n\nszenvedtek; és sok ördögöt kiűzött. De nem engedte megszólalni őket,\n\nmert tudták, hogy ő kicsoda.\n\nHajnalban Jézus nagyon korán kelt. Kiment (a házból), elment egy\n\nelhagyatott helyre, és ott imádkozott. Simon és a vele lévők\n\nutánamentek. Mikor megtalálták, azt mondták neki: „Téged keres\n\nmindenki!”\n\nDe ő azt felelte: „Menjünk el máshová, a szomszédos helységekbe,\n\nhogy ott is hirdessem az evangéliumot, – hiszen ezért jöttem.” És\n\nment, hirdette az evangéliumot a zsinagógákban Galilea egész területén,\n\nés kiűzte az ördögöket.",
+  "cite": "Mk 1,29-39"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Jób könyvéből",
+  "summary": "",
+  "text": "A szenvedő Jób így panaszkodott: Nemde küzdelem az ember sorsa a földön? Nemde napszámos módjára tölti el napjait? Olyan, mint a rabszolga, ki árnyékba vágyik, olyan, mint a napszámos, ki a bérét várja. Csalódással teli hónapok jutottak nekem osztályrészül, keserves éjszakák lettek fizetségem. Már lefekvéskor azt kérdezem: „Mikor virrad?” És mihelyt felkelek: „Mikor lesz már este?” Tele vagyok kínnal egész alkonyatig. Napjaim futnak, mint a takács vetélője, eltűnnek, s nyomukban nem marad reménység. Gondold meg: életem csupán egy lehelet, szemem soha többé nem lát boldogságot.",
+  "cite": "Jób 7,1-4.6-7"
+ },
+ "reading2": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a korintusiakhoz írt első leveléből",
+  "summary": "",
+  "text": "Testvéreim! Hogy az evangéliumot hirdetem, azzal nem dicsekedhetem,\n\nhiszen ez kényszerű kötelességem. Jaj nekem ugyanis, ha nem hirdetem az\n\nevangéliumot?\n\nHa önszántamból teszem, jutalmam lesz, ha nem önszántamból, csak\n\nmegbízott hivatalnok vagyok. Mi tehát a jutalmam? Az, hogy mint az\n\nevangélium hirdetője, ingyen nyújtsam az evangéliumot, és ne éljek az\n\nevangéliumban gyökerező jogommal.\n\nBár mindenkitől független voltam, mégis mindenkinek szolgája lettem,\n\nhogy minél többet megnyerjek. A gyöngék közt gyönge lettem, hogy\n\nmegnyerjem a gyöngéket. Mindenkinek mindene lettem, hogy mindenkit\n\nüdvösségre vezessek. Mindezt az evangéliumért teszem, hogy nekem is\n\nrészem legyen benne.",
+  "cite": "1Kor 9,16-19.22-23"
+ }
+}

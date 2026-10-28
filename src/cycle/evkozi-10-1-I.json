@@ -1,0 +1,33 @@
+{
+ "key": "evkozi-10-1-I",
+ "source_date": "2025-06-09",
+ "rank": "",
+ "day": "10. évközi hét hétfő",
+ "psalm": {
+  "cite": "Zsolt 33,2-3.4-5.6-7.8-9",
+  "response": "Ízleljétek és lássátok, milyen édes az Úr!",
+  "verses": [
+   "Minden időben áldom az Urat,\ndicséretét szüntelenül zengi ajkam.\nLelkem az Úrban dicsekszik,\nhallják meg ezt a szelídek és örvendezzenek.",
+   "Magasztaljátok az Urat énvelem,\ndicsőítsük az ő nevét mindnyájan.\nKerestem az Urat, és ő meghallgatott engem,\nés kiragadott minden rettegésből.",
+   "Megvilágosultok, ha az Úrra néztek,\nés arcotokat nem éri szégyen.\nAz Úr meghallgatta a szegényt, aki hozzá kiáltott,\nés minden szorongatásából kiszabadította.",
+   "Az Úr angyala minden istenfélőt körülsáncol,\nés megszabadítja őt.\nÍzleljétek és lássátok, milyen édes az Úr,\nboldog az az ember, aki őbenne bízik."
+  ]
+ },
+ "alleluia": {
+  "text": "Örüljetek és ujjongjatok, mert jutalmatok nagy lesz a mennyben.",
+  "cite": "Mt 5,12a"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Boldogok, akik lelkükben szegények.",
+  "text": "Abban az időben Jézus látva a tömeget, fölment a hegyre, leült, tanítványai pedig köréje gyűltek. Akkor szólásra nyitotta ajkát, és így tanította őket:\n\n„Boldogok a lélekben szegények, mert övék a mennyek országa.\n\nBoldogok, akik sírnak, mert ők vigasztalást nyernek.\n\nBoldogok a szelídek, mert ők öröklik a földet.\n\nBoldogok, akik éhezik és szomjazzák az igazságot, mert ők kielégítést nyernek.\n\nBoldogok az irgalmasok, mert nekik is irgalmaznak.\n\nBoldogok a tiszta szívűek, mert ők meglátják Istent.\n\nBoldogok a békességszerzők, mert őket Isten fiainak fogják hívni.\n\nBoldogok, akiket üldöznek az igazságért, mert övék a mennyek országa.\n\nBoldogok vagytok, ha miattam gyaláznak titeket és üldöznek, ha hazudozva mindenféle gonoszsággal vádolnak titeket. Örüljetek és ujjongjatok, mert nagy lesz a ti jutalmatok az égben.”",
+  "cite": "Mt 5,1-12"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a korintusiakhoz írt második leveléből",
+  "summary": "Isten megvigasztal minket, hogy mi is megvigasztalhassuk a szomorkodókat.",
+  "text": "Testvéreim!\n\nPál, Isten akaratából Krisztus Jézus apostola és Timóteus testvér (üdvözletét küldi) Isten korintusi egyházának, valamint az összes szenteknek, akik egész Achájában vannak.\n\nKegyelem nektek és békesség Atyánktól, az Istentől, és Urunktól, Jézus Krisztustól!\n\nÁldott legyen az Isten, Urunk Jézus Krisztus Atyja, az irgalom Atyja és minden vigasztalás Istene! Ő megvigasztal minket minden szomorúságunkban, hogy mi is megvigasztalhassuk a szomorkodókat, azt a vigaszt nyújtva nekik, amelyet Isten nyújt nekünk. Amilyen bőven kijut nekünk Krisztus szenvedéseiből, olyan bőven árad ránk Krisztus által a vigasztalás is. Ha szorongatást szenvedünk, az a ti vigasztalásotokra és üdvösségetekre szolgál. Ha pedig vigasztalásban van részünk, az is a ti vigasztalásotokra van. Ez ugyanis erőt ad ugyanazoknak a szenvedéseknek elviselésére, amelyeket mi is elszenvedünk.\n\nVeletek kapcsolatban szilárd a reményünk, mert tudjuk, hogy amint társaink vagytok a szenvedésekben, úgy társaink lesztek a vigasztalásban is.",
+  "cite": "2Kor 1,1-7"
+ }
+}

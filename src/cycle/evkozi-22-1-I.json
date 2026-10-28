@@ -1,0 +1,33 @@
+{
+ "key": "evkozi-22-1-I",
+ "source_date": "2025-09-01",
+ "rank": "",
+ "day": "22. évközi hét hétfő – Teremtésvédelem világnapja",
+ "psalm": {
+  "cite": "Zsolt 95,1 és 3-5.11-13",
+  "response": "Urunk, Istenünk érkezik ítélni az egész világot.",
+  "verses": [
+   "Énekeljetek az Úrnak új éneket,\nminden föld az Úrnak énekeljen.\nHirdessétek dicsőségét a nemzetek között,\nés csodatetteit minden népnek.",
+   "Mert nagy az Úr, és minden dicséretre méltó,\nfélelmetesebb az összes isteneknél.\nA népek minden istene csak üres semmiség,\naz Úr azonban az ég alkotója.",
+   "Örvendjen az ég, a föld ujjongjon,\nzúgjon a tenger és ami betölti.\nÖrvendjen a mező,\nés minden, ami rajta van.",
+   "Ujjongjon az erdő minden fája\naz Úr színe előtt, mert eljön.\nJön, hogy ítélje a földet, † igazságosan ítéli meg a földkerekséget,\nés a népeket hűsége szerint."
+  ]
+ },
+ "alleluia": {
+  "text": "Az Úr lelke van rajtam: elküldött, hogy a szegényeknek örömhírt vigyek.",
+  "cite": "Lk 4,18"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Jézus fellépésével megkezdődött a megváltás kegyelmi ideje, de lakóhelyén ezt nehezen értették meg.",
+  "text": "Abban az időben Jézus elment Názáretbe, ahol (egykor) nevelkedett. Szokása szerint bement szombaton a zsinagógába, és olvasásra jelentkezett. Izajás próféta könyvét adták oda neki. Szétbontotta a tekercset, és éppen arra a helyre talált, ahol ez volt írva: „Az Úr Lelke van rajtam. Fölkent engem és elküldött, hogy örömhírt vigyek a szegényeknek, s hirdessem a foglyoknak a szabadulást, a vakoknak a látást, hogy szabaddá tegyem az elnyomottakat, és hirdessem: elérkezett az Úr esztendeje.”\n\nÖsszetekerte az írást, átadta a szolgának, és leült. A zsinagógában minden szem rászegeződött. Ő pedig elkezdte beszédét: „Ma beteljesedett az írás, amelyet az imént hallottatok.” Mindenki helyeselt neki, és csodálkozott a fönséges szavakon, amelyek ajkáról fakadtak. „De hát nem József fia ez?” – kérdezgették.\n\nEkkor így szólt hozzájuk: „Biztosan ezt a mondást szegezitek majd nekem: »Orvos, gyógyítsd önmagadat!« A nagy tetteket, amelyeket – mint hallottuk – Kafarnaumban végbevittél, tedd meg a hazádban is!” Majd így folytatta:\n\n„Bizony, mondom nektek, hogy egy próféta sem kedves a maga hazájában. Igazán mondom nektek, sok özvegy élt Izraelben Illés idejében, amikor az ég három évre és hat hónapra bezárult, úgyhogy nagy éhínség támadt az egész földön. De közülük egyikhez sem kapott Illés küldetést, csak a szidoni Cáreftában élő özvegyasszonyhoz. Ugyanígy Elizeus próféta korában is sok leprás élt Izraelben, s egyikük sem tisztult meg, csak a szíriai Námán.”\n\nEzt hallva, a zsinagógában mind haragra gerjedtek. Felugrottak, kiűzték őt a városon kívülre, és fölvezették arra a hegyre, amelyen városuk épült, a szakadék szélére, hogy letaszítsák. De ő áthaladt közöttük, és eltávozott.",
+  "cite": "Lk 4,16-30"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a tesszaloniki hívekhez írt első leveléből",
+  "summary": "Isten feltámasztja azokat, akik Jézusban hunytak el.",
+  "text": "Testvéreim!\n\nAz elhunytak sorsáról nem akarunk tájékozatlanságban hagyni benneteket, hogy ne szomorkodjatok, mint a többiek, akiknek nincs reményük. Ha Jézus, mint ahogy hisszük, meghalt és feltámadt, akkor Isten vele együtt feltámasztja azokat is, akik Jézusban hunytak el.\n\nAz Úr tanítása alapján ugyanis ezt mondjuk nektek: Mi élők, akik az Úr eljöveteléig megmaradunk, nem előzzük meg az elhunytakat. A parancsszóra, a főangyal kiáltására, Isten harsonájának szavára az Úr maga száll le a mennyből. Először a Krisztusban elhunytak támadnak fel, azután mi, élők, akik életben maradunk, velük együtt elragadtatunk a magasba, hogy találkozzunk Krisztussal, és örökké az Úrral legyünk.\n\nVigasztaljátok egymást ezzel a tanítással!",
+  "cite": "1Tessz 4,13-18"
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "key": "evkozi-34-6-I",
+ "source_date": "2025-11-29",
+ "rank": "",
+ "day": "34. évközi hét szombat (a 2024/2025-ös egyházi év utolsó napja)",
+ "psalm": {
+  "cite": "Dán 3,82-87",
+  "response": "Dicsérjétek és magasztaljátok mindörökké!",
+  "verses": [
+   "Áldjátok az Urat, ti, emberek fiai,\n",
+   "Áldja az Urat Izrael,\n",
+   "Áldjátok az Urat, ti, az Úr papjai,\n",
+   "Áldjátok az Urat, ti, az Úr szolgái,\n",
+   "Áldjátok az Urat igaz szellemek és lelkek,\n",
+   "Áldjátok az Urat szentek és alázatos szívűek,\n"
+  ]
+ },
+ "alleluia": {
+  "text": "Imádkozva virrasszatok szüntelen, hogy az Emberfia elé méltón álljatok.",
+  "cite": "Lk 21,36"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Vigyázzunk, hogy az Úr eljövetele készen találjon bennünket.",
+  "text": "Jézus ezeket mondta tanítványainak a világ végéről:\n\n„Vigyázzatok, hogy el ne nehezedjék szívetek tobzódásban, részegeskedésben és az evilági gondokban. Így majd nem ér készületlenül benneteket az a nap. Mint a csapda, úgy csap le mindazokra, akik a földön laknak. Virrasszatok hát és imádkozzatok szüntelenül, hogy megmeneküljetek attól, ami majd bekövetkezik, és megállhassatok az Emberfia színe előtt.”",
+  "cite": "Lk 21,34-36"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Dániel próféta könyvéből",
+  "summary": "Dániel megkapja a magyarázatot a négy vadállatra és az Emberfia megjelenésére vonatkozólag: négy nagy világbirodalom következik egymás után. Isten ítéletet tart felettük: mind elpusztulnak. Csak Isten népének uralma lesz örök.",
+  "text": "Prófétai látomásának leírását így folytatja Dániel: A lelkem megrendült a látványok miatt, és zavarodottság lett úrrá lelkemen. Megszólítottam ezért valakit az ott állók közül, ő szóba állt velem, és feltárta a dolgok lényegét. „A négy vadállat: négy nagy ország, mely a földön uralkodni fog. Nagy Istenünk azonban az uralmat szentjeinek adja át, és az ország mindörökkön és örökké az övék marad.” A többitől oly lényegesen különböző, rettenetes vadállatról akartam tudni a valót.\n\nArról, amelynek a foga és a körme tiszta vas, arról, amely úgy falt és rágott, s a maradékot széttaposta vaspatáival; a tíz szarvról, amely a fején volt, és arról, ami a többi között kinőtt, és előtte három szarv a földre hullt; arról a szarvról, amelynek szeme és káromkodó szája volt, és nagyobb lett a többinél.\n\nMert láttam, hogy a szarv a szentek ellen harcolt, és győzelmet aratott, amíg csak el nem jött az Örökkévaló, és a Fölséges Isten igazságot nem szolgáltatott szentjeinek; s míg el nem jött az ideje, hogy a szentek birtokba vegyék országukat.\n\nA válasz ez volt: „A negyedik vadállat a negyedik nagy hatalom.\n\nEz nagyobb lesz a világ összes országainál.\n\nÉs ez az ország felfalja és letarolja, összezúzza földünk minden nemzetét.\n\nA tíz szarv pedig tíz királyt jelent.\n\nÉs utánuk jön egy másik, elődeinél hatalmasabb.\n\nEz megaláz három más királyt.\n\nA Fölségest is káromolja, és tiporja a Magasságbeli szentjeit.\n\nAzt hiszi, megmásítja az időket és törvényeket.\n\nHárom és fél évre kapja hatalmát majd felettük.\n\nAztán az Örökkön Élő hirdet nagy ítéletet: hogy megfosszák hatalmától, széttiporják és örökre semmivé tegyék; az országot, a dicsőséget és a hatalmat pedig az egész földön az Isten szent népe nyerje el.\n\nEz az ország mindörökre fennmarad, ennek szolgál és ennek engedelmeskedik minden király.”",
+  "cite": "Dán 7,15-27"
+ }
+}

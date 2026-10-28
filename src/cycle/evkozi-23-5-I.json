@@ -1,0 +1,32 @@
+{
+ "key": "evkozi-23-5-I",
+ "source_date": "2025-09-12",
+ "rank": "",
+ "day": "23. évközi hét péntek",
+ "psalm": {
+  "cite": "Zsolt 15,1-2a és 5.7-8.11",
+  "response": "Istenem, te vagy, nékem az én örökségem.",
+  "verses": [
+   "Istenem, oltalmazz engem, mert benned bízom!\nAzt mondom Uramnak: „Istenem te vagy nékem.”\nIsten az én osztályrészem és sorsom kelyhe:\nörökségemet tőle várom.",
+   "Áldom az Urat, mert tanácsot adott nekem,\néjjel-nappal erre tanít szívem mélye.\nMindenkor Istent tartom szemem előtt;\njobbomon ő áll, semmitől sem félek.",
+   "Megmutatod nekem az élet útját,\nés a végtelen boldogságot, midőn szent orcád látom.\nGyönyörűségre hívtál engem\njobbod mellett szünet nélkül."
+  ]
+ },
+ "alleluia": {
+  "text": "Uram, a te szavad igazság, tégy szentté minket igazságod által! Vö. Jn 17,17b és a",
+  "cite": ""
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Jézus figyelmezteti tanítványait:\n\nCsak akkor tudnak megjavítani másokat, ha előbb a maguk hibáit szüntetik meg.",
+  "text": "Jézus a hegyi beszédben ezeket a hasonlatokat mondta tanítványainak:\n\n„Vajon vezethet-e vak világtalant? Nem esnek-e bele mind a ketten a gödörbe?\n\nNem nagyobb a tanítvány mesterénél: Akkor tökéletes az ember, amikor már olyan, mint a mestere.\n\nMiért látod meg a szálkát embertársad szemében, amikor a magad szemében a gerendát sem veszed észre? Hogyan mondhatod embertársadnak: »Barátom, hadd vegyem ki szemedből a szálkát«, holott saját szemedben nem látod meg a gerendát? Képmutató! Vedd ki előbb a magad szeméből a gerendát, s aztán törődj azzal, hogy kivedd a szálkát embertársad szeméből.”",
+  "cite": "Lk 6,39-42"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak Timóteushoz írt első leveléből",
+  "summary": "Pál megvallja, hogy valamikor üldözte Jézus egyházát, de Isten megkönyörült rajta.",
+  "text": "Szeretett Fiam!\n\nPál, üdvözítő Istenünknek és reménységünknek, Jézus Krisztusnak rendelkezéséből Jézus Krisztus apostola (üdvözletét küldi) Timóteusnak, szeretett fiának a hitben.\n\nKegyelem, irgalom és békesség Istentől az Atyától és Jézus Krisztustól, a mi Urunktól.\n\nHálát adok Urunknak, Jézus Krisztusnak, aki erőt adott nekem, megbízhatónak tartott és meghívott a szolgálatára – engem, aki azelőtt káromoltam, üldöztem őt, és erőszakos ember voltam. De megkönyörült rajtam, mivel hitetlenségemben tudatlanul cselekedtem. Sőt valósággal elárasztott az Úr kegyelme a Krisztus Jézusban való hittel és az iránta való szeretettel.",
+  "cite": "1Tim 1,1-2.12-14"
+ }
+}

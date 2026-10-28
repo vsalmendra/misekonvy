@@ -1,0 +1,39 @@
+{
+ "key": "evkozi-31-vas-B",
+ "source_date": "2024-11-03",
+ "rank": "",
+ "day": "Évközi 31. vasárnap",
+ "psalm": {
+  "cite": "Zsolt 17,2-3a.3bc-4.47.51ab",
+  "response": "Szeretlek, Uram, Istenem, én erősségem.",
+  "verses": [
+   "Szeretlek, Uram, Istenem,\nén erősségem.\nMenedékem és sziklaváram,\nszabadítóm te vagy, Uram.",
+   "Istenem, segítőm, akiben remélek,\noltalmazóm, pártfogóm és üdvöm ereje.\nAz Úrhoz kiáltok, aki dicséretre méltó,\nés megszabadulok ellenségeimtől.",
+   "Él az Úr, az én áldott segítőm,\nlegyen dicsőség üdvöm Istenének.\nFelmagasztalta királyát, győzelmet adott néki,\nirgalmas volt fölkentjéhez."
+  ]
+ },
+ "alleluia": {
+  "text": "Jézus mondja: „Aki szeret engem, megfogadja szavamat, Atyám is szeretni fogja és hozzá költözünk.”",
+  "cite": "Jn 14,23"
+ },
+ "gospel": {
+  "book": "Szent Márk",
+  "summary": "",
+  "text": "Abban az időben egy írástudó megkérdezte Jézustól: „Melyik az első a parancsok közül?”\n\nJézus így válaszolt: „Ez az első: Halld, Izrael! Az Úr a mi Istenünk, az egyetlen Úr. Szeresd Uradat, Istenedet teljes szívedből, teljes lelkedből, teljes elmédből és minden erődből! A második hasonló ehhez: Szeresd felebarátodat, mint önmagadat! Ezeknél nincs nagyobb parancsolat.”\n\nAz írástudó erre azt válaszolta: „Valóban, jól mondtad, Mester, hogy ő az Egyetlen, és hogy rajta kívül nincs más. És azt is, hogy őt teljes szívünkből, teljes elménkből és teljes erőnkből szeretni, embertársunkat pedig úgy szeretni, mint saját magunkat, többet ér minden égő vagy véres áldozatnál.”\n\nJézus az okos felelet hallatára megdicsérte: „Nem jársz messze Isten országától.” Ezután több kérdést már nem mertek neki föltenni.",
+  "cite": "Mk 12,28b-34"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Mózes ötödik könyvéből",
+  "summary": "",
+  "text": "Az Ígéret földjének határán Mózes ezt a beszédet intézte a néphez: „Féld az Urat, Istenedet egész életedben, tartsd meg parancsait és törvényeit, amelyeket meghagyok neked, fiaidnak és unokáidnak is, hogy sokáig élj.\n\nHalld hát, Izrael, és legyen gondod rá, hogy teljesítsd azokat, így jól megy majd sorod és megsokasodsz a tejjel-mézzel folyó országban, amelyet az Úr, atyáid Istene ígért neked! Halld, Izrael! Az Úr, a mi Istenünk az egyetlen Úr! Szeresd Uradat, Istenedet teljes szívedből, teljes lelkedből és minden erődből! Ezeket a parancsokat, amelyeket ma szabok neked, őrizd meg szívedben.”",
+  "cite": "MTörv 6,2-6"
+ },
+ "reading2": {
+  "label": "Szentlecke",
+  "sub": "a Zsidókhoz írt levélből",
+  "summary": "",
+  "text": "Testvéreim!\n\nA zsidóknál nagy számban voltak papok, mivel a halál következtében nem maradhattak meg. Krisztus viszont örökre megmarad, s így papsága örökké tart. Ezért tudja mindörökre üdvözíteni azokat, akik általa járulnak Isten elé, hiszen örökké él, hogy közbenjárjon értünk. Ilyen főpap kellett nekünk: szent, ártatlan, feddhetetlen, a bűnösöktől elkülönített, aki fölségesebb az egeknél. Ő nem szorul rá, mint a többi főpap, hogy naponként először a saját vétkeiért mutasson be áldozatot, s csak azután a nép bűneiért. Egyszer s mindenkorra megtette ezt, amikor feláldozta önmagát. A törvény tehát gyarló embereket rendelt főpappá, míg az eskü szava, amely a törvényt követte, magát az örökre tökéletes Fiút.",
+  "cite": "Zsid 7,23-28"
+ }
+}

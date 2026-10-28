@@ -1,0 +1,39 @@
+{
+ "key": "advent-4-vas-B",
+ "source_date": "2023-12-24",
+ "rank": "",
+ "day": "Advent 4. vasárnapja",
+ "psalm": {
+  "cite": "Zsolt 88,2-3.4-5.27.29",
+  "response": "Hadd énekeljem örökké Urunknak irgalmas jóságát!",
+  "verses": [
+   "Az Úr irgalmáról énekelek örökkön-örökké,\nhűségedet nemzedékről nemzedékre hirdeti ajkam.\nÍgy szóltál: † „Irgalmam szilárdan áll mindörökké.”\nValóban, a te hűséged erős, miként a mennybolt.",
+   "„Választottammal szövetséget kötöttem,\nmegesküdtem szolgámnak, Dávidnak.\nMegerősítem ivadékodat örökre,\nés megszilárdítom trónodat nemzedékről nemzedékre.”",
+   "„Így szólít engem: »Atyám vagy nékem,\nIstenem és üdvöm sziklája.«\nIrgalmam iránta örökké megmarad,\nszövetségem hűsége nem szűnik meg.”"
+  ]
+ },
+ "alleluia": {
+  "text": "Íme, az Úrnak szolgálóleánya: legyen nekem a te igéd szerint!",
+  "cite": "Lk 1,38"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Üdvöz légy, kegyelemmel teljes! Az Úr veled van.",
+  "text": "Abban az időben: Isten elküldte Gábor angyalt Galilea Názáret nevű városába egy szűzhöz, aki jegyese volt egy férfinak, a Dávid házából való Józsefnek. A szűz neve Mária volt.\n\nAz angyal belépett hozzá, és így szólt: „Üdvözlégy, kegyelemmel teljes! Az Úr veled van! Áldottabb vagy te minden asszonynál!”\n\nEnnek hallatára Mária zavarba jött és gondolkodóba esett, hogy miféle köszöntés ez.\n\nAz angyal azonban folytatta: „Ne félj, Mária! Hisz kegyelmet találtál Istennél! Mert íme, gyermeket fogansz méhedben és fiút szülsz, s Jézusnak fogod őt nevezni! Nagy lesz ő: a Magasságbeli Fiának fogják hívni. Az Úristen neki adja atyjának, Dávidnak trónját. Uralkodni fog Jákob házán mindörökké, és uralmának soha nem lesz vége!”\n\nMária ekkor megkérdezte az angyalt: „Hogyan történhet meg ez, amikor én férfit nem ismerek?”\n\nAz angyal ezt válaszolta neki: „A Szentlélek száll le rád, és a Magasságbeli ereje borít be árnyékával. Ezért szent lesz az, ki tőled születik: Isten Fiának fogják őt hívni. Lásd, rokonod, Erzsébet is gyermeket fogant öregségében, sőt, már a hatodik hónapban van, bár magtalannak tartják az emberek. Istennél semmi sem lehetetlen.”\n\nErre Mária így szólt: „Íme, az Úr szolgálóleánya: történjék velem szavaid szerint!”\n\nEzután az angyal eltávozott.",
+  "cite": "Lk 1,26-38"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Sámuel, második könyvéből",
+  "summary": "Dávid királysága a családjából származó Messiás révén szilárdan áll mindörökké.",
+  "text": "Amikor Dávid király már a házában lakott, és az Úr nyugalmat adott neki körös-körül minden ellenségétől, a király így szólt Nátán prófétához: „Nézd, magam cédrusfából készült házban lakom, az Úr ládája meg, sátorban lakik.” Erre Nátán ezt mondta a királynak: „Tedd meg mindazt, amit szándékozol, mert veled van az. Úr.”\n\nMég azon az éjszakán történt, hogy az Úr szózatot intézett Nátánhoz: „Menj és mondd meg szolgámnak, Dávidnak: »Ezt mondja az Úr: Te akarsz nekem házat építeni lakóhelyül? Elhoztalak a legelőről, a juhok, mellől, hogy népem, Izrael fejedelme légy. Veled voltam minden vállalkozásodban, és minden ellenségedet megsemmisítettem előtted. Nagy nevet szereztem neked, olyat; mint a föld nagyjaié. Népemnek, Izraelnek is meghatároztam egy helyet, és oda telepítettem. Ezen a helyen lakik majd, és nem fogják többé háborgatni. A gonoszok sem szorongatják, mint kezdetben, attól a naptól fogva, hogy bírákat rendeltem népem, Izrael fölé. Azért megszabadítalak minden ellenségedtől. Azt is közli veled az Úr, hogy fölépíti (uralkodó)-házadat. Ha aztán napjaid betelnek és megtérsz atyáidhoz, fölemelem magvadból származó utódodat, és megszilárdítom királyságát. Az ő atyja leszek, ő meg a fiam lesz. Házad és királyságod örökre fennmarad színem előtt, és trónod mindörökké szilárd marad.«”",
+  "cite": "2Sám 7,1-5.8b-12.14a.16"
+ },
+ "reading2": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a rómaiakhoz írt leveléből",
+  "summary": "Kinyilvánult a titok, amelyre ősidők óta csend borult.",
+  "text": "Testvéreim!\n\nIstennek hatalmában áll megerősíteni benneteket evangéliumomban, a Jézus Krisztusról szóló tanításban, annak a titoknak kinyilvánításában, amelyre ősidők óta csend borult, de amelyet most az örök Isten parancsára a próféták írásai kinyilatkoztattak, és minden nemzet előtt ismertté tettek, hogy így a hit befogadására eljussanak. Neki, az egyedül bölcs Istennek legyen dicsőség Jézus Krisztus által örökkön-örökké! Ámen.",
+  "cite": "Róm 16,25-27"
+ }
+}

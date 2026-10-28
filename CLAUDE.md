@@ -24,9 +24,10 @@ content over time. This CLAUDE.md is the source of truth. Claude Code commits an
   `cycle/<key>.json`: lectionary readings by liturgical day (key from `tools/litcal.py`, e.g.
   `evkozi-30-2-II`, `evkozi-31-vas-A`, `advent-1-3`, `fix-11-01`), fetched from igenaptár with
   `python3 tools/fetch_readings.py <from> [<to>]` (igenaptár serves only the current liturgical year;
-  overwrites; check `git diff`). Fetched: 2025-11-30 … 2026-11-28 = weekday year II, Sundays A,
-  Advent/Christmas/Lent/Easter weekdays. **Missing: weekday year I, Sundays B and C** — fetch each new
-  liturgical year when igenaptár publishes it (year B from 2026-11-29), or import them from another source.
+  overwrites; `--keep` only fills gaps). igenaptár keeps the earlier liturgical years under
+  `/2024/` and `/2025/`: all three were fetched (Advent 2023 … Nov 2026) → Sundays A, B, C, weekdays
+  I and II. 1089 of 1188 dates up to 2029 covered; the rest are weekdays that were feasts in all
+  three years, and the complex days (Palm Sunday, Good Friday, Holy Saturday, 24 Dec, 2 Nov …).
 - `tools/build.py` — `python3 tools/build.py` rebuilds `app/data/` and bumps the SW cache name.
   Always run it and commit its output after changing `src/`.
 - `tests/app-test.mjs` — browser test (day selection, single automatic reload, no loops, resume on a

@@ -1,0 +1,33 @@
+{
+ "key": "evkozi-31-4-II",
+ "source_date": "2024-11-07",
+ "rank": "",
+ "day": "31. évközi hét csütörtök",
+ "psalm": {
+  "cite": "Zsolt 104,2-3.4-5.6-7",
+  "response": "Örvendezzenek mindazok, akik az Urat szívből keresik!",
+  "verses": [
+   "Vagy: Alleluja. 8. szám.\nÉnekeljetek és zengjetek zsoltárt neki,\nemlegessétek minden csodáját.\nDicsekedjetek szent nevével,\naz Urat kereső szívek örvendezzenek.",
+   "Vagy: Alleluja.\nKeressétek az Urat és hatalmas erejét,\nkeressétek arcát szüntelen.\nEmlékezzetek a csodatettekre, melyeket végbevitt,\ncsodáira és az ajkáról elhangzó döntésekre.",
+   "Vagy: Alleluja.\nTi vagytok Ábrahámnak, az ő szolgájának ivadékai,\nválasztottjának, Jákobnak fiai.\nŐ a mi Urunk és Istenünk,\nő ítélkezik az egész földön.",
+   "Vagy: Alleluja."
+  ]
+ },
+ "alleluia": {
+  "text": "Jöjjetek hozzám mindnyájan, akik fáradtak vagytok, és terhek alatt görnyedtek: Én felüdítlek titeket – mondja a mi Urunk.",
+  "cite": "Mt 11,28"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "A mennyország örül minden megtérő bűnösnek.",
+  "text": "Abban az időben vámosok és bűnösök jöttek Jézushoz, hogy hallgassák őt. A farizeusok és az írástudók zúgolódtak emiatt, és azt mondták: „Ez szóba áll a bűnösökkel és együtt étkezik velük.”\n\nJézus erre a következő példabeszédet mondta nekik: „Ha közületek valakinek száz juha van, és egy elvész belőlük, nem hagyja-e ott a kilencvenkilencet, s nem megy-e az elveszett juh után, amíg meg nem találja? Ha megtalálta, örömében vállára veszi, hazasiet vele, összehívja barátait és szomszédait, és azt mondja nekik: »Örüljetek velem, mert megtaláltam elveszett juhomat.« Mondom nektek, éppen így nagyobb öröm lesz a mennyben egy megtérő bűnösön, mint kilencvenkilenc igazon, akinek nincs szüksége megtérésre.\n\nHa pedig egy asszonynak tíz drachmája van, és elveszít egy drachmát, nem gyújt-e világot, nem sepri-e ki a házát, nem keresi-e gondosan, amíg meg nem találja? És ha megtalálta, összehívja barátnőit meg a szomszédasszonyokat, és azt mondja: »Örüljetek velem, mert megtaláltam elveszett drachmámat.« Mondom nektek, az Isten angyalai is éppen így örülnek majd egy megtérő bűnösnek.”",
+  "cite": "Lk 15,1-10"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a filippiekhez írt leveléből",
+  "summary": "Isten előtt nem a származás számít, hanem a Krisztusban való élet.",
+  "text": "Testvéreim!\n\nMi vagyunk Isten választott népe, akik lélekben szolgálunk Istennek, mi, akik Jézus Krisztusban dicsekszünk.\n\nMi nem a testi származásban bizakodunk, bár én származásommal is dicsekedhetnék. Ha valaki más úgy gondolja, hogy üdvössége biztonságban van, mert Izrael népéhez tartozik, én még inkább vélekedhetnék így magamról. Izrael népéből, Benjámin törzséből származom. Nyolc nappal születésem után körülmetéltek. Zsidó vagyok a zsidók közül. Törvénytartó farizeus voltam. Isten egyházát szenvedélyesen üldöztem. Mózes törvénye szerint feddhetetlenül törekedtem az életszentségre.\n\nÁm amit egykor előnyömnek tekintettem, azt most Krisztusért értéktelennek tartom. Sőt Uramnak, Jézus Krisztusnak fölséges ismeretéhez mérten mindent szemétnek tartok.",
+  "cite": "Fil 3,3-8a"
+ }
+}

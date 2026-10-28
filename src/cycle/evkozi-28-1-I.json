@@ -1,0 +1,32 @@
+{
+ "key": "evkozi-28-1-I",
+ "source_date": "2025-10-13",
+ "rank": "",
+ "day": "28. évközi hét hétfő",
+ "psalm": {
+  "cite": "Zsolt 97,1-4",
+  "response": "Megmutatta az Úr nékünk üdvözítő jóságát.",
+  "verses": [
+   "Zengjetek az Úrnak új éneket,\ncsodálatra méltó, amit művelt.\nDiadalt aratott jobbjával,\ngyőzelmet Szentséges karjával.",
+   "Az Úr megmutatta szabadító erejét,\nigazságosságát feltárta a népek előtt.\nEmlékezetébe idézte jóságát és hűségét\nIzrael népe iránt.",
+   "Meglátta a föld minden határa,\nszabadulást Istenünk hozott nekünk.\nMinden földek, zengjetek az Úrnak öröméneket,\nujjongjatok és zsoltárt mondjatok."
+  ]
+ },
+ "alleluia": {
+  "text": "Bár hallgatnátok ma Isten szavára! Ne legyetek többé keményszívűek!",
+  "cite": "Zsolt 94,8ab"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "A legnagyobb csoda az, hogy Jézus jelen van köztünk.",
+  "text": "Egyszer Jézus köré sereglett a csodaváró tömeg, de ő így szólt hozzájuk:\n\n„Ez a nemzedék gonosz nemzedék. Csodajelet követel, de nem kap más jelet, mint Jónás próféta jelét. Ahogy Jónás jel volt a niniveieknek, úgy lesz az Emberfia is jel ennek a nemzedéknek.\n\nAz ítéleten majd ezzel a nemzedékkel együtt megjelenik Dél királynője is, és helyeselni fogja elítélésüket, hiszen ő a föld végéről is eljött, hogy hallgathassa Salamon bölcsességét; itt pedig nagyobb valaki van, mint Salamon.\n\nNinive lakói is ott lesznek az ítéleten ezzel a nemzedékkel együtt, és helyeselni fogják a megbüntetését, mert ők Jónás szavára bűnbánatot tartottak; itt pedig nagyobb valaki van, mint Jónás.”",
+  "cite": "Lk 11,29-32"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a rómaiakhoz írt leveléből",
+  "summary": "Krisztus adja az apostoli küldetés kegyelmét a népek megtérítésére.",
+  "text": "Testvéreim!\n\nPál, Krisztus Jézus szolgája és meghívott apostola köszönt benneteket!\n\nIsten kiválasztott engem az ő evangéliumának hirdetésére, amelyet prófétái által a szent iratokban előre megígért, Fiáról, Jézus Krisztusról, a mi Urunkról. Ő test szerint Dávid nemzetségéből származott, a szentség Lelke szerint azonban a halálból való feltámadásával az Isten hatalmas Fiának bizonyult. Általa nyertük el a kegyelmet és az apostoli küldetést, hogy neve dicsőségére munkálkodjunk a hitért minden nép között. Ezek közé tartoztok ti is, akiket Jézus Krisztus meghívott.\n\nÜdvözlöm (Rómában) mindazokat, akiket az Isten szeret és a szentségre hívott. Kegyelem nektek és békesség Atyánktól, az Istentől, és Urunktól, Jézus Krisztustól.",
+  "cite": "Róm 1,1-7"
+ }
+}

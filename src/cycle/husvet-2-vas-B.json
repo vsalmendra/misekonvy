@@ -1,0 +1,40 @@
+{
+ "key": "husvet-2-vas-B",
+ "source_date": "2024-04-07",
+ "rank": "",
+ "day": "Húsvét 2. vasárnapja, az isteni irgalmasság vasárnapja",
+ "psalm": {
+  "cite": "Zsolt 117,2-4.16ab-18.22-24",
+  "response": "Adjatok hálát az Úrnak, mert jó, mivel irgalma örökké megmarad.",
+  "verses": [
+   "Vagy: Alleluja, alleluja, alleluja. 6. szám.\nMondja Izrael háza, hogy jó az Isten,\nmivel irgalma örökké megmarad.\nMondja Áron papi háza is,\nmivel irgalma örökké megmarad.\nMondják, akik félik az Urat,\nmivel irgalma örökké megmarad.",
+   "Vagy: Alleluja, alleluja, alleluja.\nAz Úr jobb keze erősnek bizonyult,\naz Úrnak jobbja fölemelt engem.\nNem halok meg, hanem élek,\nés hirdetem az Úr nagy tetteit.\nMegfenyített az Úr és megpróbált,\nde nem adott halálra engem.",
+   "Vagy: Alleluja, alleluja, alleluja.\nA kő, amelyet az építők félredobtak,\níme, az vált szegletkővé.\nMindezt az Úr vitte végbe,\ncsodálatra méltó a mi szemünkben.\nEzt a napot az Úristen adta:\nörvendjünk és vigadjunk rajta.",
+   "Vagy: Alleluja, alleluja, alleluja."
+  ]
+ },
+ "alleluia": {
+  "text": "Jézus mondja: „Most már hiszel, Tamás, mert láttál engem. Boldogok, akik nem láttak, és mégis hittek.”",
+  "cite": "Jn 20, 29"
+ },
+ "gospel": {
+  "book": "Szent János",
+  "summary": "",
+  "text": "Amikor a hét első napján (Húsvétvasárnap) beesteledett, Jézus megjelent a tanítványoknak ott, ahol együtt voltak, pedig a zsidóktól való félelmükben zárva tartották az ajtót. Belépett és így szólt hozzájuk: „Békesség nektek!” Miután ezt mondta, megmutatta nekik a kezét és az oldalát. Az Úr láttára öröm töltötte el a tanítványokat. Jézus megismételte: „Békesség nektek! Amint engem küldött az Atya, úgy küldelek én is titeket.” E szavak után rájuk lehelt, és így folytatta: „Vegyétek a Szentlelket! Akinek megbocsátjátok bűneit, az bocsánatot nyer, s akinek nem bocsátjátok meg, az nem nyer bocsánatot.”\n\nA tizenkettő közül az egyik, Tamás, vagy melléknevén Iker, nem volt velük, amikor Jézus megjelent nekik. Később a tanítványok elmondták neki: „Láttuk az Urat.” De ő így szólt: „Hacsak nem látom kezén a szegek nyomát, ha nem érintem ujjaimat a szegek helyéhez, és nem tapintom meg kezemmel oldalát, én nem hiszem!”\n\nNyolc nap múlva ismét együtt voltak a tanítványok. Tamás is ott volt velük. Ekkor újra megjelent Jézus, bár az ajtó zárva volt. Belépett és köszöntötte őket: „Békesség nektek!” Tamásnak pedig ezt mondta: „Nyújtsd ide az ujjadat és nézd a kezemet! Nyújtsd ki a kezedet és érintsd meg oldalamat! Ne légy hitetlen, hanem hívő!” Tamás így válaszolt: „Én Uram, én Istenem!” Jézus ezt mondta neki: „Most már hiszel, Tamás, mert láttál engem. Boldogok, akik nem láttak, és mégis hisznek!”\n\nJézus még sok más csodajelet is művelt tanítványai szeme láttára, de azok nincsenek megírva ebben a könyvben. Ezeket viszont megírták, hogy higgyétek: Jézus a Messiás, az Isten Fia, és hogy a hit által életetek legyen benne.",
+  "cite": "Jn 20,19-31"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "az Apostolok Cselekedeteiből",
+  "summary": "",
+  "text": "Azokban a napokban: A hívő sokaság egy szív, egy lélek volt. Egyikük\n\nsem mondta vagyonát sajátjának, hanem mindenük közös volt. Az apostolok\n\nnagy erővel tanúsították Urunk, Jézus feltámadását, és mindnyájan\n\nbővelkedtek a kegyelemben.\n\nNem akadt köztük szűkölködő, mert akinek földje vagy háza volt,\n\neladta, és az érte kapott pénzt elhozta, az apostolok lába elé tette,\n\nés szétosztották mindenkinek, szükségéhez mérten.",
+  "cite": "ApCsel 4,32-35"
+ },
+ "reading2": {
+  "label": "Szentlecke",
+  "sub": "Szent János apostol első leveléből",
+  "summary": "",
+  "text": "Testvéreim! Mindenki, aki hiszi, hogy Jézus a Krisztus, az Isten szülötte; aki pedig a szülőt szereti, szereti a szülöttét is. Abból tudjuk meg, hogy szeretjük Isten gyermekeit, ha szeretjük az Istent, és eleget teszünk parancsainak. Mert az az Isten iránti szeretet, hogy megtartjuk parancsait. Parancsai nem nehezek.\n\nMert mindenki, aki az Istentől született, legyőzi a világot. És ez a győzelem – győzelem a világ fölött! – a mi hitünk. Ki győzi le a világot, ha nem az, aki hiszi, hogy Jézus az Isten Fia? Ő az, aki víz és vér által jött, Jézus Krisztus. Nem csupán víz által, hanem víz és vér által. És a Lélek tesz tanúságot róla, mert a Lélek igazság.",
+  "cite": "1Jn 5,1-6"
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "key": "evkozi-11-5-I",
+ "source_date": "2025-06-20",
+ "rank": "",
+ "day": "11. évközi hét péntek",
+ "psalm": {
+  "cite": "Zsolt 33,2-3.4-5.6-7",
+  "response": "Az Úr mindig megmenti az igazakat.",
+  "verses": [
+   "Minden időben áldom az Urat,\ndicséretét szüntelenül zengi ajkam.\nLelkem az Úrban dicsekszik,\nhallják meg ezt a szelídek és örvendezzenek.",
+   "Magasztaljátok az Urat énvelem,\ndicsőítsük az ő nevét mindnyájan.\nKerestem az Urat, és ő meghallgatott engem,\nés kiragadott minden rettegésből.",
+   "Megvilágosultok, ha az Úrra néztek,\nés arcotokat nem éri szégyen.\nAz Úr meghallgatta a szegényt, aki hozzá kiáltott,\nés minden szorongatásából kiszabadította."
+  ]
+ },
+ "alleluia": {
+  "text": "Boldogok, akik lélekben szegények: övék a mennyek országa.",
+  "cite": "Mt 5,3"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Legnagyobb kincsünk a hit világossága.",
+  "text": "Jézus a hegyi beszédben ezt mondta tanítványainak:\n\nNe gyűjtsetek magatoknak kincseket a földön, ahol a moly és a rozsda megemészti, a tolvajok meg kiássák és ellopják. Gyűjtsetek inkább kincseket a mennyben, ahol sem a moly, sem a rozsda meg nem emészti, sem a tolvajok ki nem ássák és el nem lopják. Mert ahol a kincsed van, ott van a szíved is.\n\nA test világossága: a szem. Ha szemed ép, egész tested világosságban lesz. De ha szemed elhomályosodik, egész tested elsötétedik. Ha tehát a világosság benned sötétség, maga a sötétség mekkora?",
+  "cite": "Mt 6,19-23"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a korintusiakhoz írt második leveléből",
+  "summary": "Az apostolt testi szenvedésein felül az összes egyház gondja is nyomasztja.",
+  "text": "Testvéreim!\n\nMivel oly sokan dicsekszenek emberi kiválóságaikkal, én is dicsekszem. Mert ha ők dicsekedni mernek – oktalanként mondom –, merek én is:\n\nZsidók ők? Én is.\n\nIzraeliták? Én is.\n\nÁbrahám ivadékai? Én is.\n\nKrisztus szolgái? Mint oktalan mondom: én még inkább az vagyok. Hiszen sokszor fáradoztam, sokszor vetettek börtönbe, módfelett sok verést kaptam, gyakran forogtam halálveszélyben. A zsidóktól ötször kaptam egy híján negyven botütést, háromszor megvesszőztek, egyszer megköveztek. Háromszor szenvedtem hajótörést; egy nap és egy éjjel a nyílt tengeren hányódtam. Sokat voltam vándorúton. Veszélyben forogtam folyóvizeken, veszélyben rablók miatt, veszélyben népem részéről, veszélyben pogányok között, veszélyben városokban, veszélyben a pusztán, veszélyben a tengeren, veszélyben hamis testvérek között. Fáradtam és gyötrődtem, sokat virrasztottam, éheztem és szomjaztam, gyakran böjtöltem, fagyoskodtam és ruhátlan voltam. Ezenfelül állandó aggodalmam: valamennyi egyház gondja.\n\nKi gyönge, hogy én ne éreznék vele?\n\nKi esik el, hogy nekem ne fájna?\n\nHa dicsekednem kell, gyöngeségeimmel dicsekszem.",
+  "cite": "2Kor 11,18.21b-30"
+ }
+}

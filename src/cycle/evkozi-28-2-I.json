@@ -1,0 +1,31 @@
+{
+ "key": "evkozi-28-2-I",
+ "source_date": "2025-10-14",
+ "rank": "",
+ "day": "28. évközi hét kedd",
+ "psalm": {
+  "cite": "Zsolt 18,2-5",
+  "response": "Istenünk dicsőségét hirdetik az egek.",
+  "verses": [
+   "Isten dicsőségét az egek hirdetik,\na mennybolt vallja kezének művét.\nEzt harsogja át egyik nap a másiknak,\nerre oktatja éj az éjszakát.",
+   "Nem olyan hang ez, nem olyan beszéd,\nhogy meg ne értenéd szavát.\nMinden földre elhat szózatuk,\na földkerekség végéig eljut igéjük."
+  ]
+ },
+ "alleluia": {
+  "text": "Isten szava élő és átható, megítéli a gondolatot és szándékot szívünk mélyén.",
+  "cite": "Zsid 4,12"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Jézus elítéli azokat, akik a külső látszatra sokat adnak, de a belső, lelki tisztasággal nem törődnek.",
+  "text": "Egyik beszéde alkalmával meghívta Jézust egy farizeus, hogy étkezzék nála. Ő el is ment, és asztalhoz telepedett.\n\nAmikor a farizeus látta, hogy Jézus étkezés előtt nem mosott kezet, megütközött rajta.\n\nAz Úr ekkor így szólt hozzá: „Ti, farizeusok, tisztán tartjátok ugyan a pohár és a tál külsejét, de belül tele vagytok rablással és gonoszsággal. Esztelenek! Hát nem az alkotta a belsőt, aki a külsőt is? Adjátok inkább oda a rászorulóknak azt, amitek van, és akkor majd mindjárt tiszták lesztek egészen!”",
+  "cite": "Lk 11,37-41"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a rómaiakhoz írt leveléből",
+  "summary": "Nincs mentség azok számára, akik bár felismerik Isten létezését, mégsem imádják őt.",
+  "text": "Testvéreim!\n\nNem szégyellem az evangéliumot, hiszen Isten üdvösséget hozó ereje az minden hívőnek: először is a zsidóknak, azután a pogányoknak. Isten igazsága nyilvánul meg ugyanis benne, amelyet a hívő a hittel nyer el, amint írva van: „Az igaz a hitből él.” Isten büntetése eléri az égből az emberek minden istentelenségét, mivel Isten tanítását rosszindulatból elfojtják. Ami ugyanis megtudható Istenről, az világos előttük. Isten maga gondoskodott arról, hogy őt megismerhessék. Ami ugyanis benne láthatatlan: örök ereje és isteni mivolta, a világ teremtése óta művei alapján értelemmel felismerhető.\n\nÉppen ezért nincs mentség azok számára, akik felismerték ugyan az Istent, de nem dicsőítették Istenként, és nem adtak hálát neki. Belevesztek okoskodásaikba, és ítélőképességük elhomályosult. Azzal kérkedtek, hogy bölcsek, de oktalanná váltak. A halhatatlan Isten dicsőségét felcserélték halandó emberek, madarak, négylábúak, sőt csúszómászók bálványozásával.\n\nEzért Isten szívük vágya szerint kiszolgáltatta őket a tisztátalanságnak, hadd gyalázzák meg saját testüket. Hiszen Isten igazságát felcserélték a maguk hamis elképzelésével, és inkább a teremtményeknek hódoltak és szolgáltak, mint a teremtő Istennek, aki áldott mindörökké. Ámen.",
+  "cite": "Róm 1,16-25"
+ }
+}

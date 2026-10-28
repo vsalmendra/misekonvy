@@ -1,0 +1,40 @@
+{
+ "key": "nagybojt-1-vas-B",
+ "source_date": "2024-02-18",
+ "rank": "",
+ "day": "Nagyböjt 1. vasárnap",
+ "psalm": {
+  "cite": "Zsolt 24,4bc-5ab.6-7c.8-9",
+  "response": "Uram, minden utad irgalom és hűség, azoknak, kik szövetséged törvényét megtartják.",
+  "verses": [
+   "Utaidat, Uram, mutasd meg nékem,\nösvényeidre taníts meg engem.\nTaníts és vezess igazságod szerint,\nmert te vagy üdvözítő Istenem.",
+   "Irgalmasságodról emlékezzél meg, Uram,\nés könyörületességedről, mely öröktől való.\nJóságodban, Uram,\ngondolj rám irgalommal.",
+   "Az Úr igazságos és jóságos,\nezért a bűnösöknek is utat mutat.\nAz alázatost a jóban vezérli,\na szelídet útjára tanítja."
+  ]
+ },
+ "alleluia": {
+  "text": "Nemcsak kenyérrel él az ember, hanem minden igével is, mely Isten ajkáról való.",
+  "cite": "Mt 4,4b",
+  "lent": true
+ },
+ "gospel": {
+  "book": "Szent Márk",
+  "summary": "",
+  "text": "Abban az időben a Lélek kivitte Jézust a pusztába. Negyven napig kint volt a pusztában, és megkísértette a sátán. Vadállatokkal volt együtt, és angyalok szolgáltak neki. Amikor Jánost elfogták, Jézus Galileába ment, és hirdette az Isten evangéliumát: „Betelt az idő, közel van az Isten országa. Térjetek meg, és higgyetek az evangéliumban.”",
+  "cite": "Mk 1,12-15"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Mózes első könyvéből",
+  "summary": "",
+  "text": "A vízözön után Noé kijött a bárkából, és hálaáldozatot mutatott be. Ekkor Isten így szólt Noéhoz és fiaihoz, akik vele voltak: „Íme, szövetséget kötök veletek, utódaitokkal és minden élőlénnyel, amely veletek van: a madarakkal, a háziállatokkal és az összes mezei vaddal, mindennel, ami kijött a bárkából, a föld minden állatával. Megkötöm veletek szövetségemet, többé nem törlöm el valamennyi élőlényt a földről vízözönnel, és nem jön olyan áradat, amely elpusztítja a földet.”\n\nAztán így szólt Isten: „A szövetségnek, amely fennáll köztem és köztetek, meg a veletek levő minden élőlény között minden nemzedékre, ez lesz a jele: szivárványt helyezek a felhőkbe. Ez legyen a szövetség jele köztem és a föld között. Ha összegyűjtöm a föld felett a felhőket, és a szivárvány megjelenik a felhőkön, akkor megemlékezem szövetségemről, amely fennáll köztem és köztetek meg minden élőlény és test között. A vízből nem lesz többé vízözön, hogy minden lényt elpusztítson.”",
+  "cite": "Ter 9,8-15"
+ },
+ "reading2": {
+  "label": "Szentlecke",
+  "sub": "Szent Péter apostol első leveléből",
+  "summary": "",
+  "text": "Szeretteim! Krisztus meghalt egyszer a bűnökért, az Igaz a bűnösökért, hogy Istenhez vezessen minket. A test szerint ugyan megölték, de a lélek szerint életre kelt. Így ment el a börtönben sínylődő lelkekhez is, és hírt vitt nekik. Ezek egykor engedetlenek voltak, amikor Noé idejében Isten türelmesen várt, amíg a bárka elkészült. Ebben csak néhányan, mindössze nyolcan menekültek meg, épp a víz által.\n\nA vele jelképezett keresztség most titeket is ugyanígy megment. Hiszen az nem a test szennyének a lemosása, hanem könyörgés az Istenhez, hogy adjon tiszta lelkiismeretet Jézus Krisztus feltámadása által. Ő azután, hogy az angyalok, hatalmasságok és erősségek az ő uralma alá kerültek, fölment a mennybe, és az Isten jobbján foglal helyet.",
+  "cite": "1Pét 3,18-22"
+ }
+}

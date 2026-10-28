@@ -1,0 +1,34 @@
+{
+ "key": "evkozi-10-3-I",
+ "source_date": "2025-06-11",
+ "rank": "",
+ "day": "10. évközi hét szerda",
+ "psalm": {
+  "cite": "Zsolt 98,5.6.7.8.9",
+  "response": "Szent vagy, Urunk, szent vagy, Istenünk!",
+  "verses": [
+   "Magasztaljátok az Urat, Istenünket, † boruljatok le lábának zsámolya előtt,\nmert ő valóban Szent.",
+   "Ott van Mózes és Áron is papjai között, † és Sámuel azok között, akik nevét segítségül hívják;\naz Úrhoz kiáltottak, és ő meghallgatta őket.",
+   "A felhőoszlopból beszélt hozzájuk.\nVégzéseit és parancsait megtartották, amelyeket rájuk bízott.",
+   "Urunk, Istenünk, te meghallgattad őket, † türelmes Istenük voltál,\nbár bűneiket megtoroltad.",
+   "Magasztaljátok az Urat, Istenünket, † és boruljatok le szent hegyén,\nmert szent az Úr, a mi Istenünk."
+  ]
+ },
+ "alleluia": {
+  "text": "Taníts meg ösvényeidre, Uram, igazságod szerint vezess engem!",
+  "cite": "Zsolt 24,4b.5a"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Jézus beteljesíti az Ószövetség tanításait és parancsait.",
+  "text": "Jézus a hegyi beszédben ezt mondta tanítványainak:\n\nNe gondoljátok, hogy azért jöttem, hogy megszüntessem a törvényt vagy a prófétákat. Nem megszüntetni jöttem, hanem tökéletessé tenni. Bizony, mondom nektek, amíg az ég és föld el nem múlik, nem vész el a törvényből egy í betű sem, sőt egy vessző sem, amíg minden be nem teljesedik. Aki tehát csak egyet is eltöröl akár a legkisebb parancsok közül is, és úgy tanítja az embereket, azt nagyon kicsinek fogják hívni a mennyek országában. És mindaz, aki megtartja és tanítja őket, igen nagy lesz a mennyek országában.",
+  "cite": "Mt 5,17-19"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a korintusiakhoz írt második leveléből",
+  "summary": "Isten tett minket alkalmassá, hogy az Újszövetség szolgái legyünk, nem a betűé, hanem a Léleké.",
+  "text": "Testvéreim!\n\nKrisztus által nagy a bizalmunk Istenben. Nem abban bizakodunk, mintha a saját erőnkből képesek volnánk valamit is kigondolni, hiszen az apostoli küldetésre való alkalmasságunk Istentől való.\n\nŐ tett minket alkalmassá arra, hogy az Újszövetség szolgái legyünk: nem a betű, hanem a Lélek szolgái. Mert a betű öl, a Lélek pedig éltet. A kőtáblára vésett betűk halált jelentettek mindenki számára, aki áthágni merészelte a parancsokat. De ha már ennek a szolgálata is oly dicsőséges volt, hogy Izrael fiai nem tekinthettek Mózes arcába annak múló ragyogása miatt, mennyivel inkább dicsőséges a Szentlélek szolgálata.\n\nHa ugyanis már a mózesi törvény szolgálata, amely az ember bűnösségét bizonyította, dicsőséges volt, mennyivel inkább dicsőséges az (Isten) igazságosságának szolgálata. Sőt, ami ott dicsőséges volt, ennek túláradó dicsőségéhez képest valójában nem is dicsőséges. Ha ugyanis a mulandó oly dicsőséges volt, akkor az örökké megmaradó még sokkal dicsőségesebb.",
+  "cite": "2Kor 3,4-11"
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "key": "krisztus-kiraly-C",
+ "source_date": "2025-11-23",
+ "rank": "",
+ "day": "Évközi 34. vasárnap. Krisztus a Mindenség Királya",
+ "psalm": {
+  "cite": "Zsolt 121,1-2.4-5",
+  "response": "Isten házába indulunk, örömtől dobban a szívünk.",
+  "verses": [
+   "Örvendtem, mikor azt mondták nékem,\naz Úr házába megyünk.\nÍme, itt állnak lábaink\nkapuid előtt, Jeruzsálem!",
+   "Oda járnak föl a törzsek,\naz Úr népének törzsei.\nAz Úr Izraelnek törvénybe adta,\nhogy ott nevére áldást mondjanak.\nMert ott állnak az ítélőszékek,\nDávid házának székei."
+  ]
+ },
+ "alleluia": {
+  "text": "Áldott, aki jön az Úr nevében. Áldott legyen Dávid ősatyánknak eljövendő országa!",
+  "cite": "Mk 11,9b-10a"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Krisztus az örök élet Királya.\n\n„Uram, emlékezzél meg rólam, ha országodba érsz!”",
+  "text": "Abban az időben mikor Jézust keresztre feszítették, a nép bámészkodott, a főtanács\n\ntagjai pedig gúnyolódtak: „Másokat megszabadított – mondták –, most\n\nszabadítsa meg önmagát, ha ő a Messiás, az Isten választottja.”\n\nGúnyt űztek belőle a katonák is, odamentek és ecettel kínálták: „Ha\n\nte vagy a zsidók királya, szabadítsd meg magadat!” – mondták.\n\nFelirat is volt a feje fölött: Ez a zsidók királya.\n\nAz egyik fölfeszített gonosztevő káromolta: „Nem te vagy a Messiás?\n\nSzabadítsd meg hát magadat és minket is.” A másik rászólt: „Nem félsz\n\naz Istentől? Hisz te is ugyanazt a büntetést szenveded. Mi legalább\n\ntetteink méltó büntetését kapjuk. De ez semmi rosszat sem tett.”\n\nAztán hozzá fordult: „Jézus, emlékezzél meg rólam, amikor országodba\n\nérkezel.”\n\nŐ ezt válaszolta neki: „Bizony mondom neked, még ma velem leszel a\n\nparadicsomban.”",
+  "cite": "Lk 23,35-43"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Sámuel második könyvéből",
+  "summary": "Dávid, Krisztus Király előképe, a választott nép fölkent királya.",
+  "text": "Saul király halála után Izraelnek összes törzse elment Dávidhoz\n\nHebronba, és azt mondták: „Íme, csontod és húsod vagyunk. Már tegnap\n\nés tegnapelőtt is, amikor még Saul volt a királyunk, te voltál az, aki\n\nvezetted Izrael hadjáratait. Az Úr is azt mondta neked: Legeltesd\n\nnépemet, Izraelt, és légy fejedelme Izraelnek.”\n\nIzrael vénei tehát mind elmentek a királyhoz Hebronba, és Dávid\n\nkirály szövetséget kötött velük Hebronban, az Úr előtt. Aztán fölkenték\n\nDávidot Izrael királyává.",
+  "cite": "2Sám 5,1-3"
+ },
+ "reading2": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a kolosszeiekhez írt leveléből",
+  "summary": "A mennyei Atya nekünk is helyet ad szeretett Fia országában.",
+  "text": "Testvéreim!\n\nÖrömmel adjatok hálát az Atyának, aki arra méltatott\n\nbenneteket, hogy részetek legyen a szentek örökségében, a\n\nvilágosságban.\n\nKiragadott minket a sötétség hatalmából, és helyet adott szeretett\n\nFia országában. Benne nyertük el a megváltást, bűneink bocsánatát. Ő a\n\nláthatatlan Isten képmása, minden teremtmény elsőszülöttje. Mert benne\n\nteremtett mindent a mennyben és a földön: a láthatókat és a\n\nláthatatlanokat, a trónusokat, uralmakat, fejedelemségeket és\n\nhatalmasságokat. Minden általa és érte lett teremtve.\n\nŐ előbb van mindennél, és minden benne áll fenn. Ő a testnek, az\n\nEgyháznak a feje. Ő a kezdet, az elsőszülött a halottak közül, hogy övé\n\nlegyen az elsőség mindenben.\n\nÚgy tetszett (az Atyának), hogy benne lakjék az egész teljesség, s\n\nhogy általa békítsen ki magával mindent a földön és a mennyben,\n\nminthogy a kereszten kiontott vérével békességet szerzett mindenkinek.",
+  "cite": "Kol 1,12-20"
+ }
+}

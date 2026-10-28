@@ -1,0 +1,32 @@
+{
+ "key": "evkozi-6-5-I",
+ "source_date": "2025-02-21",
+ "rank": "",
+ "day": "6. évközi hét péntek",
+ "psalm": {
+  "cite": "Zsolt 32,10-11.12-13.14-15",
+  "response": "Boldog az a nemzet, melyet az Úr örökségül választott magának.",
+  "verses": [
+   "Semmivé teszi az Úr a pogányok szándékát,\nmeghiúsítja a népek terveit.\nÁm az Úr szándéka megmarad örökre,\nszívének gondolata nemzedékről nemzedékre.",
+   "Boldog az a nemzet, amelynek az Úr az Istene,\na nép, amelyet örökségül választott magának.\nLetekint Isten a mennyből,\nés látja mind az emberek fiait.",
+   "Lakóhelyéről szemléli azokat,\nakik a földet lakják,\nő alkotta mindnyájuk szívét,\njól ismeri minden tettüket."
+  ]
+ },
+ "alleluia": {
+  "text": "Jézus mondja: Barátaimnak hívlak titeket, mert elmondtam nektek mindazt, amit Atyámtól hallottam.",
+  "cite": "Jn 15,15b"
+ },
+ "gospel": {
+  "book": "Szent Márk",
+  "summary": "Krisztus követőjének vállalnia kell az önmegtagadást és a szenvedést.",
+  "text": "Jézus egy alkalommal magához hívta a népet és tanítványait, majd így szólt hozzájuk:\n\n„Ha valaki utánam akar jönni, tagadja meg magát, vegye föl keresztjét, és kövessen engem! Mert aki meg akarja menteni életét, elveszíti azt. De aki értem és az evangéliumért elveszíti életét, megmenti azt. Mit használ az embernek, ha az egész világot megnyeri is, de a lelkének kárát vallja? Mit is adhat az ember cserébe a lelkéért?\n\nAki e hűtlen és bűnös nemzedék előtt szégyell engem és tanításomat, azt az Emberfia is szégyellni fogja, amikor majd eljön Atyja dicsőségében a szent angyalokkal.”\n\nAztán még hozzáfűzte: „Bizony mondom nektek, a jelenlévők közül néhányan nem halnak meg, amíg meg nem látják Isten hatalomban eljövő országát.”",
+  "cite": "Mk 8,34–9,1"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Mózes első könyvéből",
+  "summary": "A helyet, ahol az Úr összezavarta az egész föld nyelvét, Bábelnek nevezik.",
+  "text": "A föld egynyelvű és egyazon beszédű volt. Amikor (Noé leszármazottai) keletről elindultak, Sineár földjén találtak egy síkságot, és ott letelepedtek.\n\nÍgy szóltak egymáshoz: „Gyertek, csináljunk téglát és égessük ki.” A tégla épületkő gyanánt szolgált, a szurok pedig kötőanyagul. Azután így szóltak: „Rajta, építsünk várost és tornyot, amelynek teteje az égig ér. Szerezzünk nevet magunknak, és ne szóródjunk szét a földön!”\n\nAkkor az Úr leszállt, hogy megnézze a várost és a tornyot, amelyet az emberek építettek. Így szólt: „Íme, egy népet alkotnak és egy nyelvet beszélnek. Ez csak a kezdete tevékenységüknek. Ezután semmi sem lesz lehetetlen, aminek megvalósítását elgondolják. Ezért szálljunk le, és zavarjuk össze nyelvüket, hogy senki ne értse a másik nyelvét!”\n\nAz Úr tehát szétszórta őket onnét az egész földön, s abba kellett hagyniuk a város építését. Ezért nevezik azt Bábelnek, mivel az Úr ott zavarta össze az egész föld nyelvét, és onnét szórta szét őket az Úr az egész földön.",
+  "cite": "Ter 11,1-9"
+ }
+}

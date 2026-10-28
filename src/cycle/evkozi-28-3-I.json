@@ -1,0 +1,32 @@
+{
+ "key": "evkozi-28-3-I",
+ "source_date": "2025-10-15",
+ "rank": "",
+ "day": "28. évközi hét szerda",
+ "psalm": {
+  "cite": "Zsolt 61,2-3.6-7.9",
+  "response": "Uram, te megfizetsz minden embernek, amiként cselekedett.",
+  "verses": [
+   "Csak Istenben keress megnyugvást, lelkem,\ncsak tőle jön üdvösségem.\nMert ő az üdvösségem, ő az oltalmam,\nő a sziklaváram, nem fogok többé meginogni.",
+   "Lelkem, nyugodj meg teljesen Istenben,\nhagyatkozz rá türelemmel.\nMert ő az én üdvösségem, ő az én Istenem,\nő a sziklaváram, nem fogok meginogni.",
+   "Minden népek, benne bízzatok,\ntárjátok fel szíveteket őelőtte, mert Isten a mi menedékünk."
+  ]
+ },
+ "alleluia": {
+  "text": "Jézus mondja: „Juhaim hallgatnak szavamra; ismerem őket, és ők a nyomomban járnak.”",
+  "cite": "Jn 10,27"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Jézus elítéli a hamis, farizeusi lelkületet.",
+  "text": "Egy farizeus lakomáján így beszélt Jézus az asztalnál ülőkhöz:\n\n„Jaj, nektek, farizeusok! Tizedet adtok mentából, rutából és minden apró veteményből, de elhanyagoljátok az igazságosságot és az Isten szeretetét. Ezt meg kell tenni, azt meg nem szabad elhagyni!\n\nJaj, nektek, farizeusok! Szeretitek a fő helyeket a zsinagógában, és a köszöntéseket a nyilvános tereken.\n\nJaj, nektek! Olyanok vagytok, mint azok a sírok, amelyeket kívülről nem lehet észrevenni. Az emberek fölöttük járnak – anélkül, hogy tudnák.”\n\nErre egy törvénytudó méltatlankodni kezdett: „Mester, ha ilyeneket mondasz, minket is gyalázol.” Ő azonban így folytatta: „Jaj, nektek is, törvénytudók! Elviselhetetlen terheket raktok az emberekre, ti magatok azonban még egy ujjal sem segítetek azokat a terheket hordozni.”",
+  "cite": "Lk 11,42-46"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a rómaiakhoz írt leveléből",
+  "summary": "Isten mindenkit tettei alapján jutalmaz vagy büntet.",
+  "text": "Testvéreim!\n\n(Annak, aki az Isten választott népéhez való tartozás tudatában gőgösen és elbizakodottan megítéli a bűnös és eltévelyedett pogányokat, a következőket mondom:) Nincs mentség számodra, bárki légy is, te, ember, aki másokat megítélsz. Amikor ugyanis mást megítélsz, önmagadat marasztalod el. Te bírónak érzed magad, de ugyanúgy viselkedel, mint akit megítélsz. Márpedig tudjuk, hogy Isten ítélete igazságosan sújt azokra, akik ilyesmit tesznek.\n\nTe, ember, aki megítéled mások bűnös tetteit, de magad ugyanazt megteszed, azt hiszed, hogy megmenekülhetsz Isten ítélete elől? Vagy semmibe veszed Isten végtelen jóságát, türelmét és elnézését? Nem jut eszedbe, hogy irgalma bűnbánatra akar vezetni téged?\n\nPedig konokságoddal és megrögzött szíveddel csak büntetést vonsz magadra, a haragnak és Isten igazságos ítéletének napjára. Ő megfizet kinek-kinek tettei szerint: örök élettel annak, aki a jó cselekedetekben kitartva halhatatlan dicsőségre és tiszteletre törekszik; haraggal és megtorlással annak, aki szembeszáll vele, és nem hajlik az igazságra, hanem a gonoszsággal tart. Mindenkit, aki gonoszat művel, utolér a kín és a gyötrelem: elsősorban a zsidót, azután a pogányt. Viszont dicsőség, tisztelet és békesség mindenkinek, aki jót tesz, elsősorban a zsidónak, aztán a pogánynak. Isten ugyanis nem személyválogató.",
+  "cite": "Róm 2,1-11"
+ }
+}

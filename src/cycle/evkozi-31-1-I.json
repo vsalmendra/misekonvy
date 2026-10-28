@@ -1,0 +1,32 @@
+{
+ "key": "evkozi-31-1-I",
+ "source_date": "2025-11-03",
+ "rank": "",
+ "day": "31. évközi hét hétfő",
+ "psalm": {
+  "cite": "Zsolt 68,30-31.33-34.36-37",
+  "response": "Uram, hallgass meg engem nagy irgalmasságod szerint!",
+  "verses": [
+   "Én szegény vagyok, és szenvedek,\nde szabadításod, Istenem, fölemel engem.\nÉnekszóval áldom Isten nevét,\ndicsérettel magasztalom őt.",
+   "Az alázatosak látják ezt, és örülnek.\nKeressétek Istent, és szívetek újra éled,\nmert az Úr meghallgat minden szegényt,\nés foglyait nem hagyja magukra.",
+   "Isten megszabadítja Siont,\nJúda városait újra felépíti.\nSzolgáinak fiai örökségül kapják,\nés ott laknak majd, kik nevét szeretik."
+  ]
+ },
+ "alleluia": {
+  "text": "Ha megmaradtok tanításomban, valóban az én tanítványaim lesztek, és megismeritek az igazságot – mondja a mi Urunk.",
+  "cite": "Jn 8,31b-32"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "A jót ne emberi viszonzásért tegyük!",
+  "text": "Az egyik szombaton Jézus betért egy vezető farizeus házába, hogy nála étkezzék. Étkezés közben a házigazdához fordult:\n\n„Amikor ebédet vagy vacsorát adsz, ne hívd meg barátaidat, se testvéreidet, se rokonaidat, se gazdag szomszédaidat, mert azok is meghívnak és viszonozzák neked. Ha lakomát adsz, hívd meg a szegényeket, bénákat, sántákat, vakokat. Boldog leszel, mert ők nem tudják neked viszonozni. Te azonban az igazak feltámadásakor megkapod jutalmadat.”",
+  "cite": "Lk 14,12-14"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a rómaiakhoz írt leveléből",
+  "summary": "Isten megengedi a hitetlenséget, mert mindenkinek irgalmazni akar.",
+  "text": "Testvéreim!\n\nIsten nem bánja meg kegyelmi adományait és meghívását. Amint egykor ti sem engedelmeskedtetek Istennek, de most, Izrael fiainak engedetlensége következtében irgalomra találtatok, úgy ők most hitetlenek lettek az irántatok tanúsított irgalmasság miatt, hogy egykor ők is irgalomra találjanak. Isten ugyanis kiszolgáltatott mindenkit az engedetlenségnek, hogy mindenkin megkönyörüljön.\n\nMily mélységesen gazdag az Isten bölcsessége és tudása!\n\nMilyen kifürkészhetetlenek szándékai, és milyen megfoghatatlanok útjai!\n\nVajon ki látta az Úr gondolatait, és tanácsot ki adott neki?\n\nKi kölcsönzött neki, hogy visszakövetelhetné tőle?\n\n(Hiszen) őbelőle, őáltala és őérte van minden, övé a dicsőség mindörökké! Ámen.",
+  "cite": "Róm 11,29-36"
+ }
+}

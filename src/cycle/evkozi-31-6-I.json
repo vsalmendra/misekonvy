@@ -1,0 +1,32 @@
+{
+ "key": "evkozi-31-6-I",
+ "source_date": "2025-11-08",
+ "rank": "",
+ "day": "31. évközi hét szombat",
+ "psalm": {
+  "cite": "Zsolt 144,2-3.4-5.10-11",
+  "response": "Áldom a te nevedet, Uram, örökkön örökké!",
+  "verses": [
+   "Mindennap áldalak téged,\nés dicsőítem nevedet örökkön örökké.\nNagy az Úr, és minden dicséretre méltó,\nnagyságát felfogni nem lehet.",
+   "Nemzedékről nemzedékre dicsérjék művedet,\nés hatalmadat hangosan hirdessék.\nMagasztos fölséged nagyságáról szóljanak,\nés beszéljék el minden csodás tettedet.",
+   "Magasztaljon téged, Uram, minden műved,\nszentjeid áldást mondjanak.\nOrszágod dicsőségéről szóljanak,\nés hatalmadat mindenek hirdessék."
+  ]
+ },
+ "alleluia": {
+  "text": "Jézus Krisztus vállalta a szegénységet, ámbár gazdag volt, hogy gazdaggá tegyen titeket szegénysége által.",
+  "cite": "2Kor 8,9"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Jézus a földi javak helyes használatára tanít minket.",
+  "text": "Jézus egyszer így beszélt tanítványaihoz:\n\n„Mondom nektek: Szerezzetek magatoknak barátokat a hamis mammonból, hogy amikor meghaltok, befogadjanak titeket az örök hajlékokba. Aki a kicsiben hű, az a nagyban is hű. Aki pedig hűtlen a kicsiben, az a nagyban is hűtlen. Ha tehát a hamis mammonban nem voltatok hűségesek, ki bízza rátok az igazi értéket? És ha a máséban nem voltatok hűek, ki adja oda nektek a tiéteket?\n\nEgy szolga sem szolgálhat két úrnak. Mert vagy az egyiket gyűlöli, és a másikat szereti, vagy: ragaszkodik az egyikhez, és a másikat megveti. Nem szolgálhattok Istennek és a mammonnak.”\n\nHallották mindezt a kapzsi farizeusok, és kigúnyolták őt. De Jézus kijelentette: „Ti igazaknak mutatjátok magatokat az emberek előtt, de Isten ismeri szíveteket. Ami ugyanis az emberek szemében nagy, Isten előtt semmiség.”",
+  "cite": "Lk 16,9-15"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a rómaiakhoz írt leveléből",
+  "summary": "Az apostol nagy szeretettel köszönti a római híveket.",
+  "text": "Testvéreim!\n\nKöszöntsétek Priszcillát és Akvilászt, munkatársaimat Jézus Krisztusban! Ők az életüket kockáztatták értem. Ezért nemcsak én vagyok hálás nekik, hanem a pogányságból megtért összes egyházközség is. Köszöntsétek a házukban gyülekező közösséget! Köszöntsétek kedves Epénetuszomat, aki elsőként csatlakozott Kis-Ázsiában Krisztushoz! Köszöntsétek Máriát, aki sokat fáradt értetek! Köszöntsétek rokonaimat és fogolytársaimat: Andronikuszt és Júniászt, akiket az apostolok körében nagyra becsülnek, és akik előttem lettek keresztényekké. Köszöntsétek az Úrban szeretett Ampliátuszomat! Köszöntsétek Urbánuszt, munkatársunkat Krisztusban, és az én kedves Sztakiszomat! Köszöntsétek szent csókkal egymást! Krisztus minden egyháza köszönt titeket.\n\nÜdvözöllek titeket az Úrban én, Terciusz, aki Pál hozzátok intézett szavait ebben a levélben leírtam. Üdvözöl titeket Gájusz, aki nekem és az egész közösségnek házigazdája. Üdvözöl titeket Erásztusz is, aki a város vagyonkezelője; és Kvártusz testvér.\n\nIstennek hatalmában áll megerősíteni benneteket evangéliumomban, a Jézus Krisztusról szóló tanításban, annak a titoknak kinyilvánításában, amelyre ősidők óta csend borult, de amelyet most az örök Isten parancsára a próféták írásai kinyilatkoztattak, és minden nemzet előtt ismertté tettek, hogy így a hit befogadására eljussanak.\n\nNeki, az egyedül bölcs Istennek legyen dicsőség Jézus Krisztus által örökkön örökké! Ámen.",
+  "cite": "Róm 16,3-9.16.22-27"
+ }
+}

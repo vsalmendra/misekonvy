@@ -1,0 +1,33 @@
+{
+ "key": "evkozi-24-1-II",
+ "source_date": "2024-09-16",
+ "rank": "",
+ "day": "24. évközi hét hétfő",
+ "psalm": {
+  "cite": "Zsolt 39,7-10.17",
+  "response": "Hirdessétek Urunk halálát, amíg újra el nem jön!",
+  "verses": [
+   "Sem véres, sem ételáldozat nem kellett neked,\nfülemet azonban megnyitottad.\nNem követeltél égő- és engesztelő áldozatot,\nígy szóltam akkor: „Íme, eljövök.”",
+   "A könyvtekercsben rólam írva áll,\nhogy akaratodat teljesítsem.\nErre vágyom, Istenem,\ntörvényed szívemet örömmel tölti el.",
+   "Igazságodat hirdetem a nagy közösségben,\najkam el nem hallgat, Uram, jól tudod.",
+   "Ujjongjanak és örvendjenek a téged keresők, † „Hatalmas az Úr!” kiáltsák szüntelen,\nakik várják üdvösségedet."
+  ]
+ },
+ "alleluia": {
+  "text": "Isten úgy szerette a világot, hogy egyszülött Fiát adta érte, hogy örökké éljen minden őbenne hívő.",
+  "cite": "Jn 3,16"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Jézus példaképül állítja elénk a kafarnaumi százados hitét.",
+  "text": "Amikor Jézus a néphez intézett beszédét befejezte, Kafarnaumba ment. Ott betegen feküdt egy századosnak a szolgája, akit ura nagyon kedvelt. A szolga már a halálán volt. A százados, aki hallott Jézusról, elküldte hozzá a zsidók véneit azzal a kéréssel, hogy jöjjön el, és gyógyítsa meg a szolgáját.\n\nAmikor ezek odaértek Jézushoz, kérlelték őt: „Megérdemli, hogy megtedd ezt neki, mert szereti népünket, és a zsinagógát is ő építtette nekünk.”\n\nJézus tehát velük ment. Amikor már nem messze voltak a háztól, a százados eléje küldte barátait ezzel az üzenettel: „Uram, ne fáradj! Nem vagyok méltó, hogy hajlékomba jöjj. Éppen ezért nem tartottam magamat méltónak arra sem, hogy hozzád menjek. Csak egy szót szólj, és meggyógyul a szolgám. Bár magam is alárendelt ember vagyok, alattam is szolgálnak katonák. S ha azt mondom az egyiknek: »Menj!« – akkor elmegy, ha a másiknak meg azt mondom: »Jöjj ide!« – akkor odajön, vagy ha a szolgámnak szólok: »Tedd meg ezt!« – akkor megteszi.”\n\nAmikor Jézus ezt hallotta, elcsodálkozott. Megfordult, és így szólt az őt követő tömegnek: „Mondom nektek, nem találtam ekkora hitet Izraelben.” Amikor a küldöttek hazaértek, a beteg szolgát egészségesnek találták.",
+  "cite": "Lk 7,1-10"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a korintusiakhoz írt első leveléből",
+  "summary": "Az Eucharisztia méltó vételének előfeltétele: a testvéri szeretet megvalósítása.",
+  "text": "Testvéreim!\n\nNem dicsérhetlek meg titeket, mert összejöveteletek nem javatokra, hanem lelki károtokra szolgál. Azt hallottam ugyanis, hogy amikor közösségbe gyűltök össze, szakadás van köztetek. Ezt részben el is hiszem. A szakadásnak arra kell szolgálnia, hogy a megbízhatók kitűnjenek köztetek.\n\nAmikor ugyanis egybegyűltök, már nem az Úr vacsoráját eszitek, mert étkezés közben ki-ki a saját vacsoráját veszi elő, hogy elfogyassza. Egyesek szegényesen étkeznek, mások meg dőzsölnek. Hát nem tudtok otthon enni és inni? Vagy Isten népét akarjátok megcsúfolni, amikor zavarba hozzátok a szegény sorsúakat? Mit mondjak nektek? Dicsérjelek? Ebben nem dicsérlek benneteket!\n\nÉn pontosan elmondtam nektek úgy, amint az Úrtól kaptam. Urunk Jézus azon az éjszakán, amikor elárulták, fogta a kenyeret, hálát adott, megtörte, és így szólt: „Vegyétek és egyétek, ez az én testem, amely értetek adatik! Ezt cselekedjétek az én emlékezetemre!”\n\nA vacsora után ugyanígy fogta a kelyhet is, és így szólt: „Ez a kehely az újszövetség kelyhe az én véremben. Valahányszor isztok belőle, tegyétek ezt az én emlékezetemre!”\n\nAmikor ugyanis ezt a kenyeret eszitek és ebből a kehelyből isztok, az Úr halálát hirdetitek, amíg el nem jön. Ezért, testvéreim, ha egybegyűltök az étkezésre, legyetek tekintettel egymásra!",
+  "cite": "1Kor 11,17-26.33"
+ }
+}

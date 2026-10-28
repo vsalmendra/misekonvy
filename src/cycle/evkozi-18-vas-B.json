@@ -1,0 +1,39 @@
+{
+ "key": "evkozi-18-vas-B",
+ "source_date": "2024-08-04",
+ "rank": "",
+ "day": "Évközi 18. vasárnap",
+ "psalm": {
+  "cite": "Zsolt 77,3.4bc.23-24.25.54",
+  "response": "Mennyei kenyeret adott nékik az Úr.",
+  "verses": [
+   "Hallottuk Isten nagyszerű tetteit,\namint atyáink elmondták nékünk.\nHirdetjük a jövő nemzedéknek az Úr dicsőségét és erejét,\na csodákat, amelyeket véghezvitt.",
+   "Parancsot adott a felhőknek odafönn,\nés az ég kapuit megnyitotta.\nEledelül mannát hullatott,\nmennyei kenyeret adott nékik.",
+   "Angyalok kenyerét ette az ember,\neledelt küldött nékik bőséggel.\nBevezette őket szent hegyére,\na hegyre, melyet jobbja szerzett nékik."
+  ]
+ },
+ "alleluia": {
+  "text": "Nemcsak kenyérrel él az ember, hanem minden igével is, mely Isten ajkáról való.",
+  "cite": "Mt 4,4b"
+ },
+ "gospel": {
+  "book": "Szent János",
+  "summary": "",
+  "text": "Abban az időben amikor a nép nem találta Jézust, sem a tanítványait, bárkába szálltak, és elmentek Kafarnaumba, hogy megkeressék Jézust. Amikor a tó túlsó partján megtalálták, megkérdezték tőle: „Mester, mikor jöttél ide?”\n\n„Bizony, bizony, mondom nektek – felelte Jézus –, nem azért kerestetek, mert csodajeleket láttatok, hanem mert ettetek a kenyérből és jóllaktatok. Ne olyan eledelért fáradozzatok, amely megromlik, hanem olyanért, amely megmarad az örök életre. Ezt az Emberfia adja nektek, – őt ugyanis az Atya igazolta.”\n\nErre megkérdezték tőle: „Mit tegyünk, hogy Istennek tetsző dolgot cselekedjünk?”\n\n„Istennek az tetszik – válaszolta Jézus –, ha hisztek abban, akit küldött.”\n\nDe ők így folytatták: „Hát te milyen csodajelet teszel, hogy lássuk és higgyünk neked? Mit tudsz tenni? Atyáink mannát ettek a pusztában, amint az Írás mondja: Égi kenyeret adott nekik enni.”\n\nJézus erre így szólt: „Bizony, bizony, mondom nektek: Nem Mózes adott nektek kenyeret az égből, hanem Atyám adja nektek az igazi égi kenyeret. Mert az az Isten kenyere, aki alászállt az égből, és aki életet ad a világnak.”\n\nErre így szóltak hozzá: „Urunk, add nekünk mindig ezt a kenyeret!”\n\n„Én vagyok az élet kenyere – felelte Jézus. Aki hozzám jön, többé nem éhezik, és aki bennem hisz, soha nem szomjazik.”",
+  "cite": "Jn 6,24-35"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Mózes második könyvéből",
+  "summary": "",
+  "text": "A Szin pusztában Izrael egész közössége zúgolódott Mózes és Áron ellen. Izrael fiai ezt mondták nekik: „Inkább haltunk volna meg az Úr keze által Egyiptomban, amikor a húsos fazekak mellett ültünk és jóllaktunk kenyérrel. Ti pedig ide hoztatok minket a pusztába, hogy az egész közösség éhen vesszen.”\n\nEkkor az Úr így szólt Mózeshez: „Íme, én kenyeret hullatok nektek az égből. A nép menjen ki és gyűjtsön magának egy napra valót belőle. Így akarom próbára tenni, hogy követi-e parancsomat. Hallottam Izrael fiainak zúgolódását. Közöld velük: ma este húst fogtok enni, és holnap reggel jóllakhattok kenyérrel. Erről fogjátok megtudni, hogy én, az Úr vagyok a ti Istenetek.” És valóban: estére fürjcsapat jelent meg, és ellepte a tábort. Reggel pedig harmatozó felhő ereszkedett alá a táborra. Amikor a harmatozó felhő felszállt, a puszta talaján valami finomszemcsés dolog maradt, olyan, mint a dér a földön. Izrael fiai meglátták és kérdezgették egymást: „Mi ez?” Nem tudták ugyanis, hogy mi az. Mózes így szólt hozzájuk: „Ez az a kenyér, amelyet az Úr ad nektek enni.”",
+  "cite": "Kiv 16,2-4.12-15"
+ },
+ "reading2": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak az efezusiakhoz írt leveléből",
+  "summary": "",
+  "text": "Testvéreim!\n\nAzt mondom nektek, sőt figyelmeztetlek titeket az Úrban: ne éljetek úgy, mint a pogányok, akik hiábavalóságokon járatják az eszüket. Ti nem ezt tanultátok Krisztustól, ha valóban őrá hallgattatok, és megtanultátok, hogy az igazság Jézusban van. Tehát eddigi életmódotokkal ellentétben vessétek le a régi embert, akit a csalóka vágyakozások romlásba döntenek. Újuljatok meg lélekben és érzéseitekben! Öltsétek magatokra az új embert, aki az Istenhez hasonló, igaz és valóban szent teremtmény.",
+  "cite": "Ef 4,17.20-24"
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "key": "evkozi-20-vas-C",
+ "source_date": "2025-08-17",
+ "rank": "",
+ "day": "Évközi 20. vasárnap",
+ "psalm": {
+  "cite": "Zsolt 39,2.3.4.18.",
+  "response": "Uram, irgalmadban ments meg engem, Uram, siess segítségemre. 14. vers.",
+  "verses": [
+   "Várva vártam az Urat,\nés ő lehajolt hozzám.",
+   "Meghallgatta kiáltásom,\na nyomorúság verméből és mocsarából kivont engem.\nLábamat sziklára állította,\nés megszilárdította lépteimet.",
+   "Új éneket adott ajkamra,\nIstenünknek zengő énekét.\nMegrettenve látják azt sokan,\nés eltelnek az Úr iránt bizalommal.",
+   "Én nyomorult és szegény vagyok,\nde az Úr gondomat viseli.\nTe vagy segítőm és szabadítóm,\nén Istenem, ne késlekedjél."
+  ]
+ },
+ "alleluia": {
+  "text": "Jézus mondja: „Juhaim hallgatnak szavamra, ismerem őket és nyomomban járnak.”",
+  "cite": "Jn 10,27"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Krisztus evangéliumának sokan ellene mondanak.\nInnen támad a sok szakadás és békétlenség a világon.",
+  "text": "Abban az időben Jézus így szólt tanítványaihoz:\n\n„Azért jöttem, hogy tüzet gyújtsak a földön. Mi mást akarnék, mint\n\nhogy lángra lobbanjon. Keresztséggel kell megkereszteltetnem. Mennyire\n\nvárom, hogy ez beteljesedjék!\n\nAzt gondoljátok, azért jöttem, hogy békét hozzak a földre? Mondom\n\nnektek nem azt, hanem szakadást. Ezentúl, ha öten lesznek egy házban,\n\nmegoszlanak egymás között: három kettő ellen, és kettő három ellen.\n\nSzembekerül apa a fiával és fiú az apjával, anya a lányával és lány az\n\nanyjával, anyós a menyével és meny az anyósával.”",
+  "cite": "Lk 12,49-53"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Jeremiás próféta könyvéből",
+  "summary": "Jeremiást meg akarják ölni,\nmert megjövendölte Jeruzsálem pusztulását.",
+  "text": "Amikor Jeremiás próféta megjövendölte Jeruzsálem pusztulását, a\n\nvezető emberek így szóltak a királyhoz: „Ölesd meg, kérünk, ezt az\n\nembert, mert szántszándékkal megbénítja a városban maradt harcosok\n\nkezét, sőt az egész nép kezét is, ha ilyesmit beszél nekik. Ez az ember\n\nugyanis a népnek nem a javát keresi, hanem inkább a romlását.”\n\nCidkija király így válaszolt: „Hiszen a kezetekben van: a király\n\nsemmit sem tehet ellenetek.” Erre megfogták Jeremiást, és Malkija\n\nkirályfi ciszternájába vetették, amely az őrség udvarán van. Kötélen\n\nengedték le a verembe, amelyben nem volt víz, csak sár, és így Jeremiás\n\nbelesüppedt a sárba.\n\nAkkor Ebed-Melech, a királyi palota egyik udvari tisztje, kijött a\n\npalotából, és így szólt a királyhoz: „Uram, királyom! Ezek az emberek\n\nigen gonosz dolgot vittek végbe Jeremiás próféta ellen, amikor a\n\nciszternába dobták, hogy ott éhen haljon, hiszen úgysincs kenyér a\n\nvárosban.”\n\nErre a király ezt a parancsot adta szerecsen rabszolgájának (a kusita\n\nEbed-Melechnek): „Végy magad mellé harminc embert, és húzd ki Jeremiás\n\nprófétát a ciszternából, mielőtt meghalna.”",
+  "cite": "Jer 38,4-6.8-10"
+ },
+ "reading2": {
+  "label": "Szentlecke",
+  "sub": "a Zsidókhoz írt levélből",
+  "summary": "Türelemmel és állhatatosan vívjuk meg\naz életben ránk váró küzdelmeket.",
+  "text": "Testvéreim!\n\nMi, akiket a tanúknak koszorúja övez, váljunk szabaddá minden\n\ntehertől, különösen a bűntől, amely behálóz minket, és fussuk meg\n\nkitartással az előttünk lévő pályát. Emeljük tekintetünket a hit\n\nszerzőjére és bevégzőjére, Jézusra, aki a rá váró öröm helyett\n\nelszenvedte a kereszthalált, nem törődött a gyalázattal, és most az\n\nIsten trónjának jobbján ül.\n\nIgen, gondoljatok őrá, aki a bűnösök részéről ekkora ellentmondást\n\nviselt el, hogy ne lankadjatok, és bensőleg ne csüggedjetek. A bűn\n\nelleni küzdelemben még nem álltatok ellen a véretek ontásáig.",
+  "cite": "Zsid 12,1-4"
+ }
+}

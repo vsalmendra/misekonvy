@@ -1,0 +1,33 @@
+{
+ "key": "evkozi-3-1-I",
+ "source_date": "2025-01-27",
+ "rank": "",
+ "day": "3. évközi hét hétfő",
+ "psalm": {
+  "cite": "Zsolt 97,1.2-3ab.3cd-4.5-6",
+  "response": "Énekeljetek az Úrnak új éneket, mert csodás dolgokat művelt!",
+  "verses": [
+   "Zengjetek az Úrnak új éneket,\ncsodálatra méltó, amit művelt.\nDiadalt aratott jobbjával,\ngyőzelmet Szentséges karjával.",
+   "Az Úr megmutatta szabadító erejét,\nigazságosságát feltárta a népek előtt.\nEmlékezetébe idézte jóságát és hűségét\nIzrael népe iránt.",
+   "Meglátta a föld minden határa,\nszabadulást Istenünk hozott nekünk.\nMinden földek, zengjetek az Úrnak öröméneket,\nujjongjatok és zsoltárt mondjatok.",
+   "Daloljatok az Úrnak citerával,\nciterával és zsoltárok hangjával.\nHarsonákkal és zengő kürtökkel\nujjongjatok az Úr és Király előtt."
+  ]
+ },
+ "alleluia": {
+  "text": "Urunk, Jézus Krisztus győzött a halálon, és az evangéliumban felragyogtatta az örök életet.",
+  "cite": "2Tim 1,10"
+ },
+ "gospel": {
+  "book": "Szent Márk",
+  "summary": "Jézust azzal vádolják, hogy az ördöggel cimborál.",
+  "text": "Egy alkalommal Jeruzsálemből írástudók jöttek (Kafarnaumba), és azt híresztelték Jézusról: „Belzebub szállta meg”, és: „A gonosz lelkek fejedelmének segítségével űzi ki az ördögöket.”\n\nÁm ő magához hívta őket, és példabeszédekben szólt hozzájuk: „Hogyan űzhetné ki a sátán a sátánt? Ha egy ország meghasonlik önmagával, az az ország nem maradhat fenn. Ha egy család meghasonlik önmagával, az a család nem maradhat fenn. Ha a sátán önmaga ellen támad és meghasonlik önmagával, akkor nem maradhat fenn, hanem elpusztul. Az erősnek házába nem törhet be senki, és nem ragadhatja el a holmiját, hacsak előbb meg nem kötözi az erőset; így viszont már kirabolhatja a házát.\n\nBizony, mondom nektek, hogy az emberek fiainak minden bűnt megbocsátanak, és minden káromlást, bárhogyan is káromkodnak. De aki a Szentlelket káromolja, az soha nem nyer bocsánatot, azt örökös bűn terheli.” (Azért mondta mindezt Jézus), mert azt terjesztették: „Megszállta a tisztátalan lélek.”\n\nEz az Isten igéje.",
+  "cite": "Mk 3,22-30"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "a Zsidókhoz írt levélből",
+  "summary": "Krisztus egyszer áldozta fel magát, hogy elvegye a bűnöket.\n\nA világ végén azok üdvözítésére jelenik meg, akik várják eljövetelét.",
+  "text": "Testvéreim!\n\nKrisztus egy új szövetség közvetítője. Előbb azonban a régi szövetségben elkövetett bűnök eltörléséért el kellett szenvednie a halált, hogy a meghívottak elnyerjék az örökké tartó örökséget.\n\nKrisztus nem kézzel épített szentélybe lépett be, amely a valódinak csak előképe, hanem magába a mennybe, hogy most az Isten színe előtt közbenjárjon értünk.\n\nNem azért lépett be ebbe a szentélybe, hogy többször áldozza föl magát, mint ahogyan az (ószövetségi) főpap évről évre belép – idegen vérrel – a szentély legszentebb részébe, a Szentek szentjébe. Hiszen akkor többször is szenvednie kellett volna a világ kezdete óta.\n\nÍgy azonban most, amikor elérkezett az idők teljessége, egyszer s mindenkorra megjelent, hogy áldozatával eltörölje a bűnt. Amint az ember számára elhatároztatott, hogy egyszer haljon meg, és utána az ítélet következzék, úgy Krisztus is csak egyszer áldozta fel magát, hogy sokaknak bűnét elvegye.\n\nMásodszor már nem a bűn miatt jelenik meg, hanem azok üdvözítésére, akik várják eljövetelét.",
+  "cite": "Zsid 9,15.24-28"
+ }
+}

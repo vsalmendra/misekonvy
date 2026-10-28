@@ -1,0 +1,31 @@
+{
+ "key": "evkozi-32-5-I",
+ "source_date": "2025-11-14",
+ "rank": "",
+ "day": "32. évközi hét péntek",
+ "psalm": {
+  "cite": "Zsolt 18,2-5",
+  "response": "Istenünk dicsőségét hirdetik az egek.",
+  "verses": [
+   "Isten dicsőségét az egek hirdetik,\na mennybolt vallja kezének művét.\nEzt harsogja át egyik nap a másiknak,\nerre oktatja éj az éjszakát.",
+   "Nem olyan hang ez, nem olyan beszéd,\nhogy meg ne értenéd szavát.\nMinden földre elhat szózatuk,\na földkerekség végéig eljut igéjük."
+  ]
+ },
+ "alleluia": {
+  "text": "Nézzetek föl, és emeljétek föl fejeteket mert elérkezett megváltástok ideje.",
+  "cite": "Lk 21,28"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Jézus második eljövetele mindenkit személyesen érint.",
+  "text": "Jézus így beszélt tanítványaihoz második eljöveteléről: „Mint ahogy Noé korában történt, úgy lesz az Emberfia napjaiban is. Ettek, ittak, házasodtak, férjhez mentek addig a napig, amíg Noé be nem szállt a bárkába. Akkor jött a vízözön, és elpusztította valamennyit. Ugyanígy történt Lót napjaiban is. Ettek és ittak, adtak és vettek, ültettek és építettek. De amelyik napon Lót elhagyta Szodomát, kénköves tűzeső hullott az égből, és elpusztította valamennyit. Ugyanígy lesz azon a napon is, amikor az Emberfia megjelenik. Aki abban az órában a háztetőn tartózkodik, és holmija van lenn a házban, le ne jöjjön érte, hogy elvigye! Aki a mezőn lesz, haza ne jöjjön! Emlékezzetek Lót feleségére! Aki meg akarja menteni életét, elveszíti azt; aki pedig elveszíti, megmenti azt az (örök) életre. Mondom nektek; azon az éjszakán ketten lesznek egy fekvőhelyen; az egyiket felveszik, a másikat otthagyják. Két asszony együtt őröl; az egyiket felveszik, a másikat otthagyják. Ketten lesznek a mezőn; az egyiket felveszik, a másikat otthagyják.” A tanítványok megkérdezték: „Hol lesz ez, Uram?” Azt felelte: „Ahol a holttest van, odagyűlnek a sasok.”",
+  "cite": "Lk 17,26-37"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "a Bölcsesség könyvéből",
+  "summary": "A teremtő Isten létezését a teremtmények bizonyítják.\n\nBalgák azok, akik megrekednek a teremtett szépségeknél.",
+  "text": "Így szól az örök Bölcsesség: Mind balga ember, akiben nincs istenismeret: a látható világ szépségéből nem ismeri fel azt, aki van, és nem fogja fel az alkotásból, hogy van Alkotó. Inkább a tüzet, a szelet, a vizet vagy a csillagok körét, a Holdat s a Napot tartja a világot kormányzó isteneknek. De hogyha isteneknek hitték ezeket elbájoló szépségükért, tudhatták volna, hogy e szépség Alkotója még dicsőbb. S ha megcsodálták mindezeknek munkáját és erejét, miért nem ismerték fel, hogy az Alkotójuk még hatalmasabb? Mert a teremtmények nagyságából, szépségéből összehasonlítás útján felismerhető a Teremtőjük létezése. Az ilyenek ellen mégis kevesebb a panaszunk, mert ők csak tévednek, miközben Istent keresik; hiszen meg akarják találni őt. Amikor ugyanis alkotásaival foglalkoznak és azokat vizsgálják, megejti szívünket azok látása, mert annyira szép az, amit látni lehet. Ezeknek ugyanakkor még sincs mentségük, mert ha tudásban annyira vitték, hogy át tudták kutatni a világot, hogyan lehet, hogy ennek Urát mégsem találták meg?",
+  "cite": "Bölcs 13,1-9"
+ }
+}

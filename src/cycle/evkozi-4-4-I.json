@@ -1,0 +1,33 @@
+{
+ "key": "evkozi-4-4-I",
+ "source_date": "2025-02-06",
+ "rank": "",
+ "day": "4. évközi hét csütörtök",
+ "psalm": {
+  "cite": "Zsolt 47,2-3a.3b-4.9.10-11",
+  "response": "Befogadtuk irgalmadat, Istenünk, templomod belsejében.",
+  "verses": [
+   "Nagy az Úr és minden dicséretre méltó,\nIstenünk városában.\nSzép és ékes az ő szent hegye,\naz egész földkerekség öröme.",
+   "Észak határán áll Sion hegye:\na nagy király városa.\nHázaiban ismerik Istent,\nmert ő maga lett a menedékük.",
+   "Így hallottuk és így láttuk\na mindenható Isten városában,\na mi Istenünk városában,\nmelyet az Úr alapított mindörökre.",
+   "Jóságodról elmélkedünk, Istenünk,\ntemplomod belsejében.\nIstenünk, neved és dicséreted a föld határáig kiárad,\njobbod telve van igazsággal."
+  ]
+ },
+ "alleluia": {
+  "text": "Jézus mondja: „Elközelgett az Isten országa, tartsatok bűnbánatot és higgyetek az örömhírnek!”",
+  "cite": "Mk 1,15"
+ },
+ "gospel": {
+  "book": "Szent Márk",
+  "summary": "Az apostolok Krisztustól gyógyító hatalmat kapnak, és küldetést az evangélium hirdetésére.",
+  "text": "Abban az időben Jézus magához hívta a tizenkettőt, és kettesével elküldte őket, hatalmat adva nekik a tisztátalan lelkek felett.\n\nMegparancsolta nekik, hogy az útra ne vigyenek semmit, csak vándorbotot: sem kenyeret, sem tarisznyát, sem pénzt az övükben. Sarut kössenek, de két ruhadarabot ne vegyenek magukra.\n\nAzután így folytatta: „Ha valahol betértek egy házba, maradjatok ott addig, amíg utatokat nem folytatjátok. Ha valamely helységben nem fogadnak be és nem hallgatnak meg titeket, menjetek el onnét, s még a port is rázzátok le lábatokról, tanúbizonyságul ellenük.”\n\nAzok elmentek, s hirdették mindenkinek, hogy térjenek meg. Sok ördögöt kiűztek, és olajjal megkenve sok beteget meggyógyítottak.",
+  "cite": "Mk 6,7-13"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "a Zsidókhoz írt levélből",
+  "summary": "Az ószövetségi áldozatok megszűntek.\n\nJáruljunk tehát Jézus örök áldozatához, amely a megváltást hozza!",
+  "text": "Testvéreim!\n\nTi nem kézzel tapintható hegyhez járultatok, sem lobogó tűzhöz, sötét felhőhöz vagy viharos forgószélhez, sem harsonazengéshez vagy mennydörgő szózathoz, amelynek hallatára a zsidók könyörögni kezdtek, hogy ne hangozzék tovább ez a félelmetes szó. Oly rettenetes volt a látvány, hogy Mózes is azt mondta: „Rémület és reszketés fog el.”\n\nEllenkezőleg, ti az Úr hegyéhez járultatok, az élő Isten városához, a mennyei Jeruzsálemhez, meg az angyalok ezreihez; a keresztségben újjászületettek ünneplő közösségéhez, akiknek neve fel van jegyezve a mennyben; a mindenek Bírájához, Istenhez, meg a tökéletes igazak lelkeihez, és az új szövetség közvetítőjéhez, Jézushoz, akinek ránk hulló vére hathatósabban kiált Istenhez, mint Ábel kiontott vére.",
+  "cite": "Zsid 12,18-19.21-24"
+ }
+}

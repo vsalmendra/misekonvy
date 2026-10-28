@@ -1,0 +1,33 @@
+{
+ "key": "evkozi-19-2-I",
+ "source_date": "2025-08-12",
+ "rank": "",
+ "day": "19. évközi hét kedd",
+ "psalm": {
+  "cite": "MTörv 32,3-4a.7.8.9 és 12",
+  "response": "Az Úr osztályrésze az ő népe lett.",
+  "verses": [
+   "Az Úr nevét hívom segítségül,\nmagasztaljátok Istenünket,\nmert tökéletes minden műve,\nés igazságos minden útja.",
+   "Emlékezz csak a régi időkre,\nvedd sorra az egyes nemzedékeket.\nKérdezd atyádat, és ő megtanít,\nvagy őseidet, ők majd elmondják neked!",
+   "Amikor a Mennyben lakó szétválasztotta a népeket,\namikor különválasztotta Ádám fiait,\nés kijelölte a népek határait,\nIzraelt is, fiainak száma szerint:",
+   "Az Úr osztályrésze lett az ő népe,\nJákob az ő kimért öröksége.\nVezére az Úr volt egyedül,\nés idegen isten nem volt vele."
+  ]
+ },
+ "alleluia": {
+  "text": "Vegyétek magatokra igámat, és tanuljatok tőlem, mert szelíd vagyok és alázatos szívű!",
+  "cite": "Mt 11,29ab"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Gyermeki lelkület nélkül nem juthatunk be a mennyek országába.",
+  "text": "A tanítványok egyszer ezzel a kérdéssel fordultak Jézushoz: „Mit gondolsz, ki a legnagyobb a mennyek országában?”\n\nErre Jézus odahívott egy gyermeket, közéjük állította, és így szólt: „Bizony, mondom nektek: ha meg nem változtok, és nem lesztek olyanok, mint a gyermekek, nem mentek be a mennyek országába. Aki tehát olyan kicsinnyé lesz, mint ez a gyermek, az a legnagyobb a mennyek országában. Aki pedig befogad egy ilyen gyermeket az én nevemben, az engem fogad be.\n\nVigyázzatok, meg ne vessetek egyet sem e kicsinyek közül! Mondom nektek: Angyalaik az égben szüntelenül látják mennyei Atyám arcát.\n\nMit gondoltok? Ha valakinek száz juha van, s egy elkóborol közülük, nem hagyja-e ott a kilencvenkilencet a hegyoldalon, és nem megy-e, hogy megkeresse az eltévedtet? Ha aztán szerencsésen megtalálja, bizony, mondom nektek: Jobban örül annak, mint az el nem tévedt kilencvenkilencnek.\n\nÉppen így mennyei Atyátok sem akarja, hogy csak egy is elvesszen e kicsinyek közül.”",
+  "cite": "Mt 18,1-5.10.12-14"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Mózes ötödik könyvéből",
+  "summary": "Mózes átruházza Józsuéra a vezéri hatalmat.",
+  "text": "Élete végén Mózes a nép elé állt, és ezt a beszédet mondta: „Százhúsz esztendős vagyok, nehezemre esik a járás-kelés, meg azt is mondta nekem az Úr: »Nem mehetsz át a Jordán folyón.«\n\n(Ezért, népem:) Az Úr, a te Istened megy át előtted a folyón, színed elől eltörli ezeket a nemzeteket, úgyhogy örökükbe léphetsz.\n\nElőtted megy át Józsue is, miként az Úr megmondotta. Úgy fog cselekedni az Úr ezekkel a népekkel, mint Szehonnal és Óggal, az amorreusok királyaival és azok földjével cselekedett: meg fogja semmisíteni őket. Éppen azért, ha őket is kezetekbe adja, úgy tegyetek velük, ahogy parancsoltam nektek! Férfiasan viselkedjetek, legyetek bátrak! Ne féljetek és ne rettegjetek, ha meglátjátok őket, mert az Úr, a ti Istenetek, vezérel majd benneteket. Nem fog elhagyni, és nem feledkezik meg rólatok.”\n\nMózes ezután magához hívta Józsuét, és így szólt hozzá az egész nép előtt: „Légy erős és bátor, mert te viszed be ezt a népet arra a földre, amelyet esküvel ígért az Úr, hogy atyáiknak adja, és te osztod ki nekik örökségül. Az Úr, aki vezérel titeket, veled lesz, és nem hagy el téged. Ne félj tehát, és ne rettegj!”",
+  "cite": "MTörv 31,1-8"
+ }
+}

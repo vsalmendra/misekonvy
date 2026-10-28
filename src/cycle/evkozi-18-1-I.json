@@ -1,0 +1,32 @@
+{
+ "key": "evkozi-18-1-I",
+ "source_date": "2025-08-04",
+ "rank": "",
+ "day": "18. évközi hét hétfő",
+ "psalm": {
+  "cite": "Zsolt 80,12-13.14-15.16-17",
+  "response": "Örvendjetek Istennek, a mi segítőnknek!",
+  "verses": [
+   "Népem nem hallgatta meg szavamat,\nIzrael nem figyelt igémre.\nSzívük keménységére hagytam őket,\njárjanak csak szándékuk szerint.",
+   "Bárcsak hallgatna rám népem,\nbárcsak utamon járna Izrael.\nEllenségeit megaláznám akkor,\ns gyötrőire emelném kezemet.",
+   "Akik gyűlölik az Urat, meghódolnának néki,\nés sorsuk örökké tartana.\nNépemet pedig a búza javából táplálnám,\nés jóllakatnám őket mézzel a sziklából."
+  ]
+ },
+ "alleluia": {
+  "text": "Nemcsak kenyérrel él az ember, hanem minden igével is, mely Isten ajkáról való.",
+  "cite": "Mt 4,4b"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Jézust könyörületre indítja az emberek lelki és testi ínsége.",
+  "text": "Amikor Jézus tudomást szerzett Keresztelő János haláláról, csónakba szállt, és elment onnan egy kietlen helyre, egyedül. De az emberek megtudták, és a városokból gyalogszerrel utána indultak.\n\nAmikor kiszállt a hajóból, már nagy tömeget látott ott. Megesett rajtuk a szíve, és meggyógyította betegeiket.\n\nAmint beesteledett, tanítványai odamentek hozzá, és figyelmeztették: „Elhagyatott ez a hely, és az idő is már későre jár. Bocsásd el a tömeget, hadd menjenek a falvakba, hogy élelmiszert szerezzenek maguknak.” Jézus azonban ezt mondta nekik: „Nem kell elmenniük, ti adjatok nekik enni!” Ők ezt felelték: „Nincs másunk itt, csak öt kenyerünk és két halunk.” Mire ő ezt mondta: „Hozzátok ide!”\n\nMiután megparancsolta, hogy a tömeget telepítsék le a fűre, fogta az öt kenyeret és a két halat, szemét az égre emelve áldást mondott, azután megtörte a kenyereket, és odaadta tanítványainak, a tanítványok pedig az embereknek.\n\nMindannyian ettek, és jól is laktak. Végül tizenkét kosár lett tele a kenyérmaradékokkal. Pedig mintegy ötezer férfi evett, nem számítva a nőket és a gyermekeket.",
+  "cite": "Mt 14,13-21 vagy Mt 14,22-36"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Mózes negyedik könyvéből",
+  "summary": "Mózes panaszkodik az Úrnak:\n\nEgyedül nem bírja viselni a nép minden gondját, terhét.",
+  "text": "A pusztai vándorlás idején a nép zúgolódni kezdett: „Ki ad nekünk húst enni! Visszagondolunk a halra, amelyet ingyen ettünk Egyiptomban, eszünkbe jut az uborka, a dinnye, a póréhagyma, a vöröshagyma meg a fokhagyma. Most pedig hiába epekedünk, a szemünk nem lát mást, mint csak a mannát!” A manna apró maghoz hasonlított, és színe olyan volt, mint a mézgáé. A mannát a nép mindennap felszedte, kézimalmán megőrölte, vagy mozsárban összetörte, azután fazékban megfőzte, és olyan ízű kalácsot készített belőle, mint az olajoslepény. A manna éjszakánként a leszálló harmattal hullott a táborra.\n\nMózes meghallotta, hogy siránkozik a nép, ki-ki a sátora bejáratánál. Az Úr nagyon megharagudott emiatt, de Mózesnek se tetszett ez a dolog. Azért így szólt az Úrhoz: „Miért sújtod szolgádat? Miért nem találok kegyelmet előtted, és miért raktad rám az egész nép terhét? Hát én fogantam ezt a sokaságot, vagy én hoztam őket a világra, hogy azt mondod nekem: »Hordozd őket kebleden, ahogyan a dajka szokta hordozni a csecsemőt, és vezesd őket arra a földre, amelyet esküvel ígértem atyáiknak!«? Honnan vegyek húst, hogy enni adjak ekkora sokaságnak? Felém fordulva siránkoznak, és azt mondják: »Adj nekünk húst enni!« Én egyedül nem viselhetem a nép gondját, felülmúlja erőmet. Ha azonban te másként ítéled meg a dolgot, ha kegyelmet találtam előtted, akkor, kérlek, vedd el életemet, hogy ne szenvedjek ekkora nyomorúságot!”",
+  "cite": "Szám 11,4b-15"
+ }
+}

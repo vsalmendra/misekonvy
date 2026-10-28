@@ -1,0 +1,34 @@
+{
+ "key": "nagybojt-1-2",
+ "source_date": "2025-03-11",
+ "rank": "",
+ "day": "1. nagyböjti hét kedd",
+ "psalm": {
+  "cite": "Zsolt 33,4-5.6-7.16-17.18-19",
+  "response": "Az Úr az igazakat kimenti minden szorongatásukból.",
+  "verses": [
+   "(Vö. 18b. vers. - 4. b tónus)\nMagasztaljátok az Urat énvelem,\ndicsőítsük az ő nevét mindnyájan!\nKerestem az Urat, és ő meghallgatott engem,\nés kiragadott minden rettegésből.",
+   "Megvilágosultok, ha az Úrra néztek,\nés arcotokat nem éri szégyen.\nAz Úr meghallgatta a szegényt, aki hozzá kiáltott,\nés minden szorongatásából kiszabadította.",
+   "Az Úr szeme az igazakra tekint,\nés füle meghallgatja kiáltásukat.\nAz Úr az arcát a gonoszok ellen fordítja,\nhogy még emlékük is eltűnjék a földről.",
+   "Kiáltottak az igazak és az Úr meghallgatta őket,\nés minden szorongatásból megszabadultak.\nKözel van az Úr azokhoz, akik töredelmes szívűek,\nés szabadulást hoz a megtört lelkeknek."
+  ]
+ },
+ "alleluia": {
+  "text": "Nemcsak kenyérrel él az ember, hanem minden igével is, mely Isten ajkáról való.",
+  "cite": "Mt 4,4b",
+  "lent": true
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Jézus a helyes imádkozásra tanítja övéit.",
+  "text": "A hegyi beszédben Jézus így szólt tanítványaihoz:\n\n„Amikor imádkoztok, ne szaporítsátok a szót, mint a pogányok Azt hiszik ugyanis, hogy akkor nyernek meghallgatást, ha sokat beszélnek, Ne utánozzátok őket! Hiszen mennyei Atyátok tudja, mire van szükségtek, még mielőtt kérnétek őt. Ti tehát így imádkozzatok:\n\nMi Atyánk, aki a mennyekben vagy,\n\nszenteltessék meg a te neved;\n\njöjjön el a te országod;\n\nlegyen meg a te akaratod,\n\namint a mennyben, úgy a földön is.\n\nMindennapi kenyerünket add meg nekünk ma;\n\nés bocsásd meg vétkeinket,\n\nmiképpen mi is megbocsátunk\n\naz ellenünk vétkezőknek;\n\nés ne vígy minket a kísértésbe,\n\nde szabadíts meg a gonosztól!\n\nMert ha ti megbocsátjátok az embereknek, hogy (ellenetek) vétettek, mennyei Atyátok nektek is megbocsátja bűneiteket. De ha ti nem bocsátotok meg az embereknek, Atyátok sem bocsátja meg nektek bűneiteket.”",
+  "cite": "Mt 6,7-15"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Izajás próféta könyvéből",
+  "summary": "Az isteni szó újjáteremtő erő, amely üdvösségre vezet.",
+  "text": "Prófétája által szól az Úr:\n\nAmint az eső és a hó lehull az égből\n\nés nem tér oda vissza, hanem megöntözi a földet,\n\nés termővé, gyümölcsözővé teszi,\n\nhogy magot adjon a magvetőnek\n\nés kenyeret az éhezőnek,\n\néppen úgy lesz az én szavammal is,\n\namely ajkamról fakad:\n\nNem tér vissza hozzám eredménytelenül,\n\nhanem végbeviszi akaratomat, és eléri, amiért küldtem.",
+  "cite": "Iz 55,10-11"
+ }
+}

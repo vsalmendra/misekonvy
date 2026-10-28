@@ -1,0 +1,33 @@
+{
+ "key": "evkozi-6-3-I",
+ "source_date": "2025-02-19",
+ "rank": "",
+ "day": "6. évközi hét szerda",
+ "psalm": {
+  "cite": "Zsolt 115,12-13.14-15.18-19",
+  "response": "Bemutatom néked, Uram, a dicséret áldozatát.",
+  "verses": [
+   "Vagy: Alleluja. 7. szám.\nAz Úrnak mit adhatnék,\nmindazért, amit nékem adott?\nVeszem az üdvösség kelyhét,\nés az Úr nevét hívom segítségül.",
+   "Vagy: Alleluja.\nAmit az Úrnak fogadtam,\nmegadom egész népének színe előtt.\nDrága dolog az Úr színe előtt\nszentjei dicső halála.",
+   "Vagy: Alleluja.\nMegadom az Úrnak, amit fogadtam,\negész népének színe előtt.\nAz Úr házának udvarán,\na te falaid között, Jeruzsálem.",
+   "Vagy: Alleluja."
+  ]
+ },
+ "alleluia": {
+  "text": "Urunk Jézus Krisztus Atyja világosítsa meg lelki szemünket, hogy megértsük, mily reménységre hívott minket.",
+  "cite": "Vö. Ef 1,17-18"
+ },
+ "gospel": {
+  "book": "Szent Márk",
+  "summary": "Jézus meggyógyítja a betszaidai vakot.",
+  "text": "Jézus és tanítványai egy alkalommal Betszaidába érkeztek. Ott egy vakot vezettek hozzá, és kérték, hogy érintse meg.\n\nŐ kézen fogva kivezette a vakot a faluból. Aztán nyállal megnedvesítette szemét, rátette kezét, és megkérdezte: „Látsz-e valamit?”\n\nAz fölnézett, és így szólt: „Látom az embereket. Olyanok, mintha a fák járkálnának.” Erre ismét rátette kezét a vak szemére. Most már tisztán kezdett látni, és úgy meggyógyult, hogy élesen látott mindent.\n\nEzután hazaküldte, és meghagyta neki: „Erről senkinek se beszélj a faluban!”",
+  "cite": "Mk 8,22-26"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Mózes első könyvéből",
+  "summary": "A vízözön után Noé kiszáll a bárkából és hálaáldozatot mutat be Istennek.",
+  "text": "Miután a bárka megállapodott Ararat hegyén, és előtűntek a hegyormok, negyven nap elmúltával Noé kinyitotta a bárka ablakát, melyet készített, és kibocsátott egy hollót. Az ide-oda szálldogált, amíg a vizek fel nem száradtak a földön.\n\nAzután kibocsátott egy galambot, hogy lássa, elapadt-e már a víz a föld színéről. A galamb nem talált helyet, ahol a lába megpihenhetett volna, azért visszatért hozzá a bárkába; mert még víz állott az egész föld színén. Noé kinyújtotta kezét, megfogta a galambot, és bevette a bárkába.\n\nVárt még másik hét napig, és akkor újra kibocsátott egy galambot a bárkából. Ez estefelé visszatért hozzá, és friss olajágat hozott a csőrében. Megértette tehát Noé, hogy megszűnt a víz a földön. Mégis várt újabb hét napig, azután újra kibocsátott egy galambot, de az már nem tért vissza.\n\nTehát Noé hatszázegyedik életévében, az első hónapban, a hónap első napján leapadtak a vizek a földön. Noé kinyitotta a bárka fedelét, és meggyőződött róla, hogy felszikkadt a föld felszíne.\n\nEkkor oltárt épített az Úrnak. Vett minden tiszta állatból és minden tiszta madárból, és egészen elégő áldozatot mutatott be az oltáron.\n\nAz Úr szívesen fogadta az áldozatot, és megígérte: „Nem átkozom meg többé a földet az ember miatt. Az emberi szív érzése és gondolata ifjúságától fogva hajlik a rosszra, de nem sújtom többé az összes élőlényeket, amint tettem. Amíg tartanak a föld napjai, nem szűnik meg többé a vetés és az aratás, a hideg és a meleg, a nyár és a tél, a nappal és az éjszaka váltakozása.”",
+  "cite": "Ter 8,6-13.20-22"
+ }
+}

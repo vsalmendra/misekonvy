@@ -1,0 +1,33 @@
+{
+ "key": "evkozi-23-2-II",
+ "source_date": "2024-09-10",
+ "rank": "",
+ "day": "23. évközi hét kedd",
+ "psalm": {
+  "cite": "Zsolt 149,1-6a.9b",
+  "response": "Népében az Úr kedvét találja, üdvösségre vezeti a szelídeket. 4a. Vers.",
+  "verses": [
+   "Vagy: Alleluja. 3. szám.\nAz Úrnak új dalt énekeljetek,\na szentek közösségében zengjen dicsérete.\nTeremtőjének örvendjen Izrael,\nés Sion gyermekei ujjongjanak királyuknak.",
+   "Vagy: Alleluja.\nNevét körtánccal dicsérjék:\nzengjen a zsoltár dobbal és citerával.\nNépében az Úr kedvét találja,\nüdvösségre vezeti a szelídeket.",
+   "Vagy: Alleluja.\nÖrvendjenek a szentek dicsőségükben,\npihenőhelyükön is ujjongjanak.\nIsten magasztalása zeng az ajkukon,\nösszes szentjeinek ez lesz dicsősége.",
+   "Vagy: Alleluja."
+  ]
+ },
+ "alleluia": {
+  "text": "Jézus mondja: „Én kiválasztottalak titeket a világból, hogy menjetek és termést hozzatok, és termésetek meg is maradjon.”",
+  "cite": "Jn 15,16"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Jézus egy imádságban töltött éjszaka után kiválasztja tizenkét apostolát.",
+  "text": "Jézus egyszer fölment egy hegyre imádkozni. Az egész éjszakát Isten imádásában töltötte.\n\nMásnap magához hívta tanítványait, és kiválasztott közülük tizenkettőt, akiket apostoloknak nevezett: Simont, akit Péternek is hívott, és testvérét, Andrást; Jakabot és Jánost, Fülöpöt és Bertalant, Mátét és Tamást; Jakabot, Alfeus fiát és a buzgó Simont; Júdást, Jakab fiát, továbbá karióti Júdást, aki később elárulta őt.\n\nAzután lement velük, és egy sík mezőn megállt. Ott nagy csoport tanítvány sereglett köréje, és hatalmas tömeg vette körül Júdeából, Jeruzsálemből, Tírusz és Szidon tengerparti vidékéről. Ezek azért gyűltek össze, hogy hallgassák őt, és gyógyulást nyerjenek betegségükből. Meggyógyultak azok is, akiket tisztátalan lelkek gyötörtek. Az egész tömeg érinteni akarta őt, mert erő áradt ki belőle, és mindenkit meggyógyított.",
+  "cite": "Lk 6,12-19"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a korintusiakhoz írt első leveléből",
+  "summary": "A keresztény ember ne pereskedjék keresztény testvérével!",
+  "text": "Testvéreim!\n\nHa valaki közületek pereskedik, hogyan merészeli a nem hívőknél keresni igazát, és nem a közösség tagjainál? Nem tudjátok-e, hogy a szentek ítélkeznek majd a világ felett? És ti, ha majd a világ felett ítélkeztek, nem vagytok-e jogosultak arra, hogy csekélyebb dolgokban is ítélkezzetek? Nem tudjátok-e, hogy angyalok felett fogunk ítélkezni? Mennyivel inkább tehát a mindennapi ügyekben.\n\nVajon amikor mindennapi ügyekben pereskedtek, azokat teszitek meg bírónak, akik a közösségben jelentéktelenek? Azért mondom ezt, hogy szégyenkezzetek. Hát nem akad köztetek egyetlen értelmes ember sem, aki testvérei ügyében döntőbíró lenne? Ehelyett a testvér a testvérével pereskedik, méghozzá hitetlenek előtt!\n\nMár az is hiba nálatok, hogy peres ügyeitek vannak egymással. Miért nem viselitek el inkább az igazságtalanságot? Miért nem tűritek el inkább a károsodást? Ehelyett ti követtek el igazságtalanságot, és okoztok kárt, mégpedig a testvéreknek! Nem tudjátok-e, hogy a gonoszoknak nem lesz részük Isten országában?\n\nNe ámítsátok magatokat! Sem parázna, sem bálványimádó, sem házasságtörő, sem kéjelgő, sem fajtalan, sem tolvaj, sem kapzsi, sem részeges, sem átkozódó, sem rabló nem részesül Isten országában. Néhányan bizony ilyenek voltatok, de az Úr Jézus nevében, a Szentlélek által megtisztultatok, megszentelődtetek és megigazultatok.",
+  "cite": "1Kor 6,1-11"
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "key": "evkozi-11-1-I",
+ "source_date": "2025-06-16",
+ "rank": "",
+ "day": "11. évközi hét hétfő",
+ "psalm": {
+  "cite": "Zsolt 97,1.2-3ab.3cd-4",
+  "response": "Megmutatta az Úr nékünk üdvözítő jóságát.",
+  "verses": [
+   "Zengjetek az Úrnak új éneket,\ncsodálatra méltó, amit művelt.\nDiadalt aratott jobbjával,\ngyőzelmet Szentséges karjával.",
+   "Az Úr megmutatta szabadító erejét,\nigazságosságát feltárta a népek előtt.\nEmlékezetébe idézte jóságát és hűségét\nIzrael népe iránt.",
+   "Meglátta a föld minden határa,\nszabadulást Istenünk hozott nekünk.\nMinden földek, zengjetek az Úrnak öröméneket,\nujjongjatok és zsoltárt mondjatok."
+  ]
+ },
+ "alleluia": {
+  "text": "Lámpás a te igéd lábam előtt, és ösvényem világossága.",
+  "cite": "Zsolt 118,105"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "A rosszindulatot ne viszonozd rosszindulattal!",
+  "text": "Jézus a hegyi beszédben így szólt tanítványaihoz:\n\nHallottátok, hogy a régieknek ezt mondták: „Szemet szemért, fogat fogért.” Én pedig azt mondom nektek: Ne szálljatok szembe a gonosszal, hanem ha valaki arcul üt téged jobb felől, tartsd oda neki a bal arcodat. Aki perbe fog, hogy elvegye a ruhádat, annak add oda a köntösödet is. És ha valaki egy mérföldnyire kényszerít, menj vele kétannyira. Adj annak, aki kér, és aki kölcsönt akar, el ne fordulj tőle.",
+  "cite": "Mt 5,38-42"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a korintusiakhoz írt második leveléből",
+  "summary": "Minden helyzetben úgy viselkedjünk, amint Isten szolgáihoz illik; példaképül szolgáljon Pál apostol áldozatos élete!",
+  "text": "Testvéreim!\n\nKrisztus munkatársaként figyelmeztetünk titeket: Ne legyen bennetek hiábavaló az Isten kegyelme!\n\nEzt mondja ugyanis az Úr: „Amikor az időt alkalmasnak látom, meghallgatlak. Ha eljön az üdvösség napja, megsegítlek.” Most van itt az alkalmas idő, most van itt az üdvösség napja.\n\nMi nem adunk semmiféle okot megütközésre, hogy ne gúnyolhassák szolgálatunkat! Úgy viselkedünk minden helyzetben, mint Isten szolgái! Nagy türelemmel viseljük a nyomorúságot, a szükséget, és a szorongatást! Vállaljuk, hogy megverjenek, börtönbe zárjanak és tüntessenek ellenünk!\n\nFáradunk, virrasztunk, böjtölünk!\n\nSzolgálunk feddhetetlen élettel, tudással, türelemmel, a Szentlélekben, őszinte szeretettel!\n\nHirdetjük az igazságot Isten erejével, harcolunk az igaz ügyért, és védjük minden erőnkkel:\n\nakár siker ér, akár kudarc,\n\nakár gyalázat, akár dicséret!\n\nCsalónak mondhatnak, mégis igazak vagyunk; ismeretlenek lehetünk, mégis jól ismernek; meghalhatunk, és mégis élünk; megfenyíthetnek, mégsem halunk bele.\n\nMegszomoríthatnak, mégis folyton derűsek vagyunk; szegények vagyunk, mégis sok embert gazdagítunk; semmink sincsen, mégis a miénk minden.",
+  "cite": "2Kor 6,1-10"
+ }
+}

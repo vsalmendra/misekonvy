@@ -1,0 +1,39 @@
+{
+ "key": "evkozi-30-vas-C",
+ "source_date": "2025-10-26",
+ "rank": "",
+ "day": "Évközi 30. vasárnap",
+ "psalm": {
+  "cite": "Zsolt 33,2-3.17-18.19 és 23",
+  "response": "A szegény felkiáltott az Istenhez, és Isten meghallgatta őt.",
+  "verses": [
+   "Minden időben áldom az Urat,\ndicséretét szüntelenül zengi ajkam.\nLelkem az Úrban dicsekszik,\nhallják meg a szelídek és örvendezzenek.",
+   "Az Úr arcát a gonoszok ellen fordítja,\nemléküket is eltörli a földről.\nKiáltottak az igazak, és az Úr meghallgatta őket,\nés minden szorongatásból megszabadultak.",
+   "Közel van az Úr azokhoz, kik töredelmes szívűek,\nés szabadulást hoz a megtört lelkeknek.\nAz Úr megváltja szolgáinak lelkét,\nés nem bűnhődnek, kik őbenne bíznak."
+  ]
+ },
+ "alleluia": {
+  "text": "Isten Krisztusban kiengesztelődött a világgal, és ránk bízta a kiengesztelődés igéit.",
+  "cite": "2Kor 5,19"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Aki magát megalázza, azt dicsőségre emelik.",
+  "text": "Abban az időben:\n\nAz elbizakodottaknak, akik magukat igaznak tartották, másokat pedig\n\nmegvetettek, Jézus ezt a példabeszédet mondta:\n\n„Két ember fölment a templomba imádkozni, az egyik farizeus volt, a\n\nmásik vámos.\n\nA farizeus megállt, és így imádkozott magában: »Istenem, hálát adok\n\nneked, hogy nem vagyok olyan, mint a többi ember, rabló, igazságtalan,\n\nházasságtörő, mint ez a vámos is. Kétszer böjtölök hetenként, és\n\ntizedet adok mindenből, amim van.«\n\nA vámos pedig távolabb állt meg, és a szemét sem merte az égre\n\nemelni, hanem a mellét verve így szólt: »Istenem, légy irgalmas nekem\n\nbűnösnek.«\n\nMondom nektek, hogy ez megigazultan ment haza, amaz viszont nem. Mert\n\nmindazt, aki magát felmagasztalja, megalázzák, aki pedig megalázza\n\nmagát, azt felmagasztalják.”",
+  "cite": "Lk 18,9-14"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Sirák fia könyvéből",
+  "summary": "Az alázatos ember imáját meghallgatja Isten.",
+  "text": "Az Úr igaz bíró: nem nézi az ember személyét,\n\nnem részrehajló a szegény kárára;\n\ns meghallgatja azt, aki a balsorsban kéri őt.\n\nNem utasítja el az árvák könyörgését,\n\nsem az özvegyet, ha tele van panasszal.\n\nAki szívből szolgálja, azt elfogadja az Úr,\n\naz ilyenek imádsága a felhőkig hatol.\n\nA nyomorgók jajszava áthatol a felhőkön,\n\nés nem csendesül, míg el nem éri célját.\n\nNem tágít, amíg rá nem tekint a Fölséges,\n\nés míg nem szolgáltat neki igazságot.\n\nÉs az Úr nem késlekedik.",
+  "cite": "Sir 35,15b-17.20-22a"
+ },
+ "reading2": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak Timóteushoz írt második leveléből",
+  "summary": "Aki hűségesen harcol hitéért, elnyeri az örök élet koronáját.",
+  "text": "Szeretett Fiam!\n\nAz én véremet nemsokára kiontják áldozatul. Eltávozásom ideje közel\n\nvan. A jó harcot megharcoltam, a pályát végigfutottam, a hitet\n\nmegtartottam.\n\nKészen vár rám az igazság győzelmi koszorúja, amelyet az Úr, az\n\nigazságos Bíró megad nekem azon a napon. De nemcsak nekem, hanem\n\nmindenkinek, aki örömmel várja az ő eljövetelét.\n\nElső védekezésem alkalmával senki sem állt pártomra, mindenki\n\ncserbenhagyott. Ne számítson nekik bűnül!\n\nÁm az Úr mellém állt, és erőt öntött belém, hogy befejezzem az\n\nevangélium hirdetését, és tudomást szerezzen róla minden pogány. Így\n\nmegmenekültem az oroszlán torkából.\n\nSőt, az Úr ezután is megszabadít minden gonosz cselvetéstől, és\n\nátment mennyei országába. Dicsőség legyen neki mindörökké! Ámen.",
+  "cite": "2Tim 4,6-8.16-18"
+ }
+}

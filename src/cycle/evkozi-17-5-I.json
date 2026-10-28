@@ -1,0 +1,32 @@
+{
+ "key": "evkozi-17-5-I",
+ "source_date": "2025-08-01",
+ "rank": "",
+ "day": "17. évközi hét péntek",
+ "psalm": {
+  "cite": "Zsolt 80,3-4.5-6ab.10-11ab",
+  "response": "Örvendjetek Istennek, a mi segítőnknek!",
+  "verses": [
+   "Csendüljön a zsoltár, hozzatok dobot,\nlágyhangú hárfát citerával.\nFújjátok meg a harsonát újholdkor,\nholdtöltekor, a mi nagy ünnepünkön.",
+   "Izraelben ez a törvény,\nígy rendelte ezt Jákob Istene.\nŐ hagyta meg ezt Józsefnek,\namikor kivonult Egyiptom földjéről.",
+   "Ne legyen soha más istened,\nés ne imádj soha idegen istent,\nmert én vagyok a te Urad, Istened,\naki kivezetett téged Egyiptom földjéről."
+  ]
+ },
+ "alleluia": {
+  "text": "Az Úr igéje örökké megmarad, ez az a tanítás, amelyet hirdettek nektek.",
+  "cite": "1Pét 1,25"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "A názáretiek hitetlen magatartása Jézussal szemben.",
+  "text": "Tanító körútján Jézus az ő városába, Názáretbe érkezett, és ott tanított a zsinagógában.\n\nHallgatói csodálkoztak, és így beszéltek róla: „Honnan van ennek a bölcsessége és csodatevő ereje? Hát nem az ács fia ez? És nem Mária az anyja? Nemde Jakab, József, Simon és Júdás az (unoka)fivérei? És nem itt élnek-e közöttünk az (unoka)nővérei is? Honnét vette hát mindezt?” És csak botránkoztak rajta.\n\nJézus erre így szólt: „Sehol sem becsülik kevesebbre a prófétát, mint szülőföldjén és otthonában.”\n\nHitetlenségük miatt nem is művelt ott sok csodát.",
+  "cite": "Mt 13,54-58"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Mózes harmadik könyvéből",
+  "summary": "A választott népnek mindig meg kell tartania az Úr nagy és szent ünnepeit.",
+  "text": "Az Úr így szólt Mózeshez: „Ezek lesznek az Úr ünnepei, a szent összejövetelek, amelyeket a maguk idejében meg kell tartanotok. Az első hónapban, annak tizennegyedik napján estefelé van az Úr húsvéti átvonulása. A hónap tizenötödik napján pedig a kovásztalan kenyerek ünnepe van az Úr tiszteletére. Hét napon át kovásztalan kenyeret egyetek! Az első nap nagy és szent legyen számotokra, semmiféle szolgai munkát ne végezzetek rajta! Mind a hét napon égőáldozatot mutassatok be az Úrnak! A hetedik nap ismét nagy és szent legyen, semmiféle szolgai munkát ne végezzetek rajta!”\n\nMajd így beszélt az Úr Mózeshez: „Szólj Izrael fiaihoz, és mondd nekik: Ha majd bejuttok arra a földre, amelyet adok nektek, és learatjátok a termést, vigyetek egy kalászos kévét aratástok zsengéjeként a paphoz, s ő ajánlja fel a szombat után következő napon az Úrnak, és szentelje meg, hogy az Úr kedvesen fogadja tőletek!\n\nSzámláljatok azután a szombatot követő naptól, amelyen az első kévét felajánlottátok, hét teljes hetet a hetedik hét eltelte után következő napig, azaz ötven napot, és akkor mutassatok be új ételáldozatot az Úrnak!\n\nA hetedik hónap tizedik napján az engesztelés nagy ünnepe legyen! Nevezzétek szentnek ezt a napot, böjtöljetek, és mutassatok be égőáldozatot az Úrnak!\n\nA hetedik hónap tizenötödik napjától fogva hét napon át sátoros ünnepet tartsatok az Úrnak! Az első napot nagynak és szentnek hívjátok: semmiféle szolgai munkát ne végezzetek! Mind a hét napon mutassatok be égőáldozatot az Úrnak! A nyolcadik nap ismét nagy és szent legyen! Mutassatok be égőáldozatot az Úrnak, mert az a szent összejövetel napja; semmiféle szolgai munkát ne végezzetek!” Ezek az Úrnak ünnepei, amelyeket nagynak és szentnek kell hívnotok, és amelyeken égőáldozatokat, egészen elégő áldozatokat és ételáldozatokat kell bemutatnotok az Úrnak aszerint, amint azt az egyes napok szertartása megszabja.",
+  "cite": "Lev 23,1.4-11.15-16.27.34b-37"
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "key": "evkozi-13-1-II",
+ "source_date": "2024-07-01",
+ "rank": "",
+ "day": "13. évközi hét hétfő",
+ "psalm": {
+  "cite": "Zsolt 49,l6bc-17.18-19.20-21.22-23",
+  "response": "Szálljatok mind magatokba, akik Istent feledtétek!",
+  "verses": [
+   "A gonoszhoz így beszél Isten: † „Törvényeimet miért emlegeted,\nés miért veszed ajkadra szövetségem?\nHiszen gyűlölöd a törvény fegyelmét,\nhátat fordítasz szavaimnak.”",
+   "„Ha tolvajt láttál, társul szegődtél,\na házasságtörővel szövetkeztél.\nSzádból gonosz beszéd árad,\ncsalárdságot sző a nyelved.”",
+   "„Leülsz, és máris gyalázod testvéredet,\nanyád gyermekéről rosszat mondasz.\nÍgy cselekedtél, és én csak hallgattam, † úgy vélted, hogy hozzád hasonló vagyok,\nde felelned kell, mert számon kérlek.”",
+   "„Szálljatok mind magatokba, akik Istent feledtétek,\nkülönben elvesztek, s nincs aki titeket megmenthetne.\nAki tisztel engem, az a dicséret áldozatát hozza, † aki szeplőtelenül járja az élet útját,\nannak mutatom meg Isten dicsőségét.”"
+  ]
+ },
+ "alleluia": {
+  "text": "Bár hallgatnátok ma Isten szavára! Ne legyetek többé keményszívűek!",
+  "cite": "Zsolt 94,8ab"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Aki Krisztust akarja követni, annak vállalnia kell az önmegtagadó életet.",
+  "text": "Amikor Jézus látta, hogy nagy tömeg veszi körül, meghagyta tanítványainak, hogy hajózzanak át a Genezáreti-tó túlsó partjára.\n\nEkkor egy írástudó lépett hozzá, és így szólította meg: „Mester, követlek téged, bárhová mégy.” Jézus figyelmeztette: „A rókáknak odújuk van, az ég madarainak fészkük, de az Emberfiának nincs hová lehajtania fejét.”\n\nEgy másik tanítványa pedig ezt kérte tőle: „Uram, engedd meg, hogy előbb elmenjek, és eltemessem apámat.” Jézus azonban így válaszolt: „Kövess engem, és hagyd a holtakra, hogy eltemessék halottaikat!”",
+  "cite": "Mt 8,18-22"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Ámosz próféta könyvéből",
+  "summary": "Isten az elnyomottnak védelmére kel, a kapzsi elnyomót azonban megbünteti.",
+  "text": "Prófétája által népét így feddi az Úr:\n\nIzraelnek három, sőt négy gonosztette miatt nem változtatom meg szándékomat: mert pénzért eladják az igazat, és egy pár saru miatt a szegényt; a föld porába sújtják a szegényt, és az alacsony sorsúakat eltérítik útjukról.\n\nFiú és apa egy leányhoz járnak, hogy meggyalázzák szent nevemet.\n\nZálogba vett ruhákon fekszenek minden oltár közelében, és az elítéltek borát isszák Istenük házában.\n\nHolott én irtottam ki színük előtt az amoritákat, akik magasak voltak, mint a cédrus, és olyan erősek, mint a tölgyfa, én mégis megsemmisítettem fölül a gyümölcsüket, és alul a gyökerüket.\n\nÉn hoztalak fel titeket Egyiptom földjéről, és vezettelek a pusztában negyven éven keresztül, hogy elfoglaljátok az amoriták földjét.\n\nÍme, én rátok nehezedem, ahogy a kévével rakott szekér a földre nehezedik; nem lesz menedéke a gyors futónak, az erős nem ér el erejével semmit sem, és a bátor sem menti meg életét.\n\nAz íjász nem áll helyt, a gyors lábú nem menekül meg, és a lovas nem menti meg életét.\n\nA hősök között a legbátrabb szívű is ruhátlanul menekül azon a napon – mondja az Úr.",
+  "cite": "Ám 2,6-10.13-16"
+ }
+}

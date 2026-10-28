@@ -1,0 +1,40 @@
+{
+ "key": "evkozi-7-vas-C",
+ "source_date": "2025-02-23",
+ "rank": "",
+ "day": "Évközi 7. vasárnap",
+ "psalm": {
+  "cite": "Zsolt 102,1-2.3-4.8 és 10.12-13",
+  "response": "Irgalmas a mi Urunk, Istenünk: könyörületre hajlik szíve.",
+  "verses": [
+   "Áldjad, lelkem, az Urat,\negész bensőm az ő szent nevét áldja.\nÁldjad, lelkem, az Urat,\nés ne feledd, hogy hozzád milyen jó volt.",
+   "Megbocsátja minden vétked,\nmeggyógyítja minden gyengeséged.\nA pusztulástól megmenti életed,\nkegyelmében és irgalmában meg is koronázza.",
+   "Irgalmas és kegyes a mi Istenünk:\nnagy irgalmú és hosszan tűrő.\nNem bűneink szerint bánik velünk,\nés nem gonoszságunk szerint fizet vissza nekünk.",
+   "Amilyen messze van napkelettől a napnyugat,\nbűneinket olyan messze dobja tőlünk.\nAhogyan az atya megkönyörül fiain,\núgy könyörül meg az Úr az istenfélőn."
+  ]
+ },
+ "alleluia": {
+  "text": "Jézus mondja: „Új parancsot adok néktek, szeressétek egymást, amint én szerettelek titeket!”",
+  "cite": "Jn 13,34"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Legyetek irgalmasok, amint atyátok is irgalmas.",
+  "text": "Jézus a hegyi beszédben így szólt tanítványaihoz:\n\n„Nektek, akik hallgattok engem, ezt mondom: Szeressétek\n\nellenségeiteket, tegyetek jót azokkal, akik gyűlölnek titeket. Azokra,\n\nakik átkoznak titeket, mondjatok áldást, és imádkozzatok\n\nrágalmazóitokért. Ha arcul üt valaki, tartsd oda a másik arcodat is.\n\nAnnak, aki elveszi köntösödet, add oda a ruhádat is. Mindenkinek, aki\n\nkér tőled, adj, és aki elviszi, ami a tied, attól ne kérd vissza. Úgy\n\nbánjatok az emberekkel, ahogy szeretnétek, hogy veletek is bánjanak.\n\nMert ha csak azokat szeretitek, akik titeket is szeretnek, milyen\n\njutalmat várhattok érte Istentől? Hisz a bűnösök is szeretik azokat,\n\nakik őket szeretik. Ha csak azokkal tesztek jót, akik veletek is jót\n\ntesznek, milyen jutalmat érdemeltek? Hisz ezt a bűnösök is megteszik.\n\nHa csak a visszafizetés reményében adtok kölcsönt, milyen hálára\n\nszámíthattok? A bűnösök is kölcsönöznek a bűnösöknek, hogy ugyanannyit\n\nkapjanak vissza.\n\nSzeressétek inkább ellenségeiteket: tegyetek jót, adjatok kölcsön, és\n\nsemmi viszonzást ne várjatok. Így nagy jutalomban részesültök, és fiai\n\nlesztek a Magasságbelinek, hisz ő is jóságos a hálátlanok és a gonoszok\n\niránt. Legyetek tehát irgalmasok, amint Atyátok is irgalmas.\n\nNe mondjatok ítéletet senki fölött, s akkor fölöttetek sem ítélkeznek.\n\nNe ítéljetek el senkit, s akkor titeket sem ítélnek el. Bocsássatok\n\nmeg, és nektek is megbocsátanak. Adjatok, és akkor ti is kaptok. Jó,\n\ntömött, megrázott és túlcsorduló mértékkel mérnek öletekbe. Mert\n\namilyen mértékkel ti mértek, olyannal mérnek majd nektek is.”",
+  "cite": "Lk 6,27-38"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Sámuel első könyvéből",
+  "summary": "Dávid megkíméli ellenfelének, Saul királynak életét.",
+  "text": "Saul féltette hatalmát Dávidtól. Ezért Saul háromezer férfival,\n\nIzrael legjavával elindult, hogy felkutassa Dávidot Szif pusztájában.\n\nDávid tudomást szerzett Saul érkezéséről. Egy éjszaka Dávid és Abisáj\n\nmegközelítették Saul táborát. Sault alva találták a táborban. Lándzsája\n\na fejénél a földbe volt szúrva. Abner és a csapat körülötte aludt.\n\nEkkor Abisáj azt mondta Dávidnak: „Isten ma kezedbe adta ellenségedet.\n\nLándzsával odaszögezem a földhöz, egyetlen döféssel. Másodikra már nem\n\nlesz szükség!” Dávid azonban így felelt Abisájnak: „Ne öld meg, mert\n\nsenki sem büntetlen, aki az Úr fölkentjére emeli kezét!”\n\nEzzel Dávid Saul feje mellől elvette a lándzsát meg a vizeskorsót, és\n\neltávoztak anélkül, hogy valaki látta vagy észrevette volna őket, vagy\n\npedig fölébredt volna. Mindnyájan aludtak, mert az Úr mély álmot\n\nbocsátott rájuk.\n\nAmikor Dávid a szemközti oldalra ért, jó messze megállt egy hegy\n\ntetején, úgy, hogy nagy távolság volt köztük.\n\nDávid átkiáltott innen Saul táborába: „Nézzétek, itt a király\n\nlándzsája. Jöjjön át valamelyik szolga és vigye el. Az Úr mindenkinek\n\nmegfizet igazságosságában és hűségében. Az Úr ma kezembe adott, de nem\n\nakartam kezet emelni az Úr fölkentjére.”",
+  "cite": "1Sám 26,2.7-9.12-13.22-23"
+ },
+ "reading2": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a korintusiakhoz írt első leveléből",
+  "summary": "Ahogy hasonlítunk földi képmásunkhoz Ádámhoz, ugyanúgy hasonlítani fogunk égi képmásunkban Krisztushoz is.",
+  "text": "Testvéreim!\n\nAz Írás mondja: „Ádám, az első ember élő lénnyé lett”,\n\naz utolsó Ádám pedig éltető lélekké.\n\nDe nem a szellemi az első, hanem az érzéki, azután következik a\n\nszellemi. Az első ember a földből való, földi, a második ember a\n\nmennyből való, (mennyei). Amilyen a földből való, olyanok a földiek is,\n\nés amilyen a mennyből való, olyanok a mennyeiek is.\n\nEzért, ahogy a földi ember alakját magunkon hordozzuk, úgy a\n\nmennyeinek az alakját is magunkon fogjuk hordozni.",
+  "cite": "1Kor 15,45-49"
+ }
+}

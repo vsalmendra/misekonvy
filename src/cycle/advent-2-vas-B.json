@@ -1,0 +1,39 @@
+{
+ "key": "advent-2-vas-B",
+ "source_date": "2023-12-10",
+ "rank": "",
+ "day": "Advent 2. vasárnapja",
+ "psalm": {
+  "cite": "Zsolt 84,9ab-10,11-12.13-14",
+  "response": "Urunk, mutasd meg nékünk irgalmas szívedet, és üdvösségedet add meg nékünk!",
+  "verses": [
+   "Hadd halljam, mit mond az én Uram, Istenem,\nmert népének és szentjeinek békét ígér.\nAz istenfélőkhöz valóban közel az üdvösség,\nhogy országunkba dicsőség költözzék.",
+   "Irgalom és hűség egymásra lelnek,\ncsókot vált az igazság és a béke.\nA földből a hűség kisarjad,\nés az igazságosság tekint le az égből.",
+   "Az Úr jóságát megmutatja,\nföldünk is meghozza termését.\nIgazság jár az Úr előtt,\nés béke a lába nyomában."
+  ]
+ },
+ "alleluia": {
+  "text": "Készítsétek elő az Úr útját! Egyengessétek ösvényét, és minden ember meglátja az Üdvözítőt, akit elküld az Isten.",
+  "cite": "Lk 3,4.6"
+ },
+ "gospel": {
+  "book": "Szent Márk",
+  "summary": "Keresztelő János hirdeti: Tegyétek egyenessé az Úr ösvényeit!",
+  "text": "Jézus Krisztus, az Isten Fia evangéliumának kezdete. Izajás próféta megírta: Íme, elküldöm követemet színed előtt, hogy előkészítse utadat. A pusztában kiáltónak szava: Készítsétek el az Úr útját, tegyétek egyenessé ösvényeit. János ezért a pusztában hirdette a bűnbánat keresztségét a bűnök bocsánatára. Kivonult hozzá Júdea egész vidéke és Jeruzsálem minden lakója. Megvallották bűneiket, ő pedig megkeresztelte őket a Jordán folyóban. János teveszőrből készült ruhát viselt, csípőjét bőröv vette körül; sáskát és vadmézet evett. Ezt hirdette: „Aki utánam jön, hatalmasabb nálam. Arra sem vagyok méltó, hogy lehajoljak és megoldjam a saruszíját. Én vízzel keresztellek titeket, ő pedig Szentlélekkel keresztel majd meg benneteket!”",
+  "cite": "Mk 1,1-8"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Izajás próféta könyvéből",
+  "summary": "Készítsük az Úr útját a magunk és embertársaink szívében!",
+  "text": "„Vigasztaljátok meg népemet, vigasztaljátok meg” – ezt mondja Istenetek. „Szóljatok Jeruzsálem szívéhez és kiáltsátok oda neki: Véget ért szolgaságának ideje, bocsánatot nyert gonoszsága, hiszen kétszeresen sújtotta az Úr keze minden bűnéért.”\n\nEgy hang kiált: „Készítsetek utat az Úrnak a pusztában, egyengessétek Istenünk ösvényét a sivatagon át. Minden völgy emelkedjék föl, minden hegy és halom süllyedjen alá. Ami egyenetlen, váljék egyenessé, és sima úttá, ami göröngyös. Akkor megnyilvánul az Úr dicsősége, és meglátják azt mindenek. Igen, az Úr szája mondta ezt így.”\n\nMenj föl egy magas hegyre, te, ki jó hírt viszel Sionnak, emeld föl erősen hangodat, te, aki jó hírt viszel Jeruzsálemnek. Emeld föl hangodat! Ne félj! Hirdesd Júda városainak: „Íme, a ti Istenetek! Isten, az Úr, íme, eljön hatalommal, karjával mindent uralma alá vet. Vele van győzelmének jutalma, és színe előtt a bőséges zsákmány. Úgy legelteti nyáját, mint a pásztor. Karjaiba veszi bárányait, ölében hordozza őket, az anyajuhokat pedig nagy gonddal vezeti.”",
+  "cite": "Iz 40,1-5.9-11"
+ },
+ "reading2": {
+  "label": "Szentlecke",
+  "sub": "Szent Péter apostol második leveléből",
+  "summary": "Mi új eget és új földet várunk.",
+  "text": "Szeretteim!\n\nFőképp egy dolog ne kerülje el figyelmeteket: az, hogy egy nap az Úr előtt annyi, mint ezer év, ezer év pedig annyi, mint egy nap. Az Úr nem késik ígéretével, mint ahogy némelyek késedelmesnek tartják, hanem türelemmel viseltetik irántatok, mert nem akarja, hogy valaki is elvesszen, hanem azt, hogy mindenki bűnbánatot tartson. Mint a tolvaj, úgy jön el az Úr napja. Ezen a napon az egek nagy robajjal elpusztulnak, az elemek a tűz hevétől felbomlanak, a föld és ami rajta van, elenyészik.\n\nMivel így minden elpusztul, minden tekintetben szentül és vallásosan kell élnetek. Hiszen várjátok és siettetitek az Isten napjának eljövetelét, amikor is az egek lángba borulnak és felbomlanak, az elemek a tűz hevétől megolvadnak. Mi az ő ígérete alapján új eget és új földet várunk, az igazságosság hazáját. Szeretteim, minthogy ezt várjuk, azon legyetek, hogy békességben, tisztán és feddhetetlenül találjon benneteket.",
+  "cite": "2Pét 3,8-14"
+ }
+}

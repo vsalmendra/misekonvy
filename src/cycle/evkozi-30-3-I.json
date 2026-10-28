@@ -1,0 +1,31 @@
+{
+ "key": "evkozi-30-3-I",
+ "source_date": "2025-10-29",
+ "rank": "",
+ "day": "30. évközi hét szerda",
+ "psalm": {
+  "cite": "Zsolt 12,4-5.6",
+  "response": "Irgalmadban bízom, én Uram, Istenem!",
+  "verses": [
+   "Nézz rám, és hallgass meg, én Uram, Istenem!\nTartsd meg szemem ragyogását, ne jöjjön rám halálos álom.\nNe mondhassa ellenségem: „Legyőztem!”\nSanyargatóim se ujjongjanak, hogy ingadozom.",
+   "Én hűségedben bízom,\nszabadíts meg engem, és örvend a szívem.\nÉnekelek majd neked, Uram,\nmert gondomat viseled."
+  ]
+ },
+ "alleluia": {
+  "text": "Isten meghívott minket az evangélium által, hogy részesüljünk Urunk Jézus Krisztus dicsőségében.",
+  "cite": "2Tessz 2,14"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Isten országában napkelettől napnyugatig mindenkinek helye van.",
+  "text": "Abban az időben Jézus Jeruzsálem felé tartott. Útközben tanított a városokban és falvakban, melyeken áthaladt.\n\nValaki megkérdezte tőle: „Uram, kevesen vannak, akik üdvözülnek?”\n\nŐ így válaszolt: „Törekedjetek bemenni a szűk kapun, mert mondom nektek, sokan próbálnak majd bejutni, de nem tudnak.\n\nA ház ura felkel és bezárja az ajtót, ti kint rekedtek, és zörgetni kezdtek az ajtón: »Uram, nyiss nekünk ajtót!« Erre ő azt feleli nektek: »Nem tudom, honnan vagytok.«\n\nAkkor ti bizonygatni kezditek: »Veled ettünk és ittunk, a mi utcánkban tanítottál.« De ő megismétli: »Nem tudom, honnan vagytok. Távozzatok tőlem mind, ti, gonosztevők!«\n\nOtt majd sírás és fogcsikorgatás lesz, amikor látjátok Ábrahámot, Izsákot, Jákobot és mind a prófétákat az Isten országában, magatokat meg kitaszítva onnan.\n\nJönnek majd keletről és nyugatról, északról és délről, és helyet foglalnak az Isten országában, íme, így lesznek az utolsókból elsők, és az elsőkből utolsók!”",
+  "cite": "Lk 13,22-30"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a rómaiakhoz írt leveléből",
+  "summary": "Az istenszerető embernek minden a javára válik.",
+  "text": "Testvéreim!\n\nGyöngeségünkben segítségünkre siet a Lélek, hisz mi még azt sem tudjuk, hogy hogyan kell helyesen imádkozni. A Lélek azonban maga könyörög bennünk, emberi szóval ki nem fejezhető fohászkodással. Isten pedig, aki a szíveket vizsgálja, tudja, hogy mit kíván bennünk a Lélek, mert ő Isten tetszése szerint jár közben a szentekért.\n\nTudjuk, hogy az Istent szeretőknek minden javukra válik, hiszen ő saját elhatározásából választotta ki őket. Akiket ugyanis előre ismert, azokat eleve arra rendelte, hogy Fiának képmását öltsék magukra. Így lesz ő elsőszülött a sok testvér között.\n\nAkiket előre erre rendelt, azokat meg is hívta, akiket meghívott, azokat igazzá tette, akiket pedig igazzá tett, azokat meg is dicsőítette.",
+  "cite": "Róm 8,26-30"
+ }
+}

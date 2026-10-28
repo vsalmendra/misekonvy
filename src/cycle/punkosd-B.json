@@ -1,0 +1,40 @@
+{
+ "key": "punkosd-B",
+ "source_date": "2024-05-19",
+ "rank": "",
+ "day": "Pünkösdvasárnap",
+ "psalm": {
+  "cite": "Zsolt 103,1ab és 24ac.29bc-30.31 és 34",
+  "response": "Áraszd ránk Lelkedet, Istenünk: újítsd meg a föld színét.",
+  "verses": [
+   "Vagy: Alleluja. 8. szám.\nMondj áldást, lelkem, az Úrnak!\nNagy vagy nagyon, én Uram, Istenem.\nMily sokrétű a te műved, Uram!\nteremtményeid betöltik a földet.",
+   "Vagy: Alleluja.\nHa megvonod éltető erődet,\nelpusztulnak és a porba térnek.\nÁm, ha újra kiárasztod lelkedet, életre kelnek,\nés a föld színét megújítod.",
+   "Vagy: Alleluja.\nDicsőség legyen az Úrnak örökkön örökké,\nörül az Úr minden művének.\nLegyen előtte kedves az énekem,\ngyönyörűségemet őbenne találom.",
+   "Vagy: Alleluja."
+  ]
+ },
+ "alleluia": {
+  "text": "Jöjj el, Szentlélek Isten, töltsd el híveid szívét, és szereteted tüzét gyullaszd föl bennünk!",
+  "cite": ""
+ },
+ "gospel": {
+  "book": "Szent János",
+  "summary": "",
+  "text": "Amikor a hét első napján (húsvétvasárnap) beesteledett, Jézus megjelent a tanítványoknak ott, ahol együtt voltak, pedig a zsidóktól való félelmükben zárva tartották az ajtót. Belépett és így szólt hozzájuk: „Békesség nektek!” Miután ezt mondta, megmutatta nekik a kezét és az oldalát. Az Úr láttára öröm töltötte el a tanítványokat. Jézus megismételte: „Békesség nektek! Amint engem küldött az Atya, úgy küldelek én is titeket.” E szavak után rájuk lehelt, és így folytatta: „Vegyétek a Szentlelket! Akinek megbocsátjátok bűneit, az bocsánatot nyer, s akinek nem bocsátjátok meg, az nem nyer bocsánatot.”",
+  "cite": "Jn 20,19-23 vagy Jn 15,26-27;16,12-15"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "az Apostolok Cselekedeteiből",
+  "summary": "",
+  "text": "Amikor elérkezett pünkösd napja, ugyanazon a helyen (az emeleti teremben) mindnyájan együtt voltak az apostolok. Hirtelen zúgás támadt az égből, mintha heves szélvihar közeledett volna, és egészen betöltötte a házat, ahol együtt voltak. Majd lángnyelvek tűntek fel, és szétoszolva leereszkedtek mindegyikükre. Mindannyiukat eltöltötte a Szentlélek, és nyelveken kezdtek beszélni, ahogyan a Lélek indította őket.\n\nEz idő tájt vallásos férfiak tartózkodtak Jeruzsálemben, minden népből az ég alatt. Amikor ez a zúgás támadt, nagy tömeg verődött össze. Nagy volt a megdöbbenés, mert mindenki a saját nyelvén hallotta, amint beszéltek. Nagy meglepetésükben csodálkozva kérdezgették: „Nem Galileából valók mindnyájan, akik itt beszélnek? Hogyan hallhatja hát őket mindegyikünk a saját nyelvén, amelyben született? Mi, pártusok, médek, elamiták; és Mezopotámiának, Judeának, Kappadóciának, Pontusznak, Ázsiának, Frigiának és Pamfiliának lakói; Egyiptomból, a líbiai Ciréne vidékéről és Rómából való zarándokok; zsidók és prozeliták, krétaiak és arabok: mi mindannyian úgy halljuk, hogy a mi nyelvünkön hirdetik Isten csodás tetteit!”",
+  "cite": "ApCsel 2,1-11"
+ },
+ "reading2": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a korintusiakhoz írt első leveléből",
+  "summary": "",
+  "text": "Testvéreim! Senki sem mondhatja magától: „Jézus az Úr!”, csak a Szentlélek által. A lelki adományok ugyan különfélék, a Lélek azonban ugyanaz. A szolgálatok is különfélék, de az Úr ugyanaz. Sokfélék a csodajelek is, de Isten, aki mindenben mindent véghezvisz, ugyanaz. A Lélek ajándékait mindenki azért kapja, hogy használjon vele. A test ugyan egy, de sok tagja van. A testnek ez a sok tagja mégis egy test. Így van ez Krisztussal is. Mi ugyanis mindnyájan egy Lélekben egy testté lettünk keresztségünk által: akár zsidók, akár pogányok, akár rabszolgák, akár szabadok vagyunk. Valamennyiünket ugyanaz a Lélek töltött el.",
+  "cite": "1Kor 12,3b-7.12-13 vagy Gal 5,16-25"
+ }
+}

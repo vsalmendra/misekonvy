@@ -1,0 +1,41 @@
+{
+ "key": "evkozi-21-vas-B",
+ "source_date": "2024-08-25",
+ "rank": "",
+ "day": "Évközi 21. vasárnap",
+ "psalm": {
+  "cite": "Zsolt 33,2-3.16-17.18-19.20-21.22-23",
+  "response": "Ízleljétek és lássátok, milyen édes az Úr!",
+  "verses": [
+   "Minden időben áldom az Urat,\ndicséretét szüntelenül zengi ajkam.\nLelkem az Úrban dicsekszik,\nhallják meg a szelídek és örvendezzenek.",
+   "Az Úr szeme az igazakra tekint,\nés füle meghallja kiáltásukat.\nAz Úr arcát a gonoszok ellen fordítja,\nemléküket is eltörli a földről.",
+   "Kiáltottak az igazak, és az Úr meghallgatta őket,\nés minden szorongatásból megszabadultak.\nKözel van az Úr azokhoz, kik töredelmes szívűek,\nés szabadulást hoz a megtört lelkeknek.",
+   "Az igazak sokat szenvednek,\nde az Úr mindig megmenti őket.\nMegőrzi minden csontjukat,\negy sem törhet össze azokból.",
+   "A gonoszság elveszejti a bűnöst,\nmegbűnhődnek, kik gyűlölik az igazat.\nAz Úr megváltja szolgáinak lelkét,\nés nem bűnhődnek, kik őbenne bíznak."
+  ]
+ },
+ "alleluia": {
+  "text": "Uram, tanításod lélek és élet, örök életet adó igéid vannak.",
+  "cite": "Jn 6,63c.68c"
+ },
+ "gospel": {
+  "book": "Szent János",
+  "summary": "",
+  "text": "Abban az időben Jézus tanítványai közül, akik (szavait) hallották, többen azt mondták: „Kemény beszéd ez. Ugyan ki hallgatja?”\n\nJézus tudta, hogy tanítványai méltatlankodtak miatta, azért így szólt hozzájuk: „Ez megbotránkoztat titeket? Hát ha majd azt látjátok, hogy az Emberfia fölmegy oda, ahol azelőtt volt! A Lélek az, ami életre kelt, a test nem használ semmit. A szavak, amelyeket nektek mondok, Lélek és élet. De vannak közöttetek, akik nem hisznek.” Jézus ugyanis kezdettől fogva tudta, hogy kik nem hisznek benne, és hogy ki fogja őt elárulni.\n\nAztán így folytatta: „Ezért mondtam nektek, hogy senki sem jöhet hozzám, hacsak az Atya meg nem adja neki.” Ettől kezdve tanítványai közül sokan visszahúzódtak, és többé nem jártak vele. Jézus ezért a tizenkettőhöz fordult: „Ti is el akartok menni?” Simon Péter ezt válaszolta neki: „Uram, kihez menjünk? Az örök élet igéi nálad vannak. Mi hittünk, és tudjuk, hogy te vagy az Isten Szentje.”",
+  "cite": "Jn 6,60-69"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Józsue könyvéből",
+  "summary": "",
+  "text": "Józsue egybegyűjtötte Izrael minden törzsét Szichemben, aztán hívatta Izrael véneit, vezéreit, bíráit, tisztségviselőit. Azok felsorakoztak az Úr színe előtt. Józsue ekkor így szólt a néphez: „Ha nem akartok az Úrnak szolgálni, válasszatok most, kinek akartok szolgálni: azoknak az isteneknek-e, akiknek atyáitok szolgáltak Mezopotámiában, vagy az amoriták isteneinek, akiknek most a földjét lakjátok. Mi, én és házam népe az Úrnak szolgálunk.”\n\nA nép így felelt: „Távol legyen tőlünk, hogy elhagyjuk az Urat és más isteneknek szolgáljunk. Az Úr a mi Istenünk, ő vezette ki atyáinkat Egyiptom földjéről, a szolgaság házából. Szemünk láttára ő tette ezeket a nagy csodákat, oltalmazott minket az egész úton, amelyet végigjártunk, s az összes nép között, ahol átvonultunk. Mi is az Úrnak akarunk hát szolgálni, ő a mi Istenünk.”",
+  "cite": "Józs 24,1-2a.15-17.18b"
+ },
+ "reading2": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak az efezusiakhoz írt leveléből",
+  "summary": "",
+  "text": "Testvéreim!\n\nLegyetek egymásnak alárendeltjei Krisztus iránti tiszteletből. Az asszony engedelmeskedjék férjének, akárcsak az Úrnak, mert a férfi feje az asszonynak, ahogy Krisztus feje az Egyháznak: ő ugyanis testének megváltója. Amint tehát az Egyház alá van vetve Krisztusnak, úgy az asszony is mindenben férjének.\n\nFérfiak, szeressétek feleségeteket, ahogy Krisztus is szerette az Egyházat, és feláldozta magát érte, hogy a keresztségben igéje által megtisztítva, megszentelje. Ragyogóvá akarta tenni az Egyházat, amelyen sem szeplő, sem ránc, sem egyéb efféle nincsen, hanem szent és szeplőtelen. Így a férj is köteles szeretni feleségét, mint a saját testét. Aki feleségét szereti, önmagát szereti. A saját testét senki sem gyűlöli, hanem táplálja, gondozza, akárcsak Krisztus az Egyházat. Mi ugyanis tagjai vagyunk testének.\n\n„Ezért az ember elhagyja apját, anyját, feleségéhez csatlakozik, és a kettő egy test lesz.” Nagy titok ez: én Krisztusra és az Egyházra vonatkoztatom.",
+  "cite": "Ef 5,21-32"
+ }
+}

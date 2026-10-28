@@ -1,0 +1,39 @@
+{
+ "key": "evkozi-14-vas-B",
+ "source_date": "2024-07-07",
+ "rank": "",
+ "day": "Évközi 14. vasárnap",
+ "psalm": {
+  "cite": "Zsolt 122,1-2a.2bcd.3-4",
+  "response": "Szemünk az Úrra tekint, amíg csak meg nem könyörül rajtunk.",
+  "verses": [
+   "Szememet hozzád emelem,\nhozzád, aki a mennyben lakozol.\nÍme, miként a szolgák szeme\nuruk kezére figyel.",
+   "Miként a szolgálók szeme úrnőjük kezére, † úgy tekintünk Urunkra, Istenünkre,\namíg csak meg nem könyörül rajtunk.",
+   "Könyörülj rajtunk, Uram, könyörülj rajtunk,\nmert igen elteltünk gyalázattal.\nTúlságosan megtelt a lelkünk\na dúslakodók gúnyolódásával és a kevélyek megvetésével."
+  ]
+ },
+ "alleluia": {
+  "text": "Az Úr Lelke van rajtam, elküldött, hogy a szegényeknek örömhírt vigyek.",
+  "cite": "Lk 4,18"
+ },
+ "gospel": {
+  "book": "Szent Márk",
+  "summary": "",
+  "text": "Abban az időben Jézus hazament Názáretbe. Tanítványai elkísérték. Amikor elérkezett a szombat napja, tanítani kezdett a zsinagógában. Sokan hallgatták, és csodálkozva mondogatták: „Honnét vette ezt? Miféle bölcsesség ez, amely neki adatott? És csodák, amelyeket kezével véghezvisz! Nem az ács ez, Mária fia, Jakab, József, Júdás és Simon rokona? S ugye nővérei is itt élnek közöttünk?” És megbotránkoztak benne.\n\nJézus erre megjegyezte: „Nem vetik meg a prófétát, csak a hazájában, rokonai körében, a saját házában.” Nem is tehetett ott csodát, csupán néhány beteget gyógyított meg, kézrátétellel. Maga is csodálkozott hitetlenségükön.",
+  "cite": "Mk 6,1-6"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Ezekiel próféta könyvéből",
+  "summary": "",
+  "text": "Ezekiel így ír prófétai meghívásáról:\n\nAz Úr megszólított engem, a Lélek eltöltött, lábaimra állított, és\n\nhallottam, amint az Úr beszélt hozzám.\n\nEzt mondta nekem: „Emberfia, elküldelek Izrael fiaihoz, a\n\nlázadókhoz, akik fellázadtak ellenem. Ők és atyáik lázadoztak ellenem\n\nmind a mai napig. Fiaiknak kemény a fejük és megátalkodott a szívük.\n\nHozzájuk küldelek, hogy mondd meg nekik: Ezt mondja az Úr, az Isten.\n\nAkár meghallgatják, akár nem hallgatják – mert hiszen lázadó nemzedék\n\nez –, megtudják, hogy próféta van közöttük.”",
+  "cite": "Ez 2,2-5"
+ },
+ "reading2": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a korintusiakhoz írt második leveléből",
+  "summary": "",
+  "text": "Testvéreim! Hogy a nagyszerű kinyilatkoztatás elbizakodottá ne tegyen, tövist kaptam testembe, a sátán angyalát, hogy arcul verjen, és el ne bízzam magam. Háromszor kértem ezért az Urat, hogy szabadítson meg tőle, de azt felelte: „Elég neked az én kegyelmem. Mert az erő a gyöngeségben nyilvánul meg a maga teljességében.”\n\nEzért legszívesebben a gyöngeségeimmel dicsekszem, hogy Krisztus ereje lakjék bennem. Kedvem telik a Krisztusért való gyöngeségben, gyalázatban, nélkülözésben üldöztetésben és szorongattatásban, mert amikor gyönge vagyok, akkor vagyok erős.",
+  "cite": "2Kor 12,7-10"
+ }
+}

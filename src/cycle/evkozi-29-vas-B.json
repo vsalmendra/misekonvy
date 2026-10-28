@@ -1,0 +1,39 @@
+{
+ "key": "evkozi-29-vas-B",
+ "source_date": "2024-10-20",
+ "rank": "",
+ "day": "Évközi 29. vasárnap – Missziós vasárnap",
+ "psalm": {
+  "cite": "Zsolt 32,4-5.18-19.20.22",
+  "response": "Kegyes szemed legyen rajtunk, tebenned van bizodalmunk.",
+  "verses": [
+   "Sziklaszilárd az Úr igéje,\nminden tettét hűség vezeti.\nAz igazlelkűséget és a törvényt szereti,\ntelve van a föld az Úr irgalmával.",
+   "Az istenfélőkre ügyel az Úr szeme,\nakik bíznak az ő irgalmában.\nMegmenti lelküket a haláltól,\nés táplálja őket éhínség idején.",
+   "Az Úrra hagyatkozik lelkünk,\nő a segítőnk, és ő a mi oltalmunk.\nKegyes szemed legyen rajtunk,\ntebenned van bizodalmunk."
+  ]
+ },
+ "alleluia": {
+  "text": "Az Emberfia azért jött, hogy szolgáljon, és az életét sokakért váltságul adja.",
+  "cite": "Mk 10,45"
+ },
+ "gospel": {
+  "book": "Szent Márk",
+  "summary": "",
+  "text": "Abban az időben: Zebedeus fiai, Jakab és János odamentek Jézushoz, és ezt mondták: „Mester, szeretnénk, ha megtennéd nekünk, amit kérünk.” Ő megkérdezte: „Mit kívántok, mit tegyek nektek?” Ezt felelték: „Add meg nekünk, hogy egyikünk a jobbodon, másikunk a bal oldaladon üljön a te dicsőségedben.” Jézus így válaszolt: „Nem tudjátok, mit kértek. Tudtok-e inni a kehelyből, amelyből én iszom, vagy meg tudtok-e keresztelkedni a keresztséggel, amellyel én megkeresztelkedem?” Azt felelték: „Meg tudjuk tenni!” Jézus így folytatta: „A kehelyből, amelyből én iszom, ti is inni fogtok, s a keresztséggel, amellyel megkeresztelkedem, ti is megkeresztelkedtek. De hogy a jobb és bal oldalamon ki üljön, azt nem én döntöm el. Az a hely azokat illeti, akiknek készült.” Amikor a többi tíz ezt hallotta, megnehezteltek Jakabra és Jánosra.\n\n* Ezért Jézus odahívta őket magához, és így szólt hozzájuk: „Tudjátok, hogy akiket a világ urainak tartanak, azok zsarnokoskodnak a népeken, és vezető embereik éreztetik velük hatalmukat. De közöttetek ez ne így legyen. Ha valaki közületek ki akar tűnni, legyen a szolgátok, és ha valaki közületek első akar lenni, legyen mindenkinek a szolgája. Hisz az Emberfia nem azért jött, hogy szolgáljanak neki, hanem hogy ő szolgáljon, és életét adja váltságul sokakért.”",
+  "cite": "Mk 10,35-45"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Izajás próféta könyvéből",
+  "summary": "",
+  "text": "A próféta ezt mondja az eljövendő Üdvözítőről: Úgy tetszett az Úrnak, hogy összetöri szenvedéssel. Ha odaadja életét engesztelő áldozatul: látni fogja utódait, hosszúra nyúlik élete, és teljesül általa az Úr akarata. Majd ha véget ér lelkének gyötrelme, látni fogja a világosságot és megelégedés tölti el. Igaz szolgám sokakat igazzá tesz tudása által, és gonoszságaikat ő hordozza.",
+  "cite": "Iz 53,10-11"
+ },
+ "reading2": {
+  "label": "Szentlecke",
+  "sub": "a Zsidókhoz írt levélből",
+  "summary": "",
+  "text": "Testvéreim!\n\nMivel olyan kiváló főpapunk van, aki áthatolt az egeken: Jézus, az Isten Fia, – ezért legyünk állhatatosak a hitvallásban. A mi főpapunk ugyanis nem olyan, hogy ne tudna együtt érezni gyöngeségeinkkel, hanem olyan, aki hozzánk hasonlóan mindenben kísértést szenvedett, a bűntől azonban mentes maradt. Járuljunk tehát bizalommal a kegyelem trónjához, hogy irgalmat találjunk és kegyelmet kapjunk, amikor segítségre szorulunk.",
+  "cite": "Zsid 4,14-16"
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "key": "evkozi-13-2-I",
+ "source_date": "2025-07-01",
+ "rank": "",
+ "day": "13. évközi hét kedd",
+ "psalm": {
+  "cite": "Zsolt 25,2-3.9-10.11-12",
+  "response": "Jóságodat, Uram, szüntelenül szemem előtt tartom.",
+  "verses": [
+   "Tégy próbára, Uram, vizsgálj meg engem,\ntisztítsd meg szívemet-lelkemet.\nSzemem előtt tartom jóságodat szüntelen,\nigazságod szerint járok-kelek.",
+   "A gonoszokkal ne ragadd el lelkem,\nse életem a vérengzőkkel.\nTeli az ő markuk gonoszsággal,\ns vesztegető ajándékot rejt jobb kezük.",
+   "Én azonban feddhetetlenül élek,\nszabadíts meg, és könyörülj rajtam!\nLábam megmarad az egyenes úton,\ns a gyülekezetben áldalak, Uram!"
+  ]
+ },
+ "alleluia": {
+  "text": "Az Úrban remélek, az ő igéjében reménykedem.",
+  "cite": "Zsolt 129,5"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Jézus lecsendesíti a háborgó tengert.",
+  "text": "Jézus egy alkalommal hajóba szállt, és tanítványai követték őt. Egyszerre csak heves vihar tört ki a tavon, úgyhogy a hullámok elborították a hajót, Jézus pedig aludt.\n\nTanítványai odamentek hozzá, és fölkeltették: „Uram, ments meg minket! Elveszünk!” Jézus így szólt hozzájuk: „Mit féltek, kicsinyhitűek?” Aztán fölkelt, és parancsolt a szélnek meg a tengernek. Erre nagy csendesség lett.\n\nAz emberek csodálkozva kérdezték: „Kicsoda ez, hogy még a szél és a tenger is engedelmeskedik neki?”",
+  "cite": "Mt 8,23-27"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Mózes első könyvéből",
+  "summary": "Isten igazságos ítélete sújtja a bűnös városokat: Szodomát és Gomorrát.",
+  "text": "Szodoma lakóinak gonoszsága miatt virradatkor az angyalok így sürgették Lótot: „Kelj föl, vedd a feleségedet meg két lányodat, hogy el ne pusztulj te is a város gonoszsága miatt!” Amikor pedig Lót tétovázott, megragadták a kezét, meg a feleségének és a két leányának kezét is, mivel az Úr megkegyelmezett nekik.\n\nKivezették, és a városon kívül útra bocsátották őket. Közben így szóltak Lóthoz: „Mentsd az életedet! Hátra ne tekints, és meg ne állj az egész környéken; a hegyre menekülj, hogy el ne pusztulj!”\n\nDe Lót könyörgött: „Kérlek, Uram, ne küldj oda! Hiszen szolgád kegyelmet talált előtted, és nagy a te irgalmasságod, amelyet irántam tanúsítottál, hogy megmentsd életemet. Én nem tudok a hegyre menekülni, hátha utolér a veszedelem, és meghalok. Íme, itt ez a város a közelben, hadd fussak oda! Kicsi is, hadd meneküljek oda! Ugye valóban kicsi? És akkor életben maradok.”\n\nAz Úr így válaszolt neki: „Íme, ebben a dologban is meghallgatom kérésedet, és nem pusztítom el azt a várost, amelyért szólottál. Sietve menekülj oda, mert semmit se tehetek, amíg oda nem érsz.” Ezért nevezték azt a várost Szegornak, (azaz „Kicsi”-nek).\n\nA nap éppen akkor kelt föl, amikor Lót Szegorba ért. Ekkor az Úr kénkövet és tüzet hullatott az égből Szodomára és Gomorrára. Így pusztította el ezeket a városokat és az egész környéket a városok egész lakosságával, sőt a föld növényzetével együtt. Lót felesége azonban hátratekintett, azért sóoszloppá változott.\n\nÁbrahám kora reggel fölkelt, és arra a helyre ment, ahol korábban az Úr színe előtt állott. Odatekintett Szodoma és Gomorra felé, meg a környék egész földje felé, és látta, hogy olyan füst száll föl a földről, mint az olvasztókemence füstje.\n\nAmikor tehát az Isten elpusztította a környék városait, megemlékezett Ábrahámról, és megmentette Lótot a pusztulástól, amikor elpusztította azokat a városokat, amelyekben Lót lakott.",
+  "cite": "Ter 19,15-29"
+ }
+}

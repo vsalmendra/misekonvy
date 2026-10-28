@@ -1,0 +1,41 @@
+{
+ "key": "evkozi-12-vas-B",
+ "source_date": "2024-06-23",
+ "rank": "",
+ "day": "Évközi 12. vasárnap",
+ "psalm": {
+  "cite": "Zsolt 106,23-24.25-26.28-29.30-31",
+  "response": "Adjatok hálát az Úrnak, mivel irgalma örökké megmarad.",
+  "verses": [
+   "Vagy: Alleluja, alleluja, alleluja.\nAkik hajóikon tengerre szálltak,\na nagy vizeken végezték munkájukat,\nazok látták az Úr nagy tetteit,\na mély tengeren szemlélték csodáit.",
+   "Vagy: Alleluja, alleluja, alleluja.\nSzavára szélvihar támadt,\nés hullámai feltornyosultak.\nFelemelkedtek az égig, majd a mélységbe zuhantak,\nnagy veszedelmükben kétségbe estek.",
+   "Vagy: Alleluja, alleluja, alleluja.\nGyötrelmükben felkiáltottak az Úrhoz,\naki szorongatásukból kihozta őket.\nSzellővé csendesítette a vihart,\nhullámai elcsitultak.",
+   "Vagy: Alleluja, alleluja, alleluja.\nÖrvendeztek, mert csendesség támadt,\nés a várva várt révbe vezette az őket.\nNagy jóságáért adjatok hálát az Úrnak,\naz emberek fiaival tett nagy csodáiért.",
+   "Vagy: Alleluja, alleluja, alleluja."
+  ]
+ },
+ "alleluia": {
+  "text": "Nagy próféta támadt köztünk, Isten meglátogatta az ő népét.",
+  "cite": "Lk 7,16"
+ },
+ "gospel": {
+  "book": "Szent Márk",
+  "summary": "",
+  "text": "Egy napon Jézus, amikor este lett, így szólt tanítványaihoz: „Keljünk át a túlsó partra.” Erre azok elbocsátották a tömeget, és Jézust magukkal vitték úgy, ahogy ott volt a bárkában. Más csónakok is voltak velük. Nagy szélvihar támadt, a hullámok a bárkába csaptak, úgyhogy az már-már megtelt. Ő a bárka végében egy vánkoson aludt. Felkeltették és megkérdezték: „Mester, nem törődsz azzal, hogy elveszünk?” Erre fölkelt, ráparancsolt a szélre, és ezt mondta a tengernek: „Hallgass el, nyugodj meg!” A szél elállt, és nagy csendesség lett. Ekkor hozzájuk fordult: „Miért féltek? Még mindig nincs bennetek hit?” Nagy félelem fogta el ugyanis őket. Egymást kérdezgették: „Ki lehet ez, hogy még a szél és a tenger is engedelmeskedik neki?”",
+  "cite": "Mk 4,35-41"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Jób könyvéből",
+  "summary": "",
+  "text": "Jób panaszára az Úr felelt a viharból, és így szólt: „Ki zárta el kettős kapuval a tengert, amikor előtört a mélység öléből, amikor ruha gyanánt megalkottam neki a felhőket, és ködből pólyát adtam neki, amikor határvonalat szabtam számára, és gátat építettem, kettős kapuval? Azt mondtam neki: »Eddig jöjj és ne tovább!\n\nItt törjön meg hullámaid gőgje!«”",
+  "cite": "Jób 38,1.8-11"
+ },
+ "reading2": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a korintusiakhoz írt második leveléből",
+  "summary": "",
+  "text": "Testvéreim!\n\nKrisztus szeretete sürget minket, hiszen arra a meggyőződésre jutottunk, hogy ha egy meghalt mindenkiért, akkor mindenki meghalt. És ő azért halt meg mindenkiért, hogy akik élnek, ne maguknak éljenek, hanem annak, aki értük meghalt és feltámadt. Ezután tehát nem ismerünk senkit emberi szempontból. Ha Krisztust azelőtt emberi módon ismertük is, most már nem úgy ismerjük. Mindenki, aki Krisztusban van, új teremtmény.",
+  "cite": "2Kor 5,14-17"
+ }
+}

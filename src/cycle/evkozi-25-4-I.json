@@ -1,0 +1,33 @@
+{
+ "key": "evkozi-25-4-I",
+ "source_date": "2025-09-25",
+ "rank": "",
+ "day": "25. évközi hét csütörtök",
+ "psalm": {
+  "cite": "Zsolt 149,1-6a és 9b",
+  "response": "Népében az Úr kedvét találja, üdvösségre vezeti a szelídeket.",
+  "verses": [
+   "Vagy: Alleluja. 3. szám.\nAz Úrnak új dalt énekeljetek,\na szentek közösségében zengjen dicsérete.\nTeremtőjének örvendjen Izrael,\nés Sion gyermekei ujjongjanak királyuknak.",
+   "Vagy: Alleluja.\nNevét körtánccal dicsérjék:\nzengjen a zsoltár dobbal és citerával.\nNépében az Úr kedvét találja,\nüdvösségre vezeti a szelídeket.",
+   "Vagy: Alleluja.\nÖrvendjenek a szentek dicsőségükben,\npihenőhelyükön is ujjongjanak.\nIsten magasztalása zeng az ajkukon,\nösszes szentjeinek ez lesz dicsősége.",
+   "Vagy: Alleluja."
+  ]
+ },
+ "alleluia": {
+  "text": "Jézus mondja: „Én vagyok az út, az igazság és az élet. Senki sem jut Atyámhoz, csak általam.”",
+  "cite": "Jn 14,6"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Heródes Antipászt – aki megölette Keresztelő Jánost – nyugtalanítják a Jézusról kapott hírek.",
+  "text": "Heródes, a negyedes fejedelem mindenről értesült, amit Jézus tett és hirdetett.\n\nNyugtalanság fogta el, mert egyesek azt mondták: János támadt fel a halálból.” Mások szerint: „Illés jelent meg újra.” Voltak, akik azt állították: „A régi próféták közül kelt életre valamelyik.”\n\nHeródes így töprengett: „Jánost lefejeztettem... Ki lehet hát az, akiről ilyeneket hallok?” És kereste az alkalmat, hogy személyesen láthassa Jézust.",
+  "cite": "Lk 9,7-9"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Aggeus próféta könyvéből",
+  "summary": "Nem szabad késlekednünk a templom felépítésével!\n\nHa ebben hanyagok vagyunk, egyéb munkánk is gyümölcstelen lesz.",
+  "text": "Dárius uralkodásának második esztendejében történt. Zorobábelhez, Júdea helytartójához és Józsue főpaphoz Aggeus próféta által szólt az Úr.\n\n„Ezt üzeni az ég Ura:\n\nA nép azt hajtogatja: »Nincs még itt az ideje, hogy újra felépítsük az Úr templomát.«\n\nDe Aggeus próféta által kérdi most az Úr:\n\nhát annak vajon eljött már az ideje,\n\nhogy ti díszes palotákban lakjatok,\n\nmíg az Úr temploma romokban hever?\n\nÍgy szól az ég Ura:\n\nGondolkodjatok csak el sorsotokról:\n\nSokat vetettetek, de keveset takarítottatok be.\n\nEttetek, de nem laktatok jól.\n\nIttatok, de nem részegültetek meg.\n\nVolt ugyan ruhátok, de nem védett meg a hidegtől.\n\nPénzt ugyan kerestetek, de lyukas erszénybe tettétek,\n\nígy szól most a Seregek Ura:\n\nFontoljátok meg sorsotokat!\n\nInduljatok hát fel a hegyre!\n\nHozzatok fát, és építsetek templomot,\n\nhogy kedvemet és dicsőségemet találjam benne. – mondja az Úr.”",
+  "cite": "Agg 1,1-8"
+ }
+}

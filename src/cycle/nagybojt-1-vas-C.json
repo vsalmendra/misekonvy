@@ -1,0 +1,41 @@
+{
+ "key": "nagybojt-1-vas-C",
+ "source_date": "2025-03-09",
+ "rank": "",
+ "day": "Nagyböjt 1. vasárnap",
+ "psalm": {
+  "cite": "Zsolt 90,1-2.10-11.12-13.14-15",
+  "response": "Légy velem, Uram, minden szükségemben.",
+  "verses": [
+   "Aki a Fölséges oltalmában lakik,\na Mindenható árnyékában tartózkodik.\nÍgy szól az Úrhoz: † „Menedékem és váram te vagy nékem,\nIstenem, benned bízom.”",
+   "Nem eshet semmi bajod,\notthonodhoz nem közelíthet semmi csapás.\nMert angyalainak parancsol felőled,\nhogy őrizzenek minden utadon.",
+   "Kezükben hordoznak téged,\nhogy kőbe ne üssed lábadat.\nÁspiskígyón és viperán lépdelsz,\noroszlánt és sárkányt eltiporsz.",
+   "„Megszabadítom őt, mivel ragaszkodik hozzám,\noltalmazom, mert nevemet ismeri.\nHozzám kiált, és én meghallgatom őt, † minden szükségben vele vagyok,\nmegszabadítom és dicsőséget szerzek néki.”"
+  ]
+ },
+ "alleluia": {
+  "text": "Nemcsak kenyérrel él az ember, hanem minden igével is, mely Isten ajkáról való.",
+  "cite": "Mt 4,4b",
+  "lent": true
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Jézust a Szentlélek a pusztába vitte, és ott megkísértette a sátán.",
+  "text": "Abban az időben Jézus a Szentlélektől eltelve otthagyta a Jordánt, s a Lélek ösztönzésére a pusztába vonult negyven napra. Itt megkísértette a\n\nsátán. Ezekben a napokban nem evett semmit sem, de végül is megéhezett.\n\nEkkor megszólította a sátán: „Ha Isten Fia vagy, mondd ennek a kőnek,\n\nhogy váljék kenyérré.” De Jézus ezt felelte: „Írva van, nemcsak\n\nkenyérrel él az ember.” Erre a sátán fölvezette egy magas hegyre, és\n\negy szempillantás alatt felvonultatta szeme előtt a földkerekség minden\n\nországát. „Minden hatalmat és dicsőséget neked adok – mondta –, mert\n\nhisz én kaptam meg és annak adom, akinek akarom. Ha leborulva hódolsz\n\nelőttem, az mind a tied lesz.” Jézus elutasította: „Írva van: Uradat,\n\nIstenedet imádd és csak neki szolgálj!” Ekkor a sátán Jeruzsálembe\n\nvitte, a templom párkányára állította, és így szólt: „Ha Isten Fia\n\nvagy, vesd le magad innét. Hisz írva van: angyalainak parancsolta, hogy\n\noltalmazzanak, és: kezükön hordoznak majd, nehogy kőbe üsd a lábad.”\n\nDe Jézus ezt válaszolta: „Az is írva van: Ne kísértsd Uradat,\n\nIstenedet!”\n\nMiután a sátán ezekkel a kísértésekkel hiába próbálkozott, egy időre\n\nelhagyta Jézust.",
+  "cite": "Lk 4,1-13"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Mózes ötödik könyvéből",
+  "summary": "A választott nép hitvallása és imádsága az Úr előtt.",
+  "text": "Mózes így tanította a népet:\n\nAmikor termésed legjavából ajándékot hozol, a pap vegye ki kezedből a\n\nkosarat, s állítsa az Úr, a te Istened oltára elé. Te pedig mondd az\n\nÚr, a te Istened előtt:\n\n„Apám vándorló arám volt, lement Egyiptomba, s ott élt idegenként\n\nkevesed magával, mégis nagy, erős és hatalmas néppé lett.\n\nAmikor aztán az egyiptomiak rosszul bántak velünk, sanyargattak és\n\nkemény szolgaságba vetettek minket, akkor az Úrhoz, atyáink Istenéhez\n\nkiáltottunk. S az Úr meghallgatta könyörgésünket, meglátta\n\nnyomorúságunkat, elnyomatásunkat és sanyarú sorsunkat. Az Úr erős\n\nkézzel és kinyújtott karral kivezetett minket Egyiptomból, nagy\n\nrémületet támasztva, jelek és csodák kíséretében. Erre a földre hozott,\n\nés nekünk adta ezt a tejjel-mézzel folyó országot.\n\nÍme, most hozom annak a földnek első termését, amelyet te, az Úr,\n\nnekem adtál.”\n\nEzzel hagyd ott a kosarat az Úr, a te Istened színe előtt, majd\n\nborulj le az Úr, a te Istened előtt.",
+  "cite": "MTörv 26,4-10"
+ },
+ "reading2": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a rómaiakhoz írt leveléből",
+  "summary": "A hit örök életet szerez.\n\nAki Krisztusban hisz, megvallja hitét.",
+  "text": "Testvéreim!\n\nHogyan mondja az Írás? Közel van hozzád a tanítás,\n\najkadon és szívedben, tudniillik a hit tanítása, amelyet hirdetünk. Ha\n\ntehát száddal vallod, hogy Jézus az Úr, és szívedben hiszed, hogy Isten\n\nfeltámasztotta őt a halálból, üdvözülsz. A szívbeli hit ugyanis\n\nmegigazulásra, a szájjal való megvallás pedig üdvösségre szolgál. Az\n\nÍrás ugyanis azt mondja: Senki nem vall szégyent, aki őbenne hisz.\n\nNincs különbség zsidó meg pogány között, mert mindnyájunknak egy az\n\nUra. Ő bőkezű mindazokhoz, akik segítségül hívják. Mindenki, aki\n\nsegítségül hívja az Úr nevét, üdvözül.",
+  "cite": "Róm 10,8-13"
+ }
+}

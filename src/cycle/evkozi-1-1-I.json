@@ -1,0 +1,32 @@
+{
+ "key": "evkozi-1-1-I",
+ "source_date": "2025-01-13",
+ "rank": "",
+ "day": "1. évközi hét hétfő",
+ "psalm": {
+  "cite": "Zsolt 96,1 és 2b.6 és 7c.9",
+  "response": "Imádjátok Istent, minden angyalai!",
+  "verses": [
+   "Király az Úr, a föld ujjongjon,\nés örvendjen minden sziget.\nTrónjának támasza\njog és igazság.",
+   "Igazságosságát hirdetik az egek,\nés dicsőségét meglátják a népek.\nImádjátok őt,\nmind, ti, angyalai.",
+   "Mert te magasságos Úr vagy a világ fölött,\nminden más istennél fölségesebb."
+  ]
+ },
+ "alleluia": {
+  "text": "Jézus mondja: „Elközelgett az Isten országa, tartsatok bűnbánatot és higgyetek az örömhírnek!”",
+  "cite": "Mk 1,15"
+ },
+ "gospel": {
+  "book": "Szent Márk",
+  "summary": "Térjetek meg, és higgyetek az evangéliumban!",
+  "text": "Miután Keresztelő Jánost elfogták, Jézus Galileába ment, és hirdette az Isten (országáról szóló) evangéliumot: „Betelt az idő, közel van az Isten országa. Térjetek meg, és higgyetek az evangéliumban.”\n\nAmikor a Galileai-tó partján járt, látta, hogy Simon és testvére, András, akik halászok voltak, éppen hálót vetnek a tengerbe. Jézus megszólította őket: „Jöjjetek utánam, és én emberhalászokká teszlek titeket.” Azok rögtön otthagyták hálóikat, és követték őt.\n\nAmikor kissé továbbment, meglátta Jakabot, Zebedeus fiát, és testvérét, Jánost, amint a hálóikat rendezgették a bárkában. Őket is\n\nmindjárt meghívta. Erre otthagyták apjukat, Zebedeust a halászlegényekkel együtt a bárkában, és követték őt.",
+  "cite": "Mk 1,14-20"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "a Zsidókhoz írt levélből",
+  "summary": "Isten az ő Fia által szólt hozzánk.",
+  "text": "Testvéreim!\n\nSok ízben és sokféle módon szólt egykor Isten az atyákhoz a próféták szavával. Most, a végső napokban Fia által szólt hozzánk, akit a mindenség örökösévé tett, hiszen a világot is általa teremtette. Dicsőségének kisugárzása és lényének képmása ő, aki hathatós szavával fenntartja a mindenséget.\n\nMiután megváltott minket a bűntől, helyet foglalt az isteni Fölség jobbján. Hatalmasabb, mint az angyalok, mert magasztosabb nevet örökölt náluk. Vajon melyik angyalnak mondta valaha Isten:\n\n„A Fiam vagy te, ma szültelek téged?”\n\nVagy pedig:\n\n„Én Atyja leszek, ő meg az én Fiam?”\n\nSőt, amikor Egyszülöttjét bevezeti a világba, így szól: „Leborulva imádja őt Isten minden angyala.”",
+  "cite": "Zsid 1,1-6"
+ }
+}

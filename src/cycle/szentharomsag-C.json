@@ -1,0 +1,39 @@
+{
+ "key": "szentharomsag-C",
+ "source_date": "2025-06-15",
+ "rank": "",
+ "day": "Szentháromság vasárnap",
+ "psalm": {
+  "cite": "Zsolt 8,4-5.6-7.8-9",
+  "response": "Uram, mi Urunk, mily csodálatos a te neved az egész világon.",
+  "verses": [
+   "Szemlélem az eget, ujjaid műve az,\nte alkottad a holdat és\naz összes csillagot.\nUgyan mi az ember, hogy megemlékezel róla,\naz emberfia, hogy gondot\nviselsz rá?",
+   "Az embert csaknem angyalnak alkottad, † megkoronáztad dicsőséggel és\nfönséggel,\nhatalmába adtad kezed műveit.",
+   "Mindent lábad alá vetettél, † minden juhot és barmot,\nhozzá még a\nmezők vadjait.\nAz ég madarait és a tenger halait,\nmelyek a tenger ösvényét járják."
+  ]
+ },
+ "alleluia": {
+  "text": "Dicsőség az Atyának, a Fiúnak és a Szentléleknek: Istennek, aki van, aki volt és aki eljön újra!",
+  "cite": "Vö. Jel 1,8"
+ },
+ "gospel": {
+  "book": "Szent János",
+  "summary": "A Szentháromság: Atya, Fiú, Szentlélek.",
+  "text": "Búcsúbeszédében Jézus így szólt tanítványaihoz:\n\n„Még sok mondanivalóm volna, de nem vagytok hozzá elég erősek.\n\nAmikor azonban eljön az Igazság Lelke, ő majd elvezet titeket a teljes\n\nigazságra.\n\nNem magától fog beszélni, hanem azt mondja el, amit hall, és a\n\njövendőt fogja hirdetni nektek. Megdicsőít engem, mert az enyémből\n\nveszi, amit majd hirdet nektek.\n\nMinden, ami Atyámé, enyém is. Ezért mondtam, hogy az enyémből veszi,\n\namit majd hirdet nektek.”",
+  "cite": "Jn 16,12-15"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "a Példabeszédek könyvéből",
+  "summary": "Isten öröktől fogva tervei szolgálatára rendelte a Bölcsességet,\nmielőtt még bármit alkotott.",
+  "text": "Így beszél az isteni Bölcsesség:\n\nAlkotó munkája elején teremtett engem az Úr,\n\nősidőtől fogva, mielőtt bármit is alkotott.\n\nAz idők előtt teremtett,\n\na kezdet kezdetén, a föld születése előtt.\n\nAmikor létrehozott, még ősvizek sem voltak,\n\nés a forrásokból még nem tört elő víz.\n\nMielőtt a hegyek keletkeztek volna,\n\na halmok előtt születtem,\n\namikor a földet és a mezőket még nem alkotta meg,\n\nés a föld első göröngyét sem.\n\nOtt voltam, amikor az eget teremtette,\n\ns az ősvíz színének körét megvonta,\n\namikor a felhőket fölerősítette,\n\ns az ősforrások erejét megszabta;\n\namikor kijelölte a tenger határát\n\n– és a vizek nem csaptak ki –,\n\namikor lerakta a föld szilárd alapjait.\n\nOtt voltam mellette, mint kedvence,\n\nnapról napra csak bennem gyönyörködött,\n\nmindenkor az ő színe előtt játszadoztam.\n\nOtt játszottam az egész földkerekségen,\n\ns örömmel voltam az emberek fiai között.",
+  "cite": "Péld 8,22-31"
+ },
+ "reading2": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a rómaiakhoz írt leveléből",
+  "summary": "A nekünk ajándékozott Szentlélek által\nkiáradt szívünkbe az Isten szeretete.",
+  "text": "Testvéreim!\n\nMivel a hit révén megigazultunk, békében élünk az\n\nIstennel, Urunk, Jézus Krisztus által. Általa jutottunk hozzá a hitben\n\na kegyelemhez, amelyben élünk, és dicsekszünk a reménységgel, hogy az\n\nisteni dicsőség részesei lehetünk.\n\nDe nemcsak ezzel, hanem még szenvedéseinkkel is dicsekszünk, mert\n\ntudjuk, hogy a szenvedésből türelem fakad, a türelemből kipróbált\n\nerény, a kipróbált erényből reménység. Reményünkben nem csalatkozunk,\n\nmert a nekünk ajándékozott Szentlélekkel kiáradt szívünkbe az Isten\n\nszeretete.",
+  "cite": "Róm 5,1-5"
+ }
+}

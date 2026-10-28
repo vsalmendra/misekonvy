@@ -1,0 +1,33 @@
+{
+ "key": "evkozi-23-6-I",
+ "source_date": "2025-09-13",
+ "rank": "",
+ "day": "23. évközi hét szombat",
+ "psalm": {
+  "cite": "Zsolt 112,1-2.3-4.5a és 6-7",
+  "response": "Legyen áldott örökkön örökké Urunk, Istenünk szent neve!",
+  "verses": [
+   "Vagy: Alleluja. 2. szám.\nDicsérjétek az Urat, ti, szolgái,\ndicsérjétek az Úr nevét!\nLegyen áldott az Úr neve\nmost és mindörökké!",
+   "Vagy: Alleluja.\nDicsértessék az Úr neve,\nnapkelettől napnyugatig.\nFölséges az Úr minden nép fölött,\ndicsősége magasabb az egeknél.",
+   "Vagy: Alleluja.\nKi hasonlítható Istenünkhöz, az Úrhoz,\naki trónjáról tekint alá égre és földre?\nAz elhagyottat a porból magához vonja,\nfölemeli a szegényt a sárból.",
+   "Vagy: Alleluja."
+  ]
+ },
+ "alleluia": {
+  "text": "Aki szeret engem, megfogadja szavamat. Atyám is szeretni fogja, és hozzá költözünk.",
+  "cite": "Jn 14,23"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Az Úr Jézus lelkünkre köti, hogy ne szavakban, hanem tettekben kövessük az ő tanítását.",
+  "text": "Egy alkalommal Jézus így szólt tanítványaihoz:\n\nNincs jó fa, amely rossz gyümölcsöt terem, és nincs rossz fa, amely jó gyümölcsöt hoz. Minden fát gyümölcséről lehet megismerni. Nem szednek a tövisbokorról fügét, sem a tüskebokorról nem szüretelnek szőlőt.\n\nA jó ember szívének jó kincséből jót hoz elő, a rossz ember pedig a rosszból rosszat hoz elő. Hiszen a szív bőségéből szól a száj!\n\nMiért mondjátok nekem: „Uram, Uram!” – ha nem teszitek, amit mondok? Megmondom nektek, kihez hasonlít az, aki hozzám jön, hallgatja tanításomat, és tettekre is váltja: hasonlít ahhoz a házépítő emberhez, aki mélyre ásott, és az alapot sziklára rakta. Jött az árvíz, rázúdult a házra, de nem tudta azt összedönteni, mert jó alapra épült.\n\nAki viszont hallgatja tanításomat, de tettekre nem váltja, hasonlít ahhoz az emberhez, aki házát alap nélkül építette a puszta földre. Amikor rázúdult az árvíz, háza azonnal összedőlt, és nagy romhalmaz lett belőle.",
+  "cite": "Lk 6,43-49"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak Timóteushoz írt első leveléből",
+  "summary": "Krisztus azért jött, hogy üdvözítse a bűnösöket.",
+  "text": "Szeretett Fiam!\n\nIgaz beszéd ez, és teljes hitelt érdemel: Krisztus Jézus azért jött a világba, hogy üdvözítse a bűnösöket, s közöttük az első én vagyok. De éppen azért nyertem irgalmat, hogy Jézus Krisztus elsőként rajtam mutassa meg végtelen türelmét, példaképül azoknak, akik a jövőben hisznek majd benne, és így eljutnak az örök életre.\n\nAz örökkévalóság királyának, a halhatatlan és láthatatlan, egyedülvaló Istennek tisztelet és dicsőség mindörökkön örökké! Ámen.",
+  "cite": "1Tim 1,15-17"
+ }
+}

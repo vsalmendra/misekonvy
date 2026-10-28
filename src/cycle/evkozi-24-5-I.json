@@ -1,0 +1,33 @@
+{
+ "key": "evkozi-24-5-I",
+ "source_date": "2025-09-19",
+ "rank": "",
+ "day": "24. évközi hét péntek",
+ "psalm": {
+  "cite": "Zsolt 48,6-10.17-20",
+  "response": "Boldogok a lélekben szegények, mert övék a mennyek országa.",
+  "verses": [
+   "A rossz napoktól miért félnék,\namikor az alattomosak gonoszsága körülvesz engem?\nEzek erejükben bíznak,\nés nagy gazdagságukkal dicsekszenek.",
+   "Nem válthatja meg az ember önmagát,\nváltságdíjat nem adhat Istennek.\nAz élet váltságdíja túl magas, † a végén is kevésnek bizonyul ahhoz,\nhogy örökké éljen és ne lásson pusztulást.",
+   "Ne bánkódj, ha meggazdagszik valaki,\nés ha gyarapszik házának fénye,\nmert semmit sem visz magával, ha meghal,\nnem követi őt dicsősége.",
+   "Ha életében boldognak mondta is magát:\n„Jól gondoskodtál magadról, dicsérni fognak!”,\nmégis az elődök nemzedékét követi,\nazokét, akik napvilágot már sohasem látnak."
+  ]
+ },
+ "alleluia": {
+  "text": "Áldalak téged, Atyám, mennynek és földnek Istene, mert feltártad a kicsinyeknek országod titkait.",
+  "cite": "Vö. Mt 11,25"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Szolgáló szeretetükkel Jézus kíséretében ott vannak a jólelkű asszonyok is.",
+  "text": "Abban az időben Jézus bejárta a városokat és a falvakat, tanított és hirdette az Isten országát. Vele volt a tizenkettő és néhány asszony, akiket a gonosz lelkektől és a különféle betegségektől megszabadított: Mária, melléknevén Magdalai, akiből hét ördög ment ki; Johanna, Heródes intézőjének, Kuzának a felesége; Zsuzsanna és még sokan mások, akik vagyonukból gondoskodtak róla.",
+  "cite": "Lk 8,1-3"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak Timóteushoz írt első leveléből",
+  "summary": "Isten emberének igaz lelkületre kell törekednie.",
+  "text": "Szeretett Fiam!\n\nIsten igéjét tanítsd, és követésére buzdíts! Ha pedig valaki ellenkezőt tanít, és nem követi Urunk, Jézus Krisztus üdvös szavait és az igaz tanítást, az elvakult, és semmit sem ért; fölösleges szavakon és kérdéseken vitatkozik, amelyekből csak irigység, veszekedés, káromlás, rosszakaratú gyanúsítás és torzsalkodás származik. Ezek zavart eszű és igazság híján lévő emberek, akik a vallásosságot jövedelmi forrásnak tekintik.\n\nMindenesetre az igazi vallásosság bőséges jutalom forrása, ha megelégedettség kíséri. Hiszen semmit sem hoztunk erre a világra, és nem is vihetünk el semmit. Ha ennivalónk és ruhánk van, elégedjünk meg vele! Aki meg akar gazdagodni, kísértésbe esik: az esztelen és káros kívánságok kelepcéjébe, amelyek romlásba és kárhozatba döntik az embert. Minden baj gyökere ugyanis a kapzsiság, így azok, akik a pénz után sóvárogtak, eltávolodtak a hittől; és így bajba keveredtek.\n\nTe azonban, Isten embere, menekülj ezektől! Törekedjél inkább igaz lelkületre: életszentségre, hitre, szeretetre, türelemre és szelídségre! Küzdj az igaz hit győzelméért! Szerezd meg az örök életet, hiszen erre kaptál hivatást, és erről tettél számos tanú előtt hitvallást.",
+  "cite": "1Tim 6,2c-12"
+ }
+}

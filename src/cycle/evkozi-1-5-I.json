@@ -1,0 +1,32 @@
+{
+ "key": "evkozi-1-5-I",
+ "source_date": "2025-01-17",
+ "rank": "",
+ "day": "1. évközi hét péntek",
+ "psalm": {
+  "cite": "Zsolt 77,3 és 4bc.6c-7.8",
+  "response": "Isten tetteit el ne feledjétek!",
+  "verses": [
+   "Hallottuk Isten nagyszerű tetteit,\namint atyáink elmondták nékünk.\nHirdetjük a jövő nemzedékeknek az Úr dicsőségét és erejét,\na csodákat, amelyeket véghezvitt.",
+   "Mondják el ők is fiaiknak, akik felnőnek,\nhogy Istenben bízzanak!\nNe feledjék el Isten tetteit,\nés tartsák meg parancsait.",
+   "Ne legyenek olyanok, mint atyáik voltak:\nlázadó és makacs nemzedék,\nállhatatlan szívű nemzedék,\namelynek lelke nem maradt hűséges Istenhez."
+  ]
+ },
+ "alleluia": {
+  "text": "Nagy próféta támadt köztünk: Isten meglátogatta az ő népét.",
+  "cite": "Lk 7,16"
+ },
+ "gospel": {
+  "book": "Szent Márk",
+  "summary": "Az Emberfiának van hatalma a földön a bűnök megbocsátására.",
+  "text": "Néhány nap múlva Jézus visszatért Kafarnaumba. Mihelyt elterjedt a híre, hogy otthon van, annyian jöttek össze, hogy még az ajtó előtti téren sem fértek el; ő pedig hirdette nekik az igét.\n\nKözben odahoztak hozzá egy bénát. Négyen vitték. Mivel a tömegtől nem fértek a közelébe, kibontották fölötte a tetőt, ahol volt, és a nyíláson át leengedték a hordágyat, amelyen a béna feküdt. Jézus pedig, látva hitüket, így szólt a bénához: „Fiam, bocsánatot nyertek bűneid.”\n\nÜlt ott néhány írástudó is. Ezek így gondolkodtak szívükben: „Hogy beszélhet ez így? Káromkodik! Ki más bocsáthatja meg a bűnt, mint egyedül az Isten?”\n\nJézus azonnal észrevette, hogy magukban ilyeneket gondolnak, így szólt tehát hozzájuk: „Miért gondoljátok ezt szívetekben? Mi könnyebb: Azt mondani a bénának: Bűneid bocsánatot nyertek, vagy azt mondani: Kelj föl, fogd ágyadat és járj? Tudjátok meg tehát, hogy az Emberfiának van hatalma a földön a bűnök megbocsátására!”\n\nEzzel odafordult a bénához: „Mondom neked: Kelj föl, fogd az ágyadat, és menj haza!”\n\nAz felkelt, fölvette ágyát, és mindannyiuk szeme láttára eltávozott. Mindenki elcsodálkozott. Dicsőítették Istent, és azt mondták: „Nem láttunk még ilyet sohasem!”",
+  "cite": "Mk 2,1-12"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "a Zsidókhoz írt levélből",
+  "summary": "Igyekezzünk eljutni a nyugalom helyére, amelyet Isten készít számunkra!",
+  "text": "Testvéreim!\n\nFéltő gonddal óvakodjunk attól, hogy valaki közületek későn jöttnek számítson, amíg érvényben van az ígéret, hogy bemehetünk a nyugalom helyére. Hozzánk ugyanúgy jutott el az üdvösség örömhíre, mint a hitetlenekhez; ám nekik nem vált hasznukra a tanítás, mert nem csatlakoztak azokhoz, akik hittel hallgatták.\n\nA nyugalom helyére ugyanis csak akkor jutunk el, ha hívők vagyunk. A Szentlélek ezt mondotta:\n\nHaragomban kimondtam eskümet,\n\nNyugalmam helyére nem juthatnak el.\n\nA világ teremtése óta Isten művei befejeződtek ugyan, mint ahogy egy helyen, a hetedik nappal kapcsolatban az (írás) megállapítja: „A hetedik napon Isten abbahagyta minden munkáját.” Itt mégis úgy nyilatkozik: „Nyugalmam helyére nem juthatnak el.”\n\nTörekedjünk tehát bejutni a nyugalom helyére, nehogy valaki éppúgy elessék, mint előbb a hitetlenség példáján láttuk!",
+  "cite": "Zsid 4,1-5.11"
+ }
+}

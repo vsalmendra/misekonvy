@@ -1,0 +1,40 @@
+{
+ "key": "husvet-4-vas-B",
+ "source_date": "2024-04-21",
+ "rank": "",
+ "day": "Húsvét 4. vasárnapja – Hivatások világnapja",
+ "psalm": {
+  "cite": "Zsolt 117,1 és 8-9.21-23.26 és 28cd és 29",
+  "response": "A kő, amelyet az építők félredobtak, íme, az lett szegletkővé.",
+  "verses": [
+   "Vagy: Alleluja, alleluja, alleluja. 6. szám.\nAdjatok hálát az Úrnak, mert jó,\nmivel irgalma örökké megmarad!\nJobb az Úrnál keresni oltalmat,\nmint emberekben bizakodni.\nJobb az Úrnál keresni oltalmat,\nmint hatalmasokban reménykedni.",
+   "Vagy: Alleluja, alleluja, alleluja.\nHálát adok, mert meghallgattál engem,\nte lettél az én szabadítóm.\nA kő, amelyet az építők félredobtak,\níme, az vált szegletkővé.\nMindezt az Úr vitte végbe,\ncsodálatra méltó a mi szemünkben.",
+   "Vagy: Alleluja, alleluja, alleluja.\nÁldott, aki jön az Úr nevében,\naz Úr házából megáldunk titeket.\nHálát adok néked, te vagy Istenem,\nmagasztallak, Istenem, téged.\nAdjatok hálát az Úrnak, mert jó,\nmivel irgalma örökké megmarad.",
+   "Vagy: Alleluja, alleluja, alleluja."
+  ]
+ },
+ "alleluia": {
+  "text": "Jézus mondja: „Én vagyok a jó Pásztor, Ismerem juhaimat, és juhaim ismernek engem.”",
+  "cite": "Jn 10,14"
+ },
+ "gospel": {
+  "book": "Szent János",
+  "summary": "",
+  "text": "Abban az időben Jézus így szólt: Én vagyok a jó pásztor. A jó pásztor életét adja a juhokért. A béres azonban, aki nem pásztor, akinek a juhok nem a sajátjai, otthagyja a juhokat, és elfut, amikor látja, hogy jön a farkas. A farkas aztán elragadja és szétkergeti őket. A béres azért fut el, mert béres, és nem törődik a juhokkal.\n\nÉn vagyok a jó pásztor. Ismerem enyéimet, és enyéim is ismernek engem, – mint ahogy az Atya ismer engem, és én ismerem az Atyát. Életemet adom a juhokért. De más juhaim is vannak, amelyek nem ebből az akolból valók. Ezeket is vezetnem kell. Hallgatni fognak szavamra, és egy nyáj lesz és egy pásztor.\n\nAzért szeret engem az Atya, mert odaadom az életemet, hogy majd ismét visszavegyem. Nem veszi el tőlem senki, magam adom oda, mert van rá hatalmam, hogy odaadjam, és van rá hatalmam, hogy visszavegyem. Ezt a parancsot kaptam Atyámtól.”",
+  "cite": "Jn 10,11-18"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "az Apostolok Cselekedeteiből",
+  "summary": "",
+  "text": "Azokban a napokban: Péter a Szentlélektől eltelve így szólt: „Népünk elöljárói és ti vének! Ha ti ma azért hallgattok ki minket – miután egy beteggel jót tettünk –, hogy vajon ő hogyan is gyógyult meg, hát tudjátok meg mindannyian, ti és Izrael egész népe, hogy ez az ember annak a názáreti Jézus Krisztusnak a neve által áll itt előttetek egészségesen, akit ti keresztre feszítettetek, és akit az Isten feltámasztott a halálból. Ő az a kő, amelyet ti, építők elvetettetek, és mégis szegletkővé lett. Nincs üdvösség senki másban. Mert nem adatott más név az ég alatt az embereknek, amelyben üdvözülhetünk.”",
+  "cite": "ApCsel 4,8-12"
+ },
+ "reading2": {
+  "label": "Szentlecke",
+  "sub": "Szent János apostol első leveléből",
+  "summary": "",
+  "text": "Szeretteim! Nézzétek, mekkora szeretettel van irántunk az Atya: Isten gyermekeinek hívnak minket, és azok is vagyunk. A világ azért nem ismer minket, mert őt sem ismeri. Szeretteim, most Isten gyermekei vagyunk, de hogy mik leszünk, az még nem nyilvánvaló. Azt tudjuk, hogy ha ő megjelenik, hasonlók leszünk hozzá, mert látni fogjuk őt úgy, amint van.",
+  "cite": "1Jn 3,1-2"
+ }
+}

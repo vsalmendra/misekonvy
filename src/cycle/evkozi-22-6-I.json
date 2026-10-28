@@ -1,0 +1,32 @@
+{
+ "key": "evkozi-22-6-I",
+ "source_date": "2025-09-06",
+ "rank": "",
+ "day": "22. évközi hét szombat",
+ "psalm": {
+  "cite": "Zsolt 53,3-4.6.8",
+  "response": "Isten megsegít engem, az Úr oltalmazója életemnek.",
+  "verses": [
+   "Istenem, szent nevedért védj meg engem,\nszolgáltass nekem igazságot hatalmaddal.\nHalld meg könyörgésemet, Istenem,\nhajlítsd füledet ajkam szavára.",
+   "Mert idegenek keltek föl ellenem, † a hatalmasok életemre törtek,\nés nem tartották Istent szemük előtt.",
+   "De íme, Isten megsegít engem,\naz Úr oltalmazója életemnek.\nÁldozatomat szívesen meghozom,\nmagasztalom nevedet, Uram, mert jó vagy."
+  ]
+ },
+ "alleluia": {
+  "text": "Jézus mondja: „Én vagyok az út, az igazság és az élet. Senki sem jut Atyámhoz, csak általam.”",
+  "cite": "Jn 14,6"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Jézus ura az ószövetségi törvénynek is.",
+  "text": "Amikor Jézus Galileában tanított, az egyik szombaton vetések között járt. Tanítványai tépdesni kezdték a kalászokat, és kezükkel morzsolgatva eszegették. Néhány farizeus rájuk szólt: „Miért tesztek olyant, ami szombaton tilos?”\n\nJézus válaszolt nekik: „Nem olvastátok, mit tett Dávid, amikor társaival együtt éhezett? Bement az Isten házába, fogta a szent kenyereket, evett, és adott belőlük a többieknek is; pedig azokat csak a papoknak lett volna szabad megenniük.” Majd hozzátette: „Az Emberfia ura a szombatnak is.”",
+  "cite": "Lk 6,1-5"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a kolosszeiekhez írt leveléből",
+  "summary": "Krisztus az ö halála által kiengesztelt minket az Atyával, hogy szentek és szeplőtelenek legyünk.",
+  "text": "Testvéreim!\n\nEgykor idegenek voltatok, és gonosz tetteitek miatt ellenséges érzülettel voltatok Istennel szemben; de Krisztus most értetek is engesztelést nyújtott emberi testében az ő halála által, hogy az Atya előtt szentek, szeplőtelenek és feddhetetlenek legyetek.\n\nCsak tartsatok ki szilárdan és rendületlenül a hitben, és el ne tántorodjatok az evangéliumi reménységtől, amelyet hallottatok és az ég alatt minden teremtménynek hirdettek. Ennek vagyok én, Pál is a szolgája.",
+  "cite": "Kol 1,21-23"
+ }
+}

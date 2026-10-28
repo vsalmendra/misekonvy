@@ -1,0 +1,32 @@
+{
+ "key": "jezus-szive-B",
+ "source_date": "2024-06-07",
+ "rank": "",
+ "day": "Jézus Szent Szíve FÜ – 2024 B év",
+ "psalm": {
+  "cite": "Iz 12,2-3.4bcd.5-6",
+  "response": "Örömmel merítsetek vizet az üdvösség forrásaiból.",
+  "verses": [
+   "Íme, Isten az én üdvösségem,\nbízom benne és nem félek.\nMert az Úr az én erősségem és dicsőségem,\nő lett nékem szabadulásom.",
+   "Adjatok hálát az Úrnak,\nmagasztaljátok az ő nevét.\nA népek közt hirdessétek tetteit,\nemlékezzetek meg arról, hogy Fölséges az ő neve.",
+   "Zengjetek dalt az Úrnak, mert csodás dolgokat művelt:\ntudja meg az egész világ!\nUjjongjatok és dicséretet mondjatok Sion lakói,\nmert nagy a ti körötökben Izrael szentje."
+  ]
+ },
+ "alleluia": {
+  "text": "Vegyétek magatokra igámat és tanuljatok tőlem, mert szelíd vagyok és alázatos szívű!",
+  "cite": "Mt 11,29ab"
+ },
+ "gospel": {
+  "book": "Szent János",
+  "summary": "A katona lándzsája megnyitotta Jézus oldalát, s vér és víz folyt ki\nabból.",
+  "text": "Abban az időben: A zsidók, mivel az előkészület napja volt, és a holttestek nem maradhattak a kereszten, megkérték Pilátust, hogy töresse el a keresztrefeszítettek lábszárát, és vetesse le őket a keresztről. Az a szombat ugyanis nagy ünnep volt. Elmentek tehát a katonák, és eltörték a lábszárát az egyiknek is, a másiknak is, akit vele együtt fölfeszítettek. Amikor azonban Jézushoz értek, látták, hogy már meghalt. Ezért nem törték el a lábszárát, hanem az egyik katona beledöfte lándzsáját az oldalába. És ekkor vér és víz folyt ki belőle. Az tanúskodik erről, aki látta ezt, és az ő tanúságtétele igaz. Jól tudja ő, hogy igazat mond, hogy ti is higgyetek. Mert mindez azért történt, hogy beteljesedjék az Írás: „Csontot ne törjetek benne!” És ami az Írás más helyén áll: „Föltekintenek arra, akit keresztülszúrtak.”",
+  "cite": "Jn 19,31-37"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak az efezusiakhoz írt leveléből",
+  "summary": "Megismeritek Krisztusnak minden értelmet meghaladó szeretetét.",
+  "text": "Testvéreim!\n\nNekem, az összes szent közül a legkisebbnek jutott osztályrészül a kegyelem, hogy Krisztus felfoghatatlan gazdagságát hirdessem a pogányoknak, és megvilágosítsak minden embert, hogyan valósult meg ez a titok, amely kezdettől fogva el volt rejtve a mindent teremtő Istenben, hogy most az Egyház által az Isten szerfölött sokrétű bölcsessége nyilvánvalóvá legyen a mennyei fejedelemségek és hatalmasságok előtt. Ez volt az ő örök szándéka, amelyet Krisztus Jézusban, a mi Urunkban megvalósított; a benne való hit által van reményünk és biztonságos utunk Istenhez. Ezért meghajtom térdemet az Atya előtt: tőle származik minden közösség az égben és a földön. Adja meg nektek dicsőségének gazdagsága szerint, hogy Lelke által megerősödjetek benső emberré, hogy a hittel Krisztus lakjék szívetekben, gyökeret verjetek és alapot vessetek a szeretetben. Akkor majd fel tudjátok fogni az összes szenttel együtt, mi a szélesség és a hosszúság, a magasság és a mélység; megismeritek Krisztusnak minden értelmet meghaladó szeretetét, és beteltek az Isten egész teljességével.",
+  "cite": "Ef 3,8-12.14-19"
+ }
+}

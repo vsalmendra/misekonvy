@@ -1,0 +1,40 @@
+{
+ "key": "evkozi-16-vas-B",
+ "source_date": "2024-07-21",
+ "rank": "",
+ "day": "Évközi 16. vasárnap",
+ "psalm": {
+  "cite": "Zsolt 22,1-3a.3b-4.5.6",
+  "response": "Az Úr nékem pásztorom, ínséget nem kell látnom.",
+  "verses": [
+   "Az Úr nékem pásztorom:\nínséget nem kell látnom.\nZöldellő mezőkön terelget engem,\ncsendes vizekhez vezet és lelkemet felüdíti.",
+   "Az igazság ösvényén vezet engem,\nahogyan ő megígérte.\nA halál sötét völgyében sem félek, mert ott vagy vélem,\nbiztonságot ad vessződ és pásztorbotod.",
+   "Számomra asztalt terítettél,\nhogy üldözőimet szégyen érje.\nFejemet megkented olajoddal,\nserlegemet csordultig megtöltötted.",
+   "Jóságod és irgalmad nyomon követ\néletemnek minden napján.\nOtthonom lesz az Isten háza,\nmindörökké szünet nélkül."
+  ]
+ },
+ "alleluia": {
+  "text": "Jézus mondja: „Juhaim hallgatnak szavamra, ismerem őket és a nyomomban járnak.”",
+  "cite": "Jn 10,27"
+ },
+ "gospel": {
+  "book": "Szent Márk",
+  "summary": "",
+  "text": "Abban az időben az apostolok összegyűltek Jézushoz, és beszámoltak mindarról, amit tettek és tanítottak. Ő így szólt hozzájuk: „Gyertek ti is, (menjünk) a pusztaságba egy magányos helyre, hogy pihenjetek egy kicsit!” Mert olyan nagy jövés-menés volt körülöttük, hogy még evésre sem maradt idejük.\n\nBárkába szálltak tehát és elmentek egy elhagyatott helyre, hogy magukban legyenek. De sokan látták, amikor elmentek, és sokan megtudták. Erre minden városból gyalog odasiettek, és megelőzték őket.\n\nAmikor kiszállt és látta a nagy tömeget, megesett rajtuk a szíve. Olyanok voltak, mint a pásztor nélküli juhok. Ezért tanítani kezdte őket sok mindenre.",
+  "cite": "Mk 6,30-34"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Jeremiás próféta könyvéből",
+  "summary": "",
+  "text": "Ezt mondja az Úr:\n\n„Jaj a pásztoroknak, akik veszni hagyják és szétszélesztik legelőm juhait.” Ezért ezt mondja az Úr, Izrael Istene a pásztoroknak, akik népemet vezetik: „Szétszélesztettétek nyájamat, szétkergettétek, s nem törődtetek vele. Nos, nekem majd gondom lesz rátok, mégpedig gonosz tetteitek szerint” – mondja az Úr.\n\n„Nyájam maradékát viszont magam gyűjtöm össze azokból az országokból, ahová elűztem őket: visszahozom őket legelőikre, ott gyarapodni fognak és megsokasodnak. Pásztorokat rendelek föléjük, hogy gondjukat viseljék és legeltessék őket: nem félnek és nem remegnek többé, és egy sem vész el közülük” – mondja az Úr.\n\n„Íme, jönnek napok – mondja az Úr –, amikor igaz sarjat támasztok Dávidnak. Királyként uralkodik majd, bölcsen kormányoz, s gondja lesz az országban a jogra és az igazságra. Az ő napjaiban megszabadul Juda, és biztonságban él Izrael. Ez lesz a neve, amelyen szólítják: Az Úr a mi igazságunk.”",
+  "cite": "Jer 23,1-6"
+ },
+ "reading2": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak az efezusiakhoz írt leveléből",
+  "summary": "",
+  "text": "Testvéreim!\n\nTi, akik egykor „távol” voltatok, Krisztus Jézusban most „közel” kerültetek, Krisztus vére árán. Ő a mi békességünk, aki a kettőt (Izraelt és a pogányokat) eggyé forrasztotta, és a közéjük emelt válaszfalat ledöntötte, az ellenségeskedést kiküszöbölte saját testében. A törvényt ugyanis parancsaival és rendelkezéseivel együtt érvénytelenítette. Mint békességszerző a két népet magában eggyé, új emberré teremtette, és egy testben mind a kettőt kiengesztelte Istennel kereszthalála által, amellyel az ellenségeskedést megölte. Eljött, hogy békét hirdessen nektek, a távol levőknek, és békét a közel levőknek. Az ő révén van mindkettőnknek szabad utunk az egy Lélekben az Atyához.",
+  "cite": "Ef 2,13-18"
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "key": "evkozi-29-5-I",
+ "source_date": "2025-10-24",
+ "rank": "",
+ "day": "29. évközi hét péntek",
+ "psalm": {
+  "cite": "Zsolt 118,66.68.76.77.93.94",
+  "response": "Igazságodra oktass engem, én Uram, Istenem!",
+  "verses": [
+   "Igazi jóságra, okosságra és bölcsességre oktass engem\nmert én hiszek parancsolataidban.\nIgazán jó vagy, és csak a jót teszed,\nrendelkezéseidre oktass engem.",
+   "Jóságos irgalmad vigasztaljon engem,\nahogy szolgádnak megígérted.\nJöjjön el hozzám irgalmad, hogy éljek,\nmert törvényed a gyönyörűségem.",
+   "Lelkem sohasem felejti el parancsaidat,\nmert azok által éltetsz engem.\nLégy szabadítóm, én a tied vagyok,\nmivel parancsaidat keresem."
+  ]
+ },
+ "alleluia": {
+  "text": "Áldalak téged, Atyám, mennynek és földnek Istene, mert feltártad a kicsinyeknek országod titkait.",
+  "cite": "Vö. Mt 11,25"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Ismerjük fel az idők jeleiben az Isten üzenetét!",
+  "text": "Abban az időben Jézus így szólt a sokasághoz:\n\nHa látjátok, hogy nyugaton felhő támad, mindjárt mondjátok: „Eső jön!”, és úgy is történik. Ha déli szél fúj, azt mondjátok: „Hőség lesz!”, és megjön az is. Képmutatók! Az ég és föld jeleiből tudtok következtetni; a mai idők jeleit miért nem ismeritek fel? Miért nem ítélitek meg magatok, hogy mi az igazság?\n\nAmikor ellenfeleddel a hatóságokhoz mégy, igyekezzél még az úton kibékülni vele, hogy a bíróhoz ne hurcoljon. Mert ha a bíró elé visz, akkor a bíró átad a börtönőrnek, a börtönőr pedig börtönbe vet téged. Mondom neked, ki nem szabadulsz onnan, amíg tartozásodat az utolsó fillérig le nem fizeted.",
+  "cite": "Lk 12,54-59"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a rómaiakhoz írt leveléből",
+  "summary": "Jézus Krisztus kegyelme ad erőt, hogy a rossz helyett a jó győzedelmeskedjék bennünk.",
+  "text": "Testvéreim!\n\nTudom, hogy a jó nem lakik bennem, vagyis a testemben. Mert a jót akarni ugyan kész volnék, de arra, hogy a jót meg is tegyem, nem vagyok képes. Hiszen nem azt teszem, amit szeretnék, a jót; hanem a rosszat teszem, amit nem akarok. Ha pedig azt teszem, amit nem akarok, akkor már nem is én cselekszem azt, hanem a bennem lakó bűn.\n\nÍgy tehát erre a törvényre találok: Bár a jót szeretném tenni, a rosszra vagyok kész. A belső ember szerint örömömet találom Isten törvényében, de más törvényt tapasztalok tagjaimban: ez küzd értelmem törvénye ellen, és a bűn törvényének rabjává tesz, amely tagjaimban van.\n\nÉn szerencsétlen ember! Ki szabadít meg ettől a halálra szánt testtől? Istennek adjunk hálát, aki megszabadít minket Urunk, Jézus Krisztus által!",
+  "cite": "Róm 7,18-25a"
+ }
+}

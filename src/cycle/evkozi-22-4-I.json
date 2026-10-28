@@ -1,0 +1,32 @@
+{
+ "key": "evkozi-22-4-I",
+ "source_date": "2025-09-04",
+ "rank": "",
+ "day": "22. évközi hét csütörtök",
+ "psalm": {
+  "cite": "Zsolt 97,2-6",
+  "response": "Megmutatta az Úr nékünk üdvözítő jóságát.",
+  "verses": [
+   "Az Úr megmutatta szabadító erejét,\nigazságosságát feltárta a népek előtt.\nEmlékezetébe idézte jóságát és hűségét\nIzrael népe iránt.",
+   "Meglátta a föld minden határa,\nszabadulást Istenünk hozott nékünk.\nMinden földek, zengjetek az Úrnak öröméneket,\nujjongjatok és zsoltárt mondjatok.",
+   "Daloljatok az Úrnak citerával,\nciterával és zsoltárok hangjával.\nHarsonákkal és zengő kürtökkel\nujjongjatok az Úr és Király előtt."
+  ]
+ },
+ "alleluia": {
+  "text": "Kövessetek engem, mondja az Úr, és én emberek halászává teszlek titeket!",
+  "cite": "Mt 4,19"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Az első négy tanítvány meghívása a csodálatos halfogás után.",
+  "text": "Amikor Jézus egyszer a Genezáret tavánál állt, nagy tömeg sereglett köréje, hogy hallgassa az Isten szavát. Jézus látta, hogy a tó partján két bárka vesztegel. A halászok kiszálltak, és a hálóikat mosták. Beszállt hát az egyik bárkába, amelyik Simoné volt, s megkérte, hogy vigye kissé beljebb a parttól. Aztán leült, és a bárkából tanította a népet.\n\nAmikor befejezte a tanítást, így szólt Simonhoz: „Evezz a mélyre, és vessétek ki a hálótokat halfogásra.” „Mester – válaszolta Simon –, egész éjszaka fáradoztunk, s nem fogtunk semmit, de a te szavadra, kivetem a hálót.” Meg is tette, s annyi halat fogtak, hogy szakadozni kezdett a háló. Intettek a másik bárkában levő társaiknak, hogy jöjjenek és segítsenek. Azok odamentek, és úgy megtöltötték mind a két bárkát, hogy majdnem elsüllyedt.\n\nEnnek láttán Simon Péter Jézus lábához borult, és e szavakra fakadt: „Uram, menj el tőlem, mert bűnös ember vagyok.” A szerencsés halfogás láttán ugyanis társaival együtt félelem töltötte el. Hasonlóképpen Jakabot és Jánost is, Zebedeus fiait, Simon társait. De Jézus bátorságot öntött Simonba: „Ne félj! Ezentúl emberhalász leszel.”\n\nErre partra vonták hajóikat, és mindenüket elhagyva követték Jézust.",
+  "cite": "Lk 5,1-11"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a kolosszeiekhez írt leveléből",
+  "summary": "Isten kiszabadított minket a gonoszság hatalmából, és helyet adott nekünk szeretett Fia országában.",
+  "text": "Testvéreim!\n\nAmióta hallottunk rólatok, szüntelenül imádkozunk és könyörgünk Istenhez, hogy akaratát mindjobban megismerjétek: nagy bölcsességgel és lelki megértéssel. Így éltek méltón az Úrhoz, egészen az ő tetszése szerint; és Isten ismeretében gyarapodva minden jó cselekedetben gyümölcsöt hoztok.\n\nErősítsen meg benneteket fölséges hatalmával és nagy erejével az Úr, hogy mindvégig kitartsatok, és állhatatosak legyetek!\n\nÖrömmel adjatok hálát az Atyának, aki arra méltatott benneteket, hogy részetek legyen a szentek örökségében, a világosságban. Kiragadott minket a sötétség hatalmából, és helyet adott szeretett Fia országában. Benne nyertük el a megváltást, bűneink bocsánatát.",
+  "cite": "Kol 1,9-14"
+ }
+}

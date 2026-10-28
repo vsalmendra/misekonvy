@@ -1,0 +1,32 @@
+{
+ "key": "evkozi-15-1-I",
+ "source_date": "2025-07-14",
+ "rank": "",
+ "day": "15. évközi hét hétfő",
+ "psalm": {
+  "cite": "Zsolt 123,1-3.4-6.7-8",
+  "response": "Az Úr a mi segítségünk, aki az eget és a földet alkotta.",
+  "verses": [
+   "Ha nem lett volna velünk az Úr, vallja meg most Izrael, † ha nem lett volna velünk az Úr,\namikor az emberek ránk támadtak,\nakkor elevenen elnyeltek volna,\núgy fellángolt haragjuk ellenünk.",
+   "Elnyelt volna minket akkor a víz, † a zuhatag elsodorta volna életünket,\nelragadtak volna a tajtékzó hullámok.\nLegyen áldott az Úr,\nmert nem adott minket foguk martalékául.",
+   "Megmenekültünk, mint a madár a vadászok hálójából:\na vadászháló szétszakadt, és mi szabadok lettünk.\nAz Úr a mi segítségünk,\naki az eget és a földet alkotta."
+  ]
+ },
+ "alleluia": {
+  "text": "Boldogok, akik üldözést szenvednek az igazságért, mert övék a mennyek országa.",
+  "cite": "Mt 5,10"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Krisztus követése súlyos áldozatokat is követelhet tőlünk.",
+  "text": "Abban az időben Jézus így szólt apostolaihoz:\n\nNe gondoljátok, hogy azért jöttem a földre, hogy békét hozzak! Nem azért jöttem, hogy békét hozzak, hanem hogy kardot. Azért jöttem, hogy szembeállítsam a fiút apjával, a leányt anyjával és a menyet anyósával. Saját háza népe lesz az ember ellensége.\n\nAki atyját vagy anyját jobban szereti, mint engem, az nem méltó hozzám. Aki fiát vagy leányát jobban szereti, mint engem, az nem méltó hozzám. Aki nem veszi föl keresztjét, és nem követ engem, az nem méltó hozzám. Aki meg akarja találni életét, elveszíti azt; de aki érettem elveszíti életét, megtalálja azt.\n\nAki titeket befogad, engem fogad be; aki pedig engem befogad, azt fogadja be, aki engem küldött. Aki prófétát fogad be azért, mert próféta, az a próféta jutalmát kapja. Aki igaz embert fogad be azért, mert igaz ember, az az igaznak jutalmában részesül. Aki pedig csak egy pohár friss vizet is ad inni egynek a legkisebbek közül, mert az az én tanítványom – bizony, mondom nektek: nem marad el a jutalma.\n\nAmikor Jézus befejezte tizenkét tanítványa oktatását, továbbindult, hogy tanítson, és hirdesse Isten országának örömhírét a környékbeli városokban.",
+  "cite": "Mt 10,34-11,1"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Mózes második könyvéből",
+  "summary": "A fáraó elnyomja Izrael népét, hogy ne sokasodjék tovább, és ne hozzon veszedelmet Egyiptomra.",
+  "text": "Idő múltával új király jutott hatalomra Egyiptomban, aki már nem ismerte Józsefet. Figyelmeztette népét: „Nézzétek, Izrael fiainak népe nagyszámú, és erősebb, mint mi. Okosan bánjunk el vele, hogy ne sokasodjék tovább! Mert ha háború támad, ő is ellenségeinkhez csatlakozik, ellenünk harcol, és kivonul erről a földről.” Munkafelügyelőket rendelt tehát föléjük, hogy nehéz munkával sanyargassák őket. Ők építették a fáraónak a raktárvárosokat: Fitomot és Rámesszeszt. De minél jobban sanyargatták őket, annál inkább sokasodtak és növekedtek. Végül az egyiptomiak annyira féltek Izrael fiaitól, hogy kegyetlen szolgaságra kárhoztatták őket. Megkeserítették életüket a vályogvetés és a téglakészítés nehéz munkájával és mindenféle kemény mezei munkával.\n\nVégül megparancsolta a fáraó Izrael egész népének: „Minden fiúgyermeket, mihelyt megszületett, vessetek a folyóba, a lányokat viszont hagyjátok életben!”",
+  "cite": "Kiv 1,8-14.22"
+ }
+}

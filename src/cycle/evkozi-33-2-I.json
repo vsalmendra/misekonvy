@@ -1,0 +1,32 @@
+{
+ "key": "evkozi-33-2-I",
+ "source_date": "2025-11-18",
+ "rank": "",
+ "day": "33. évközi hét kedd",
+ "psalm": {
+  "cite": "Zsolt 3,2-7",
+  "response": "Fölkarolt és megvédett engem az én Uram, Istenem!",
+  "verses": [
+   "Uram, mily sokan vannak, akik szorongatnak engem,\nmily sokan támadnak ellenem.\nSokan mondják rólam:\n„Nincs menedéke Istennél.”",
+   "De te, Uram, védelmező pajzsom vagy,\nés fölemeled fejem, én dicsőségem.\nHangos szóval az Úrhoz kiáltok,\nszent hegyéről meghallgat engem.",
+   "Nyugovóra térek és elalszom,\nde fölkelek újra, mert az Úr a gyámolítóm.\nKörülvehet ezernyi nép, nem félek,\nkelj fel, Uram, ments meg engem, Istenem."
+  ]
+ },
+ "alleluia": {
+  "text": "Isten előbb szeretett minket, és elküldte Fiát engesztelésül bűneinkért.",
+  "cite": "1Jn 4,10b"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Az Emberfia azért jött, hogy megkeresse és üdvözítse, ami elveszett.",
+  "text": "Abban az időben: Jézus Jerikó városán haladt át. Élt ott egy Zakeus nevű gazdag ember, aki a vámosok feje volt. Szerette volna látni és megismerni Jézust, de a tömeg miatt nem láthatta, mert alacsony termetű volt. Így hát előrefutott, felmászott egy vadfügefára, hogy láthassa, mert Jézusnak arra kellett elhaladnia.\n\nAmikor Jézus odaért, felnézett és megszólította: „Zakeus, gyere le gyorsan, mert ma a te házadban kell megszállnom.”\n\nErre ő sietve lejött, és örömmel fogadta Jézust. Akik ezt látták, méltatlankodva megjegyezték: „Bűnös embernél száll meg.”\n\nZakeus azonban odaállt az Úr elé, és így szólt: „Nézd, Uram, vagyonom felét a szegényeknek adom, és ha valakit valamiben megkárosítottam, négy annyit adok helyette.”\n\nJézus kijelentette: „Ma üdvösség köszöntött erre a házra, hiszen ő is Ábrahám fia. Az Emberfia azért jött, hogy megkeresse és üdvözítse, ami elveszett.”",
+  "cite": "Lk 19,1-10"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "a Makkabeusok második könyvéből",
+  "summary": "Az agg Eleázár bátran vállalta a halált az Úr törvényének védelmében, hogy nemes példát adjon az ifjúságnak.",
+  "text": "Az istentelen Antiokusz Epifánész uralkodása alatt történt. Eleázárnak, a legkiválóbb írástudók egyikének, aki tiszteletre méltó aggastyán volt, erőszakkal nyitották szét a száját, hogy (az Isten törvényében tiltott) sertéshús evésére kényszerítsék. Ő azonban a dicső halált többre becsülte a gyalázatos életnél. Ezért önként ment a vesztőhelyre. Jól tudta ugyanis, hogy miként kell viselkednie. Elhatározta, és e mellett ki is tartott hűségesen, hogy tiltott dolgokat az élethez való ragaszkodásból sem enged meg magának.\n\nKörnyezete és barátai, hamis szánakozástól indíttatva, titokban és nagy bizalmasan arra kérték, hogy olyan húst hozasson, amelyből neki is szabad ennie. Tegyen úgy, mintha a király rendelete szerinti húsból enne. Így megszabadulhat a haláltól. A tisztes férfiú iránti baráti érzés is sugallhatta nekik ezt az emberséges bánásmódot. Ő azonban arra a tiszteletre gondolt, amely öreg korát méltán megillette; meg arra a veleszületett nemesszívűségre is, amelyben megőszült. Eszébe jutottak erényes cselekedetei, amelyeket gyermekkorától fogva mindig gyakorolt. Ezért az Isten által adott szent törvény értelmében azonnal kijelentette:\n\n„Engedjetek csak inkább meghalni; a mi korunkhoz nem illik a színlelés. Sok ifjú ugyanis azt hihetné, hogy pogánnyá lett a kilencvenéves Eleázár. Így tévútra vezetné őket képmutatásom és röpke percnyi életemhez való ragaszkodásom. Vén fejemre szégyent és gyalázatot hozna az ilyen magatartás. Az emberi büntetéstől megszabadulnék ugyan – egyelőre; ámde a Mindenható kezét élve-halva elkerülnöm nem lehet, így most nyugodtan válhatok meg életemtől, mert tudom, hogy legalább öreg koromhoz méltó módon cselekszem. A dicső, szent törvényekért kész vagyok bátran meghalni, hogy ezzel is megmutassam: az ifjaknak jó példát adok.”\n\nE szavak után azonnal a vesztőhelyre hurcolták. Akik elvezették, és kevéssel előbb még jó szívvel voltak hozzá, haragra gerjedtek szavain. Azt gondolták ugyanis, hogy kevélységből beszélt így velük. Midőn az ütések súlya alatt már-már haldokolt, így sóhajtott fel: „Uram, te mindent tudsz! Így azt is tudod, hogy megmenekülhettem volna a haláltól. Most mégis kínos fájdalmakat szenvedek el testemben, de hűséges lélekkel elviselem, irántad való szeretetből.” Így halt meg. Halálában hősies bátorsága példaképét hagyta ránk: az ifjaknak elsősorban, de egész népünknek is.",
+  "cite": "2Makk 6,18-31"
+ }
+}

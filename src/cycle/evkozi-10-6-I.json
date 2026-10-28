@@ -1,0 +1,33 @@
+{
+ "key": "evkozi-10-6-I",
+ "source_date": "2025-06-14",
+ "rank": "",
+ "day": "10. évközi hét szombat",
+ "psalm": {
+  "cite": "Zsolt 102,1-2.3-4.8-9.11-12",
+  "response": "Irgalmas a mi Urunk, Istenünk, könyörületre hajlik szíve.",
+  "verses": [
+   "Áldjad, lelkem, az Urat,\negész bensőm az ő szent nevét áldja.\nÁldjad, lelkem, az Urat,\nés ne feledd, hogy hozzád milyen jó volt.",
+   "Megbocsátja minden vétked,\nmeggyógyítja minden gyengeséged.\nA pusztulástól megmenti életed,\nkegyelmében és irgalmában meg is koronázza.",
+   "Irgalmas és kegyes a mi Istenünk,\nnagy irgalmú és hosszan tűrő.\nNem pöröl velünk szüntelen,\nés haragja nem tart mindörökké.",
+   "Amilyen messze van az ég a földtől,\noly nagy a szeretete az őt félők iránt.\nAmilyen messze van napkelettől a napnyugat,\nbűneinket olyan messze dobja tőlünk."
+  ]
+ },
+ "alleluia": {
+  "text": "Hajlítsd szívemet döntéseidre, Istenem, jóságosan add nekem törvényedet!",
+  "cite": "Zsolt 118,36a.29b"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Jézus megrója az égre-földre esküdöző embert.",
+  "text": "Jézus a hegyi beszédben ezt mondta tanítványainak:\n\nHallottátok, hogy ezt is mondták a régieknek: „Hamisan ne esküdj, és tartsd meg az Úrnak tett esküdet!” Én pedig azt mondom nektek: Egyáltalán ne esküdjetek! Sem az égre, mert az az Isten trónja, sem a Földre, mert az lábának zsámolya, se Jeruzsálemre, mert az a nagy Király városa! De még saját fejedre se esküdj, mert egyetlen hajszáladat sem tudod ősszé vagy feketévé tenni. Legyen a ti beszédetek „igen, igen, nem, nem”; ami ettől eltér, az a gonosztól van.",
+  "cite": "Mt 5,33-37"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a korintusiakhoz írt második leveléből",
+  "summary": "Isten bűneinkért való áldozattá tette Krisztust, hogy általa megigazuljunk.",
+  "text": "Testvéreim!\n\nKrisztus szeretete sürget minket, hiszen arra a meggyőződésre jutottunk, hogy ha egy meghalt mindenkiért, akkor mindenki meghalt. És ő azért halt meg mindenkiért, hogy akik élnek, ne maguknak éljenek, hanem annak, aki értük meghalt és feltámadt.\n\nEzután tehát nem ismerünk senkit emberi szempontból. Ha Krisztust azelőtt emberi módon ismertük is, most már nem úgy ismerjük. Mindenki, aki Krisztusban van, új teremtmény. A régi megszűnt, valami új valósult meg. De ezt Isten viszi végbe, akit Krisztus kiengesztelt irántunk, és aki megbízott minket a kiengesztelődés szolgálatával. Isten ugyanis Krisztusban kiengesztelődött a világgal. Nem tartja számon vétkeinket. Sőt, ránk bízta a kiengesztelődés tanítását. Tehát Krisztus követségében járunk: Isten maga int benneteket általunk.\n\nKrisztus nevében kérünk: engesztelődjetek ki Istennel. Ő azt, aki bűnt nem ismert, „bűnné” tette értünk, hogy általa Isten igazságának részesei legyünk.",
+  "cite": "2Kor 5,14-21"
+ }
+}

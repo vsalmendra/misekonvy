@@ -1,0 +1,32 @@
+{
+ "key": "evkozi-25-2-I",
+ "source_date": "2025-09-23",
+ "rank": "",
+ "day": "25. évközi hét kedd",
+ "psalm": {
+  "cite": "Zsolt 121,1-5",
+  "response": "Isten házába indulunk, örömtől dobban a szívünk.",
+  "verses": [
+   "Örvendeztem, amikor azt mondták nekem,\naz Úr házába megyünk.\nÍme, itt állunk már kapuid előtt,\nkapuid előtt, ó, Jeruzsálem.",
+   "Jeruzsálem városa jól megépült,\nrészei egymáshoz illenek.\nOda járulnak föl a törzsek,\naz Úr népének törzsei.",
+   "Az Úr Izraelnek törvénybe adta,\nhogy ott nevére áldást mondjanak,\nmert ott állnak az ítélőszékek,\nDávid házának székei."
+  ]
+ },
+ "alleluia": {
+  "text": "Boldogok, akik Isten szavát hallgatják, és hűségesek maradnak hozzá.",
+  "cite": "Lk 11,28"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Az tartozik igazán Jézushoz, aki Isten igéjét tettekre váltja.",
+  "text": "Jézus egyszer egy házban tanított, amikor odajöttek anyja és rokonai, de a tömeg miatt nem tudtak bejutni hozzá.\n\nEkkor jelentették neki: „Anyád és rokonaid kint állnak, és látni akarnak.”\n\nŐ azonban így válaszolt: „Az én anyám és rokonaim azok, akik Isten igéjét hallgatják, és tettekre is váltják!”",
+  "cite": "Lk 8,19-21"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Ezdrás könyvéből",
+  "summary": "A perzsa király az államkincstárból utalja ki a templomépítés költségeit.\n\nIzrael a munka befejezése után megünnepli a húsvétot.",
+  "text": "A babiloni fogság után Dárius király írásbeli rendelkezést adott ki a Folyón-túli országrészek vezetőinek. A rendelkezés így hangzott:\n\n„A zsidó nép vezérének és főembereinek adjatok engedélyt az építkezések elkezdésére: hadd építsék újjá templomukat ugyanazon a helyen, ahol az régen is állt! Hogy pedig a zsidó népnek ezek a vezetői megszakítás nélkül folytathassák templomuk építését, így rendelkezem:\n\nAz építési költségeket hiánytalanul fizessék ki a királyi kincstárból; pontosabban abból az adóból, amely a Folyón-túli országrészekből befolyik. Én, Dárius hoztam ezt a rendelkezést, és megkövetelem, hogy pontosan végre is hajtsák.”\n\nA választott nép főemberei így eredményesen folytatták tovább templomépítő munkájukat Aggeus és Zakariás prófétai szavainak értelmében. Folytatták, és be is fejezték az építkezést a választott nép Istenének parancsából, valamint Kürosz, Dárius és Artaxerxész perzsa királyok rendelete alapján. El is készültek az Isten háza építésével Dárius uralkodásának hatodik esztendejében, a tavaszkezdés hónapjának harmadik napján.\n\nEgyütt örvendeztek a papok és a leviták. Örvendezett a számkivetésből hazatérő egész nép, amikor felszentelték az Isten templomát. A templomszentelési ünnepen több száz állatot: bikaborjút, kost és bárányt vágtak le áldozatul. Egész Izrael bűneiért pedig törzseinek száma szerint tizenkét kecskebak feláldozásával engesztelték az Istent.\n\nTisztükbe állították osztályuk szerint a papokat, csoportjaik szerint a levitákat. Nekik kellett ellátniuk az Úr szolgálatát Jeruzsálemben, amint ezt Mózes törvénye előírja.\n\nA tavaszhónap tizennegyedik napján a Pászkát, vagyis a húsvétot is megünnepelte a számkivetésből hazatérő választott nép. Miután a papok és a leviták mind elvégezték a tisztulási szertartásokat, leölték a húsvéti bárányt a hazatértek számára, úgyszintén paptestvéreik és a maguk számára is.",
+  "cite": "Ezd 6,7-8.12b.14-20"
+ }
+}

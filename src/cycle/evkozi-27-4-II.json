@@ -1,0 +1,32 @@
+{
+ "key": "evkozi-27-4-II",
+ "source_date": "2024-10-10",
+ "rank": "",
+ "day": "27. évközi hét csütörtök",
+ "psalm": {
+  "cite": "Lk 1,69-75",
+  "response": "Áldott az Úr, atyáink Istene, mert meglátogatta az ő népét.",
+  "verses": [
+   "Erős szabadítót támasztott minékünk,\nszolgájának, Dávidnak családjából,\namint szólott a szentek szájával,\nősidők óta a próféták ajka által.",
+   "Megszabadít az ellenség kezéből,\nmindazoktól, akik gyűlölettel néznek minket.\nAtyáinkkal irgalmat gyakorol,\nhogy szent szövetségére emlékezzék,",
+   "az esküre, amelyet Ábrahám atyánknak esküdött,\nhogy nekünk váltja be, amit ígért,\nhogy félelem nélkül és megszabadulva az ellenség kezéből,\nneki szolgálatot teljesítsünk:\nSzentségben és igazságban járjunk előtte\nnapról napra, amíg élünk."
+  ]
+ },
+ "alleluia": {
+  "text": "Uram, nyisd meg szívünket, hogy meghallgassuk Fiad igéit! Vö. ApCsel 16,14b",
+  "cite": ""
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Isten jó Atyánk, aki az állhatatos imádságot mindig meghallgatja.",
+  "text": "Jézus egy alkalommal így beszélt tanítványainak (a kérő imádságról):\n\n„Tegyük fel, hogy valamelyikteknek van egy barátja, aki éjfélkor bekopog hozzá és ezt mondja: »Barátom, adj kölcsön nekem három kenyeret! Útról érkezett egy vendégem, s nincs mivel megkínálnom.« De az kiszól: »Ne zavarj engem! Az ajtó már be van zárva, én is, gyermekeim is ágyban vagyunk. Nem tudok fölkelni, hogy adjak neked.«\n\nMondom nektek: Ha nem is kelne fel, hogy adjon neki barátságból, erőszakossága miatt mégis fölkel, és ad neki annyit, amennyire szüksége van.\n\nMondom tehát nektek: Kérjetek és adnak nektek, keressetek és találtok, zörgessetek és ajtót nyitnak nektek. Mert mindaz, aki kér, kap, aki keres, talál, és aki zörget, annak ajtót nyitnak. Van-e köztetek olyan apa, aki követ ad fiának, mikor az kenyeret kér tőle? Vagy ha halat kér, akkor hal helyett tán kígyót ad neki? Vagy ha tojást kér, akkor talán skorpiót nyújt neki?\n\nHa tehát ti, bár gonoszak vagytok, tudtok jót adni gyermekeiteknek, mennyivel inkább adja mennyei Atyátok a Szentlelket azoknak, akik kérik tőle.”",
+  "cite": "Lk 11,5-13"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a galatákhoz írt leveléből",
+  "summary": "Pál erélyes hangon figyelmezteti híveit: csak a Krisztustól nyert hit üdvözít, nem az ószövetségi szabályok megtartása.",
+  "text": "Ki babonázott meg titeket, ti, oktalan galaták, (hogy ne az igazságot kövessétek)? Mi egészen nyilvánvalóan állítottuk szemetek elé a megfeszített Jézus Krisztust! Csak egyre feleljetek nekem: az ószövetségi törvények megtartásából nyertétek-e el a Szentlelket, vagy a hit elfogadásából? Hát annyira értelmetlenek vagytok, hogy amit lélekkel kezdtetek, azt most testben akarjátok befejezni? Hát hiába éltétek át mindezeket? Ha így volna, akkor csakugyan hiába!\n\nAki a Szentlelket adja nektek, és nagy tetteket művel köztetek, ezt talán az ószövetségi törvény cselekedetei alapján teszi, és nem inkább a hit elfogadása által?",
+  "cite": "Gal 3,1-5"
+ }
+}

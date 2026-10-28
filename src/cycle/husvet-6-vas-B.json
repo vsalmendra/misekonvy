@@ -1,0 +1,40 @@
+{
+ "key": "husvet-6-vas-B",
+ "source_date": "2024-05-05",
+ "rank": "",
+ "day": "Húsvét 6. vasárnapja – Társadalmi kommunikáció világnapja",
+ "psalm": {
+  "cite": "Zsolt 97,1.2-3ab.3cd-4",
+  "response": "Az Úr megmutatta üdvösségét a nemzetek színe előtt.",
+  "verses": [
+   "Vagy: Alleluja, alleluja, alleluja.\nZengjetek az Úrnak új éneket,\ncsodálatra méltó, amit művelt.\nDiadalt aratott jobbjával,\ngyőzelmet szentséges karjával.",
+   "Vagy: Alleluja, alleluja, alleluja.\nAz Úr megmutatta szabadító erejét,\nigazságosságát feltárta a népek előtt.\nEmlékezetébe idézte jóságát és hűségét,\nIzrael népe iránt.",
+   "Vagy: Alleluja, alleluja, alleluja.\nMeglátta a föld minden határa,\nIstenünk szabadulást hozott nékünk.\nMinden földek, zengjetek az Úrnak öröméneket,\nujjongjatok és zsoltárt mondjatok.",
+   "Vagy: Alleluja, alleluja, alleluja."
+  ]
+ },
+ "alleluia": {
+  "text": "Jézus mondja: „Aki szeret engem, megfogadja szavamat, Atyám is szeretni fogja, és hozzá költözünk.”",
+  "cite": "Jn 14, 23"
+ },
+ "gospel": {
+  "book": "Szent János",
+  "summary": "",
+  "text": "Abban az időben Jézus ezt mondta tanítványainak: Amint engem szeret az Atya, úgy szeretlek én is titeket. Maradjatok meg az én szeretetemben. Ha megtartjátok parancsaimat, megmaradtok szeretetemben, ahogy én is megtartottam Atyám parancsait, és megmaradok az ő szeretetében. Ezeket azért mondtam nektek, hogy az én örömöm legyen bennetek, és örömötök ezzel teljes legyen. Az az én parancsom, hogy szeressétek egymást, amint én szerettelek titeket. Nagyobb szeretete senkinek sincs annál, mint annak, aki életét adja barátaiért.\n\nTi barátaim vagytok, ha azt teszitek, amit parancsolok nektek. Nem mondalak titeket többé szolgának, mert a szolga nem tudja, mit tesz az ura. Barátaimnak mondalak benneteket, mert mindazt, amit hallottam Atyámtól, tudtul adtam nektek. Nem ti választottatok engem, hanem én választottalak titeket, és arra rendeltelek, hogy elmenjetek és gyümölcsöt hozzatok: maradandó gyümölcsöt. Bármit kértek az Atyától az én nevemben, megadja nektek. Azt parancsolom nektek, hogy szeressétek egymást!",
+  "cite": "Jn 15,9-17"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "az Apostolok Cselekedeteiből",
+  "summary": "",
+  "text": "Amikor Péter megérkezett (Cezáreába), Kornéliusz (százados) eléje sietett, és a lábához borult, hogy hódoljon neki. De Péter fölemelte. „Állj fel – mondta –, hisz én is csak ember vagyok.” Majd szólásra nyitotta ajkát és ezeket mondta: „Valóban, el kell ismernem, hogy Isten nem személyválogató. Mindenki kedves előtte, bármely néphez tartozik is, aki féli őt, és az igazságot cselekszi.”\n\nPéter még be sem fejezte a beszédet, és a Szentlélek már leszállt mindenkire, aki hallgatta a tanítást. A zsidókból lett keresztények, akik Péterrel érkeztek, ámulatba estek, hogy a Szentlélek ajándéka a pogányokra is kiáradt. Mert hallották, hogy megkapták a nyelvek adományát, és magasztalják az Istent.\n\nPéter megszólalt: „Meg lehet-e tagadni a keresztvizet azoktól, akik a Szentlelket éppen úgy megkapták, mint mi?” Elrendelte tehát, hogy Jézus Krisztus nevében kereszteljék meg őket. Őt viszont arra kérték, hogy maradjon még náluk néhány napig.",
+  "cite": "ApCsel 10,25-26.34-35.44-48"
+ },
+ "reading2": {
+  "label": "Szentlecke",
+  "sub": "Szent János apostol első leveléből",
+  "summary": "",
+  "text": "Testvéreim!\n\nSzeressük egymást, mert a szeretet Istentől van! Mindenki, aki szeret, Istentől való, és ismeri Istent. Aki nem szeret, nem ismeri az Istent, mert az Isten szeretet. Isten szeretete abban nyilvánult meg, hogy az Isten elküldte a világba egyszülött Fiát, hogy általa éljünk. A szeretet nem abban áll, hogy mi szeretjük Istent, hanem hogy ő szeret minket, és elküldte a Fiát, bűneinkért engesztelésül.",
+  "cite": "1Jn 4,7-10"
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "key": "evkozi-24-1-I",
+ "source_date": "2025-09-15",
+ "rank": "",
+ "day": "24. évközi hét hétfő",
+ "psalm": {
+  "cite": "Zsolt 27,2.7-9",
+  "response": "Áldott legyen a mi Urunk, mert meghallgatta könyörgő szavamat!",
+  "verses": [
+   "Hallgasd meg könyörgő szavamat, amikor hozzád kiáltok,\nkezemet szent templomod felé tárom.",
+   "Az Úr az én erőm és védőpajzsom,\nszívem benne bízott, és ő megsegített.\nÖrvendezik az én szívem,\nénekemmel adok hálát neki.",
+   "Népének erőssége az Úr,\nFölkentjének szabadulása és menedéke.\nSzabadítsd meg, Uram, néped,\náldd meg a te örökséged.\nTe légy néped pásztora,\nés te vezesd mindörökké!"
+  ]
+ },
+ "alleluia": {
+  "text": "Isten úgy szerette a világot, hogy egyszülött Fiát adta érte, hogy örökké éljen minden őbenne hívő.",
+  "cite": "Jn 3,16"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Jézus példaképül állítja elénk a kafarnaumi százados hitét.",
+  "text": "Amikor Jézus a néphez intézett beszédét befejezte, Kafarnaumba ment. Ott betegen feküdt egy századosnak a szolgája, akit ura nagyon kedvelt. A szolga már a halálán volt. A százados, aki hallott Jézusról, elküldte hozzá a zsidók véneit azzal a kéréssel, hogy jöjjön el, és gyógyítsa meg a szolgáját.\n\nAmikor ezek odaértek Jézushoz, kérlelték őt: „Megérdemli, hogy megtedd ezt neki, mert szereti népünket, és a zsinagógát is ő építtette nekünk.”\n\nJézus tehát velük ment. Amikor már nem messze voltak a háztól, a százados eléje küldte barátait ezzel az üzenettel: „Uram, ne fáradj! Nem vagyok méltó, hogy hajlékomba jöjj. Éppen ezért nem tartottam magamat méltónak arra sem, hogy hozzád menjek. Csak egy szót szólj, és meggyógyul a szolgám. Bár magam is alárendelt ember vagyok, alattam is szolgálnak katonák. S ha azt mondom az egyiknek: »Menj!« – akkor elmegy, ha a másiknak meg azt mondom: »Jöjj ide!« – akkor odajön, vagy ha a szolgámnak szólok: »Tedd meg ezt!« – akkor megteszi.”\n\nAmikor Jézus ezt hallotta, elcsodálkozott. Megfordult, és így szólt az őt követő tömegnek: „Mondom nektek, nem találtam ekkora hitet Izraelben.” Amikor a küldöttek hazaértek, a beteg szolgát egészségesnek találták.",
+  "cite": "Lk 7,1-10"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak Timóteushoz írt első leveléből",
+  "summary": "Könyörögjetek minden emberért Istenhez, aki azt akarja, hogy mindenki üdvözüljön!",
+  "text": "Szeretett Fiam!\n\nMindenekelőtt arra kérlek, végezzetek imát, könyörgést, esedezést és hálaadást minden emberért, a királyokért és az összes elöljárókért, hogy békés, nyugodt életet élhessünk, szentségben és tisztességben. Ez jó és kedves üdvözítő Istenünk szemében, aki azt akarja, hogy minden ember üdvözüljön és eljusson az igazság ismeretére.\n\nHiszen egy az Isten, s egy a közvetítő Isten és ember között: az ember Krisztus Jézus, aki váltságul adta magát mindenkiért, és tanúságot tett a meghatározott időben. Ezért kaptam a küldetést, hogy hírnök és apostol legyek – igazat mondok, nem hazudok –, a pogányok tanítója hitre és igazságra. Azt kívánom tehát, hogy a férfiak mindenütt tiszta lélekkel emeljék imára kezüket, ne haragos és viszálykodó érzülettel.",
+  "cite": "1Tim 2,1-8"
+ }
+}

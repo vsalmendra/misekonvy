@@ -1,0 +1,32 @@
+{
+ "key": "evkozi-17-6-I",
+ "source_date": "2025-08-02",
+ "rank": "",
+ "day": "17. évközi hét szombat",
+ "psalm": {
+  "cite": "Zsolt 66,2-3.5.7-8",
+  "response": "Magasztaljanak téged a népek, Istenünk, magasztaljanak téged az összes nemzetek!",
+  "verses": [
+   "Könyörüljön rajtunk az Isten és áldjon meg minket,\nragyogtassa fel arcát fölöttünk,\nhogy megismerjék a földön utadat,\nés üdvösségedet az összes nemzetek.",
+   "Örvendjenek és ujjongjanak a nemzetek, † mert igazságosan ítéled a népeket,\nés te vezérled őket a földön.",
+   "Földünk megadta gyümölcsét,\na mi Istenünk megáldott minket.\nÁldjon meg minket az Isten,\nfélve tisztelje őt a föld minden határa."
+  ]
+ },
+ "alleluia": {
+  "text": "Boldogok, akik üldözést szenvednek az igazságért, mert övék a mennyek országa.",
+  "cite": "Mt 5,10"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Keresztelő János vértanúsága.",
+  "text": "Amikor Heródes Antipász, a negyedes fejedelem meghallotta a Jézusról szóló híreket, azt mondta szolgáinak: „Ez Keresztelő János: ő támadt fel a halálból, azért van ilyen csodatevő ereje.”\n\nHeródes ugyanis annak idején elfogatta Jánost, bilincsbe verette és börtönbe vetette Heródiás miatt, aki fivérének, Fülöpnek a felesége volt. János ugyanis figyelmeztette: „Nem szabad őt feleségül venned!” Heródes emiatt ki akarta végeztetni Jánost, de félt a néptől, mert prófétának tartották őt.\n\nAmikor Heródesnek születésnapja volt, Heródiás leánya a vendégek előtt táncolt. Ez nagyon megtetszett Heródesnek, ezért esküvel ígérte, hogy bármit is kér, megadja neki. A leány, mivel anyja már előre kioktatta, így szólt: „Add nekem egy tálon Keresztelő János fejét!” Erre a király elszomorodott, de esküje és a jelenlevő vendégek miatt megparancsolta, hogy adják oda neki (Keresztelő János fejét).\n\nErre elküldvén lefejeztette Jánost a börtönben. Fejét elhozták egy tálon, és odaadták a leánynak; ő meg elvitte anyjának.\n\nAkkor János tanítványai eljöttek, elvitték a holttestet, és eltemették. Majd felkeresték Jézust, és mindezt hírül adták neki.",
+  "cite": "Mt 14,1-12"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Mózes harmadik könyvéből",
+  "summary": "Az örvendetes évben, vagyis a jubileumi esztendőben\nmindenki visszakapja eredeti birtokát.",
+  "text": "A Sínai-hegyen így szólt Mózeshez az Úr:\n\n„Számlálj hét évhetet, azaz hétszer hét esztendőt, tehát negyvenkilenc évet. Ennek az évnek hetedik hónapjában a tizedik napon, az engesztelés napján, fúvasd meg a harsonákat az egész országban! Szenteljétek meg az ötvenedik esztendőt! Hirdessetek szabadulást lakóhelyetek minden lakójának, mert örvendetes esztendő ez. Kapja vissza mindenki a birtokát, és térjen vissza ki-ki saját családjához! Ez az ötvenedik esztendő legyen számotokra jubileumi év!\n\nEbben az évben ne vessetek! Ami a szántóföldeteken magától terem, le ne arassátok; a meg nem metszett szőlőtőkék termését be ne takarítsátok! Így szenteljétek meg az örvendetes esztendőt, és azt egyétek, amit a mezőn találtok!\n\nAz örvendetes esztendőben kapja vissza mindenki a maga birtokát! Ha eladsz valamit honfitársadnak, vagy veszel valamit tőle, egymást be ne csapjátok! Az örvendetes esztendőt követő évek száma szerint vásárolj felebarátodtól, ő pedig a termés éveinek száma szerint adjon el neked! Minél több esztendő van még hátra a következő örvendetes esztendőig, annál nagyobb legyen az ár; és minél kevesebb van hátra, annál olcsóbb legyen a vételár, mert csak a termésidőt adja el neked.\n\nMeg ne csaljátok honfitársaitokat! Mindenki félje az Urat; mert én, az Úr vagyok a ti Istenetek!”",
+  "cite": "Lev 25,1.8-17"
+ }
+}

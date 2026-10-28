@@ -1,0 +1,32 @@
+{
+ "key": "evkozi-23-1-II",
+ "source_date": "2024-09-09",
+ "rank": "",
+ "day": "23. évközi hét hétfő",
+ "psalm": {
+  "cite": "Zsolt 5,5-7.12",
+  "response": "Istenem, vezess engem igazságod útján!",
+  "verses": [
+   "Istenem, te a rosszat nem akarhatod, † a gonosz nem lakhat közeledben,\nszíned előtt álnok meg nem állhat.",
+   "Minden gonosztevőt megvetsz, † és megsemmisíted a képmutatót,\nutálod, Uram, a vérszomjas és álnok embert.",
+   "Örvendjenek mind, akik benned bíznak,\nujjongjanak szünet nélkül.\nTe véded őket, ők magasztaljanak téged,\nés akik nevedet szeretik, örvendezzenek."
+  ]
+ },
+ "alleluia": {
+  "text": "Jézus mondja: „Juhaim hallgatnak szavamra; ismerem őket, és ők a nyomomban járnak.”",
+  "cite": "Jn 10,27"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "A farizeusok szemmel tartják Jézust, és még jótetteiben is csak azt keresik, hogy mit fordíthatnak ellene.",
+  "text": "Jézus az egyik szombaton elment a kafarnaumi zsinagógába, és tanítani kezdett.\n\nVolt ott egy jobb kezére béna ember. Az írástudók és a farizeusok figyelték Jézust, vajon meggyógyítja-e szombaton; hogy aztán okot találjanak a vádaskodásra.\n\nŐ azonban ismerte gondolataikat. Megszólította tehát a béna kezű embert: „Kelj fel, és állj ide a középre!” Az felkelt és odaállt. Jézus akkor hozzájuk fordult: „Kérdem tőletek: Szabad-e szombaton jót vagy rosszat tenni, életet menteni vagy pusztulni hagyni?”\n\nVégignézett rajtuk, aztán így szólt az emberhez: „Nyújtsd ki a kezedet!” Az megtette, és meggyógyult a keze.\n\nErre esztelen harag szállta meg őket, és arról kezdtek tanakodni, hogy mit tegyenek Jézussal.",
+  "cite": "Lk 6,6-11"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a korintusiakhoz írt első leveléből",
+  "summary": "Bűneinktől Krisztus halála megtisztított minket: nem lehet közösségünk többé a bűnnel.",
+  "text": "Testvéreim!\n\nAzt hallottuk, hogy megtűrtétek a paráznaságot, mégpedig olyan esetben, amely a pogányoknál sem fordul elő, hogy tudniillik valaki saját apjának feleségével él. Ti még kérkedtek? Nem kellene inkább szomorkodnotok, és azon lennetek, hogy kiközösítsétek azt, aki ilyesmit tesz?\n\nÉn ugyan testileg távol, de lélekben közel, mintha köztetek volnék, már kimondtam az ítéletet afölött, aki így viselkedett: a mi Urunk Jézus Krisztus nevében egyesülve – ti és én – Urunk Jézus hatalmával zárjuk ki az ilyent a közösségből, hogy teste bűnhődésével lelke végül is üdvözüljön Urunk Jézus Krisztus napján.\n\nDicsekvéstek tehát nem helyes. Nem tudjátok, hogy egy kevés kovász az egész tésztát megkeleszti? El a régi kovásszal, hogy új tésztává legyetek, aminthogy kovásztalanok is vagytok, (vagyis megtisztultatok)! Hiszen a mi húsvéti Bárányunkat, Krisztust feláldozták.\n\nÜnnepeljünk tehát, de ne a régi kovásszal, sem a romlottság és gonoszság kovászával, hanem a tisztaság és az igazság kovásztalan kenyerével!",
+  "cite": "1Kor 5,1-8"
+ }
+}

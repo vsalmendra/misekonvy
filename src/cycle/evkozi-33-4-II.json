@@ -1,0 +1,33 @@
+{
+ "key": "evkozi-33-4-II",
+ "source_date": "2024-11-21",
+ "rank": "",
+ "day": "33. évközi hét csütörtök",
+ "psalm": {
+  "cite": "Zsolt 149,1-2.3-4.5 és 6a és 9b",
+  "response": "Istenünk országává és papjaivá tettél minket.",
+  "verses": [
+   "Vagy: Alleluja. 7. szám.\nAz Úrnak új dalt énekeljetek,\na szentek közösségében zengjen dicsérete.\nTeremtőjének örvendjen Izrael,\nés Sion gyermekei ujjongjanak királyuknak.",
+   "Vagy: Alleluja.\nNevét körtánccal dicsérjék:\nzengjen a zsoltár dobbal és citerával.\nNépében az Úr kedvét találja,\nüdvösségre vezeti a szelídeket.",
+   "Vagy: Alleluja.\nÖrvendjenek a szentek dicsőségükben,\npihenőhelyükön is ujjongjanak.\nIsten magasztalása zeng az ajkukon,\nösszes szentjeinek ez lesz dicsősége.",
+   "Vagy: Alleluja."
+  ]
+ },
+ "alleluia": {
+  "text": "Bár hallgatnátok ma Isten szavára! Ne legyetek többé keményszívűek!",
+  "cite": "Zsolt 94,8ab"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Halljuk meg az Úr szavát, hogy üdvözítő javaiban részesüljünk!",
+  "text": "Amikor Jézus közel ért Jeruzsálemhez, és megpillantotta a várost, sírva fakadt. Azután ezt mondta:\n\n„Bárcsak felismernéd te is, legalább ezen a napon, ami üdvösségedre szolgál! Most azonban el van rejtve szemed előtt. Jönnek majd napok, amikor sánccal vesz körül ellenséged, bekerít és mindenfelől ostromol. Eltipornak téged és gyermekeidet, akik falaid közt laknak. Nem hagynak benned követ kövön, mert nem ismerted fel látogatásod idejét.”",
+  "cite": "Lk 19,41-44"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "a Jelenések könyvéből",
+  "summary": "Jézus, az Isten Báránya megváltott minket vére kiontása árán.",
+  "text": "Én, János, látomásban láttam a mennyei trónuson ülőnek jobb kezében egy kívül-belül teleírt könyvtekercset, amely hét pecséttel volt lepecsételve. Aztán láttam egy hatalmas angyalt, aki harsány szóval kérdezte: „Ki méltó arra, hogy kibontsa a könyvtekercset, és feltörje pecsétjeit?” De senki sem volt képes rá sem a mennyben, sem a földön, sem a föld alatt, hogy kinyissa a könyvet, és elolvassa. Erre keserves sírásra fakadtam, mert senki sem volt méltó a könyvtekercset kinyitni és elolvasni. A vének egyike így szólt hozzám: „Ne sírj! Nézd, győzött az oroszlán Júda törzséből, Dávid sarja. Ő majd kinyitja a könyvet, és feltöri hét pecsétjét.”\n\nAkkor láttam, hogy a trón és a négy élőlény meg a vének között, mintegy megölve, ott áll a Bárány. Hét szarva és hét szeme volt: ezek Istennek az egész földre szétküldött hét szelleme. Odament, és átvette a trónon ülő jobbjából a könyvet. Amint átvette a könyvet, a négy élőlény és a huszonnégy vén leborult a Bárány előtt. Hárfája volt mindegyiknek és tömjénnel telt aranycsészéje: ezek a szentek imádságai. Új éneket énekeltek: „Méltó vagy, (Urunk), hogy átvedd a könyvet, és feltörd pecsétjeit. Hiszen megöltek, de megváltottad (az embereket) Istennek, véred árán minden törzsből, nyelvből, népből és nemzetből. Istenünk országává és papjaivá tetted őket, és majd uralkodni fognak a földön.”",
+  "cite": "Jel 5,1-10"
+ }
+}

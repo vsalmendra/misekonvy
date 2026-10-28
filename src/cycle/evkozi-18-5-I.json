@@ -1,0 +1,32 @@
+{
+ "key": "evkozi-18-5-I",
+ "source_date": "2025-08-08",
+ "rank": "",
+ "day": "18. évközi hét péntek",
+ "psalm": {
+  "cite": "Zsolt 76,12-13.14-15.16 és 21",
+  "response": "Szüntelenül arra gondolok, amit értünk tettél.",
+  "verses": [
+   "Istenem tetteiről megemlékezem,\nemlékezem kezdettől adott csodáidról.\nElmélkedem minden művedről,\nnagyszerű tetteidről gondolkodom.",
+   "Isten, szent a te utad,\nki olyan nagy isten, mint a mi Istenünk?\nTe vagy az Isten, aki csodákat tehet,\nmegismertetted hatalmadat a népek között.",
+   "Megváltottad népedet erős karoddal,\nJákob és József nemzetségét.\nNépedet mint nyájat vezetted\nMózes és Áron keze által."
+  ]
+ },
+ "alleluia": {
+  "text": "Boldogok, akik üldözést szenvednek az igazságért, mert övék a mennyek országa.",
+  "cite": "Mt 5,10"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Aki követni akarja Jézust, vegye fel keresztjét!",
+  "text": "Egy alkalommal Jézus így szólt tanítványaihoz:\n\nHa valaki követni akar engem, tagadja meg magát, vegye föl keresztjét, és kövessen! Mert mindaz, aki meg akarja menteni életét, elveszíti azt; és aki énérettem elveszíti életét, megtalálja azt.\n\nMert mit használ az embernek, ha az egész világot megnyeri is, de a lelke kárt szenved? Mit is adhatna az ember cserébe saját lelkéért?\n\nAz Emberfia pedig el fog jönni Atyjának dicsőségében, angyalai kíséretében, és megfizet mindenkinek tettei szerint.\n\nBizony, mondom nektek: Az itt állók közül néhányan nem halnak meg, amíg meg nem látják az Emberfiát, amint eljön országában.",
+  "cite": "Mt 16,24-28"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Mózes ötödik könyvéből",
+  "summary": "Isten megkülönböztetett szeretettel szerette választott népét.",
+  "text": "Az Egyiptomból való kivonulás után a negyvenedik esztendőben Mózes ezt a beszédet intézte a néphez: „Kutasd a régi időket, amelyek előtted voltak, attól a naptól kezdve, hogy Isten embert teremtett a földre! Vajon az ég egyik határától a másikig történt-e valaha ilyen nagy dolog, lehetett-e hallani hasonlót? Van-e olyan nép, amelyik hallotta az élő Istent lángok közül beszélni, ahogy te hallottad, – és életben maradt? Volt-e valaha is olyan Isten, aki megtette, hogy egy népet kivezessen egy másik nép köréből megpróbáltatásokkal, jelekkel és csodákkal, háborúsággal, erős kézzel és kinyújtott karral, nagy csapásokkal, ahogy az Úr, a ti Istenetek veletek tette Egyiptomban a szemetek láttára?\n\nMindezt azért tette, hogy megtudjad, hogy az Úr az Isten, és rajta kívül nincs más Isten. Az égből szavát hallatta, hogy oktasson téged; a földön hatalmas tüzet mutatott neked, és hallottad oktatását a tűz közepéből.\n\nMindezt azért tette, mert szerette atyáidat, és választott népévé tette utódaikat. Éppen azért az ő nagy erejével kihozott Egyiptomból, és előtted járt, hogy igen nagy és nálad erősebb nemzeteket eltöröljön utadból, és téged vigyen be a helyükre, és nektek adja földjüket birtokul, ahogyan ezt ma láthatod.\n\nTudd meg hát és vésd szívedbe, hogy fönn az égben és lenn a földön az Úr az Isten, senki más! Tartsd meg parancsait és törvényeit, amelyeket ma parancsolok neked, hogy jól menjen sorod, és majd utánad gyermekeidnek is, és hogy sokáig élj azon a földön, amelyet az Úr, a te Istened neked ad örökre!”",
+  "cite": "MTörv 4,32-40"
+ }
+}

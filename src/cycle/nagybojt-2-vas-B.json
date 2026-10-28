@@ -1,0 +1,40 @@
+{
+ "key": "nagybojt-2-vas-B",
+ "source_date": "2024-02-25",
+ "rank": "",
+ "day": "Nagyböjt 2. vasárnap",
+ "psalm": {
+  "cite": "Zsolt 115,10 és 15.16-17.18-19",
+  "response": "Az Úr színe előtt járok, az élők földjén.",
+  "verses": [
+   "Erős az én hitem, bár gyakran mondtam:\n„Engem nagyon megaláztak.”\nDrága dolog az Úr színe előtt\nszentjei dicső halála.",
+   "Ó, Uram, én a te szolgád vagyok,\nszolgád vagyok és szolgálód gyermeke.\nBilincseimet széjjeltörted, † bemutatom néked a dicséret áldozatát,\nés az Úr nevét hívom segítségül.",
+   "Megadom az Úrnak, amit fogadtam,\negész népének színe előtt.\nAz Úr házának udvarán,\na te falaid között, Jeruzsálem."
+  ]
+ },
+ "alleluia": {
+  "text": "A fényes felhőből az Atya szózata hallatszott: „Ez az én szeretett Fiam, őt hallgassátok!”",
+  "cite": "Mt 17,5",
+  "lent": true
+ },
+ "gospel": {
+  "book": "Szent Márk",
+  "summary": "",
+  "text": "Abban az időben: Jézus maga mellé vette Pétert, Jakabot és Jánost, és egyedül velük fölment egy magas hegyre. Ott elváltozott előttük. Ruhája olyan ragyogó fehér lett, hogy a földön semmiféle kelmefestő nem képes így a ruhát kifehéríteni. Egyszerre megjelent nekik Illés és Mózes, és beszélgettek Jézussal.\n\nPéter ekkor ezt mondta Jézusnak: „Mester! Olyan jó nekünk itt lennünk! Készítsünk három sátrat: neked egyet, Mózesnek egyet és Illésnek egyet!” Nem is tudta, mit mond, annyira meg voltak ijedve.\n\nEkkor felhő árnyékolta be őket, és a felhőből szózat hallatszott: „Ez az én szeretett Fiam, őt hallgassátok!” Mire körülnéztek, már senkit sem láttak, csak Jézust egymagát.\n\nA hegyről lejövet megparancsolta nekik, hogy ne mondják el senkinek, amit láttak, amíg az Emberfia fel nem támad a holtak közül. A parancsot megtartották, de maguk között megvitatták, hogy mit jelenthet az, hogy feltámad a holtak közül.",
+  "cite": "Mk 9,2-10"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Mózes első könyvéből",
+  "summary": "",
+  "text": "Isten próbára tette Ábrahámot és így szólt hozzá: „Ábrahám, Ábrahám!” „Itt vagyok” – felelte. Akkor ezt mondta neki: „Vedd egyetlen fiadat, akit szeretsz, Izsákot, menj Morija földjére, s ott mutasd be égőáldozatul azon a helyen, amelyet majd mutatok neked.” Amikor megérkeztek a helyre, amelyet Isten mondott neki, Ábrahám megépítette az oltárt, rárakta a fát, kinyújtotta kezét, és vette a kést, hogy feláldozza a fiát. De az Úr angyala rászólt az égből, és azt mondta: „Ábrahám, Ábrahám!” „Itt vagyok” – felelte. Az angyal folytatta: „Ne nyújtsd ki kezedet a fiú felé és ne árts neki. Most már tudom, hogy féled az Istent, és egyetlen fiadat nem tagadtad meg tőlem.” Amikor Ábrahám fölemelte szemét, látott egy kost, amely szarvánál fogva fennakadt a bozótban. Ábrahám odament, megfogta a kost és feláldozta égőáldozatul fia helyett.\n\nAzután az Úr angyala az égből másodszor is szólt Ábrahámhoz, és mondta: „Magamra esküszöm – ez az Úr szava –, hogy mivel ezt tetted és egyetlen fiadat nem tagadtad meg tőlem, gazdagon megáldalak. Utódaidat megsokasítom, mint az ég csillagait és mint a tengerpart fövenyét; utódaid elfoglalják majd az ellenség kapuját. Utódaid által nyer áldást a föld minden népe, mivel hallgattál a szavamra.”",
+  "cite": "Ter 22,1-2.9a.10-13.15-18"
+ },
+ "reading2": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a rómaiakhoz írt leveléből",
+  "summary": "",
+  "text": "Testvéreim!\n\nHa Isten velünk, ki ellenünk? Aki nem kímélte saját Fiát, hanem mindnyájunkért áldozatul adta, hogyne ajándékozna nekünk vele együtt mindent? Ki emel vádat Isten választottai ellen? Isten, aki a megigazulást adta? Ki ítél el? Krisztus Jézus, aki meghalt, sőt fel is támadt, és az Isten jobbján közbenjár értünk?",
+  "cite": "Róm 8,31b-34"
+ }
+}

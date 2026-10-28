@@ -1,0 +1,33 @@
+{
+ "key": "evkozi-20-5-I",
+ "source_date": "2025-08-22",
+ "rank": "",
+ "day": "20. évközi hét péntek",
+ "psalm": {
+  "cite": "Zsolt 145,5-6.7.8-9a.9bc-10",
+  "response": "Áldjad, lelkem, az Urat, dicsőítsed az Istent!",
+  "verses": [
+   "Boldog, akinek segítője Jákob Istene,\nés akinek Istenben, az Úrban van reménye.\nŐ alkotta az eget és a földet,\na tengert és mindazt, ami benne él.",
+   "Isten igaz marad örökké,\naz elnyomottaknak igazságot szolgáltat.\nAz éhezőknek ő ad kenyeret,\nkiszabadítja az Úr a foglyokat.",
+   "Az Úr megnyitja a vakok szemét,\nés fölemeli azt, aki elesett.\nAz Úr szereti az igaz embert,\na jövevényt megvédi.",
+   "Az Úr támogatja az árvát és özvegyet,\nés elpusztítja a gonoszok útját.\nAz Úr uralkodik örökké,\na te Istened, ó, Sion, nemzedékről nemzedékre."
+  ]
+ },
+ "alleluia": {
+  "text": "Taníts meg ösvényeidre, Uram, igazságod szerint vezess engem!",
+  "cite": "Zsolt 24,4b.5a"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Legfontosabb dolgunk a földön: szeretni Istent és az embereket.",
+  "text": "Abban az időben amikor a farizeusok meghallották, hogy Jézus hogyan hallgattatta el a szadduceusokat, köréje gyűltek, és egyikük, egy törvénytudó alattomos szándékkal a következő kérdést tette fel neki: „Mester, melyik a legfőbb parancs a törvényben?”\n\nJézus így válaszolt: „Szeresd az Urat, a te Istenedet teljes szíveddel, teljes lelkeddel és egész értelmeddel. Ez az első és legfőbb parancsolat. A második hasonló ehhez: Szeresd felebarátodat, mint saját magadat. E két parancson nyugszik az egész törvény és a próféták.”",
+  "cite": "Mt 22,34-40"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Rút könyvéből",
+  "summary": "A pogány népből származó Rút megismeri az igaz Istent.\n\nMegható hűséggel ragaszkodik anyósához\nés rajta keresztül a választott néphez.",
+  "text": "A bírák korában éhínség támadt a választott nép földjén. Ekkor a júdeai Betlehemből elindult egy ember, hogy a pogány moábiták országában telepedjék le feleségével és két fiával együtt. (Mindnyájan efrataiak voltak, a júdeai Betlehemből valók.)\n\nTörtént, hogy a moábiták földjén a férfi meghalt. Így felesége, Noémi, magára maradt két fiával. Ezek moábita nőket vettek feleségül. Egyiknek a feleségét Orfának, a másikét Rútnak hívták.\n\nTízéves ott-tartózkodásuk idején meghalt a két fia is. Így azután Noémi most már nemcsak férjétől, hanem két fiától is megfosztva magára maradt. Két menyével együtt fölkerekedett, és elindult, hogy a pogány moábiták földjéről visszatérjen hazájába. Hallotta ugyanis, hogy az Úr megkönyörült népén, és nincs már éhínség otthon.\n\nÚtközben Orfa elbúcsúzott anyósától, és visszatért a moábitákhoz. Rút azonban hűségesen kitartott anyósa mellett. Noémi így biztatta:\n\n„Látod, sógornőd visszatért népéhez és vallásához. Menj te is vele!”\n\nRút azonban így felelt:\n\n„Hogy elhagyjalak, arra ne is kényszeríts, mert bárhová mégy, én úgyis veled megyek.\n\nAhol te megtelepszel, én is ott lakom:\n\nnéped az én népem, és Istened az én Istenem lesz.”\n\nÍgy jött el Noémi a moábita Rúttal idegen földről Betlehembe, ahol éppen akkor kezdték aratni az árpát.",
+  "cite": "Rút 1,1.3-6.14b-16.22"
+ }
+}

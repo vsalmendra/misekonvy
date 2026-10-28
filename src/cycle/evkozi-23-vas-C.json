@@ -1,0 +1,40 @@
+{
+ "key": "evkozi-23-vas-C",
+ "source_date": "2025-09-07",
+ "rank": "",
+ "day": "Évközi 23. vasárnap",
+ "psalm": {
+  "cite": "Zsolt 89,3-4.5-6.12-13.14 és 17",
+  "response": "Te lettél, Uram, menedékünk, nemzedékről nemzedékre. 1. vers.",
+  "verses": [
+   "Te a halandót ismét porrá teszed,\nígy szólsz: Emberek fiai térjetek vissza.\nA te szemedben ezer év akár a tegnap,\núgy tűnik tova, mint egy őrállás éjszaka.",
+   "Te elragadod őket,\nolyanok lesznek, mint a hajnali álom.\nMint a fű, mely reggel kisarjad és fölvirul,\nestére azonban elfonnyad és elszárad.",
+   "Taníts meg számotvetni napjaink sorával,\nhogy bölcsességre neveljük szívünket.\nTérj hozzánk, Urunk, meddig késlekedsz?\nLégy könyörületes szolgáidhoz.",
+   "Áraszd ránk irgalmadat,\nhogy mindenkor örvendjünk és ujjongjunk.\nRagyogjon fölöttünk Urunknak, Istenünknek jósága, † áldott legyen kezünk minden műve,\nkísérje áldásod kezünk munkáját!"
+  ]
+ },
+ "alleluia": {
+  "text": "Ragyogtasd szolgád fölé arcodat, végzéseidre taníts meg engem!",
+  "cite": "Zsolt 118,135"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Csak az lehet Jézus tanítványa,\naki vele együtt vállalja a keresztet is.",
+  "text": "Abban az időben amikor Jézust nagy népsokaság követte, ő hozzájuk fordult, és így\n\nszólt: „Aki hozzám jön, de nem gyűlöli apját, anyját, feleségét,\n\ngyermekeit, fivérét és nővéreit, sőt még saját magát is, nem lehet az\n\nén tanítványom.\n\nAki tehát nem hordozza keresztjét, és nem így követ, nem lehet az én\n\ntanítványom. Ha valaki közületek tornyot akar építeni, vajon nem ül le\n\nelőbb, hogy kiszámítsa a költségeket, hogy van-e miből befejeznie? Mert\n\nha az alapokat lerakta, de (az építkezést) befejezni nem tudta,\n\nmindenki, aki csak látja, gúnyolni kezdi: »Ez az ember építkezésbe\n\nfogott, de nem tudta befejezni.«\n\nVagy, ha egy király hadba vonul egy másik király ellen, előbb leül és\n\nszámot vet, vajon a maga tízezer katonájával szembe tud-e szállni\n\nazzal, aki húszezerrel jön ellene? Mert ha nem, követséget küld hozzá\n\nmég akkor, amikor messze jár, és békét kér tőle.\n\nTehát mindaz, aki közületek nem mond le mindarról, amije van, nem\n\nlehet az én tanítványom.”",
+  "cite": "Lk 14,25-33"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "a Bölcsesség könyvéből",
+  "summary": "Imádság bölcsességért,\nhogy mindenben igénytelenek és egyszerűek tudjunk lenni.",
+  "text": "Melyik ember képes fölismerni Isten akaratát,\n\nés ki tudja elgondolni, mit kíván az Úr?\n\nHisz a halandók gondolatai bizonytalanok,\n\nés terveink ingatagok.\n\nMert a romlandó test gátolja a lelket,\n\nés a földi sátor ránehezedik a sokat tűnődő elmére.\n\nCsak nagy nehezen derítjük ki, ami a földön van,\n\nés üggyel-bajjal értjük meg, ami kézenfekvő.\n\nHát akkor az égi dolgokat ki tudná kifürkészni?\n\nKi ismerte föl valaha is akaratodat,\n\nha te nem adtál neki bölcsességet,\n\nés nem küldted el neki a magasból szent lelkedet?\n\nCsak így lettek simává a földön lakók útjai,\n\ns így tanulták meg az emberek, ami kedves a szemedben.\n\nCsak a bölcsesség által menekültek meg.",
+  "cite": "Bölcs 9,13-19"
+ },
+ "reading2": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a Filemonhoz írt leveléből",
+  "summary": "Szent Pál tanítja, hogy a rabszolga is testvérünk Krisztusban.",
+  "text": "Szeretett Testvéreim!\n\nÉn, az öreg Pál most Krisztus Jézusért fogságot szenvedek. Fiamért, Onezimuszért könyörgök, akinek bilincseimben én adtam életet.\n\nÚgy küldöm vissza hozzád, mint saját szívemet. Szerettem volna magam\n\nmellett tartani, hogy helyetted szolgáljon nekem fogságomban, amelyet\n\naz evangéliumért viselek.\n\nBeleegyezésed nélkül azonban mégsem teszem, hogy jótéteményed ne\n\nkényszerből fakadjon, hanem önként vállald. Talán éppen azért hagyott\n\nott egy időre, hogy egyszer s mindenkorra visszakapjad, de már nem mint\n\nszolgát, hanem többet: mint szeretett testvért. Mert nekem teljesen az,\n\nde neked még inkább: test szerint is, az Úrban is.\n\nHa tehát együtt érzel velem, fogadd őt úgy, mint engem.",
+  "cite": "Filem 9b-10.12-17"
+ }
+}

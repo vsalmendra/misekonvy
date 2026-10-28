@@ -1,0 +1,32 @@
+{
+ "key": "evkozi-5-3-I",
+ "source_date": "2025-02-12",
+ "rank": "",
+ "day": "5. évközi hét szerda",
+ "psalm": {
+  "cite": "Zsolt 103,1-2a.27-28.29bc-30",
+  "response": "Mondj áldást, lelkem, Urunknak, Istenünknek.",
+  "verses": [
+   "Mondj áldást, lelkem, az Úrnak!\nCsodálatos a te nagyságod, én Uram, Istenem.\nFenségbe és ékességbe öltözöl,\nsugárzó fény a te köntösöd.",
+   "Mindenek tőled várják,\nhogy enniök adj kellő időben.\nÖsszegyűjtik, amit nekik juttatsz,\nmegnyitod kezedet, és eltelnek minden jóval.",
+   "Ha megvonod éltető erődet,\nelpusztulnak, és a porba térnek.\nÁm, ha újra kiárasztod lelkedet, életre kelnek,\nés a föld színét megújítod."
+  ]
+ },
+ "alleluia": {
+  "text": "Uram, a te szavad igazság. Tégy szentté minket igazságod által! Jn 17,17b és a",
+  "cite": ""
+ },
+ "gospel": {
+  "book": "Szent Márk",
+  "summary": "Az a rossz teszi tisztátalanná az embert, ami belülről, a szívéből származik.",
+  "text": "Jézus egy alkalommal ismét magához hívta a népet, és így tanította őket:\n\n„Hallgassatok rám mindnyájan, és jól értsétek meg! Nem az szennyezi be az embert, ami kívülről jut az emberbe; hanem ami az emberből származik, az szennyezi be őt.”\n\nAmikor Jézus a népsokaság elől bement a házba, tanítványai megkérdezték tőle, mi a példabeszéd értelme. Ezt felelte: „Hát még ti sem értitek? Nem tudjátok, hogy amit megeszik az ember, az nem szennyezheti be, mert nem a szívébe jut, hanem a gyomrába, és a félreeső helyre kerül?” Ezzel tisztának mondott minden ételt.\n\nAztán így folytatta: „Ami az emberből ered, az teszi tisztátalanná az embert. Mert belülről, az ember szívéből származik minden gonosz gondolat, paráznaság, lopás, gyilkosság, házasságtörés, kapzsiság, rosszindulat, csalás, kicsapongás, irigység, káromlás, kevélység, léhaság. Ez a sok rossz mind belülről származik, és ez teszi tisztátalanná az embert.”",
+  "cite": "Mk 7,14-23"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Mózes első könyvéből",
+  "summary": "Isten embert teremtett, és a Paradicsomkertet adta neki lakásul.",
+  "text": "Amikor az Úristen megalkotta az eget és a földet, még semmiféle mezei bokor nem hajtott ki rajta; sőt még fű sem sarjadt a földből. Akkor ugyanis az Úristen még nem hullatott esőt a földre, és még ember sem volt, aki megmunkálja azt. De forrás fakadt a földből, és megöntözte annak egész színét. Ezután alkotta meg az Úristen az embert a föld porából, belé lehelte az élet leheletét, és így lett az ember élőlény.\n\nEzután az Úristen Édenben, napkeleten kertet ültetett, és odahelyezte az embert, akit alkotott. A földből mindenféle fát növesztett, melyet látni szép, és amelyről enni jó; a Paradicsomkert közepén pedig kisarjasztotta az élet fáját, meg a jó és a gonosz tudásának fáját.\n\nAz Úristen tehát az embernek adta az Éden kertjét, hogy megművelje és őrizze. Ezt a parancsot adta neki: „A kert minden fájáról ehetsz, de a jó és a gonosz tudásának fájáról ne egyél, mert ha egyszer arról eszel, meg fogsz halni!”",
+  "cite": "Ter 2,4b-9.15-17"
+ }
+}

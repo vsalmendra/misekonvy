@@ -1,0 +1,33 @@
+{
+ "key": "evkozi-26-3-I",
+ "source_date": "2025-10-01",
+ "rank": "",
+ "day": "26. évközi hét szerda",
+ "psalm": {
+  "cite": "Zsolt 136,1-6",
+  "response": "Ragadjon ínyemhez a nyelvem, ha megfeledkezem rólad!",
+  "verses": [
+   "Babilon folyói mellett ültünk és sírtunk,\nSion városára emlékeztünk.\nHárfáinkat fűzfákra függesztettük\nazon a földön.",
+   "Mert akik elhurcoltak minket,\ndalt akartak hallani tőlünk.\nElnyomóink öröméneket követeltek tőlünk:\n„Daloljatok nekünk Sion dalaiból!”",
+   "Hogyan dalolhatnánk az Úr énekeit\naz idegen földön?\nHa elfelednélek téged, Jeruzsálem,\nszáradjon el a jobb kezem!",
+   "Ragadjon ínyemhez a nyelvem,\nha nem emlékezem meg rólad,\nha nem Jeruzsálemet tartom\nlegfőbb örömömnek."
+  ]
+ },
+ "alleluia": {
+  "text": "Mindent elvetettem, sőt szemétnek tekintek, csakhogy Krisztust elnyerjem, és őhozzá tartozzam.",
+  "cite": "Fil 3,8-9"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Jézus követése áldozatos lemondást kíván.",
+  "text": "Amikor már közel voltak Jézus szenvedésének és megdicsőülésének napjai, elhatározta, hogy tanítványaival Jeruzsálembe megy. Történt pedig, hogy útközben valaki így szólt hozzá: „Követlek, bárhová mégy.” Jézus így válaszolt: „A rókának van odúja, az ég madarainak fészke, de az Emberfiának nincs hová fejét lehajtania.”\n\nEgy másikat Jézus szólított fel: „Kövess engem!” Az így válaszolt: „Uram, engedd meg, hogy előbb elmenjek és eltemessem apámat.” „Hagyd a holtakra, hadd temessék el halottaikat – mondta neki –, te pedig menj, és hirdesd az Isten országát.”\n\nEgy harmadik ezt mondta neki: „Uram, követlek téged, de engedd meg, hogy előbb elbúcsúzzam a családomtól.” Jézus így válaszolt: „Aki kezét az eke szarvára tette, és mégis hátratekint, nem alkalmas az Isten országára.”",
+  "cite": "Lk 9,57-62"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Nehemiás könyvéből",
+  "summary": "Artaxerxész perzsa király engedélyével Nehemiás hazatér, hogy újra felépítse a szent várost. Az Úr mindig vele van.",
+  "text": "Hazatérésének történetét így beszéli el Nehemiás, a perzsa király pohárnoka, az Úr választott embere: Artaxerxész király uralkodásának huszadik esztendejében történt, Niszán hónapban, a tavasz havában.\n\nEgyszer éppen bor volt a király asztalán.\n\nFogtam a bort, és odanyújtottam a királynak.\n\nAzelőtt sohasem voltam szomorú.\n\nDe a király akkor megkérdezte tőlem: „Miért szomorú a tekinteted? Beteg vagy talán? A szívednek valami bánata lehet!”\n\nNagyon megijedtem, és így szóltam a királyhoz: „Királyom, élj örökké! De miért is ne volna szomorú az arcom, amikor az a város, ahol atyáim sírjai vannak, romokban hever, és kapuit tűz emésztette meg.”\n\nA király erre megkérdezte: „Mi a kívánságod?”\n\nÉn akkor segítségül hívtam az ég Istenét, és ezt kértem a királytól: „Ha jónak látja a király, és szolgája kedves előtte, akkor küldj el engem Júdeába, hogy a várost, ahol atyáim sírjai vannak, újra felépíthessem.”\n\nA király, aki mellett ott ült a királyné, megkérdezte tőlem: „Mennyi időre tervezed utadat, és mikor térnél vissza?”\n\nMeghatároztam egy időpontot. Ez megfelelt a királynak, és megengedte, hogy elmenjek.\n\nMég azt is kértem a királytól: „Ha úgy tetszik a királynak, adjon nekem leveleket a Folyón-túli országrészek kormányzói számára, hogy engedjék meg nekem az átvonulást, amíg hazámba, Júdeába vissza nem jutok; továbbá levelet Aszafhoz, a királyi erdők felügyelőjéhez, hogy adjon nekem épületfát a templomhoz tartozó erőd kapuihoz, ahol majd lakni fogok.”\n\nA király mindezt biztosította nekem, mert fölöttem volt az én Istenem jóságos keze.",
+  "cite": "Neh 2,1-8"
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "key": "evkozi-29-3-I",
+ "source_date": "2025-10-22",
+ "rank": "",
+ "day": "29. évközi hét szerda",
+ "psalm": {
+  "cite": "Zsolt 123,1-3.4-6.7-8",
+  "response": "Az Úr a mi segítségünk, aki az eget és a földet alkotta.",
+  "verses": [
+   "Ha nem lett volna velünk az Úr, vallja meg most Izrael, † ha nem lett volna velünk az Úr,\namikor az emberek ránk támadtak,\nakkor elevenen elnyeltek volna,\núgy fellángolt haragjuk ellenünk.",
+   "Elnyelt volna minket akkor a víz, † a zuhatag elsodorta volna életünket,\nelragadtak volna a tajtékzó hullámok.\nLegyen áldott az Úr,\nmert nem adott minket foguk martalékául.",
+   "Megmenekültünk, mint a madár a vadászok hálójából:\na vadászháló szétszakadt, és mi szabadok lettünk.\nAz Úr a mi segítségünk,\naki az eget és a földet alkotta."
+  ]
+ },
+ "alleluia": {
+  "text": "Virrasszatok és álljatok készen, mert nem tudjátok, hogy az Emberfia mikor érkezik!",
+  "cite": "Mt 24,42a.44"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Sokról kell számot adnia annak, aki sokat kapott.",
+  "text": "Abban az időben Jézus így szólt tanítványaihoz:\n\n„Gondoljátok meg: Ha tudná a házigazda, hogy melyik órában jön a tolvaj, nem engedné betörni házába. Éberen várjátok tehát az Emberfiát, mert eljön abban az órában, amikor nem is gondoljátok.”\n\nPéter megkérdezte: „Uram, csak nekünk mondod ezt a példabeszédet, vagy mindenkinek?”\n\nAz Úr így válaszolt: „Ki a hű és okos sáfár, akit ura szolgái fölé rendel, hogy ha eljön az ideje, kiadja részüket az élelemből?\n\nBoldog az a szolga, akit hazatérő ura ebben a tevékenységben talál. Bizony, mondom nektek, hogy minden vagyonát rábízza.\n\nDe ha a szolga azt mondja magában: »Uram bizonyára késni fog«, és elkezdi verni a többi szolgát és szolgálót, eszik-iszik meg részegeskedik, és megérkezik ennek a szolgának az ura olyan napon, amikor nem is várja, és olyan órában, amikor nem gondolja, bizony kegyetlenül megbünteti, és a hűtlenek sorsára juttatja.\n\nAz a szolga, aki ismeri ura akaratát, de nem áll készen, hogy akarata szerint járjon el, sok verést kap. Aki azonban nem ismeri, s így tesz olyat, amiért büntetést érdemel, csak kevés verést kap.\n\nMert aki sokat kapott, attól sokat követelnek, és akire sokat bíztak, attól többet kérnek számon.”",
+  "cite": "Lk 12,39-48"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a rómaiakhoz írt leveléből",
+  "summary": "A keresztény ember megtagadja a bűn szolgálatát, és egészen Istennek szenteli magát.",
+  "text": "Testvéreim!\n\nNe uralkodjék testeteken a bűn, és ne engedelmeskedjetek kívánságainak! Ne adjátok át tagjaitokat a bűn szolgálatára a gonoszság eszközeként, hanem mint akik a halálból életre keltek, adjátok magatokat Isten szolgálatára, tagjaitokat pedig az igazság eszközéül szenteljétek az Istennek. A bűn ugyanis többé nem uralkodik rajtatok, mert nem az ószövetségi törvény alá vetve éltek, hanem a kegyelemben.\n\nMi következik ebből? Vétkezzünk tehát, mert nem a törvény alatt, hanem a kegyelemben élünk? Isten mentsen! Nem tudjátok-e, hogy Isten szolgái vagytok, és neki kell engedelmeskednetek, akinek mint szolgák alárendelitek magatokat?\n\nVagy a bűnnek engedelmeskedtek, és ez halálra vezet; vagy az Istennek engedelmeskedtek, és ez a megigazulásra vezet. Hála legyen azonban Istennek, hogy – bár a bűnnek szolgáltatok – most már szívből engedelmeskedtek annak a tanításnak, amelyre oktattak. A bűntől megszabadulva, az igaz élet szolgái lettetek.",
+  "cite": "Róm 6,12-18"
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "key": "jezus-szive-C",
+ "source_date": "2025-06-27",
+ "rank": "",
+ "day": "Jézus Szent Szíve - 2025 C év",
+ "psalm": {
+  "cite": "Zsolt 22,1-3a.3b-4.5.6",
+  "response": "Az Úr nékem pásztorom, ínséget nem kell látnom.",
+  "verses": [
+   "Az Úr nékem pásztorom,\nínséget nem kell látnom.\nZöldellő mezőkön, terelget engem,\ncsendes vizekhez vezet, és lelkemet felüdíti.",
+   "Az igazság ösvényén vezet engem,\nahogyan ő megígérte.\nA halál sötét völgyében sem félek, mert ott vagy vélem,\nbiztonságot ad vessződ és pásztorbotod.",
+   "Számomra asztalt terítettél,\nhogy üldözőimet szégyen érje.\nFejemet megkented olajoddal,\nserlegemet csordultig megtöltötted.",
+   "Jóságod és irgalmad nyomon követ,\néletemnek minden napján.\nOtthonom lesz az Isten háza,\nmindörökké szünet nélkül."
+  ]
+ },
+ "alleluia": {
+  "text": "Vegyétek magatokra igámat és tanuljatok tőlem, mert szelíd vagyok és alázatos szívű!",
+  "cite": "Mt 11,29ab"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Az elveszett után megy, amíg meg nem találja.",
+  "text": "Abban az időben Jézus ezt a példabeszédet mondta: „Ha közületek valakinek száz juha van, és egy elvész belőlük, nem hagyja-e ott a kilencvenkilencet a pusztában, és nem megy-e az elveszett juh után, amíg meg nem találja?\n\nHa megtalálta, örömében vállára veszi, hazasiet vele, összehívja\n\nbarátait és szomszédait, és azt mondja nekik: »Örüljetek velem, mert\n\nmegtaláltam elveszett juhomat!«”\n\nMondom nektek, éppen így nagyobb öröm lesz a mennyben egy megtérő\n\nbűnösön, mint kilencvenkilenc igazon, akinek nincs szüksége megtérésre.",
+  "cite": "Lk 15,3-7"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a rómaiakhoz írt leveléből",
+  "summary": "Isten szeretete kiárad szívünkbe.",
+  "text": "Testvéreim!\n\nA nekünk ajándékozott Szentlélekkel kiáradt szívünkbe az\n\nIsten szeretete.\n\nAmikor még erőtlenek voltunk, Krisztus az erre alkalmas időben\n\nmeghalt a bűnösökért, pedig az igazért is alig hal meg valaki,\n\nlegfeljebb a jótevőért adja életét az ember.\n\nIsten azonban azzal bizonyítja irántunk való szeretetét, hogy amikor\n\nmég bűnösök voltunk, Krisztus meghalt értünk. Most, hogy vére árán\n\nigazzá váltunk, még inkább megment bennünket haragjától.\n\nMert ha Istent Fia halála kiengesztelte akkor, amikor még ellenségek\n\nvoltunk, most, hogy kibékültünk vele, az ő életébe beoltva még\n\nkönnyebben megszabadulunk. Sőt, ezen felül még dicsekszünk is az\n\nIstenben Urunk, Jézus Krisztus által, aki megszerezte nekünk a\n\nkiengesztelődést.",
+  "cite": "Róm 5,5b-11"
+ }
+}

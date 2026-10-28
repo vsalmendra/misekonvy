@@ -1,0 +1,40 @@
+{
+ "key": "evkozi-30-vas-B",
+ "source_date": "2024-10-27",
+ "rank": "",
+ "day": "Évközi 30. vasárnap",
+ "psalm": {
+  "cite": "Zsolt 125,1-2ab.2cd-3.4-5.6",
+  "response": "Hatalmas dolgot művelt az Úr vélünk, azért szívből ujjongunk.",
+  "verses": [
+   "Midőn az Úr hazahívta Sionnak foglyait,\nolyanok voltunk, mint akik álmodnak.\nMegtelt akkor örömmel az ajkunk,\nés a nyelvünk ujjongással.",
+   "Akkor így beszéltek a nemzetek:\n„Az Úr nagy dolgot művelt vélük.”\nHatalmas dolgot művelt az Úr vélünk,\nazért szívből ujjongunk.",
+   "Fordítsd, Uram, jóra sorsunkat,\namint megárasztod délen a folyókat.\nAkik könnyek között vetnek,\nmajd ujjongva aratnak.",
+   "Sírva viszik a magot, mikor vetni indulnak,\nde ujjongva jönnek, jönnek és hozzák kévéiket."
+  ]
+ },
+ "alleluia": {
+  "text": "Üdvözítőnk, Jézus Krisztus győzött a halálon, és az evangéliumban fölragyogtatta az örök életet.",
+  "cite": "2Tim 1,10"
+ },
+ "gospel": {
+  "book": "Szent Márk",
+  "summary": "",
+  "text": "Abban az időben tanítványaival Jézus Jerikóba érkezett. Amikor tanítványainak és nagy tömegnek a kíséretében elhagyta Jerikót, egy vak koldus, Timeus fia, Bartimeus ott ült az útszélen. Hallva, hogy a názáreti Jézus közeledik, elkezdett kiáltozni: ,Jézus, Dávid fia, könyörülj rajtam!” Többen szóltak neki, hogy hallgasson, de ő annál hangosabban kiáltotta: „Dávid fia, könyörülj rajtam!”\n\nJézus megállt és így szólt: „Hívjátok ide!” Odaszóltak a vaknak: „Bátorság! Gyere, téged hív!” Az eldobta köntösét, felugrott és odament Jézushoz. Jézus megkérdezte: „Mit akarsz, mit tegyek veled?” A vak ezt felelte: „Mester, hogy lássak.” Jézus erre így szólt hozzá: „Menj, a hited megmentett téged.” Az pedig nyomban visszanyerte látását, és követte őt az úton.",
+  "cite": "Mk 10,46-52"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Jeremiás próféta könyvéből",
+  "summary": "",
+  "text": "Ezt mondja az Úr: „Kitörő örömmel örüljetek Jákobon, örvendjetek annak, aki első a nemzetek között. Dicsőítsétek, hirdessétek és mondjátok: »Az Úr megszabadította népét, Izrael maradékát.« Íme, visszahozom őket észak földjéről, és összegyűjtöm őket a föld határairól. Mindnyájukat összegyűjtöm: a vakokat és a sántákat is, a várandósokat és a szülő anyákat is. Nagy sereg lesz, amely ide visszatér. Könnyek között jönnek, fohászkodás közt vezetem őket vissza. Forrásvizekhez vezérlem őket, sima ösvényeken, nehogy elessenek. Mert atyjává lettem Izraelnek, és Efraim az én elsőszülött fiam.”",
+  "cite": "Jer 31,7-9"
+ },
+ "reading2": {
+  "label": "Szentlecke",
+  "sub": "a Zsidókhoz írt levélből",
+  "summary": "",
+  "text": "Testvéreim!\n\nMinden főpap az emberek közül való, és arra rendelik, hogy az Isten tiszteletében képviselje az embereket, ajándékokat és áldozatot mutasson be a bűnökért, mint olyan valaki, aki megértő tud lenni a tudatlanok és a tévelygők iránt, hiszen őrá is gyöngeség nehezedik. Így a népért is, és a saját vétkeiért is áldozatot kell bemutatnia. Ezt a tisztséget magától senki sem vállalhatja, csak az, akit Isten meghív, mint Áront. Így Krisztus sem önmagát emelte főpapi méltóságra, hanem az, aki így szólt hozzá: „Fiam vagy te, ma szültelek téged.” Másutt meg ezt mondja: „Pap vagy te mindörökké Melkizedek rendje szerint.”",
+  "cite": "Zsid 5,1-6"
+ }
+}

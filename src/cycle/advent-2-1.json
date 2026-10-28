@@ -1,0 +1,32 @@
+{
+ "key": "advent-2-1",
+ "source_date": "2023-12-11",
+ "rank": "",
+ "day": "2. adventi hét hétfő",
+ "psalm": {
+  "cite": "Zsolt 84,9ab-10.11-12.13-14",
+  "response": "Íme, jön a mi Urunk, Istenünk, és üdvözít minket.",
+  "verses": [
+   "Hadd halljam, mit mond az én Uram, Istenem,\nmert népének és szentjeinek békét ígér.\nAz istenfélőhöz valóban közel az üdvösség,\nhogy országukba dicsőség költözzék.",
+   "Irgalom és hűség majd egymásra lelnek,\ncsókot vált az igazság és a béke.\nA földből a hűség kisarjad,\nés az igazságosság tekint le az égből.",
+   "Az Úr az ő jóságát megmutatja,\nföldünk is meghozza termését.\nIgazság jár az Úr előtt,\nés béke a lába nyomában."
+  ]
+ },
+ "alleluia": {
+  "text": "Íme, jön a föld Ura s Királya, leoldja rólunk a bűnök láncát.",
+  "cite": ""
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "A béna meggyógyítása mutatja, hogy köztünk van a megjövendölt Gyógyító.",
+  "text": "Egyik napon, amikor Jézus tanított, farizeusok és törvénytudók is ültek körülötte, akik Galilea és Júdea különböző falvaiból és Jeruzsálemből jöttek. Az Úr ereje akkor arra indította Jézust, hogy gyógyítson.\n\nEkkor néhány férfi egy béna embert hozott hordágyon. Be akarták vinni a házba, hogy eléje tegyék, de a tömeg miatt nem fértek hozzá. Ezért fölmentek a tetőre, és azon át bocsátották le ágyastul a középre, Jézus elé. Hitük láttára Jézus így szólt: „Ember, bocsánatot nyertek bűneid.” Erre az írástudók és a farizeusok azt gondolták magukban: „Ki ez, hogy így mer káromkodni? Ki bocsáthatja meg a bűnöket? Nemde egyedül Isten?”\n\nJézus pedig gondolataikba látva megszólalt: „Miért gondolkodtok így magatokban? Mi könnyebb, ha azt mondom: »Bocsánatot nyertek bűneid!« – vagy azt: »Kelj föl és járj!«? Tudjátok meg tehát, hogy az Emberfiának van hatalma a földön a bűnök megbocsátására.” Ezzel a bénához fordult: „Mondom neked, kelj föl, fogd ágyadat, és menj haza!” Erre ő a szemük láttára tüstént fölkelt. Fogta ágyát, amelyen feküdt, és Istent magasztalva hazament. Erre mindnyájukat ámulat fogta el, magasztalták Istent, és félelemmel eltelve mondogatták: „Csodadolgokat láttunk ma.”",
+  "cite": "Lk 5,17-26"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Izajás próféta könyvéből",
+  "summary": "Jön az Úr, hogy megszabadítsa népét. A fogságból hazatérőknek ő maga épít jó utat. Boldogok, akik azon járhatnak!",
+  "text": "Örüljön a puszta és a kiaszott vidék, ujjongjon a sivatag, és viruljon, mint a liliom. Virulva viruljon és örömében ujjongva daloljon! Mert övé a Libanon dicsősége, a Kármel és a Sáron pompája. Meglátják az Úr dicsőségét, Istenünk fönségét.\n\nErősítsétek meg az elernyedt kezeket, és a roskadozó térdeket szilárdítsátok meg! Mondjátok a csüggedt szívűeknek: „Bátorság! Ne féljetek! Íme, eljön Istenetek, eljön, hogy bosszút álljon és megfizessen. Maga az Isten jön el, hogy szabadulást hozzon nektek.”\n\nAkkor megnyílik a vakok szeme, és a siketek füle hallani fog. Ugrándozik majd a sánta, mint a szarvas, és a némák nyelve ujjongva ujjong. Mert vizek fakadnak a pusztában, és folyóvizek a sivatagban.\n\nA száraz vidék tóvá változik, a szomjas föld vizek forrásává. A sakálok egykori lakóhelyén zöldellő fű és nád terem. És egy tiszta út vezet majd át rajta, úgy fogják hívni: a szentek útja. Tisztátalan nem léphet rá, sem a balgák nem bolyongnak rajta.\n\nNem lesz ott oroszlán, és más ragadozó sem jár arra; a megváltottak vándorolnak rajta, akiknek az Úr szabadulást szerzett, azok térnek vissza rajta. Éneket zengve érnek a Sionra, és örök boldogságot tükröz az arcuk. Öröm és ujjongás jár a nyomukban, mert fájdalom és siralom nem lesz többé.",
+  "cite": "Iz 35,1-10"
+ }
+}

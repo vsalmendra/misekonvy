@@ -1,0 +1,33 @@
+{
+ "key": "evkozi-2-4-I",
+ "source_date": "2025-01-23",
+ "rank": "",
+ "day": "2. évközi hét csütörtök",
+ "psalm": {
+  "cite": "Zsolt 39,7-8a.8b-9.10.17",
+  "response": "Íme, eljövök, Uram, hogy teljesítsem azt, amit kívánsz.",
+  "verses": [
+   "Sem véres, sem ételáldozat nem kellett neked,\nfülemet azonban megnyitottad.\nNem követeltél égő- és engesztelő áldozatot,\nígy szóltam akkor: „Íme, eljövök.”",
+   "A könyvtekercsben rólam írva áll,\nhogy akaratodat teljesítsem.\nErre vágyom, Istenem,\ntörvényed szívemet örömmel tölti el.",
+   "Igazságodat hirdetem a nagy közösségben,\najkam el nem hallgat, Uram, jól tudod.",
+   "Ujjongjanak és örvendjenek a téged keresők, † „Hatalmas az Úr!” kiáltsák szüntelen,\nakik várják üdvösségedet."
+  ]
+ },
+ "alleluia": {
+  "text": "Üdvözítőnk, Jézus Krisztus, győzött a halálon, és az evangéliumban felragyogtatta az örök életet.",
+  "cite": "Vö. 2Tim 1,10"
+ },
+ "gospel": {
+  "book": "Szent Márk",
+  "summary": "Jézus sok beteget meggyógyít.\n\nMeghagyja azonban: Ne híreszteljék, hogy ő a Messiás.",
+  "text": "Abban az időben tanítványaival együtt Jézus visszavonult a Genezáreti-tóhoz. Nagy tömeg követte Galileából. Sőt Júdeából és Jeruzsálemből, Idumeából meg a Jordánon túlról, valamint Tírusz és Szidon környékéről is nagy sokaság csatlakozott hozzá, mert hallották, hogy milyen csodálatos dolgokat visz végbe.\n\nJézus meghagyta tanítványainak, hogy tartsanak készenlétben egy bárkát a tömeg tolongása miatt. Sokakat meggyógyított ugyanis, és aki valami bajban szenvedett, mind ott tolongott körülötte, hogy legalább megérinthesse.\n\nMég a tisztátalan lelkek is, amint meglátták Jézust, leborultak előtte, és így kiáltoztak: „Te vagy az Isten Fial” Ő azonban szigorúan meghagyta nekik, hogy ne híreszteljék, kicsoda ő.",
+  "cite": "Mk 3,7-12"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "a Zsidókhoz írt levélből",
+  "summary": "Jézus egyszer s mindenkorra mutatott be áldozatot, amikor önmagát feláldozta.",
+  "text": "Testvéreim!\n\nJézus Krisztus mindörökre üdvözítheti azokat, akik általa járulnak Isten elé. Hiszen örökké él, hogy közbenjárjon értünk.\n\nIlyen főpap kellett nekünk: szent, ártatlan, feddhetetlen, a bűnösöktől elkülönített, aki fölségesebb az egeknél. Ő nem szorul rá, mint a többi főpap, hogy naponként először a saját vétkeiért mutasson be engesztelő áldozatot, és azután a nép bűneiért. Egyszer s mindenkorra megtette ezt, amikor önmagát feláldozta.\n\nA mózesi törvény gyarló embereket rendelt főpappá; az Úrnak esküvel megerősített szava azonban, amely később hangzott el, mint a törvény, magát az örökre tökéletes Fiút tette meg főpappá.\n\nAz elmondott dolgoknak ez a lényege: Olyan főpapunk van, aki Isten trónjának jobbján ül a mennyben. Szolgálatot teljesít a szentélyben, abban az igazi szent sátorban, amelyet az Úr emelt, és nem ember.\n\nMinden főpap arra van rendelve, hogy ajándékot és áldozatot mutasson be. Ezért szükséges, hogy neki is legyen áldozati adománya, amelyet bemutat.\n\nHa a földön élne, nem is volna pap. Hiszen vannak itt olyanok, akik a mózesi törvény szerint áldozatot mutatnak be. Ezek azonban csak a mennyei szentély előképénél és árnyékánál szolgálnak, annak az utasításnak megfelelően, amelyet Mózes kapott, amikor hozzálátott a szent sátor elkészítéséhez. Az Úr ugyanis ezt mondta neki: „Ügyelj arra, hogy minden a szerint a minta szerint készüljön, ahogyan a hegyen mutattam neked.”\n\nJézus annyival kiválóbb papi szolgálatot kapott, amennyivel magasabbrendű és tökéletesebb ígéreten alapul az a szövetség, amelynek ő a közvetítője.",
+  "cite": "Zsid 7,25-8,6"
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "key": "evkozi-29-4-I",
+ "source_date": "2025-10-23",
+ "rank": "",
+ "day": "29. évközi hét csütörtök",
+ "psalm": {
+  "cite": "Zsolt 1,1-2.3.4.6",
+  "response": "Boldog az az ember, aki az Úrban bízik.",
+  "verses": [
+   "Boldog ember, aki nem követi a gonoszok tanácsát, † nem lép a bűnösök útjára,\na gúnyolódok körében nem foglal helyet,\nhanem az Úr törvényében leli örömét,\naz ő parancsairól elmélkedik éjjel és nappal.",
+   "Olyan, mint a fa, melyet folyóvíz mellé ültettek,\nmely idejében gyümölcsöt érlel.\nNem fonnyad el a lombja,\nsiker koronázza minden tettét.",
+   "Nem így járnak a gonoszok, nem így,\nhanem mint a polyva, melyet szétszór a szél.\nMert az Úr őrzi az igazak útját,\na gonoszok útja pusztulás."
+  ]
+ },
+ "alleluia": {
+  "text": "Mindent elvetettem, sőt szemétnek tekintek, csakhogy Krisztust elnyerjem, és őhozzá tartozzam.",
+  "cite": "Fil 3,8-9"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Krisztus evangéliumának sokan ellene mondanak.\n\nInnen támad a sok szakadás és békétlenség a világon.",
+  "text": "Abban az időben Jézus így szólt tanítványaihoz:\n\n„Azért jöttem, hogy tüzet gyújtsak a földön. Mi mást akarnék, mint hogy lángra lobbanjon. Keresztséggel kell megkereszteltetnem. Mennyire várom, hogy ez beteljesedjék!\n\nAzt gondoljátok, azért jöttem, hogy békét hozzak a földre? Mondom nektek, nem azt, hanem szakadást. Ezentúl, ha öten lesznek egy házban, megoszlanak egymás között: három kettő ellen, és kettő három ellen. Szembekerül apa a fiával és fiú az apjával, anya a lányával és lány az anyjával, anyós a menyével és meny az anyósával.”",
+  "cite": "Lk 12,49-53"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a rómaiakhoz írt leveléből",
+  "summary": "A keresztény szabadság: Isten szolgálata.",
+  "text": "Testvéreim!\n\nMost olyan egyszerűen akarok hozzátok szólni, hogy mindnyájan könnyen megértsétek. Ahogy egykor a tisztátalanság és gonoszság szolgálatában a bűnre adtátok magatokat, úgy adjátok most magatokat az igazság szolgálatában az életszentségre!\n\nAmíg ugyanis a bűn szolgái voltatok, Krisztus igazsága szinte semmit sem jelentett számotokra. De mi hasznotok volt abból, ami miatt most szégyenkeztek? Hiszen annak következménye a halál. Most azonban felszabadultatok a bűn hatalmából, és Isten szolgái lettetek. Gyümölcsötök a megszentelődés, célotok az örök élet. A bűn következménye a halál, Isten kegyelmi ajándéka viszont az örök élet Jézus Krisztusban, a mi Urunkban.",
+  "cite": "Róm 6,19-23"
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "key": "evkozi-19-4-I",
+ "source_date": "2025-08-14",
+ "rank": "",
+ "day": "19. évközi hét csütörtök",
+ "psalm": {
+  "cite": "Zsolt 113a,1-2.3-4.5-6",
+  "response": "Alleluja.",
+  "verses": [
+   "Amikor Izrael kivonult Egyiptomból,\na barbár nép közül Jákob háza,\nakkor lett Júda az ő szentélye,\nés Izrael az ő országa.",
+   "Ezt látva meghátrált a tenger árja,\nés a Jordán vize visszafordult,\na nagy hegyek, mint a kosok ugrándoztak,\nés a halmok, mint a kis bárányok.",
+   "Mi lelt téged, tenger, hogy meghátráltál,\nés téged, Jordán vize, hogy megfordultál?\nTi, hegyek, miért ugrándoztok, mint a kosok,\nés ti, halmok, mint a kis bárányok?"
+  ]
+ },
+ "alleluia": {
+  "text": "Ragyogtasd szolgád fölé arcodat, igazságaidra taníts meg engem!",
+  "cite": "Zsolt 118,135"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Bocsássunk meg egymásnak, ahogy Isten is megbocsát nekünk!",
+  "text": "Abban az időben Péter odament Jézushoz, és megkérdezte: „Uram, ha vétkezik ellenem testvérem, hányszor kell megbocsátanom neki? Talán hétszer?” Jézus így felelt: „Nem mondom, hogy hétszer, hanem hetvenszer hétszer.\n\nA mennyek országa olyan, mint amikor egy király el akart számolni szolgáival. Amikor elkezdte, odahozták egyik adósát, aki tízezer talentummal tartozott. Mivel nem volt miből megfizetnie, az úr megparancsolta, hogy adják el őt, a feleségét, a gyermekeit, és mindenét, amije csak van, és így törlessze adósságát. De a szolga leborult előtte, és úgy kérlelte: »Légy türelemmel irántam, mindent megfizetek.« Az úr szíve megesett a szolgán: szabadon bocsátotta őt, sőt még az adósságát is elengedte.\n\nA szolga kiment, és találkozott egyik szolgatársával, aki neki száz dénárral tartozott. Elkapta és fojtogatni kezdte: »Add meg, amivel tartozol!« Szolgatársa térdre hullott előtte, és kérlelte: »Légy türelmes irántam, mindent megfizetek!« De ő nem engedett, hanem ment, és börtönbe vetette, míg meg nem fizeti tartozását.\n\nAmikor szolgatársai látták a történteket, nagyon elszomorodtak. Elmentek és elbeszélték uruknak. Akkor az úr magához hívatta őt, és így szólt hozzá: »Te, gonosz szolga! Amikor kérleltél, én minden tartozásodat elengedtem neked. Nem kellett volna neked is megkönyörülnöd szolgatársadon, mint ahogy én megkönyörültem rajtad?« És az úr nagy haraggal átadta őt az őröknek, míg meg nem fizet mindent, amivel tartozik.\n\nAz én mennyei Atyám is így tesz veletek, ha tiszta szívből meg nem bocsát mindegyiktek a testvérének.”\n\nAmikor Jézus ezt a tanítását befejezte, elindult Galileából, és Júdea vidékére ment a Jordánon túlra.",
+  "cite": "Mt 18,21-19,1"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Józsue könyvéből",
+  "summary": "A választott nép megérkezik az ígéret földjére, és száraz lábbal átkel a Jordán folyón.",
+  "text": "Mózes halála után az Úr így szólt Józsuéhoz: „Mától fogva felmagasztallak az egész nép előtt: Tudják meg, hogy veled leszek, mint ahogy Mózessel is voltam. Add ki a parancsot a Szövetség ládáját vivő papoknak, hogy álljanak meg a vízben, ha eljutnak a Jordán partjához!”\n\nJózsue ekkor így szólt a néphez: „Jöjjetek ide, és halljátok az Úrnak, a ti Isteneteknek szavát!” Majd így folytatta: „Abból fogjátok megtudni, hogy az Úr, az élő Isten közöttetek van, és elűzi színetek elől a kananeusokat, hogy íme, az egész földkerekség Urának Szövetségládája előttetek megy át a Jordánon. Amint a papok, akik az Úrnak, a földkerekség Istenének ládáját viszik, talpukkal a Jordán folyó vizét érintik, a lefelé folyó víz lefolyik és elfogy, a felülről jövő pedig egy tömegben megáll.”\n\nA nép tehát elindult sátraiból, hogy átkeljen a Jordánon, a Szövetség ládáját vivő papok pedig előttük mentek. Éppen aratás ideje volt, és a Jordán vize teljesen betöltötte a medrét. Amint a papok beléptek a Jordánba, és lábukat bemártották a vízbe, a felülről jövő víz egy helyben megállott, és Adom városától egészen Szártánig úgy feltornyosodott, mintha gátak között lenne; a lefelé folyó víz pedig lefolyt a Puszta tengerébe, amelyet most Holt-tengernek neveznek, míg egészen el nem fogyott. Ekkor a nép átment Jerikó felé, míg a Szövetség ládáját vivő papok száraz talajon mozdulatlanul álltak a Jordán közepén, és az egész nép átkelt a száraz folyómedren.",
+  "cite": "Józs 3,7-10a.11.13-17"
+ }
+}

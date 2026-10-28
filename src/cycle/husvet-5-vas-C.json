@@ -1,0 +1,40 @@
+{
+ "key": "husvet-5-vas-C",
+ "source_date": "2025-05-18",
+ "rank": "",
+ "day": "Húsvét 5. vasárnapja",
+ "psalm": {
+  "cite": "144,8-9.10-11.12-13ab",
+  "response": "Istenem és királyom, magasztallak téged, szent nevedet áldom örökkön-örökké.",
+  "verses": [
+   "Vagy: Alleluja, alleluja, alleluja. 5. szám.\nIrgalmas az Úr és kegyelmes,\nnagy irgalmú és hosszan tűrő.\nAz Úr mindenkihez jóságos,\nés irgalmas minden művéhez.",
+   "Vagy: Alleluja, alleluja, alleluja.\nMagasztaljon, téged, Uram, minden műved,\nszentjeid áldást mondjanak.\nOrszágod dicsőségéről szóljanak,\nés hatalmadat mindenek hirdessék.",
+   "Vagy: Alleluja, alleluja, alleluja.\nHirdessék az embereknek hatalmas tetteid,\nkirályságod fölséges dicsőségét.\nA te országod örökkévaló ország,\nuralmad megmarad nemzedékről nemzedékre.",
+   "Vagy: Alleluja, alleluja, alleluja."
+  ]
+ },
+ "alleluia": {
+  "text": "Jézus mondja: „Új parancsot adok nektek, szeressétek egymást, ahogy én szeretlek titeket.”",
+  "cite": "Jn 13,34"
+ },
+ "gospel": {
+  "book": "Szent János",
+  "summary": "Új parancsot adok nektek: Szeressétek egymást!",
+  "text": "Abban az időben amikor az áruló Júdás kiment a teremből, Jézus beszélni kezdett:\n\n„Most dicsőül meg az Emberfia, s az Isten is megdicsőül benne. Ha\n\nIsten megdicsőül benne, Isten is megdicsőíti őt saját magában, sőt\n\nhamarosan megdicsőíti.\n\nFiaim, már csak rövid ideig vagyok veletek. Új parancsot adok nektek:\n\nSzeressétek egymást! Amint én szerettelek titeket, úgy szeressétek ti\n\nis egymást. Arról tudják majd meg, hogy tanítványaim vagytok, hogy\n\nszeretettel vagytok egymás iránt.”",
+  "cite": "Jn 13,31-33a.34-35"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "az Apostolok Cselekedeteiből",
+  "summary": "Pál és Barnabás beszámol arról,\nhogy milyen nagy dolgokat cselekedett velük az Úr.",
+  "text": "Abban az időben Pál és Barnabás (útra kelt Derbébe. Ebben a városban is hirdették az\n\nevangéliumot, sok tanítványt szereztek, majd) visszafordultak\n\nLisztrába, Ikóniumba és Antiochiába. Erőt öntöttek a tanítványok\n\nlelkébe, bátorították őket, hogy tartsanak ki a hitben, mert „sok\n\nszorongattatás közepette kell bejutnunk az Isten országába”. Az\n\negyházak élére kézrátétellel elöljárókat rendeltek, és imádkozva,\n\nböjtölve az Úr oltalmába ajánlották őket, akiben hittek.\n\nÁthaladva Pizidián Pamfiliába jutottak, majd azután, hogy Pergében\n\nhirdették az Isten szavát, lementek Attáliába. Innét Antiochiába\n\nhajóztak, ahonnan annak idején elindultak, Isten kegyelmébe ajánlva,\n\nhogy teljesítsék azt a feladatot, amelyre elküldték őket.\n\nMihelyt megérkeztek, összehívták az egyházat, elbeszélték, mi mindent\n\ntett az Isten általuk, s hogy a pogányok előtt is kitárta a hit\n\nkapuját.",
+  "cite": "ApCsel 14,21b-27"
+ },
+ "reading2": {
+  "label": "Szentlecke",
+  "sub": "a Jelenések könyvéből",
+  "summary": "Isten letöröl szemükről minden könnyet.",
+  "text": "Én, János, új eget és új földet láttam. Az első ég és az első föld\n\nugyanis elmúlt, és a tenger sem volt többé.\n\nAkkor láttam, hogy a szent Város, az új Jeruzsálem alászáll az égből,\n\naz Istentől. Szép volt, mint a vőlegénynek fölékesített menyasszony.\n\nAkkor hallottam, hogy a trón felől megszólal egy harsány hang:\n\n„Nézd, ez az Isten hajléka az emberek között! Velük fog lakni, és ők\n\naz ő népe lesznek, és maga az Isten lesz velük. Letöröl szemükről\n\nminden könnyet. Nem lesz többé halál, sem gyász, sem jajgatás, sem\n\nvesződség, mert a régi világ elmúlt.”\n\nAkkor a trónon ülő megszólalt: „Íme, újjáalkotok mindent!”",
+  "cite": "Jel 21,1-5a"
+ }
+}

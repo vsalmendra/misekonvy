@@ -1,0 +1,39 @@
+{
+ "key": "evkozi-32-vas-B",
+ "source_date": "2024-11-10",
+ "rank": "",
+ "day": "Évközi 32. vasárnap",
+ "psalm": {
+  "cite": "Zsolt 145,7.8-9a.9bc-10",
+  "response": "Áldjad, lelkem, az Urat, dicsőítsed az Istent!",
+  "verses": [
+   "Isten igaz marad örökké,\naz elnyomottnak igazságot szolgáltat.\nAz éhezőnek ő ad kenyeret,\nkiszabadítja az Úr a foglyokat.",
+   "Az Úr megnyitja a vakok szemét,\nés fölemeli azt, aki elesett.\nAz Úr szereti az igaz embert,\na jövevényt megvédi.",
+   "Az Úr támogatja az árvát és özvegyet,\nés elpusztítja a gonoszok útját.\nAz Úr uralkodik örökké,\na te Istened, ó Sion, nemzedékről nemzedékre."
+  ]
+ },
+ "alleluia": {
+  "text": "Boldogok, akik lelkükben szegények, mert övék a mennyek országa.",
+  "cite": "Mt 5,3"
+ },
+ "gospel": {
+  "book": "Szent Márk",
+  "summary": "",
+  "text": "Egy alkalommal, amikor Jézus tanított, ezt mondta a tömegnek: „Óvakodjatok az írástudóktól, akik szívesen járnak hosszú köntösben, és szeretik, ha nyilvános tereken köszöntik őket. Örömest elfoglalják a zsinagógában és a lakomákon a főhelyeket. Felélik az özvegyek házát, és közben színleg nagyokat imádkoznak. Ezért keményebb ítélet vár rájuk.”\n\n* Ezután leült szemben a templompersellyel, és figyelte, hogy a nép hogyan dobja a pénzt a perselybe. Sok gazdag sokat dobott be. De egy szegény özvegyasszony is odajött, és csak két fillért dobott be. Erre magához hívta tanítványait, és így szólt hozzájuk: „Bizony mondom nektek, ez a szegény özvegy többet adott mindenkinél, aki csak dobott a perselybe. Mert ők a feleslegükből adakoztak, ez pedig mindent odaadott, amije csak volt, egész vagyonát.”",
+  "cite": "Mk 12,38-44"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "a Királyok első könyvéből",
+  "summary": "",
+  "text": "A nagy szárazság idején Illés próféta az Úr parancsára útra kelt és elment Careftába. Amikor a város kapujához ért, épp ott volt egy özvegyasszony, aki rőzsét szedegetett. A próféta megszólította, és ezt mondta neki: „Hozz nekem egy kis vizet korsóban, hadd igyam!” Amikor az asszony elindult, utána szólt: „Hozz egy falat kenyeret is!”\n\nAz így felelt: „Amint igaz, hogy él a te Istened: Nincs sütve semmim, csak egy marék lisztem van a szakajtóban, meg egy kis olajam a korsóban. Épp azon vagyok, hogy rőzsét szedjek, aztán elmegyek és elkészítem magamnak és a fiamnak. Megesszük, aztán meghalunk.”\n\nIllés azonban így válaszolt neki: „Ne félj! Menj, s tedd, amit mondtál; csak előbb csinálj belőle egy kis lepényt, aztán hozd ki nekem; magadnak és a fiadnak csak utána készíts. Mert ezt mondja az Úr, Izrael Istene: A szakajtó nem ürül ki, a korsó nem apad el addig, amíg az Úr esőt nem hullat a földre.”\n\nElment hát és úgy tett, amint Illés mondta. S volt mit ennie, neki is, fiának is. A szakajtó nem ürült ki, és a korsó nem apadt ki az Úr szava szerint, amelyet Illés által mondott.",
+  "cite": "1Kir 17,10-16"
+ },
+ "reading2": {
+  "label": "Szentlecke",
+  "sub": "a Zsidókhoz írt levélből",
+  "summary": "",
+  "text": "Testvéreim!\n\nKrisztus nem kézzel épített szentélybe lépett be, amely a valódinak csak előképe, hanem magába a mennybe, hogy most az Isten színe előtt közbenjárjon értünk. Nem azért lépett be, hogy többször áldozza fel magát, mint ahogy a főpap minden évben idegen vérrel belép a legszentebb szentélybe, hiszen akkor a világ kezdete óta már többször kellett volna szenvednie. Így azonban az idők végén egyszer s mindenkorra megjelent, hogy áldozatával eltörölje a bűnt. Amint az ember számára az a rendelkezés, hogy egyszer haljon meg, és utána ítéletben legyen része, úgy Krisztus is egyszer áldozta fel magát, hogy sokaknak bűnét elvegye. Másodszor nem a bűn miatt jelenik meg, hanem azok üdvözítéséért, akik rá várnak.",
+  "cite": "Zsid 9,24-28"
+ }
+}

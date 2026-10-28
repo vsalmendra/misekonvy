@@ -1,0 +1,33 @@
+{
+ "key": "evkozi-2-1-I",
+ "source_date": "2025-01-20",
+ "rank": "",
+ "day": "2. évközi hét hétfő",
+ "psalm": {
+  "cite": "Zsolt 109,1.2.3.4",
+  "response": "Pap vagy te mindörökké Melkizedek rendje szerint.",
+  "verses": [
+   "Így szólt az Úr az én Uramhoz: † „Jobbom felől foglalj helyet,\nmíg minden ellenségedet lábad alá vetem zsámolyul.”",
+   "Kinyújtja az Úr Sionból hatalmad vesszejét:\n„Ellenségeid között uralkodjál.",
+   "Születésed napjától tiéd a királyság,\nSzentséges fényességben a hajnalcsillag előtt szültelek téged.”",
+   "Megesküdött az Úr, és meg nem bánja:\n„Pap vagy te mindörökké Melkizedek rendje szerint.”"
+  ]
+ },
+ "alleluia": {
+  "text": "Isten szava élő és átható: megítéli a gondolatot és a szándékot szívünk mélyén.",
+  "cite": "Zsid 4,12"
+ },
+ "gospel": {
+  "book": "Szent Márk",
+  "summary": "Jézus az Újszövetség szerzője: övéit már nem kötelezik a régi előírások.",
+  "text": "Abban az időben Keresztelő János tanítványai és a farizeusok böjtöltek. Ezért néhányan odamentek Jézushoz és megkérdezték tőle: „Miért van az, hogy Keresztelő Jánosnak és a farizeusoknak a tanítványai böjtölnek, a tieid meg nem böjtölnek?”\n\nJézus így válaszolt: „Vajon böjtölhet-e a násznép, míg velük van a vőlegény? Amíg a vőlegény velük van, nem böjtölhetnek. De jönnek majd napok, amikor elviszik tőlük a vőlegényt. És akkor, azon a napon majd böjtölnek.\n\nSenki sem varr régi ruhára új szövetből foltot. Vagy ha igen, akkor az új szövet kiszakítja a régit, és a szakadás még nagyobb lesz. És új bort sem tölt senki régi tömlőbe; vagy ha mégis, a bor szétveti a tömlőt, és a bor is, meg a tömlő is tönkremegy. Az új bor új tömlőbe való.”",
+  "cite": "Mk 2,18-22"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "a Zsidókhoz írt levélből",
+  "summary": "Jézus, az Isten Fia, a szenvedésből tanulta meg,\nhogy mit jelent az engedelmesség.",
+  "text": "Testvéreim!\n\nMinden főpapot az emberek közül választanak, és arra rendelik, hogy az Isten tiszteletével kapcsolatos dolgokban képviselje az embereket: ajándékokat és áldozatot mutasson be a bűnökért, mint olyan valaki, aki megértő tud lenni a tudatlanok és a tévelygők iránt, hiszen őrá is gyöngeség nehezedik. Ezért a népért is, és saját vétkeiért is áldozatot kell bemutatnia.\n\nSenki sem vállalhatja ezt a tisztséget, csak akit az Isten meghív, mint Áront. Így Krisztus sem önmagát emelte főpapi méltóságra, hanem az Atyától kapta azt, aki így szólt hozzá: „Fiam vagy te, ma szültelek téged.” Másutt pedig ezt mondja: „Pap vagy te mindörökké Melkizedek rendje szerint.”\n\nFöldi életében Krisztus hangos kiáltással, és könnyek között imádkozott, könyörgött ahhoz, aki meg tudta menteni a haláltól, és hódolatáért meghallgatást nyert. Isten Fia volt, de a szenvedésből engedelmességet tanult. Műve befejeztével pedig örök üdvösséget szerzett azoknak, akik neki engedelmeskednek, mert Isten akaratából lett főpappá, Melkizedek rendje szerint.",
+  "cite": "Zsid 5,1-10"
+ }
+}

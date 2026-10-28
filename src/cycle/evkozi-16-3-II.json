@@ -1,0 +1,33 @@
+{
+ "key": "evkozi-16-3-II",
+ "source_date": "2024-07-24",
+ "rank": "",
+ "day": "16. évközi hét szerda",
+ "psalm": {
+  "cite": "Zsolt 70,1-2.3-4a.5-6a.15ab és 17",
+  "response": "Ajkam hirdeti igazságodat, Uram.",
+  "verses": [
+   "Te vagy, Uram, én reményem,\nne hagyj soha szégyent érnem.\nIgazságodban ments meg, † szabadíts meg engem,\nfordítsd felém füled, és siess segítségemre.",
+   "Légy megmentő sziklám és erős váram,\nahol oltalmat nyerjek.\nMert te vagy, Istenem, erősségem és menedékem,\nragadj ki a bűnösök kezéből.",
+   "Te vagy reménységem, Istenem,\nifjúkorom óta, Uram, benned bízom.\nAnyám méhétől te vagy támaszom,\nanyám ölétől fogva védelmezőm.",
+   "Igazságodat hirdeti ajkam,\nés szabadító tetteidet egész nap.\nIfjúságom óta oktatsz engem, Istenem,\ncsodáidat mindmáig hirdetem."
+  ]
+ },
+ "alleluia": {
+  "text": "Jó mag az Isten igéje, Krisztus a magvető; aki reátalál, örökké élni fog.",
+  "cite": ""
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Isten igéje csak készséges lélekben hozza meg termését.",
+  "text": "Abban az időben Jézus elment hazulról és leült a Genezáreti-tó partján. Hatalmas tömeg gyűlt össze, ezért beült egy csónakba, a tömeg pedig ott állt a parton. Ekkor példabeszédekben sok mindenre oktatta őket:\n\n„Íme, kiment a magvető vetni. Amint vetett, némely szem az útszélre esett. Jöttek az ég madarai, és ezeket mind megették. Némely szem kövek közé esett, ahol nem volt elég termőföld. Ezek hamar kikeltek, hisz nem volt mély a föld. Majd amikor a nap fölkelt és forrón tűzött, kiégtek, mert nem volt gyökerük. Voltak szemek, amelyek tövisek közé estek, és amikor nőni kezdtek, a tövisek elfojtották őket. De a többi szem jó földbe hullott, és termést hozott: az egyik százszorosat, a másik hatvanszorosat, a harmadik harmincszorosat.\n\nAkinek füle van a hallásra, hallja meg!”",
+  "cite": "Mt 13,1-9"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Jeremiás próféta könyvéből",
+  "summary": "Az Istentől kapott prófétai hívás nem csupán kitüntetés, hanem felelősség is.",
+  "text": "A Benjámin földjén fekvő Anatotból származó Jeremiás, aki Helkiás pap fia volt, így beszéli el prófétai meghívását: „Így szólt hozzám az Úr: »Mielőtt anyád méhében megalkottalak, már ismertelek; mielőtt világra jöttél volna, megszenteltelek, és prófétául rendeltelek a nemzetek számára.«\n\nErre így szóltam: »Jaj, Uram, Isten! Íme, nem tudok én beszélni, hiszen még ifjú vagyok.«\n\nDe az Úr ezt válaszolta nekem: »Ne mondd azt, hogy ifjú vagyok, hanem menj el azokhoz, akikhez küldelek, és mondd el nekik mindazt, amit parancsolok neked.\n\nNe félj tőlük, mert én veled vagyok, és megoltalmazlak – mondja az Úr.«\n\nAkkor az Úr kinyújtotta kezét, megérintette ajkamat, és így szólt hozzám: »Íme, ajkadra adom szavaimat.\n\nMa nemzetek és országok fölé állítalak, hogy gyomlálj és irts, hogy pusztíts és szétszórj, hogy építs és ültess.«”",
+  "cite": "Jer 1,1.4-10"
+ }
+}

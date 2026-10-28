@@ -1,0 +1,40 @@
+{
+ "key": "husvet-5-vas-B",
+ "source_date": "2024-04-28",
+ "rank": "",
+ "day": "Húsvét 5. vasárnapja",
+ "psalm": {
+  "cite": "Zsolt 21,26b-27.28 és 30.31-32",
+  "response": "Dicsérlek téged, Istenem, szent néped körében.",
+  "verses": [
+   "Vagy: Alleluja, alleluja, alleluja. 2. szám.\nAz istenfélők előtt,\nteljesítem fogadalmam.\nEgyenek a szegények és lakjanak jól, † áldják az Urat mind, akik keresik,\n„Szívük élni fog mindörökké”.",
+   "Vagy: Alleluja, alleluja, alleluja.\nA föld határai megemlékeznek erről és az Úrhoz térnek,\nleborul előtte a nemzetek minden családja.\nEgyedül őt imádják mind, akik a földben alszanak,\nhódoljanak előtte mind, akik a porba visszatérnek.",
+   "Vagy: Alleluja, alleluja, alleluja.\nNeki él az én lelkem,\nés neki fog szolgálni nemzetségem.\nBeszéljenek az Úrról a jövendő nemzedéknek, † igazságát hirdessék a születendő népnek:\n„Mindezt az Úr cselekedte!”",
+   "Vagy: Alleluja, alleluja, alleluja."
+  ]
+ },
+ "alleluia": {
+  "text": "Jézus mondja: „Maradjatok bennem, és én bennetek, aki énbennem marad, bőséges termést hoz.”",
+  "cite": "Jn 15,4a. 5b"
+ },
+ "gospel": {
+  "book": "Szent János",
+  "summary": "",
+  "text": "Abban az időben Jézus ezt mondta tanítványainak: Én vagyok az igazi szőlőtő, és Atyám a szőlőműves. Minden szőlővesszőt, amely nem hoz gyümölcsöt bennem, lemetsz rólam, azt pedig, amely gyümölcsöt hoz, megtisztítja, hogy még többet teremjen. Ti már tiszták vagytok a tanítás által, amelyet hirdettem nektek. Maradjatok bennem, akkor én is bennetek maradok. Miként a szőlővessző nem hozhat gyümölcsöt magától, ha nem marad a szőlőtőn, úgy ti sem, ha nem maradtok bennem.\n\nÉn vagyok a szőlőtő, ti a szőlővesszők. Aki bennem marad, és én őbenne, az bő termést hoz. Mert nélkülem semmit sem tehettek. Aki nem marad bennem, azt kivetik, mint a szőlővesszőt, és elszárad. Összeszedik, tűzre vetik és elégetik. Ha bennem maradtok, és szavaim is bennetek maradnak, akkor bármit akartok, kérjétek, és megkapjátok. Azáltal dicsőül meg Atyám, hogy bő termést hoztok, és a tanítványaim lesztek.",
+  "cite": "Jn 15,1-8"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "az Apostolok Cselekedeteiből",
+  "summary": "",
+  "text": "Amikor (megtérése után) Saul Jeruzsálembe ért, a tanítványokhoz akart\n\ncsatlakozni, de mind féltek tőle. Nem hitték el, hogy tanítvánnyá lett.\n\nVégül Barnabás mégis maga mellé vette, és elvitte az apostolokhoz.\n\nElmondta nekik, hogy (Pál) látta az úton az Urat, hogy (az Úr) mit\n\nmondott neki, és hogy ő milyen bátran kiállt Damaszkuszban Jézus ügye\n\nmellett.\n\n(Pál) ezentúl velük járt-kelt Jeruzsálemben, s nyíltan beszélt az Úr\n\nnevében. A görög nyelvű zsidókhoz is beszélt, sőt vitába szállt velük.\n\nDe azok az életére törtek. Amikor ezt a testvérek megtudták, Cezáreába\n\nelkísérték, majd onnét Tarzuszba küldték.\n\nAz Egyház egész Júdeában, Galileában és Szamariában békét élvezett.\n\nMegerősödött, az Úr félelmében élt, és a Szentlélek segítségével egyre\n\nterjedt.",
+  "cite": "ApCsel 9,26-31"
+ },
+ "reading2": {
+  "label": "Szentlecke",
+  "sub": "Szent János apostol első leveléből",
+  "summary": "",
+  "text": "Gyermekeim, ne szóval és nyelvvel szeressünk, hanem tettel és igazsággal. Erről ismerjük fel hogy az igazságból valók vagyunk-e és így nyugtatjuk meg színe előtt a szívünket. Ha szívünk vádol is valamivel, Isten fölötte áll szívünknek, ő mindent tud. Szeretteim, ha szívünk nem vádol, legyünk bizalommal az Isten iránt. Bármit kérünk, megkapjuk tőle, hisz megtartjuk parancsait, és azt tesszük, ami neki tetszik. Az az ő parancsa, hogy higgyünk Fiának, Jézus Krisztusnak nevében, és szeressük egymást, amint ő parancsolta. Aki teljesíti parancsait, Istenben marad, és Isten is őbenne. Azt, hogy ő bennünk marad, a Lélektől tudjuk, akit adott nekünk.",
+  "cite": "1Jn 3,18-24"
+ }
+}

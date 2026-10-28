@@ -1,0 +1,32 @@
+{
+ "key": "fix-01-04",
+ "source_date": "2025-01-04",
+ "rank": "",
+ "day": "Karácsonyi idő - január 4.",
+ "psalm": {
+  "cite": "Zsolt 97,1.7-8.9",
+  "response": "A föld minden határa látta üdvözítő Urunknak jóságát.",
+  "verses": [
+   "Zengjetek az Úrnak új éneket,\ncsodálatra méltó, amit művelt!\nDiadalt aratott jobbjával,\ngyőzelmet szentséges karjával.",
+   "Zúgjon a tenger, és ami betölti,\na földkerekség, és akik rajta élnek.\nTapsoljanak a folyamok,\nés a hegyek is ujjongjanak az Úr színe előtt.",
+   "Mert eljön ítélni a földet, † igazságban ítéli az egész világot,\negyenlőképpen minden népet."
+  ]
+ },
+ "alleluia": {
+  "text": "Sok ízben szólt az ősatyákhoz egykor az Isten. Végül a beteljesedés napjaiban Fia által szólt hozzánk.",
+  "cite": "Zsid 1,1"
+ },
+ "gospel": {
+  "book": "Szent János",
+  "summary": "Az első tanítványok találkoznak Jézussal:\n\nKeresztelő János után Jézus lesz Mesterük.",
+  "text": "Abban az időben (Keresztelő) János ott állt két tanítványával, és mihelyt meglátta Jézust, amint közeledett, így szólt: „Nézzétek, az Isten Báránya!” Két tanítványa hallotta, hogy (János) ezt mondta, és követni kezdte Jézust. Amikor Jézus megfordult, s látta, hogy követik, megkérdezte: „Mit kívántok?”\n\nAzok ezt felelték; „Rabbi – ami annyit jelent, hogy Mester –, hol laksz?”\n\n„Jöjjetek, nézzétek meg!” – mondta nekik. Elmentek tehát vele, megnézték, hogy hol lakik, és aznap nála maradtak. Ez a tizedik óra körül volt.\n\nA kettő közül, akik hallották ezt Jánostól és követték (Jézust), az egyik András volt, Simon Péter testvére. Ő először testvérével, Simonnal találkozott, és szólt neki: „Megtaláltuk a Messiást, vagy más szóval a Fölkentet”, és elvitte Jézushoz.\n\nJézus rátekintett, és így szólt hozzá: „Te Simon vagy, János fia, de Kéfásnak, azaz Péternek fognak hívni.”",
+  "cite": "Jn 1,35-42"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent János apostol első leveléből",
+  "summary": "Aki Istentől született, nem vétkezhetik.",
+  "text": "Gyermekeim!\n\nSenki se vezessen félre titeket! Jézus az igazság, ezért az igaz ember az igazság szerint cselekszik. Aki bűnt követ el, az a sátántól való, mert a sátán kezdettől fogva bűnös. Azért jött el az Isten Fia, hogy lerombolja a sátán művét.\n\nAki Istentől született, nem követ el bűnt, mert megmarad benne az isteni élet csírája. Nem vétkezhetik, mert Istentől született. Ebből ismerhetők fel Isten gyermekei és a sátán fiai. Aki nem az igazság szerint cselekszik, nem Istentől való, de az sem, aki nem szereti testvérét.",
+  "cite": "1Jn 3,7-10"
+ }
+}

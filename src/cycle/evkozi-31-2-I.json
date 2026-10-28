@@ -1,0 +1,32 @@
+{
+ "key": "evkozi-31-2-I",
+ "source_date": "2025-11-04",
+ "rank": "",
+ "day": "31. évközi hét kedd",
+ "psalm": {
+  "cite": "Zsolt 130,1.2.3",
+  "response": "Őrizd meg lelkemet a te békédben, Uram!",
+  "verses": [
+   "Szívemben nincs nagyravágyás, Uram,\nszememben sincsen kérkedés.\nNagy dolgok után nem töröm magam,\nsem erőmet meghaladó feltűnő csodák után.",
+   "Valóban lecsendesítettem lelkemet és megnyugtattam, † miként a kisded anyja ölében,\núgy pihent meg a lelkem.",
+   "Bízzál, Izrael, az Úrban,\nmostantól fogva mindörökké!"
+  ]
+ },
+ "alleluia": {
+  "text": "Jöjjetek hozzám mindnyájan, akik fáradtak vagytok, és terhek alatt görnyedtek: Én felüdítlek titeket – mondja a mi Urunk.",
+  "cite": "Mt 11,28"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Isten országában mindenki asztalhoz ülhet, aki a meghívást készséggel elfogadja.",
+  "text": "Jézus egyszer egy előkelő farizeus házában ebédelt. A vendégek közül megszólalt valaki: „Boldog, aki asztalhoz ülhet Isten országában!”\n\nJézus a következő példabeszéddel válaszolt: „Egy ember nagy lakomát rendezett. Sokakat meghívott. Amikor eljött a lakoma ideje, elküldte szolgáját, és ezt üzente a meghívottaknak: »Jöjjetek! Minden készen van!« De azok sorra mentegetőzni kezdtek. Az első azt üzente: »Földet vettem. El kell mennem, hogy megnézzem. Kérlek, ments ki engem!« A másik azt mondta: »Öt iga ökröt vettem, ki kell próbálnom. Kérlek, ments ki engem!« Egy további így szólt: »Most nősültem, nem mehetek.«\n\nA szolga hazatért, jelentette mindezt urának. A házigazda haragra lobbant. Meghagyta szolgájának: »Menj ki azonnal a város tereire és utcáira, és vezesd be ide a szegényeket, bénákat, vakokat, sántákat!« A szolga jelentette: »Uram, parancsodat teljesítettem, de még mindig van hely.« Az úr akkor megparancsolta a szolgának: »Menj ki az országutakra és a sövények mentére, és kényszeríts be mindenkit, hogy megteljék a házam! Mondom nektek: Senki sem ízleli meg lakomámat azok közül, akik hivatalosak voltak.«”",
+  "cite": "Lk 14,15-24"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a rómaiakhoz írt leveléből",
+  "summary": "Krisztus titokzatos testének tagjai vagyunk:\n\néljünk keresztény hivatásunknak megfelelően!",
+  "text": "Testvéreim!\n\nMi egy testet alkotunk Krisztusban, egyenként viszont egymásnak tagjai vagyunk. Az Istentől kapott kegyelemnek megfelelően azonban különböző kegyelmi ajándékaink vannak. Aki a prófétálást kapta feladatul, prófétáljon a hit szabálya szerint! Aki tisztséget kapott, gyakorolja tisztségét! Aki tanításra nyert megbízatást, tanítson! Aki a buzdítás ajándékát kapta, buzdítson! Aki jótékonykodik, tegye egyszerűségben! Aki elöljáró, legyen gondos! Aki irgalmasságot gyakorol, tegye derűsen!\n\nSzeressetek tettetés nélkül! Gyűlöljétek a rosszat, ragaszkodjatok a jóhoz! Ami a testvéri szeretetet illeti, legyetek gyöngédek; a tiszteletadás dolgában legyetek előzékenyek! A buzgóságban ne lankadjatok! Legyetek tüzes lelkületűek, mivel az Úr az, akinek szolgáltok!\n\nLegyetek örvendezők a reménységben, béketűrők a nyomorúságban, állhatatosak az imádságban! Segítsétek testvéreiteket, ha szükségben vannak! Gyakoroljátok a vendégszeretetet! Áldjátok üldözőiteket: áldjátok és ne átkozzátok! Örvendjetek az örvendezőkkel, a sírokkal pedig sírjatok! Éljetek egyetértésben! Ne legyetek fennhéjázok, hanem alkalmazkodjatok az egyszerű emberekhez!",
+  "cite": "Róm 12,5-16a"
+ }
+}

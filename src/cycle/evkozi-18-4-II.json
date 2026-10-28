@@ -1,0 +1,32 @@
+{
+ "key": "evkozi-18-4-II",
+ "source_date": "2024-08-08",
+ "rank": "",
+ "day": "18. évközi hét csütörtök",
+ "psalm": {
+  "cite": "Zsolt 50,12-13.14-15.18-19",
+  "response": "Istenem, kérlek téged: teremts bennem tiszta szívet!",
+  "verses": [
+   "Tiszta szívet teremts bennem, Istenem,\naz erős lelket éleszd fel újra bennem.\nNe taszíts el színed elől,\nés szent lelkedet ne vond meg tőlem.",
+   "Üdvösséged örömét add meg újra,\na készséges lelkületet erősítsd meg bennem.\nMegtanítom utaidat a vétkeseknek,\nés a bűnösök hozzád térnek.",
+   "Te a véres áldozatot nem kedveled,\ns ha égőáldozatot hoznék, nem vennéd szívesen.\nIsten előtt kedves áldozat a megtört lélek,\nIstenem, te nem veted meg az alázatos és töredelmes szívet."
+  ]
+ },
+ "alleluia": {
+  "text": "Te Péter vagy, azaz kőszikla, és e sziklára építem Egyházam, és a pokol kapui nem vesznek erőt rajta.",
+  "cite": "Mt 16,18"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Hitvallásáért Péter ígéretet kap arra, hogy ő lesz az Egyház sziklaalapja.",
+  "text": "Abban az időben amikor Jézus Fülöp Cezáreájának vidékére ért, megkérdezte tanítványaitól: „Kinek tartják az emberek az Emberfiát?” Ezt válaszolták: „Van, aki Keresztelő Jánosnak, van, aki Illésnek, mások Jeremiásnak vagy valamelyik prófétának.” Ő tovább kérdezte őket: „Hát ti, kinek tartotok engem?” Simon Péter válaszolt: „Te vagy a Krisztus, az élő Isten Fia.” Erre Jézus azt mondta neki: „Boldog vagy, Simon, Jónás fia, mert nem a test és a vér nyilatkoztatta ki ezt neked, hanem az én mennyei Atyám. Ezért mondom neked, hogy te Péter vagy, és én erre a sziklára építem Egyházamat, s a pokol kapui nem vesznek erőt rajta. Neked adom a mennyek országának kulcsait: Amit megkötsz a földön, meg lesz kötve a mennyben is, és amit feloldasz a földön, fel lesz oldva a mennyben is.”\n\nAkkor lelkére kötötte a tanítványoknak, el ne mondják senkinek, hogy ő a Messiás.\n\nEttől kezdve Jézus többször felhívta tanítványai figyelmét arra, hogy neki Jeruzsálembe kell mennie, sokat kell szenvednie a vénektől, a főpapoktól és az írástudóktól; megölik, de a harmadik napon feltámad a halálból. Erre Péter félrevonta őt, és óva intette: „Isten ments, Uram! Ez nem történhet veled!” Mire ő Péterhez fordult: „Távozz tőlem, sátán! Botránkoztatsz, mert nem az Isten ügyére van gondod, hanem az emberekére!”",
+  "cite": "Mt 16,13-23"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Jeremiás próféta könyvéből",
+  "summary": "Az Úr új szövetséget köt majd népével; az új törvényt az emberek szívébe fogja írni.",
+  "text": "„Íme, napok jönnek – mondja az Úr –, amikor új szövetséget kötök Izrael házával és Júda házával. De nem olyan szövetséget, mint amilyet atyáikkal kötöttem azon a napon, amikor kézen fogva kivezettem őket Egyiptom földjéről. Azt a szövetségemet ugyanis megszegték, pedig Uruk voltam – mondja az Úr.\n\nEz lesz az a szövetség, amelyet majd Izrael házával kötök, ha elérkeznek azok a napok – mondja az Úr: Bensejükbe adom törvényemet, és a szívükbe írom. Istenük leszek, ők meg az én népem lesznek.\n\nTöbbé nem lesz szükség arra, hogy az egyik ember a másikat, testvér a testvérét így tanítsa: »Ismerd meg az Urat,« mert mindnyájan ismerni fognak a legkisebbtől a legnagyobbig – mondja az Úr –, mivel megbocsátom gonoszságaikat, és vétkeikre többé nem emlékezem.”",
+  "cite": "Jer 31,31-34"
+ }
+}

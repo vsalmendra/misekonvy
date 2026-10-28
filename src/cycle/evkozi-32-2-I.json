@@ -1,0 +1,32 @@
+{
+ "key": "evkozi-32-2-I",
+ "source_date": "2025-11-11",
+ "rank": "",
+ "day": "32. évközi hét kedd",
+ "psalm": {
+  "cite": "Zsolt 33,2-3.16-19",
+  "response": "Hálát adok az Úrnak minden időben!",
+  "verses": [
+   "Minden időben áldom az Urat,\ndicséretét szüntelenül zengi ajkam.\nLelkem az Úrban dicsekszik,\nhallják meg a szelídek és örvendezzenek.",
+   "Az Úr szeme az igazakra tekint,\nés füle meghallgatja kiáltásukat.\nAz Úr az arcát a gonoszok ellen fordítja,\nemléküket is eltörli a földről.",
+   "Kiáltottak az igazak, és az Úr meghallgatta őket,\nés minden szorongatásból megszabadultak.\nKözel van az Úr azokhoz, akik töredelmes szívűek,\nés szabadulást hoz a megtört lelkeknek."
+  ]
+ },
+ "alleluia": {
+  "text": "Aki szeret engem, megfogadja szavamat. Atyám is szeretni fogja, és hozzá költözünk.",
+  "cite": "Jn 14,23"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "A rossz szolga csak annyit tesz, amennyi a kötelessége.",
+  "text": "Abban az időben Jézus így szólt tanítványaihoz:\n\nMelyiktek mondja béresének vagy bojtárjának, amikor a mezőről hazajön: „Gyere ide tüstént, és ülj asztalhoz.” Nem ezt mondja-e inkább: „Készíts nekem vacsorát, övezd fel magadat, és szolgálj ki, amíg eszem és iszom! Aztán majd ehetsz és ihatsz te is?” S talán megköszöni a szolgának, hogy teljesítette parancsait? Így ti is, amikor megteszitek, amit parancsoltak nektek, mondjátok: haszontalan szolgák vagyunk, hiszen csak azt tettük, ami a kötelességünk volt.",
+  "cite": "Lk 17,7-10"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "a Bölcsesség könyvéből",
+  "summary": "Az isteni bölcsesség tanít meg halhatatlan lelkünk igazi értékére. A szenvedés és halál a balgák szemében érthetetlen, de mi tudjuk, hogy az igaz ember lelke Istené.",
+  "text": "Így szól az örök Bölcsesség: Isten az embert halhatatlannak teremtette, és lényét a saját hasonlatosságára alkotta. A halál a sátán irigységéből jött a világra; és akik vele tartanak, azok megtapasztalják. Az igazak lelke azonban Isten kezében van, és a halál kínja nem érheti őket. Az esztelenek szemében úgy látszott, hogy meghaltak; a világból való távozásukat balsorsnak vélték, elmenetelüket megsemmisülésnek. Ők azonban békességben vannak. Mert ha az emberek szemében szenvedtek is, a reményük tele volt halhatatlansággal. Kevés fenyítés után nagy jótéteményekben részesülnek, mert Isten próbára tette és magához méltónak találta őket. Mint aranyat a kohóban, megvizsgálta és elfogadta őket egészen elégő áldozatul. Az (utolsó) ítélet idején majd felragyognak az igazak, és olyanok lesznek, mint a szikra, amely a tarlón tovaharapódzik. Nemzetek fölött ítélkeznek majd, és népeken uralkodnak; és az Úr lesz a királyuk mindörökre. Akik benne bíztak, akkor majd megismerik az igazságot, és akik hűségesek voltak, szeretetben nála maradnak, mert kegyelem és irgalom lesz választottainak osztályrésze.",
+  "cite": "Bölcs 2,23-3,9"
+ }
+}

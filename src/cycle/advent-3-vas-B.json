@@ -1,0 +1,39 @@
+{
+ "key": "advent-3-vas-B",
+ "source_date": "2023-12-17",
+ "rank": "",
+ "day": "Advent 3. vasárnapja – Gaudete vasárnap",
+ "psalm": {
+  "cite": "Lk 1,46-48.49-50.53-54",
+  "response": "Lelkem ujjongva hirdeti Istenemnek dicsőségét.",
+  "verses": [
+   "Magasztalja az én lelkem az Urat,\nés szívem ujjong üdvözítő Istenemben.\nMivel tekintetre méltatta alázatos szolgálóleányát,\níme, mostantól fogva boldognak hirdet engem minden nemzedék.",
+   "Mert nagy dolgot művelt velem ő, aki hatalmas,\nő, akit Szentnek hívunk.\nNemzedékről nemzedékre megmarad irgalma\nazokon, akik istenfélők.",
+   "Az éhezőket minden jóval betölti,\na gazdagokat elbocsátja üres kézzel.\nGondjába vette gyermekét, Izraelt,\nmegemlékezett irgalmáról."
+  ]
+ },
+ "alleluia": {
+  "text": "Az Úr lelke van rajtam: elküldött, hogy a szegényeknek örömhírt vigyek.",
+  "cite": "Iz 61,1"
+ },
+ "gospel": {
+  "book": "Szent János",
+  "summary": "Köztetek van az, akit ti nem ismertek.",
+  "text": "Abban az időben: Föllépett egy ember: az Isten küldte, és János volt a neve. Azért jött, hogy tanúságot tegyen, tanúságot a világosságról, hogy mindenki higgyen általa. Nem ő volt a világosság, hanem (azért jött, hogy) tanúságot tegyen a világosságról. János így tett tanúságot: A zsidók papokat és levitákat küldtek hozzá Jeruzsálemből, hogy megkérdezzék őt: „Ki vagy te?” Erre megvallotta, nem tagadta, hanem megvallotta: „Nem én vagyok a Messiás.” Ezért megkérdezték tőle: „Hát akkor? Talán Illés vagy?” „Nem vagyok” – felelte. „A próféta vagy?” Erre is nemmel válaszolt. Azt mondták tehát neki: „Akkor ki vagy? Mert választ kell vinnünk azoknak, akik küldtek minket. Mit mondasz magadról?”\n\nEzt felelte: „A pusztában kiáltó hangja vagyok: Egyengessétek az Úr útját”, amint Izajás próféta mondta. A küldöttek a farizeusoktól jöttek, ezért megkérdezték: „Miért keresztelsz hát, ha nem te vagy a Messiás, sem Illés, sem pedig a próféta?” János így válaszolt: „Én csak vízzel keresztelek. De köztetek áll az, akit nem ismertek, aki utánam jön, s akinek még a saruszíját sem vagyok méltó megoldani.” Ez Betániában történt, a Jordánon túl, ahol János tartózkodott és keresztelt.",
+  "cite": "Jn 1,6-8.19-28"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Izajás próféta könyvéből",
+  "summary": "Egyedül a Megváltó hozza meg az igazi boldogságot.",
+  "text": "A próféta így beszél: Az Úr Lelke nyugszik rajtam. Azért kent föl az Úr és küldött engem, hogy örömhírt vigyek a szegényeknek, és meggyógyítsam a megtört szívűeket. Hogy szabadulást hirdessek a foglyoknak, és szabadságot a börtönök lakóinak. Hogy hirdessem az Úr kegyelmének esztendejét. Nagy örömmel örvendezem az Úrban, lelkem ujjong az én Istenemben, mert az üdvösség ruhájába öltöztetett, s az igazság köntösét terítette rám. Felékesített, mint a vőlegényt, aki koszorút visel, és mint a menyasszonyt, aki ékszerekkel díszíti magát. Mert amint a föld megtermi növényeit, és a kert veteményeket sarjaszt, úgy sarjasztja ki az Úristen az igazságot, és a magasztalást minden nép színe előtt.",
+  "cite": "Iz 61,1-2a.10-11"
+ },
+ "reading2": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a tesszaloniki hívekhez írt első leveléből",
+  "summary": "Őrizze meg Isten a szellemeteket, lelketeket és testeteket feddhetetlenül!",
+  "text": "Testvéreim!\n\nLegyetek mindig derűsek. Imádkozzatok szüntelenül. Adjatok hálát mindenért, mert Isten ezt kívánja mindnyájatoktól Krisztus Jézusban. Ne oltsátok ki a Lelket, s a prófétai beszédet ne vessétek meg. Vizsgáljatok meg mindent, és a jót tartsátok meg. Mindenféle rossztól óvakodjatok. A békesség Istene szenteljen meg titeket, hogy tökéletesek legyetek. Őrizze meg szellemeteket, lelketeket és testeteket feddhetetlenül Urunk, Jézus Krisztus eljöveteléig. Hűséges az, aki meghívott benneteket, ő majd végbe is viszi.",
+  "cite": "1Tessz 5,16-24"
+ }
+}

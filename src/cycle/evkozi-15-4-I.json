@@ -1,0 +1,34 @@
+{
+ "key": "evkozi-15-4-I",
+ "source_date": "2025-07-17",
+ "rank": "",
+ "day": "15. évközi hét csütörtök",
+ "psalm": {
+  "cite": "Zsolt 104,1 és 5.8-9.24-25.26-27",
+  "response": "Sohasem felejti az Isten az ő szövetségét.",
+  "verses": [
+   "Vagy: Alleluja. 8. szám.\nAdjatok hálát az Úrnak, és hívjátok segítségül nevét,\nhirdessétek nagy tetteit a nemzetek között.\nEmlékezzetek csodatetteire, melyeket végbevitt,\nés ajkáról elhangzó csodás döntésekre.",
+   "Vagy: Alleluja.\nÖrökké emlékezik szövetségére,\nezernyi nemzedéknek adott igéjére,\nmelyet Ábrahámnak adott,\nés az esküre, melyet Izsáknak esküdött.",
+   "Vagy: Alleluja.\nAz Úr megsokasította népét,\nellenségeinél erősebbé tette.\nDe megfordította azok szívét, † így népét meggyűlölték,\nés álnokul bántak szolgáival.",
+   "Vagy: Alleluja.\nAkkor elküldte szolgáját, Mózest,\nés Áront, akit kiválasztott.\nSzavuk által csodás jeleket vitt végbe,\ncsodákat művelt Kám földjén.",
+   "Vagy: Alleluja."
+  ]
+ },
+ "alleluia": {
+  "text": "Jöjjetek hozzám mindnyájan, akik fáradtak vagytok, és terhek alatt görnyedtek: Én felüdítlek titeket – mondja a mi Urunk.",
+  "cite": "Mt 11,28"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Bizalommal menjünk Jézushoz, a kegyelem forrásához!",
+  "text": "Jézus egy alkalommal így fejezte be tanítását:\n\nJöjjetek hozzám mindnyájan, akik fáradtak vagytok, és terhek alatt görnyedtek: én felüdítlek titeket! Vegyétek magatokra igámat, és tanuljatok tőlem, mert én szelíd vagyok és alázatos szívű – és nyugalmat talál lelketek. Mert az én igám édes, s az én terhem könnyű.",
+  "cite": "Mt 11,28-30"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Mózes második könyvéből",
+  "summary": "Isten a csipkebokornál kinyilatkoztatja nevét Mózesnek: „Én vagyok Jahve”, azaz: „Aki Van.”",
+  "text": "Mózes ezt mondta Istennek, aki megjelent neki az égő csipkebokorban: „Ha megérkezem Izrael fiaihoz, és elmondom nekik: »Atyáitok Istene küldött«, akkor majd megkérdezik: »Mi a neve?« – mit feleljek erre?”\n\nIsten ezt válaszolta: „Én vagyok, aki vagyok.” Azután folytatta: „Így beszélj Izrael fiaihoz: »Aki Van«, az küldött engem hozzátok.”\n\nVégül ezt mondta Isten Mózesnek: „Így beszélj Izrael fiaihoz: Az Úr, atyáitok Istene, Ábrahám Istene, Izsák Istene és Jákob Istene küldött hozzátok. Ez az én nevem minden időkre, s így kell neveznetek nemzedékről nemzedékre.\n\nMenj, gyűjtsd egybe Izrael véneit, és mondd nekik: »Az Úr, atyáitok Istene, Ábrahám, Izsák és Jákob Istene megjelent nekem, és kijelentette: Letekintettem rátok, és láttam a bánásmódot, amelyben az egyiptomiak részesítenek titeket. Elhatároztam, hogy kivezetlek benneteket az egyiptomi rabságból a kananeusok, heteusok, amoreusok, ferezeusok, heveusok meg a jebuzeusok földjére, a tejjel és mézzel folyó országba. Ők hallgatni fognak szavadra.«\n\nAzután Izrael véneivel együtt menj el Egyiptom királyához, és közöld vele: »Az Úr, a héberek Istene meglátogatott bennünket. Hadd menjünk háromnapi útra a pusztába, hogy áldozzunk az Úrnak, a mi Istenünknek.« De tudom, Egyiptom királya nem engedi meg, hogy elmenjetek, ha erős kéz rá nem kényszeríti. Kinyújtom hát kezemet, és megverem Egyiptomot mindenféle csodajellel, amelyeket köztük véghezvinni szándékozom. Azokra majd elbocsát titeket.”",
+  "cite": "Kiv 3,13-20"
+ }
+}

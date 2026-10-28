@@ -1,0 +1,39 @@
+{
+ "key": "advent-4-vas-C",
+ "source_date": "2024-12-22",
+ "rank": "",
+ "day": "Advent 4. vasárnapja",
+ "psalm": {
+  "cite": "Zsolt 79,2ac és 3b.15-16.18-19",
+  "response": "Téríts meg minket, Istenünk, ragyogtasd ránk arcodat, és szabadok leszünk! 4. vers.",
+  "verses": [
+   "Figyelj ránk, Izrael pásztora,\nragyogj fel, aki trónolsz a kerubok fölött!\nMutasd meg hatalmadat,\njöjj, hogy megszabadíts minket!",
+   "Seregek Ura, fordulj hozzánk, † tekints le az égből,\nlásd, és látogasd meg ezt a szőlőt!\nVédd meg, amit jobbod ültetett,\nés az emberfiát, akit magadnak megerősítettél.",
+   "Jobbod embere fölé tárd ki kezedet,\naz emberfia fölé, akit magadnak megerősítettél.\nNem hagyunk el többé, éltess még bennünket,\nés mi segítségül hívjuk nevedet."
+  ]
+ },
+ "alleluia": {
+  "text": "Íme, az Úrnak szolgálóleánya, legyen nekem a te igéd szerint.",
+  "cite": "Lk 1,38"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Hogyan lehet az, hogy Uram anyja jön hozzám?",
+  "text": "Az angyali üdvözlet után Mária útra kelt, és a hegyek közé, Juda egyik városába sietett. Belépett Zakariás házába, és köszöntötte Erzsébetet.\n\nAmikor Erzsébet meghallotta Mária köszöntését, szíve alatt\n\nfelujjongott a magzat, és a Szentlélek betöltötte Erzsébetet. Hangos\n\nszóval így kiáltott:\n\n„Áldott vagy te az asszonyok között, és áldott a te méhednek\n\ngyümölcse! Hogyan lehet az, hogy Uram anyja jön hozzám? Mert íme,\n\namikor fülembe csendült köszöntésed szava, örvendezve felujjongott\n\nméhemben a magzat! Boldog vagy, aki hitted, hogy beteljesedik mindaz, amit az Úr mondott neked!”",
+  "cite": "Lk 1,39-45"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Mikeás próféta könyvéből",
+  "summary": "Eljön az idő, amikor Betlehemben megszületik a Messiás.",
+  "text": "Ezt mondja az Úr:\n\nTe, efratai Betlehem,\n\nbár a legkisebb vagy Juda nemzetségei között,\n\nmégis belőled születik majd nekem,\n\naki uralkodni fog Izrael felett.\n\nSzármazása az ősidőkre,\n\na régmúlt időkre nyúlik vissza.\n\nEzért elhagyja őket az Úr,\n\nmíg nem szül, akinek szülnie kell,\n\nés testvéréhez, Izrael fiaihoz\n\nvissza nem tér a maradék.\n\nFöllép és legelteti nyáját\n\naz Úr erejében,\n\naz Úrnak, az ő Istenének,\n\nfenséges nevében.\n\nAkkor biztonságban élnek,\n\nmert hatalmát kiterjeszti\n\negészen a föld határáig:\n\nés ez lesz a béke.",
+  "cite": "Mik 5,1-4a"
+ },
+ "reading2": {
+  "label": "Szentlecke",
+  "sub": "a Zsidókhoz írt levélből",
+  "summary": "Íme, eljövök, hogy teljesítsem akaratodat.",
+  "text": "Testvéreim!\n\nKrisztus, amikor a világba lép, így nyilatkozik:\n\nÁldozatot és ajándékot nem kívántál,\n\nhanem emberi testet alkottál nekem.\n\nNem kedves előtted az engesztelő és égőáldozat.\n\nEzért így szóltam: Íme, elmegyek,\n\nhogy teljesítsem akaratodat,\n\namint a könyvtekercsben rólam írva van.\n\nElőször tehát ezt mondta: „Áldozatot, ajándékot, engesztelő és\n\négőáldozatot nem akartál, nem volt az kedves előtted”, jóllehet ezeket\n\na törvény írta elő. Azután így folytatta: „Íme, elmegyek, hogy\n\nteljesítsem akaratodat.” Tehát az előzőket eltörli, hogy helyébe\n\nállítsa az utóbbit. Vagyis Isten akarata szerint Jézus Krisztus\n\ntestének feláldozása egyszer s mindenkorra megszentel bennünket.",
+  "cite": "Zsid 10,5-10"
+ }
+}

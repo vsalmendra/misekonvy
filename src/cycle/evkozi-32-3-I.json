@@ -1,0 +1,31 @@
+{
+ "key": "evkozi-32-3-I",
+ "source_date": "2025-11-12",
+ "rank": "",
+ "day": "32. évközi hét szerda",
+ "psalm": {
+  "cite": "Zsolt 81,3-4.6-7",
+  "response": "Kelj föl, Istenünk, ítéld meg a földet!",
+  "verses": [
+   "Védjétek meg a szegény és az árva jogát,\nítéljétek meg igazát az elnyomottnak és a nyomorultnak!\nSzabadítsátok meg a szűkölködőt,\nmentsétek ki a szegényt a gonosz hatalmából!",
+   "Bár azt mondtam: † „Istenek vagytok,\na Magasságbeli fiai vagytok mindnyájan”,\nmeghaltok mégis, mint a közemberek,\nés elhulltok, mint bármelyik főember."
+  ]
+ },
+ "alleluia": {
+  "text": "Adjatok hálát mindenért! mert Isten ezt kívánja mindnyájatoktól Krisztus Jézusban.",
+  "cite": "1Tessz 5,18"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Mindenért adjunk hálát az Úrnak, és dicsőítsük őt!",
+  "text": "Jézus egyszer útban Jeruzsálem felé áthaladt Szamaria és Galilea határvidékén. Amikor betért az egyik faluba, tíz leprás férfi jött vele szembe. Még messze voltak, amikor megálltak, és hangosan így kiáltottak: „Jézus, Mester! Könyörülj rajtunk!” Ő rájuk tekintett, és így szólt hozzájuk: „Menjetek és mutassátok meg magatokat a papoknak.” Útközben megtisztultak. Az egyik, amikor észrevette, hogy meggyógyult, visszament, hangos szóval dicsőítette Istent, arcra borult Jézus lába előtt, és hálát adott neki. És ez az ember szamaritánus volt. Jézus megkérdezte: „Nemde tízen tisztultak meg? Hol maradt a többi kilenc? Nem akadt más, aki visszajött volna, hogy hálát adjon Istennek, csak ez az idegen?” Aztán hozzá fordult: „Kelj fel és menj! Hited meggyógyított téged.”",
+  "cite": "Lk 17,11-19"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "a Bölcsesség könyvéből",
+  "summary": "Figyelmeztetés azoknak, akik hatalmat kaptak a földön: szentül használják fel a rájuk bízott értékeket, különben félelmetes ítélet vár rájuk.",
+  "text": "Így szól az örök Bölcsesség: Halljátok, királyok, akik a föld népeit kormányozzátok! Figyeljetek, akik a sokaságon uralkodtok, és a népek nagy számával hivalkodtok! A Mindenható adta nektek a hatalmat, és a Magasságbeli az uralmat, aki majd számon kéri tetteiteket, és kivizsgálja szándékaitokat. Jóllehet az ő országának szolgái vagytok, mégsem ítéltetek igazságosan, nem tartottátok meg a törvényt, és nem éltetek Isten akarata szerint. Ezért félelmetesen és hirtelenül eljön majd az Úr, és szigorú ítéletet tart minden hatalmaskodón. A kicsik irgalomból irgalomra lelnek, a hatalmasokra azonban kemény számonkérés vár. Mert a mindenség Ura senkitől sem tart, és nincs nagyság, amelytől félne. Hisz ő teremtette a kicsit és nagyot, és egyaránt gondját viseli mindegyiknek. A hatalmasokra azonban szigorú számonkérés vár. Hozzátok intézem tehát szavamat, ti, királyok, hogy bölcsességet tanuljatok és bűnbe ne essetek. Mert akik a szent dolgokkal szentül bánnak, megszentelődnek, és akik azokat megtanulják, oltalmat találnak. Fogadjátok szívesen tanításomat, vágyódjatok rá, és okuljatok belőle!",
+  "cite": "Bölcs 6,1-11"
+ }
+}

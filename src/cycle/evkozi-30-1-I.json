@@ -1,0 +1,32 @@
+{
+ "key": "evkozi-30-1-I",
+ "source_date": "2025-10-27",
+ "rank": "",
+ "day": "30. évközi hét hétfő",
+ "psalm": {
+  "cite": "Zsolt 67,2 és 4.6-7ab.20-21",
+  "response": "A mi Urunk, Istenünk üdvösséget adó Isten.",
+  "verses": [
+   "Fölkel az Isten és szétszóródnak ellenségei,\nszíne elől gyűlölői szertefutnak.\nÖrvendjenek az igazak és ujjongjanak Isten színe előtt,\nés örömükben ujjongjanak.",
+   "Árváknak atyja és özvegyek gyámola\nIsten az ő Szentséges templomában.\nIsten a hontalannak otthont készít,\na rabnak visszaadja szabadságát.",
+   "Áldott legyen az Úr mindennap,\nüdvösségünk Istene, ő visel ránk gondot.\nIstenünk ő, szabadító Istenünk,\naz Úr, a mi Urunk, kivezet minket a halálból."
+  ]
+ },
+ "alleluia": {
+  "text": "Uram, a te szavad igazság, tégy szentté minket igazságod által! Vö. Jn 17,17b és a",
+  "cite": ""
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Jót mindennap tehetünk: Jézus szombaton is meggyógyítja a beteg asszonyt.",
+  "text": "Jézus szombatonként a zsinagógában tanított. Volt ott egy asszony, akit a betegség lelke már tizennyolc éve hatalmában tartott. Annyira meggörnyedt, hogy egyáltalán nem tudott felegyenesedni.\n\nAmikor Jézus meglátta, magához hívta, és így szólt hozzá: „Asszony, megszabadultál betegségedtől.” Közben rátette a kezét. Az rögtön felegyenesedett, és dicsőítette az Istent.\n\nA zsinagóga elöljárója méltatlankodott azért, hogy Jézus szombaton gyógyított, és a sokasághoz fordult: „Hat napotok van a munkára. Akkor jöjjetek gyógyulást keresni, ne szombaton!”\n\nJézus feléje fordult, és megfelelt neki: „Képmutatók! Van-e köztetek egy is, aki nem oldja el a jászoltól ökrét vagy szamarát szombati napon, hogy megitassa? Ábrahámnak ezt a lányát pedig a sátán tartotta megkötözve immár tizennyolc éve. Nem kellett-e őt feloldani kötelékétől akár szombaton is?”\n\nEllenfelei e szavakra szégyenükben elpirultak. A nép pedig örvendezett, hogy Jézus ilyen csodát művelt.",
+  "cite": "Lk 13,10-17"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a rómaiakhoz írt leveléből",
+  "summary": "A mennyei Atya a bennünk lakó Szentlélek által fiaivá fogadott, és országának örököseivé tett minket.",
+  "text": "Testvéreim!\n\nNem tartozunk a testnek azzal, hogy test szerint éljünk. Mert ha test szerint éltek, biztosan meghaltok, de ha a lélekkel elfojtjátok a test szerinti tetteket, élni fogtok.\n\nAkiket Isten Lelke vezérel, azok Isten fiai. Nem a szolgaság lelkét kaptátok ugyanis, hogy ismét félelemben éljetek, hanem a fogadott fiúság Lelkét nyertétek el. Általa szólítjuk őt így: „Abba, Atya!”\n\nA (Szent)lélek maga tesz tanúságot lelkünkben, hogy Isten gyermekei vagyunk. Ha pedig gyermekei, akkor örökösei is: Istennek örökösei, Krisztusnak pedig társörökösei. Előbb azonban szenvednünk kell vele együtt, hogy vele együtt meg is dicsőüljünk.",
+  "cite": "Róm 8,12-17"
+ }
+}

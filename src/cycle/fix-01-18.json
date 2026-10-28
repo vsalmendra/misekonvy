@@ -1,0 +1,32 @@
+{
+ "key": "fix-01-18",
+ "source_date": "2025-01-18",
+ "rank": "Ü",
+ "day": "Árpád-házi Szent Margit szűz – Ü",
+ "psalm": {
+  "cite": "Zsolt 44,11-12.14-15.16-17",
+  "response": "Íme, jön a Vőlegény: menjetek az Úr Krisztus elé!",
+  "verses": [
+   "Halljad, leányom, figyelj szavamra,\nfelejtsd el népedet és atyád házát.\nSzépségedet kívánja a király,\nmert ő a te urad, hódolj előtte.",
+   "Belül a királylány csupa szépség,\narannyal van átszőve ruhája.\nSzínpompás ruhában vezetik a királyhoz,\nszüzek követik, és barátnői kísérik útján.",
+   "Ujjongó örömmel vonulnak,\nbevonulnak a király házába.\nAtyáid helyett fiaid lesznek,\naz egész földön fejedelmekké teszed őket."
+  ]
+ },
+ "alleluia": {
+  "text": "Íme, az okos szűz, akit az Úr ébren talált, és amikor megérkezett az Úr, bement vele a menyegzőre.",
+  "cite": "Vö. Mt 25,10"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Íme, jön a Vőlegény! Menjetek eléje!",
+  "text": "Abban az időben Jézus a következő példabeszédet mondta tanítványainak:\n\nA mennyek országa olyan, mint az a tíz szűz, akik vették lámpáikat, és kimentek a vőlegény elé. Öten közülük balgák voltak, öten pedig okosak. A balgák fogták a lámpásukat, de olajat nem vittek magukkal; az okosak azonban korsóikban olajat is vittek lámpásaikhoz. Késett a vőlegény, s ők mind elálmosodtak és elaludtak. Az éjszaka közepén egyszerre kiáltás hangzott: „Íme, a vőlegény! Menjetek eléje!” Erre a szüzek mindnyájan fölébredtek és felszították lámpásaikat. A balgák kérték az okosakat: „Adjatok az olajotokból, mert lámpásaink kialvóban vannak!” Az okosak ezt válaszolták: „Nem lehet, nehogy nekünk is, nektek is kevés legyen. Inkább menjetek el a kereskedőkhöz, és vegyetek magatoknak!” Míg azok vásárolni mentek, megérkezett a vőlegény, és akik készen voltak, bementek vele a menyegzőre; az ajtó pedig bezárult. Később megérkezett a többi szűz is. Így szóltak: „Uram, Uram! Nyiss ajtót nekünk!” De ő így válaszolt: „Bizony, mondom nektek, nem ismerlek titeket!”\n\nVirrasszatok tehát, mert nem ismeritek sem a napot, sem az órát!",
+  "cite": "Mt 25,1-13"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a korintusiakhoz írt második leveléből",
+  "summary": "Eljegyeztelek benneteket egy férfival, hogy mint tiszta szüzeket vezesselek el Krisztushoz.",
+  "text": "Testvéreim!\n\nAki dicsekszik, az Úrban dicsekedjék. Mert nem az a megbízható, aki önmagát ajánlja, hanem akit az Isten ajánl.\n\nBárcsak eltűrnétek részemről egy kis oktalanságot. Sőt viseljetek el engem is. Én ugyanis Isten szeretetének féltékenységével féltelek titeket, mert eljegyeztelek benneteket egy férfival, hogy mint tiszta szüzeket vezesselek el Krisztushoz benneteket.",
+  "cite": "2Kor 10,17–11,2"
+ }
+}

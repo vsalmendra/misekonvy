@@ -1,0 +1,32 @@
+{
+ "key": "fix-12-28",
+ "source_date": "2024-12-28",
+ "rank": "Ü",
+ "day": "Aprószentek – Ü",
+ "psalm": {
+  "cite": "Zsolt 123,2-3.4-5.7b-8.",
+  "response": "Lelkünk megmenekült, mint a madár a vadászok hálójából.",
+  "verses": [
+   "Ha nem lett volna velünk az Úr,\namikor az emberek ránk támadtak,\nakkor elevenen elnyeltek volna,\núgy fellángolt haragjuk ellenünk.",
+   "Elnyelt volna minket akkor a víz, † a zuhatag elsodorta volna életünket,\nelragadtak volna a tajtékzó hullámok.",
+   "A vadászháló szétszakadt,\nés mi szabadok lettünk.\nAz Úr a mi segítségünk,\naki az eget és a földet alkotta."
+  ]
+ },
+ "alleluia": {
+  "text": "Téged, Isten, dicsérünk, téged Úrnak ismerünk! Jeles mártírseregek magasztalnak tégedet.",
+  "cite": ""
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Heródes Betlehemben és annak egész környékén megöletett minden fiúgyermeket kétévestől lefelé.",
+  "text": "Miután a bölcsek eltávoztak, íme, az Úr angyala megjelent Józsefnek álmában, és így szólt: „Kelj fel, vedd a gyermeket és anyját, és menekülj Egyiptomba! Maradj ott, míg nem szólok neked! Heródes ugyanis arra készül, hogy megkeresi és megöli a gyermeket.”\n\nJózsef fölkelt, fogta a gyermeket és anyját, és még azon éjjel elment Egyiptomba. Ott maradt Heródes haláláig, hogy beteljesedjék, amit az Úr a próféta által mondott: Egyiptomból hívtam az én fiamat.\n\nAmikor Heródes látta, hogy a bölcsek kijátszották, nagy haragra lobbant, és Betlehemben meg annak egész környékén megöletett minden fiúgyermeket kétévestől lefelé, a bölcsektől megtudott időnek megfelelően.\n\nAkkor beteljesedett, amit Jeremiás próféta jövendölt: „Kiáltás hangzik Rámában, nagy sírás és jajgatás: Ráchel siratja fiait, és nem akar vigasztalódni, mert nincsenek többé.”",
+  "cite": "Mt 2,13-18"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent János apostol első leveléből",
+  "summary": "Jézus Krisztusnak vére megtisztít minket minden bűntől.",
+  "text": "Szeretteim!\n\nAz üzenet, amelyet Jézus Krisztustól hallottunk és nektek hirdetünk, ez: Az Isten világosság és nincs benne semmi sötétség. Ha azt állítjuk, hogy közösségben vagyunk vele és sötétségben élünk, akkor hazudunk, és nem cselekszünk az igazság szerint. De ha világosságban járunk, mint ahogy ő is világosságban van, akkor közösségben vagyunk egymással, és Fiának, Jézusnak vére megtisztít minket minden bűntől.\n\nHa azt állítjuk, hogy nincs bűnünk, saját magunkat vezetjük félre, és nincs meg bennünk az igazság. Ha megvalljuk bűneinket, akkor mivel jó és igazságos, megbocsátja bűneinket, és minden gonoszságtól megtisztít minket. Ha azt állítjuk, hogy nem vétkeztünk, hazugnak tüntetjük fel, és tanítása nincs bennünk.\n\nGyermekeim! Ezeket azért írom, hogy ne kövessetek el bűnt. De ha valaki bűnbe esett, van szószólónk az Atyánál: Jézus Krisztus, az Igaz. Ő az engesztelő áldozat bűneinkért, nemcsak a mieinkért, hanem az egész világ bűneiért is.",
+  "cite": "1Jn 1,5–2,2"
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "key": "evkozi-16-6-I",
+ "source_date": "2025-07-26",
+ "rank": "",
+ "day": "16. évközi hét szombat",
+ "psalm": {
+  "cite": "Zsolt 49,1-2.5-6.14-15",
+  "response": "A dicséret áldozatát ajánld föl Istenednek!",
+  "verses": [
+   "Szólott az Úr, az istenek Istene, † hívta a földet napkelettől napnyugatig,\na szépséges Sionból felragyogott Isten dicsősége.",
+   "„Gyűjtsétek körém szentjeimet,\nakik szövetségre léptek velem az áldozatban.”\nIsten igazságosságát az egek hirdetik,\nIsten maga tart ítéletet.",
+   "„Ajánld föl Istennek a dicséret áldozatát,\nés teljesítsd a Fölséges előtt fogadalmad!\nA gyötrelem napján engem hívjál,\nmegmentelek és áldasz engem.”"
+  ]
+ },
+ "alleluia": {
+  "text": "Fogadjátok tanulékony lélekkel a belétek oltott tanítást, amely megmentheti lelketeket.",
+  "cite": "Jak 1,21bc"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "A jók és a rosszak szétválasztása az ítélet napján következik be.",
+  "text": "Jézus egy alkalommal ezt a példabeszédet mondta a népnek: A mennyek országa hasonlít ahhoz az emberhez, aki jó magot vetett földjébe. Amíg azonban az emberek aludtak, eljött ellensége, konkolyt hintett a búza közé, aztán elment.\n\nAmikor felnövekedett a vetés, és már kalászba szökkent, akkor előtűnt a konkoly is. Erre elmentek a szolgák a gazdához, és megkérdezték tőle: „Uram, nemde jó magot vetettél földedbe? Honnét van tehát a konkoly?” Mire a gazda így felelt: „Ellenséges ember cselekedte ezt.”\n\nA szolgák tovább kérdezték: „Akarod-e, hogy elmenjünk és kiszedjük belőle?” Azt válaszolta nekik: „Nem! Nehogy a konkolyt gyomlálva kitépjétek vele együtt a búzát is. Hagyjátok, hadd nőjön fel mindkettő az aratásig! Aratáskor majd megmondom az aratóknak: Előbb a konkolyt szedjétek össze, és kössétek kévébe, hogy tűzre kerüljön. A búzát pedig gyűjtsétek csűrömbe!”",
+  "cite": "Mt 13,24-30"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Mózes második könyvéből",
+  "summary": "Mózes meghinti a népet az áldozati állat vérével, annak a szövetségnek megpecsételésére, amelyet az Úr kötött választott népével.",
+  "text": "Miután az Úr közölte a feltételeket, amelyek alapján szövetséget akart kötni népével, Mózes lejött a hegyről, s kihirdette a népnek az Úr minden szavát és parancsát. Az egész nép egy szívvel felelte: „Az Úr minden szavát megtartjuk.”\n\nEzután Mózes leírta az Úr valamennyi törvényét. Másnap reggel a hegy lábánál felállított egy oltárt és tizenkét emlékoszlopot, Izrael tizenkét törzsének megfelelően. Azután megbízott néhány fiatalt Izrael népéből, hogy égőáldozatot mutassanak be, és bikákat ajánljanak fel az Úrnak békeáldozatul.\n\nMózes vette a vér felét és áldozati csészékbe öntötte, a vér másik felét pedig az oltárra hintette. Majd fogta a szövetség könyvét, és felolvasta a népnek. Ők kijelentették: „Követjük és megtartjuk, amit az Úr parancsol.”\n\nErre Mózes vette a vért, meghintette vele a népet, és így szólt: „Ez annak a szövetségnek vére, amelyet az Úr mindezen igék alapján kötött veletek.”",
+  "cite": "Kiv 24,3-8"
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "key": "evkozi-34-1-I",
+ "source_date": "2025-11-24",
+ "rank": "",
+ "day": "34. évközi hét hétfő",
+ "psalm": {
+  "cite": "Dán 3,52-56",
+  "response": "Dicséretre méltó és magasztos örökkön örökké.",
+  "verses": [
+   "Áldott vagy, Urunk, atyáink Istene,\n",
+   "Áldott a te dicsőséges szent neved,\n",
+   "Áldott vagy templomodban, dicsőséged szent helyén,\n",
+   "Áldott vagy királyi trónodon,\n",
+   "Áldott vagy, aki a mélységekbe tekintesz, † és a kerubok fölött trónolsz,\n",
+   "Áldott vagy az égbolt fölött,\n"
+  ]
+ },
+ "alleluia": {
+  "text": "Virrasszatok és álljatok készen, mert nem tudjátok, hogy az Emberfia mikor érkezik!",
+  "cite": "Mt 24,42a.44"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Isten nem az adomány nagyságát, hanem az adakozó lelkét nézi.",
+  "text": "Jézus egy alkalommal megfigyelte, hogyan dobják a gazdagok adományaikat a templom perselyébe. Közben észrevette, hogy egy szegény özvegyasszony két fillért dobott be. Erre megjegyezte: „Bizony, mondom nektek, ez a szegény özvegy többet dobott be, mint bárki más. A többiek ugyanis abból adakoztak, amiben bővelkednek, ez azonban mindent odaadott, ami szegénységéből telt: egész megélhetését.”",
+  "cite": "Lk 21,1-4"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Dániel próféta könyvéből",
+  "summary": "Dánielt és három társát a babiloni királyi udvarban is megőrzi az Isten; és nagy méltóságra emelkednek, mert hűségesek maradnak az Úr törvényeihez.",
+  "text": "Joákim, júdeai király uralkodásának harmadik esztendejében Nabukodonozor, Babilon királya, ostrom alá vette Jeruzsálemet. Az Úr megengedte neki, mármint a babiloni királynak, hogy Joákimot, Júda királyát elfogja, és az Isten háza edényeiből sokat elvigyen saját hazája istenének templomkincstárába.\n\nA király azt is meghagyta még udvari főtisztjének, hogy Júda fiai közül válogasson fejedelmi származású, szép testalkatú, éles eszű és minden ismeretben jártas ifjakat, akik a király udvarában alkalmazhatók.\n\nGondoskodjék továbbá, hogy ezeket az ifjakat szóban és írásban tanítsák a babiloni nyelvre is. A király saját asztaláról utaltatott ki számukra ételt és italt, hogy háromévi ilyen nevelés után majd körülötte szolgálatot teljesítsenek.\n\nEzek között volt Dániel és három társa: Hananja, Misael és Azarja is. Dániel megfogadta, hogy nem eszik és nem iszik tisztátalant. Kérte tehát az udvari főtisztet, hogy ne kelljen a király asztaláról ennie és innia. Isten rokonszenvet ébresztett a királyi udvar főtisztjében Dániel iránt, de az mégis így szabadkozott: „Félek uramtól, királyomtól, aki számotokra külön ételt és italt írt elő, hogy soványabbak lesztek, mint a többi társatok. A király előtt még veszélybe sodorjátok fejemet.” Ekkor Dániel így beszélt az ő és három társa fölé rendelt tiszthez: „Adj szolgáidnak rövid tíznapnyi próbaidőt! Csupán növényi eledelt adass nekünk, és hozzá friss vizet. Azután nézd meg arcunkat és a többi ifjak arcát, akik a király asztaláról kapják étküket. Amit rajtunk tapasztalsz, aszerint járj el velünk!” Az meg is fogadta Dániel szavát, és próbára tette őket tíz napig. De tíz nap múlva szebbek s fejlettebbek voltak, mint azok, akik a király asztaláról kapták ételüket. Ezek után nem is kellett nekik a király asztaláról enniük és inniuk, hanem növényi eledelt adtak nekik.\n\nEzek az ifjak bölcsességet és minden tudományban való jártasságot kaptak Istentől, sőt Dániel még külön az álomlátás és az álommegértés képességét is. Amikor azután parancs szerint be kellett menniük a király elé, az udvari tiszt be is vezette őket. A király mindegyikkel elbeszélgetett, s úgy látta: egy sincs köztük olyan, mint Dániel és három társa: Hananja, Misael és Azarja. A király erre udvarába fogadta őket. Minden ügyben, amely bölcsességet igényelt vagy tudományos jártasságot kívánt, a király megkérdezte véleményüket: tízszerte is különbnek tapasztalta őket, mint országa valamennyi bölcsét és varázslóját.",
+  "cite": "Dán 1,1-6.8-20"
+ }
+}

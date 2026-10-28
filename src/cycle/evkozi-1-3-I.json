@@ -1,0 +1,33 @@
+{
+ "key": "evkozi-1-3-I",
+ "source_date": "2025-01-15",
+ "rank": "",
+ "day": "1. évközi hét szerda",
+ "psalm": {
+  "cite": "Zsolt 104,1-4.6-9",
+  "response": "Sohasem felejti az Isten az ő szövetségét.",
+  "verses": [
+   "Adjatok hálát az Úrnak, és hívjátok segítségül nevét,\nhirdessétek műveit a nemzetek között.\nÉnekeljetek és zengjetek zsoltárt neki,\nemlegessétek minden csodáját.",
+   "Dicsekedjetek szent nevével,\naz Urat kereső szívek örvendezzenek.\nKeressétek az Urat és hatalmas erejét,\nkeressétek arcát szüntelen.",
+   "Ti vagytok Ábrahámnak, az ő szolgájának ivadékai,\nválasztottjának, Jákobnak fiai.\nŐ a mi Urunk és Istenünk,\nő ítélkezik az egész földön.",
+   "Örökké emlékezik szövetségére,\nezernyi nemzedéknek adott igéjére,\nmelyet Ábrahámnak adott,\nés az esküre, melyet Izsáknak esküdött."
+  ]
+ },
+ "alleluia": {
+  "text": "Jézus mondja: „Juhaim hallgatnak szavamra, ismerem őket, és ők a nyomomban járnak.”",
+  "cite": "Jn 10,27"
+ },
+ "gospel": {
+  "book": "Szent Márk",
+  "summary": "Jézus sokakat meggyógyított, akik különböző bajokban szenvedtek.\nAbban az időben:",
+  "text": "Abban az időben Jézus kijött a kafarnaumi zsinagógából, és elment Simon és András házába. Simon anyósa lázas betegen feküdt. Mindjárt szóltak is Jézusnak. Jézus odament hozzá, megfogta a kezét, és fölsegítette. Erre megszűnt a láza, és szolgált nekik.\n\nAmikor lement a nap és beesteledett, odavitték hozzá a betegeket és a gonosz lélektől megszállottakat. Az egész város ott szorongott az ajtó előtt. Jézus pedig sokakat meggyógyított, akik különböző bajokban szenvedtek; és sok ördögöt kiűzött. De nem engedte megszólalni őket, mert tudták, hogy ő kicsoda.\n\n(Másnap) Jézus kora hajnalban felkelt, kiment (a házból), elment egy elhagyatott helyre, és ott imádkozott. Simon és a vele lévők utána mentek. Amikor megtalálták, azt mondták neki: „Mindenki téged keres!”\n\nDe ő azt felelte: „Menjünk el máshová, a szomszédos helységekbe, hogy ott is hirdessem az evangéliumot, – hiszen ezért jöttem.” És elment, hirdette az evangéliumot a zsinagógákban Galilea egész területén, és kiűzte az ördögöket.",
+  "cite": "Mk 1,29-39"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "a Zsidókhoz írt levélből",
+  "summary": "A Megváltó mindenben hasonlóvá lett embertestvéreihez, hogy irgalmas lehessen hozzánk.",
+  "text": "Testvéreim!\n\nAkik egy és ugyanazon atya gyermekei, azoknak közös a testük és a vérük. Ebből Jézus is részt vállalt. Így akarta legyőzni halála által azt, aki a halálon uralkodott, tudniillik a sátánt; és így akarta felszabadítani azokat, akiket egész életükre rabszolgává tett a haláltól való félelem.\n\nHiszen Jézus nem az angyalokat karolta fel, hanem Ábrahám leszármazottait. Ezért minden tekintetben hasonlóvá kellett válnia testvéreihez, hogy irgalmas lehessen és Istenhez hűséges főpap, és így kiengesztelje a nép bűneit.\n\nTud tehát segíteni azokon, akik kísértéssel küzdenek, mivel maga is kísértést szenvedett.",
+  "cite": "Zsid 2,14-18"
+ }
+}

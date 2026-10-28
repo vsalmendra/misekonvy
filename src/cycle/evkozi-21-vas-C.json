@@ -1,0 +1,39 @@
+{
+ "key": "evkozi-21-vas-C",
+ "source_date": "2025-08-24",
+ "rank": "",
+ "day": "Évközi 21. vasárnap",
+ "psalm": {
+  "cite": "Zsolt 116,1.2.",
+  "response": "Menjetek el az egész világra, és hirdessétek az evangéliumot!",
+  "verses": [
+   "Vagy: Alleluja, alleluja, alleluja. 4. szám.\nDicsérjétek az Urat, minden népek,\nmagasztaljátok őt minden nemzetek.",
+   "Vagy: Alleluja, alleluja, alleluja.\nMert erős rajtunk az ő irgalma,\nés az ő hűsége örökké megmarad.",
+   "Vagy: Alleluja, alleluja, alleluja."
+  ]
+ },
+ "alleluia": {
+  "text": "Jézus mondja: „Én vagyok az út, az igazság és az élet, senki sem jut Atyámhoz, csak általam.”",
+  "cite": "Jn 14,6"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Isten országában napkelettől napnyugatig mindenkinek helye van.",
+  "text": "Abban az időben Jézus Jeruzsálem felé tartott. Útközben tanított a\n\nvárosokban és falvakban, melyeken áthaladt.\n\nValaki megkérdezte tőle: „Uram, kevesen vannak, akik üdvözülnek?”\n\nŐ így válaszolt: „Törekedjetek bemenni a szűk kapun, mert mondom\n\nnektek, sokan próbálnak majd bejutni, de nem tudnak.\n\nA ház ura felkel és bezárja az ajtót, ti kint rekedtek, és zörgetni\n\nkezdtek az ajtón: »Uram, nyiss nekünk ajtót.« Erre ő azt feleli nektek:\n\n»Nem tudom, honnan vagytok.«\n\nAkkor ti bizonygatni kezditek: »Veled ettünk és ittunk; a mi\n\nutcánkban tanítottál.« De ő megismétli: »Nem tudom, honnan vagytok.\n\nTávozzatok tőlem mind, ti gonosztevők!«\n\nOtt majd sírás és fogcsikorgatás lesz, amikor látjátok Ábrahámot,\n\nIzsákot, Jákobot és mind a prófétákat az Isten országában, magatokat\n\nmeg kitaszítva onnan.\n\nJönnek majd keletről és nyugatról, északról és délről, és helyet\n\nfoglalnak az Isten országában.\n\nÍme, így lesznek az utolsókból elsők, és az elsőkből utolsók!”",
+  "cite": "Lk 13,22-30"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Izajás próféta könyvéből",
+  "summary": "A próféta arról jövendöl,\nhogy a Messiás idejében a pogány népek megtérnek Isten országába.",
+  "text": "Ezt mondja az Úr:\n\n„Ismerem cselekedeteiket és gondolataikat: eljövök, hogy\n\nösszegyűjtsek minden népet és nyelvet. Eljönnek majd, és meglátják\n\ndicsőségemet. Jelet adok nekik; és azok közül, akik megszabadultak,\n\nelküldök néhányat a nemzetekhez: Tarzisz, Put, Lud, Mosek, Ros, Tubál\n\nés Jáván népéhez, a távoli szigetekre: azokhoz, akik soha nem hallottak\n\nrólam, és nem látták dicsőségemet.\n\nVisszahozzák majd minden testvéreteket ajándékul az Úrnak a nemzetek\n\nközül; lovakon, kocsikon, hordágyakon, öszvéreken és tevéken hozzák\n\nmajd őket szent hegyemre, Jeruzsálembe – mondja az Úr. Úgy, ahogy\n\nIzrael fiai hozzák az áldozati ajándékot az Úr házába, tiszta\n\nedényekben. És közülük is választok majd magamnak papokat és\n\nlevitákat” – mondja az Úr.",
+  "cite": "Iz 66,18-21"
+ },
+ "reading2": {
+  "label": "Szentlecke",
+  "sub": "a Zsidókhoz írt levélből",
+  "summary": "„Akit az Úr szeret, megpróbálja azt.”",
+  "text": "Testvéreim!\n\nMegfeledkeztetek a vigasztalásról, amely nektek, a fiaknak szól:\n\n„Fiam, ne kicsinyeld le az Úr fenyítését, s ne csüggedj el, ha\n\nkorhol. Mert megfenyíti az Úr, akit szeret, és megostoroz mindenkit,\n\nakit fiává fogad.” Maradjatok állhatatosak a fenyítéskor: az Isten úgy\n\nbánik veletek, mint fiaival. Hol van olyan fiú, akit az apja nem\n\nfenyít?\n\nIgaz, most minden fenyítés inkább szomorúságot okoz, mintsem örömet,\n\nkésőbb azonban az igaz élet és békesség gyümölcsét termi annak, aki\n\nelviseli.\n\nEzért erősítsétek meg a lankadt kezeket és a megroggyant térdeket.\n\nJárjatok egyenesen, hogy a megbénult tag ki ne ficamodjék, hanem\n\ninkább meggyógyuljon.",
+  "cite": "Zsid 12,5-7.11-13"
+ }
+}

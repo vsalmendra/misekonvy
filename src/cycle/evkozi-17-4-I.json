@@ -1,0 +1,33 @@
+{
+ "key": "evkozi-17-4-I",
+ "source_date": "2025-07-31",
+ "rank": "",
+ "day": "17. évközi hét csütörtök",
+ "psalm": {
+  "cite": "Zsolt 83,3.4.5-6a.és 8a.11",
+  "response": "Mily kedves a te hajlékod, Seregek Ura, Istene!",
+  "verses": [
+   "Sóvárog és vágyódik lelkem\naz Úr udvarába,\nszívem és testem\nörvendezik az élő Istenben.",
+   "Még a veréb is otthont talál magának,\nés a gerle fészket, ahová fiait helyezze;\na te oltárodnál, Seregek Ura,\nén Istenem és Királyom!",
+   "Boldogok, akik a te házadban laknak,\nörökkön örökké dicsérnek téged.\nBoldog az az ember, kinek segítsége tőled van;\nújult erővel halad az úton.",
+   "Bizony, egy nap a te házadban\nezernyi másnál többet ér.\nInkább szeretnék az Úr házának küszöbén állni,\nmint lakni a gonoszok sátraiban."
+  ]
+ },
+ "alleluia": {
+  "text": "Uram, nyisd meg szívünket, hogy meghallgassuk Fiad igéit! Vö. ApCsel 16,14b",
+  "cite": ""
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Példabeszéd a tengerbe vetett hálóról.",
+  "text": "Abban az időben Jézus így szólt tanítványaihoz:\n\n„A mennyek országa olyan, mint amikor a hálót a tengerbe vetik és az mindenféle halat összefog. Mihelyt megtelik, a partra vonják, és nekiülve kiválogatják: a javát edényekbe rakják, a hitványát pedig kidobják. Így lesz a világ végén is. Kivonulnak az angyalok, a gonoszokat elválasztják az igazaktól és tüzes kemencébe vetik, ott sírás lesz és fogcsikorgatás.\n\nÉrtitek-e mindezt?”\n\n„Igen!” – felelték. Erre így folytatta: „Minden írástudó, aki jártas a mennyek országáról szóló tanításban, olyan, mint a családapa, aki kincseiből régit és újat vesz elő.”\n\nAmikor Jézus befejezte példabeszédeit, más helyre ment onnét.",
+  "cite": "Mt 13,47-53"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Mózes második könyvéből",
+  "summary": "Amikor elkészült a szent sátor, felhő födte be, és Isten dicsősége töltötte be a sátrat.",
+  "text": "Mózes megtett mindent, amit az Úr parancsolt neki. A második esztendő első hónapjának első napján el is készült a szent sátor. Mózes felállította a hajlékot: elhelyezte a deszkákat, a talpfákat és a reteszrudakat; felállította az oszlopokat; rájuk terítette a sátorlapot, arra meg a takarót tette, ahogyan az Úr parancsolta neki. Majd a ládában elhelyezte a tízparancsolat tábláit; rátette a rudakat, felülre pedig a kiengesztelődés tábláját. Aztán bevitte a ládát a szent hajlékba, felerősítette eléje a függönyt, hogy így teljesítse az Úr parancsát.\n\nEkkor felhő takarta be a szent sátort, és betöltötte az Úr dicsősége. Mózes nem is tudott bemenni a szövetség sátrába, mert a felhő mindent befödött, és az Úr dicsősége tündöklött benne.\n\nValahányszor a felhő felemelkedett a szent sátorról, a nép útnak indult. Ez így történt egész vándorlása idején. Ha viszont nem mozdult a felhő, nem indultak el addig a napig, amíg a felhő fel nem emelkedett. Nappal ugyanis az Úr felhője lebegett a sátor felett, éjszaka pedig tűz, amelyet a nép egész vándorlása idején láthatott.",
+  "cite": "Kiv 40,16-21.34-38"
+ }
+}

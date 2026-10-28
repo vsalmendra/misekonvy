@@ -1,0 +1,33 @@
+{
+ "key": "evkozi-22-5-I",
+ "source_date": "2025-09-05",
+ "rank": "",
+ "day": "22. évközi hét péntek",
+ "psalm": {
+  "cite": "Zsolt 99,2.3.4.5",
+  "response": "Járuljatok az Úr színe elé vidám énekszóval! 2c. vers,",
+  "verses": [
+   "Ujjongjatok az Úrnak, minden földek,\nszolgáljatok az Úrnak vidámsággal!\nJáruljatok színe elé\nvidám énekszóval!",
+   "Tudjátok meg, hogy az Úr az Isten,\növéi vagyunk, ő alkotott minket.\nAz ő népe vagyunk,\nlegelőjének nyája.",
+   "Őt magasztalva lépjetek be kapuján, † énekelve vonuljatok hajlékába,\náldjátok nevét, és adjatok hálát néki.",
+   "Valóban jó az Úr, † irgalma örökké megmarad,\nés hűsége nemzedékről nemzedékre."
+  ]
+ },
+ "alleluia": {
+  "text": "Én vagyok a világ világossága – mondja az Úr, aki engem követ, övé lesz az élet világossága.",
+  "cite": "Jn 8,12"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Az új tanítás, amelyet Jézus hozott, nem mérhető a régi mértékkel.",
+  "text": "Egy alkalommal a farizeusok és írástudók így szóltak Jézushoz: „János tanítványai gyakran böjtölnek és imádkoznak, és ugyanígy a farizeusok tanítványai is; a tieid azonban csak esznek-isznak.” Jézus így felelt nekik: „Csak nem foghatjátok böjtre a násznépet, amíg vele van a vőlegény? Eljön az idő, amikor elviszik a vőlegényt: akkor majd böjtölnek.”\n\nPéldabeszédet is mondott nekik: „Senki sem hasít ki új ruhából foltot, hogy ócska ruhára tegye. Hiszen így az újat is elszakítja, és az ócska ruhára sem illik az új folt. Senki sem tölt új bort régi tömlőkbe, mert az új bor szétszakítja a tömlőket; a bor kiömlik, és a tömlők is tönkremennek. Az új bor új tömlőbe való: akkor mindkettő megmarad. Aki óbort iszik, nem kívánja az újat, mert azt mondja: »Jobb az óbor.«”",
+  "cite": "Lk 5,33-39"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a kolosszeiekhez írt leveléből",
+  "summary": "Isten mindent Fia által teremtett.",
+  "text": "Testvéreim!\n\nJézus Krisztus a láthatatlan Isten képmása, minden teremtmény elsőszülötte. Mert benne teremtett mindent a mennyben és a földön: a láthatókat és láthatatlanokat, a trónusokat, uralmakat, fejedelemségeket és hatalmasságokat. Minden általa és érte lett teremtve. Ő előbb van mindennél, és minden benne áll fenn.\n\nŐ a testnek, az Egyháznak a feje. Ő a kezdet, az elsőszülött a halottak közül, hogy övé legyen az elsőség mindenben. Úgy tetszett (az Atyának), hogy benne lakjék az egész teljesség, s hogy általa békítsen ki magával mindent a földön és a mennyben, minthogy a kereszten kiontott vérével békességet szerzett mindenkinek.",
+  "cite": "Kol 1,15-20"
+ }
+}

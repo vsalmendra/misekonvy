@@ -1,0 +1,31 @@
+{
+ "key": "evkozi-21-2-I",
+ "source_date": "2025-08-26",
+ "rank": "",
+ "day": "21. évközi hét kedd",
+ "psalm": {
+  "cite": "Zsolt 138,1-3.4-6",
+  "response": "Te megvizsgáltál, Uram, és ismersz engem.",
+  "verses": [
+   "Uram, te megvizsgálsz, és jól ismersz engem,\ntudod, ha leülök, vagy ha fölkelek.\nGondolataimat messziről is ismered, † szemmel tartod jártomat-keltemet,\njól látod minden utamat.",
+   "Szavam még el sem éri nyelvemet,\níme, te már ismered, Uram.\nMinden oldalról körülfogtál,\nés kezedet rajtam nyugtatod.\nCsodálatos ezt tudnom,\noly magasztos, hogy fel sem foghatom."
+  ]
+ },
+ "alleluia": {
+  "text": "Isten szava élő és átható: megítéli a gondolatot és a szándékot szívünk mélyén.",
+  "cite": "Zsid 4,12"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "A külső vallásgyakorlatok őszinte lelkületből fakadjanak!",
+  "text": "Jézus egyszer így korholta az írástudókat és a farizeusokat:\n\nJaj, nektek, képmutató írástudók és farizeusok! Tizedet adtok a mentából, a kaporból és a köményből, de elhanyagoljátok azt, ami a legfontosabb a törvényben: az igazságosságot, az irgalmat és a hűséget. Ezeket meg kell tenni, de azokat sem szabad elhanyagolni! Vak vezetők! Megszűritek a szúnyogot, de lenyelitek a tevét.\n\nJaj, nektek, képmutató írástudók és farizeusok! Megtisztítjátok a pohár és a tál külsejét, belül azonban tele vagytok kapzsisággal és tisztátalansággal. Vak farizeus! Tisztítsd meg előbb a pohár belsejét, akkor majd a külseje is tiszta lesz!",
+  "cite": "Mt 23,23-26"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a tesszaloniki hívekhez írt első leveléből",
+  "summary": "Az apostol nemcsak Isten evangéliumát, hanem saját életét is híveinek adja.",
+  "text": "Ti is tudjátok, testvéreim, hogy nem hiába mentünk el hozzátok. Amint hallottátok, előzőleg Filippiben szenvedés és bántalom ért, mégis Istenünkben bízva, a sok nehézség ellenére is hirdetni mertük Isten evangéliumát.\n\nA mi tanításunk nem megtévesztésből vagy hamis szándékból származik, nem is csalásból, hanem úgy beszélünk, mint akit Isten alkalmasnak ítélt az evangélium hirdetésére. Nem is az embereknek akarunk tetszeni, hanem Istennek, aki szívünket vizsgálja.\n\nAzt is tudjátok, hogy nem szoktunk hízelegni, és kapzsiság sem vezetett minket soha, Isten rá a tanúnk. Emberi elismerést sohasem kerestünk, sem a tietekét, sem másokét. És bár – mint Krisztus apostolai – követelményeket is támaszthattunk volna veletek szemben, mégis olyan gyengédek voltunk hozzátok, mint a gyermekét dajkáló anya. Annyira közel álltatok szívünkhöz, hogy nemcsak Isten evangéliumát, hanem életünket is nektek akartuk adni.",
+  "cite": "1Tessz 2,1-8"
+ }
+}

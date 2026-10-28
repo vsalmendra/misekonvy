@@ -1,0 +1,36 @@
+{
+ "key": "nagybojt-5-3",
+ "source_date": "2025-04-09",
+ "rank": "",
+ "day": "5. nagyböjti hét szerda",
+ "psalm": {
+  "cite": "Dán 3,52.53.54.55.56",
+  "response": "Dicséretre méltó és magasztos örökkön örökké.",
+  "verses": [
+   "(52b. vers. - 6. tónus)\nÁldott vagy, Urunk, atyáink Istene.\n",
+   "Áldott a te dicsőséges szent neved.\n",
+   "Áldott vagy templomodban, dicsőséged szent helyén,\n",
+   "Áldott vagy királyi trónodon.\n",
+   "Áldott vagy, aki mélységekbe tekintesz, † és a kerubok fölött trónolsz.\n",
+   "Áldott vagy az égbolt fölött.\n"
+  ]
+ },
+ "alleluia": {
+  "text": "Boldogok, akik jószívvel fogadják Isten igéjét, és állhatatosságukkal gyümölcsöt hoznak.",
+  "cite": "Vö. Lk 8,15",
+  "lent": true
+ },
+ "gospel": {
+  "book": "Szent János",
+  "summary": "„Akkor lesztek valóban szabadok, ha az Isten Fia szabaddá tesz benneteket.”",
+  "text": "Egy alkalommal Jézus a benne hívő zsidókhoz fordult, és ezt mondta nekik:\n\n„Ha megmaradtok tanításomban, akkor lesztek igazán tanítványaim: megismeritek az igazságot, és az igazság majd szabaddá tesz benneteket.”\n\nŐk erre tiltakoztak: „Ábrahám leszármazottjai vagyunk, és soha senkinek sem szolgáltunk. Hogy mondhatod tehát azt, hogy: »Szabadok lesztek?«”\n\nJézus így felelt: „Bizony, bizony, mondom nektek: mindaz, aki bűnt cselekszik, szolgája a bűnnek. A szolga nem marad mindig ura házában, de a fiú ottmarad mindvégig. Ha viszont (Isten) Fia szabaddá tesz titeket, akkor valóban szabadok lesztek. Tudom, hogy Ábrahám utódai vagytok, mégis az életemre törtök, mert tanításom nem fog rajtatok. Én azt hirdetem nektek, amit Atyámnál láttam; ti ellenben azt teszitek, amit a ti atyátoktól hallottatok.”\n\nErre közbevágtak a zsidók: „A mi atyánk Ábrahám!” Jézus így folytatta: „Ha Ábrahám gyermekei vagytok, tegyétek is azt, amit Ábrahám tett! De ti az életemre törtök, bár azt az igazságot hirdetem, amit Istentől hallottam. Ábrahám ilyet nem tett. Ti azt teszitek, amit atyáitok tettek!”\n\nŐk azonban tovább erősködtek: „Mi nem vagyunk törvénytelen gyermekek, csak egy atyánk van: az Isten.”\n\nJézus azonban megállapította: „Ha Isten volna atyátok, szeretnétek engem, mert én Istentől vagyok, és tőle jöttem. Nem a magam nevében jöttem, hanem az Isten küldött engem.”",
+  "cite": "Jn 8,31-42"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Dániel próféta könyvéből",
+  "summary": "Az Isten ellen lázadó ember mindig megszégyenül, bármilyen erősnek és hatalmasnak gondolja is magát.",
+  "text": "A babiloni fogság idején\n\nNabukodonozor király elé hurcoltak három ifjút,\n\n– Sidrák, Misák és Abdenágó volt a nevük –\n\nés a király kérdőre vonta őket:\n\n„Igaz-e, hogy megvetitek isteneimet,\n\nés nem imádjátok az aranyszobrot, amelyet készítettem?\n\nNos, hogyha fölharsan a kürt, a fuvola,\n\nés szól a hárfa, lant, koboz és citera,\n\nkészek vagytok-e a szobor előtt leborulni és imádni azt?\n\nMert hogyha nem, nyomban tüzes kemencébe vetlek titeket;\n\nés van-e olyan isten, aki kezemből megszabadít titeket?”\n\nSidrák, Misák és Abdenágó így felelt a királynak:\n\n„Nem szükséges, ó, király, hogy erre válaszoljunk neked.\n\nA mi Istenünk, akit tisztelünk, ki tud szabadítani minket\n\naz égő tüzes kemencéből és a te kezedből.\n\nDe ha nem akarná is, tudd meg, király,\n\nhogy isteneidet akkor sem tiszteljük,\n\nés az aranyszobrot, amelyet állítottál, nem imádjuk:”\n\nEkkor a király nagy haragra lobbant az ifjak ellen.\n\nArca is elváltozott, és úgy rendelkezett,\n\nhogy a kemencét a szokásosnál hétszerte jobban fűtsék be.\n\nMajd meghagyta legerősebb katonáinak,\n\nhogy kötözzék meg Sidrákot, Misákot és Abdenágót,\n\nés vessék őket a tüzes kemencébe.\n\nÍgy is történt,\n\n(Ők azonban sértetlenül jártak-keltek a lángok között;\n\nmagasztalták Istent, aki Úr minden fölött.)\n\nEkkor a király megdöbbent,\n\nsietve felállt, és így szólt főembereihez:\n\n„Nemde, három megkötözött ifjút dobtunk a tűzbe?”\n\nAzok azt felelték: „Úgy van, nagy király.”\n\nEkkor a király így folytatta:\n\n„Én azonban négy férfiút látok,\n\nés ezek kötelékeiktől megszabadulva,\n\nsértetlenül járnak-kelnek a lángokban.\n\nA negyedik éppen olyan, mint Isten angyala.”\n\nMajd így fohászkodott:\n\n„Áldott legyen Sidrák, Misák és Abdenágó Istene,\n\nki elküldötte angyalát hű szolgái megmentésére.\n\nŐk csak benne bíztak egyedül,\n\nés nem hallgattak a király szavára.\n\nKockára tették életüket,\n\nhogy az igaz Istenen kívül\n\nne kelljen más istent imádniuk és szolgálniuk!”",
+  "cite": "Dán 3,14-20.91-92.95"
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "key": "fix-05-03",
+ "source_date": "2025-05-03",
+ "rank": "Ü",
+ "day": "Szent Fülöp és Szent Jakab apostolok – Ü",
+ "psalm": {
+  "cite": "Zsolt 18,2-3.4-5",
+  "response": "Minden földre elhat szózatuk.",
+  "verses": [
+   "Isten dicsőségét az egek hirdetik,\na mennybolt vallja kezének művét.\nEzt harsogja át egyik nap a másiknak,\nerre oktatja éj az éjszakát.",
+   "Nem olyan hang ez, nem olyan beszéd,\nhogy meg ne értenéd szavát.\nMinden földre elhat szózatuk,\na földkerekség végéig eljut igéjük."
+  ]
+ },
+ "alleluia": {
+  "text": "Jézus mondja: Én vagyok az út, az igazság és az élet. Fülöp, aki engem lát, látja az Atyát is.",
+  "cite": "Jn 14,6b.9c"
+ },
+ "gospel": {
+  "book": "Szent János",
+  "summary": "Oly régóta veletek vagyok, és nem ismersz engem?",
+  "text": "Búcsúbeszédében Jézus így szólt tanítványaihoz:\n\n„Én vagyok az út, az igazság és az élet. Senki sem juthat el az Atyához, csak általam.\n\nHa ismernétek engem, Atyámat is ismernétek. De mostantól fogva ismeritek őt, és látjátok.”\n\nFülöp megjegyezte: „Uram, mutasd meg nekünk az Atyát, és ez elég nekünk.”\n\nJézus így válaszolt: „Már olyan régóta veletek vagyok, és nem ismersz engem, Fülöp? Aki engem lát, az látja az Atyát is. Hogyan mondhatod hát: »Mutasd meg nekünk az Atyát?« Nem hiszed talán, hogy én az Atyában vagyok, és az Atya énbennem? A szavakat, amelyeket hozzátok intézek, nem magamtól mondom, és a tetteket is Atyám cselekszi, aki bennem van. Higgyétek el, hogy én az Atyában vagyok, és az Atya énbennem! Ha másért nem, legalább a tetteimért higgyétek!\n\nBizony, bizony, mondom nektek: Aki hisz bennem, ugyanazokat a tetteket fogja végbevinni, amelyeket én cselekszem, sőt még nagyobbakat is tehet azoknál, mert én az Atyához megyek.\n\nBármit kértek majd nevemben az Atyától, megteszem nektek, hogy az Atya megdicsőüljön a Fiúban. Ha pedig tőlem kértek valamit a nevemben, azt is teljesítem.”",
+  "cite": "Jn 14,6-14"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a korintusiakhoz írt első leveléből",
+  "summary": "Az Úr feltámadása után megjelent Jakabnak, majd az összes apostolnak.",
+  "text": "Testvéreim!\n\nFigyelmetekbe ajánlom az evangéliumot, amelyet hirdettem nektek. Elfogadtátok, és szilárdan kitartotok benne. Általa elnyeritek az üdvösséget, ha megtartjátok úgy, ahogy hirdettem nektek. Különben hiába lettetek hívőkké.\n\nElsősorban azt hagytam rátok, amit magam is kaptam: Krisztus meghalt bűneinkért, az írás szerint; eltemették és harmadnap feltámadt, ismét az írás szerint. Megjelent Péternek, majd a tizenkettőnek. Később egyszerre több mint ötszáz testvérnek is megjelent. Ezek közül a legtöbben még élnek, néhányan azonban már meghaltak. Azután megjelent Jakabnak, majd az összes apostolnak. Utánuk pedig, mint egy elvetéltnek, megjelent nekem is.",
+  "cite": "1Kor 15,1-8"
+ }
+}

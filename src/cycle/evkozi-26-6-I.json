@@ -1,0 +1,31 @@
+{
+ "key": "evkozi-26-6-I",
+ "source_date": "2025-10-04",
+ "rank": "",
+ "day": "26. évközi hét szombat",
+ "psalm": {
+  "cite": "Zsolt 68,33-37",
+  "response": "A szegények imáját meghallgatta Isten.",
+  "verses": [
+   "Az alázatosak látják ezt, és örülnek.\nKeressétek Istent, és szívetek újra éled,\nmert az Úr meghallgat minden szegényt,\nés foglyait nem hagyja magukra.",
+   "Dicsérje őt az ég, a föld és a tenger,\nés bennük minden élőlény,\nmert Isten megszabadítja Siont,\nJúda városait újra felépíti.\nSzolgáinak fiai örökségül kapják,\nés ott laknak majd, kik nevét szeretik."
+  ]
+ },
+ "alleluia": {
+  "text": "Áldalak téged, Atyám, mennynek és földnek Istene, mert feltártad a kicsinyeknek országod titkait.",
+  "cite": "Vö. Mt 11,25"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Az apostoli munkajutalma: öröm a Szentlélekben.",
+  "text": "A hetvenkét tanítvány, akiket Jézus az evangélium hirdetésére küldött, nagy örömmel tért vissza. „Uram – mondták Jézusnak –, a te nevedre még a gonosz lelkek is engedelmeskedtek nekünk.” Ő így válaszolt: „Láttam a sátánt: mint a villám, úgy bukott le az égből. Hatalmat adtam nektek, hogy kígyókon és skorpiókon járjatok, hogy minden ellenséges erőn úrrá legyetek: Semmi sem fog ártani nektek.\n\nMindazonáltal ne annak örüljetek, hogy a gonosz lelkek engedelmeskedtek nektek. Inkább annak örüljetek, hogy nevetek föl van írva a mennyben.”\n\nAbban az órában Jézus felujjongott a Szentlélekben, és így imádkozott: „Magasztallak téged, Atyám, ég és föld Ura, mivel elrejtetted ezeket a bölcsek és az okosak elől, és feltártad az egyszerűeknek, így van ez, Atyám, mert így tetszett neked.\n\nAz Atya mindent átadott nekem. Senki más nem ismeri a Fiút, csak az Atya, és az Atyát sem ismeri más, csak a Fiú, és az, akinek a Fiú ki akarja nyilatkoztatni.”\n\nJézus azután tanítványaihoz fordult, és így szólt: „Boldog az a szem, amely látja, amit ti láttok. Mondom nektek: Sok próféta és király szerette volna látni, amit ti láttok, de nem látta; szerette volna hallani, amit ti hallotok, de nem hallotta.”",
+  "cite": "Lk 10,17-24"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Báruk próféta könyvéből",
+  "summary": "Az Úr, aki hitetlenségünk miatt sebeket osztott nekünk, be is kötözi, csak térjünk vissza hozzá.",
+  "text": "Száműzetésben élő népének így üzen prófétája által az Úr: Bízzál, népem!\n\nVálasztott nemzetem, emlékezzél rám! Nem azért lettetek pogány népek prédája, hogy végleg elvesszetek! De mert haragra ingereltétek Istent, ellenségeitek kezére adott titeket.\n\nFelingereltétek Alkotótokat, az örök Istent azzal, hogy gonosz szellemeknek áldoztatok, és nem neki.\n\nElfelejtettétek Istent, aki táplált titeket, és megszomorítottátok dajkátokat, Jeruzsálemet.\n\nŐ látta Istennek rátok törő haragját, és kiáltott:\n\n„Halljátok ti, Sion szomszédai! Isten nagy szomorúságot küldött rám: láttam népem számkivetését, fiaim és leányaim fogságát, amelyet rájuk hozott az Örökkévaló. Boldogan fölneveltem őket, de sírva és gyászba öltözötten néztem, amint messzire távoztak. Ne gúnyoljon engem senki, hogy özvegy lettem és egyedül hagytak; gyermekeim bűnei miatt lettem ugyanis elhagyatott, mert ők hagyták el az Úr parancsait!\n\nDe bízzatok, fiaim, és kiáltsatok Istenhez!\n\nAki elvitt, az vissza is hoz, mert megemlékezik rólatok. Amint egykor elmétek távol járt az Úrtól, most térjetek hozzá, és tízszer jobban keressétek őt újra! Mert, aki rátok hozta a csapásokat, megszabadulástokkal örökre megörvendeztet majd titeket.”",
+  "cite": "Bár 4,5-12.27-29"
+ }
+}

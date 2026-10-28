@@ -1,0 +1,33 @@
+{
+ "key": "evkozi-23-4-I",
+ "source_date": "2025-09-11",
+ "rank": "",
+ "day": "23. évközi hét csütörtök",
+ "psalm": {
+  "cite": "Zsolt 150,1-2.3-4.5-6",
+  "response": "Minden lélek az Urat dicsérje!",
+  "verses": [
+   "Vagy: Alleluja. 5. szám.\nDicsérjétek az Urat szentélyében,\ndicsérjétek a hatalmas égboltozaton!\nDicsérjétek hatalmas tetteiért,\ndicsérjétek, mert nagysága végtelen.",
+   "Vagy: Alleluja.\nDicsérjétek őt harsonaszóval,\ndicsérjétek lanttal, citerával.\nDicsérjétek őt dobbal és körtánccal,\ndicsérjétek őt citerával és fuvolával.",
+   "Vagy: Alleluja.\nDicsérjétek őt zengő cimbalommal, † dicsérjétek búgó cimbalom hangjával!\nMinden lélek az Urat dicsérje!",
+   "Vagy: Alleluja."
+  ]
+ },
+ "alleluia": {
+  "text": "Ha szeretjük egymást, Isten megmarad szívünkben, és szeretete tökéletes lesz bennünk.",
+  "cite": "1Jn 4,12"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Legyetek irgalmasok, amint mennyei Atyátok is irgalmas.",
+  "text": "Jézus a hegyi beszédben így szólt tanítványaihoz:\n\n„Nektek, akik hallgattok engem, ezt mondom: Szeressétek ellenségeiteket, tegyetek jót azokkal, akik gyűlölnek titeket. Azokra, akik átkoznak titeket, mondjatok áldást, és imádkozzatok rágalmazóitokért. Ha arcul üt valaki, tartsd oda a másik arcodat is. Annak, aki elveszi köntösödet, add oda a ruhádat is. Mindenkinek, aki kér tőled, adj, és aki elviszi, ami a tied, attól ne kérd vissza. Úgy bánjatok az emberekkel, ahogy szeretnétek, hogy veletek is bánjanak.\n\nMert ha csak azokat szeretitek, akik titeket is szeretnek, milyen jutalmat várhattok érte Istentől? Hisz a bűnösök is szeretik azokat, akik őket szeretik. Ha csak azokkal tesztek jót, akik veletek is jót tesznek, milyen jutalmat érdemeltek? Hisz ezt a bűnösök is megteszik. Ha csak a visszafizetés reményében adtok kölcsönt, milyen hálára számíthattok? A bűnösök is kölcsönöznek a bűnösöknek, hogy ugyanannyit kapjanak vissza.\n\nSzeressétek inkább ellenségeiteket: tegyetek jót, adjatok kölcsön, és semmi viszonzást ne várjatok. Így nagy jutalomban részesültök, és fiai lesztek a Magasságbelinek, hisz ő is jóságos a hálátlanok és a gonoszok iránt. Legyetek tehát irgalmasok, amint Atyátok is irgalmas.\n\nNe mondjatok ítéletet senki fölött, s akkor fölöttetek sem ítélkeznek. Ne ítéljetek el senkit, s akkor titeket sem ítélnek el. Bocsássatok meg, és nektek is megbocsátanak. Adjatok, és akkor ti is kaptok. Jó, tömött, megrázott és túlcsorduló mértékkel mérnek öletekbe. Mert amilyen mértékkel ti mértek, olyannal mérnek majd nektek is.”",
+  "cite": "Lk 6,27-38"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a kolosszeiekhez írt leveléből",
+  "summary": "Lakjék szívetekben szeretet, mert ebben foglalható össze a tökéletesség!",
+  "text": "Testvéreim!\n\nMint Istennek szent és kedves választottai, öltsétek magatokra az irgalmasságot, a jóságot, az alázatosságot, a szelídséget és a türelmet. Viseljétek el egymást, és bocsássatok meg egymásnak, ha valakinek panasza van a másik ellen. Bocsássatok meg ti is úgy, ahogyan az Úr megbocsátott nektek. Legfőként pedig szeressétek egymást, mert ez a tökéletesség köteléke.\n\nKrisztus békéje töltse be szíveteket, hiszen erre kaptatok meghívást az egy test közösségében. Legyetek hálásak! Krisztus igéje éljen bennetek gazdagon! Tanítsátok és intsétek egymást telve bölcsességgel! Énekeljetek Istennek hálás szívvel zsoltárokat, himnuszokat és szent énekeket!\n\nBármit mondtok vagy tesztek, mindent az Úr Jézus nevében tegyetek! Így adjatok hálát általa az Atyaistennek!",
+  "cite": "Kol 3,12-17"
+ }
+}

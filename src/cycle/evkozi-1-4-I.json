@@ -1,0 +1,32 @@
+{
+ "key": "evkozi-1-4-I",
+ "source_date": "2025-01-16",
+ "rank": "",
+ "day": "1. évközi hét csütörtök",
+ "psalm": {
+  "cite": "Zsolt 94,6-11",
+  "response": "Bár hallgatnátok ma Isten szavára: „Népem, ne légy kemény szívű.”",
+  "verses": [
+   "Jöjjetek, boruljunk le, hódoljunk előtte,\nhulljunk térdre Urunk, Alkotónk előtt,\nmert ő a mi Istenünk,\nmi pedig az ő népe és kezére bízott nyáj vagyunk.",
+   "Bárcsak hallgatnátok ma az ő szavára:\n„Ne keményítsétek meg szíveteket,\nmint egykor Meribánál, Massza napján a pusztában, † ahol atyáitok megkísértettek engem,\npróbára tettek, bár látták számos csodámat.”",
+   "Negyven évig terhemre volt ez a nemzedék,\nazt mondtam: „Ez a nép tévelygő szívű.\nNem ismerték meg utaimat, † ezért haragomban kimondtam eskümet:\nnyugalmam helyére nem juthatnak el.”"
+  ]
+ },
+ "alleluia": {
+  "text": "Jézus hirdette országának örömhírét, és minden betegséget meggyógyított a nép körében.",
+  "cite": "Mt 4,23"
+ },
+ "gospel": {
+  "book": "Szent Márk",
+  "summary": "Jézus egy beteget meggyógyít leprájából.",
+  "text": "Abban az időben egy leprás jött Jézushoz. Térdre borult előtte, és így kérlelte: „Ha akarod, te megtisztíthatsz engem!” Jézusnak megesett rajta a szíve. Kinyújtotta kezét, megérintette, és azt mondta neki: „Akarom! Tisztulj meg!” Erre rögtön elmúlt a leprája, és megtisztult.\n\nJézus szigorúan ráparancsolt, azonnal elküldte, és így szólt hozzá: „Nézd, senkinek se szólj erről, hanem menj, mutasd meg magadat a papnak, és tisztulásodért ajánld fel a Mózes által rendelt áldozatot, bizonyságul nekik.”\n\nŐ azonban, alighogy elment, mindenfelé hirdetni és híresztelni kezdte a dolgot. Emiatt Jézus nem mehetett többé nyilvánosan a városba, inkább távolabbi, elhagyatott helyeken tartózkodott. Mégis, mindenünnen özönlöttek hozzá az emberek.",
+  "cite": "Mk 1,40-45"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "a Zsidókhoz írt levélből",
+  "summary": "Buzdítsátok egymást Isten iránti hűségre!",
+  "text": "Testvéreim!\n\nEzt mondja a Szentlélek:\n\nBárcsak hallgatnátok ma az Úr szavára:\n\n„Ne legyetek kemény szívűek, mint Meribánál, Massza napján a pusztában, ahol atyáitok megkísértettek engem, és próbára tettek, bár látták számos csodámat.\n\nNegyven évig terhemre volt ez a nemzedék,\n\nazt mondtam: Ez a nép tévelygő szívű.\n\nNem ismerték meg utaimat,\n\nezért haragomban kimondtam eskümet:\n\nNyugalmam helyére nem juthatnak el!”\n\nVigyázzatok, testvéreim, hogy ne legyen hitetlenségre hajló, gonosz a szívetek! Senki közületek el ne szakadjon az élő Istentől! Inkább buzdítsátok egymást mindennap, amíg az a „ma” tart, hogy senkit meg ne keményítsen a csalárd bűn! Mert Krisztus életében részesedtünk; de csak úgy maradhatunk meg őbenne, ha hitünkben kezdettől fogva mindvégig állhatatosan kitartunk.",
+  "cite": "Zsid 3,7-14"
+ }
+}

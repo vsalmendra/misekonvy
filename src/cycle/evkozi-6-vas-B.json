@@ -1,0 +1,39 @@
+{
+ "key": "evkozi-6-vas-B",
+ "source_date": "2024-02-11",
+ "rank": "",
+ "day": "Évközi 6. vasárnap",
+ "psalm": {
+  "cite": "Zsolt 31,1-2.5.11",
+  "response": "Te vagy, Uram, menedékem, a szabadulás örömével veszel körül engem.",
+  "verses": [
+   "Boldog, akinek az Úr megbocsátotta bűneit,\nakinek betakarta gonoszságát.\nBoldog az, akinek vétkét az Úr fel nem rója,\nkinek lelkében nincsen álnokság.",
+   "Bűnömet eléd tártam,\nnem rejtettem el vétkem előled.\nÍgy szóltam: † „Gonoszságomat megvallom, Uram,”\nés te megbocsátottad vétkeimet.",
+   "Vigadjatok és ujjongjatok, igazak, az Úrban,\nés örvendezzen minden tiszta szívű."
+  ]
+ },
+ "alleluia": {
+  "text": "Nagy próféta támadt köztünk, Isten meglátogatta az ő népét.",
+  "cite": "Lk 7, 16"
+ },
+ "gospel": {
+  "book": "Szent Márk",
+  "summary": "",
+  "text": "Abban az időben: Egy leprás jött Jézushoz. Térdre borult előtte, és így kérlelte: „Ha akarod, te meg tudsz tisztítani engem!” Jézusnak megesett rajta a szíve. Kinyújtotta kezét, megérintette, és azt mondta neki: „Akarom! Tisztulj meg!” Erre rögtön elmúlt a leprája, és megtisztult. Jézus szigorúan ráparancsolt, és mindjárt elküldte ezekkel a szavakkal: „Vigyázz, ne szólj erről senkinek egy szót sem, hanem menj, mutasd meg magadat a papnak, és tisztulásodért mutasd be a Mózes rendelte áldozatot, bizonyságul nekik.” Ám az, alighogy elment, mindenfelé hirdetni és híresztelni kezdte a dolgot. Emiatt Jézus nem mehetett többé nyilvánosan a városba, inkább kint, elhagyatott helyeken tartózkodott. Mégis, mindenünnen özönlöttek hozzá az emberek.",
+  "cite": "Mk 1,40-45"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Mózes harmadik könyvéből",
+  "summary": "",
+  "text": "Az Úr ezt mondta Mózesnek és Áronnak: „Ha egy embernek a bőrén duzzadás, kiütés vagy fénylő folt keletkezik, bőrleprára lehet gyanakodni. Vezessék Áron paphoz, vagy az ő fiai közül valamelyik paphoz. Az ilyen ember leprás és tisztátalan. A pap nyilvánítsa tisztátalannak, mivel leprája van. A leprás, akit a betegség megtámadott, szaggassa meg ruháját, a haját hordja kibontva, a szakállát takarja be, és kiabáljon: »Tisztátalan, tisztátalan!« Ameddig a betegsége tart, addig tisztátalan, s mivel tisztátalan, lakjék elkülönítve, tartózkodjék a táboron kívül.”",
+  "cite": "Lev 13,1-2.44-46"
+ },
+ "reading2": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a korintusiakhoz írt első leveléből",
+  "summary": "",
+  "text": "Testvéreim! Akár esztek, akár isztok, vagy bármi mást tesztek, tegyetek mindent Isten dicsőségére. Se zsidót, se pogányt, se Isten egyházát ne botránkoztassátok meg, mint ahogy én is mindenkinek kedvében járok. Nem azt keresem, ami nekem hasznos, hanem ami másoknak van javára, hogy üdvözüljenek. Legyetek követőim, mint ahogy én Krisztus követője vagyok!",
+  "cite": "1Kor 10,31–11,1"
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "key": "evkozi-34-5-I",
+ "source_date": "2025-11-28",
+ "rank": "",
+ "day": "34. évközi hét péntek",
+ "psalm": {
+  "cite": "Dán 3,75-81",
+  "response": "Dicsérjétek és magasztaljátok mindörökké!",
+  "verses": [
+   "Áldjátok az Urat, hegyek és halmok,\n",
+   "Áldjátok az Urat mind, amik a földből sarjadtok,\n",
+   "Áldjátok az Urat, ti, források,\n",
+   "Áldjátok az Urat, folyamok és tengerek,\n",
+   "Áldjátok az Urat, tengeri lények, s minden, ami mozog a vízben,\n",
+   "Áldjátok az Urat, égi madarak,\n",
+   "Áldjátok az Urat, vadak és háziállatok,\n"
+  ]
+ },
+ "alleluia": {
+  "text": "Nézzetek föl, és emeljétek föl fejeteket mert elérkezett megváltástok ideje.",
+  "cite": "Lk 21,28"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Jeruzsálem pusztulása után kibontakozik majd az Isten országa.",
+  "text": "Abban az időben Jézus a következő hasonlatot mondta tanítványainak:\n\n„Nézzétek a fügefát és a többi fákat! Amikor látjátok, hogy már hajtanak, tudjátok, hogy közel van a nyár. Ugyanígy ti is, amikor látjátok, hogy mindez bekövetkezik, tudjátok meg, hogy közel van az Isten országa.\n\nBizony, mondom nektek: Nem múlik el ez a nemzedék, amíg mindez meg nem történik. Ég és föld elmúlnak, de az én igéim el nem múlnak.”",
+  "cite": "Lk 21,29-33"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Dániel próféta könyvéből",
+  "summary": "Dániel látomása a földi birodalmakat jelképező titokzatos élőlényekről és az eljövendő Emberfiáról – a Messiásról –, aki az egész világ Ura lesz.",
+  "text": "Dániel próféta így írja le látomását: Az egyik éjjel látomásom volt. Az ég négy szele vihart támasztott a nagy tengeren. A vízből négy egymástól különböző hatalmas vadállat jött elő. Nőstény oroszlán volt az első, amelyiknek sasszárnyai voltak. De láttam, hogy kitépték szárnyait. Fölkelt a földről, lábra állt, – és emberi szívet kapott. A második vadállat: olyan volt, mint a medve. Félig fölegyenesedett, és a szájában három borda volt. Azt mondták neki: „Kelj föl hamar, igen sok húst egyél!” A harmadik vadállat párducnak tűnt nekem, de rajta négy madárszárny, és négy fej volt, és hatalom adatott neki. Az éjszakai látomásom negyedik vadállata rettenetes, csodálatos, igen erős volt. Vas fogakkal falt és rágott, és lábával széttaposta, amit meghagyott. Ez minden előző vadállattól különbözött. Tíz szarva volt. Jól megfigyeltem a szarvakat. És mi történt? Még egy kis szarv nőtt a többi tíz között. Három szarv a régiekből a földre hullt, hogy helyet adjon neki. Majd ezen a kicsi szarvon emberszemek nyíltak ki, és egy száj, amely kevélyen, fennhéjázóan beszélt.\n\nMíg ezt figyeltem, trónusokat emeltek, és az Ősöreg leült. Ruházata fehér volt, mint a hó, és a fején a haj, mint a tiszta gyapjú. Trónja lobogó lángból volt, kerekei meg izzó parázsból. Ezernyi ezren szolgáltak neki, és tízezerszer százezren hódoltak neki.\n\nA bíróság leült, és felnyitották a könyveket. Figyeltem, és láttam, hogy az istenkáromló szavak miatt, amelyeket az a kis szarv beszélt, a nagy vadállatot megölték, teste elpusztult, tűzbe dobták, hogy elégjen. A hatalmat elvették a többi vadállatól is, és megszabták, hogy meddig élhet az egyik is, meg a másik is. Akkor hirtelen azt láttam az éjjeli látomásban, hogy íme, az ég felhőin valaki közeledik. Olyan volt, mint az Emberfia. Amikor az Ősöreghez ért, színe elé vezették, és az hatalmat, méltóságot és királyságot adott neki. Minden népnek, nemzetnek és nyelvnek őt kell szolgálnia. Hatalma örök hatalom, amely nem enyészik el, és királysága nem szűnik meg soha.",
+  "cite": "Dán 7,2-14"
+ }
+}

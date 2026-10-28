@@ -1,0 +1,42 @@
+{
+ "key": "urunk-megkeresztelkedese-B",
+ "source_date": "2024-01-07",
+ "rank": "",
+ "day": "Urunk megkeresztelkedése",
+ "psalm": {
+  "cite": "Zsolt 28,1a és 2.3ac-4.3b. és 9b-10 vagy Iz 12,2-3.4bcd.5-6",
+  "response": "Örömmel merítsetek vizet az üdvösség forrásaiból.",
+  "verses": [
+   "Adjátok meg az Úrnak,\nIsten gyermekei,\nadjátok meg az Úrnak a nevét megillető dicsőséget,\nimádjátok az Urat szent ünnepi díszben!",
+   "Az Úr szava zúg a vizek árján,\naz Úr lebeg a nagy vizek fölött.\nAz Úr szava telve erővel,\naz Úr szava telve fönséggel.",
+   "A dicsőség Istene mennydörög,\ntemplomában mindenek az ő dicséretét zengik.\nAz Úr trónol a vízözön fölött,\naz Úr király örökké.",
+   "vagy\nÍme, Isten az én üdvösségem,\nbízom benne és nem félek.\nMert az Úr az én erősségem és dicsőségem,\nő lett nékem szabadulásom.",
+   "Adjatok hálát az Úrnak,\nmagasztaljátok az ő nevét.\nA népek közt hirdessétek tetteit,\nemlékezzetek meg arról, hogy Fölséges az ő neve.",
+   "Zengjetek dalt az Úrnak, mert csodás dolgokat művelt:\ntudja meg az egész világ!\nUjjongjatok és dicséretet mondjatok Sion lakói,\nmert nagy a ti körötökben Izrael szentje."
+  ]
+ },
+ "alleluia": {
+  "text": "Amikor Keresztelő János látta, hogy Jézus feléje tart, így szólt: Íme, az Isten Báránya.",
+  "cite": "Jn 1,29"
+ },
+ "gospel": {
+  "book": "Szent Márk",
+  "summary": "",
+  "text": "Abban az időben Keresztelő János ezt hirdette: „Aki utánam jön, hatalmasabb nálam.\n\nArra sem vagyok méltó, hogy lehajoljak és megoldjam a saruszíját. Én\n\nvízzel keresztellek titeket, ő pedig Szentlélekkel keresztel majd meg\n\nbenneteket!”\n\nEzekben a napokban történt, hogy eljött Jézus a galileai Názáretből,\n\nés megkeresztelkedett Jánosnál a Jordánban. És mindjárt, amint feljött\n\na vízből, látta, hogy megnyílik az ég, és a Lélek, mint egy galamb,\n\nleszáll rá. Az égből pedig szózat hallatszott: „Te vagy az én\n\nszeretett Fiam, benned kedvem telik!”",
+  "cite": "Mk 1,7-11"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Izajás próféta könyvéből",
+  "summary": "vagy",
+  "text": "Ezt mondja az Úr:\n\nÍme, az én szolgám, akit támogatok, választottam, akiben kedvem\n\ntelik. Kiárasztom rá lelkemet, és igazságot visz a nemzeteknek. Nem\n\nkiált majd, nem emeli föl a hangját, és szava se hallatszik az utcákon.\n\nA megtört nádszálat nem töri össze, a pislákoló mécsbelet nem oltja ki.\n\nHűségesen tanítja az igazságot, nem lankad el, sem kedvét el nem\n\nveszti, míg az igazságot meg nem szilárdítja a földön. Az ő tanítására\n\nvárnak a nemzetek.\n\nÉn, az Úr hívtalak meg igazságban, én fogtam meg a kezed és én\n\nformáltalak. Általad kötök szövetséget népemmel, és adok világosságot a\n\nnemzeteknek, hogy nyisd meg a vakok szemét, és szabadítsd ki a\n\nbörtönből a foglyokat, és a tömlöcből azokat, akik a sötétben ülnek.",
+  "cite": "Iz 42,1-4.6-7 vagy Iz 55,1-11"
+ },
+ "reading2": {
+  "label": "Szentlecke",
+  "sub": "az Apostolok Cselekedeteiből",
+  "summary": "vagy",
+  "text": "Kornéliusz (százados) házában Péter szólásra nyitotta ajkát, és\n\nezeket mondta: „Valóban el kell ismernem, hogy Isten nem\n\nszemélyválogató. Mindenki kedves előtte, bármely néphez tartozik is,\n\naki féli őt és az igazságot cselekszi. Isten a tanítást Izrael fiainak\n\nadta, és a béke örömhírét hirdette Jézus által. Ő a mindenség Ura.\n\nTi tudjátok, hogy mi minden történt Galileától egész Judeáig attól\n\nkezdve, hogy János hirdette a keresztséget: Hogyan kente fel az Isten a\n\nnázáreti Jézust Szentlélekkel és hatalommal. Ő pedig, amerre csak járt,\n\njótetteket vitt végbe, és meggyógyított minden ördögtől megszállottat,\n\nmert vele volt az Isten.”",
+  "cite": "ApCsel 10,34-38 vagy 1Jn 5,1-9"
+ }
+}

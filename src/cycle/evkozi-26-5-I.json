@@ -1,0 +1,33 @@
+{
+ "key": "evkozi-26-5-I",
+ "source_date": "2025-10-03",
+ "rank": "",
+ "day": "26. évközi hét péntek",
+ "psalm": {
+  "cite": "Zsolt 78,1-5.8-9",
+  "response": "Ments meg minket, Urunk, neved dicsőségéért!",
+  "verses": [
+   "Pogányok törtek örökségedre, Istenünk, † szent templomodat gyalázat érte,\nJeruzsálemet romba döntötték.\nSzolgáid holttestét az ég madarainak eledelül adták,\ns a föld vadjainak híveid testét.",
+   "Vérüket úgy ontották Jeruzsálem körül, mint a vizet,\nés nem volt, aki eltemesse őket.\nGyalázattá lettünk szomszédaink előtt,\nkinevetnek és csúfolnak a körülöttünk lakók.",
+   "Meddig még, Urunk? † Vég nélkül haragszol?\nHaragod úgy lángol, mint a tűz?\nNe emlékezzél atyáink vétkeire, † irgalmaddal siess elénk,\nmert igen nyomorultak lettünk.",
+   "Segíts rajtunk, szabadító Istenünk, † neved dicsőségéért ments meg minket,\nés nevedért bocsásd meg bűneinket."
+  ]
+ },
+ "alleluia": {
+  "text": "Bár hallgatnátok ma Isten szavára! Ne legyetek többé keményszívűek!",
+  "cite": "Zsolt 94,8ab"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Jézus jajt kiált azokra, akiket elvakított a gőg, és elutasították az evangélium üzenetét.",
+  "text": "Jézus egy alkalommal így szólt tanítványai előtt: „Jaj, neked, Korozain! Jaj, neked, Betszaida! Ha a pogány Tiruszban és Szidonban történtek volna azok a csodák, amelyek nálatok történtek, már rég szőrzsákban és hamuban tartottak volna bűnbánatot. Ezért Tirusznak és Szidonnak tűrhetőbb sorsa lesz az ítéleten, mint nektek.\n\nÉs te Kafarnaum? Vajon az égig emelkedel? Egészen az alvilágig fogsz süllyedni.”\n\nMajd így folytatta: „Aki titeket hallgat, engem hallgat; és aki titeket megvet, engem vet meg. Aki pedig engem megvet, azt veti meg, aki küldött engem.”",
+  "cite": "Lk 10,13-16"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Báruk próféta könyvéből",
+  "summary": "Báruk megvallja: Népét méltán éri a megszégyenülés, mivel nem bízott az Úrban.",
+  "text": "Jeremiás próféta tanítványa, Báruk így kezdte bűnbánati imáját: Igazságos vagy, Urunk, Istenünk, a mi arcunkat pedig méltán önti el a szégyenpír.\n\nBizonyság erre Júda fiainak, Jeruzsálem lakóinak, királyainknak, főembereinknek, papjainknak, prófétáinknak és atyáinknak ez a mai sorsa is.\n\nUrunk és Istenünk ellen bűneink nagyok: nem hittünk, nem bíztunk benne és nem követtük őt.\n\nUrunk, Istenünk szavára nem figyelt fülünk; nem tartottuk meg a nekünk írt parancsokat.\n\nMind a mai napig megvetettük Urunk, Istenünk szavát, attól a naptól fogva, hogy kihozta atyáinkat Egyiptomból.\n\nElhagytuk őt, más útra tértünk, hogy ne kelljen hallanunk parancsait.\n\nUtol is ért az átok minket, rajtunk van a csapás, amelyet Mózesnek, szolgájának szavával megjósolt az Úr még akkor, mikor atyáinkat Egyiptomból kihozta, hogy ezt a tejjel-mézzel folyó országot adja nekünk.\n\nNem szívleltük meg Urunk, Istenünk szavát.\n\nHiába küldött oktatókul prófétákat is nékünk, mi inkább gonosz szívünk vágyai szerint bálványok után mentünk.\n\nAzt cselekedtük, ami gonosz az Úr, a mi Istenünk szemében.",
+  "cite": "Bár 1,15-22"
+ }
+}

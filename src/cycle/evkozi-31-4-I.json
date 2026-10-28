@@ -1,0 +1,32 @@
+{
+ "key": "evkozi-31-4-I",
+ "source_date": "2025-11-06",
+ "rank": "",
+ "day": "31. évközi hét csütörtök",
+ "psalm": {
+  "cite": "Zsolt 26,1.4.13-14",
+  "response": "Hiszem, hogy meglátom az Úr javait az élők földjén.",
+  "verses": [
+   "Világosságom és üdvösségem az Úr,\nkitől félnék?\nÉletem oltalmazója az Úr,\nkitől rettegnék?",
+   "Egyet kérek az Úrtól, csak egy a vágyam,\nhogy az Úr házában lakjam életem minden napján,\nhogy élvezhessem az Úr örömét,\nés szemlélhessem szent templomát.",
+   "Hiszem, hogy meglátom az Úr javait\naz élők földjén.\nRemélj az Úrban, bátran cselekedj,\nszíved legyen erős, és bízzál az Úrban."
+  ]
+ },
+ "alleluia": {
+  "text": "Jöjjetek hozzám mindnyájan, akik fáradtak vagytok, és terhek alatt görnyedtek: Én felüdítlek titeket – mondja a mi Urunk.",
+  "cite": "Mt 11,28"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "A mennyország örül minden megtérő bűnösnek.",
+  "text": "Abban az időben vámosok és bűnösök jöttek Jézushoz, hogy hallgassák őt. A farizeusok és az írástudók zúgolódtak emiatt, és azt mondták: „Ez szóba áll a bűnösökkel és együtt étkezik velük.”\n\nJézus erre a következő példabeszédet mondta nekik: „Ha közületek valakinek száz juha van, és egy elvész belőlük, nem hagyja-e ott a kilencvenkilencet, s nem megy-e az elveszett juh után, amíg meg nem találja? Ha megtalálta, örömében vállára veszi, hazasiet vele, összehívja barátait és szomszédait, és azt mondja nekik: »Örüljetek velem, mert megtaláltam elveszett juhomat.« Mondom nektek, éppen így nagyobb öröm lesz a mennyben egy megtérő bűnösön, mint kilencvenkilenc igazon, akinek nincs szüksége megtérésre.\n\nHa pedig egy asszonynak tíz drachmája van, és elveszít egy drachmát, nem gyújt-e világot, nem sepri-e ki a házát, nem keresi-e gondosan, amíg meg nem találja? És ha megtalálta, összehívja barátnőit meg a szomszédasszonyokat, és azt mondja: »Örüljetek velem, mert megtaláltam elveszett drachmámat.« Mondom nektek, az Isten angyalai is éppen így örülnek majd egy megtérő bűnösnek.”",
+  "cite": "Lk 15,1-10"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a rómaiakhoz írt leveléből",
+  "summary": "Életünkben és halálunkban egyaránt az Úré vagyunk.",
+  "text": "Testvéreim!\n\nEgyikünk sem él csak önmagának, és egyikünk sem hal meg csak önmagának. Amíg élünk, Istennek élünk, és ha meghalunk, Istennek halunk meg. Tehát akár élünk, akár meghalunk, mindig az Úré vagyunk. Krisztus ugyanis azért halt meg és azért támadt fel, hogy mind a holtaknak, mind az élőknek Ura legyen.\n\nNe ítéld el tehát testvéredet, és ne vesd meg felebarátodat! Hiszen mindnyájan Isten ítélőszéke elé jutunk. A Szentírásban ugyanis ezt olvassuk:\n\nAmint igaz, hogy élek – mondja az Úr –, előttem meghajlik minden térd, és minden nyelv magasztalja az Istent.\n\nTehát mindegyikünk számot ad magáról Istennek.",
+  "cite": "Róm 14,7-12"
+ }
+}

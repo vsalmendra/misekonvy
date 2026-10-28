@@ -1,0 +1,32 @@
+{
+ "key": "evkozi-16-1-I",
+ "source_date": "2025-07-21",
+ "rank": "",
+ "day": "16. évközi hét hétfő",
+ "psalm": {
+  "cite": "Kiv 15,1-2.3-4.5-6",
+  "response": "Énekeljünk az Úrnak, mert dicsőség övezi.",
+  "verses": [
+   "Énekeljünk az Úrnak, mert dicsőség övezi:\na lovat és lovasát a tengerbe vetette.\nAz Úr az én erősségem és pajzsom,\nszabadítom ő lett nékem.\nDicsőítem őt, ő az én Istenem,\nmagasztalom, mert atyáim Istene.",
+   "Olyan az Úr, mint a hős harcos,\nés „Mindenható” az ő neve.\nA fáraó szekereit és seregét a tengerbe vetette,\nválogatott harcosai elmerültek a Vörös-tengerben.",
+   "A hullámok elborították őket,\nmint a kő, mélybe merültek.\nA te jobbod, Uram, erejével tündöklik,\nUram, jobbod szétzúzza az ellenséget."
+  ]
+ },
+ "alleluia": {
+  "text": "Meg ne keményítsétek ma a szíveteket, hanem az Úr szavára figyeljetek!",
+  "cite": "Vö. Zsolt 94,8ab"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Jézus megjövendöli feltámadását.",
+  "text": "Néhány írástudó és farizeus így szólt egyszer Jézushoz: „Mester, jelet szeretnénk tőled látni.”\n\nJézus így válaszolt: „Ez a gonosz és hűtlen nemzedék jelet kíván, de nem kap más jelet, mint Jónás próféta jelét. Amint ugyanis Jónás próféta három nap és három éjjel volt a hal gyomrában, úgy lesz az Emberfia három nap és három éjjel a föld szívében.\n\nA ninivei férfiak feltámadnak az ítéletkor ezzel a nemzedékkel együtt, és elítélik ezt a nemzedéket, mert ők megtértek Jónás prédikálására. Ámde itt nagyobb van, mint Jónás. Dél királynője feltámad az ítéletkor ezzel a nemzedékkel együtt, és elítéli ezt a nemzedéket, hiszen ő a föld végső határáról is eljött, hogy meghallgassa Salamon bölcsességét. Itt pedig nagyobb valaki van, mint Salamon.”",
+  "cite": "Mt 12,38-42"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Mózes második könyvéből",
+  "summary": "A fáraó üldözőbe veszi hadseregével a választott népet, de megtapasztalja, hogy Isten az Úr, aki dicsőséget szerez magának az emberi erőszakkal szemben.",
+  "text": "Amikor Izrael fiai kivonultak a pusztába, jelentették az egyiptomiak királyának, hogy elmenekült a nép. Megváltozott erre a fáraónak és szolgáinak a szíve a nép iránt. Azt mondták: „Hogy is tehettünk olyat, hogy elengedtük szolgálatunkból Izraelt?”\n\nA fáraó tehát befogatott harci szekerébe, és maga mellé vette egész hadi népét; magához rendelte hatszáz válogatott harci szekerén kívül Egyiptom minden harci szekerét, és vezetőt állított mindegyik fölé.\n\nAz Úr pedig megkeményítette a fáraónak, Egyiptom királyának a szívét, aki üldözőbe vette Izrael fiait, ezek azonban hatalmas kéz oltalma alatt vonultak ki. Az egyiptomiak pedig követték őket a fáraó összes harci szekerével, lovasságával és egész haderejével, és utolérték őket Pi-Hachirótnál, Baálszefonnal szemben, amint a tenger mellett táboroztak.\n\nAmikor a fáraó közelükbe ért, Izrael fiai fölemelték a szemüket, és látták, hogy az egyiptomiak mögöttük jönnek. Nagy ijedtségükben az Úrhoz kiáltottak. Mózesnek pedig szemére vetették: „Talán bizony nincs elég sír Egyiptomban, hogy kihoztál bennünket a pusztába meghalni? Miért is tetted azt, hogy kihoztál Egyiptomból? Nemde megmondtuk neked már ott: »Hagyj minket békében, hadd szolgáljunk az egyiptomiaknak!« Hiszen jobb volt szolgálni nekik, mint meghalni a pusztában!”\n\nMózes erre azt mondta nekik: „Ne féljetek, maradjatok nyugodtan, és meglátjátok az Úr nagy tetteit, amelyeket ma cselekedni fog értetek. Mert az egyiptomiakat, akiket most láttok, nem fogjátok többé látni sohasem. Az Úr harcolni fog értetek, ti pedig maradjatok nyugodtan!”\n\nAz Úr ekkor így szólt Mózeshez: „Miért kiáltasz hozzám? Parancsold meg Izrael fiainak, hogy induljanak. Te pedig emeld fel botodat, nyújtsd ki kezedet a tenger fölé, és válaszd ketté, hogy Izrael fiai száraz lábbal átmehessenek rajta. Én pedig megkeményítem az egyiptomiak szívét; erre utánuk sietnek, és akkor majd megmutatom dicsőségemet a fáraón, egész seregén, harci szekerein és lovasain. Az egyiptomiak megtudják, hogy én vagyok az Úr, ha majd megmutatom dicsőségemet a fáraón, a szekerein és a lovasain.”",
+  "cite": "Kiv 14,5-18"
+ }
+}

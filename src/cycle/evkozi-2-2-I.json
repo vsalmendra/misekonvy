@@ -1,0 +1,33 @@
+{
+ "key": "evkozi-2-2-I",
+ "source_date": "2025-01-21",
+ "rank": "",
+ "day": "2. évközi hét kedd",
+ "psalm": {
+  "cite": "Zsolt 110,1-2.4-5.9 és 10c",
+  "response": "Az Úr megemlékezik szövetségéről örökkön örökké.",
+  "verses": [
+   "Vagy: Alleluja. 12. szám.\nTeljes szívemből áldom az Urat,\na szentek tanácsában és közösségében.\nNagyszerűek az Úr művei,\nmindazok szemében, akik szeretik azokat.",
+   "Vagy: Alleluja.\nCsodáinak emléket szerzett,\naz Úr jóságos és irgalmas:\nEledelt adott az őt félőknek,\nmegemlékezik szövetségéről örökkön örökké.",
+   "Vagy: Alleluja.\nSzabadulást hozott népének,\nszövetséget kötött vele örökre.\nAkik így cselekszenek, bölcsekké válnak;\naz Úr dicsérete megmarad örökké.",
+   "Vagy: Alleluja."
+  ]
+ },
+ "alleluia": {
+  "text": "Urunk Jézus Krisztus Atyja világosítsa meg lelki szemünket, hogy megértsük, mily reménységre hívott minket.",
+  "cite": "Vö. Ef 1,17-18"
+ },
+ "gospel": {
+  "book": "Szent Márk",
+  "summary": "Az Emberfia ura a szombatnak is.",
+  "text": "Egyszer, amikor az Úr szombaton vetések között járt, tanítványai útközben tépdesni kezdték a kalászokat. Ezért a farizeusok megszólították: „Nézd, olyat tesznek szombaton, amit nem szabad!”\n\nJézus ezt felelte nekik: „Sohasem olvastátok, mit tett Dávid, amikor társaival együtt nélkülözött és éhezett? Abjatár főpap idejében bement az Isten házába, és megette a megszentelt kenyereket, és adott belőle társainak is, pedig ezeket a kenyereket csak a papoknak volt szabad megenniük.”\n\nMajd ezt mondta nekik: „A szombat van az emberért, nem az ember a szombatért. Azért az Emberfia ura a szombatnak is.”",
+  "cite": "Mk 2,23-28"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "a Zsidókhoz írt levélből",
+  "summary": "A remény lelkünk szilárd és biztos horgonya.",
+  "text": "Testvéreim!\n\nIsten nem igazságtalan. Nem feledkezik meg a jócselekedetről és a szeretetről, amelyet az ő nevében gyakoroltatok, amikor a szenteknek szolgáltatok, és most is szolgáltok.\n\nNagyon szeretnénk azonban, ha mindegyiktek ugyanazt a buzgóságot tanúsítaná, egészen addig, amíg reményetek beteljesedik. Ne legyetek tehát hanyagok, hanem kövessétek azokat, akik a hitben és a béketűrésben az ígéret örökösei lettek!\n\nAmikor Isten az ígéretet adta Ábrahámnak, saját magára esküdött, hiszen semmi nagyobbra nem esküdhetett. Ezt mondta:\n\n„Bizony gazdagon megáldalak és nagyon megsokasítlak.”\n\nÍgy aztán Ábrahám türelmesen várakozva elnyerte az ígéretet. Az emberek saját maguknál nagyobbra esküsznek; a perlekedésnek azzal vetnek véget, hogy kijelentésüket esküvel erősítik meg. Ezért, amikor Isten az ígéret örökösei előtt nagyobb nyomatékkal akarta igazolni elhatározása szilárdságát, esküvel erősítette meg azt.\n\nÍgy a két változhatatlan dolog révén, amelyben Isten nem téveszthet meg minket, erős támaszt kaptunk, mi, akik arra törekszünk, hogy a nekünk nyújtott reményt megragadjuk.\n\nLelkünk biztos és szilárd horgonya ez a remény, amely az örök szentélybe ér, ahová elsőnek lépett be értünk Jézus, a Melkizedek rendje szerint való örök főpap.",
+  "cite": "Zsid 6,10-20"
+ }
+}

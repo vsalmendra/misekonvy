@@ -1,0 +1,39 @@
+{
+ "key": "evkozi-17-vas-B",
+ "source_date": "2024-07-28",
+ "rank": "",
+ "day": "Évközi 17. vasárnap – Nagyszülők és idősek világnapja",
+ "psalm": {
+  "cite": "Zsolt 144,10-11.15-16.17-18",
+  "response": "Megnyitod kezedet, Istenem, és táplálsz minket.",
+  "verses": [
+   "Magasztaljon téged, Uram, minden műved,\nszentjeid áldást mondjanak.\nOrszágod dicsőségéről szóljanak,\nés hatalmadat mindenek hirdessék.",
+   "Mindeneknek szeme bízón rád tekint,\nés te enni adsz nekik kellő időben.\nMegnyitod kezedet,\nés javaiddal eltöltesz minden élőt.",
+   "Igazságos az Úr minden útján,\nés szent minden művében.\nKözel van az Úr mindazokhoz, akik őt hívják,\nakik hozzá kiáltanak igaz szívvel."
+  ]
+ },
+ "alleluia": {
+  "text": "Nagy próféta támadt köztünk, Isten meglátogatta az ő népét.",
+  "cite": "Lk 7,16"
+ },
+ "gospel": {
+  "book": "Szent János",
+  "summary": "",
+  "text": "Abban az időben Jézus átment a Galileai-tengernek, vagyis Tibériás-tavának a túlsó partjára. Nagy tömeg követte, mert látták a csodajeleket, amelyeket a betegeken végbevitt. Jézus fölment egy hegyre, és ott leült tanítványaival. Közel volt a húsvét, a zsidók ünnepe. Amikor Jézus fölemelte szemét, és látta, hogy nagy tömeg jön felé, így szólt Fülöphöz: „Honnan vegyünk kenyeret, hogy legyen mit enniük?” Ezt pedig azért kérdezte, hogy próbára tegye, mert tudta ő, hogy mit fog tenni. „Kétszáz dénár árú kenyér sem elég nekik, hogy mindenki kapjon valami keveset” – felelte Fülöp. Az egyik tanítvány, András, Simon Péter testvére megszólalt: „Van itt egy fiú, akinél öt kenyér és két hal van, de mi ez ennyinek?”\n\nJézus meghagyta: „Telepítsétek le az embereket!” Sok fű volt azon a helyen. Letelepedtek hát: szám szerint mintegy ötezren voltak csupán a férfiak. Jézus pedig vette a kenyereket, hálát adott, és kiosztotta a letelepedett embereknek; ugyanígy (adott) a halból is, amennyit csak akartak. Amikor pedig jóllaktak, szólt tanítványainak: „Szedjétek össze a maradékot, hogy semmi se vesszen kárba.” Összeszedték, s tizenkét kosarat töltöttek meg az öt árpakenyér maradékából, amit meghagytak azok, akik ettek. Amikor pedig az emberek látták a csodajelet, amelyet Jézus végbevitt, így beszéltek: „Ez valóban az a próféta, aki a világba jön.” Mikor Jézus észrevette, hogy érte akarnak jönni, és el akarják vinni hogy erőszakkal királlyá tegyék, ismét visszavonult a hegyre, egészen egyedül.",
+  "cite": "Jn 6,1-15"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "a Királyok második könyvéből",
+  "summary": "",
+  "text": "Elizeus próféta korában, a nagy éhínség idején történt: Jött egy ember Baal-Salisából és az Isten emberének kenyeret hozott az első termésből: húsz árpakenyeret meg friss gabonát a zsákjában. Erre Elizeus megparancsolta: „Adjatok enni az embereknek!” Szolgája ellene vetette: „Hogy adjak ennyit száz ember elé?” De ő azt felelte: „Adj csak az embereknek enni! Mert ezt mondja az Úr: Esztek és még marad is.” Erre eléjük tette, azok ettek és még maradt is, ahogy az Úr mondta.",
+  "cite": "2Kir 4,42-44"
+ },
+ "reading2": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak az efezusiakhoz írt leveléből",
+  "summary": "",
+  "text": "Testvéreim!\n\nKérlek benneteket, én, aki fogoly vagyok az Úrban, hogy éljetek méltón ahhoz a hivatáshoz, amelyet kaptatok; teljes alázatban, szelídségben és türelemben. Viseljétek el egymást szeretettel. Törekedjetek arra, hogy a béke kötelékével fenntartsátok a lelki egységet. Egy a Test és egy a Lélek, mint ahogy hivatástok is egy reményre szól.\n\nEgy az Úr, egy a hit, egy a keresztség. Egy az Isten, mindnyájunk Atyja, aki minden fölött áll, mindent áthat és mindenben benne van.",
+  "cite": "Ef 4,1-6"
+ }
+}

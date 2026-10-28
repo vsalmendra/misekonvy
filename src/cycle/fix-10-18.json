@@ -1,0 +1,32 @@
+{
+ "key": "fix-10-18",
+ "source_date": "2025-10-18",
+ "rank": "Ü",
+ "day": "Szent Lukács evangélista – Ü",
+ "psalm": {
+  "cite": "Zsolt 144,10-11.12-13ab.17-18",
+  "response": "Szentjeid hirdetik, Uram, királyságod fölséges dicsőségét.",
+  "verses": [
+   "Magasztaljon téged, Uram, minden műved,\nszentjeid áldást mondjanak.\nOrszágod dicsőségéről szóljanak,\nés hatalmadat mindenek hirdessék.",
+   "Hirdessék az emberek hatalmas tetteid,\nkirályságod fölséges dicsőségét.\nA te országod örökkévaló ország,\nuralmad megmarad nemzedékről nemzedékre.",
+   "Igazságos az Úr minden útján,\nés szent minden művében.\nKözel az Úr mindazokhoz, akik őt hívják,\nakik hozzá kiáltanak igaz szívvel."
+  ]
+ },
+ "alleluia": {
+  "text": "Én választottalak titeket a világból, hogy menjetek és gyümölcsöt teremjetek, és gyümölcsötök maradandó legyen, mondja az Úr.",
+  "cite": "Jn 15,16"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Az aratnivaló sok, a munkás pedig kevés.",
+  "text": "Az apostolok kiválasztása után Jézus kiválasztott más hetvenkét tanítványt, és elküldte őket kettesével maga előtt minden városba és helységbe, ahová menni szándékozott.\n\nÍgy szólt hozzájuk: „Az aratnivaló sok, de a munkás kevés. Kérjétek hát az aratás Urát, küldjön munkásokat aratásába.\n\nMenjetek! Úgy küldelek titeket, mint bárányokat a farkasok közé. Ne vigyetek magatokkal se erszényt, se tarisznyát, se sarut. Az úton senkit se köszöntsetek.\n\nHa betértek egy házba, először is ezt mondjátok: »Békesség e háznak!« Ha békesség fia lakik ott, rászáll a ti békességtek, ha nem, visszaszáll rátok. Maradjatok ugyanabban a házban, és azt egyétek és igyátok, amijük van. Mert méltó a munkás a maga bérére. Ne járjatok házról házra.\n\nHa egy városba érkeztek, és szívesen látnak titeket, egyétek, amit elétek adnak. Gyógyítsátok meg ott a betegeket, és hirdessétek: »Elérkezett hozzátok az Isten országa!«”",
+  "cite": "Lk 10,1-9"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak Timóteushoz írt második leveléből",
+  "summary": "Lukács; az orvos, mindvégig kitartott Pál apostol mellett.",
+  "text": "Szeretett Fiam!\n\nDémász elhagyott a világ kedvéért és Tesszalonikába ment, Kreszcensz Galáciába, Titusz meg Dalmáciába. Csak Lukács van mellettem. Márkot is vedd magad mellé és hozd el, jó szolgálatot tenne nekem. Tichikuszt elküldtem Efezusba. Köpenyemet Troászban hagytam Kárpusznál, ha jössz, hozd magaddal. A könyveket is, főleg a pergamentekercseket.\n\nAlexander, a bronzműves sokat ártott nekem, az Úr megfizet majd neki tettei szerint. Te is óvakodj tőle, nagyon ellenszegül tanításunknak.\n\nElső védekezésem alkalmával senki sem állt pártomra, mindenki cserben hagyott. Ne számítson nekik bűnül! Ám az Úr mellém állt és erőt öntött belém, hogy befejezzem az evangélium hirdetését és tudomást szerezzen róla minden pogány.",
+  "cite": "2Tim 4,10-17b"
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "key": "evkozi-6-4-I",
+ "source_date": "2025-02-20",
+ "rank": "",
+ "day": "6. évközi hét csütörtök",
+ "psalm": {
+  "cite": "Zsolt 101,16-18.19-21.29 és 22-23",
+  "response": "Urunk, Istenünk letekintett a mennyből a földre.",
+  "verses": [
+   "(20b. vers. - 5. tónus)\nA te nevedet, Uram, a nemzetek majd félve tisztelik,\nés a föld minden királya vallja dicsőséged,\nmert az Úr felépíti Sion városát,\nés megjelenik dicsőségben.\nMeghallgatja a szegények imáját,\nnem veti meg kérésüket.",
+   "Az eljövendő nemzedéknek írják le mindezt,\na születendő nép is az Urat magasztalja.\nFölséges szentélyéből Isten letekint,\naz Úr a mennyből földünkre rátekintett,\nhogy meghallja a rabok sóhaját,\nés a halál fiait megmentse fogságukból.",
+   "Itt lakhatnak szolgáid fiai,\nés biztonságban él ivadékuk színed előtt,\nhogy az Úr nevét hirdessék Sionban,\nés Jeruzsálemben dicsőségét,\namikor egybegyűlnek ott a népek,\nés az országok, hogy az Úrnak szolgáljanak."
+  ]
+ },
+ "alleluia": {
+  "text": "Uram, a te tanításod lélek és élet: örök életet adó igéid vannak.",
+  "cite": "Jn 6,63c.68c"
+ },
+ "gospel": {
+  "book": "Szent Márk",
+  "summary": "Jézus előre megmondja tanítványainak, hogy messiási küldetése sok szenvedéssel jár.",
+  "text": "Jézus egyszer elment tanítványaival a Fülöp-Cezáreája környékén fekvő falvakba. Útközben megkérdezte őket: „Kinek tartanak engem az emberek?”\n\nA tanítványok azt felelték: „Egyesek Keresztelő Jánosnak, mások Illésnek, ismét mások valamelyik prófétának.” Ő tovább kérdezte őket: „Hát ti kinek tartotok engem?” Erre Péter így válaszolt: „Te vagy a Messiás.” Akkor szigorúan lelkükre kötötte, hogy ezt senkinek se mondják el róla.\n\nEttől kezdve arra oktatta őket, hogy az Emberfiának sokat kell szenvednie. A vének, a főpapok és az írástudók elvetik és megölik, de harmadnapra föltámad. Erről egészen nyíltan beszélt nekik.\n\nPéter ekkor félrevonta Jézust, és szemrehányást tett neki. Erre ő hátrafordult, tanítványaira nézett, és így korholta Pétert: „Távozz tőlem, sátán, mert emberi módon gondolkodol és nem Isten tervei szerint!”",
+  "cite": "Mk 8,27-33"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Mózes első könyvéből",
+  "summary": "Isten a vízözön után megáldja Noét és családját, és szövetséget köt vele; erre emlékeztet a szivárvány.",
+  "text": "Miután Noé kijött a bárkából, és hálaáldozatot mutatott be, Isten megáldotta Noét fiaival együtt, és így szólt hozzájuk: „Szaporodjatok és sokasodjatok, töltsétek be a földet! Féljen és rettegjen tőletek a föld minden állata és az ég minden madara! Kezetekbe adtam mindent, ami a földön mozog, és minden halat a tengerben. Eledeletek lehet minden; az is, ami mozog és él. Miként a zöld növényzetet, ezeket is mind a kezetekbe adom azzal a feltétellel, hogy a húst vérével együtt ne egyétek. De a ti éltető véreteket is számon kérem. Számon kérem minden állattól és az embertől is.\n\nMindenkitől, még a testvértől is számon kérem az emberi életet. Aki embervért ont, annak emberek ontsák ki a vérét, mert Isten képére alkottam az embert! Ti pedig szaporodjatok és sokasodjatok, töltsétek be a földet, és uralkodjatok rajta!”\n\nMajd ezt mondotta Isten Noénak és fiainak: „Íme, én szövetséget kötök veletek és utódaitokkal, sőt minden élőlénnyel, mely nálatok van: a madárral, a háziállattal és a mező minden vadjával: mindazzal, ami a föld állataiból fennmaradt a bárkában. Szövetséget kötök veletek, hogy nem pusztul el minden élő a vízözön hullámaiban, és nem is lesz többé vízözön, mely elpusztíthatná a földet.”\n\nMajd ezt mondotta az Isten: „Annak a szövetségnek, melyet veletek és a körülöttetek élő többi élőlénnyel kötök, ez lesz a jele örök időkre: Szivárványomat a felhőkbe helyezem, és ez lesz a jele a szövetségnek közöttem és a föld között.”",
+  "cite": "Ter 9,1-13"
+ }
+}

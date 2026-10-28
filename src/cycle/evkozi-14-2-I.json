@@ -1,0 +1,33 @@
+{
+ "key": "evkozi-14-2-I",
+ "source_date": "2025-07-08",
+ "rank": "",
+ "day": "14. évközi hét kedd",
+ "psalm": {
+  "cite": "Zsolt 16,1.2-3.6-7.8b és 15",
+  "response": "Uram, Istenem, igazságban látom meg arcodat.",
+  "verses": [
+   "Hallgasd meg, Uram, igaz ügyemet,\nfigyelj könyörgő szavamra.\nFogadd el imámat,\najkam nem mond hamisságot.",
+   "Színed előtt hangozzék felmentő ítélet rólam,\nhiszen az igazságot nézi szemed.\nVizsgáld meg szívemet, látogass meg éjjel, † tűzpróbának vess alá engem,\nés nem lelsz bennem gonoszságot.",
+   "Istenem, hozzád kiáltok, mert te meghallgatsz engem,\nfordítsd felém füledet, és hallgasd meg ajkam igéit.\nCsodálatos irgalmadat mutasd meg,\nmentsd meg az ellenségtől azokat, akik jobbodban bíznak.",
+   "Szárnyad árnyékában oltalmazz\na gonoszoktól, akik szorongatnak.\nÉn azonban igazságban látom meg arcodat;\nmidőn felébredek, betölt engem színed látása."
+  ]
+ },
+ "alleluia": {
+  "text": "Jézus mondja: „Én vagyok a jó Pásztor. Ismerem juhaimat, és juhaim ismernek engem.”",
+  "cite": "Jn 10,14"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Jézus bejárja Galileát: tanít és gyógyít mindenütt.",
+  "text": "Egyszer egy ördögtől megszállott néma embert hoztak Jézus elé. Mihelyt kiűzte belőle az ördögöt, megszólalt a néma. A nép elámult ezen, és azt mondogatta: „Ilyen még sohasem történt Izraelben.” A farizeusok azonban megjegyezték: „Az ördögök fejedelmének segítségével űzi ki az ördögöket.”\n\nJézus ezután bejárta az összes várost és falut. Tanított a zsinagógákban, hirdette Isten országának örömhírét, és meggyógyított minden betegséget és minden bajt.\n\nAmikor látta a népsokaságot, megesett rajtuk a szíve, mert olyan fáradtak és kimerültek voltak, mint a nyáj, amelynek nincsen pásztora. Akkor így szólt tanítványaihoz: „Az aratnivaló sok, de a munkás kevés. Kérjétek az aratás Urát, hogy küldjön munkásokat aratásába!”",
+  "cite": "Mt 9,32-38"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Mózes első könyvéből",
+  "summary": "Jákob új nevet kap, mert Istennel küzdött.",
+  "text": "Amikor Jákob hazafelé tartott az ígéret földjére, egyik éjjel fölkelt, vette két feleségét, két szolgálóját meg tizenegy fiát, és átkelt a Jábbok gázlóján.\n\nMiután átkelt a patakon, és átvitte mindannyiukat és mindenét, amije csak volt, egyedül maradt: és íme egy férfiú viaskodott vele hajnalhasadtáig. Amikor a férfi látta, hogy nem bír erőt venni rajta, megérintette a csípőjének inát, és az tüstént megbénult. Majd a férfi azt mondta neki: „Eressz el, mert feljön immár a hajnal!” Jákob azt felelte: „Nem bocsátalak el, míg meg nem áldasz engem.” Majd a férfi megkérdezte: „Mi a neved?” Ő azt felelte: „Jákob.” Erre a férfi azt válaszolta: „Ne Jákobnak hívjanak ezentúl, hanem Izraelnek: mert küzdöttél Istennel és emberekkel, és te győztél.” Ekkor Jákob arra kérte: „Mondd meg nekem, kérlek, a nevedet!” De ő azt mondta: „Miért kérded a nevemet?” Azzal megáldotta őt azon a helyen.\n\nJákob Fánuelnek nevezte el azt a helyet, és így magyarázta: „Színről színre láttam az Istent, mégis megmenekültem.”\n\nMár fölkelt a nap, amikor Jákob átkelt Fánuelnél; a lábára azonban sántított. Emiatt nem eszik meg Izrael fiai mind a mai napig azt az inat, amely a csípőcsonton van, mivelhogy ő megérintette Jákob csípőjének inát és az megbénult.",
+  "cite": "Ter 32,23-33"
+ }
+}

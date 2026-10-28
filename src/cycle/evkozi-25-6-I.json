@@ -1,0 +1,32 @@
+{
+ "key": "evkozi-25-6-I",
+ "source_date": "2025-09-27",
+ "rank": "",
+ "day": "25. évközi hét szombat",
+ "psalm": {
+  "cite": "Jer 31,10.11-12ab.13",
+  "response": "Az Úr úgy őriz minket, miként nyáját a pásztor.",
+  "verses": [
+   "Halljátok az Úr szavát, nemzetek,\na távoli szigeteken is hirdessétek:\n„Aki szétszórta Izraelt, össze is gyűjti,\nés őrzi, miként nyáját a pásztor.”",
+   "Mert az Úr Jákobot megváltotta,\nés kiszabadította a zsarnok kezéből.\nEljönnek és örömükben ujjonganak Sion hegyén,\naz Úr javaiért hálát adni jönnek.",
+   "A leányok akkor örömükben körtáncot lejtenek,\naz ifjak és öregek velük vigadnak.\nGyászukat örömre fordítom,\nfájdalmukban megvigasztalom és felvidítom őket."
+  ]
+ },
+ "alleluia": {
+  "text": "Üdvözítőnk, Jézus Krisztus győzött a halálon, s az evangéliumban felragyogtatta az örök életet.",
+  "cite": "Vö. 2Tim 1,10b"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Jézus újból megjövendöli szenvedését.",
+  "text": "Az ördögtől megszállott fiú meggyógyítása után a tanítványok csodálattal tekintettek Jézusra. Ő azonban figyelmeztette őket: „Véssétek szívetekbe, amit most mondok! Eljön az idő, hogy az Emberfiát az emberek kezére adják.”\n\nDe azok nem értették meg ezt a beszédet, és igazi értelme rejtve maradt előttük. Kérdezni azonban nem merték e szavak értelme felől.",
+  "cite": "Lk 9,43b-45"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Zakariás próféta könyvéből",
+  "summary": "Isten prófétája meglátja és leírja az eljövendő Megváltó dicsőségét.\n\nOrszága felmérhetetlen és boldog ország lesz.",
+  "text": "Zakariás próféta így mondja el látomását:\n\nFölemeltem tekintetemet,\n\nés látomásban láttam egy férfiút,\n\nakinek kezében mérőzsinór volt.\n\nMegkérdeztem tőle:\n\n„Hová mégy?”\n\nAzt felelte: „Megmérem a szent várost, Jeruzsálemet,\n\nhogy lássam, mennyi a szélessége és mennyi a hosszúsága.”\n\nAkkor az angyal, aki hozzám beszélt, elindult,\n\nés egy másik angyal jött eléje.\n\nAz előző így szólt hozzá:\n\n„Siess, és mondd el ennek az itt álló ifjúnak:\n\nNem övezi majd fal Jeruzsálemet a benne lakó emberek\n\nés állatok sokasága miatt.\n\nEzt mondja az Úr:\n\nMagam leszek a tüzes fal körülötte, és én leszek a dicsősége.\n\nÖrülj és ujjongj, Sion leánya, mert íme, eljövök, hogy nálad lakjam.\n\nSok nép az Úrhoz tér majd azon a napon, és az ő népévé lesz – mondja az Úr.”",
+  "cite": "Zak 2,5-9,14-15a"
+ }
+}

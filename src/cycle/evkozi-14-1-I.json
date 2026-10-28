@@ -1,0 +1,32 @@
+{
+ "key": "evkozi-14-1-I",
+ "source_date": "2025-07-07",
+ "rank": "",
+ "day": "14. évközi hét hétfő",
+ "psalm": {
+  "cite": "Zsolt 90,1-2.3-4.14-15ab",
+  "response": "Uram, Istenem, tebenned bízom.",
+  "verses": [
+   "Aki a Fölséges oltalmában lakik,\na Mindenható árnyékában tartózkodik,\nígy szól az Úrhoz: † „Menedékem és váram te vagy nékem,\nIstenem, benned bízom.”",
+   "Megment ő téged a vadászok tőrétől,\nés a gonosz beszédtől.\nSzárnyaival oltalmaz,\ntollai alatt menedéket találsz.",
+   "(Az Úr pedig így válaszolt:) † „Megszabadítom őt, mivel ragaszkodik hozzám,\noltalmazom, mert nevemet ismeri.\nHozzám kiált, és én meghallgatom őt,\nminden szükségben vele vagyok.”"
+  ]
+ },
+ "alleluia": {
+  "text": "Üdvözítőnk, Jézus Krisztus győzött a halálon, s az evangéliumban felragyogtatta az örök életet.",
+  "cite": "2Tim 1,10b"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Jézus az ő szavával gyógyít, és keze érintésével halottat támaszt fel.",
+  "text": "Amikor Jézus Kafarnaumban tanított, egy elöljáró lépett hozzá, leborult előtte, és így kérlelte: „Uram, a leányom most halt meg. De jöjj, tedd rá kezedet, és életre kel!” Erre Jézus fölkelt, és tanítványaival együtt elment vele.\n\nKözben egy asszony, aki tizenkét éve vérfolyásban szenvedett, hátulról Jézus közelébe férkőzött, és megérintette ruhájának szegélyét. Azt gondolta magában: „Ha csak a ruháját érintem is, meggyógyulok.” Jézus erre megfordult, ránézett, és így szólt: „Bízzál, leányom! Hited meggyógyított téged.” Attól az órától fogva egészséges lett az asszony.\n\nAmikor Jézus az elöljáró házába ért, és látta a fuvolásokat meg a lármás tömeget, rájuk szólt: „Távozzatok, hiszen nem halt meg a leány, csak alszik!” Azok kinevették. Miután eltávolították a tömeget, Jézus bement, megfogta a leány kezét, és az életre kelt. Ennek híre elterjedt azon az egész vidéken.",
+  "cite": "Mt 9,18-26"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Mózes első könyvéből",
+  "summary": "Jákob Bételben égig érő létrát és rajta fel-alá járó angyalokat lát;\nés ígéretet kap, hogy Isten lesz az őrzője mindenkor.",
+  "text": "Jákob, miután csellel megszerezte az atyai áldást, bátyja bosszújától félve, elhagyta Bersabét, és Hárán felé tartott. Amikor olyan helyre ért, ahol eltölthette az éjszakát, mert a nap már lement, fogott egyet az ott levő kövek közül, a feje alá tette, és lefeküdt azon a helyen. Álmában úgy látta, hogy egy létra áll a földön, amelynek teteje az égig ér, és Isten angyalai fel- és lejárnak rajta. Odafent pedig az Úr állott, és így szólt: „Én vagyok az Úr, atyádnak, Ábrahámnak és Izsáknak Istene. Ezt a földet, amelyen alszol, neked adom és utódaidnak. Annyi lesz az ivadékod, mint porszem a földön. Kiterjedsz nyugatra és keletre, északra és délre. Benned és utódaidban nyer áldást a föld minden nemzetsége. Mert én veled leszek; megőrizlek téged, bárhová mégy, és visszahozlak erre a földre. Bizony, el nem hagylak, amíg nem teljesítem mindazt, amit ígértem neked.” Amikor Jákob fölébredt álmából, azt mondta: „Valóban az Úr van ezen a helyen, és én nem is tudtam.” Majd megrémülve folytatta: „Mily félelmetes ez a hely! Nem más ez, mint az Isten háza és a menny kapuja.”\n\nEzért Jákob, amikor reggel fölkelt, fogta azt a követ, amelyet a feje alá tett, fölállította emlékjelül, és olajat öntött rá. Aztán Bételnek nevezte el azt a helyet; azelőtt azonban Luz volt annak a városnak a neve.\n\nFogadalmat is tett: „Ha az Isten velem lesz, és megőriz ezen az úton, amelyen járok, ha ad nekem kenyeret táplálékul és ruhát öltözetül, és épségben térek vissza atyám házába, akkor az Úr lesz az én Istenem. Ezt a követ pedig, amelyet emlékoszlopnak állítottam fel, Isten házának fogják hívni.”",
+  "cite": "Ter 28,10-22a"
+ }
+}

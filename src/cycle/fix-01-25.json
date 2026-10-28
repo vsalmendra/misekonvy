@@ -1,0 +1,32 @@
+{
+ "key": "fix-01-25",
+ "source_date": "2025-01-25",
+ "rank": "Ü",
+ "day": "Szent Pál apostol megtérése – Ü",
+ "psalm": {
+  "cite": "Zsolt 116,1.2",
+  "response": "Menjetek el az egész világra, és hirdessétek az evangéliumot!",
+  "verses": [
+   "Vagy: Alleluja. 4. szám.\nDicsérjétek az Urat, minden népek,\nmagasztaljátok őt, minden nemzetek.",
+   "Vagy: Alleluja.\nMert erős rajtunk az ő irgalma,\nés az Úr hűsége örökké megmarad.",
+   "Vagy : Alleluja."
+  ]
+ },
+ "alleluia": {
+  "text": "Én választottalak titeket a világból, hogy menjetek és gyümölcsöt teremjetek, és gyümölcsötök maradandó legyen, mondja az Úr.",
+  "cite": "Jn 15,16"
+ },
+ "gospel": {
+  "book": "Szent Márk",
+  "summary": "Menjetek el az egész világra és hirdessétek az evangéliumot!",
+  "text": "Abban az időben Jézus megjelent a Tizenegynek, és így szólt hozzájuk:\n\nMenjetek el az egész világra, és hirdessétek az evangéliumot minden teremtménynek. Aki hisz és megkeresztelkedik, az üdvözül, aki nem hisz, az elkárhozik. A híveket ezek a jelek fogják kísérni: A nevemben ördögöket űznek ki, új nyelveken beszélnek, kígyókat vehetnek a kezükbe, és ha valami mérget isznak, nem árt nekik. Ráteszik a kezüket a betegekre, és azok meggyógyulnak.",
+  "cite": "Mk 16,15-18"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "az Apostolok Cselekedeteiből",
+  "summary": "Megtérésének elbeszélésével Szent Pál tanúságot tesz Jézusról.",
+  "text": "A jeruzsálemi templomban Pál így beszélt a néphez:\n\nZsidó ember vagyok, a ciliciai Tarzusban születtem, de ebben a városban nevelkedtem, s Gámáliel lábánál az atyai törvény szigorú megtartására tanítottak. A Törvény megtartásában buzgólkodtam, miként most ti is mindannyian. Halálra üldöztem azokat, akik ezt az (új) utat követték, férfiakat és nőket kötöztem meg és vetettem börtönbe. A főpap és a vének tanácsa tanúsíthatja mindezt. Megbízólevelet is kaptam tőlük, és azzal mentem el Damaszkuszba a testvérekhez, hogy bilincsbe verve Jeruzsálembe hurcoljam őket és elnyerjék büntetésüket.\n\nTörtént pedig, hogy útközben, amikor Damaszkuszhoz közeledtem, déltájban, hirtelen nagy mennyei fényesség vett körül. A földre zuhantam, majd egy hangot hallottam, amely így szólt hozzám: „Saul, Saul, miért üldözöl engem?”\n\nErre én megkérdeztem: „Ki vagy te, Uram?”\n\nŐ azt mondta nekem: „Én vagyok a názáreti Jézus, akit te üldözöl.” Akik velem voltak, látták ugyan a fényt, de nem hallották annak hangját, aki hozzám szólt.\n\nMegkérdeztem: „Mit tegyek, Uram?”\n\nAz Úr akkor azt mondta nekem: „Kelj föl és menj be Damaszkuszba, ott majd megmondják neked, mit kell tenned.”\n\nMivel azonban a ragyogó fényesség miatt elvesztettem látásomat, kísérőim kézen fogva vezettek, és így értem be Damaszkuszba.\n\nEgy bizonyos Ananiás nevű, Törvényt tisztelő férfi, akiről az ottani zsidók mind jó véleménnyel voltak, fölkeresett, és elém állva azt mondta nekem: „Saul testvér, nézz rám!” És én abban a pillanatban visszanyertem látásomat.\n\nŐ meg folytatta: „Atyáink Istene eleve arra rendelt téged, hogy megismerd az ő akaratát, meglásd az Igazat, az ő küldöttjét, és halld meg ajkának igéit, mert minden ember előtt tanúskodnod kell arról, amit láttál és hallottál. Most pedig ne késlekedjél! Kelj fel, keresztelkedjél meg, és segítségül híva az ő nevét, mosd le bűneidet!”",
+  "cite": "ApCsel 22,3-16"
+ }
+}

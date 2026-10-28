@@ -1,0 +1,40 @@
+{
+ "key": "evkozi-27-vas-B",
+ "source_date": "2024-10-06",
+ "rank": "",
+ "day": "Évközi 27. vasárnap – Terménybetakarítási hálaadás",
+ "psalm": {
+  "cite": "Zsolt 127,1-2.3.4-5.6",
+  "response": "Életünknek minden napját, Isten áldása kísérje!",
+  "verses": [
+   "Boldog mindaz, ki féli az Urat,\naki az ő útjain jár.\nKezed munkájából élhetsz,\nboldog leszel, és jól megy sorod.",
+   "Feleséged olyan, mint a termő szőlőtő,\na te házad bensejében.\nFiaid olyanok, mint az olajfacsemeték,\núgy veszik körül asztalodat.",
+   "Íme, ilyen áldásban részesül az az ember,\naki féli az Urat.\nÁldjon meg téged az Úr Sionból,\nhogy lásd Jeruzsálem jólétét életed minden napján.",
+   "Lásd meg fiaidnak fiait,\nbékesség Izraelnek!"
+  ]
+ },
+ "alleluia": {
+  "text": "Ha szeretjük egymást, Isten megmarad szívünkben, és szeretete tökéletes lesz bennünk.",
+  "cite": "1Jn 4,12"
+ },
+ "gospel": {
+  "book": "Szent Márk",
+  "summary": "",
+  "text": "Abban az időben: A farizeusok odamentek Jézushoz és megkérdezték: „Szabad-e a férjnek elbocsátania a feleségét?” Próbára akarták ugyanis tenni. Ő azonban kérdéssel válaszolt: „Mit parancsolt nektek Mózes?” Azt felelték: „Mózes megengedte, hogy válólevelet írjunk és elváljunk.” Jézus folytatta: „A ti szívetek keménysége miatt írta nektek ezt a parancsot. Isten azonban a teremtés kezdetén férfit és nőt alkotott. Az ember ezért elhagyja apját, anyját, a feleségéhez csatlakozik, és ketten egy test lesznek. Ettől kezdve többé már nem két test, hanem csak egy. Amit tehát Isten egybekötött, azt ember ne válassza szét.” Otthon tanítványai ismét megkérdezték őt ezzel kapcsolatban. Ezt válaszolta: „Aki elbocsátja feleségét és mást vesz el, házasságtörést követ el ellene. Ha pedig a feleség hagyja el férjét, és máshoz megy, házasságot tör.”\n\nKisgyermekeket vittek hozzá, hogy tegye rájuk a kezét. A tanítványok azonban elutasították őket. Amikor Jézus meglátta ezt, megharagudott, és ezt mondta nekik: „Engedjétek hozzám jönni a gyermekeket, és ne tiltsátok el őket, mert ilyeneké az Isten országa. Bizony, mondom nektek: Aki nem úgy fogadja az Isten országát, mint egy gyermek, nem megy be oda.” Azután ölébe vette a gyermekeket, és kezét rájuk téve megáldotta őket.",
+  "cite": "Mk 10,2-16"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Mózes első könyvéből",
+  "summary": "",
+  "text": "Az első ember teremtése után így szólt az Úristen: „Nem jó az embernek egyedül lennie. Alkotok neki segítőtársat, aki hozzá illő.”\n\nAz Úristen megteremtette a földből a mező minden állatát és az ég minden madarát. Odavezette őket az emberhez, hogy lássa, milyen nevet ad nekik. Az lett a nevük, amit az ember adott nekik. Az ember tehát nevet adott minden állatnak, az ég minden madarának és a mező minden vadjának. De a maga számára nem talált segítőtársat, aki hasonló lett volna hozzá.\n\nEzért az Úristen álmot bocsátott az emberre, és amikor elaludt, kivette az egyik oldalbordáját, a helyét pedig hússal töltötte ki. Ezután az Úristen az oldalbordából, amelyet az emberből kivett, megalkotta az asszonyt, és az emberhez vezette. Az ember így szólt: „Ez most már csont az én csontomból és hús az én húsomból. Asszony a neve, mivel a férfiből vétetett.” Ezért a férfi elhagyja apját és anyját, a feleségéhez ragaszkodik, és a kettő egy test lesz.",
+  "cite": "Ter 2,18-24"
+ },
+ "reading2": {
+  "label": "Szentlecke",
+  "sub": "a Zsidókhoz írt levélből",
+  "summary": "",
+  "text": "Testvéreim!\n\nAnnyit azért már látunk, hogy Jézus, aki kevéssel lett kisebb az angyaloknál, a halál elszenvedéséért a dicsőség és nagyság koronáját nyerte el, hiszen az Isten irgalmából mindnyájunkért megízlelte a halált.\n\nIllett ugyanis (Istenhez), hogy azt, akiért és aki által minden lett – mivel számtalan fiát elvezette az üdvösségre –, az üdvösség szerzőjeként a szenvedésben tökéletesítse. Mert ugyanattól az egytől valók mind: a megszentelő és azok, akiket megszentelt. Ezért nem szégyelli testvérnek nevezni őket.",
+  "cite": "Zsid 2,9-11"
+ }
+}

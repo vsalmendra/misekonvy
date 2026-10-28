@@ -1,0 +1,32 @@
+{
+ "key": "evkozi-21-1-II",
+ "source_date": "2024-08-26",
+ "rank": "",
+ "day": "21. évközi hét hétfő",
+ "psalm": {
+  "cite": "Zsolt 95,1-2a.2b-3.4-5",
+  "response": "Hirdessétek minden népnek, mondjátok el az Úr csodás tetteit!",
+  "verses": [
+   "Énekeljetek az Úrnak új éneket,\nminden föld az Úrnak énekeljen.\nÉnekeljetek az Úrnak, áldjátok nevét,\nnapról napra hirdessétek üdvösségét.",
+   "Hirdessétek dicsőségét a nemzetek között,\nés csodatetteit minden népnek.\nÖrvendjen az ég, a föld ujjongjon,\nzúgjon a tenger, és ami betölti.",
+   "Mert nagy az Úr, és minden dicséretre méltó,\nfélelmetesebb az összes isteneknél.\nA népek minden istene csak üres semmiség,\naz Úr azonban az ég alkotója."
+  ]
+ },
+ "alleluia": {
+  "text": "Jézus mondja: „Juhaim hallgatnak szavamra; ismerem őket, és ők a nyomomban járnak.”",
+  "cite": "Jn 10,27"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Jézus elítéli a vak vezetőket.",
+  "text": "Jézus egyszer így korholta a farizeusokat:\n\nJaj, nektek, képmutató írástudók és farizeusok! Elzárjátok a mennyek országába vezető utat az emberek elől. Ti magatok nem mentek be oda, és azokat sem engeditek odajutni, akik be szeretnének menni.\n\nJaj, nektek, képmutató írástudók és farizeusok! Tengert és szárazföldet bejártok, hogy egyetlen pogányt megtérítsetek, és ha megtért, a kárhozat fiává teszitek, kétszerte inkább, mint magatokat.\n\nJaj, nektek, vak vezetők! Azt mondjátok: „Ha valaki a templomra esküszik, az semmi; ha azonban a templom aranyára esküszik, az kötelez.” Ti, esztelenek és vakok! Hát mi nagyobb: az arany vagy a templom, amely megszenteli az aranyat? – Továbbá azt mondjátok: „Ha valaki az oltárra esküszik, az semmi, de ha a rajta lévő áldozati ajándékra esküszik, az kötelez.” – Ti, vakok! Hát mi nagyobb: az áldozati ajándék vagy az oltár, amely megszenteli az ajándékot? Aki tehát az oltárra esküszik, az esküszik az oltárra és mindarra, ami rajta van. Aki a templomra esküszik, az esküszik a templomra és arra, aki ott lakik. Végül aki az égre esküszik, az az Isten trónjára esküszik és arra, aki a trónon ül.",
+  "cite": "Mt 23,13-22"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a tesszaloniki hívekhez írt második leveléből",
+  "summary": "Krisztus megdicsőül bennetek, ti pedig őbenne.",
+  "text": "Pál, Szilvánusz és Timóteus üdvözletét küldi a tesszaloniki egyháznak az Atyaistenben és az Úr Jézus Krisztusban.\n\nKegyelem nektek és békesség Atyánktól, az Istentől, és Urunktól, Jézus Krisztustól!\n\nTestvéreim! Folytonos hálával tartozunk értetek Istennek, mégpedig méltán, mert hitetek nőttön-nő, és az egymás iránti szeretet mindnyájatokban gyarapszik. Dicsekszünk is veletek Isten egyházaiban: állhatatosságtokkal és hitetekkel, amellyel minden üldözést és zaklatást elviseltek Isten igazságos ítéletének jeleként, hogy méltók legyetek Isten országára, hiszen szenvedtek is érte.\n\nIstenünk tegyen méltóvá benneteket a meghívásra és tökéletessé a jóra való törekvésben s a hitből fakadó tettekben. Így dicsőül meg Urunk, Jézus neve bennetek, és ti őbenne, Istenünknek és Urunknak, Jézus Krisztusnak kegyelméből.",
+  "cite": "2Tessz 1,1-5.11b-12"
+ }
+}

@@ -1,0 +1,34 @@
+{
+ "key": "evkozi-12-3-I",
+ "source_date": "2025-06-25",
+ "rank": "",
+ "day": "12. évközi hét szerda",
+ "psalm": {
+  "cite": "Zsolt 104,1-2.3-4.6-7.8-9",
+  "response": "Sohasem felejti az Isten az ő szövetségét.",
+  "verses": [
+   "Vagy: Alleluja. 8. szám.\nAdjatok hálát az Úrnak, és hívjátok segítségül nevét,\nhirdessétek nagy tetteit a nemzetek között.\nÉnekeljetek és zengjetek zsoltárt neki,\nemlegessétek minden csodáját.",
+   "Vagy: Alleluja.\nDicsekedjetek szent nevével,\naz Urat kereső szívek örvendezzenek.\nKeressétek az Urat és hatalmas erejét,\nkeressétek arcát szüntelen.",
+   "Vagy: Alleluja.\nTi vagytok Ábrahámnak, az ő szolgájának ivadékai,\nválasztottjának, Jákobnak fiai.\nŐ a mi Urunk és Istenünk,\nő ítélkezik az egész földön.",
+   "Vagy: Alleluja.\nÖrökké emlékezik szövetségére,\nezernyi nemzedéknek adott igéjére,\nmelyet Ábrahámnak adott,\nés az esküre, melyet Izsáknak esküdött.",
+   "Vagy: Alleluja."
+  ]
+ },
+ "alleluia": {
+  "text": "Jézus mondja: „Maradjatok bennem, és én bennetek! Aki énbennem marad, bőséges termést hoz.”",
+  "cite": "Jn 15,4a.5b"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Tetteikről ismerhetők fel az emberek.",
+  "text": "Jézus a hegyi beszédben ezt mondta tanítványainak:\n\nÓvakodjatok a hamis prófétáktól! Báránybőrben jönnek hozzátok, belül azonban ragadozó farkasok. Gyümölcseikről ismeritek fel őket. Szednek-e a tövisről szőlőt, vagy a bojtorjánról fügét? Így minden jó fa jó gyümölcsöt terem, a rossz fa pedig rossz gyümölcsöt terem. Nem hozhat a jó fa rossz gyümölcsöt, sem a rossz fa nem teremhet jó gyümölcsöt. Minden fát, amely nem terem jó gyümölcsöt, kivágnak, és tűzre vetnek. Tehát: gyümölcseikről ismeritek fel őket.",
+  "cite": "Mt 7,15-20"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Mózes első könyvéből",
+  "summary": "Ábrám hitt az Úrnak, és ez megigazulására szolgált.\n\nAz Úr szövetséget kötött vele.",
+  "text": "Lótnak és a Jordán környéki királyoknak kiszabadítása után az Úr szava megnyilatkozott Ábrámnak látomásban: „Ne félj, Ábrám, én védőpajzsod vagyok, a jutalmad igen nagy lesz.” Ábrám így szólt: „Uram, Istenem, mit adhatsz nekem, hiszen gyermek nélkül maradtam.” És Ábrám folytatta: „Nézd, nem adtál nekem utódot, így szolgám, a damaszkuszi Eliezer lesz az örökösöm.” Erre az Úr így szólt hozzá: „Nem az lesz örökösöd, hanem az lesz az örökösöd, aki testedből származik.” Aztán kivezette, és ezt mondta neki: „Nézz föl az égre és számold meg a csillagokat, ha meg tudod számolni őket.” Majd hozzáfűzte: „Ilyen lesz a nemzetséged.” Ábrám hitt az Úrnak, ő pedig beszámította neki megigazulásra.\n\nMajd ismét szólt Isten Ábrámhoz: „Én vagyok az Úr, aki kihívtalak a káldeai Ur városából, hogy ezt a földet neked adjam birtokul.” Ábrám így válaszolt: „Uram, Istenem, miből tudom meg, hogy birtokolni fogom azt?” Erre Isten megparancsolta neki: „Hozz egy hároméves üszőt, egy hároméves kecskét, egy hároméves bakot, egy gerlét és egy galambot!”\n\nÁbrám odahozta neki ezeket az állatokat, majd középen kettévágta őket, és a szétvágott részeket egymással szemben helyezte el, a madarakat azonban nem vágta szét. Akkor ragadozó madarak szálltak a testekre, de Ábrám elűzte őket. Amikor a nap lenyugodott, Ábrám mély álomba merült, és félelmetes sötétség szállott rá.\n\nAmint beállt a sűrű sötétség, füstölgő kemencéhez és égő fáklyához hasonló valami vonult végig a szétvágott darabok között. Azon a napon kötött az Úr szövetséget Ábrámmal, és így szólt: „Utódaidnak adom ezt a földet Egyiptom patakjától egészen a nagy folyamig, az Eufráteszig.”",
+  "cite": "Ter 15,1-12.17-18"
+ }
+}

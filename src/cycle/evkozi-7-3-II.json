@@ -1,0 +1,33 @@
+{
+ "key": "evkozi-7-3-II",
+ "source_date": "2024-05-22",
+ "rank": "",
+ "day": "7. évközi hét szerda",
+ "psalm": {
+  "cite": "Zsolt 48,2-3.6-7.8-10.11",
+  "response": "Boldogok a lélekben szegények, mert övék a mennyek országa.",
+  "verses": [
+   "Halljátok ezt, minden népek,\njól figyeljen a föld minden lakója:\nszegények és gazdagok,\nközemberek és előkelők!",
+   "A rossz napoktól miért félnék,\namikor az alattomosak gonoszsága körülvesz engem?\nAkik erejükben bíznak,\nés nagy gazdagságukkal dicsekszenek.",
+   "Nem válthatja meg az ember önmagát,\nváltságdíjat nem adhat Istennek.\nAz élet váltságdíja túl magas, † a végén is kevésnek bizonyul ahhoz,\nhogy örökké éljen és ne lásson pusztulást.",
+   "Látjuk, hogy meghalnak a bölcsek is, † az esztelen és a balga elpusztul egyaránt,\nés vagyonuk átszáll az idegen emberre."
+  ]
+ },
+ "alleluia": {
+  "text": "Jézus mondja: „Én vagyok az út, az igazság és az élet. Senki sem jut Atyámhoz, csak általam.”",
+  "cite": "Jn 14,6"
+ },
+ "gospel": {
+  "book": "Szent Márk",
+  "summary": "Jézus azt tanítja: Aki nincs ellene, az vele van.",
+  "text": "Egyszer János apostol ezekkel a szavakkal fordult Jézushoz: „Mester! Láttunk valakit, aki a nevedben ördögöt űzött ki, de nem tart velünk. Megtiltottuk neki, mert nem csatlakozott hozzánk.”\n\nJézus azonban így válaszolt: „Ne tiltsátok meg neki! Aki az én nevemben csodát tesz, az egyhamar nem fog szidalmazni engem. Aki nincsen ellenünk, az velünk van.”",
+  "cite": "Mk 9,38-40"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent Jakab apostol leveléből",
+  "summary": "Az apostol figyelmeztet: Az élet mulandó, tehát Istenbe vessük bizalmunkat!",
+  "text": "Testvéreim!\n\nRajta hát, mondjátok csak: „Ma vagy holnap a városba indulunk, ott töltünk egy évet, kereskedünk és nyerészkedünk.” Hiszen azt sem tudjátok, mit hoz a holnap. Ugyan mi az életetek? A párához hasonlít, amely rövid ideig látszik, azután elenyészik.\n\nEhelyett azt kellene mondanotok: „Ha az Úr akarja, élni fogunk, és ezt vagy azt fogjuk tenni.” De ti saját cselekedeteitekkel kevélykedtek. Minden ilyen dicsekvés gonoszságszámba megy.\n\nAki tehát tudna jót tenni, és nem teszi, az vétkezik.",
+  "cite": "Jak 4,13b-17"
+ }
+}

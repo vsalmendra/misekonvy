@@ -1,0 +1,40 @@
+{
+ "key": "evkozi-18-vas-C",
+ "source_date": "2025-08-03",
+ "rank": "",
+ "day": "Évközi 18. vasárnap",
+ "psalm": {
+  "cite": "Zsolt 89,3-4.5-6.12-13.14 és 17",
+  "response": "Uram, menedékünk lettél nemzedékről nemzedékre.",
+  "verses": [
+   "Te a halandót ismét porrá teszed,\nígy szólsz: „Térjetek vissza, emberek fiai.”\nA te szemedben ezer év akár a tegnap,\núgy tűnik tova, mint egy őrtállás éjszaka.",
+   "Te elragadod őket,\nolyanok lesznek, mint a hajnali álom.\nMint a fű, mely reggel kisarjad és fölvirul,\nde estére lefonnyad és elszárad.",
+   "Taníts meg számotvetni napjaink sorával,\nhogy bölcsességre neveljük szívünket.\nTérj hozzánk, Urunk, meddig vársz még?\nLégy könyörületes szolgáidhoz!",
+   "Áraszd ránk irgalmadat,\nhogy mindenkor örvendjünk és ujjongjunk.\nRagyogjon fölöttünk Urunknak, Istenünknek jósága, † áldott legyen kezünk minden műve,\nkísérje áldásod kezünk minden munkáját."
+  ]
+ },
+ "alleluia": {
+  "text": "Boldogok a lélekben szegények, mert övék a mennyek országa.",
+  "cite": "Mt 5,3"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Kerüld a kapzsiságot!\nNem tudod, kire marad, amit szereztél.",
+  "text": "Abban az időben amikor Jézus tanított, valaki megszólalt a sokaságból: „Mester,\n\nszólj testvéremnek, hogy ossza meg velem az örökséget.” Ő így\n\nválaszolt neki: „Ember, ki hatalmazott fel engem, hogy bírátok legyek,\n\nés elosszam örökségteket?”\n\nMajd a tömeghez fordult: „Vigyázzatok, és őrizkedjetek minden\n\nkapzsiságtól, mert nem a vagyonban való bővelkedéstől függ az ember\n\nélete.”\n\nPéldabeszédet is mondott nekik: „Egy gazdag embernek a földje\n\nbőséges termést hozott. Így okoskodott magában: Mit tegyek? Nincs hová\n\ngyűjtenem a termésemet. Tudom már, mit teszek: lebontom csűreimet és\n\nnagyobbakat építek, oda gyűjtöm majd a termést és minden vagyonomat.\n\nAztán majd elégedetten mondom magamnak: Ember, van elég vagyonod,\n\neltart sok évig. Pihenj, egyél, igyál, és élvezd az életet!\n\nÁm az Isten így szólt hozzá: Esztelen, még az éjjel számonkérik\n\ntőled lelkedet. Kié lesz mindaz, amit szereztél?\n\nÍgy jár az, aki kincset gyűjt magának ahelyett, hogy Istenben\n\ngazdagodnék.”",
+  "cite": "Lk 12,13-21"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "a Prédikátor könyvéből",
+  "summary": "A Prédikátor a mulandó dolgok hiábavalóságát állítja elénk.",
+  "text": "Minden hiábavalóság, mondja a Prédikátor, csupa hiábavalóság. Minden\n\ncsak hiábavalóság. Hisz jó néhány ember munkálkodott bölcsen, okosan és\n\nsikerrel, azután át kellett engednie szerzeményét olyannak, aki mit sem\n\nfáradt érte. Ez is hiábavalóság és nagy baj!\n\nIgen, mi haszna van az embernek sok-sok fáradozásából és\n\ntörekvéséből, amellyel emésztette magát életében? Valóban: minden napja\n\ncsupa szenvedés, és minden tevékenysége csak bosszúság. Szíve még éjjel\n\nsem tud megnyugodni. Ez is hiábavalóság!",
+  "cite": "Préd 1,2;2,21-23"
+ },
+ "reading2": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a kolosszeiekhez írt leveléből",
+  "summary": "Keressétek az odaföntvalókat!",
+  "text": "Testvéreim!\n\nKrisztussal együtt ti is feltámadtatok. Keressétek tehát\n\nazt, ami odafönt van, ahol Krisztus ül az Isten jobbján. Az égiekre\n\nirányuljon figyelmetek, ne a földiekre.\n\nHiszen meghaltatok, és életetek Krisztussal az Istenben van elrejtve.\n\nAmikor azonban Krisztus, a mi életünk, újra megjelenik, vele együtt ti\n\nis megjelentek a dicsőségben.\n\nFojtsátok el tehát tagjaitokban, ami földies: a paráznaságot, a\n\ntisztátalanságot, az érzéki vágyakat, a bűnös kívánságokat és a\n\nkapzsiságot, ami nem más, mint bálványimádás.\n\nNe hazudjatok egymásnak. Vessétek le a régi embert szokásaival\n\negyütt, és öltsétek föl az újat, aki állandóan megújul Teremtőjének\n\nképmására a teljes megismerésig. Itt már nincs görög vagy zsidó,\n\nkörülmetélt vagy körülmetéletlen, barbár vagy szittya, szolga vagy\n\nszabad, hanem Krisztus a minden, és ő van mindenben.",
+  "cite": "Kol 3,1-5.9-11"
+ }
+}

@@ -1,0 +1,39 @@
+{
+ "key": "evkozi-28-vas-C",
+ "source_date": "2025-10-12",
+ "rank": "",
+ "day": "Évközi 28. vasárnap",
+ "psalm": {
+  "cite": "Zsolt 97,1.2-3ab.3cd-4",
+  "response": "Az Úr megmutatta üdvösségét, a nemzetek színe előtt.",
+  "verses": [
+   "Zengjetek az Úrnak új éneket,\ncsodálatra méltó, amit művelt.\nDiadalt aratott jobbjával,\ngyőzelmet szentséges karjával.",
+   "Az Úr megmutatta szabadító erejét,\nigazságosságát feltárta a népek előtt.\nEmlékezetébe idézte jóságát és hűségét\nIzrael népe iránt.",
+   "Meglátta a föld minden határa:\nIstenünk szabadulást hozott nékünk.\nMinden földek, zengjetek az Úrnak öröméneket,\nujjongjatok és zsoltárt mondjatok."
+  ]
+ },
+ "alleluia": {
+  "text": "Adjatok hálát mindenért, mert Isten ezt kívánja mindnyájatoktól Krisztus Jézusban.",
+  "cite": "1Tessz 5,18"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Mindenért adjunk hálát az Úrnak, és dicsőítsük őt!",
+  "text": "Jézus egyszer útban Jeruzsálem felé áthaladt Szamaria és Galilea\n\nhatárvidékén.\n\nAmikor betért az egyik faluba, tíz leprás férfi jött vele szembe. Még\n\nmessze voltak, amikor már megálltak, és hangosan így kiáltottak: Jézus,\n\nMester! Könyörülj rajtunk!”\n\nŐ rájuk tekintett, és így szólt hozzájuk: „Menjetek és mutassátok\n\nmeg magatokat a papoknak.” Útközben megtisztultak.\n\nAz egyik, amikor észrevette, hogy meggyógyult, visszament, hangos\n\nszóval dicsőítette Istent, arcra borult Jézus lába előtt, és hálát\n\nadott neki. És ez az ember szamaritánus volt.\n\nJézus megkérdezte: „Nemde tízen tisztultak meg? Hol maradt a többi\n\nkilenc? Nem akadt más, aki visszajött volna, hogy hálát adjon Istennek,\n\ncsak ez az idegen?” Aztán hozzá fordult: „Kelj fel és menj! Hited\n\nmeggyógyított téged.”",
+  "cite": "Lk 17,11-19"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "a Királyok második könyvéből",
+  "summary": "A szíriai Námán meggyógyul leprájából,\nés hálát ad az Úrnak.",
+  "text": "Elizeus próféta szavára a leprában szenvedő arám Námán lement és az\n\nIsten emberének utasítása szerint hétszer alámerült a Jordánban. A\n\nteste újra olyan tiszta lett, akár egy kisgyermek teste.\n\nAztán egész kíséretével visszatért az Isten emberéhez. Bement, eléje\n\nállt, és ezt mondta: „Valóban, most már tudom, hogy nincs Isten az\n\negész földön, csak Izraelben. Fogadj el ezért szolgádtól némi\n\najándékot!”\n\nDe az így felelt: „Úgy igaz, ahogy az Úr él, akinek szolgálatában\n\nállok: nem fogadok el semmit.” És hiába unszolta, hogy fogadja el, az\n\nnem volt rá hajlandó.\n\nNámán ezért így szólt: „Ha nem, akkor adj szolgádnak annyi földet,\n\namennyit egy pár ökör elhúz, mert szolgád ezentúl nem mutat be égő és\n\nvéres áldozatot másnak, csak az Úrnak.”",
+  "cite": "2Kir 5,14-17"
+ },
+ "reading2": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak Timóteushoz írt második leveléből",
+  "summary": "Aki hűségesen kitart Krisztus mellett, az uralkodni is fog vele.",
+  "text": "Szeretett Fiam!\n\nNe felejtsd, hogy Jézus Krisztus, Dávid sarja feltámadt a halálból.\n\nErről szól evangéliumom, amelyért meghurcoltak, sőt mint valami\n\ngonosztevőt, még bilincsbe is vertek. De az Isten szava nincs\n\nmegbilincselve.\n\nA választottakért tehát mindent eltűrök, hogy az örök dicsőségben ők\n\nis elnyerjék az üdvösséget Krisztus Jézusban. Igaz kijelentés ez: ha\n\nmeghalunk vele, vele együtt élni is fogunk: ha tűrünk vele, vele együtt\n\nuralkodni is fogunk. Ha azonban megtagadjuk őt, ő is megtagad minket,\n\nde ha mi hűtlenné válunk, ő hű marad, mert önmagát nem tagadhatja meg.",
+  "cite": "2Tim 2,8-13"
+ }
+}

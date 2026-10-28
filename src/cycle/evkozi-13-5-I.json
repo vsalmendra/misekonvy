@@ -1,0 +1,33 @@
+{
+ "key": "evkozi-13-5-I",
+ "source_date": "2025-07-04",
+ "rank": "",
+ "day": "13. évközi hét péntek",
+ "psalm": {
+  "cite": "Zsolt 105,1-2.3-4a.4b-5",
+  "response": "Adjatok hálát az Úrnak, mert jóságos hozzánk.",
+  "verses": [
+   "Vagy: Alleluja. 2. szám.\nAdjatok hálát az Úrnak, mert jó,\nirgalma örökké megmarad.\nKi tudná elmondani az Úr hatalmas tetteit,\ndicséretét hiánytalanul hirdetni ki képes?",
+   "Vagy: Alleluja.\nBoldog, aki a törvényt megtartja,\nakinek tettei mindenkor igazak.\nEmlékezzél meg, Uram, mirólunk,\nhiszen te népedhez jóságos vagy.",
+   "Vagy: Alleluja.\nSegítségeddel látogass hozzánk,\nhadd lássuk választottaid boldogságát,\nhadd örvendjünk nemzeted örömének,\nés dicsekedjünk örökségeddel.",
+   "Vagy: Alleluja."
+  ]
+ },
+ "alleluia": {
+  "text": "Jöjjetek hozzám mindnyájan, akik fáradtak vagytok, és terhek alatt görnyedtek: Én felüdítlek titeket – mondja a mi Urunk.",
+  "cite": "Mt 11,28"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Jézus azért jött, hogy megmentse a bűnösöket.",
+  "text": "Abban az időben:\n\nAmint Jézus továbbhaladt, látott egy Máté nevű embert a vámnál ülni. Így szólt hozzá: „Kövess engem!” Az felállt és követte őt. Később, amikor Jézus Máté házában vendégeskedett, eljött sok vámos és bűnös, és helyet foglaltak az asztalnál Jézussal és tanítványaival együtt. Meglátták ezt a farizeusok és megkérdezték tanítványait: „Miért eszik a ti Mesteretek vámosokkal és bűnösökkel?” Jézus meghallotta ezt, és így válaszolt: „Nem az egészségeseknek kell az orvos, hanem a betegeknek. Menjetek csak, és tanuljátok meg, mit jelent ez: »Irgalmasságot akarok és nem áldozatot!« Nem azért jöttem, hogy az igazakat hívjam, hanem hogy a bűnösöket.”",
+  "cite": "Mt 9,9-13"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Mózes első könyvéből",
+  "summary": "Izsák annyira szerette Rebekkát, hogy ez enyhítette fájdalmát, amelyet anyja halála felett érzett.",
+  "text": "Miután Sára százhuszonhét esztendőt élt, meghalt Kirját-Árbéban (azaz Hebronban) Kánaán földjén. Ábrahám is odament, hogy meggyászolja Sárát, és elsirassa. Azután Ábrahám fölkelt a halott mellől, és így szólt Het fiaihoz: „Jövevény és idegen vagyok nálatok. Adjatok nekem egy sírhelyet, hogy eltemethessem halottamat!” Így temette el aztán Ábrahám a feleségét, Sárát, a Mákpela mezejének barlangjában, Mámbréval (azaz Hebronnal) szemben, Kánaán földjén.\n\nÁbrahám maga is öreg és élemedett korú volt, és az Úr áldása volt rajta mindenben.\n\nEgyszer azt mondta háza öreg szolgájának, aki gondviselője volt mindenének: „Tégy ünnepélyes esküt az Úrra, az ég és a föld Istenére, hogy nem veszel feleséget fiamnak a körülöttem lakó kananeusok leányai közül, hanem menj el szülőföldemre az én rokonaimhoz, és onnan hozz feleséget fiamnak, Izsáknak.”\n\nA szolga azt felelte: „Hátha az a lány nem akar eljönni velem erre a földre? Vigyem akkor vissza fiadat arra a földre, ahonnan kijöttél?”\n\nÁbrahám azt felelte: „Vigyázz, hogy oda vissza ne vidd a fiamat! Az Úr, az ég Istene, aki kihozott engem atyám házából és szülőföldemről, aki szólott hozzám, és megesküdött nekem: »Utódaidnak adom majd ezt a földet«, ő majd elküldi előtted angyalát, hogy onnan választhass feleséget fiamnak. Ha pedig az a lány nem akar téged követni, nem köt ez az eskü, amelyet nekem tettél. Csak a fiamat oda vissza ne vidd!”\n\n(A szolga elment és magával hozta Izsák leendő feleségét, Rebekkát.)\n\nIzsák éppen visszatért a Láháj-Roi kútjának irányából, ugyanis a Délvidéken lakott. Estefelé ki szokott menni a mezőre búsulni (anyja halála miatt). Amint fölemelte a szemét, látta, hogy tevék közelednek.\n\nRebekka is feltekintett, és meglátta Izsákot. Leszállt a tevéről, és megkérdezte a szolgát: „Ki az az ember, aki szembe jön velünk a mezőn?” A szolga azt felelte: „Ő az én gazdám.” Ekkor Rebekka vette a fátylát, és befödte magát.\n\nA szolga pedig elbeszélte Izsáknak mindazt, ami történt. Izsák ekkor bevezette Rebekkát anyjának, Sárának sátrába, és elvette feleségül. Annyira megszerette őt, hogy megvigasztalódott anyjának elvesztésén.",
+  "cite": "Ter 23,1-4.19;24,1-8.62-67"
+ }
+}

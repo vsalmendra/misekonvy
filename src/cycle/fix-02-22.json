@@ -1,0 +1,33 @@
+{
+ "key": "fix-02-22",
+ "source_date": "2025-02-22",
+ "rank": "Ü",
+ "day": "Szent Péter apostol székfoglalása – Ü",
+ "psalm": {
+  "cite": "Zsolt 22,l-3a.3b-4.5.6",
+  "response": "Az Úr nékem pásztorom, ínséget nem kell látnom.",
+  "verses": [
+   "Az Úr nékem pásztorom,\nínséget nem kell látnom.\nZöldellő mezőkön terelget engem,\ncsendes vizekhez vezet, és lelkemet felüdíti.",
+   "Az igazság ösvényén vezet engem,\nahogyan ő megígérte.\nA halál sötét völgyében sem félek, mert ott vagy velem,\nbiztonságot ad vessződ és pásztorbotod.",
+   "Számomra asztalt terítettél,\nhogy üldözőimet szégyen érje.\nFejemet megkented olajoddal,\nserlegemet csordultig megtöltötted.",
+   "Jóságod és irgalmad nyomon követ\néletemnek minden napján.\nOtthonom lesz az Isten háza\nmindörökké, szünet nélkül."
+  ]
+ },
+ "alleluia": {
+  "text": "Te Péter vagy, és e sziklára építem Egyházam, s a pokol kapui nem vesznek erőt rajta.",
+  "cite": "Mt 16,18"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Te Péter vagy, és neked adom a mennyek országa kulcsait.",
+  "text": "Abban az időben amikor Jézus Fülöp Cezáreájának vidékére ért, megkérdezte tanítványaitól: „Kinek tartják az emberek az Emberfiát?” Ezt válaszolták: „Van, aki Keresztelő Jánosnak, van, aki Illésnek, mások Jeremiásnak vagy valamelyik prófétának.”\n\nŐ tovább kérdezte őket: „Hát ti, kinek tartotok engem?” Simon Péter válaszolt: „Te vagy a Krisztus, az élő Isten Fia.” Erre Jézus azt mondta neki: „Boldog vagy, Simon, Jónás fia, mert nem a test és a vér nyilatkoztatta ki ezt neked, hanem az én mennyei Atyám.\n\nEzért mondom neked, hogy te Péter vagy, és én erre a sziklára építem Egyházamat, s a pokol kapui nem vesznek erőt rajta. Neked adom a mennyek országának kulcsait: Amit megkötsz a földön, meg lesz kötve a mennyben is, és amit feloldasz a földön, fel lesz oldva a mennyben is.”",
+  "cite": "Mt 16,13-19"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent Péter apostol első leveléből",
+  "summary": "Szent Péter maga is elöljáró, és Krisztus szenvedésének tanúja.",
+  "text": "Szeretteim!\n\nAkik közületek elöljárók, azokat mint magam is elöljáró és Krisztus szenvedéseinek tanúja, s egyszer majd nyilvánvalóvá váló dicsőségének is részese, kérem: legeltessétek az Istennek rátok bízott nyáját; viseljétek gondját ne kényszerből, hanem önként, az Isten szándéka szerint; ne haszonlesésből, hanem buzgóságból. Ne zsarnokoskodjatok a választottak fölött, hanem legyetek a nyájnak példaképei. Ha majd megjelenik a legfőbb Pásztor, elnyeritek a dicsőség hervadhatatlan koszorúját.",
+  "cite": "1Pét 5,1-4"
+ }
+}

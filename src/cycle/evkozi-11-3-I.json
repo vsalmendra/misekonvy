@@ -1,0 +1,32 @@
+{
+ "key": "evkozi-11-3-I",
+ "source_date": "2025-06-18",
+ "rank": "",
+ "day": "11. évközi hét szerda",
+ "psalm": {
+  "cite": "Zsolt 111,1-2.3-4.9",
+  "response": "Boldog az az ember, aki az Urat féli.",
+  "verses": [
+   "Boldog ember, aki féli az Urat,\naki az Úr törvényében örömét leli.\nHatalmas lesz ivadéka a földön,\náldott lesz az igazak nemzetsége.",
+   "Dicsőség és gazdagság tölti be házát,\nigazsága örökre megmarad.\nAz igaz világít, mint fény a sötétségben,\nigazságos, jóságos és irgalmas.",
+   "Bőséges adományt oszt a szegényeknek, † igazsága megmarad örökre,\nfeje dicsőségesen felemelkedik."
+  ]
+ },
+ "alleluia": {
+  "text": "Aki szeret engem, megfogadja szavamat. Atyám is szeretni fogja, és hozzá költözünk.",
+  "cite": "Jn 14,23"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Ne földi hiúságból, hanem Isten kedvéért tegyük a jót!",
+  "text": "Jézus a hegyi beszédben ezt mondta tanítványainak:\n\nVigyázzatok! Jótetteitekkel ne hivalkodjatok az emberek előtt, mert így a mennyei Atyától nem kaptok értük jutalmat.\n\nAmikor tehát alamizsnát adsz, ne kürtöltess magad előtt, mint a képmutatók teszik a zsinagógákban és az utcákon, hogy dicsérjék őket az emberek! Bizony, mondom nektek, ezzel már meg is kapták jutalmukat. Amikor tehát alamizsnát adsz, ne tudja bal kezed, mit cselekszik a jobb kezed, hogy adományod rejtekben legyen, és akkor Atyád jutalmaz meg érte, aki lát téged a rejtekben is.\n\nAmikor pedig imádkoztok, ne legyetek olyanok, mint a képmutatók, akik szeretnek az emberek szeme láttára a zsinagógákban és az utcasarkokon állva imádkozni! Bizony, mondom nektek, már meg is kapták jutalmukat. Amikor imádkozol, menj be a szobádba, és zárt ajtó mögött, a rejtekben imádkozzál Atyádhoz! Atyád, aki a rejtekben is lát, megfizet neked.\n\nAmikor böjtöltök, ne legyetek komorak, mint a képmutatók! Keserű arcot mutatnak, hogy az emberek meglássák rajtuk a böjtölést. Bizony, mondom nektek, ezzel már meg is kapták jutalmukat. Amikor tehát böjtölsz, illatosítsd be hajadat és mosd meg arcodat, hogy az emberek ne vegyék észre böjtölésedet, csak Atyád, aki a rejtekben jelen van! Atyád, aki a rejtekben is lát, megfizet neked.",
+  "cite": "Mt 6,1-6.16-18"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a korintusiakhoz írt második leveléből",
+  "summary": "Isten a jókedvű adakozót szereti.",
+  "text": "Testvéreim!\n\nAzt mondom nektek: Aki szűken vet, szűken is arat, aki pedig bőven vet, bőven is arat. Mindenki elhatározásának megfelelően adjon; ne kelletlenül vagy kényszerűségből, mert Isten a jókedvű adakozót szereti. Isten ugyanis elég hatalmas ahhoz, hogy minden kegyelmet bőven árasszon rátok, hogy mindenkor mindenben bővelkedve, készen legyetek minden jótettre. Hiszen ezt olvassuk a Szentírásban: „Bőségesen adakozik a szegényeknek, nagylelkűsége örökké megmarad.”\n\nAki pedig magot ad a magvetőnek, és kenyeret nyújt eledelül, az megsokasítja a vetésteket és megszaporítja jótékonyságtok gyümölcsét, hogy mindig gazdagon teljék nektek minden bőkezűségre, amely aztán a mi közvetítésünkkel hálát vált ki másokból az Isten iránt.",
+  "cite": "2Kor 9,6-11"
+ }
+}

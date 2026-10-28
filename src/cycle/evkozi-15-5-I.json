@@ -1,0 +1,32 @@
+{
+ "key": "evkozi-15-5-I",
+ "source_date": "2025-07-18",
+ "rank": "",
+ "day": "15. évközi hét péntek",
+ "psalm": {
+  "cite": "Zsolt 115,12-13.15-16bc.17-18",
+  "response": "Veszem az üdvösség kelyhét, és az Úr nevét hívom segítségül.",
+  "verses": [
+   "Az Úrnak mit adhatnék\nmindazért, amit nékem adott?\nVeszem az üdvösség kelyhét,\nés az Úr nevét hívom segítségül.",
+   "Drága dolog az Úr színe előtt\nszentjei dicső halála.\nÓ, Uram, én a te szolgád vagyok, és szolgálód gyermeke,\nbilincseimet széjjeltörted.",
+   "Bemutatom neked a dicséret áldozatát,\nés az Úr nevét hívom segítségül.\nMegadom az Úrnak, amit fogadtam,\negész népének színe előtt."
+  ]
+ },
+ "alleluia": {
+  "text": "Jézus mondja: „Juhaim hallgatnak szavamra; ismerem őket, és ők a nyomomban járnak.”",
+  "cite": "Jn 10,27"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Az Emberfia ura a szombatnak is.",
+  "text": "Húsvét táján az egyik szombaton Jézus vetések között járt tanítványaival együtt. Tanítványai megéheztek, tépdesni kezdték a kalászokat, és eszegették. Ennek láttára a farizeusok megjegyezték: „Nézd, tanítványaid olyant tesznek, amit szombaton tilos cselekedni!”\n\nJézus erre megkérdezte: „Nem olvastátok, hogy mit tett Dávid, amikor társaival együtt megéhezett? Hogyan ment be Isten házába, és hogyan ette meg a kitett kenyereket, amelyeket sem neki, sem a kíséretének nem lett volna szabad megennie, csak a papoknak? Vagy nem olvastátok-e a törvényben, hogy a papok szombatonként a templomban megszegik a szombati nyugalmat, anélkül hogy vétkeznének? Mondom nektek: a templomnál is nagyobb van itt. Ha pedig értenétek, mit jelent a mondás: »Irgalmasságot akarok és nem áldozatot!«, akkor sohasem ítéltétek volna el az ártatlanokat. Mert az Emberfia ura a szombatnak is.”",
+  "cite": "Mt 12,1-8"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Mózes második könyvéből",
+  "summary": "Amikor eljön a húsvét ünnepe, az Úr nagy csapással fogja sújtani Egyiptom lakóit; de a húsvéti bárány vére megmenti a választott nép elsőszülötteit.",
+  "text": "Mózes és Áron végrehajtották mindazokat a csodálatos tetteket, amelyek Egyiptomot sújtották. De az Úr megkeményítette a fáraó szívét, és ő nem engedte el országából Izrael fiait.\n\nAz Úr így szólt Mózeshez és Áronhoz Egyiptomban: „Ez a hónap legyen számotokra a kezdő hónap: ez legyen az év első hónapja. Hirdessétek ki Izrael egész közösségének:\n\nA hónap tizedik napján mindenki szerezzen egy bárányt családonként és házanként. De ha a család kicsi egy bárányhoz, vegyen maga mellé a szomszédos családból annyi személyt, amennyi elég egy bárány elfogyasztásához. Az állat legyen hibátlan, hím és egyéves. Vehettek bárányt vagy kecskét. Tartsátok a hónap tizennegyedik napjáig. Akkor Izrael közösségének egész gyülekezete estefelé vágja le. Vegyenek a véréből és kenjenek belőle annak a háznak a két ajtófélfájára és szemöldökfájára, amelyben elköltik. A húsát – tűzön megsütve – még akkor éjszaka egyék meg. Kovásztalan kenyérrel és keserű salátával fogyasszák. Ne egyetek meg belőle semmit nyersen vagy vízben megfőzve, hanem csak tűzön sütve, a fejével, a lábával és belső részeivel együtt. Semmit ne tegyetek el belőle másnap reggelre. Ami másnapra megmarad, azt tűzön égessétek el.\n\nÍgy fogyasszátok: Legyen a derekatok felövezve, saru a lábatokon, bot a kezetekben. Sietve egyétek, mert ez az Úr átvonulása. Én végigvonulok azon az éjszakán Egyiptomon, és megölök minden elsőszülöttet Egyiptomban: embert és állatot, s ítéletet tartok Egyiptom minden istene fölött, én, az Úr. A vért használjátok annak a háznak a megjelölésére, amelyben laktok. Ha látom a vért, kihagylak benneteket. Titeket nem ér a megsemmisítő csapás, amellyel Egyiptomot megverem.\n\nEz a nap legyen számotokra emléknap, és üljétek meg úgy, mint az Úr ünnepét. Nemzedékről nemzedékre tegyétek meg ünnepnapnak mindörökre.”",
+  "cite": "Kiv 11,10-12,14"
+ }
+}

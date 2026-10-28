@@ -1,0 +1,32 @@
+{
+ "key": "evkozi-33-6-I",
+ "source_date": "2025-11-22",
+ "rank": "",
+ "day": "33. évközi hét szombat",
+ "psalm": {
+  "cite": "Zsolt 9,2-4 és 6.16b és 19",
+  "response": "Ujjongva Örvendek, Istenem, mert megszabadítottál engem!",
+  "verses": [
+   "Hálát adok, Uram, teljes szívemből,\nösszes csodádat elbeszélem.\nUjjongok és örvendezem benned,\nnevedről szól énekem, fölséges Istenem!",
+   "Ellenségeim meghátráltak előtted,\nelgyengültek és elpusztultak színed előtt.\nMegfenyítetted a népeket, † megsemmisítetted a gonoszt,\nmég nevüket is eltörölted mindörökre.",
+   "Lábuk fennakadt a hurokban,\namelyet ők elrejtettek.\nMert a szegényekről nem feledkezel meg végleg,\naz elesettek reménye nem vész el örökre."
+  ]
+ },
+ "alleluia": {
+  "text": "Üdvözítőnk, Jézus Krisztus győzött a halálon, és az evangéliumban felragyogtatta az örök életet.",
+  "cite": "Vö. 2Tim 1,10"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Krisztus a feltámadásban örök életet ad nekünk.",
+  "text": "Abban az időben odajárultak Jézushoz néhányan a szadduceusok közül, akik azt tartják, hogy nincs feltámadás, és megkérdezték tőle: „Mester! Mózes meghagyta nekünk: Ha valakinek meghal a testvére, és asszonyt hagy maga után, gyermeket azonban nem, akkor a testvér vegye el az özvegyet, és támasszon utódot testvérének.\n\nVolt hét testvér. Az első megnősült, aztán meghalt utód nélkül. Az asszonyt elvette a második, aztán a harmadik, majd sorra mind a hét. De mind úgy halt meg, hogy nem maradt utód utána. Végül az asszony is meghalt. A feltámadáskor vajon kié lesz az asszony? Hisz mind a hétnek felesége volt.”\n\nJézus ezt válaszolta nekik: „A világ fiai nősülnek és férjhez mennek. Akik pedig méltók rá, hogy eljussanak a másik világba és a halálból való feltámadásra, nem nősülnek, s nem is mennek férjhez. Hiszen már meg se halhatnak többé, mert az angyalokhoz hasonlítanak, és az Istennek a fiai, mert feltámadtak. Arról, hogy a halottak feltámadnak, már Mózes is beszélt a csipkebokorról szóló részben, ahol az Urat Ábrahám Istenének, Izsák Istenének és Jákob Istenének nevezi. Isten azonban nem a holtaké, hanem az élőké, hiszen mindenki érte él.”\n\nErre néhány írástudó megjegyezte: „Mester, helyesen válaszoltál.” Nem is mertek többé tőle semmit sem kérdezni.",
+  "cite": "Lk 20,27-40"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "a Makkabeusok első könyvéből",
+  "summary": "Antiokusz Epifánész az Isten népe ellen elkövetett gonoszságai miatt idegen földön, halállal bűnhődik.",
+  "text": "Amikor Antiokusz király a keleti országokat járta, hallotta, hogy az akkor perzsa uralom alatt álló Elámban van egy ezüstben, aranyban bővelkedő város. Temploma is nagyon gazdag. Ebben őrzik azokat az arany páncélokat, vérteket és pajzsokat is, amelyeket annak idején Nagy Sándor ott hagyott. Elindult tehát, hogy kifossza ezt a várost, de nem bírt vele. A város lakói ugyanis előre értesültek tervéről, és fölvették vele a harcot, úgyhogy menekülni volt kénytelen. Nagy szomorúságában visszatért Babilonba.\n\nAkkortájt valaki azt a hírt hozta neki, hogy a Júdeába küldött seregei megfutamodtak. Alvezére, Líziász is, aki hatalmas sereg élén a választott nép ellen vonult, szintén menekülni kényszerült. A választott nép fiai ugyanis megerősödtek abból a sok fegyverből és a gazdag zsákmányból, amelyet a megvert seregektől vettek el. Azt a hatalmas bálványt pedig, melyet a jeruzsálemi templom oltárán ő emeltetett, lerombolták. Sőt még magas falakkal is körülvették a szent helyet, miként azelőtt is volt. Ugyanígy vették körül az ő városát, Bétszurát is.\n\nAmikor a király erről értesült, megrendült, és nagy haragra gerjedt. Ágynak dőlt és beteggé lett, mert nem az történt, amit ő akart. Hosszú ideig betegágyában maradt, és folyton megújuló siránkozással azt hajtogatta, hogy meg kell halnia. Hívatta barátait, és így szólt hozzájuk: „Szememre nem jön álom. A bánat szinte elemészti szívemet. Azon töprengek egyre: milyen nyomorult vagyok, s a bánat tengerében milyen mélyre merülök. Pedig sokaknak voltam kedves, és mint uralkodót szerettek is. De most eszembe jutnak gonosztetteim, amelyeket Jeruzsálemben véghezvittem: elhurcoltam onnan minden arany- és ezüstedényt, és Júdeában - ok nélkül - ki akartam irtani minden embert. Tudom, hogy ezért zúdultak rám e nagy bajok; s nagy bánatomra most idegenben kell elpusztulnom.”",
+  "cite": "1Makk 6,1-13"
+ }
+}

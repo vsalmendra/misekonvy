@@ -1,0 +1,40 @@
+{
+ "key": "urnapja-C",
+ "source_date": "2025-06-22",
+ "rank": "",
+ "day": "Krisztus Szent Teste és\nVére – Úrnapja",
+ "psalm": {
+  "cite": "Zsolt 109,1.2.3.4",
+  "response": "Pap vagy te mindörökké, Melkizedek rendje szerint.",
+  "verses": [
+   "Így szólt az Úr az én Uramhoz, †”Jobbom felől foglalj\nhelyet,\nmíg minden ellenségedet lábad alá vetem zsámolyul.”",
+   "Kinyújtja az Úr Sionból hatalmad vesszejét:\n„Ellenségeid között\nuralkodjál.",
+   "Nálad van az uralom hatalmad napján,\nszent fényességben a\nhajnalcsillag előtt szültelek téged.”",
+   "Megesküdött az Úr, és meg nem bánja:\n„Pap vagy te mindörökké\nMelkizedek rendje szerint.”"
+  ]
+ },
+ "alleluia": {
+  "text": "Jézus mondja: „Én vagyok az égből szállott élő kenyér. Aki eszik ebből a kenyérből, örökké élni fog.”",
+  "cite": "Jn 6,51"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Mindnyájan ettek és jóllaktak a csodálatos kenyérből.",
+  "text": "Jézus egy magányos helyre vonult apostolaival. A nép megtudta és\n\nutána ment. Ő szívesen fogadta őket, és beszélt nekik Isten országáról,\n\nakik pedig gyógyulást kerestek nála, azokat meggyógyította.\n\nA nap már hanyatlóban volt. Odament hozzá a tizenkettő: „Bocsásd el a\n\nnépet – figyelmeztették –, hogy a környékbeli falvakban és tanyákon\n\nszállást és élelmet keressenek maguknak, mert itt elhagyatott helyen\n\nvagyunk.”\n\n„Ti adjatok nekik enni” – válaszolta. „Csak öt kenyerünk és két\n\nhalunk van – mondták. – El kellene mennünk, hogy ennivalót vegyünk\n\nennyi népnek.” Mintegy ötezer férfi volt ott.\n\nAkkor meghagyta tanítványainak: „Telepítsétek le őket ötvenes\n\ncsoportokban.”\n\nÚgy is tettek. Letelepedtek mindnyájan. Jézus pedig kezébe vette az\n\nöt kenyeret és a két halat.\n\nFöltekintett az égre, megáldotta azokat. Majd megtörte, s\n\ntanítványainak adta, hogy osszák ki a népnek.\n\nMiután mindnyájan ettek és jóllaktak, még tizenkét kosárra való\n\nmaradékot szedtek össze.",
+  "cite": "Lk 9,11b-17"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Mózes első könyvéből",
+  "summary": "Ábrahám kenyeret és bort ajánlott fel.",
+  "text": "Amikor Ábrahám győzelmet aratott az ellenség fölött, és seregével\n\nvisszatért, eléje jött Melkizedek, Sálem királya. Kenyeret és bort\n\nhozott. Ő ugyanis a magasságbeli Isten papja volt. Melkizedek\n\nmegáldotta őt, és így szólt hozzá: „Áldott legyen Ábrahám a\n\nmagasságbeli Isten előtt, aki az eget és a földet teremtette. És áldott\n\nlegyen a magasságbeli Isten, aki kezedbe adta ellenségeidet.” Ábrahám\n\npedig tizedet adott neki mindenből.",
+  "cite": "Ter 14,18-20"
+ },
+ "reading2": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a korintusiakhoz írt első leveléből",
+  "summary": "Valahányszor eszitek e kenyeret és isztok a kehelyből,\naz Úr halálát hirdetitek.",
+  "text": "Testvéreim!\n\nÉn az Úrtól kaptam, amit közöltem is veletek. Urunk Jézus\n\nazon az éjszakán, amikor elárulták, fogta a kenyeret, hálát adott,\n\nmegtörte, és így szólt: „Vegyétek és egyétek, ez az én testem, amely\n\nértetek adatik! Ezt cselekedjétek az én emlékezetemre!”\n\nA vacsora után ugyanígy fogta a kelyhet is, és így szólt: „Ez a\n\nkehely az újszövetség kelyhe az én véremben. Valahányszor isztok\n\nbelőle, tegyétek ezt az én emlékezetemre!”\n\nAmikor ugyanis e kenyeret eszitek és e kehelyből isztok, az Úr\n\nhalálát hirdetitek, amíg el nem jön.",
+  "cite": "1Kor 11,23-26"
+ }
+}
