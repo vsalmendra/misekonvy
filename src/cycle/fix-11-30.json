@@ -1,0 +1,31 @@
+{
+ "key": "fix-11-30",
+ "source_date": "2024-11-30",
+ "rank": "Ü",
+ "day": "Szent András apostol – Ü",
+ "psalm": {
+  "cite": "Zsolt 18,2-3.4-5",
+  "response": "Minden földre elhat szózatuk.",
+  "verses": [
+   "Isten dicsőségét az egek hirdetik,\na mennybolt vallja kezének művét.\nEzt harsogja át egyik nap a másiknak,\nerre oktatja éj az éjszakát.",
+   "Nem olyan hang ez, nem olyan beszéd,\nhogy meg ne értenéd szavát.\nMinden földre elhat szózatuk,\na földkerekség végéig eljut igéjük."
+  ]
+ },
+ "alleluia": {
+  "text": "Jöjjetek utánam, mondja a mi Urunk: Én emberhalászokká teszlek titeket.",
+  "cite": "Mt 4,19"
+ },
+ "gospel": {
+  "book": "Szent Máté",
+  "summary": "Ők azonnal otthagyták hálóikat és követték Jézust.",
+  "text": "A Galileai-tenger mentén járva meglátott két testvért: Simont, akit Péternek is neveznek, és Andrást, a testvérét. Éppen hálót vetettek a tengerbe, mert halászok voltak. Így szólt hozzájuk: „Kövessetek engem, és én emberek halászává teszlek titeket!” Erre azok otthagyták hálóikat, és követték őt.\n\nAmint onnan továbbment, meglátott másik két testvért is: Zebedeus fiát, Jakabot és testvérét, Jánost. Apjukkal, Zebedeussal a hálóikat javították a csónakban. Őket is elhívta. Ők is otthagyták a csónakot és az apjukat, és követték őt.",
+  "cite": "Mt 4,18-22"
+ },
+ "reading1": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a rómaiakhoz írt leveléből",
+  "summary": "A hit hallásból fakad, a hallás pedig Krisztus tanításából.",
+  "text": "Testvéreim!\n\nAzt mondom: Ha száddal vallod, hogy Jézus az Úr, és szívedben hiszed, hogy Isten feltámasztotta őt a halálból, üdvözülsz. A szívbeli hit ugyanis megigazulásra, a szájjal való megvallás pedig üdvösségre szolgál. Az írás ugyanis azt mondja: Senki nem vall szégyent, aki őbenne hisz.\n\nNincs különbség zsidó meg pogány között, mert mindnyájunknak egy az Ura. Ő bőkezű mindazokhoz, akik segítségül hívják. Mindenki, aki segítségül hívja az Úr nevét, üdvözül.\n\nDe hogyan hívhatják segítségül azt, akiben nem hisznek? S hogyan higgyenek abban, akiről nem hallottak? S hogyan halljanak róla, ha nincs, aki hirdesse? S hogyan hirdesse az, akit nem küldtek? Amint meg van írva: „Milyen szép annak a lába, aki jó hírt hoz, aki békét hirdet!”\n\nDe nem mindnyájan engedelmeskednek az evangéliumnak. Ezért mondja Izajás: „Uram, ki hitt abban, amit hallottunk?” A hit tehát hallásból fakad, a hallás pedig Krisztus tanításából.\n\nDe kérdezem: „Vajon nem hallották?” Hiszen: „Minden földre elhat szózatuk, a földkerekség végéig eljut igéjük.”",
+  "cite": "Róm 10,9-18"
+ }
+}

@@ -1,0 +1,39 @@
+{
+ "key": "advent-1-vas-C",
+ "source_date": "2024-12-01",
+ "rank": "",
+ "day": "Advent 1. vasárnapja (C év)",
+ "psalm": {
+  "cite": "Zsolt 24,4bc-5ab.8-9.10 és 14",
+  "response": "Hozzád emelem a lelkem, én Uram, Istenem.",
+  "verses": [
+   "Utaidat, Uram, mutasd meg nékem,\nösvényeidre taníts meg engem.\nTaníts és vezess igazságod szerint,\nmert te vagy üdvözítő Istenem.",
+   "Az Úr igazságos és jóságos,\nezért a bűnösöknek is utat mutat.\nAz alázatost a jóban vezérli,\na szelídet útjára tanítja.",
+   "Az Úr minden útja irgalom és hűség azoknak,\nakik szövetségét és törvényét megtartják.\nIsten barátságát élvezik, akik őt félik,\nszövetségét feltárja nékik."
+  ]
+ },
+ "alleluia": {
+  "text": "Urunk, mutasd meg nékünk irgalmas szívedet, és üdvösségedet add meg nékünk.",
+  "cite": "Zsolt 84,8"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Elközelgett a ti megváltásotok.",
+  "text": "Jézus ezeket mondta tanítványainak a világ végéről:\n\n„Jelek lesznek a Napban, a Holdban és a csillagokban, a földön pedig\n\nkétségbeesett rettegés támad a népek között a tenger zúgása és a\n\nhullámok háborgása miatt. Az emberek megdermednek a rémülettől,\n\nmiközben várják, hogy mi történik a világgal. A mindenség összetartó\n\nerői megrendülnek. Akkor majd meglátják az Emberfiát, amint eljön a\n\nfelhőkben nagy hatalommal és dicsőséggel.\n\nAmikor mindez beteljesedik, nézzetek fel, és emeljétek föl fejeteket,\n\nmert elérkezett megváltásotok.\n\nVigyázzatok, hogy el ne nehezedjék szívetek tobzódásban,\n\nrészegeskedésben és az evilági gondokban. Így majd nem ér készületlenül\n\nbenneteket az a nap. Mint a csapda, úgy csap le mindazokra, akik a\n\nföldön laknak. Virrasszatok hát és imádkozzatok szüntelenül, hogy\n\nmegmeneküljetek attól, ami majd bekövetkezik, és megállhassatok az\n\nEmberfia színe előtt.”",
+  "cite": "Lk 21,25-28.34-36"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Jeremiás próféta könyvéből",
+  "summary": "Isten elküldi a Messiást, aki Dávid nemzetségéből születik.",
+  "text": "Íme, jönnek majd napok – mondja az Úr –, amikor teljesítem a jót,\n\namelyet Izrael házának és Júda házának megígértem:\n\nAzokban a napokban és abban az időben igaz sarjat támasztok Dávidnak,\n\naki jogot és igazságot teremt az országban. Azokban a napokban\n\nmegszabadul Júda, és biztonságban él Jeruzsálem. És a várost így hívják\n\nmajd: „Az Úr a mi igazságunk!”",
+  "cite": "Jer 33,14-16"
+ },
+ "reading2": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a tesszaloniki hívekhez írt első",
+  "summary": "Krisztus e jövetelére erősítse meg szívünket az Úr.",
+  "text": "leveléből\n\nTestvéreim!\n\nGyarapítson és gazdagítson titeket az Úr a szeretetben egymás és\n\nmindenki iránt, mint ahogy mi is szeretünk titeket. Tegye állhatatossá\n\nszíveteket, hogy feddhetetlen szentségben állhassatok Istenünk és\n\nAtyánk elé, amikor a mi Urunk, Jézus majd eljön, összes szentjének\n\nkíséretében.\n\nTovábbá kérünk és intünk titeket, testvérek, Urunkban, Jézusban:\n\nMegtanultátok tőlünk, hogyan kell Istennek tetsző életet élnetek:\n\néljetek is hát így, s haladjatok egyre előbbre. Hiszen tudjátok, milyen\n\nutasításokat adtunk nektek Urunk, Jézus által.",
+  "cite": "1Tessz 3,12-4,2"
+ }
+}

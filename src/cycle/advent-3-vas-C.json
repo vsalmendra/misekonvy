@@ -1,0 +1,39 @@
+{
+ "key": "advent-3-vas-C",
+ "source_date": "2024-12-15",
+ "rank": "",
+ "day": "Advent 3. vasárnapja – Gaudete-vasárnap",
+ "psalm": {
+  "cite": "Iz 12,2-3.4bcd.5-6",
+  "response": "Ujjongj és zengjél háladalt, mert nagy és szent a te Megváltód. 6. vers.",
+  "verses": [
+   "Íme, Isten az én üdvösségem,\nbízom benne és nem félek.\nMert az Úr az én erősségem és dicsőségem,\nő lett nékem szabadulásom.\nÖrömmel meríttek majd vizet\naz üdvösség forrásaiból.",
+   "Adjatok hálát az Úrnak,\nmagasztaljátok az ő nevét.\nA népek között hirdessétek tetteit,\nemlékezzetek meg arról, hogy Fölséges az ő neve.",
+   "Zengjetek dalt az Úrnak, mert csodás dolgokat művelt,\ntudja meg az egész világ.\nUjjongjatok és dicséretet mondjatok Sion lakói,\nmert nagy a ti körötökben Izrael szentje."
+  ]
+ },
+ "alleluia": {
+  "text": "Az Úr lelke van rajtam: elküldött, hogy a szegényeknek örömhírt vigyek.",
+  "cite": "Iz 61,1"
+ },
+ "gospel": {
+  "book": "Szent Lukács",
+  "summary": "Hogyan készüljünk a Megváltó eljövetelére?",
+  "text": "Amikor Keresztelő János bűnbánatot hirdetett, a nép megkérdezte:\n\n„Mit tegyünk?”\n\n„Akinek két ruhája van – válaszolta –, az egyiket ossza meg azzal,\n\nakinek egy sincs. S akinek van ennivalója, ugyanígy tegyen.”\n\nJöttek a vámosok is, hogy megkeresztelje őket, s így szóltak hozzá:\n\n„Mester, mit tegyünk?”\n\nEzt felelte nekik: „Ne követeljetek többet, mint amennyi meg van\n\nszabva.”\n\nMegkérdezték őt a katonák is: „Hát mi mit tegyünk?”\n\nNekik így felelt: „Ne zsarnokoskodjatok, ne bántsatok senkit, hanem\n\nelégedjetek meg zsoldotokkal.”\n\nA nép feszülten várakozott. Mindnyájan azon töprengtek magukban,\n\nvajon nem János-e a Krisztus. Ezért János így szólt hozzájuk: „Én csak\n\nvízzel keresztellek titeket. De eljön majd, aki hatalmasabb, akinek\n\nsaruszíját sem vagyok méltó megoldani. Ő majd Szentlélekkel és tűzzel\n\nfog titeket megkeresztelni. Szórólapátját már a kezében tartja, hogy\n\nmegtisztítsa szérűjét: a búzát csűrébe gyűjtse, a pelyvát meg\n\nolthatatlan tűzben elégesse.”\n\nÉs még sok mással is buzdította a népet. Így hirdette nekik az\n\nüdvösséget.",
+  "cite": "Lk 3,10-18"
+ },
+ "reading1": {
+  "label": "Olvasmány",
+  "sub": "Szofoniás próféta könyvéből",
+  "summary": "Örvendjetek! Győzelmet aratott az Úr!",
+  "text": "Dalolj, Sion leánya, zengj éneket, Izrael! Örülj és ujjongj egész szívedből Jeruzsálem leánya!\n\nElvette az Úr ítéletedet, elűzte ellenségedet, Izrael királya, az Úr közöttetek van, ne félj többé semmi rossztól!\n\nAzon a napon így szólnak majd Jeruzsálemben: „Ne félj, Sion! Ne lankadjon kezed!” Veled van az Úr, a te Istened, az erős Szabadító! Örül majd neked nagy örömmel, újjáéleszt szeretetével; örül majd neked ujjongó örömmel, úgy, mintha ünnepet ülne.",
+  "cite": "Szof 3,14-18a"
+ },
+ "reading2": {
+  "label": "Szentlecke",
+  "sub": "Szent Pál apostolnak a filippiekhez írt leveléből",
+  "summary": "Közel van az Úr, örüljetek!",
+  "text": "Testvéreim!\n\nÖrüljetek az Úrban szüntelenül! Újra csak azt mondom,\n\nörüljetek. Emberszerető jóságotokat ismerje meg mindenki! Az Úr közel\n\nvan. Ne aggódjatok semmiért, hanem minden imádságotokban és\n\nkönyörgésetekben terjesszétek kéréseteket hálaadással az Úr elé.\n\nAkkor Isten békéje, amely minden értelmet meghalad, megőrzi szíveteket\n\nés értelmeteket Krisztus Jézusban.",
+  "cite": "Fil 4,4-7"
+ }
+}
