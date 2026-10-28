@@ -178,6 +178,18 @@ Et descendens cum illis, stetit in loco campestri, et turba multa discipulorum e
 label = "Hétköznapi olvasmányok"
 
 [readings.reading1]
+summary = "Szülők és gyermekek, munkaadók és beosztottak, kövessétek Krisztus példáját!"
+text = '''
+Testvéreim!
+
+A gyermekek fogadjanak szót szüleiknek az Úr kedvéért, mert így van rendjén! Ez a parancs ígérettel van egybekötve: „Tiszteld atyádat és anyádat, hogy életed Istentől áldott legyen a földön!”
+
+Apák, ne keserítsétek meg gyermekeiteket, hanem neveljétek őket fegyelemre az Úr intelmei szerint!
+
+Szolgák! Engedelmeskedjetek földi uratoknak félő tisztelettel és egyszerű szívvel, akárcsak Krisztusnak! Ne látszatra szolgáljatok, mint azok, akik emberek tetszését keresik, hanem mint Krisztus szolgái, akik szívesen teljesítik Isten akaratát. Odaadással szolgáljatok, mert az Úrnak szolgáltok, nem embereknek! Hiszen tudjátok, hogy bármi jót teszünk – akár szolga, akár szabad ember valaki – megkapja jutalmát az Úrtól.
+
+Munkaadók! Ugyanígy viselkedjetek beosztottaitok iránt! Hagyjátok abba a fenyegetőzést! Hiszen tudjátok, hogy nekik is, nektek is Uratok van a mennyben, akinél nincs személyválogatás.
+'''
 label = "Szentlecke"
 sub = "Szent Pál apostolnak az efezusiakhoz írt leveléből"
 cite = "Ef 6,1-9"
@@ -191,6 +203,26 @@ Et domini, eadem facite illis, remittentes minas, scientes quia et illorum et ve
 '''
 
 [readings.psalm]
+response = "Hűséges az Isten megtartja mind, amit ígér."
+verses = [
+'''
+Magasztaljon téged, Uram, minden műved,
+szentjeid áldást mondjanak.
+Országod dicsőségéről szóljanak,
+és hatalmadat mindenek hirdessék.
+''',
+'''
+Hirdessék az emberek hatalmas tetteid,
+királyságod fölséges dicsőségét.
+A te országod örökkévaló ország,
+uralmad megmarad nemzedékről nemzedékre.
+''',
+'''
+Hűséges az Úr minden szavában,
+és tettei szentnek hirdetik.
+Az Úr a botladozót fenntartja,
+és fölemeli, akit megaláztak.
+''']
 cite = "Zsolt 144,10-11.12-13ab.13cd-14"
 la_response = "Fidelis Dominus in omnibus verbis suis."
 la_verses = [
@@ -212,10 +244,27 @@ et erigit omnes depressos.
 ''']
 
 [readings.alleluia]
+text = "Isten meghívott minket az evangélium által, hogy részesüljünk Urunk Jézus Krisztus dicsőségében."
 cite = "2Tessz 2,14"
 la = "Deus vocavit nos per Evangelium, in acquisitionem gloriae Domini nostri Iesu Christi."
 
 [readings.gospel]
+summary = "Isten országában napkelettől napnyugatig mindenkinek helye van."
+text = '''
+Abban az időben Jézus Jeruzsálem felé tartott. Útközben tanított a városokban és falvakban, melyeken áthaladt.
+
+Valaki megkérdezte tőle: „Uram, kevesen vannak, akik üdvözülnek?”
+
+Ő így válaszolt: „Törekedjetek bemenni a szűk kapun, mert mondom nektek, sokan próbálnak majd bejutni, de nem tudnak.
+
+A ház ura felkel és bezárja az ajtót, ti kint rekedtek, és zörgetni kezdtek az ajtón: »Uram, nyiss nekünk ajtót!« Erre ő azt feleli nektek: »Nem tudom, honnan vagytok.«
+
+Akkor ti bizonygatni kezditek: »Veled ettünk és ittunk, a mi utcánkban tanítottál.« De ő megismétli: »Nem tudom, honnan vagytok. Távozzatok tőlem mind, ti, gonosztevők!«
+
+Ott majd sírás és fogcsikorgatás lesz, amikor látjátok Ábrahámot, Izsákot, Jákobot és mind a prófétákat az Isten országában, magatokat meg kitaszítva onnan.
+
+Jönnek majd keletről és nyugatról, északról és délről, és helyet foglalnak az Isten országában, íme, így lesznek az utolsókból elsők, és az elsőkből utolsók!”
+'''
 book = "Szent Lukács"
 la_book = "Lucam"
 cite = "Lk 13,22-30"

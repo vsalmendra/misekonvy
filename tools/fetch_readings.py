@@ -3,11 +3,13 @@
 
     python3 tools/fetch_readings.py 2025-11-30 2026-11-28     # a range (inclusive)
     python3 tools/fetch_readings.py 2026-11-08                # one day
+    python3 tools/fetch_readings.py --keep 2023-12-03 2025-11-29   # earlier years, fill gaps only
 
 The key comes from tools/litcal.py ("evkozi-30-2-II" = 30th week of Ordinary Time, Tuesday,
 weekday year II; "evkozi-31-vas-A"; "advent-1-3"; ...), so the readings serve every later year
 with the same cycle. Feasts and solemnities on fixed dates (igenaptár marks them "– Ü" / "– FÜ")
-are stored as "fix-MM-DD" instead. igenaptár only serves the current liturgical year.
+are stored as "fix-MM-DD" instead. igenaptár serves the current liturgical year at its root and the
+earlier ones under /<year>/ (/2024/ = Advent 2023 - Nov 2024, /2025/ = Advent 2024 - Nov 2025).
 They are shown when a day has no Mass file yet (the Order of Mass with the day's readings).
 Existing files are overwritten; check `git diff src/cycle` before committing.
 Fields as in a Mass file: reading1, psalm, reading2, alleluia (lent: true = verse before the
@@ -22,6 +24,8 @@ OUT = ROOT / 'src' / 'cycle'
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import litcal  # noqa: E402
 URL = 'https://igenaptar.katolikus.hu/nap/index.php?holnap={}'
+# Earlier liturgical years stay online under /<year of their end>/, e.g. /2024/ = Advent 2023 - Nov 2024.
+URL_YEAR = 'https://igenaptar.katolikus.hu/{}/nap/index.php?holnap={}'
 
 
 def clean(s):
@@ -140,7 +144,8 @@ def gospel(block):
 
 
 def parse(page):
-    day = re.search(r'</p>\s*<b>(.*?)</b>', page, re.S)
+    day = (re.search(r'</p>\s*<b>(.*?)</b>', page, re.S) or               # current year's page
+           re.search(r'<b>[\d-]+</b>(?:\s*<br>)*\s*<b>(.*?)</b>', page, re.S))   # archived years
     out = {'day': clean(day.group(1)) if day else ''}
     readings = []
     for block in re.findall(r'(?is)<p align="justify">(.*?)</p>', page):
@@ -163,7 +168,23 @@ def parse(page):
     return out
 
 
+def fetch(d):
+    """The day's page: the current liturgical year at the root, earlier ones under /<year>/."""
+    lit_year = d.year + 1 if d >= litcal.advent1(d.year) else d.year
+    for url in (URL.format(d.isoformat()), URL_YEAR.format(lit_year, d.isoformat())):
+        try:
+            with urllib.request.urlopen(url, timeout=30) as r:
+                page = r.read().decode('utf-8', 'replace')
+        except OSError:          # the root answers 500 for dates outside the current year
+            continue
+        if 'SZENTLECKE' in page or 'OLVASMÁNY' in page:
+            return page
+    raise ValueError('no page for this date')
+
+
 def main(argv):
+    keep = '--keep' in argv            # do not overwrite readings already stored for a liturgical day
+    argv = [a for a in argv if a != '--keep']
     if not argv:
         sys.exit(__doc__)
     a = Date.fromisoformat(argv[0])
@@ -173,13 +194,14 @@ def main(argv):
     d = a
     while d <= b:
         try:
-            with urllib.request.urlopen(URL.format(d.isoformat()), timeout=30) as r:
-                page = r.read().decode('utf-8', 'replace')
-            data = parse(page)
+            data = parse(fetch(d))
             rank = re.search(r'[–-]\s*(FÜ|Ü)\b', data['day'])
             key = litcal.key(d)
             if rank and not litcal.is_special(key):
                 key = f'fix-{d.month:02d}-{d.day:02d}'
+            if keep and (OUT / f'{key}.json').exists():
+                d += timedelta(days=1)
+                continue
             data = {'key': key, 'source_date': d.isoformat(), 'rank': rank.group(1) if rank else '', **data}
             (OUT / f'{key}.json').write_text(json.dumps(data, ensure_ascii=False, indent=1) + '\n', encoding='utf-8')
             print(f'{d}  {key:28} {data["day"][:45]:45} | {litcal.label(d)}')
