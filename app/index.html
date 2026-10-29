@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="theme-color" content="#a3171b">
 <meta name="color-scheme" content="light dark">
-<meta name="build" content="ca7b95e2b9">
+<meta name="build" content="d359d04038">
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="icon" href="icon-192.png">
 <link rel="apple-touch-icon" href="apple-touch-icon.png">
@@ -76,23 +76,25 @@ nav.parts.open { transform: none; opacity: 1; visibility: visible; transition: t
 .menu-sep { border: 0; border-top: 1px solid var(--line); margin: .3rem .2rem; }
 nav.parts button:focus-visible, button:focus-visible { outline: 2px solid var(--rubric); outline-offset: 2px; }
 /* Jump list ("Magyar" / "Latin–magyar"): a sheet at the bottom of the screen listing every part of the Mass */
-#toc { border: 1px solid var(--line); border-radius: 16px; background: var(--bg); color: var(--fg); padding: 0; box-sizing: border-box;
-  width: min(28rem, calc(100vw - 24px)); max-height: min(82vh, 46rem); margin: auto auto calc(env(safe-area-inset-bottom, 0px) + 12px);
+/* sizes in em of the text size (A−/A+): the list grows with the reading text */
+#toc { font-size: var(--size); border: 1px solid var(--line); border-radius: 16px; background: var(--bg); color: var(--fg); padding: 0; box-sizing: border-box;
+  width: min(34em, calc(100vw - 24px)); max-height: min(82vh, 46rem); margin: auto auto calc(env(safe-area-inset-bottom, 0px) + 12px);
   box-shadow: 0 8px 30px rgba(0,0,0,.25); }
 #toc[open] { display: flex; flex-direction: column; }
 #toc::backdrop { background: rgba(0,0,0,.35); }
 .toc-head { display: flex; align-items: center; justify-content: space-between; gap: .5rem; padding: .8rem 1rem .6rem; border-bottom: 1px solid var(--line); }
-.toc-head strong { font-family: var(--f-cap); color: var(--rubric); letter-spacing: .05em; font-weight: 700; }
-.toc-switch { font: 14px var(--f-cap); letter-spacing: .03em; color: var(--rubric); background: none; border: 1px solid var(--line); border-radius: 999px; padding: .2rem .7rem; cursor: pointer; }
+.toc-head strong { font-size: .9em; min-width: 0; font-family: var(--f-cap); color: var(--rubric); letter-spacing: .05em; font-weight: 700; }
+.toc-switch { font: .8em var(--f-cap); flex: none; letter-spacing: .03em; color: var(--rubric); background: none; border: 1px solid var(--line); border-radius: 999px; padding: .2rem .7rem; cursor: pointer; }
 .toc-list { list-style: none; margin: 0; padding: .3rem .5rem; overflow-y: auto; flex: 1 1 auto; overscroll-behavior: contain; }
-.toc-list button { display: flex; align-items: baseline; gap: .5rem; width: 100%; text-align: left; cursor: pointer; font: 16px/1.25 var(--f-body);
+.toc-list button { display: flex; align-items: baseline; gap: .5rem; width: 100%; text-align: left; cursor: pointer; font: 1em/1.25 var(--f-body);
   color: var(--fg); background: none; border: 0; border-radius: 8px; padding: .42rem .5rem .42rem 1.1rem; }
 .toc-list .lv2 button { font-family: var(--f-cap); font-weight: 700; color: var(--rubric); letter-spacing: .04em; padding-left: .5rem; margin-top: .45rem; }
-.toc-list .lv4 button { padding-left: 2rem; font-size: 15px; color: var(--muted); }
+.toc-list .lv4 button { padding-left: 2rem; font-size: .94em; color: var(--muted); }
 .toc-list button[aria-current="true"] { background: var(--chip); box-shadow: inset 3px 0 0 var(--rubric); }
 .toc-list .t { flex: 1 1 auto; min-width: 0; }
-.toc-list .la { display: block; font-size: 13px; font-style: italic; color: var(--muted); font-family: var(--f-body); font-weight: 400; letter-spacing: 0; }
-.toc-list .sub { flex: none; font-size: 13px; color: var(--muted); font-style: normal; }
+.toc-list .la { display: block; font-size: .8em; font-style: italic; color: var(--muted); font-family: var(--f-body); font-weight: 400; letter-spacing: 0; }
+.toc-list .sub { flex: 0 1 auto; text-align: right; font-size: .8em; color: var(--muted); font-style: normal; }
+#toc-close { font-size: .8em; height: 2.4em; }
 .toc-foot { display: flex; justify-content: flex-end; padding: .5rem 1rem .8rem; border-top: 1px solid var(--line); }
 section { padding-top: .5rem; }
 h2.part { font-family: var(--f-cap); font-weight: 700; color: var(--rubric); text-align: center; font-size: 1.15em; letter-spacing: .05em;
@@ -384,7 +386,7 @@ body.empty #top, body.empty #jump-latin, body.empty #notice, body.empty .legend 
     tocMode = mode;
     setMenu(false);
     var list = $('toc-list'), entries = tocEntries(mode), cur = null;
-    $('toc-title').textContent = mode === 'hu' ? 'Magyar szöveg' : 'Latin–magyar szöveg';
+    $('toc-title').textContent = mode === 'hu' ? 'Magyar' : 'Latin–magyar';
     $('toc-switch').textContent = mode === 'hu' ? 'Latin–magyar ›' : 'Magyar ›';
     list.textContent = '';
     entries.forEach(function (e) {
