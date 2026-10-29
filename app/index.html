@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="theme-color" content="#a3171b">
 <meta name="color-scheme" content="light dark">
-<meta name="build" content="d359d04038">
+<meta name="build" content="2d1a99e19d">
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="icon" href="icon-192.png">
 <link rel="apple-touch-icon" href="apple-touch-icon.png">
@@ -93,7 +93,6 @@ nav.parts button:focus-visible, button:focus-visible { outline: 2px solid var(--
 .toc-list button[aria-current="true"] { background: var(--chip); box-shadow: inset 3px 0 0 var(--rubric); }
 .toc-list .t { flex: 1 1 auto; min-width: 0; }
 .toc-list .la { display: block; font-size: .8em; font-style: italic; color: var(--muted); font-family: var(--f-body); font-weight: 400; letter-spacing: 0; }
-.toc-list .sub { flex: 0 1 auto; text-align: right; font-size: .8em; color: var(--muted); font-style: normal; }
 #toc-close { font-size: .8em; height: 2.4em; }
 .toc-foot { display: flex; justify-content: flex-end; padding: .5rem 1rem .8rem; border-top: 1px solid var(--line); }
 section { padding-top: .5rem; }
@@ -350,10 +349,12 @@ body.empty #top, body.empty #jump-latin, body.empty #notice, body.empty .legend 
 
   // Jump lists: "Magyar" (the Hungarian text) and "Latin–magyar" (the bilingual section). Built from the
   // page each time they open, so they list exactly what is shown: the parts of the Mass (h2), every
-  // heading (h3) and the marked points inside long texts (data-toc: consecration, doxology …), with the
-  // citation of the readings and the chosen preface / Eucharistic prayer. The current place is marked.
+  // heading (h3) and the marked points inside long texts (data-toc: consecration, doxology …). Only the
+  // structural names: nothing of the day's Mass (no citations, no titles of the chosen preface or
+  // Eucharistic prayer). The current place is marked.
   var toc = $('toc'), tocMode = 'hu';
-  var CHOSEN = { 'Prefáció': 'sel-pref', 'Eucharisztikus ima': 'sel-ep' };
+  // the Latin section titles the chosen preface / Eucharistic prayer; the list names only the part
+  var GENERIC = { pref: ['Prefáció', 'Praefatio'], ep: ['Eucharisztikus ima', 'Prex eucharistica'] };
   function visible(el) { return !el.closest('[hidden]') && el.getClientRects().length > 0; }
   function tocEntries(mode) {
     var out = [], la = $('latin');
@@ -361,10 +362,7 @@ body.empty #top, body.empty #jump-latin, body.empty #notice, body.empty .legend 
       document.querySelectorAll('#mass > section:not(.bilingual)').forEach(function (sec) {
         sec.querySelectorAll('h2.part, h3, [data-toc]').forEach(function (el) {
           if (!visible(el)) return;
-          var e = { el: el, lv: el.tagName === 'H2' ? 2 : el.tagName === 'H3' ? 3 : 4, text: el.dataset.toc || el.textContent, sub: el.dataset.tocSub || '' };
-          var sel = CHOSEN[e.text] && $(CHOSEN[e.text]);
-          if (sel) e.sub = sel.options[sel.selectedIndex].text;
-          out.push(e);
+          out.push({ el: el, lv: el.tagName === 'H2' ? 2 : el.tagName === 'H3' ? 3 : 4, text: el.dataset.toc || el.textContent });
         });
       });
     } else if (la) {
@@ -372,8 +370,8 @@ body.empty #top, body.empty #jump-latin, body.empty #notice, body.empty .legend 
         if (!visible(el)) return;
         if (el.tagName === 'H2') { out.push({ el: el, lv: 2, text: el.textContent }); return; }
         if (el.dataset.toc) { out.push({ el: el, lv: 4, text: el.dataset.toc, la: el.dataset.tocLa || '' }); return; }
-        var l = el.previousElementSibling;
-        out.push({ el: el, lv: 3, text: el.textContent, la: l && l.matches('h3.bi-l') ? l.textContent : '', sub: el.dataset.tocSub || '' });
+        var l = el.previousElementSibling, v = el.closest('.variants'), g = v && GENERIC[v.dataset.group];
+        out.push({ el: el, lv: 3, text: g ? g[0] : el.textContent, la: g ? g[1] : l && l.matches('h3.bi-l') ? l.textContent : '' });
       });
     }
     return out;
@@ -394,7 +392,6 @@ body.empty #top, body.empty #jump-latin, body.empty #notice, body.empty .legend 
       li.className = 'lv' + e.lv; b.type = 'button'; t.className = 't'; t.textContent = e.text;
       if (e.la) { var l = document.createElement('span'); l.className = 'la'; l.lang = 'la'; l.textContent = e.la; t.appendChild(l); }
       b.appendChild(t);
-      if (e.sub) { var s = document.createElement('span'); s.className = 'sub'; s.textContent = e.sub; b.appendChild(s); }
       b.addEventListener('click', function () { toc.close(); jump(e.el); });
       li.appendChild(b); list.appendChild(li);
       if (e.el.getBoundingClientRect().top <= 80) cur = b;     // the last part already reached = where the reader is

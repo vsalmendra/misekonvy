@@ -92,13 +92,8 @@ def noted(block, note):
     return block.replace(BLANK, f'<p class="bi-l la-blank la-note">{esc(note)}</p>', 1)
 
 
-def toc_sub(c):
-    """Detail shown next to a heading in the jump list (e.g. the citation of a reading)."""
-    return f' data-toc-sub="{html.escape(c)}"' if c else ''
-
-
-def bi_h3(la, hu, sub=''):
-    return f'<h3 class="bi-l">{la}</h3><h3 class="bi-r"{toc_sub(sub)}>{hu}</h3>'
+def bi_h3(la, hu):
+    return f'<h3 class="bi-l">{la}</h3><h3 class="bi-r">{hu}</h3>'
 
 
 def bi_h2(text):
@@ -217,7 +212,7 @@ def bi_prayer(la_title, hu_title, opts, intro, group):
 # ---------- readings ----------
 
 def reading(r):
-    out = [f'<h3{toc_sub(r["cite"])}>{esc(r.get("label", "Olvasmány"))}</h3>', p(esc(r['sub']), 'sub')]
+    out = [f'<h3>{esc(r.get("label", "Olvasmány"))}</h3>', p(esc(r['sub']), 'sub')]
     if r.get('summary'):
         out.append(p(esc(r['summary']), 'rub'))
     out += [paras(r['text']) if r.get('text') else p(NO_HU, 'rub'),
@@ -226,15 +221,15 @@ def reading(r):
 
 
 def bi_reading(r):
-    return (bi_h3('Lectio', esc(r.get('label', 'Olvasmány')), r['cite']) +
+    return (bi_h3('Lectio', esc(r.get('label', 'Olvasmány'))) +
             noted(bi(esc(r.get('la_sub', '')), esc(r['sub']), 'rub') + bi_paras(r.get('la'), r.get('text', '')), NO_LATIN) +
             bi('Verbum Dómini.', 'Ez az Isten igéje.') + bi('Deo grátias.', 'Istennek legyen hála.', 'resp') + bi_cite(r['cite']))
 
 
 def psalm(s):
     if not s.get('response'):
-        return '\n'.join([f'<h3{toc_sub(s["cite"])}>Válaszos zsoltár</h3>', cite(s['cite']), p(NO_HU, 'rub')])
-    out = [f'<h3{toc_sub(s["cite"])}>Válaszos zsoltár</h3>', cite(s['cite']), resp(s['response'])]
+        return '\n'.join([f'<h3>Válaszos zsoltár</h3>', cite(s['cite']), p(NO_HU, 'rub')])
+    out = [f'<h3>Válaszos zsoltár</h3>', cite(s['cite']), resp(s['response'])]
     for v in s['verses']:
         out += [p(lines(v), 'verse'), resp(s['response'])]
     return '\n'.join(out)
@@ -246,7 +241,7 @@ def bi_psalm(s):
     out = bi(la_r, hu_r, 'resp')
     for la, hu in zip_longest(s.get('la_verses', []), s.get('verses', [])):
         out += bi(lines(la) if la else '', lines(hu) if hu else '', 'verse') + bi(la_r, hu_r, 'resp')
-    return bi_h3('Psalmus responsorius', 'Válaszos zsoltár', s['cite']) + bi_cite(s['cite']) + noted(out, NO_LATIN)
+    return bi_h3('Psalmus responsorius', 'Válaszos zsoltár') + bi_cite(s['cite']) + noted(out, NO_LATIN)
 
 
 def alleluia(a):
@@ -265,7 +260,7 @@ def bi_alleluia(a):
 
 
 def gospel(g):
-    out = [f'<h3{toc_sub(g["cite"])}>Evangélium</h3>', p('Az Úr legyen veletek.'), resp('És a te lelkeddel.'),
+    out = [f'<h3>Evangélium</h3>', p('Az Úr legyen veletek.'), resp('És a te lelkeddel.'),
            p(f'Evangélium {esc(g["book"])} könyvéből.'), resp('Dicsőség neked, Istenünk.')]
     if g.get('summary'):
         out.append(p(esc(g['summary']), 'rub'))
@@ -276,7 +271,7 @@ def gospel(g):
 
 def bi_gospel(g):
     book = f'Léctio sancti Evangélii secúndum {esc(g["la_book"])}.' if g.get('la_book') else ''
-    return (bi_h3('Evangelium', 'Evangélium', g['cite']) + bi('Dóminus vobíscum.', 'Az Úr legyen veletek.') +
+    return (bi_h3('Evangelium', 'Evangélium') + bi('Dóminus vobíscum.', 'Az Úr legyen veletek.') +
             bi('Et cum spíritu tuo.', 'És a te lelkeddel.', 'resp') +
             noted(bi(book, f'Evangélium {esc(g["book"])} könyvéből.') + bi('Glória tibi, Dómine.', 'Dicsőség neked, Istenünk.', 'resp') +
                   bi_paras(g.get('la'), g.get('text', '')), NO_LATIN) + bi('Verbum Dómini.', 'Ezek az evangélium igéi.') +
