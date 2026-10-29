@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="theme-color" content="#a3171b">
 <meta name="color-scheme" content="light dark">
-<meta name="build" content="2803bd9d77">
+<meta name="build" content="ca7b95e2b9">
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="icon" href="icon-192.png">
 <link rel="apple-touch-icon" href="apple-touch-icon.png">
@@ -249,7 +249,12 @@ body.empty #top, body.empty #jump-latin, body.empty #notice, body.empty .legend 
   var dates = [], titles = {}, current = null;
   function iso(d) { return d.getFullYear() + '-' + ('0' + (d.getMonth() + 1)).slice(-2) + '-' + ('0' + d.getDate()).slice(-2); }
   function short(s) { var p = s.split('-'); return MONTHS[+p[1] - 1] + ' ' + (+p[2]) + '.'; }
-  var today = iso(new Date());
+  // The day whose Mass the app opens on: today, or from 19:30 local time tomorrow (the evening Mass is
+  // over, the next one is prepared). `today` below always means this day.
+  var EVENING = 19 * 60 + 30;
+  function massDay() { var d = new Date(); if (d.getHours() * 60 + d.getMinutes() >= EVENING) d.setDate(d.getDate() + 1); return iso(d); }
+  function evening() { return today !== iso(new Date()); }
+  var today = massDay();
   function getJSON(url) { return fetch(url, { cache: 'no-cache' }).then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); }); }
 
   function wire(box) {
@@ -419,7 +424,7 @@ body.empty #top, body.empty #jump-latin, body.empty #notice, body.empty .legend 
   function ordinary(msg) {
     current = null;
     return getJSON('data/ordinary.json').then(function (m) {
-      var d = new Date();
+      var d = new Date(today + 'T12:00:00');
       $('m-date').textContent = d.getFullYear() + '. ' + MONTHS[d.getMonth()] + ' ' + d.getDate() + '. · ' + DAYS[d.getDay()];
       $('m-title').textContent = 'A szentmise állandó részei'; $('m-rank').textContent = ''; $('m-meta').textContent = '';
       document.title = 'Napi szentmise';
@@ -460,7 +465,8 @@ body.empty #top, body.empty #jump-latin, body.empty #notice, body.empty .legend 
       titles = {}; c.masses.forEach(function (m) { titles[m.date] = m.title; });
       dates = Object.keys(titles).sort();
       var target = back && back.date && back.date !== today && titles[back.date] ? back.date : (titles[today] ? today : null);
-      var shown = target ? show(target) : ordinary('A mai napra (' + short(today) + ') még nincs miseszöveg; itt a szentmise állandó részei.');
+      var shown = target ? show(target, target === today && evening() ? '19:30 után már a holnapi mise látható; a maié a 📅 Másik nap alatt.' : '')
+        : ordinary((evening() ? '19:30 után már a holnapi nap látható. A holnapi napra (' : 'A mai napra (') + short(today) + ') még nincs miseszöveg; itt a szentmise állandó részei.');
       if (back && (back.date || null) === target) shown.then(function () { window.scrollTo(0, back.y || 0); });
       return shown;
     }).catch(function () { current = null; ordinary('A naptár nem tölthető be (nincs internet?); itt a szentmise állandó részei.'); });
@@ -502,12 +508,12 @@ body.empty #top, body.empty #jump-latin, body.empty #notice, body.empty .legend 
   checkUpdate();
 
   // Installed app: the phone often resumes it instead of starting it again. When it comes back on a
-  // new day and was showing that day's Mass (or the Order of Mass), move on to the new day; and look
-  // for a newer version.
+  // new day (or after 19:30, when the app's day becomes tomorrow) and was showing that day's Mass (or
+  // the Order of Mass), move on to the new day; and look for a newer version.
   document.addEventListener('visibilitychange', function () {
     if (document.visibilityState !== 'visible') return;
     touched = false;
-    var now = iso(new Date());
+    var now = massDay();
     if (now !== today) {
       var wasToday = current === null || current === today;
       today = now;

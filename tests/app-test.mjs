@@ -34,10 +34,10 @@ let failures = 0;
 function check(ok, what) { console.log(`${ok ? 'ok  ' : 'FAIL'} ${what}`); if (!ok) failures++; }
 
 // A page whose clock says `day` 08:00 local time; ctx.clock.setSystemTime moves it (app resumed next day).
-async function open(day, path = '', { blockCalendar = false, blockOrdinary = false, version } = {}) {
+async function open(day, path = '', { blockCalendar = false, blockOrdinary = false, version, time = '08:00' } = {}) {
   const ctx = await browser.newContext({ viewport: { width: 390, height: 844 }, serviceWorkers: 'block' });
   // Playwright's clock: the faked date survives reloads, like a real phone's date.
-  await ctx.clock.install({ time: new Date(day + 'T08:00:00') });
+  await ctx.clock.install({ time: new Date(`${day}T${time}:00`) });
   if (blockCalendar) await ctx.route('**/data/calendar.json', r => r.abort());
   if (blockOrdinary) await ctx.route('**/data/ordinary.json', r => r.abort());
   // version.json as the server would answer it: the real file, or a newer build ("new"), or offline (null)
@@ -56,7 +56,7 @@ async function open(day, path = '', { blockCalendar = false, blockOrdinary = fal
     logo: await page.evaluate(() => document.body.classList.contains('empty')),
     title: await page.textContent('#m-title'),
   });
-  const setDay = d => ctx.clock.setSystemTime(new Date(d + 'T08:00:00'));
+  const setDay = (d, t = '08:00') => ctx.clock.setSystemTime(new Date(`${d}T${t}:00`));
   const resume = async (ms = 1500) => { await page.evaluate(() => document.dispatchEvent(new Event('visibilitychange'))); await page.waitForTimeout(ms); };
   const serve = v => { served = v; };
   return { ctx, page, loads, errors, state, setDay, resume, serve };
@@ -247,6 +247,34 @@ if (dates.length > 1) {
   await t.page.mouse.wheel(0, 10);
   await t.page.waitForTimeout(2000);
   check(t.loads.length === 1, 'slow version answer after the reader scrolled: no reload');
+  await t.ctx.close();
+}
+
+// 8. From 19:30 local time the app opens on the next day's Mass; before, on today's.
+if (dates.length > 1) {
+  const [a, b] = dates.slice(-2);
+  const eve = shift(b, -1), title = d => cal.find(m => m.date === d).title;
+  const late = await open(eve, '', { time: '19:30' });
+  const s1 = await late.state();
+  check(s1.title === title(b) && late.loads.length === 1 && await late.page.isVisible('#notice'), `${eve} 19:30: opens the next day's Mass ("${s1.title}") with a note`);
+  await late.ctx.close();
+  const early = await open(eve, '', { time: '19:29' });
+  const s2 = await early.state();
+  check(eve === a ? s2.title === title(a) : s2.empty, `${eve} 19:29: still today's (${eve === a ? s2.title : 'Order of Mass'})`);
+  // resumed in the evening: moves on to tomorrow
+  await early.setDay(eve, '20:15');
+  await early.resume();
+  const s3 = await early.state();
+  check(s3.title === title(b) && early.loads.length === 1, `${eve} resumed at 20:15: moves on to ${b} ("${s3.title}")`);
+  await early.ctx.close();
+}
+{
+  const day = shift(last, 1);   // evening before a day without a Mass: tomorrow's Order of Mass, tomorrow's date
+  const t = await open(last, '', { time: '21:00' });
+  const s = await t.state();
+  const date = await t.page.textContent('#m-date');
+  const [y, m, d] = day.split('-').map(Number);
+  check(s.ordinary && date.startsWith(`${y}. `) && date.includes(` ${d}. ·`), `${last} 21:00: Order of Mass of ${day} (${date})`);
   await t.ctx.close();
 }
 

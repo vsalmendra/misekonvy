@@ -9,7 +9,8 @@ content over time. This CLAUDE.md is the source of truth. Claude Code commits an
   `sw.js`, icons, and the Mass database `app/data/` (generated, committed):
   `calendar.json` (dates that have a Mass) and `masses/<date>.json`.
   **Only this folder is published.** All paths inside it are relative (`./`), so it works from any URL.
-  The app takes the day from the device's date only (no URL parameters): today's Mass; the 📅 button
+  The app takes the day from the device's date only (no URL parameters): today's Mass — **from 19:30
+  local time tomorrow's** (on opening or resuming; with a note; today's stays in the 📅 picker); the 📅 button
   in the menu offers only dates that have a Mass. No Mass for today → **the Order of Mass alone**
   (`app/data/ordinary.json`: fixed parts, placeholders for the day's prayers, prefaces of EP II and IV,
   all four EPs, Latin section) **with the readings of the liturgical day**: `app/data/days.json` maps
