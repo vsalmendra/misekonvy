@@ -16,9 +16,13 @@ content over time. This CLAUDE.md is the source of truth. Claude Code commits an
   each date (2026-10 … 2029) to its liturgical day (`tools/litcal.py`) and the key of its readings,
   `app/data/cycle/<key>.json`; any year with the same cycle reuses them,
   plus "Újratöltés" and "Másik nap"; only if nothing can load, the logo.
-  If today is after the last Mass, the app reloads fresh once by itself (marker in the tab's
-  sessionStorage; without storage it never reloads by itself, so it never loops). An installed app
-  resumed on a new day moves on to that day.
+  **Automatic update (2026-10-29):** the build stamps a hash of `app/` into `index.html`
+  (`<meta name="build">`), `version.json` and the SW cache name. At launch and on every resume the page
+  fetches `version.json` (no-store; the SW never answers it from cache); if it differs, it clears its
+  caches and reloads, keeping the open day and scroll position — only if the reader has not touched the
+  page since it opened/came back (else it waits for the next resume), never offline, and at most once per
+  server version per 15 min (marker in the tab's sessionStorage; without storage never), so a stale CDN
+  copy cannot cause a loop. An installed app resumed on a new day moves on to that day.
 - `src/` — sources of the database: `library/` (Order of Mass, Eucharistic prayers, prefaces,
   `commons/`) and `masses/<date>.toml` + `masses/<date>.md` (the day's recipe/instructions).
   `cycle/<key>.json`: lectionary readings by liturgical day (key from `tools/litcal.py`, e.g.
@@ -30,8 +34,8 @@ content over time. This CLAUDE.md is the source of truth. Claude Code commits an
   three years, and the complex days (Palm Sunday, Good Friday, Holy Saturday, 24 Dec, 2 Nov …).
 - `tools/build.py` — `python3 tools/build.py` rebuilds `app/data/` and bumps the SW cache name.
   Always run it and commit its output after changing `src/`.
-- `tests/app-test.mjs` — browser test (day selection, single automatic reload, no loops, resume on a
-  new day). The publish job runs it first; if it fails, nothing is deployed. Locally:
+- `tests/app-test.mjs` — browser test (day selection, automatic update: one reload per version, no loops,
+  not while reading, not offline; resume on a new day). The publish job runs it first; if it fails, nothing is deployed. Locally:
   `npm i --no-save playwright@1.56.1 && npx playwright install chromium && node tests/app-test.mjs`.
 - `docs/ASSEMBLY.md` — **how a Mass is assembled**: file format and the rules learnt so far.
   Read it before adding a day; move recurring patterns from the day recipes into it.

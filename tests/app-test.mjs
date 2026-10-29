@@ -1,4 +1,4 @@
-// Browser test of the app's day selection and reload behaviour. Runs before every deploy.
+// Browser test of the app's day selection and automatic update (reload) behaviour. Runs before every deploy.
 //
 //   npm i --no-save playwright@1.56.1 && npx playwright install chromium   (once)
 //   python3 tools/build.py && node tests/app-test.mjs
@@ -34,12 +34,15 @@ let failures = 0;
 function check(ok, what) { console.log(`${ok ? 'ok  ' : 'FAIL'} ${what}`); if (!ok) failures++; }
 
 // A page whose clock says `day` 08:00 local time; ctx.clock.setSystemTime moves it (app resumed next day).
-async function open(day, path = '', { blockCalendar = false, blockOrdinary = false } = {}) {
+async function open(day, path = '', { blockCalendar = false, blockOrdinary = false, version } = {}) {
   const ctx = await browser.newContext({ viewport: { width: 390, height: 844 }, serviceWorkers: 'block' });
   // Playwright's clock: the faked date survives reloads, like a real phone's date.
   await ctx.clock.install({ time: new Date(day + 'T08:00:00') });
   if (blockCalendar) await ctx.route('**/data/calendar.json', r => r.abort());
   if (blockOrdinary) await ctx.route('**/data/ordinary.json', r => r.abort());
+  // version.json as the server would answer it: the real file, or a newer build ("new"), or offline (null)
+  let served = version;
+  await ctx.route('**/version.json', r => served === undefined ? r.continue() : served === null ? r.abort() : r.fulfill({ json: { build: served } }));
   const page = await ctx.newPage();
   const loads = [], errors = [];
   page.on('request', r => { if (r.resourceType() === 'document') loads.push(r.url().replace(BASE, '/')); });
@@ -54,7 +57,9 @@ async function open(day, path = '', { blockCalendar = false, blockOrdinary = fal
     title: await page.textContent('#m-title'),
   });
   const setDay = d => ctx.clock.setSystemTime(new Date(d + 'T08:00:00'));
-  return { ctx, page, loads, errors, state, setDay };
+  const resume = async (ms = 1500) => { await page.evaluate(() => document.dispatchEvent(new Event('visibilitychange'))); await page.waitForTimeout(ms); };
+  const serve = v => { served = v; };
+  return { ctx, page, loads, errors, state, setDay, resume, serve };
 }
 
 // 1. A day with a Mass opens it, without any reload.
@@ -77,7 +82,7 @@ async function open(day, path = '', { blockCalendar = false, blockOrdinary = fal
   await t.ctx.close();
 }
 
-// 2. After the last Mass: exactly one automatic fresh reload, then the logo; the button reloads once more, no loop.
+// 2. After the last Mass: the Order of Mass, no automatic reload (the version is the same); the button reloads once.
 {
   const day = shift(last, 3);
   const t = await open(day);
@@ -88,11 +93,11 @@ async function open(day, path = '', { blockCalendar = false, blockOrdinary = fal
   const eps = await t.page.$$eval('#sel-ep option', o => o.map(x => x.value));
   check(prefs.join() === 'ep2,ep4' && eps.length === 4, `${day}: prefaces ${prefs.join(', ')}; ${eps.length} Eucharistic prayers`);
   check(await t.page.isVisible('#empty-reload') && await t.page.isVisible('#latin'), `${day}: reload button and Latin section present`);
-  check(t.loads.length === 2, `${day}: exactly one automatic reload (${t.loads.join(' → ')})`);
+  check(t.loads.length === 1, `${day}: no automatic reload (${t.loads.join(' → ')})`);
   check(t.loads.every(u => u === '/') && t.page.url() === BASE, `${day}: the address never changes`);
   await t.page.click('#empty-reload');
   await t.page.waitForTimeout(2500);
-  check(t.loads.length === 3, `${day}: "Újratöltés" reloads exactly once (${t.loads.length} page loads)`);
+  check(t.loads.length === 2, `${day}: "Újratöltés" reloads exactly once (${t.loads.length} page loads)`);
   check((await t.state()).ordinary, `${day}: still the Order of Mass after the manual reload`);
   check(t.errors.length === 0, `${day}: no script errors ${t.errors.join(' ')}`);
   await t.ctx.close();
@@ -145,7 +150,7 @@ for (const day of [shift(first, -1), gap].filter(Boolean)) {
   await t.ctx.close();
 }
 
-// 6. Installed app resumed on a new day: follows the date; after the last Mass it reloads only once.
+// 6. Installed app resumed on a new day: follows the date, without reloading (same version).
 {
   const t = await open(last);
   const next = shift(last, 1);
@@ -153,10 +158,7 @@ for (const day of [shift(first, -1), gap].filter(Boolean)) {
   await t.page.evaluate(() => document.dispatchEvent(new Event('visibilitychange')));
   await t.page.waitForTimeout(2500);
   check((await t.state()).empty, `resumed on ${next}: Order of Mass`);
-  check(t.loads.length === 2, `resumed on ${next}: one reload only (${t.loads.join(' → ')})`);
-  await t.page.evaluate(() => document.dispatchEvent(new Event('visibilitychange')));
-  await t.page.waitForTimeout(1500);
-  check(t.loads.length === 2, `resumed again on ${next}: no further reload`);
+  check(t.loads.length === 1, `resumed on ${next}: no reload (${t.loads.join(' → ')})`);
   await t.ctx.close();
 }
 if (dates.length > 1) {
@@ -167,6 +169,66 @@ if (dates.length > 1) {
   await t.page.waitForTimeout(1500);
   const s = await t.state();
   check(s.title === cal.find(m => m.date === b).title && t.loads.length === 1, `resumed from ${a} on ${b}: shows ${b}, no reload`);
+  await t.ctx.close();
+}
+
+// 7. Automatic update: a newer version on the server reloads the page once; if the old page is still
+//    served after the reload (CDN), no further reload for 15 minutes, then one more try. No loop.
+{
+  const t = await open(last, '', { version: 'new' });
+  await t.page.waitForTimeout(1500);
+  check(t.loads.length === 2, `new version: exactly one automatic reload (${t.loads.length} page loads)`);
+  await t.resume();
+  check(t.loads.length === 2, 'new version, old page still served: resumed, no further reload');
+  await t.ctx.clock.setSystemTime(new Date(Date.parse(last + 'T08:00:00') + 16 * 60 * 1000));
+  await t.resume(2500);
+  check(t.loads.length === 3, `16 minutes later, resumed: one more try (${t.loads.length} page loads)`);
+  await t.resume();
+  check(t.loads.length === 3, 'resumed again at once: no further reload');
+  check(t.errors.length === 0, `update: no script errors ${t.errors.join(' ')}`);
+  await t.ctx.close();
+}
+
+// 7b. Offline (version.json not loadable): never reloads.
+{
+  const t = await open(last, '', { version: null });
+  await t.resume();
+  check(t.loads.length === 1 && !(await t.state()).empty, 'version unreachable: today\'s Mass, no reload');
+  await t.ctx.close();
+}
+
+// 7c. Published while the app is open: nothing happens while reading; on resume it reloads, keeping the
+//     day that was open (another day chosen in the picker) and the scroll position.
+if (dates.length > 1) {
+  const other = dates[0];
+  const t = await open(last);
+  await t.page.click('#menu-fab'); await t.page.click('#pick-date');
+  while (!(await t.page.$(`#cal-grid button[data-date="${other}"]`))) await t.page.click('#cal-prev');
+  await t.page.click(`#cal-grid button[data-date="${other}"]`);
+  await t.page.waitForTimeout(800);
+  await t.page.evaluate(() => window.scrollTo(0, 1500));
+  t.serve('new');
+  await t.page.mouse.wheel(0, 10);          // reading: the version is not checked while the page is in use
+  await t.page.waitForTimeout(1000);
+  check(t.loads.length === 1, 'new version while reading: no reload');
+  const y = await t.page.evaluate(() => window.scrollY);
+  await t.resume(2500);
+  const s = await t.state();
+  const y2 = await t.page.evaluate(() => window.scrollY);
+  check(t.loads.length === 2, `new version, resumed: one reload (${t.loads.length} page loads)`);
+  check(s.title === cal.find(m => m.date === other).title && Math.abs(y2 - y) < 2, `after the update: ${other} kept ("${s.title}"), scroll ${y2} (was ${y})`);
+  await t.ctx.close();
+}
+
+// 7d. A slow answer arriving after the reader touched the page: no reload.
+{
+  const t = await open(last, '', { version: undefined });
+  await t.ctx.unroute('**/version.json');
+  await t.ctx.route('**/version.json', async r => { await new Promise(s => setTimeout(s, 1000)); await r.fulfill({ json: { build: 'new' } }); });
+  await t.resume(100);
+  await t.page.mouse.wheel(0, 10);
+  await t.page.waitForTimeout(2000);
+  check(t.loads.length === 1, 'slow version answer after the reader scrolled: no reload');
   await t.ctx.close();
 }
 

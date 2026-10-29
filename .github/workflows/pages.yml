@@ -17,7 +17,7 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
-  # Browser test of the app (day selection, reload once after the last Mass, no loops).
+  # Browser test of the app (day selection, automatic update without loops).
   # If it fails, nothing is deployed and the site keeps the previous version.
   test:
     runs-on: ubuntu-latest

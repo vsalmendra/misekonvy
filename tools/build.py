@@ -8,7 +8,7 @@ Reads   src/masses/<date>.toml   (one file per Mass, see docs/ASSEMBLY.md)
         src/library/commons/*.toml (common Masses, referenced as "@<file>/<formula>[:<key>]")
 Writes  app/data/calendar.json    (date -> title list, used by the date picker)
         app/data/masses/<date>.json (header fields + the rendered HTML of the Mass)
-and stamps a new cache name into app/sw.js.
+and stamps the build (hash of app/) into app/sw.js, app/index.html and app/version.json.
 """
 import hashlib, html, json, re, sys, tomllib
 from datetime import date as Date, timedelta
@@ -550,13 +550,26 @@ def main():
     build_cycle()
     (APP / 'data' / 'calendar.json').write_text(json.dumps({'masses': cal}, ensure_ascii=False, indent=1), encoding='utf-8')
 
-    # New service-worker cache name whenever any app file changes, so installed apps pick up the update.
+    # Build stamp: a hash of every published file. It becomes the service-worker cache name (so installed
+    # apps drop their old copy), the <meta name="build"> of index.html (the version the page runs) and
+    # app/version.json (the version on the server). The page compares the two and reloads when they differ.
+    stamp_re = re.compile(r'<meta name="build" content="[^"]*">')
     digest = hashlib.sha256()
     for f in sorted(APP.rglob('*')):
-        if f.is_file() and f.name != 'sw.js':
-            digest.update(f.relative_to(APP).as_posix().encode() + f.read_bytes())
+        if f.is_file() and f.name not in ('sw.js', 'version.json'):
+            data = f.read_bytes()
+            if f.name == 'index.html':
+                data = stamp_re.sub('', data.decode('utf-8')).encode('utf-8')
+            digest.update(f.relative_to(APP).as_posix().encode() + data)
+    build = digest.hexdigest()[:10]
+    index = APP / 'index.html'
+    page = index.read_text(encoding='utf-8')
+    if not stamp_re.search(page):
+        sys.exit('Build failed: app/index.html has no <meta name="build" content="...">')
+    index.write_text(stamp_re.sub(f'<meta name="build" content="{build}">', page), encoding='utf-8')
+    (APP / 'version.json').write_text(json.dumps({'build': build}) + '\n', encoding='utf-8')
     sw = APP / 'sw.js'
-    sw.write_text(re.sub(r"const CACHE = '[^']*';", f"const CACHE = 'szentmise-{digest.hexdigest()[:10]}';",
+    sw.write_text(re.sub(r"const CACHE = '[^']*';", f"const CACHE = 'szentmise-{build}';",
                          sw.read_text(encoding='utf-8')), encoding='utf-8')
     print(f'{len(cal)} masses: ' + ', '.join(c['date'] for c in cal))
 

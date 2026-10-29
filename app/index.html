@@ -5,6 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="theme-color" content="#a3171b">
 <meta name="color-scheme" content="light dark">
+<meta name="build" content="9b5b35094d">
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="icon" href="icon-192.png">
 <link rel="apple-touch-icon" href="apple-touch-icon.png">
@@ -351,40 +352,71 @@ body.empty #top, body.empty #jump-latin, body.empty #notice, body.empty .legend 
     }).catch(function () { empty(msg); });
   }
   function wireEmptyButtons() {
-    // marks today as reloaded, so a manual reload never triggers the automatic one on top
-    $('empty-reload').addEventListener('click', function () { markReloaded(); hardReload(); });
+    $('empty-reload').addEventListener('click', function () { hardReload(); });
     if (dates.length) $('empty-pick').addEventListener('click', function () { $('pick-date').click(); });
   }
 
-  // "Reloaded today" marker in this tab's session storage (not in the address). If the storage is
-  // not available, the app never reloads by itself, so it can never loop.
-  var RELOADED = 'mise-frissitve';
-  function reloadedToday() { try { return sessionStorage.getItem(RELOADED) === today; } catch (e) { return true; } }
-  function markReloaded() { try { sessionStorage.setItem(RELOADED, today); } catch (e) {} }
-
   // Pick the Mass from the device's date: today's Mass, else the Order of Mass with today's readings.
-  function start() {
+  // `back` (after an automatic update) brings back the day that was open and where it was scrolled to.
+  function start(back) {
     return getJSON('data/calendar.json').then(function (c) {
       titles = {}; c.masses.forEach(function (m) { titles[m.date] = m.title; });
       dates = Object.keys(titles).sort();
-      if (titles[today]) return show(today);
-      // Today is after the last Mass: the app may be showing an old copy, so reload fresh once.
-      if (dates.length && today > dates[dates.length - 1] && !reloadedToday()) { markReloaded(); hardReload(); return; }
-      current = null;
-      ordinary('A mai napra (' + short(today) + ') még nincs miseszöveg; itt a szentmise állandó részei.');
+      var target = back && back.date && back.date !== today && titles[back.date] ? back.date : (titles[today] ? today : null);
+      var shown = target ? show(target) : ordinary('A mai napra (' + short(today) + ') még nincs miseszöveg; itt a szentmise állandó részei.');
+      if (back && (back.date || null) === target) shown.then(function () { window.scrollTo(0, back.y || 0); });
+      return shown;
     }).catch(function () { current = null; ordinary('A naptár nem tölthető be (nincs internet?); itt a szentmise állandó részei.'); });
   }
-  start();
+
+  // ---------- Automatic update ----------
+  // The build writes the same stamp into <meta name="build"> (the version this page runs) and into
+  // version.json (the version on the server). At launch and whenever the app comes back to the screen,
+  // the page fetches version.json; if it differs, it drops its offline copy and reloads, keeping the
+  // day and the scroll position. Rules that keep it safe:
+  // - only if the reader has not touched the page since it opened or came back (never mid-reading;
+  //   then it waits for the next time the app comes back);
+  // - offline (version.json not loadable) nothing happens;
+  // - at most one automatic reload per server version per 15 minutes, marked in this tab's
+  //   sessionStorage: if the CDN still serves the old page after the reload, it does not loop.
+  //   Without sessionStorage it never reloads by itself.
+  var BUILD = document.querySelector('meta[name="build"]').content, UPDATED = 'mise-frissites', BACK = 'mise-vissza';
+  var RETRY = 15 * 60 * 1000, touched = false;
+  ['pointerdown', 'touchstart', 'wheel', 'keydown'].forEach(function (t) {
+    window.addEventListener(t, function () { touched = true; }, { capture: true, passive: true });
+  });
+  function store(k, v) { try { sessionStorage.setItem(k, v); return sessionStorage.getItem(k) === v; } catch (e) { return false; } }
+  function takeBack() {
+    try { var b = JSON.parse(sessionStorage.getItem(BACK)); sessionStorage.removeItem(BACK); return b; } catch (e) { return null; }
+  }
+  function checkUpdate() {
+    fetch('version.json', { cache: 'no-store' }).then(function (r) { return r.ok ? r.json() : null; }).then(function (v) {
+      if (!v || !v.build || !BUILD || v.build === BUILD || touched) return;
+      var last;
+      try { last = JSON.parse(sessionStorage.getItem(UPDATED)); } catch (e) { return; }
+      if (last && last.v === v.build && Date.now() - last.t >= 0 && Date.now() - last.t < RETRY) return;
+      if (!store(UPDATED, JSON.stringify({ v: v.build, t: Date.now() }))) return;
+      store(BACK, JSON.stringify({ date: current, y: window.scrollY }));
+      hardReload();
+    }).catch(function () {});
+  }
+
+  start(takeBack());
+  checkUpdate();
 
   // Installed app: the phone often resumes it instead of starting it again. When it comes back on a
-  // new day and was showing that day's Mass (or the logo), move on to the new day.
+  // new day and was showing that day's Mass (or the Order of Mass), move on to the new day; and look
+  // for a newer version.
   document.addEventListener('visibilitychange', function () {
     if (document.visibilityState !== 'visible') return;
+    touched = false;
     var now = iso(new Date());
-    if (now === today) return;
-    var wasToday = current === null || current === today;
-    today = now;
-    if (wasToday) start();
+    if (now !== today) {
+      var wasToday = current === null || current === today;
+      today = now;
+      if (wasToday) start();
+    }
+    checkUpdate();
   });
 
   // Keep the screen on while reading during Mass, where the browser allows it.
