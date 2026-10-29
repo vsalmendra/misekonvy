@@ -315,3 +315,47 @@ Ad mensam ígitur accédimus tam mirábilis sacraménti, ut, grátiæ tuæ suavi
 
 Propter quod cæléstia tibi atque terréstria cánticum novum cóncinunt adorándo, et nos cum omni exércitu Angelórum proclamámus, sine fine dicéntes:
 '''
+
+
+[kereszt]
+label = "Prefáció a dicsőséges szent kereszt győzelméről"
+source = "Római Misekönyv 1991 (PPEK 335), szeptember 14. (A Szent Kereszt felmagasztalása), 595. o. – az új misekönyvvel még nem egyeztetve. Latin: Missale Romanum cum lectionibus 1977, vol. IV, p. 1509 (Missae votivae, De mysterio sanctae Crucis) / p. 698 (14 sept.); hangsúlyjelek a Missale Romanum szokása szerint"
+la_label = "Praefatio de victoria crucis gloriosae"
+text = '''
+Valóban méltó és igazságos, illő és üdvös, hogy mindig és mindenütt hálát adjunk néked, mi Urunk, szentséges Atyánk, mindenható, örök Isten:
+
+Te úgy akartad, hogy az emberi nem üdvösségét a keresztfa hozza meg, hogy ahonnan a halál származott, onnan támadjon az élet: a bűn fáján győztes Sátánt a kereszt fáján győzze le Urunk, Jézus Krisztus.
+
+A te fölségedet általa dicsérik az angyalok, és imádják az uralkodó szellemek, az égi hatalmak rettegik; a mennyei seregek, az ég erői s a boldog szeráfkórusok ujjongva együtt tisztelik.
+
+Add, kérünk, hogy az ő szavukhoz társuljon szózatunk, és alázatos megvallással mondjuk:
+'''
+la = '''
+Vere dignum et iustum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine, sancte Pater, omnípotens ætérne Deus:
+
+Qui salútem humáni géneris in ligno crucis constituísti, ut, unde mors oriebátur, inde vita resúrgeret; et, qui in ligno vincébat, in ligno quoque vincerétur: per Christum Dóminum nostrum.
+
+Per quem maiestátem tuam laudant Angeli, adórant Dominatiónes, tremunt Potestátes. Cæli cælorúmque Virtútes, ac beáta Séraphim, sócia exsultatióne concélebrant.
+
+Cum quibus et nostras voces ut admítti iúbeas, deprecámur, súpplici confessióne dicéntes:
+'''
+
+[szenvedes-1]
+label = "Prefáció Urunk szenvedéséről I."
+source = "Római Misekönyv 1991 (PPEK 335), 39. prefáció, 370. o. – az új misekönyvvel még nem egyeztetve. Latin: Missale Romanum 2008 (ordo.pallotyni.pl, Praefatio I de Passione Domini)"
+sub = "A megfeszített Krisztus ereje"
+la_label = "Praefatio I de Passione Domini"
+text = '''
+Valóban méltó és igazságos, illő és üdvös, hogy mindig és mindenütt hálát adjunk néked, mi Urunk, szentséges Atyánk, mindenható, örök Isten:
+
+Fiadnak üdvözítő szenvedése által az egész világ felismerte, milyen nagy hálával tartozunk néked: a kereszt kimondhatatlan ereje nyilván hirdeti, hogy Krisztus győzött a világon, és megfeszítve Úrrá lett rajta.
+
+Ezért mi is az összes angyalokkal és szentekkel együtt Urunknak vallunk téged, és ujjongva mondjuk:
+'''
+la = '''
+Vere dignum et iustum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine, sancte Pater, omnípotens ætérne Deus:
+
+Quia per Fílii tui salutíferam passiónem sensum confiténdæ tuæ maiestátis totus mundus accépit, dum ineffábili crucis poténtia iudícium mundi et potéstas émicat Crucifíxi.
+
+Unde et nos, Dómine, cum Angelis et Sanctis univérsis, tibi confitémur, in exsultatióne dicéntes:
+'''

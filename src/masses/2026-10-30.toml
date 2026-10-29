@@ -1,0 +1,211 @@
+# Recipe: src/masses/2026-10-30.md
+date = "2026-10-30"
+title = "Votív mise a szent keresztről"
+day = "30. évközi hét péntekje"
+rank = "piros színben"
+gloria = false
+creed = false
+eucharistic_prayer = 1
+prefaces = ["kereszt", "szenvedes-1"]
+mass_type = "Votív mise: a szent keresztről (a Szent Kereszt felmagasztalásának miséje)"
+
+[entrance]
+cite = "Vö. Gal 6,14"
+source = "Római Misekönyv 1991 (PPEK 335), szeptember 14., 594. o."
+text = '''
+Nekünk a mi Urunk, Jézus Krisztus keresztjében kell dicsekednünk,
+abban van üdvösségünk, életünk és feltámadásunk,
+az váltott meg és szabadított meg minket.
+'''
+la = '''
+Nos autem gloriari oportet
+in cruce Domini nostri Iesu Christi,
+in quo est salus, vita et resurrectio nostra,
+per quem salvati et liberati sumus.
+'''
+
+[collect]
+source = "Római Misekönyv 1991 (PPEK 335), szeptember 14., 594-595. o."
+text = '''
+Istenünk, te azt akartad, hogy egyszülött Fiad
+a kereszten váltsa meg az emberiséget.
+Add, hogy mi,
+akik megismertük szeretetének titkát itt a földön,
+elnyerjük az üdvösséget a mennyben.
+A mi Urunk, Jézus Krisztus, a te Fiad által,
+aki veled él és uralkodik a Szentlélekkel egységben,
+Isten mindörökkön-örökké.
+'''
+la = '''
+Deus, qui Unigenitum tuum crucem subire voluisti,
+ut salvum faceret genus humanum,
+praesta, quaesumus,
+ut, cuius mysterium in terra cognovimus,
+eius redemptionis praemia in caelo consequi mereamur.
+Per Dominum nostrum Iesum Christum, Filium tuum,
+qui tecum vivit et regnat in unitate Spiritus Sancti,
+Deus, per omnia saecula saeculorum.
+'''
+
+[offertory]
+source = "Római Misekönyv 1991 (PPEK 335), szeptember 14., 595. o."
+text = '''
+Kérünk, Istenünk,
+tisztítson meg minket minden bűnünktől ez az áldozat,
+mely a kereszt oltárán az egész világ vétkét eltörölte.
+Krisztus, a mi Urunk által.
+'''
+la = '''
+Haec oblatio, Domine, quaesumus,
+ab omnibus nos purget offensis,
+quae in ara crucis totius mundi tulit offensam.
+Per Christum Dominum nostrum.
+'''
+
+[communion]
+cite = "Jn 12,32"
+source = "Római Misekönyv 1991 (PPEK 335), szeptember 14., 595. o."
+text = '''
+Ha majd fölemelnek a földről,
+mindenkit magamhoz vonzok – mondja az Úr.
+'''
+la = '''
+Ego si exaltatus fuero a terra,
+omnes traham ad meipsum, dicit Dominus.
+'''
+
+[postcommunion]
+source = "Római Misekönyv 1991 (PPEK 335), szeptember 14., 595. o."
+text = '''
+Szent asztalodról tápláltál minket, Urunk, Jézus Krisztus.
+Kérve kérünk,
+hogy akiket életadó kereszted által megváltottál,
+vezesd el azokat a feltámadás dicsőségére.
+Aki élsz és uralkodol mindörökkön-örökké.
+'''
+la = '''
+Refectione tua sancta enutriti,
+Domine Iesu Christe, supplices deprecamur,
+ut, quos per lignum crucis vivificae redemisti,
+ad resurrectionis gloriam perducas.
+Qui vivis et regnas in saecula saeculorum.
+'''
+
+# Readings: of the day (30. évközi hét péntek, II. év), from src/cycle/evkozi-30-5-II.json (igenaptár).
+[reading1]
+label = "Szentlecke"
+sub = "Szent Pál apostolnak a filippiekhez írt leveléből"
+summary = "Isten, aki meghívott minket az üdvösségre, közreműködésünkkel fogja azt bennünk teljessé tenni."
+cite = "Fil 1,1-11"
+la_sub = "Initium Epistolae beati Pauli apostoli ad Philippenses"
+text = '''
+Testvéreim!
+
+Jézus Krisztus szolgái: Pál és Timóteus (üdvözletüket küldik) Jézus Krisztus híveinek, az elöljáróknak és a diakónusoknak, akik Filippiben élnek.
+
+Kegyelem nektek és békesség Atyánktól, az Istentől, és Urunktól, Jézus Krisztustól!
+
+Hálát adok Istennek, valahányszor rátok gondolok. Mindig, minden imádságomban örömmel emlékezem meg mindnyájatokról, mert az első naptól mindmáig közösséget vállaltatok az evangéliummal. Ezért bízom benne, hogy aki megkezdte bennetek a jót, Krisztus Jézus napjára be is fejezi.
+
+Méltányos is, hogy így gondolkodjam mindnyájatokról, mert szívembe zártalak titeket. Hiszen mindnyájan osztoztok velem a kegyelemben: akkor is, amikor bilincseket viselek, és akkor is, amikor az evangéliumot védelmezem és erősítem.
+
+Isten a tanúm, mennyire vágyakozom mindnyájatok után Krisztus Jézus szeretetében. Könyörgök is azért, hogy szeretetetek egyre jobban gyarapodjék a helyes ismeretben és a teljes megértésben, hogy el tudjátok dönteni, mi a helyes.
+
+Akkor tiszták és feddhetetlenek lesztek Krisztus napjára, és bővelkedni fogtok az igaz élet gyümölcseiben, amelyeket Jézus Krisztus szerzett, Isten dicsőségére és tiszteletére.
+'''
+la = '''
+—
+
+Paulus et Timotheus, servi Christi Iesu, omnibus sanctis in Christo Iesu qui sunt Philippis cum episcopis et diaconis:
+
+gratia vobis et pax a Deo Patre nostro et Domino Iesu Christo.
+
+Gratias ago Deo meo in omni memoria vestri, semper in omni oratione mea pro omnibus vobis cum gaudio deprecationem faciens, super communione vestra in Evangelio a prima die usque nunc, confidens hoc ipsum, quia qui coepit in vobis opus bonum perficiet usque in diem Christi Iesu;
+
+sicut est mihi iustum hoc sentire pro omnibus vobis eo quod habeam in corde vos, et in vinculis meis et in defensione et confirmatione Evangelii socios gratiae meae omnes vos esse.
+
+Testis enim mihi Deus, quomodo cupiam omnes vos in visceribus Christi Iesu. Et hoc oro, ut caritas vestra magis ac magis abundet in scientia et omni sensu, ut probetis potiora,
+
+ut sitis sinceri et sine offensa in diem Christi, repleti fructu iustitiae, qui est per Iesum Christum, in gloriam et laudem Dei.
+'''
+
+[psalm]
+cite = "Zsolt 110,1-2.3-4.5-6"
+response = "Urunk és Istenünk, mily nagyszerűek a te műveid!"
+la_response = "Magna sunt opera Domini."
+verses = [
+'''
+Teljes szívemből áldom az Urat
+a szentek tanácsában és közösségében.
+Nagyszerűek az Úr művei
+mindazok szemében, akik szeretik azokat.
+''',
+'''
+Dicsőséges és fönséges minden cselekedete,
+és igazságossága örökre megmarad.
+Csodatetteinek emléket szerzett
+a jóságos és irgalmas Isten.
+''',
+'''
+Az istenfélőknek eledelt adott,
+szövetségéről mindvégig megemlékezik.
+Népének megmutatta hatalmas műveit,
+nekik adta a pogányok örökségét.
+''']
+la_verses = [
+'''
+Confitebor Domino in toto corde meo,
+in consilio iustorum et congregatione.
+Magna opera Domini,
+exquirenda omnibus qui cupiunt ea.
+''',
+'''
+Decor et magnificentia opus eius,
+et iustitia eius manet in saeculum saeculi.
+Memoriam fecit mirabilium suorum,
+misericors et miserator Dominus.
+''',
+'''
+Escam dedit timentibus se;
+memor erit in saeculum testamenti sui.
+Virtutem operum suorum annuntiavit populo suo,
+ut det illis hereditatem gentium.
+''']
+
+[alleluia]
+cite = "Jn 10,27"
+text = "Jézus mondja: „Juhaim hallgatnak szavamra; ismerem őket, és ők a nyomomban járnak.”"
+la = "Oves meae vocem audiunt, dicit Dominus, et ego cognosco eas, et sequuntur me."
+
+[gospel]
+book = "Szent Lukács"
+la_book = "Lucam"
+summary = "Jézus ura a szombatnak."
+cite = "Lk 14,1-6"
+text = '''
+Az egyik szombaton Jézus betért egy vezető farizeus házába, hogy nála étkezzék. Az ott tartózkodók figyelték őt.
+
+Akkor eléje állt egy vízkóros ember. Jézus megkérdezte a törvénytudókat és farizeusokat: „Szabad-e szombaton gyógyítani?” De azok nem válaszoltak. Erre ő megérintette a beteget, meggyógyította és elbocsátotta.
+
+Azután a jelenlevőkhöz fordult: „Ha valamelyiktek szamara vagy ökre szombaton kútba esik, nem húzza-e ki azonnal?” Azok semmit sem tudtak felelni neki.
+'''
+la = '''
+In illo tempore: Factum est, cum intraret Iesus in domum cuiusdam principis Pharisaeorum sabbato manducare panem, et ipsi observabant eum.
+
+Et ecce homo quidam hydropicus erat ante illum. Et respondens Iesus dixit ad Legis peritos et Pharisaeos dicens: «Licet sabbato curare an non?» At illi tacuerunt. Ipse vero apprehensum sanavit eum ac dimisit.
+
+Et ad illos dixit: «Cuius vestrum filius aut bos in puteum cadet, et non continuo extrahet illum die sabbati?» Et non poterant ad haec respondere illi.
+'''
+
+[faithful]
+intro = "Imádjuk Krisztus Urunkat, aki kereszthalála által feláldozta magát értünk a mennyei Atyának, hogy megszabadítson minket bűneinktől!"
+response = "Kérünk téged, hallgass meg minket!"
+petitions = [
+  "Urunk, te véred kiontásával szentesítetted az új és örök szövetséget: add, hogy mindig hűségesek maradjunk hozzád!",
+  "Urunk, te vállaltad értünk a szenvedést és a kereszthalált: add, hogy mi se vonakodjunk elfogadni és hordozni életünk keresztjeit!",
+  "Urunk, te megígérted, hogy örök életre szökellő vízforrást ajándékozol nekünk: áraszd ki Szentlelkedet minden emberre!",
+  "Urunk, te elküldted tanítványaidat, hogy hirdessék a kereszt üdvözítő erejét: add, hogy mi is keresztedből merítsünk erőt szenvedéseink elviselésére!",
+  "Urunk, te kereszted és feltámadásod által eltörölted minden vétkünket: add, hogy eltöltsön bennünket a Szentlélek vigasztalása!",
+  { note = "Ha a szentmisét elhunytért mutatják be:", text = "Urunk, te kiérdemelted híveid számára a feltámadást és az örök dicsőséget: add, hogy elhunyt testvéreink elnyerjék ígéreteid teljesülését!" },
+]
+conclusion = "Istenünk, a kereszt botránya megmutatta számunkra örök bölcsességedet és irántunk való végtelen szeretetedet. Engedd, hogy mindig bizakodó lélekkel dicsekedjünk Krisztus keresztjével. Aki él és uralkodik mindörökkön-örökké."
