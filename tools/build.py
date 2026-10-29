@@ -34,7 +34,8 @@ EPS = load(SRC / 'library/eucharistic-prayers.toml')
 PREFACES = load(SRC / 'library/prefaces.toml')
 COMMONS = {p.stem: load(p) for p in (SRC / 'library/commons').glob('*.toml')}
 ALWAYS_PREFACES = ['ep2', 'ep4']
-NO_LATIN = '(A latin szöveg még nincs feltöltve.)'
+NO_LATIN = 'Latinul még nincs feltöltve.'      # the Latin text exists, but is not in the database yet
+LA_NONE = 'Nincs latin megfelelője.'           # no Latin text at all (prayer of the faithful, Hungarian-only proper)
 NO_HU = '(A magyar szöveg itt még nem érhető el – a lekcionáriumból.)'
 
 
@@ -76,22 +77,32 @@ def cite(c):
 
 # ---------- Latin–Hungarian grid ----------
 
+BLANK = '<p class="bi-l la-blank"></p>'
+
+
 def bi(la, hu, cls=''):
-    """One row: Latin (left) and Hungarian (right); both already HTML. Missing Latin gets a note."""
-    la_html = f'<p class="bi-l {cls}" lang="la">{la}</p>' if la else f'<p class="bi-l rub">{NO_LATIN}</p>'
+    """One row: Latin (left) and Hungarian (right); both already HTML. Missing Latin leaves the left cell blank."""
+    la_html = f'<p class="bi-l {cls}" lang="la">{la}</p>' if la else BLANK
     return la_html + f'<p class="bi-r {cls}">{hu}</p>'
 
 
-def bi_h3(la, hu):
-    return f'<h3 class="bi-l">{la}</h3><h3 class="bi-r">{hu}</h3>'
+def noted(block, note):
+    """A block (one prayer, reading …) whose Latin is missing: the first blank Latin cell gets a short,
+    discreet note (NO_LATIN or LA_NONE), the rest stay blank. The Hungarian text is always there."""
+    return block.replace(BLANK, f'<p class="bi-l la-blank la-note">{esc(note)}</p>', 1)
+
+
+def toc_sub(c):
+    """Detail shown next to a heading in the jump list (e.g. the citation of a reading)."""
+    return f' data-toc-sub="{html.escape(c)}"' if c else ''
+
+
+def bi_h3(la, hu, sub=''):
+    return f'<h3 class="bi-l">{la}</h3><h3 class="bi-r"{toc_sub(sub)}>{hu}</h3>'
 
 
 def bi_h2(text):
     return f'<h2 class="part bi-full">{text}</h2>'
-
-
-def bi_note(text):
-    return f'<p class="bi-full rub">{esc(text)}</p>'
 
 
 def bi_cite(c):
@@ -144,27 +155,30 @@ def opts_of(value, slot, names):
     return [resolve(o, slot, names) for o in (value if isinstance(value, list) else [value])]
 
 
-def options(opts, render):
-    """Render one slot (Hungarian). Several alternatives get a row of buttons; the first is selected."""
+def options(opts, render, group=None):
+    """Render one slot (Hungarian). Several alternatives get a row of buttons; the first is selected.
+    `group` names the alternatives so that the Latin section (variants of the same group) follows them."""
     if len(opts) == 1:
         return render(opts[0])
     btns = ''.join(f'<button type="button" class="alt-btn" aria-pressed="{"true" if i == 0 else "false"}" data-i="{i}">'
                    f'{esc(o.get("label", str(i + 1)))}</button>' for i, o in enumerate(opts))
     panels = '\n'.join(f'<div class="alt" data-i="{i}"{"" if i == 0 else " hidden"}>\n{render(o)}\n</div>'
                        for i, o in enumerate(opts))
-    group = ' data-group="lect"' if render is word else ''   # the readings switch also drives the Latin section
+    group = f' data-group="{group}"' if group else ''
     return f'<div class="alts"{group}><div class="alt-btns" role="group" aria-label="Választható szövegek">{btns}</div>\n{panels}\n</div>'
 
 
-def latin_option(opts):
-    """For the Latin column: the first alternative with Latin. An option with a latin_note but no Latin
-    (a Hungarian-only proper) hands over to the next alternative, and the note says so."""
-    if len(opts) > 1 and opts[0].get('latin_note') and not opts[0].get('la'):
-        return opts[1], opts[0]['latin_note']
-    for o in opts:
-        if o.get('la'):
-            return o, opts[0].get('latin_note') if o is not opts[0] else o.get('latin_note')
-    return opts[0], opts[0].get('latin_note')
+def la_missing(o):
+    """Note for an option without Latin: its own `latin_note`, LA_NONE for a Hungarian-only text
+    (`hu_only = true`), else NO_LATIN (exists, not uploaded yet)."""
+    return o.get('latin_note') or (LA_NONE if o.get('hu_only') else NO_LATIN)
+
+
+def bi_options(group, opts, render):
+    """Latin section of a slot: one block per alternative, following the buttons of the Hungarian part."""
+    if len(opts) == 1:
+        return render(opts[0])
+    return variants(group, [(str(i), render(o)) for i, o in enumerate(opts)], '0')
 
 
 def antiphon(o):
@@ -181,28 +195,29 @@ def prayer(intro):
     return r
 
 
-def bi_antiphon(la_title, hu_title, opts):
-    o, note = latin_option(opts)
-    if o.get('placeholder'):
-        return bi_h3(la_title, hu_title) + bi(PROPER_LA, PROPER, 'rub')
-    return (bi_h3(la_title, hu_title) + (bi_note(note) if note else '') +
-            bi(lines(o.get('la', '')), lines(o['text']), 'verse') + bi_cite(o.get('la_cite') or o.get('cite', '')))
+def bi_antiphon(la_title, hu_title, opts, group):
+    def r(o):
+        if o.get('placeholder'):
+            return bi(PROPER_LA, PROPER, 'rub')
+        return noted(bi(lines(o.get('la', '')), lines(o['text']), 'verse'), la_missing(o)) + \
+            bi_cite(o.get('la_cite') or o.get('cite', ''))
+    return bi_h3(la_title, hu_title) + bi_options(group, opts, r)
 
 
-def bi_prayer(la_title, hu_title, opts, intro):
-    o, note = latin_option(opts)
-    if o.get('placeholder'):
-        return (bi_h3(la_title, hu_title) + (bi('Orémus.', 'Könyörögjünk!') if intro else '') +
-                bi(PROPER_LA, PROPER, 'rub') + bi('Amen.', 'Ámen.', 'resp'))
-    return (bi_h3(la_title, hu_title) + (bi_note(note) if note else '') +
-            (bi('Orémus.', 'Könyörögjünk!') if intro else '') +
-            bi(lines(o.get('la', '')), lines(o['text']), 'verse') + bi('Amen.', 'Ámen.', 'resp'))
+def bi_prayer(la_title, hu_title, opts, intro, group):
+    def r(o):
+        if o.get('placeholder'):
+            body = bi(PROPER_LA, PROPER, 'rub')
+        else:
+            body = noted(bi(lines(o.get('la', '')), lines(o['text']), 'verse'), la_missing(o))
+        return (bi('Orémus.', 'Könyörögjünk!') if intro else '') + body + bi('Amen.', 'Ámen.', 'resp')
+    return bi_h3(la_title, hu_title) + bi_options(group, opts, r)
 
 
 # ---------- readings ----------
 
 def reading(r):
-    out = [f'<h3>{esc(r.get("label", "Olvasmány"))}</h3>', p(esc(r['sub']), 'sub')]
+    out = [f'<h3{toc_sub(r["cite"])}>{esc(r.get("label", "Olvasmány"))}</h3>', p(esc(r['sub']), 'sub')]
     if r.get('summary'):
         out.append(p(esc(r['summary']), 'rub'))
     out += [paras(r['text']) if r.get('text') else p(NO_HU, 'rub'),
@@ -211,15 +226,15 @@ def reading(r):
 
 
 def bi_reading(r):
-    return (bi_h3('Lectio', esc(r.get('label', 'Olvasmány'))) + bi(esc(r.get('la_sub', '')), esc(r['sub']), 'rub') +
-            bi_paras(r.get('la'), r.get('text', '')) + bi('Verbum Dómini.', 'Ez az Isten igéje.') +
-            bi('Deo grátias.', 'Istennek legyen hála.', 'resp') + bi_cite(r['cite']))
+    return (bi_h3('Lectio', esc(r.get('label', 'Olvasmány')), r['cite']) +
+            noted(bi(esc(r.get('la_sub', '')), esc(r['sub']), 'rub') + bi_paras(r.get('la'), r.get('text', '')), NO_LATIN) +
+            bi('Verbum Dómini.', 'Ez az Isten igéje.') + bi('Deo grátias.', 'Istennek legyen hála.', 'resp') + bi_cite(r['cite']))
 
 
 def psalm(s):
     if not s.get('response'):
-        return '\n'.join(['<h3>Válaszos zsoltár</h3>', cite(s['cite']), p(NO_HU, 'rub')])
-    out = ['<h3>Válaszos zsoltár</h3>', cite(s['cite']), resp(s['response'])]
+        return '\n'.join([f'<h3{toc_sub(s["cite"])}>Válaszos zsoltár</h3>', cite(s['cite']), p(NO_HU, 'rub')])
+    out = [f'<h3{toc_sub(s["cite"])}>Válaszos zsoltár</h3>', cite(s['cite']), resp(s['response'])]
     for v in s['verses']:
         out += [p(lines(v), 'verse'), resp(s['response'])]
     return '\n'.join(out)
@@ -228,10 +243,10 @@ def psalm(s):
 def bi_psalm(s):
     la_r = esc(s.get('la_response', ''))
     hu_r = esc(s.get('response', ''))
-    out = bi_h3('Psalmus responsorius', 'Válaszos zsoltár') + bi_cite(s['cite']) + bi(la_r, hu_r, 'resp')
+    out = bi(la_r, hu_r, 'resp')
     for la, hu in zip_longest(s.get('la_verses', []), s.get('verses', [])):
         out += bi(lines(la) if la else '', lines(hu) if hu else '', 'verse') + bi(la_r, hu_r, 'resp')
-    return out
+    return bi_h3('Psalmus responsorius', 'Válaszos zsoltár', s['cite']) + bi_cite(s['cite']) + noted(out, NO_LATIN)
 
 
 def alleluia(a):
@@ -243,13 +258,14 @@ def alleluia(a):
 
 def bi_alleluia(a):
     if a.get('lent'):
-        return bi_h3('Versus ante Evangelium', 'Evangélium előtti vers') + bi(lines(a.get('la', '')), lines(a['text'])) + bi_cite(a['cite'])
+        return (bi_h3('Versus ante Evangelium', 'Evangélium előtti vers') +
+                noted(bi(lines(a.get('la', '')), lines(a['text'])), NO_LATIN) + bi_cite(a['cite']))
     return (bi_h3('Alleluia', 'Alleluja') + bi('Allelúia, allelúia.', 'Alleluja, alleluja!', 'resp') +
-            bi(lines(a.get('la', '')), lines(a.get('text', ''))) + bi_cite(a['cite']) + bi('Allelúia.', 'Alleluja!', 'resp'))
+            noted(bi(lines(a.get('la', '')), lines(a.get('text', ''))), NO_LATIN) + bi_cite(a['cite']) + bi('Allelúia.', 'Alleluja!', 'resp'))
 
 
 def gospel(g):
-    out = ['<h3>Evangélium</h3>', p('Az Úr legyen veletek.'), resp('És a te lelkeddel.'),
+    out = [f'<h3{toc_sub(g["cite"])}>Evangélium</h3>', p('Az Úr legyen veletek.'), resp('És a te lelkeddel.'),
            p(f'Evangélium {esc(g["book"])} könyvéből.'), resp('Dicsőség neked, Istenünk.')]
     if g.get('summary'):
         out.append(p(esc(g['summary']), 'rub'))
@@ -260,10 +276,10 @@ def gospel(g):
 
 def bi_gospel(g):
     book = f'Léctio sancti Evangélii secúndum {esc(g["la_book"])}.' if g.get('la_book') else ''
-    return (bi_h3('Evangelium', 'Evangélium') + bi('Dóminus vobíscum.', 'Az Úr legyen veletek.') +
+    return (bi_h3('Evangelium', 'Evangélium', g['cite']) + bi('Dóminus vobíscum.', 'Az Úr legyen veletek.') +
             bi('Et cum spíritu tuo.', 'És a te lelkeddel.', 'resp') +
-            bi(book, f'Evangélium {esc(g["book"])} könyvéből.') + bi('Glória tibi, Dómine.', 'Dicsőség neked, Istenünk.', 'resp') +
-            bi_paras(g.get('la'), g.get('text', '')) + bi('Verbum Dómini.', 'Ezek az evangélium igéi.') +
+            noted(bi(book, f'Evangélium {esc(g["book"])} könyvéből.') + bi('Glória tibi, Dómine.', 'Dicsőség neked, Istenünk.', 'resp') +
+                  bi_paras(g.get('la'), g.get('text', '')), NO_LATIN) + bi('Verbum Dómini.', 'Ezek az evangélium igéi.') +
             bi('Laus tibi, Christe.', 'Áldunk téged, Krisztus.', 'resp') + bi_cite(g['cite']))
 
 
@@ -313,6 +329,51 @@ def faithful(f):
     return '\n'.join(out)
 
 
+def bi_faithful(f):
+    """Prayer of the faithful: only in Hungarian; the Latin column stays blank with a short note."""
+    out = bi('', esc(f['intro']))
+    for i, pet in enumerate(f['petitions'], 1):
+        if isinstance(pet, dict):
+            out += bi('', esc(pet['note']), 'rub')
+            pet = pet['text']
+        out += bi('', f'{i}. {esc(pet)}') + bi('', esc(f['response']), 'resp')
+    out += bi('', esc(f['conclusion'])) + bi('', 'Ámen.', 'resp')
+    return bi_h3('Oratio universalis', 'Egyetemes könyörgések') + noted(out, LA_NONE)
+
+
+# ---------- jump marks inside the Eucharistic prayer ----------
+# Points of the prayer listed in the jump list (data-toc on the paragraph; data-toc-la in the Latin section).
+
+def ep_marks(paras):
+    """paras: [(class, text)] of a Eucharistic prayer -> {index: (Hungarian label, Latin label)}"""
+    marks = {}
+    cons = [i for i, (c, _) in enumerate(paras) if 'cons' in (c or '')]
+    if cons:
+        marks[cons[0] - 1] = ('Alapítási elbeszélés, átváltoztatás', 'Narratio institutionis et consecratio')
+    for i, (c, t) in enumerate(paras):
+        if t.lstrip().startswith('Íme, hitünk szent titka'):
+            marks[i] = ('Hitünk titka', 'Mysterium fidei')
+        elif t.lstrip().startswith('Őáltala'):
+            marks[i] = ('Záródoxológia', 'Doxologia')
+    return marks
+
+
+def toc_attr(mark):
+    return f' data-toc="{mark[0]}" data-toc-la="{mark[1]}"' if mark else ''
+
+
+def mark_ep_html(h):
+    """The Hungarian EP html with jump marks on its paragraphs."""
+    paras = re.findall(r'<p(?: class="([^"]*)")?>(.*?)</p>', h, re.S)
+    marks, it = ep_marks(paras), iter(range(len(paras)))
+    return re.sub(r'<p(?= class="[^"]*">|>)', lambda m: '<p' + toc_attr(marks.get(next(it))), h)
+
+
+def mark_first(h, hu, la):
+    """Jump mark on the first paragraph of a fixed part that has no heading of its own."""
+    return re.sub(r'<p(?=[ >])', f'<p data-toc="{hu}" data-toc-la="{la}"', h, count=1)
+
+
 # ---------- preface / Eucharistic prayer choosers ----------
 
 def chooser(group, label, items, default):
@@ -343,20 +404,22 @@ def bi_preface(k, names):
     pr = PREFACES[k]
     la = subst(pr['la'], names[1], k, 'la_names') if pr.get('la') else ''
     return (bi_h3(esc(pr.get('la_label', '')), esc(pr['label'])) + ORDO_LA['preface_dialogue'] +
-            bi_paras(la, subst(pr['text'], names[0], k, 'names')))
+            noted(bi_paras(la, subst(pr['text'], names[0], k, 'names')), NO_LATIN))
 
 
 def bi_ep(k):
     ep = EPS[k]
     hu = re.findall(r'<p(?: class="([^"]*)")?>(.*?)</p>', ep['html'], re.S)
     la = iter(ep.get('la', []))
-    out = bi_h3(esc(ep.get('la_label', '')), esc(ep['label']))
-    for cls, body in hu:
+    marks = ep_marks(hu)
+    out = ''
+    for i, (cls, body) in enumerate(hu):
         if cls == 'rub':
             out += f'<p class="bi-full rub">{body}</p>'
         else:
-            out += bi(esc(next(la, '')), body, cls or '')
-    return out
+            row = bi(esc(next(la, '')), body, cls or '')
+            out += row.replace('<p class="bi-r', '<p' + toc_attr(marks.get(i)) + ' class="bi-r', 1)
+    return bi_h3(esc(ep.get('la_label', '')), esc(ep['label'])) + noted(out, NO_LATIN)
 
 
 # ---------- one Mass ----------
@@ -408,9 +471,8 @@ def build_cycle(first=Date(2026, 10, 1), last=Date(2029, 12, 31)):
         r = json.loads(path.read_text(encoding='utf-8'))
         hu = [reading(r['reading1']), psalm(r['psalm'])] + ([reading(r['reading2'])] if 'reading2' in r else [])
         hu += [alleluia(r['alleluia']), gospel(r['gospel'])]
-        # No Latin lectionary text for these days yet: one note instead of a column of placeholders.
-        la = [bi_h3('Lectiones', 'Olvasmányok'), bi_note('A napi olvasmányok latinul még nincsenek feltöltve; magyarul lásd fent.')]
-        (out / f'{path.stem}.json').write_text(json.dumps({'html': '\n'.join(hu), 'la_html': ''.join(la)},
+        # No Latin lectionary text for these days yet: the Hungarian column only, the Latin one blank with a note.
+        (out / f'{path.stem}.json').write_text(json.dumps({'html': '\n'.join(hu), 'la_html': bi_word(r)},
                                                           ensure_ascii=False), encoding='utf-8')
         have[path.stem] = r
         written.add(f'{path.stem}.json')
@@ -450,17 +512,17 @@ def render(m):
 
     h = []
     h.append('<section id="r1"><h2 class="part">Bevezető szertartás</h2>')
-    h.append('<h3>Bevezető ének</h3>' + options(o['entrance'], antiphon))
+    h.append('<h3>Bevezető ének</h3>' + options(o['entrance'], antiphon, 'alt-entrance'))
     h += [ORDO['greeting'], ORDO['penitential'], ORDO['kyrie']]
     if m.get('gloria'):
         h.append(ORDO['gloria'])
-    h.append('<h3>Könyörgés</h3>' + options(o['collect'], prayer(True)))
+    h.append('<h3>Könyörgés</h3>' + options(o['collect'], prayer(True), 'alt-collect'))
     h.append('</section>')
 
     h.append('<section id="r2"><h2 class="part">Az Ige liturgiája</h2>')
     sets = m.get('readings') or ([m] if 'reading1' in m else [])
     if sets:
-        h.append(options(sets, word))
+        h.append(options(sets, word, 'lect'))
     else:
         h.append('<div class="day-readings">' + placeholder_readings() + '</div>')
     h.append('<h3>Homília</h3>')
@@ -472,29 +534,30 @@ def render(m):
 
     h.append('<section id="r3"><h2 class="part">Az Eucharisztia liturgiája</h2>')
     h.append(ORDO['gifts'])
-    h.append('<h3>Felajánló könyörgés</h3>' + options(o['offertory'], prayer(False)))
+    h.append('<h3>Felajánló könyörgés</h3>' + options(o['offertory'], prayer(False), 'alt-offertory'))
     h.append('<h3>Prefáció</h3>' + ORDO['preface_dialogue'])
     h.append(chooser('pref', 'Prefáció', [(k, PREFACES[k]['label'], preface_body(k, names)) for k in pref_keys], pref_keys[0]))
     h.append(ORDO['sanctus'])
     h.append('<h3>Eucharisztikus ima</h3>')
-    h.append(chooser('ep', 'Eucharisztikus ima', [(k, v['label'], v['html']) for k, v in EPS.items()], ep))
+    h.append(chooser('ep', 'Eucharisztikus ima', [(k, v['label'], mark_ep_html(v['html'])) for k, v in EPS.items()], ep))
     h.append('</section>')
 
     h.append('<section id="r4"><h2 class="part">A szentáldozás szertartása</h2>')
     h.append(ORDO['communion_rite'])
-    h.append('<h3>Áldozási ének</h3>' + options(o['communion'], antiphon))
-    h.append('<h3>Áldozás utáni könyörgés</h3>' + options(o['postcommunion'], prayer(True)))
+    h.append('<h3>Áldozási ének</h3>' + options(o['communion'], antiphon, 'alt-communion'))
+    h.append('<h3>Áldozás utáni könyörgés</h3>' + options(o['postcommunion'], prayer(True), 'alt-postcommunion'))
     h.append('</section>')
-    h.append('<section id="r5"><h2 class="part">Befejező szertartás</h2>\n' + ORDO['concluding'] + '\n</section>')
+    h.append('<section id="r5"><h2 class="part">Befejező szertartás</h2>\n' +
+             mark_first(ORDO['concluding'], 'Áldás és elbocsátás', 'Benedictio et dimissio') + '\n</section>')
 
     # Latin–Hungarian section (always)
     g = ['<p class="bi-l bi-lab">Latine</p><p class="bi-r bi-lab">Magyarul</p>',
          bi_h2('Ritus initiales · Bevezető szertartás'),
-         bi_antiphon('Antiphona ad introitum', 'Bevezető ének', o['entrance']),
-         ORDO_LA['greeting'], ORDO_LA['penitential'], ORDO_LA['kyrie']]
+         bi_antiphon('Antiphona ad introitum', 'Bevezető ének', o['entrance'], 'alt-entrance'),
+         mark_first(ORDO_LA['greeting'], 'Köszöntés', 'Salutatio'), ORDO_LA['penitential'], ORDO_LA['kyrie']]
     if m.get('gloria'):
         g.append(ORDO_LA['gloria'])
-    g.append(bi_prayer('Collecta', 'Könyörgés', o['collect'], True))
+    g.append(bi_prayer('Collecta', 'Könyörgés', o['collect'], True, 'alt-collect'))
     g.append(bi_h2('Liturgia verbi · Az Ige liturgiája'))
     if len(sets) == 1:
         g.append(bi_word(sets[0]))
@@ -504,10 +567,11 @@ def render(m):
         g.append('<div class="day-readings-la">' + bi_placeholder_readings() + '</div>')
     if m.get('creed'):
         g.append(ORDO_LA['creed'])
-    g.append(bi_h3('Oratio universalis', 'Egyetemes könyörgések') + bi_note('Az egyetemes könyörgések csak magyarul vannak, lásd fent.'))
+    g.append(bi_faithful(m['faithful']) if 'faithful' in m else
+             bi_h3('Oratio universalis', 'Egyetemes könyörgések') + noted(bi('', '(A napi egyetemes könyörgések.)', 'rub'), LA_NONE))
     g.append(bi_h2('Liturgia eucharistica · Az Eucharisztia liturgiája'))
     g.append(ORDO_LA['gifts'])
-    g.append(bi_prayer('Super oblata', 'Felajánló könyörgés', o['offertory'], False))
+    g.append(bi_prayer('Super oblata', 'Felajánló könyörgés', o['offertory'], False, 'alt-offertory'))
     g.append(la_chooser('pref', 'Praefatio · Prefáció', [(k, PREFACES[k].get('la_label') or PREFACES[k]['label']) for k in pref_keys], pref_keys[0]))
     g.append(variants('pref', [(k, bi_preface(k, names)) for k in pref_keys], pref_keys[0]))
     g.append(ORDO_LA['sanctus'])
@@ -515,10 +579,10 @@ def render(m):
     g.append(variants('ep', [(k, bi_ep(k)) for k in EPS], ep))
     g.append(bi_h2('Ritus communionis · A szentáldozás szertartása'))
     g.append(ORDO_LA['communion_rite'])
-    g.append(bi_antiphon('Antiphona ad communionem', 'Áldozási ének', o['communion']))
-    g.append(bi_prayer('Post communionem', 'Áldozás utáni könyörgés', o['postcommunion'], True))
+    g.append(bi_antiphon('Antiphona ad communionem', 'Áldozási ének', o['communion'], 'alt-communion'))
+    g.append(bi_prayer('Post communionem', 'Áldozás utáni könyörgés', o['postcommunion'], True, 'alt-postcommunion'))
     g.append(bi_h2('Ritus conclusionis · Befejező szertartás'))
-    g.append(ORDO_LA['concluding'])
+    g.append(mark_first(ORDO_LA['concluding'], 'Áldás és elbocsátás', 'Benedictio et dimissio'))
     back = '<p class="jump"><a class="btn" href="#top">↑ Vissza a magyar szöveghez</a></p>'
     h.append(f'<section id="latin" class="bilingual"><h2 class="part">Latin–magyar szöveg</h2>{back}'
              '<p class="bi-hint">Fektesd el a telefont, vagy húzd oldalra a szöveget: ⇆ latin | magyar</p>'

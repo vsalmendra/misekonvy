@@ -37,7 +37,7 @@ entrance = "@szentek-altalanos/1"      # reference: common file / formula (key =
 
 [[collect]]                            # alternatives -> buttons "Saját | Közös", first selected
 label = "Saját"
-latin_note = "…csak magyarul van meg; latinul a közös mise könyörgése áll."
+hu_only = true                         # no Latin equivalent: Latin column blank, note "Nincs latin megfelelője."
 text = '''...'''
 [[collect]]
 label = "Közös"
@@ -70,25 +70,32 @@ numbering of the petitions.
 
 The build refuses to run if a text still contains an unreplaced `N.` (except the optional
 petition for a deceased person, which is marked with a rubric). It prints how many Latin texts are
-still missing; the page shows "(A latin szöveg még nincs feltöltve.)" in their place.
+still missing; the page leaves the Latin column blank there, with a short note "Latinul még nincs
+feltöltve." beside the first line of the text.
 
 ## The page
 
 - Days without a Mass file show the Order of Mass alone (`ORDINARY` in `tools/build.py`): the day's
   prayers as rubric placeholders, prefaces of EP II (default) and EP IV, EP II default, and the
   readings of the **liturgical day** (`tools/litcal.py` → `src/cycle/<key>.json`, fetched from
-  igenaptár; long forms kept, singing aids stripped; Latin not included — one note in the Latin
-  section). Fixed-date feasts/solemnities (igenaptár "– Ü"/"– FÜ") are stored as `fix-MM-DD` and
+  igenaptár; long forms kept, singing aids stripped; no Latin yet — in the Latin section the Hungarian
+  column has them and the Latin column is blank with a note). Fixed-date feasts/solemnities (igenaptár "– Ü"/"– FÜ") are stored as `fix-MM-DD` and
   override the seasonal day (an Ü not on a Sunday). When a day gets a Mass file, its own readings are
   used; `src/cycle/<key>.json` is a good start for them.
 
 - Header: date, title, colour, then the day ("29. évközi hét szerdája · választható emléknap") and
   **which Mass is used** (`mass_type`: proper / common (formula) / votive …). The Eucharistic prayer
   and the readings are **not** listed in the header.
-- The **Latin–Hungarian section is always there**. Its preface and Eucharistic prayer follow the
-  choice made in the Hungarian part. The prayer of the faithful is only in Hungarian.
-- A Hungarian-only prayer (e.g. the own collect of a Hungarian blessed) has no Latin: the Latin
-  column takes the common's prayer and a note says so (`latin_note`).
+- The **Latin–Hungarian section is always there**. Its preface, Eucharistic prayer, readings and the
+  alternatives of each prayer (buttons) follow the choice made in the Hungarian part.
+- **Text without a Latin equivalent** (prayer of the faithful; a Hungarian-only proper, marked
+  `hu_only = true`): the Hungarian column has the text, the Latin column stays blank with a discreet
+  note "Nincs latin megfelelője." (`latin_note = "…"` replaces the note's wording).
+- **Jump lists** (menu → "Magyar" / "Latin–magyar"): built from the page — parts (h2), headings (h3),
+  and marked points inside long texts (`data-toc`: Köszöntés; in the Eucharistic prayer the
+  consecration, "Hitünk titka", the doxology; Áldás és elbocsátás). Readings show their citation
+  (`data-toc-sub`), Prefáció / Eucharisztikus ima the chosen one. A new heading in a text appears there
+  by itself.
 
 ## Rules found so far
 

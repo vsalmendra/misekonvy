@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="theme-color" content="#a3171b">
 <meta name="color-scheme" content="light dark">
-<meta name="build" content="9b5b35094d">
+<meta name="build" content="78563ef7e9">
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="icon" href="icon-192.png">
 <link rel="apple-touch-icon" href="apple-touch-icon.png">
@@ -17,11 +17,9 @@
 body { margin: 0; }
 [hidden] { display: none !important; }
 img { max-width: 100%; }
-/* landscape on phones: slimmer top bar */
+/* landscape on phones: denser menu */
 @media (orientation: landscape) and (max-height: 500px) {
-  nav.parts { padding-block: .3rem !important; }
-  nav.parts a { padding: .15rem .6rem !important; font-size: 14px !important; }
-  .tools button { height: 1.7rem !important; }
+  nav.parts .menu-item { padding-block: .3rem !important; }
 }
 </style>
 <title>Napi szentmise</title>
@@ -51,24 +49,51 @@ header.top .logo { display: block; width: 28px; height: 28px; border-radius: 7px
 h1 { font-weight: 700; font-size: 1.5em; line-height: 1.2; margin: .4rem 0 .2rem; text-wrap: balance; }
 .rank { font-style: italic; margin: 0; }
 .meta { color: var(--muted); font-size: .85em; margin: .9rem 0 0; }
-nav.parts { position: fixed; top: 0; left: 0; right: 0; z-index: 20; background: var(--bg); border-bottom: 1px solid var(--line);
-  display: flex; gap: .4rem; align-items: center; overflow-x: auto; scrollbar-width: none;
-  padding-top: calc(env(safe-area-inset-top, 0px) + .55rem); padding-bottom: .55rem;
-  padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px));
-  box-shadow: 0 4px 18px rgba(0,0,0,.12); transform: translateY(-110%); visibility: hidden;
-  transition: transform .22s ease, visibility 0s linear .22s; }
-nav.parts.open { transform: none; visibility: visible; transition: transform .22s ease; }
+/* Menu: a vertical panel just above the floating button (bottom right), within reach of the thumb */
+nav.parts { position: fixed; z-index: 20; right: calc(env(safe-area-inset-right, 0px) + 12px); bottom: calc(env(safe-area-inset-bottom, 0px) + 62px);
+  width: min(15.5rem, calc(100vw - 24px)); max-height: calc(100vh - env(safe-area-inset-top, 0px) - env(safe-area-inset-bottom, 0px) - 80px); overflow-y: auto;
+  box-sizing: border-box; display: flex; flex-direction: column; gap: .15rem; padding: .45rem;
+  background: var(--bg); border: 1px solid var(--line); border-radius: 16px; box-shadow: 0 6px 24px rgba(0,0,0,.18);
+  transform-origin: bottom right; transform: translateY(8px) scale(.96); opacity: 0; visibility: hidden;
+  transition: transform .18s ease, opacity .18s ease, visibility 0s linear .18s; }
+nav.parts.open { transform: none; opacity: 1; visibility: visible; transition: transform .18s ease, opacity .18s ease; }
 .menu-fab { position: fixed; z-index: 21; right: calc(env(safe-area-inset-right, 0px) + 12px); bottom: calc(env(safe-area-inset-bottom, 0px) + 12px);
   width: 40px; height: 40px; border-radius: 50%; border: 1px solid var(--line); background: var(--bg); color: var(--rubric);
   font-size: 18px; line-height: 1; cursor: pointer; opacity: .55; box-shadow: 0 1px 6px rgba(0,0,0,.15); transition: opacity .2s; }
 .menu-fab:hover, .menu-fab:focus-visible, .menu-fab[aria-expanded="true"] { opacity: 1; }
 @media (prefers-reduced-motion: reduce) { nav.parts, nav.parts.open { transition: none; } }
-nav.parts::-webkit-scrollbar { display: none; }
-nav.parts a { flex: none; font-family: var(--f-cap); font-size: 15px; letter-spacing: .03em; color: var(--fg); text-decoration: none;
-  background: var(--chip); border-radius: 999px; padding: .3rem .75rem; }
-nav.parts a:focus-visible, button:focus-visible { outline: 2px solid var(--rubric); outline-offset: 2px; }
-.tools { display: flex; gap: .3rem; flex: none; padding-right: .5rem; margin-right: .1rem; border-right: 1px solid var(--line); }
-.tools button { font: 600 15px var(--f-body); color: var(--rubric); background: none; border: 1px solid var(--line); border-radius: 8px; width: 2.2rem; height: 2rem; cursor: pointer; }
+.menu-item { display: flex; align-items: center; gap: .6rem; width: 100%; box-sizing: border-box; text-align: left; cursor: pointer;
+  font: 16px var(--f-body); color: var(--fg); background: none; border: 0; border-radius: 10px; padding: .55rem .6rem; }
+@media (hover: hover) { .menu-item:hover, .toc-list button:hover { background: var(--chip); } }
+.menu-item .ic { width: 1.4rem; text-align: center; color: var(--rubric); font-weight: 600; flex: none; }
+.menu-item .go { margin-left: auto; color: var(--rubric); font-size: 1.2em; line-height: 1; }
+.menu-item.nav { font-family: var(--f-cap); letter-spacing: .03em; background: var(--chip); }
+.menu-item.nav + .menu-item.nav { margin-top: .15rem; }
+.menu-row { display: flex; align-items: center; gap: .6rem; padding: .3rem .6rem; font-size: 16px; }
+.menu-row .ic { width: 1.4rem; text-align: center; color: var(--rubric); flex: none; }
+.menu-row button { font: 600 15px var(--f-body); color: var(--rubric); background: none; border: 1px solid var(--line); border-radius: 8px; width: 2.4rem; height: 2rem; cursor: pointer; }
+.menu-row button:first-of-type { margin-left: auto; }
+.menu-sep { border: 0; border-top: 1px solid var(--line); margin: .3rem .2rem; }
+nav.parts button:focus-visible, button:focus-visible { outline: 2px solid var(--rubric); outline-offset: 2px; }
+/* Jump list ("Magyar" / "Latin–magyar"): a sheet at the bottom of the screen listing every part of the Mass */
+#toc { border: 1px solid var(--line); border-radius: 16px; background: var(--bg); color: var(--fg); padding: 0; box-sizing: border-box;
+  width: min(28rem, calc(100vw - 24px)); max-height: min(82vh, 46rem); margin: auto auto calc(env(safe-area-inset-bottom, 0px) + 12px);
+  box-shadow: 0 8px 30px rgba(0,0,0,.25); }
+#toc[open] { display: flex; flex-direction: column; }
+#toc::backdrop { background: rgba(0,0,0,.35); }
+.toc-head { display: flex; align-items: center; justify-content: space-between; gap: .5rem; padding: .8rem 1rem .6rem; border-bottom: 1px solid var(--line); }
+.toc-head strong { font-family: var(--f-cap); color: var(--rubric); letter-spacing: .05em; font-weight: 700; }
+.toc-switch { font: 14px var(--f-cap); letter-spacing: .03em; color: var(--rubric); background: none; border: 1px solid var(--line); border-radius: 999px; padding: .2rem .7rem; cursor: pointer; }
+.toc-list { list-style: none; margin: 0; padding: .3rem .5rem; overflow-y: auto; flex: 1 1 auto; overscroll-behavior: contain; }
+.toc-list button { display: flex; align-items: baseline; gap: .5rem; width: 100%; text-align: left; cursor: pointer; font: 16px/1.25 var(--f-body);
+  color: var(--fg); background: none; border: 0; border-radius: 8px; padding: .42rem .5rem .42rem 1.1rem; }
+.toc-list .lv2 button { font-family: var(--f-cap); font-weight: 700; color: var(--rubric); letter-spacing: .04em; padding-left: .5rem; margin-top: .45rem; }
+.toc-list .lv4 button { padding-left: 2rem; font-size: 15px; color: var(--muted); }
+.toc-list button[aria-current="true"] { background: var(--chip); box-shadow: inset 3px 0 0 var(--rubric); }
+.toc-list .t { flex: 1 1 auto; min-width: 0; }
+.toc-list .la { display: block; font-size: 13px; font-style: italic; color: var(--muted); font-family: var(--f-body); font-weight: 400; letter-spacing: 0; }
+.toc-list .sub { flex: none; font-size: 13px; color: var(--muted); font-style: normal; }
+.toc-foot { display: flex; justify-content: flex-end; padding: .5rem 1rem .8rem; border-top: 1px solid var(--line); }
 section { padding-top: .5rem; }
 h2.part { font-family: var(--f-cap); font-weight: 700; color: var(--rubric); text-align: center; font-size: 1.15em; letter-spacing: .05em;
   margin: 2.2rem 0 .4rem; padding-bottom: .5rem; border-bottom: 1px solid var(--line); text-wrap: balance; }
@@ -96,6 +121,8 @@ button.btn { background: none; cursor: pointer; }
 /* preface / EP wrappers must not break the two-column grid */
 .bi-grid .variants, .bi-grid .variant, .bi-grid .day-readings-la { display: contents; }
 .bi-full { grid-column: 1 / -1; }
+/* No Latin for this text (or not uploaded yet): the Latin cell stays blank, with a small note on the first line */
+.bi-grid .la-note { font-size: .78em; font-style: italic; color: var(--muted); }
 .bi-lab { font-family: var(--f-cap); color: var(--muted); font-size: .8em; letter-spacing: .08em; border-bottom: 1px solid var(--line); padding-bottom: .2rem; }
 .bi-grid h3 { margin-top: 1.4rem; }
 .bi-grid .verse, .bi-grid .cons { padding-left: .5rem; }
@@ -147,10 +174,20 @@ body.empty #top, body.empty #jump-latin, body.empty #notice, body.empty .legend 
 <button class="menu-fab" id="menu-fab" type="button" aria-label="Menü megnyitása" aria-controls="parts-nav" aria-expanded="false">☰</button>
 </head>
 <body>
-<nav class="parts" id="parts-nav" aria-label="A mise részei">
-  <span class="tools"><button id="pick-date" type="button" aria-label="Másik nap választása" title="Másik nap">📅</button><button id="smaller" type="button" aria-label="Kisebb betű">A−</button><button id="bigger" type="button" aria-label="Nagyobb betű">A+</button><button id="theme-toggle" type="button" aria-label="Sötét mód">☾</button><button id="reload" type="button" aria-label="Frissítés" title="Frissítés">↻</button></span>
-  <a href="#r1">Bevezetés</a><a href="#r2">Igeliturgia</a><a href="#r3">Eucharisztia</a><a href="#r4">Áldozás</a><a href="#r5">Befejezés</a><a href="#latin">Latin</a>
+<nav class="parts" id="parts-nav" aria-label="Menü">
+  <button type="button" class="menu-item" id="pick-date" aria-label="Másik nap választása"><span class="ic">📅</span>Másik nap</button>
+  <div class="menu-row"><span class="ic">A</span>Betűméret<button id="smaller" type="button" aria-label="Kisebb betű">A−</button><button id="bigger" type="button" aria-label="Nagyobb betű">A+</button></div>
+  <button type="button" class="menu-item" id="theme-toggle"><span class="ic">☾</span><span class="lab">Sötét mód</span></button>
+  <button type="button" class="menu-item" id="reload" aria-label="Frissítés"><span class="ic">↻</span>Frissítés</button>
+  <hr class="menu-sep">
+  <button type="button" class="menu-item nav" id="toc-la" aria-haspopup="dialog">Latin–magyar<span class="go">›</span></button>
+  <button type="button" class="menu-item nav" id="toc-hu" aria-haspopup="dialog">Magyar<span class="go">›</span></button>
 </nav>
+<dialog id="toc" aria-labelledby="toc-title">
+  <div class="toc-head"><strong id="toc-title"></strong><button type="button" class="toc-switch" id="toc-switch"></button></div>
+  <ol class="toc-list" id="toc-list"></ol>
+  <div class="toc-foot"><button type="button" class="cal-close" id="toc-close">Bezárás</button></div>
+</dialog>
 <dialog id="cal" aria-labelledby="cal-month">
   <div class="cal-head"><button type="button" id="cal-prev" aria-label="Előző hónap">‹</button><strong id="cal-month"></strong><button type="button" id="cal-next" aria-label="Következő hónap">›</button></div>
   <div class="cal-grid" id="cal-grid"></div>
@@ -184,8 +221,7 @@ body.empty #top, body.empty #jump-latin, body.empty #notice, body.empty .legend 
   function setMenu(open) { bar.classList.toggle('open', open); fab.setAttribute('aria-expanded', open ? 'true' : 'false');
     fab.textContent = open ? '✕' : '☰'; fab.setAttribute('aria-label', open ? 'Menü bezárása' : 'Menü megnyitása'); }
   fab.addEventListener('click', function (e) { e.stopPropagation(); setMenu(!bar.classList.contains('open')); });
-  bar.querySelectorAll('a').forEach(function (a) { a.addEventListener('click', function () { setMenu(false); }); });
-  document.addEventListener('click', function (e) { if (bar.classList.contains('open') && !bar.contains(e.target) && e.target !== fab && !cal.contains(e.target)) setMenu(false); });
+  document.addEventListener('click', function (e) { if (bar.classList.contains('open') && !bar.contains(e.target) && e.target !== fab && !cal.contains(e.target) && !toc.contains(e.target)) setMenu(false); });
   document.addEventListener('keydown', function (e) { if (e.key === 'Escape') setMenu(false); });
   // Refresh: drop the offline copy (installed app) and load the newest text
   function hardReload() {
@@ -197,7 +233,7 @@ body.empty #top, body.empty #jump-latin, body.empty #notice, body.empty .legend 
   // Dark / light mode toggle (remembered on this device)
   var THEME = 'mise-theme', tbtn = $('theme-toggle');
   function isDark() { var t = root.getAttribute('data-theme'); return t ? t === 'dark' : window.matchMedia('(prefers-color-scheme: dark)').matches; }
-  function label() { var d = isDark(); tbtn.textContent = d ? '☀' : '☾'; tbtn.setAttribute('aria-label', d ? 'Világos mód' : 'Sötét mód'); tbtn.title = d ? 'Világos mód' : 'Sötét mód'; }
+  function label() { var d = isDark(); tbtn.querySelector('.ic').textContent = d ? '☀' : '☾'; tbtn.querySelector('.lab').textContent = d ? 'Világos mód' : 'Sötét mód'; }
   try { var st = localStorage.getItem(THEME); if (st === 'dark' || st === 'light') root.setAttribute('data-theme', st); } catch (e) {}
   label();
   tbtn.addEventListener('click', function () {
@@ -304,6 +340,67 @@ body.empty #top, body.empty #jump-latin, body.empty #notice, body.empty .legend 
     view = monthOf(current || today); renderCal();
     if (cal.showModal) cal.showModal(); else cal.setAttribute('open', '');
   });
+
+  // Jump lists: "Magyar" (the Hungarian text) and "Latin–magyar" (the bilingual section). Built from the
+  // page each time they open, so they list exactly what is shown: the parts of the Mass (h2), every
+  // heading (h3) and the marked points inside long texts (data-toc: consecration, doxology …), with the
+  // citation of the readings and the chosen preface / Eucharistic prayer. The current place is marked.
+  var toc = $('toc'), tocMode = 'hu';
+  var CHOSEN = { 'Prefáció': 'sel-pref', 'Eucharisztikus ima': 'sel-ep' };
+  function visible(el) { return !el.closest('[hidden]') && el.getClientRects().length > 0; }
+  function tocEntries(mode) {
+    var out = [], la = $('latin');
+    if (mode === 'hu') {
+      document.querySelectorAll('#mass > section:not(.bilingual)').forEach(function (sec) {
+        sec.querySelectorAll('h2.part, h3, [data-toc]').forEach(function (el) {
+          if (!visible(el)) return;
+          var e = { el: el, lv: el.tagName === 'H2' ? 2 : el.tagName === 'H3' ? 3 : 4, text: el.dataset.toc || el.textContent, sub: el.dataset.tocSub || '' };
+          var sel = CHOSEN[e.text] && $(CHOSEN[e.text]);
+          if (sel) e.sub = sel.options[sel.selectedIndex].text;
+          out.push(e);
+        });
+      });
+    } else if (la) {
+      la.querySelectorAll('.bi-grid h2.part, h3.bi-r, [data-toc]').forEach(function (el) {
+        if (!visible(el)) return;
+        if (el.tagName === 'H2') { out.push({ el: el, lv: 2, text: el.textContent }); return; }
+        if (el.dataset.toc) { out.push({ el: el, lv: 4, text: el.dataset.toc, la: el.dataset.tocLa || '' }); return; }
+        var l = el.previousElementSibling;
+        out.push({ el: el, lv: 3, text: el.textContent, la: l && l.matches('h3.bi-l') ? l.textContent : '', sub: el.dataset.tocSub || '' });
+      });
+    }
+    return out;
+  }
+  function jump(el) {
+    // by the vertical position only: the bilingual grid must not scroll sideways
+    window.scrollTo(0, Math.max(0, el.getBoundingClientRect().top + window.scrollY - 12));
+  }
+  function openToc(mode) {
+    tocMode = mode;
+    setMenu(false);
+    var list = $('toc-list'), entries = tocEntries(mode), cur = null;
+    $('toc-title').textContent = mode === 'hu' ? 'Magyar szöveg' : 'Latin–magyar szöveg';
+    $('toc-switch').textContent = mode === 'hu' ? 'Latin–magyar ›' : 'Magyar ›';
+    list.textContent = '';
+    entries.forEach(function (e) {
+      var li = document.createElement('li'), b = document.createElement('button'), t = document.createElement('span');
+      li.className = 'lv' + e.lv; b.type = 'button'; t.className = 't'; t.textContent = e.text;
+      if (e.la) { var l = document.createElement('span'); l.className = 'la'; l.lang = 'la'; l.textContent = e.la; t.appendChild(l); }
+      b.appendChild(t);
+      if (e.sub) { var s = document.createElement('span'); s.className = 'sub'; s.textContent = e.sub; b.appendChild(s); }
+      b.addEventListener('click', function () { toc.close(); jump(e.el); });
+      li.appendChild(b); list.appendChild(li);
+      if (e.el.getBoundingClientRect().top <= 80) cur = b;     // the last part already reached = where the reader is
+    });
+    if (!entries.length) { var li = document.createElement('li'); li.className = 'lv3'; li.textContent = '—'; list.appendChild(li); }
+    if (toc.showModal) toc.showModal(); else toc.setAttribute('open', '');
+    if (cur) { cur.setAttribute('aria-current', 'true'); cur.scrollIntoView({ block: 'center' }); }
+  }
+  $('toc-hu').addEventListener('click', function () { openToc('hu'); });
+  $('toc-la').addEventListener('click', function () { openToc('la'); });
+  $('toc-switch').addEventListener('click', function () { toc.close(); openToc(tocMode === 'hu' ? 'la' : 'hu'); });
+  $('toc-close').addEventListener('click', function () { toc.close(); });
+  toc.addEventListener('click', function (e) { if (e.target === toc) toc.close(); });
 
   // No Mass to show: the app logo, a reload button and (if there are other days) the date picker
   function empty(msg) {

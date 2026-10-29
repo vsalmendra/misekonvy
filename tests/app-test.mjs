@@ -79,6 +79,22 @@ async function open(day, path = '', { blockCalendar = false, blockOrdinary = fal
   let offered = await t.page.$$eval('#cal-grid button.has', b => b.length);
   for (let i = 1; i < months.size; i++) { await t.page.click('#cal-prev'); offered += await t.page.$$eval('#cal-grid button.has', b => b.length); }
   check(offered === dates.length, `date picker offers ${offered} of ${dates.length} days`);
+  await t.page.click('#cal-close');
+  // Jump lists: "Magyar" lists the Hungarian parts and jumps to the gospel; "Latin–magyar" the bilingual ones.
+  await t.page.click('#menu-fab'); await t.page.click('#toc-hu');
+  const hu = await t.page.$$eval('#toc-list button .t', b => b.map(x => x.firstChild.textContent));
+  check(hu.length > 20 && ['Bevezető szertartás', 'Evangélium', 'Hitünk titka', 'Áldozás'].every(x => hu.includes(x)), `"Magyar" jump list: ${hu.length} entries`);
+  await t.page.click('#toc-list button:has-text("Evangélium")');
+  const top = await t.page.evaluate(() => [...document.querySelectorAll('#r2 h3')].find(h => h.textContent === 'Evangélium').getBoundingClientRect().top);
+  check(!(await t.page.$eval('#toc', d => d.open)) && Math.abs(top - 12) < 3, `jump to the gospel (heading at ${Math.round(top)}px)`);
+  await t.page.click('#menu-fab'); await t.page.click('#toc-la');
+  const la = await t.page.$$eval('#toc-list button .la', b => b.map(x => x.textContent));
+  check(la.includes('Collecta') && la.includes('Oratio universalis'), `"Latin–magyar" jump list: ${la.length} entries with Latin names`);
+  await t.page.click('#toc-close');
+  // No Latin equivalent: blank Latin column with a short note, the Hungarian text is there.
+  const note = await t.page.$$eval('#latin .la-note', n => n.map(x => x.textContent));
+  const hupet = await t.page.$$eval('#latin h3.bi-r', h => h.some(x => x.textContent === 'Egyetemes könyörgések' && x.nextElementSibling.nextElementSibling?.textContent.length > 20));
+  check(note.includes('Nincs latin megfelelője.') && hupet, 'prayer of the faithful in the bilingual section: Hungarian text, Latin blank with a note');
   await t.ctx.close();
 }
 
@@ -131,6 +147,8 @@ for (const day of [shift(first, -1), gap].filter(Boolean)) {
     const meta = await t.page.textContent('#m-meta');
     check((await t.state()).ordinary && !text.includes('lekcionáriumból') && text.includes('Ez az Isten igéje') && meta === days[day][0],
       `${day}: Order of Mass with the readings of "${meta}" (${days[day][1]})`);
+    const laText = await t.page.innerText('#latin');
+    check(laText.includes('Latinul még nincs feltöltve.') && laText.includes('Ez az Isten igéje'), `${day}: bilingual readings in Hungarian, Latin blank with a note`);
     await t.ctx.close();
   }
 }
