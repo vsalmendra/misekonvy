@@ -104,7 +104,11 @@ feltöltve." beside the first line of the text.
   (`/nap/index.php?holnap=YYYY-MM-DD`; the month page `/` lists ranks and optional memorials).
 - Weekdays, memorials and votive masses use the **ferial (continuous) readings** of the day,
   not the proper readings of the saint, unless the user asks otherwise.
-- igenaptár labels Pauline readings "Szentlecke"; keep its label.
+- igenaptár labels Pauline readings "Szentlecke"; keep its label: it is the first word of the
+  **title the reader announces** ("Szentlecke Szent Pál apostolnak a filippiekhez írt leveléből."),
+  shown in black small capitals just above the text. The heading names only the place: "Olvasmány"
+  (one reading), "Első olvasmány" / "Második olvasmány" (two). The lectionary's summary sentence
+  (`summary`) comes between the heading and the title, in red italics (user, 2026-10-30).
 - **Prayer of the faithful: from the lectionary, not from igenaptár.** The weekday lectionary has
   different sets for even and odd years, and igenaptár does not always pick the right one.
   (Source still to be found online — www.liturgia.hu? Until then igenaptár's text is used and the

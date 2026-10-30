@@ -211,18 +211,36 @@ def bi_prayer(la_title, hu_title, opts, intro, group):
 
 # ---------- readings ----------
 
-def reading(r):
-    out = [f'<h3>{esc(r.get("label", "Olvasmány"))}</h3>', p(esc(r['sub']), 'sub')]
+# Headings name the reading's place (first / second), never "Szentlecke": that word belongs to the
+# title the reader announces ("Szentlecke Szent Pál apostolnak …"), shown in black just above the text.
+# The summary sentence of the lectionary comes before the title, in red italics.
+HEADS = {1: [('Olvasmány', 'Lectio')], 2: [('Első olvasmány', 'Lectio prior'), ('Második olvasmány', 'Lectio altera')]}
+
+
+def heads(r):
+    return HEADS[2 if 'reading2' in r else 1]
+
+
+def title(r):
+    """What the reader announces: "Olvasmány Izajás próféta könyvéből." / "Szentlecke Szent Pál …"."""
+    t = f'{r.get("label", "Olvasmány")} {r["sub"]}'.strip()
+    return esc(t if t.endswith('.') else t + '.')
+
+
+def reading(r, head='Olvasmány'):
+    out = [f'<h3>{head}</h3>']
     if r.get('summary'):
-        out.append(p(esc(r['summary']), 'rub'))
-    out += [paras(r['text']) if r.get('text') else p(NO_HU, 'rub'),
+        out.append(p(esc(r['summary']), 'sub'))
+    out += [p(title(r), 'rtitle'), paras(r['text']) if r.get('text') else p(NO_HU, 'rub'),
             p('Ez az Isten igéje.'), resp('Istennek legyen hála.'), cite(r['cite'])]
     return '\n'.join(out)
 
 
-def bi_reading(r):
-    return (bi_h3('Lectio', esc(r.get('label', 'Olvasmány'))) +
-            noted(bi(esc(r.get('la_sub', '')), esc(r['sub']), 'rub') + bi_paras(r.get('la'), r.get('text', '')), NO_LATIN) +
+def bi_reading(r, head=('Olvasmány', 'Lectio')):
+    summary = f'<p class="bi-l"></p><p class="bi-r sub">{esc(r["summary"])}</p>' if r.get('summary') else ''
+    la_title = esc(r.get('la_sub', ''))
+    return (bi_h3(head[1], head[0]) + summary +
+            noted(bi(la_title, title(r), 'rtitle') + bi_paras(r.get('la'), r.get('text', '')), NO_LATIN) +
             bi('Verbum Dómini.', 'Ez az Isten igéje.') + bi('Deo grátias.', 'Istennek legyen hála.', 'resp') + bi_cite(r['cite']))
 
 
@@ -280,12 +298,14 @@ def bi_gospel(g):
 
 def word(r):
     """The readings of the Liturgy of the Word (one set)."""
-    out = [reading(r['reading1']), psalm(r['psalm'])] + ([reading(r['reading2'])] if 'reading2' in r else [])
+    h = heads(r)
+    out = [reading(r['reading1'], h[0][0]), psalm(r['psalm'])] + ([reading(r['reading2'], h[1][0])] if 'reading2' in r else [])
     return '\n'.join(out + [alleluia(r['alleluia']), gospel(r['gospel'])])
 
 
 def bi_word(r):
-    out = [bi_reading(r['reading1']), bi_psalm(r['psalm'])] + ([bi_reading(r['reading2'])] if 'reading2' in r else [])
+    h = heads(r)
+    out = [bi_reading(r['reading1'], h[0]), bi_psalm(r['psalm'])] + ([bi_reading(r['reading2'], h[1])] if 'reading2' in r else [])
     return ''.join(out + [bi_alleluia(r['alleluia']), bi_gospel(r['gospel'])])
 
 
@@ -464,8 +484,7 @@ def build_cycle(first=Date(2026, 10, 1), last=Date(2029, 12, 31)):
     have, written = {}, set()
     for path in sorted((SRC / 'cycle').glob('*.json')):
         r = json.loads(path.read_text(encoding='utf-8'))
-        hu = [reading(r['reading1']), psalm(r['psalm'])] + ([reading(r['reading2'])] if 'reading2' in r else [])
-        hu += [alleluia(r['alleluia']), gospel(r['gospel'])]
+        hu = [word(r)]
         # No Latin lectionary text for these days yet: the Hungarian column only, the Latin one blank with a note.
         (out / f'{path.stem}.json').write_text(json.dumps({'html': '\n'.join(hu), 'la_html': bi_word(r)},
                                                           ensure_ascii=False), encoding='utf-8')
