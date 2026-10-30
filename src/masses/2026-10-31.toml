@@ -1,0 +1,119 @@
+# Recipe: src/masses/2026-10-31.md
+date = "2026-10-31"
+title = "Szűz Mária szombati emléknapja"
+day = "30. évközi hét szombatja"
+rank = "fehér színben"
+gloria = false
+creed = false
+eucharistic_prayer = 3
+prefaces = ["maria-1", "maria-2"]
+mass_type = "Szűz Mária közös miséi (1)"
+# Marian preface I: the common's rubric for the Saturday of Mary / votive Masses (1991 p. 652:
+# "votív misékben: és amikor tiszteljük a Boldogságos, mindenkor Szűz Máriát"; 1977 p. 800:
+# "in Missis votivis: Et te in veneratione").
+names = [["s a Boldogságos, mindenkor Szűz Mária N. ünnepén", "és amikor tiszteljük a Boldogságos, mindenkor Szűz Máriát,"]]
+la_names = [["Et te in N. beátæ", "Et te in veneratióne beátæ"]]
+
+# Szűz Mária közös miséi, 1 (first formula; 1-3 are those for Ordinary Time). Collect: the first one only.
+entrance = "@szuz-maria/1"
+collect = "@szuz-maria/1"
+offertory = "@szuz-maria/1"
+communion = "@szuz-maria/1"
+postcommunion = "@szuz-maria/1"
+
+# Readings: of the day (30. évközi hét szombat, II. év), from src/cycle/evkozi-30-6-II.json (igenaptár).
+[reading1]
+label = "Szentlecke"
+sub = "Szent Pál apostolnak a filippiekhez írt leveléből"
+summary = "A keresztény ember számára az élet Krisztus, a halál pedig nyereség."
+cite = "Fil 1,18b-26"
+la_sub = "Lectio Epistolae beati Pauli apostoli ad Philippenses"
+text = '''
+Testvéreim!
+
+Mindig örülök, és ezután is örülni fogok, ha azt hallom, hogy valaki Krisztust hirdeti. Tudom ugyanis, hogy ez (az igehirdetés) a ti imádságtok által és Jézus Krisztus Lelkének segítségével üdvösségemre válik.
+
+Abban bízom és remélek, hogy semmiben sem vallok szégyent. Sőt nyíltan megmondom, hogy Krisztus most is, mint mindig, megdicsőül testemben, akkor is, ha élek, akkor is, ha meghalok. Hiszen számomra az élet Krisztus, a halál pedig nyereség. Ha viszont tovább kell élnem, az gyümölcsöző munkát jelent.
+
+Nem tudom tehát, mit válasszak, mert mind a kettő vonz: Szeretnék elköltözni (e világból), hogy Krisztussal legyek, mert ez mindennél jobb volna. De hogy értetek életben maradjak, arra nagyobb szükség van. Ebben a meggyőződésben biztosra veszem, hogy életben maradok, sőt előrehaladástokra és hitből fakadó örömötökre maradok meg, mindnyájatok javára. Így még több okotok lesz arra, hogy Krisztusban örüljetek, ha majd elmegyek hozzátok.
+'''
+la = '''
+Fratres:
+
+Dum omni modo, sive sub obtentu, sive in veritate, Christus annuntiatur, et in hoc gaudeo; sed et gaudebo, scio enim quia hoc mihi proveniet in salutem per vestram orationem et subministrationem Spiritus Iesu Christi,
+
+secundum exspectationem et spem meam quia in nullo confundar, sed in omni fiducia sicut semper et nunc magnificabitur Christus in corpore meo, sive per vitam sive per mortem. Mihi enim vivere Christus est et mori lucrum. Quod si vivere in carne, hic mihi fructus operis est;
+
+et quid eligam ignoro. Coartor autem ex his duobus, desiderium habens dissolvi et cum Christo esse, multo magis melius; permanere autem in carne magis necessarium est propter vos. Et hoc confidens, scio quia manebo et permanebo omnibus vobis ad profectum vestrum et gaudium fidei, ut gloriatio vestra abundet in Christo Iesu in me per meum adventum iterum ad vos.
+'''
+
+[psalm]
+cite = "Zsolt 41,2.3.5bcd"
+response = "Istent szomjazza lelkem: az élő Istent."
+la_response = "Sitivit anima mea ad Deum vivum."
+verses = [
+'''
+Mint szarvasgím a források vizére,
+úgy sóvárog utánad a lelkem, Istenem.
+''',
+'''
+Lelkem szomjazik az Isten után, az élő Isten után,
+mikor mehetek, hogy megjelenjek az Isten színe előtt?
+''',
+'''
+Arra gondolok, hogyan mentem be a csodás hajlékba Isten házáig,
+miközben ujjongott és énekelt az ünneplő sokaság.
+''']
+la_verses = [
+'''
+Quemadmodum desiderat cervus ad fontes aquarum,
+ita desiderat anima mea ad te, Deus.
+''',
+'''
+Sitivit anima mea ad Deum, Deum vivum:
+quando veniam et apparebo ante faciem Dei?
+''',
+'''
+Quoniam transibam in locum tabernaculi admirabilis
+usque ad domum Dei,
+in voce exsultationis et confessionis,
+multitudinis festa celebrantis.
+''']
+
+[alleluia]
+cite = "Mt 11,29ab"
+text = "Vegyétek magatokra igámat, és tanuljatok tőlem, mert szelíd vagyok és alázatos szívű!"
+la = "Tollite iugum meum super vos, dicit Dominus, et discite a me, quia mitis sum et humilis corde."
+
+[gospel]
+book = "Szent Lukács"
+la_book = "Lucam"
+summary = "A kevélyt megalázzák, az alázatost dicsőségre emelik."
+cite = "Lk 14,1.7-11"
+text = '''
+Az egyik szombaton Jézus betért egy vezető farizeus házába, hogy nála étkezzék. Amikor észrevette, hogy a meghívottak válogatják az első helyeket, egy példabeszédet mondott nekik.
+
+„Amikor lakodalomra hívnak, ne ülj az első helyre, mert akadhat a hivatalosak közt nálad előkelőbb is. Ha ez megérkezik, odajön, aki meghívott titeket, és felszólít: »Add át a helyedet neki!« És akkor szégyenszemre az utolsó helyet kell elfoglalnod.
+
+Ha tehát hivatalos vagy valahova, menj el, és foglald el az utolsó helyet, hogy amikor a házigazda odajön, így szóljon hozzád: »Barátom, menj följebb!« Milyen kitüntetés lesz ez számodra a többi vendég előtt! Mert mindazt, aki magát felmagasztalja, megalázzák, aki pedig magát megalázza, azt felmagasztalják.”
+'''
+la = '''
+In illo tempore: Factum est, cum intraret Iesus in domum cuiusdam principis Pharisaeorum sabbato manducare panem, et ipsi observabant eum. Dicebat autem ad invitatos parabolam, intendens quomodo primos accubitus eligerent, dicens ad illos:
+
+«Cum invitatus fueris ab aliquo ad nuptias, non discumbas in primo loco, ne forte honoratior te sit invitatus ab eo, et veniens is qui te et illum vocavit, dicat tibi: "Da huic locum"; et tunc incipias cum rubore novissimum locum tenere.
+
+Sed cum vocatus fueris, vade, recumbe in novissimo loco, ut cum venerit qui te invitavit, dicat tibi: "Amice, ascende superius": tunc erit tibi gloria coram omnibus simul discumbentibus. Quia omnis qui se exaltat humiliabitur; et qui se humiliat exaltabitur».
+'''
+
+[faithful]
+intro = "Bizalommal forduljunk Istenhez, aki Máriát, Krisztus anyját fölébe helyezte minden égi és földi teremtménynek!"
+response = "Kérünk téged, hallgass meg minket!"
+petitions = [
+  "Irgalmasság Atyja, köszönjük, hogy a Boldogságos Szűz Máriában égi édesanyát adtál nekünk; add, hogy mindig gyermeki szeretettel ragaszkodjunk hozzá!",
+  "Szűz Mária tanulékony lélekkel figyelt Jézus szavára; add, hogy példája szerint mi is szívünkbe fogadjuk szent Fiad igéit!",
+  "A kereszt alatt álló Máriát megerősítetted a fájdalmak elviselésére; az ő közbenjárására adj erőt nekünk is a kereszt hordozására!",
+  "Szent Fiad feltámadása által örömmel töltötted el Szűz Mária szívét; tölts el minket is a feltámadás reménységével!",
+  "Szűz Máriát testével-lelkével felvetted a mennyei dicsőségbe; földi életünk után add meg nekünk is az örök életet!",
+  { note = "Ha a szentmisét elhunytért mutatják be:", text = "A Boldogságos Szűz Mária a mennyország királynője; az ő közbenjárására fogadd be elhunyt testvéreinket is az örök élet boldogságába!" },
+]
+conclusion = "Add meg, kérünk, mindenható Istenünk, hogy mi, a te híveid, akik a Boldogságos Szűz Mária oltalmában bízunk, anyai közbenjárására minden rossztól megszabaduljunk itt a földön, és az örök élet örömére eljussunk a mennyben. Krisztus, a mi Urunk által."

@@ -1,0 +1,104 @@
+# Szűz Mária közös miséi (Commune beatae Mariae Virginis).
+# Hungarian: Római Misekönyv, 1991 Hungarian edition (PPEK 335, Misekonyv_1.pdf), "Szűz Mária miséi",
+# pp. 652-659 ("Az alábbi szövegeket mondjuk Szűz Mária szombatján és a Boldogságos Szűz Mária votív
+# miséiben."). Formulas 1-3 carry no season (= Tempore per annum); 4 Advent, 5 Christmas, 6 Eastertime,
+# then "Egyéb könyörgések". Only formula 1 stored so far (pp. 652-653).
+# Not yet checked against the new (2021/2023) Hungarian missal.
+# Latin (<key>_la): Missale Romanum cum lectionibus 1977, vol. IV, Commune beatae Mariae Virginis 1,
+# pp. 800-801 (archive.org, OCR corrected by hand; no accents; "Per Dominum." / "Per Christum." expanded).
+# collect_b = the "Vagy:" of the book (not used: only the first prayer is taken).
+# Preface: "a Boldogságos Szűz Máriáról I. (votív misékben: és amikor tiszteljük a Boldogságos, mindenkor
+# Szűz Máriát), vagy II." -> prefaces.toml maria-1 / maria-2; the Mass file fills maria-1's "N." with
+# `names` / `la_names`.
+
+[1]
+entrance_cite = "Sedulius"
+entrance = '''
+Üdvöz légy, Szűzanya!
+Te szülted a Királyt,
+aki az ég és a föld Ura mindörökkön-örökké.
+'''
+collect = '''
+Engedd, kérünk, Úristen, hogy mi, a te szolgáid,
+folytonos lelki és testi jólétnek örvendhessünk,
+és a Boldogságos, mindenkor Szűz Máriának
+dicsőséges közbenjárására a jelen szomorúságtól megszabaduljunk,
+és örökké tartó örömet élvezzünk.
+A mi Urunk, Jézus Krisztus, a te Fiad által,
+aki veled él és uralkodik a Szentlélekkel egységben,
+Isten mindörökkön-örökké.
+'''
+collect_b = '''
+Urunk, Istenünk, bocsásd meg irgalmasan vétkeinket,
+hogy akik saját érdemeinkkel nem dicsekedhetünk,
+Fiad szülőanyjának,
+a Boldogságos Szűz Máriának közbenjárására üdvözüljünk.
+A mi Urunk, Jézus Krisztus, a te Fiad által,
+aki veled él és uralkodik a Szentlélekkel egységben,
+Isten mindörökkön-örökké.
+'''
+offertory = '''
+Urunk, Istenünk, segítsen minket szent Fiad,
+aki emberré lett és Szűztől született.
+Ő, aki édesanyjának szűzi épségét nem vette el,
+hanem inkább megszentelte,
+szabadítson meg gyarlóságainktól,
+és tegye kedvessé előtted áldozatunkat.
+Aki él és uralkodik mindörökkön-örökké.
+'''
+communion_cite = "Vö. Lk 11,27"
+communion = '''
+Boldog asszony Szűz Mária:
+méhében hordozta az örök Atya Fiát.
+'''
+postcommunion = '''
+Urunk, Istenünk, magunkhoz vettük az égi kenyeret.
+Kérjük kegyelmedet,
+hogy akik Szűz Máriát örvendezve ünnepeljük,
+őt követve mi is méltók legyünk a megváltás művét szolgálni.
+Krisztus, a mi Urunk által.
+'''
+
+entrance_la = '''
+Salve, sancta Parens, enixa puerpera Regem,
+qui caelum terramque regit in saecula saeculorum.
+'''
+collect_la = '''
+Concede nos famulos tuos, quaesumus, Domine Deus,
+perpetua mentis et corporis sanitate gaudere,
+et, gloriosa beatae Mariae semper Virginis intercessione,
+a praesenti liberari tristitia, et aeterna perfrui laetitia.
+Per Dominum nostrum Iesum Christum, Filium tuum,
+qui tecum vivit et regnat in unitate Spiritus Sancti,
+Deus, per omnia saecula saeculorum.
+'''
+collect_b_la = '''
+Famulorum tuorum, quaesumus, Domine, delictis ignosce,
+ut, qui tibi placere de actibus nostris non valemus,
+Genetricis Filii tui Domini nostri intercessione salvemur.
+Per Dominum nostrum Iesum Christum, Filium tuum,
+qui tecum vivit et regnat in unitate Spiritus Sancti,
+Deus, per omnia saecula saeculorum.
+'''
+# The 1977 Latin ends "Per Christum."; the Hungarian 1991 "Aki él és uralkodik mindörökkön-örökké."
+offertory_la = '''
+Unigeniti tui, Domine, nobis succurrat humanitas,
+ut, qui natus de Virgine
+Matris integritatem non minuit sed sacravit,
+a nostris nos piaculis exuens,
+oblationem nostram tibi reddat acceptam.
+Per Christum Dominum nostrum.
+'''
+communion_la = '''
+Beata viscera Mariae Virginis,
+quae portaverunt aeterni Patris Filium.
+'''
+postcommunion_la = '''
+Sumentes, Domine, caelestia sacramenta,
+quaesumus clementiam tuam,
+ut, qui de beatae Virginis Mariae festivitate laetamur,
+eiusdem Virginis imitatione,
+redemptionis nostrae mysterio
+digne valeamus famulari.
+Per Christum Dominum nostrum.
+'''
