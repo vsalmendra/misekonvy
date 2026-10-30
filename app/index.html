@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="theme-color" content="#a3171b">
 <meta name="color-scheme" content="light dark">
-<meta name="build" content="2300e62b65">
+<meta name="build" content="5042c378a6">
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="icon" href="icon-192.png">
 <link rel="apple-touch-icon" href="apple-touch-icon.png">
@@ -84,7 +84,10 @@ nav.parts button:focus-visible, button:focus-visible { outline: 2px solid var(--
 #toc::backdrop { background: rgba(0,0,0,.35); }
 .toc-head { display: flex; align-items: center; justify-content: space-between; gap: .5rem; padding: .8rem 1rem .6rem; border-bottom: 1px solid var(--line); }
 .toc-head strong { font-size: .9em; min-width: 0; font-family: var(--f-cap); color: var(--rubric); letter-spacing: .05em; font-weight: 700; }
-.toc-switch { font: .8em var(--f-cap); flex: none; letter-spacing: .03em; color: var(--rubric); background: none; border: 1px solid var(--line); border-radius: 999px; padding: .2rem .7rem; cursor: pointer; }
+.toc-seg { display: flex; flex: 1 1 auto; border: 1px solid var(--line); border-radius: 999px; padding: 2px; gap: 2px; }
+.toc-seg button { flex: 1 1 50%; font: .8em var(--f-cap); letter-spacing: .03em; color: var(--rubric); background: none; border: 0; border-radius: 999px; padding: .35rem .5rem; cursor: pointer; }
+.toc-seg button[aria-pressed="true"] { background: var(--rubric); color: var(--bg); }
+#toc .toc-foot { justify-content: space-between; gap: .5rem; }
 .toc-list { list-style: none; margin: 0; padding: .3rem .5rem; overflow-y: auto; flex: 1 1 auto; overscroll-behavior: contain; }
 .toc-list button { display: flex; align-items: baseline; gap: .5rem; width: 100%; text-align: left; cursor: pointer; font: 1em/1.25 var(--f-body);
   color: var(--fg); background: none; border: 0; border-radius: 8px; padding: .42rem .5rem .42rem 1.1rem; }
@@ -93,7 +96,7 @@ nav.parts button:focus-visible, button:focus-visible { outline: 2px solid var(--
 .toc-list button[aria-current="true"] { background: var(--chip); box-shadow: inset 3px 0 0 var(--rubric); }
 .toc-list .t { flex: 1 1 auto; min-width: 0; }
 .toc-list .la { display: block; font-size: .8em; font-style: italic; color: var(--muted); font-family: var(--f-body); font-weight: 400; letter-spacing: 0; }
-#toc-close { font-size: .8em; height: 2.4em; }
+#toc-close, #toc-top { font-size: .8em; height: 2.4em; }
 /* Update log (menu → Napló) */
 #log { border: 1px solid var(--line); border-radius: 16px; background: var(--bg); color: var(--fg); padding: 0; box-sizing: border-box;
   width: min(40rem, calc(100vw - 24px)); max-height: min(82vh, 46rem); box-shadow: 0 8px 30px rgba(0,0,0,.25); }
@@ -199,8 +202,8 @@ body.empty #top, body.empty #jump-latin, body.empty #notice, body.empty .legend 
   <button type="button" class="menu-item" id="reload" aria-label="Frissítés"><span class="ic">↻</span>Frissítés</button>
   <button type="button" class="menu-item" id="show-log"><span class="ic">ⓘ</span>Napló</button>
   <hr class="menu-sep">
-  <button type="button" class="menu-item nav" id="toc-la" aria-haspopup="dialog">Latin–magyar<span class="go">›</span></button>
-  <button type="button" class="menu-item nav" id="toc-hu" aria-haspopup="dialog">Magyar<span class="go">›</span></button>
+  <button type="button" class="menu-item nav" id="go-top"><span class="ic">⌂</span>Az elejére</button>
+  <button type="button" class="menu-item nav" id="toc-open" aria-haspopup="dialog">A mise részei<span class="go">›</span></button>
 </nav>
 <dialog id="log" aria-labelledby="log-head">
   <div class="toc-head"><strong id="log-head"></strong></div>
@@ -208,10 +211,10 @@ body.empty #top, body.empty #jump-latin, body.empty #notice, body.empty .legend 
   <div class="toc-foot"><button type="button" class="cal-close" id="log-clear">Törlés</button><button type="button" class="cal-close" id="log-copy">Másolás</button><button type="button" class="cal-close" id="log-close">Bezárás</button></div>
 </dialog>
 <div class="update" id="update" hidden><button type="button" class="btn" id="update-btn">↻ Új változat – frissítés</button></div>
-<dialog id="toc" aria-labelledby="toc-title">
-  <div class="toc-head"><strong id="toc-title"></strong><button type="button" class="toc-switch" id="toc-switch"></button></div>
+<dialog id="toc" aria-label="A mise részei">
+  <div class="toc-head"><div class="toc-seg" role="group" aria-label="Szöveg"><button type="button" id="toc-mode-hu" aria-pressed="true">Magyar</button><button type="button" id="toc-mode-la" aria-pressed="false">Latin–magyar</button></div></div>
   <ol class="toc-list" id="toc-list"></ol>
-  <div class="toc-foot"><button type="button" class="cal-close" id="toc-close">Bezárás</button></div>
+  <div class="toc-foot"><button type="button" class="cal-close" id="toc-top">⌂ Az elejére</button><button type="button" class="cal-close" id="toc-close">Bezárás</button></div>
 </dialog>
 <dialog id="cal" aria-labelledby="cal-month">
   <div class="cal-head"><button type="button" id="cal-prev" aria-label="Előző hónap">‹</button><strong id="cal-month"></strong><button type="button" id="cal-next" aria-label="Következő hónap">›</button></div>
@@ -278,7 +281,6 @@ body.empty #top, body.empty #jump-latin, body.empty #notice, body.empty .legend 
   // over, the next one is prepared). `today` below always means this day.
   var EVENING = 19 * 60 + 30;
   function massDay() { var d = new Date(); if (d.getHours() * 60 + d.getMinutes() >= EVENING) d.setDate(d.getDate() + 1); return iso(d); }
-  function evening() { return today !== iso(new Date()); }
   var today = massDay();
   function getJSON(url) { return fetch(url, { cache: 'no-cache' }).then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); }); }
 
@@ -401,7 +403,7 @@ body.empty #top, body.empty #jump-latin, body.empty #notice, body.empty .legend 
   // heading (h3) and the marked points inside long texts (data-toc: consecration, doxology …). Only the
   // structural names: nothing of the day's Mass (no citations, no titles of the chosen preface or
   // Eucharistic prayer). The current place is marked.
-  var toc = $('toc'), tocMode = 'hu';
+  var toc = $('toc');
   // the Latin section titles the chosen preface / Eucharistic prayer; the list names only the part
   var GENERIC = { pref: ['Prefáció', 'Praefatio'], ep: ['Eucharisztikus ima', 'Prex eucharistica'] };
   function visible(el) { return !el.closest('[hidden]') && el.getClientRects().length > 0; }
@@ -429,12 +431,11 @@ body.empty #top, body.empty #jump-latin, body.empty #notice, body.empty .legend 
     // by the vertical position only: the bilingual grid must not scroll sideways
     window.scrollTo(0, Math.max(0, el.getBoundingClientRect().top + window.scrollY - 12));
   }
-  function openToc(mode) {
-    tocMode = mode;
-    setMenu(false);
+  // One list, two versions (buttons on top): it opens on the one the reader is in.
+  function fillToc(mode) {
     var list = $('toc-list'), entries = tocEntries(mode), cur = null;
-    $('toc-title').textContent = mode === 'hu' ? 'Magyar' : 'Latin–magyar';
-    $('toc-switch').textContent = mode === 'hu' ? 'Latin–magyar ›' : 'Magyar ›';
+    $('toc-mode-hu').setAttribute('aria-pressed', mode === 'hu' ? 'true' : 'false');
+    $('toc-mode-la').setAttribute('aria-pressed', mode === 'la' ? 'true' : 'false');
     list.textContent = '';
     entries.forEach(function (e) {
       var li = document.createElement('li'), b = document.createElement('button'), t = document.createElement('span');
@@ -446,12 +447,22 @@ body.empty #top, body.empty #jump-latin, body.empty #notice, body.empty .legend 
       if (e.el.getBoundingClientRect().top <= 80) cur = b;     // the last part already reached = where the reader is
     });
     if (!entries.length) { var li = document.createElement('li'); li.className = 'lv3'; li.textContent = '—'; list.appendChild(li); }
-    if (toc.showModal) toc.showModal(); else toc.setAttribute('open', '');
+    list.scrollTop = 0;
     if (cur) { cur.setAttribute('aria-current', 'true'); cur.scrollIntoView({ block: 'center' }); }
   }
-  $('toc-hu').addEventListener('click', function () { openToc('hu'); });
-  $('toc-la').addEventListener('click', function () { openToc('la'); });
-  $('toc-switch').addEventListener('click', function () { toc.close(); openToc(tocMode === 'hu' ? 'la' : 'hu'); });
+  function openToc() {
+    setMenu(false);
+    var la = $('latin'), inLatin = la && la.getBoundingClientRect().top <= 80;
+    if (toc.showModal) toc.showModal(); else toc.setAttribute('open', '');
+    fillToc(inLatin ? 'la' : 'hu');
+  }
+  // Home: back to the top of the page, for a reader who got lost
+  function goTop() { setMenu(false); if (toc.open) toc.close(); window.scrollTo(0, 0); }
+  $('toc-open').addEventListener('click', openToc);
+  $('toc-mode-hu').addEventListener('click', function () { fillToc('hu'); });
+  $('toc-mode-la').addEventListener('click', function () { fillToc('la'); });
+  $('go-top').addEventListener('click', goTop);
+  $('toc-top').addEventListener('click', goTop);
   $('toc-close').addEventListener('click', function () { toc.close(); });
   toc.addEventListener('click', function (e) { if (e.target === toc) toc.close(); });
 
@@ -513,8 +524,8 @@ body.empty #top, body.empty #jump-latin, body.empty #notice, body.empty .legend 
       titles = {}; c.masses.forEach(function (m) { titles[m.date] = m.title; });
       dates = Object.keys(titles).sort();
       var target = back && back.date && back.date !== today && titles[back.date] ? back.date : (titles[today] ? today : null);
-      var shown = target ? show(target, target === today && evening() ? '19:30 után már a holnapi mise látható; a maié a 📅 Másik nap alatt.' : '')
-        : ordinary((evening() ? '19:30 után már a holnapi nap látható. A holnapi napra (' : 'A mai napra (') + short(today) + ') még nincs miseszöveg; itt a szentmise állandó részei.');
+      var shown = target ? show(target)
+        : ordinary(short(today).replace(/^./, function (c) { return c.toUpperCase(); }) + ': erre a napra még nincs miseszöveg; itt a szentmise állandó részei.');
       if (back && (back.date || null) === target) shown.then(function () { window.scrollTo(0, back.y || 0); });
       return shown;
     }).catch(function () { current = null; ordinary('A naptár nem tölthető be (nincs internet?); itt a szentmise állandó részei.'); });

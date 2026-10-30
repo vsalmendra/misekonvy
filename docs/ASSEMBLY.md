@@ -91,7 +91,7 @@ feltöltve." beside the first line of the text.
 - **Text without a Latin equivalent** (prayer of the faithful; a Hungarian-only proper, marked
   `hu_only = true`): the Hungarian column has the text, the Latin column stays blank with a discreet
   note "Nincs latin megfelelője." (`latin_note = "…"` replaces the note's wording).
-- **Jump lists** (menu → "Magyar" / "Latin–magyar"): built from the page — parts (h2), headings (h3),
+- **Jump list** (menu → "A mise részei", buttons "Magyar | Latin–magyar"): built from the page — parts (h2), headings (h3),
   and marked points inside long texts (`data-toc`: Köszöntés; in the Eucharistic prayer the
   consecration, "Hitünk titka", the doxology; Áldás és elbocsátás). Only structural names, nothing
   of the day (user, 2026-10-29): no citations, the preface / EP listed as "Prefáció" / "Eucharisztikus
