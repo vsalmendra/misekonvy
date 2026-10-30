@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="theme-color" content="#a3171b">
 <meta name="color-scheme" content="light dark">
-<meta name="build" content="382515efdb">
+<meta name="build" content="739b182e2f">
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="icon" href="icon-192.png">
 <link rel="apple-touch-icon" href="apple-touch-icon.png">
@@ -143,8 +143,8 @@ button.btn { background: none; cursor: pointer; }
 .bi-grid h3 { margin-top: 1.4rem; }
 .bi-grid .verse, .bi-grid .cons { padding-left: .5rem; }
 /* Portrait phones: one language at a time, each column exactly one screen wide (the two side by side
-   are twice the screen); swipe sideways, or tap the arrow fixed at the middle of the left edge (easy
-   to reach; user, 2026-10-30), to go to the other one. In landscape both columns are shown side by side. */
+   are twice the screen); swipe sideways, or tap the arrow fixed at the middle of the right edge, to go
+   to the other one. In landscape both columns are shown side by side. */
 @media (orientation: portrait) and (max-width: 700px) {
   .bi-grid { --colw: calc(100vw - 2 * max(16px, env(safe-area-inset-left, 0px))); grid-template-columns: var(--colw) var(--colw); column-gap: 32px;
     overflow-x: auto; overscroll-behavior-x: contain; scroll-snap-type: x mandatory; scrollbar-width: none; padding-bottom: .5rem; }
@@ -156,12 +156,13 @@ button.btn { background: none; cursor: pointer; }
 @media (orientation: portrait) and (max-width: 700px) {
   .bi-switch.on { display: flex; top: 50%; }
 }
-/* Side buttons on the left edge: the column arrow (portrait Latin–magyar) and "next paragraph" at 75% */
-.bi-switch.on, .next-para { position: fixed; z-index: 18; transform: translateY(-50%); left: calc(env(safe-area-inset-left, 0px) + 4px);
+/* Side buttons on the right edge (user, 2026-10-30): the column arrow (portrait Latin–magyar) at the middle,
+   "next paragraph" at 65% of the height */
+.bi-switch.on, .next-para { position: fixed; z-index: 18; transform: translateY(-50%); right: calc(env(safe-area-inset-right, 0px) + 4px);
   align-items: center; justify-content: center; width: 30px; height: 44px; padding: 0; border: 1px solid var(--line); border-radius: 15px;
   background: var(--bg); color: var(--rubric); font: 20px/1 var(--f-body); opacity: .5; cursor: pointer; box-shadow: 0 1px 5px rgba(0,0,0,.12); }
 /* "next paragraph": a round chip without a frame, unlike the framed column arrow above it */
-.next-para { display: flex; top: 75%; width: 34px; height: 34px; border: 0; border-radius: 50%; background: var(--chip); box-shadow: none;
+.next-para { display: flex; top: 65%; width: 34px; height: 34px; border: 0; border-radius: 50%; background: var(--chip); box-shadow: none;
   font-size: 18px; padding-bottom: 6px; box-sizing: border-box; opacity: .6; }
 .bi-switch.on:focus-visible, .next-para:focus-visible { opacity: 1; }
 body.empty .next-para { display: none; }
@@ -382,7 +383,7 @@ body.empty #top, body.empty #jump-latin, body.empty #notice, body.empty .legend 
   });
 
   // Latin–magyar section on a portrait phone: one column per screen width. The arrow at the middle of
-  // the left edge (only while the section is on screen) slides to the other column, pointing there.
+  // the right edge (only while the section is on screen) slides to the other column, pointing there.
   var sw = $('bi-switch');
   function biGrid() { return document.querySelector('#latin .bi-grid'); }
   function onHu(g) { return g.scrollLeft > (g.scrollWidth - g.clientWidth) / 2; }
@@ -404,21 +405,25 @@ body.empty #top, body.empty #jump-latin, body.empty #notice, body.empty .legend 
   window.addEventListener('resize', biArrow);
   document.addEventListener('scroll', function (e) { if (e.target.classList && e.target.classList.contains('bi-grid')) biArrow(); }, { capture: true, passive: true });
 
-  // "Next paragraph" (left edge, 75% down): the next paragraph or heading below the top of the screen
-  // moves to the top, so the reader can go on without scrolling. A paragraph longer than the screen
-  // is not skipped: then it moves by most of a screen.
+  // "Next paragraph" (right edge, 65% down): the next unit below the top of the screen moves to the top,
+  // so the reader can go on without scrolling. A unit is a heading (with what hangs on it: summary,
+  // reading title, chooser) together with the paragraph after it, or a paragraph with the answer(s)
+  // and citation that follow it. A unit longer than the screen is not skipped: then it moves by most
+  // of a screen.
   var BLOCKS = '#mass p, #mass h2, #mass h3, #mass .choice, #mass .alt-btns, #mass li';
+  function leads(el) { return /^H[23]$/.test(el.tagName) || el.matches('.sub, .rtitle, .choice, .alt-btns, .bi-lab'); }
+  function follows(el) { return el.matches('.resp, .cite'); }
   $('next-para').addEventListener('click', function () {
-    var lim = window.innerHeight, next = null;
+    var lim = window.innerHeight, next = null, prev = null;
     var els = document.querySelectorAll(BLOCKS);
     for (var i = 0; i < els.length; i++) {
       var el = els[i];
       if (el.closest('[hidden]') || !el.getClientRects().length || !el.offsetHeight) continue;
-      var top = el.getBoundingClientRect().top;
-      if (top > 16) { next = top; break; }
+      var start = !(prev && leads(prev)) && !follows(el), top = el.getBoundingClientRect().top;
+      prev = el;
+      if (start && top > 16) { next = top; break; }
     }
-    var by = next === null || next > lim * .85 ? lim * .8 : next - 12;
-    window.scrollBy(0, by);
+    window.scrollBy(0, next === null || next > lim * .85 ? lim * .8 : next - 12);
   });
 
   // Jump lists: "Magyar" (the Hungarian text) and "Latin–magyar" (the bilingual section). Built from the
