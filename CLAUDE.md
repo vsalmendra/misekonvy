@@ -39,7 +39,8 @@ content over time. This CLAUDE.md is the source of truth. Claude Code commits an
 - `tools/build.py` — `python3 tools/build.py` rebuilds `app/data/` and bumps the SW cache name.
   Always run it and commit its output after changing `src/`.
 - `tests/app-test.mjs` — browser test (day selection, automatic update: one reload per version, no loops,
-  not while reading, not offline; resume on a new day). The publish job runs it first; if it fails, nothing is deployed. Locally:
+  not while reading, not offline; resume on a new day). **Run it locally before every push to `main`**; GitHub
+  does not run it (user, 2026-10-30: Actions minutes) — a push deploys directly. Locally:
   `npm i --no-save playwright@1.56.1 && npx playwright install chromium && node tests/app-test.mjs`.
 - `docs/ASSEMBLY.md` — **how a Mass is assembled**: file format and the rules learnt so far.
   Read it before adding a day; move recurring patterns from the day recipes into it.

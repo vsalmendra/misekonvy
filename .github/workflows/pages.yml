@@ -4,7 +4,7 @@ name: Deploy app to GitHub Pages
 on:
   push:
     branches: [main]
-    paths: ['app/**', 'src/**', 'tools/**', 'tests/**', '.github/workflows/pages.yml']
+    paths: ['app/**', 'src/**', 'tools/**', '.github/workflows/pages.yml']
   workflow_dispatch:
 
 permissions:
@@ -17,21 +17,8 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
-  # Browser test of the app (day selection, automatic update without loops).
-  # If it fails, nothing is deployed and the site keeps the previous version.
-  test:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - run: python3 tools/build.py
-      - uses: actions/setup-node@v4
-        with:
-          node-version: 22
-      - run: npm i --no-save playwright@1.56.1 && npx playwright install --with-deps chromium
-      - run: node tests/app-test.mjs
-
+  # No tests here (they cost Actions minutes): tests/app-test.mjs runs locally before every push.
   deploy:
-    needs: test
     runs-on: ubuntu-latest
     environment:
       name: github-pages
