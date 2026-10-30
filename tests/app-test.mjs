@@ -106,7 +106,16 @@ async function open(day, path = '', { blockCalendar = false, blockOrdinary = fal
   check(await t.page.isVisible('#bi-switch') && Math.abs(colw[0] - colw[1]) < 2, `portrait: one column per screen (${colw.join(' / ')}px), arrow shown`);
   await t.page.click('#bi-switch'); await t.page.waitForTimeout(900);
   const atHu = await t.page.$eval('#latin .bi-grid', g => g.scrollLeft >= g.scrollWidth - g.clientWidth - 2);
-  check(atHu && await t.page.$eval('#bi-switch', b => b.classList.contains('left')), 'arrow slides to the Hungarian column and moves to the left edge');
+  const sw = await t.page.$eval('#bi-switch', b => [b.textContent, Math.round(b.getBoundingClientRect().left)]);
+  check(atHu && sw[0] === '‹' && sw[1] < 20, `arrow slides to the Hungarian column, stays on the left edge, points back (${sw.join(', ')})`);
+  // "Next paragraph": the next block below the top of the screen moves to the top
+  await t.page.evaluate(() => window.scrollTo(0, 0));
+  const before = await t.page.$eval('#mass h2.part', h => Math.round(h.getBoundingClientRect().top));
+  await t.page.click('#next-para');
+  const after = await t.page.$eval('#mass h2.part', h => Math.round(h.getBoundingClientRect().top));
+  await t.page.click('#next-para');
+  const third = await t.page.$eval('#mass h3', h => Math.round(h.getBoundingClientRect().top));
+  check(Math.abs(after - 12) < 3 && Math.abs(third - 12) < 3, `next paragraph: first part heading ${before} → ${after}px, then the next heading at ${third}px`);
   await t.ctx.close();
 }
 

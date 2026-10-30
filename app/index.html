@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="theme-color" content="#a3171b">
 <meta name="color-scheme" content="light dark">
-<meta name="build" content="5042c378a6">
+<meta name="build" content="d603913eba">
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="icon" href="icon-192.png">
 <link rel="apple-touch-icon" href="apple-touch-icon.png">
@@ -141,8 +141,8 @@ button.btn { background: none; cursor: pointer; }
 .bi-grid h3 { margin-top: 1.4rem; }
 .bi-grid .verse, .bi-grid .cons { padding-left: .5rem; }
 /* Portrait phones: one language at a time, each column exactly one screen wide (the two side by side
-   are twice the screen); swipe sideways, or tap the arrow fixed at the middle of the screen's edge,
-   to go to the other one. In landscape both columns are shown side by side. */
+   are twice the screen); swipe sideways, or tap the arrow fixed at the middle of the left edge (easy
+   to reach; user, 2026-10-30), to go to the other one. In landscape both columns are shown side by side. */
 @media (orientation: portrait) and (max-width: 700px) {
   .bi-grid { --colw: calc(100vw - 2 * max(16px, env(safe-area-inset-left, 0px))); grid-template-columns: var(--colw) var(--colw); column-gap: 32px;
     overflow-x: auto; overscroll-behavior-x: contain; scroll-snap-type: x mandatory; scrollbar-width: none; padding-bottom: .5rem; }
@@ -152,12 +152,17 @@ button.btn { background: none; cursor: pointer; }
 }
 .bi-switch { display: none; }
 @media (orientation: portrait) and (max-width: 700px) {
-  .bi-switch.on { display: flex; position: fixed; z-index: 18; top: 50%; transform: translateY(-50%); right: calc(env(safe-area-inset-right, 0px) + 4px);
-    align-items: center; justify-content: center; width: 30px; height: 44px; padding: 0; border: 1px solid var(--line); border-radius: 15px;
-    background: var(--bg); color: var(--rubric); font: 20px/1 var(--f-body); opacity: .5; cursor: pointer; box-shadow: 0 1px 5px rgba(0,0,0,.12); }
-  .bi-switch.on.left { right: auto; left: calc(env(safe-area-inset-left, 0px) + 4px); }
-  .bi-switch.on:focus-visible { opacity: 1; }
+  .bi-switch.on { display: flex; top: 50%; }
 }
+/* Side buttons on the left edge: the column arrow (portrait Latin–magyar) and "next paragraph" at 75% */
+.bi-switch.on, .next-para { position: fixed; z-index: 18; transform: translateY(-50%); left: calc(env(safe-area-inset-left, 0px) + 4px);
+  align-items: center; justify-content: center; width: 30px; height: 44px; padding: 0; border: 1px solid var(--line); border-radius: 15px;
+  background: var(--bg); color: var(--rubric); font: 20px/1 var(--f-body); opacity: .5; cursor: pointer; box-shadow: 0 1px 5px rgba(0,0,0,.12); }
+/* "next paragraph": a round chip without a frame, unlike the framed column arrow above it */
+.next-para { display: flex; top: 75%; width: 34px; height: 34px; border: 0; border-radius: 50%; background: var(--chip); box-shadow: none;
+  font-size: 18px; padding-bottom: 6px; box-sizing: border-box; opacity: .6; }
+.bi-switch.on:focus-visible, .next-para:focus-visible { opacity: 1; }
+body.empty .next-para { display: none; }
 .legend { color: var(--muted); font-size: .8em; text-align: center; margin-top: 3rem; }
 </style>
 <style>
@@ -192,6 +197,7 @@ body.empty #top, body.empty #jump-latin, body.empty #notice, body.empty .legend 
 .cal-close { width: auto; padding: 0 .9rem; font-family: var(--f-cap); font-size: 14px; }
 </style>
 <button class="bi-switch" id="bi-switch" type="button" aria-label="A magyar oszlop">›</button>
+<button class="next-para" id="next-para" type="button" aria-label="Következő bekezdés" title="Következő bekezdés">⌄</button>
 <button class="menu-fab" id="menu-fab" type="button" aria-label="Menü megnyitása" aria-controls="parts-nav" aria-expanded="false">☰</button>
 </head>
 <body>
@@ -374,8 +380,7 @@ body.empty #top, body.empty #jump-latin, body.empty #notice, body.empty .legend 
   });
 
   // Latin–magyar section on a portrait phone: one column per screen width. The arrow at the middle of
-  // the screen's edge (only while the section is on screen) slides to the other column; it sits on the
-  // side it leads to, pointing there.
+  // the left edge (only while the section is on screen) slides to the other column, pointing there.
   var sw = $('bi-switch');
   function biGrid() { return document.querySelector('#latin .bi-grid'); }
   function onHu(g) { return g.scrollLeft > (g.scrollWidth - g.clientWidth) / 2; }
@@ -386,7 +391,6 @@ body.empty #top, body.empty #jump-latin, body.empty #notice, body.empty .legend 
     sw.classList.toggle('on', show);
     if (!show) return;
     var hu = onHu(g);
-    sw.classList.toggle('left', hu);
     sw.textContent = hu ? '‹' : '›';
     sw.setAttribute('aria-label', hu ? 'A latin oszlop' : 'A magyar oszlop');
   }
@@ -397,6 +401,23 @@ body.empty #top, body.empty #jump-latin, body.empty #notice, body.empty .legend 
   window.addEventListener('scroll', biArrow, { passive: true });
   window.addEventListener('resize', biArrow);
   document.addEventListener('scroll', function (e) { if (e.target.classList && e.target.classList.contains('bi-grid')) biArrow(); }, { capture: true, passive: true });
+
+  // "Next paragraph" (left edge, 75% down): the next paragraph or heading below the top of the screen
+  // moves to the top, so the reader can go on without scrolling. A paragraph longer than the screen
+  // is not skipped: then it moves by most of a screen.
+  var BLOCKS = '#mass p, #mass h2, #mass h3, #mass .choice, #mass .alt-btns, #mass li';
+  $('next-para').addEventListener('click', function () {
+    var lim = window.innerHeight, next = null;
+    var els = document.querySelectorAll(BLOCKS);
+    for (var i = 0; i < els.length; i++) {
+      var el = els[i];
+      if (el.closest('[hidden]') || !el.getClientRects().length || !el.offsetHeight) continue;
+      var top = el.getBoundingClientRect().top;
+      if (top > 16) { next = top; break; }
+    }
+    var by = next === null || next > lim * .85 ? lim * .8 : next - 12;
+    window.scrollBy(0, by);
+  });
 
   // Jump lists: "Magyar" (the Hungarian text) and "Latin–magyar" (the bilingual section). Built from the
   // page each time they open, so they list exactly what is shown: the parts of the Mass (h2), every
