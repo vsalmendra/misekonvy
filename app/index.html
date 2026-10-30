@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="theme-color" content="#a3171b">
 <meta name="color-scheme" content="light dark">
-<meta name="build" content="d603913eba">
+<meta name="build" content="b91000ddaf">
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="icon" href="icon-192.png">
 <link rel="apple-touch-icon" href="apple-touch-icon.png">
@@ -207,8 +207,8 @@ body.empty #top, body.empty #jump-latin, body.empty #notice, body.empty .legend 
   <button type="button" class="menu-item" id="theme-toggle"><span class="ic">☾</span><span class="lab">Sötét mód</span></button>
   <button type="button" class="menu-item" id="reload" aria-label="Frissítés"><span class="ic">↻</span>Frissítés</button>
   <button type="button" class="menu-item" id="show-log"><span class="ic">ⓘ</span>Napló</button>
+  <button type="button" class="menu-item" id="go-top"><span class="ic">⌂</span>Az elejére</button>
   <hr class="menu-sep">
-  <button type="button" class="menu-item nav" id="go-top"><span class="ic">⌂</span>Az elejére</button>
   <button type="button" class="menu-item nav" id="toc-open" aria-haspopup="dialog">A mise részei<span class="go">›</span></button>
 </nav>
 <dialog id="log" aria-labelledby="log-head">
@@ -625,8 +625,9 @@ body.empty #top, body.empty #jump-latin, body.empty #notice, body.empty .legend 
       if (touched) { log(why + ': új ' + v.build + ' (ez ' + BUILD + '), olvasás közben → gomb'); offer(v.build); return; }
       var last;
       try { last = JSON.parse(sessionStorage.getItem(UPDATED)); } catch (e) { log(why + ': új ' + v.build + ', nincs sessionStorage → gomb'); offer(v.build); return; }
-      if (last && last.v === v.build && now - last.t >= 0 && now - last.t < RETRY) {
-        log(why + ': új ' + v.build + ', de ' + Math.round((now - last.t) / 60000) + ' perce már újratöltött → gomb'); offer(v.build); return;
+      // within 15 minutes either way: a clock that went back a little (or was set back) must not cause a second reload
+      if (last && last.v === v.build && Math.abs(now - last.t) < RETRY) {
+        log(why + ': új ' + v.build + ', de ' + Math.round(Math.abs(now - last.t) / 60000) + ' perce már újratöltött → gomb'); offer(v.build); return;
       }
       if (!store(UPDATED, JSON.stringify({ v: v.build, t: now }))) { log(why + ': új ' + v.build + ', nincs sessionStorage → gomb'); offer(v.build); return; }
       log(why + ': új ' + v.build + ' (ez ' + BUILD + ') → újratöltés');

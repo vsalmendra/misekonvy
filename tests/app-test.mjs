@@ -219,6 +219,12 @@ if (dates.length > 1) {
   check(t.loads.length === 2, `new version: exactly one automatic reload (${t.loads.length} page loads)`);
   await t.resume();
   check(t.loads.length === 2, 'new version, old page still served: resumed, no further reload');
+  // a clock that went back a little after the reload must not count as "no recent reload"
+  const nowMs = await t.page.evaluate(() => Date.now());
+  await t.ctx.clock.setSystemTime(new Date(nowMs - 10000));
+  await t.resume();
+  check(t.loads.length === 2, 'clock 10 s back after the reload: no further reload');
+  await t.ctx.clock.setSystemTime(new Date(nowMs + 1500));
   await t.ctx.clock.setSystemTime(new Date(Date.parse(last + 'T08:00:00') + 16 * 60 * 1000));
   await t.resume(2500);
   check(t.loads.length === 3, `16 minutes later, resumed: one more try (${t.loads.length} page loads)`);
