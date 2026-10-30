@@ -580,7 +580,6 @@ def render(m):
     g.append(mark_first(ORDO_LA['concluding'], 'Áldás és elbocsátás', 'Benedictio et dimissio'))
     back = '<p class="jump"><a class="btn" href="#top">↑ Vissza a magyar szöveghez</a></p>'
     h.append(f'<section id="latin" class="bilingual"><h2 class="part">Latin–magyar szöveg</h2>{back}'
-             '<p class="bi-hint">Fektesd el a telefont, vagy húzd oldalra a szöveget: ⇆ latin | magyar</p>'
              f'<div class="bi-grid">{"".join(g)}</div>{back}</section>')
     return '\n'.join(h)
 

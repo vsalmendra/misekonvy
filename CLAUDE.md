@@ -23,7 +23,10 @@ content over time. This CLAUDE.md is the source of truth. Claude Code commits an
   caches and reloads, keeping the open day and scroll position — only if the reader has not touched the
   page since it opened/came back (else it waits for the next resume), never offline, and at most once per
   server version per 15 min (marker in the tab's sessionStorage; without storage never), so a stale CDN
-  copy cannot cause a loop. An installed app resumed on a new day moves on to that day.
+  copy cannot cause a loop. Since 2026-10-30: the check and the service worker bypass GitHub Pages' CDN
+  (changing query parameter; offline copies stored under the plain address), the check also runs on
+  `pageshow` (page restored from memory), and an update found after the reader touched the page shows a
+  small "↻ Új változat – frissítés" button instead of reloading. An installed app resumed on a new day moves on to that day.
 - `src/` — sources of the database: `library/` (Order of Mass, Eucharistic prayers, prefaces,
   `commons/`) and `masses/<date>.toml` + `masses/<date>.md` (the day's recipe/instructions).
   `cycle/<key>.json`: lectionary readings by liturgical day (key from `tools/litcal.py`, e.g.
@@ -69,7 +72,7 @@ content over time. This CLAUDE.md is the source of truth. Claude Code commits an
   - **SECURITY (review 2026-10-19, for the zip build):** no third-party JS; fonts self-hosted (now: Google Fonts, by user decision) (Alegreya/Alegreya SC, OFL); CSP `default-src 'self'` (inline script/style allowed), `object-src`/`base-uri`/`form-action` none; referrer `no-referrer`; SW only same-origin GETs, caches only ok/basic responses; localStorage only text size + theme. Verified: zero external requests, ő/ű fonts load, works offline. Advised: GitHub 2FA; copyright of liturgical texts (MKPK) for a public site.
 
 - **Generator DSL:** `h/h2/p/n/v/r/src/sub/c`; `select/opt/end_opt/end_select`; `ep_select(default, saint=None)`; `EP2_PREFACE`, `EP4_PREFACE`; bilingual `bh/bh2/bp/bn/bv/bc/br/bsrc` with ready pairs (`bi_greeting_penitential`, `COLLECT_END`, `bi_gospel_dialogue`, `bi_gifts`, `bi_preface_dialogue`, `bi_sanctus`, `bi_ep1`, `bi_communion_rite`, `bi_concluding`). Content files start with `exec(open(COMMON).read())` (`COMMON` set by `page.py` in the repo version) and end with `# ---------- RENDER`.
-  - Menu (floating ☰ bottom-right; since 2026-10-29 a vertical panel just above it, for the thumb): Másik nap, Betűméret A−/A+, Sötét/Világos mód, Frissítés, then "Latin–magyar ›" and "Magyar ›", each opening a jump list of every part of the Mass (bottom sheet; current place marked; switch between the two). Top of page: "Latin–magyar szöveg ↓"; back buttons "↑ Vissza a magyar szöveghez".
+  - Menu (floating ☰ bottom-right; since 2026-10-29 a vertical panel just above it, for the thumb): Másik nap, Betűméret A−/A+, Sötét/Világos mód, Frissítés, then "Latin–magyar ›" and "Magyar ›", each opening a jump list of every part of the Mass (bottom sheet; current place marked; switch between the two). Top of page: "Latin–magyar szöveg ↓"; back buttons "↑ Vissza a magyar szöveghez". Latin–magyar section: landscape → both columns side by side; portrait phone → one column per screen width (swipe), with a discreet arrow fixed at the middle of the screen's edge that slides to the other column (2026-10-30). Menu → "Napló": the update log kept on the device (launches, returns, version checks and outcomes; copy button).
   - Latin sources: Missale Romanum 2002 on clerus.org/bibliaclerusonline/en/gl0..gl5.htm; Ordo Missae/EPs/prefaces on ordo.pallotyni.pl; Nova Vulgata on vatican.va (no longer used: only liturgical sources, 2026-10-28). Psalm response/Alleluia Latin not verified against Lectionarium.
 
 - **NEW MISSAL** (Hungarian, from Pentecost 2023; Romania from 29 June 2023). No online copy; 1991 edition on PPEK (EP I/IV taken from it). New-missal changes applied in `common.py`:

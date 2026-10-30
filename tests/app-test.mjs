@@ -42,7 +42,7 @@ async function open(day, path = '', { blockCalendar = false, blockOrdinary = fal
   if (blockOrdinary) await ctx.route('**/data/ordinary.json', r => r.abort());
   // version.json as the server would answer it: the real file, or a newer build ("new"), or offline (null)
   let served = version;
-  await ctx.route('**/version.json', r => served === undefined ? r.continue() : served === null ? r.abort() : r.fulfill({ json: { build: served } }));
+  await ctx.route('**/version.json?*', r => served === undefined ? r.continue() : served === null ? r.abort() : r.fulfill({ json: { build: served } }));
   const page = await ctx.newPage();
   const loads = [], errors = [];
   page.on('request', r => { if (r.resourceType() === 'document') loads.push(r.url().replace(BASE, '/')); });
@@ -95,6 +95,15 @@ async function open(day, path = '', { blockCalendar = false, blockOrdinary = fal
   const note = await t.page.$$eval('#latin .la-note', n => n.map(x => x.textContent));
   const hupet = await t.page.$$eval('#latin h3.bi-r', h => h.some(x => x.textContent === 'Egyetemes könyörgések' && x.nextElementSibling.nextElementSibling?.textContent.length > 20));
   check(note.includes('Nincs latin megfelelője.') && hupet, 'prayer of the faithful in the bilingual section: Hungarian text, Latin blank with a note');
+  // Portrait: one column per screen; the arrow at the middle of the edge slides to the other column.
+  check(!(await t.page.isVisible('#bi-switch')), 'column arrow hidden outside the Latin–magyar section');
+  await t.page.evaluate(() => { const h = [...document.querySelectorAll('#latin h3.bi-r')].find(x => x.textContent === 'Könyörgés'); window.scrollTo(0, h.getBoundingClientRect().top + scrollY - 100); });
+  await t.page.waitForTimeout(300);
+  const colw = await t.page.$eval('#latin .bi-grid', g => [g.clientWidth, g.querySelector('.bi-l:not(.bi-full)').getBoundingClientRect().width]);
+  check(await t.page.isVisible('#bi-switch') && Math.abs(colw[0] - colw[1]) < 2, `portrait: one column per screen (${colw.join(' / ')}px), arrow shown`);
+  await t.page.click('#bi-switch'); await t.page.waitForTimeout(900);
+  const atHu = await t.page.$eval('#latin .bi-grid', g => g.scrollLeft >= g.scrollWidth - g.clientWidth - 2);
+  check(atHu && await t.page.$eval('#bi-switch', b => b.classList.contains('left')), 'arrow slides to the Hungarian column and moves to the left edge');
   await t.ctx.close();
 }
 
@@ -238,15 +247,22 @@ if (dates.length > 1) {
   await t.ctx.close();
 }
 
-// 7d. A slow answer arriving after the reader touched the page: no reload.
+// 7d. A slow answer arriving after the reader touched the page: no reload, a button instead; it reloads once.
 {
   const t = await open(last, '', { version: undefined });
-  await t.ctx.unroute('**/version.json');
-  await t.ctx.route('**/version.json', async r => { await new Promise(s => setTimeout(s, 1000)); await r.fulfill({ json: { build: 'new' } }); });
+  await t.ctx.unroute('**/version.json?*');
+  await t.ctx.route('**/version.json?*', async r => { await new Promise(s => setTimeout(s, 1000)); await r.fulfill({ json: { build: 'new' } }); });
   await t.resume(100);
   await t.page.mouse.wheel(0, 10);
   await t.page.waitForTimeout(2000);
-  check(t.loads.length === 1, 'slow version answer after the reader scrolled: no reload');
+  check(t.loads.length === 1 && await t.page.isVisible('#update-btn'), 'slow version answer after the reader scrolled: no reload, "Új változat" button');
+  await t.page.click('#update-btn');
+  await t.page.waitForTimeout(2000);
+  check(t.loads.length === 2, `the button reloads once (${t.loads.length} page loads)`);
+  // the update log on the device lists what happened
+  await t.page.click('#menu-fab'); await t.page.click('#show-log');
+  const logText = await t.page.textContent('#log-text');
+  check(/indulás \S+ \(/.test(logText) && /olvasás közben → gomb/.test(logText) && /frissítés gombbal/.test(logText), 'update log: launch, check, button');
   await t.ctx.close();
 }
 

@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="theme-color" content="#a3171b">
 <meta name="color-scheme" content="light dark">
-<meta name="build" content="a001cffcc5">
+<meta name="build" content="2300e62b65">
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="icon" href="icon-192.png">
 <link rel="apple-touch-icon" href="apple-touch-icon.png">
@@ -94,6 +94,16 @@ nav.parts button:focus-visible, button:focus-visible { outline: 2px solid var(--
 .toc-list .t { flex: 1 1 auto; min-width: 0; }
 .toc-list .la { display: block; font-size: .8em; font-style: italic; color: var(--muted); font-family: var(--f-body); font-weight: 400; letter-spacing: 0; }
 #toc-close { font-size: .8em; height: 2.4em; }
+/* Update log (menu → Napló) */
+#log { border: 1px solid var(--line); border-radius: 16px; background: var(--bg); color: var(--fg); padding: 0; box-sizing: border-box;
+  width: min(40rem, calc(100vw - 24px)); max-height: min(82vh, 46rem); box-shadow: 0 8px 30px rgba(0,0,0,.25); }
+#log[open] { display: flex; flex-direction: column; }
+#log::backdrop { background: rgba(0,0,0,.35); }
+#log-text { margin: 0; padding: .6rem 1rem; overflow: auto; flex: 1 1 auto; font: 12px/1.45 ui-monospace, Menlo, Consolas, monospace; white-space: pre-wrap; color: var(--fg); }
+#log .toc-foot { gap: .5rem; }
+/* A newer version arrived while reading: a small button at the top, never a reload under the reader's finger */
+.update { position: fixed; z-index: 19; left: 0; right: 0; top: calc(env(safe-area-inset-top, 0px) + 8px); display: flex; justify-content: center; pointer-events: none; }
+.update .btn { pointer-events: auto; background: var(--bg); box-shadow: 0 2px 10px rgba(0,0,0,.18); font-size: 15px; }
 .toc-foot { display: flex; justify-content: flex-end; padding: .5rem 1rem .8rem; border-top: 1px solid var(--line); }
 section { padding-top: .5rem; }
 h2.part { font-family: var(--f-cap); font-weight: 700; color: var(--rubric); text-align: center; font-size: 1.15em; letter-spacing: .05em;
@@ -127,18 +137,24 @@ button.btn { background: none; cursor: pointer; }
 .bi-lab { font-family: var(--f-cap); color: var(--muted); font-size: .8em; letter-spacing: .08em; border-bottom: 1px solid var(--line); padding-bottom: .2rem; }
 .bi-grid h3 { margin-top: 1.4rem; }
 .bi-grid .verse, .bi-grid .cons { padding-left: .5rem; }
-/* Portrait phones: each column almost a full screen wide; swipe sideways for the other language.
-   The sliver of the next column shows that there is more. Read comfortably in landscape. */
+/* Portrait phones: one language at a time, each column exactly one screen wide (the two side by side
+   are twice the screen); swipe sideways, or tap the arrow fixed at the middle of the screen's edge,
+   to go to the other one. In landscape both columns are shown side by side. */
 @media (orientation: portrait) and (max-width: 700px) {
-  .bi-grid { grid-template-columns: 86vw 86vw; overflow-x: auto; overscroll-behavior-x: contain; scroll-snap-type: x proximity; scroll-padding-inline: 16px;
-    margin-right: calc(-1 * max(16px, env(safe-area-inset-right, 0px))); padding: 0 16px .5rem 0; }
-  .bi-grid .bi-l { scroll-snap-align: start; }
-  .bi-grid .bi-r { scroll-snap-align: end; }
-  .bi-grid .bi-full { position: sticky; left: 0; width: calc(100vw - 32px); box-sizing: border-box; }
-  .bi-grid .bi-r { padding-right: 0; }
-  .bi-hint { display: block; }
+  .bi-grid { --colw: calc(100vw - 2 * max(16px, env(safe-area-inset-left, 0px))); grid-template-columns: var(--colw) var(--colw); column-gap: 32px;
+    overflow-x: auto; overscroll-behavior-x: contain; scroll-snap-type: x mandatory; scrollbar-width: none; padding-bottom: .5rem; }
+  .bi-grid::-webkit-scrollbar { display: none; }
+  .bi-grid .bi-l, .bi-grid .bi-r { scroll-snap-align: start; }
+  .bi-grid .bi-full { position: sticky; left: 0; width: var(--colw); box-sizing: border-box; }
 }
-.bi-hint { display: none; text-align: center; color: var(--muted); font-size: .8em; font-style: italic; margin: .2rem 0 .8rem; }
+.bi-switch { display: none; }
+@media (orientation: portrait) and (max-width: 700px) {
+  .bi-switch.on { display: flex; position: fixed; z-index: 18; top: 50%; transform: translateY(-50%); right: calc(env(safe-area-inset-right, 0px) + 4px);
+    align-items: center; justify-content: center; width: 30px; height: 44px; padding: 0; border: 1px solid var(--line); border-radius: 15px;
+    background: var(--bg); color: var(--rubric); font: 20px/1 var(--f-body); opacity: .5; cursor: pointer; box-shadow: 0 1px 5px rgba(0,0,0,.12); }
+  .bi-switch.on.left { right: auto; left: calc(env(safe-area-inset-left, 0px) + 4px); }
+  .bi-switch.on:focus-visible { opacity: 1; }
+}
 .legend { color: var(--muted); font-size: .8em; text-align: center; margin-top: 3rem; }
 </style>
 <style>
@@ -172,6 +188,7 @@ body.empty #top, body.empty #jump-latin, body.empty #notice, body.empty .legend 
 .cal-foot { display: flex; justify-content: flex-end; }
 .cal-close { width: auto; padding: 0 .9rem; font-family: var(--f-cap); font-size: 14px; }
 </style>
+<button class="bi-switch" id="bi-switch" type="button" aria-label="A magyar oszlop">›</button>
 <button class="menu-fab" id="menu-fab" type="button" aria-label="Menü megnyitása" aria-controls="parts-nav" aria-expanded="false">☰</button>
 </head>
 <body>
@@ -180,10 +197,17 @@ body.empty #top, body.empty #jump-latin, body.empty #notice, body.empty .legend 
   <div class="menu-row"><span class="ic">A</span>Betűméret<button id="smaller" type="button" aria-label="Kisebb betű">A−</button><button id="bigger" type="button" aria-label="Nagyobb betű">A+</button></div>
   <button type="button" class="menu-item" id="theme-toggle"><span class="ic">☾</span><span class="lab">Sötét mód</span></button>
   <button type="button" class="menu-item" id="reload" aria-label="Frissítés"><span class="ic">↻</span>Frissítés</button>
+  <button type="button" class="menu-item" id="show-log"><span class="ic">ⓘ</span>Napló</button>
   <hr class="menu-sep">
   <button type="button" class="menu-item nav" id="toc-la" aria-haspopup="dialog">Latin–magyar<span class="go">›</span></button>
   <button type="button" class="menu-item nav" id="toc-hu" aria-haspopup="dialog">Magyar<span class="go">›</span></button>
 </nav>
+<dialog id="log" aria-labelledby="log-head">
+  <div class="toc-head"><strong id="log-head"></strong></div>
+  <pre id="log-text"></pre>
+  <div class="toc-foot"><button type="button" class="cal-close" id="log-clear">Törlés</button><button type="button" class="cal-close" id="log-copy">Másolás</button><button type="button" class="cal-close" id="log-close">Bezárás</button></div>
+</dialog>
+<div class="update" id="update" hidden><button type="button" class="btn" id="update-btn">↻ Új változat – frissítés</button></div>
 <dialog id="toc" aria-labelledby="toc-title">
   <div class="toc-head"><strong id="toc-title"></strong><button type="button" class="toc-switch" id="toc-switch"></button></div>
   <ol class="toc-list" id="toc-list"></ol>
@@ -347,6 +371,31 @@ body.empty #top, body.empty #jump-latin, body.empty #notice, body.empty .legend 
     if (cal.showModal) cal.showModal(); else cal.setAttribute('open', '');
   });
 
+  // Latin–magyar section on a portrait phone: one column per screen width. The arrow at the middle of
+  // the screen's edge (only while the section is on screen) slides to the other column; it sits on the
+  // side it leads to, pointing there.
+  var sw = $('bi-switch');
+  function biGrid() { return document.querySelector('#latin .bi-grid'); }
+  function onHu(g) { return g.scrollLeft > (g.scrollWidth - g.clientWidth) / 2; }
+  function biArrow() {
+    var g = biGrid(), sec = $('latin');
+    var r = sec && sec.getBoundingClientRect();
+    var show = !!(g && g.scrollWidth > g.clientWidth + 4 && r.top < window.innerHeight * .5 && r.bottom > window.innerHeight * .5);
+    sw.classList.toggle('on', show);
+    if (!show) return;
+    var hu = onHu(g);
+    sw.classList.toggle('left', hu);
+    sw.textContent = hu ? '‹' : '›';
+    sw.setAttribute('aria-label', hu ? 'A latin oszlop' : 'A magyar oszlop');
+  }
+  sw.addEventListener('click', function () {
+    var g = biGrid(); if (!g) return;
+    g.scrollTo({ left: onHu(g) ? 0 : g.scrollWidth, behavior: 'smooth' });
+  });
+  window.addEventListener('scroll', biArrow, { passive: true });
+  window.addEventListener('resize', biArrow);
+  document.addEventListener('scroll', function (e) { if (e.target.classList && e.target.classList.contains('bi-grid')) biArrow(); }, { capture: true, passive: true });
+
   // Jump lists: "Magyar" (the Hungarian text) and "Latin–magyar" (the bilingual section). Built from the
   // page each time they open, so they list exactly what is shown: the parts of the Mass (h2), every
   // heading (h3) and the marked points inside long texts (data-toc: consecration, doxology …). Only the
@@ -471,19 +520,48 @@ body.empty #top, body.empty #jump-latin, body.empty #notice, body.empty .legend 
     }).catch(function () { current = null; ordinary('A naptár nem tölthető be (nincs internet?); itt a szentmise állandó részei.'); });
   }
 
+  // ---------- Update log ----------
+  // What the app did about updates, kept on this device (localStorage, last 80 lines), shown by
+  // the menu's "Napló": launches, returns to the screen, each version check and its outcome.
+  var LOG = 'mise-naplo';
+  function log(what) {
+    try {
+      var l = JSON.parse(localStorage.getItem(LOG) || '[]');
+      var d = new Date(), t = iso(d) + ' ' + d.toTimeString().slice(0, 8);
+      l.push(t + '  ' + what);
+      localStorage.setItem(LOG, JSON.stringify(l.slice(-80)));
+    } catch (e) {}
+  }
+  function showLog() {
+    setMenu(false);
+    var l = []; try { l = JSON.parse(localStorage.getItem(LOG) || '[]'); } catch (e) {}
+    $('log-text').textContent = l.length ? l.slice().reverse().join('\n') : '(üres)';
+    $('log-head').textContent = 'Ez a változat: ' + BUILD;
+    var dlg = $('log'); if (dlg.showModal) dlg.showModal(); else dlg.setAttribute('open', '');
+  }
+  $('show-log').addEventListener('click', showLog);
+  $('log-close').addEventListener('click', function () { $('log').close(); });
+  $('log-copy').addEventListener('click', function () {
+    var txt = $('log-head').textContent + '\n' + $('log-text').textContent;
+    try { navigator.clipboard.writeText(txt).then(function () { $('log-copy').textContent = 'Másolva ✓'; }, function () {}); } catch (e) {}
+  });
+  $('log-clear').addEventListener('click', function () { try { localStorage.removeItem(LOG); } catch (e) {} $('log-text').textContent = '(üres)'; });
+
   // ---------- Automatic update ----------
   // The build writes the same stamp into <meta name="build"> (the version this page runs) and into
-  // version.json (the version on the server). At launch and whenever the app comes back to the screen,
-  // the page fetches version.json; if it differs, it drops its offline copy and reloads, keeping the
-  // day and the scroll position. Rules that keep it safe:
-  // - only if the reader has not touched the page since it opened or came back (never mid-reading;
-  //   then it waits for the next time the app comes back);
+  // version.json (the version on the server). At launch and whenever the app comes back to the screen
+  // (visibilitychange, or a page restored from memory: pageshow), the page fetches version.json —
+  // with a changing query parameter, so neither the browser nor GitHub Pages' CDN can answer with an
+  // old copy. If it differs, it drops its offline copy and reloads, keeping the day and the scroll
+  // position. Rules that keep it safe:
+  // - if the reader has already touched the page since it opened or came back, it does not reload
+  //   under their finger: a small "Új változat" button appears instead (and the next return reloads);
   // - offline (version.json not loadable) nothing happens;
   // - at most one automatic reload per server version per 15 minutes, marked in this tab's
-  //   sessionStorage: if the CDN still serves the old page after the reload, it does not loop.
-  //   Without sessionStorage it never reloads by itself.
+  //   sessionStorage: if the old page is still served after the reload, it does not loop.
+  //   Without sessionStorage it never reloads by itself (the button still works).
   var BUILD = document.querySelector('meta[name="build"]').content, UPDATED = 'mise-frissites', BACK = 'mise-vissza';
-  var RETRY = 15 * 60 * 1000, touched = false;
+  var RETRY = 15 * 60 * 1000, touched = false, lastCheck = 0, offered = null;
   ['pointerdown', 'touchstart', 'wheel', 'keydown'].forEach(function (t) {
     window.addEventListener(t, function () { touched = true; }, { capture: true, passive: true });
   });
@@ -491,35 +569,64 @@ body.empty #top, body.empty #jump-latin, body.empty #notice, body.empty .legend 
   function takeBack() {
     try { var b = JSON.parse(sessionStorage.getItem(BACK)); sessionStorage.removeItem(BACK); return b; } catch (e) { return null; }
   }
-  function checkUpdate() {
-    fetch('version.json', { cache: 'no-store' }).then(function (r) { return r.ok ? r.json() : null; }).then(function (v) {
-      if (!v || !v.build || !BUILD || v.build === BUILD || touched) return;
+  function update() {
+    store(BACK, JSON.stringify({ date: current, y: window.scrollY }));
+    hardReload();
+  }
+  function offer(v) { offered = v; $('update').hidden = false; }
+  // counts as this version's reload: the reloaded page does not reload again by itself for 15 minutes
+  $('update-btn').addEventListener('click', function () {
+    log('frissítés gombbal');
+    if (offered) store(UPDATED, JSON.stringify({ v: offered, t: Date.now() }));
+    update();
+  });
+  function checkUpdate(why) {
+    var now = Date.now();
+    if (now - lastCheck < 1000 && now >= lastCheck) return;     // visibilitychange + pageshow together: one check
+    lastCheck = now;
+    fetch('version.json?t=' + now, { cache: 'no-store' }).then(function (r) {
+      if (!r.ok) throw new Error('HTTP ' + r.status);
+      return r.json();
+    }).then(function (v) {
+      if (!v || !v.build || !BUILD) { log(why + ': nincs verzióadat'); return; }
+      if (v.build === BUILD) { log(why + ': ' + BUILD + ', naprakész'); return; }
+      if (touched) { log(why + ': új ' + v.build + ' (ez ' + BUILD + '), olvasás közben → gomb'); offer(v.build); return; }
       var last;
-      try { last = JSON.parse(sessionStorage.getItem(UPDATED)); } catch (e) { return; }
-      if (last && last.v === v.build && Date.now() - last.t >= 0 && Date.now() - last.t < RETRY) return;
-      if (!store(UPDATED, JSON.stringify({ v: v.build, t: Date.now() }))) return;
-      store(BACK, JSON.stringify({ date: current, y: window.scrollY }));
-      hardReload();
-    }).catch(function () {});
+      try { last = JSON.parse(sessionStorage.getItem(UPDATED)); } catch (e) { log(why + ': új ' + v.build + ', nincs sessionStorage → gomb'); offer(v.build); return; }
+      if (last && last.v === v.build && now - last.t >= 0 && now - last.t < RETRY) {
+        log(why + ': új ' + v.build + ', de ' + Math.round((now - last.t) / 60000) + ' perce már újratöltött → gomb'); offer(v.build); return;
+      }
+      if (!store(UPDATED, JSON.stringify({ v: v.build, t: now }))) { log(why + ': új ' + v.build + ', nincs sessionStorage → gomb'); offer(v.build); return; }
+      log(why + ': új ' + v.build + ' (ez ' + BUILD + ') → újratöltés');
+      update();
+    }).catch(function (e) { log(why + ': nem elérhető (' + (e && e.message || e) + ')'); });
   }
 
+  (function () {
+    var nav = (performance.getEntriesByType && performance.getEntriesByType('navigation')[0]) || {};
+    log('indulás ' + BUILD + ' (' + (nav.type || '?') + (document.wasDiscarded ? ', eldobott lap' : '') +
+        (navigator.serviceWorker && navigator.serviceWorker.controller ? ', SW' : ', SW nélkül') + ')');
+  })();
   start(takeBack());
-  checkUpdate();
+  checkUpdate('indulás');
 
   // Installed app: the phone often resumes it instead of starting it again. When it comes back on a
   // new day (or after 19:30, when the app's day becomes tomorrow) and was showing that day's Mass (or
   // the Order of Mass), move on to the new day; and look for a newer version.
-  document.addEventListener('visibilitychange', function () {
-    if (document.visibilityState !== 'visible') return;
+  function resumed(why) {
     touched = false;
     var now = massDay();
     if (now !== today) {
       var wasToday = current === null || current === today;
+      log(why + ': új nap ' + now);
       today = now;
       if (wasToday) start();
     }
-    checkUpdate();
-  });
+    checkUpdate(why);
+  }
+  document.addEventListener('visibilitychange', function () { if (document.visibilityState === 'visible') resumed('visszatérés'); });
+  // a page restored from memory (back/forward cache) gets pageshow, not always visibilitychange
+  window.addEventListener('pageshow', function (e) { if (e.persisted) resumed('visszaállítás'); });
 
   // Keep the screen on while reading during Mass, where the browser allows it.
   var lock = null;
