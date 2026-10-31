@@ -10,7 +10,7 @@ prefaces = ["mindenszentek"]
 mass_type = "A főünnep saját miséje"
 
 [entrance]
-source = "igenaptár 2026-11-01 (user, 2026-10-31: igenaptár's wording instead of the 1991 missal's)"
+source = "Római Misekönyv (új kiadás), november 1., 734. o. (a felhasználó fotója, 2026-10-31)"
 text = '''
 Örvendezzünk mindnyájan az Úrban
 ünnepi napot ülvén Mindenszentek tiszteletére,
@@ -26,15 +26,16 @@ et collaudant Filium Dei.
 '''
 
 [collect]
-source = "Római Misekönyv 1991 (PPEK 335), november 1., 620. o."
+source = "Római Misekönyv (új kiadás), november 1., 734. o. (a felhasználó fotója, 2026-10-31)"
 text = '''
 Mindenható, örök Isten, te megadtad,
-hogy egy napon ünnepeljük minden szented dicsőségét.
+hogy egy napon ünnepeljük
+minden szented dicsőségét.
 Kérünk, hogy sokszoros közbenjárásukra
 bőven áraszd reánk nagy irgalmadat.
 A mi Urunk, Jézus Krisztus, a te Fiad által,
 aki veled él és uralkodik a Szentlélekkel egységben,
-Isten mindörökkön-örökké.
+Isten mindörökkön örökké.
 '''
 la = '''
 Omnipotens sempiterne Deus,
@@ -48,12 +49,14 @@ Deus, per omnia saecula saeculorum.
 '''
 
 [offertory]
-source = "Római Misekönyv 1991 (PPEK 335), november 1., 620. o."
+source = "Római Misekönyv (új kiadás), november 1., 734. o. (a felhasználó fotója, 2026-10-31)"
 text = '''
-Urunk, Istenünk, fogadd tetszéssel áldozati adományainkat,
+Urunk, Istenünk,
+fogadd tetszéssel áldozati adományainkat,
 amelyeket minden szented tiszteletére felajánlunk.
-Hisszük, hogy ők már eljutottak a boldog halhatatlanságba;
-engedd éreznünk, hogy közbenjárnak üdvösségünkért.
+Hisszük, hogy ők már eljutottak
+a boldog halhatatlanságba; engedd éreznünk,
+hogy közbenjárnak üdvösségünkért.
 Krisztus, a mi Urunk által.
 '''
 la = '''
@@ -67,7 +70,7 @@ Per Christum Dominum nostrum.
 
 [communion]
 cite = "Mt 5,8-10"
-source = "igenaptár 2026-11-01 (user, 2026-10-31: igenaptár's wording instead of the 1991 missal's; \"szívûek\" → \"szívűek\")"
+source = "Római Misekönyv (új kiadás), november 1., 735. o. (a felhasználó fotója, 2026-10-31)"
 text = '''
 Boldogok a tiszta szívűek,
 mert meglátják az Istent.
@@ -84,13 +87,15 @@ quoniam ipsorum est regnum caelorum.
 '''
 
 [postcommunion]
-source = "Római Misekönyv 1991 (PPEK 335), november 1., 621. o."
+source = "Római Misekönyv (új kiadás), november 1., 736. o. (a felhasználó fotója, 2026-10-31)"
 text = '''
 Mindenható Istenünk,
-a te végtelen szentségedet csodáljuk és tiszteljük minden szentedben.
+a te végtelen szentségedet csodáljuk
+és tiszteljük minden szentedben.
 Add kegyelmedet,
 hogy szentté legyünk szereteted teljességében,
-és innét, a földi zarándokok asztalától eljussunk a mennyei haza lakomájára.
+és innét, a földi zarándokok asztalától
+eljussunk a mennyei haza lakomájára.
 Krisztus, a mi Urunk által.
 '''
 la = '''

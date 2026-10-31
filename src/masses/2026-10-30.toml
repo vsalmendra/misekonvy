@@ -34,7 +34,7 @@ akik megismertük szeretetének titkát itt a földön,
 elnyerjük az üdvösséget a mennyben.
 A mi Urunk, Jézus Krisztus, a te Fiad által,
 aki veled él és uralkodik a Szentlélekkel egységben,
-Isten mindörökkön-örökké.
+Isten mindörökkön örökké.
 '''
 la = '''
 Deus, qui Unigenitum tuum crucem subire voluisti,
@@ -81,7 +81,7 @@ Szent asztalodról tápláltál minket, Urunk, Jézus Krisztus.
 Kérve kérünk,
 hogy akiket életadó kereszted által megváltottál,
 vezesd el azokat a feltámadás dicsőségére.
-Aki élsz és uralkodol mindörökkön-örökké.
+Aki élsz és uralkodol mindörökkön örökké.
 '''
 la = '''
 Refectione tua sancta enutriti,
@@ -208,4 +208,4 @@ petitions = [
   "Urunk, te kereszted és feltámadásod által eltörölted minden vétkünket: add, hogy eltöltsön bennünket a Szentlélek vigasztalása!",
   { note = "Ha a szentmisét elhunytért mutatják be:", text = "Urunk, te kiérdemelted híveid számára a feltámadást és az örök dicsőséget: add, hogy elhunyt testvéreink elnyerjék ígéreteid teljesülését!" },
 ]
-conclusion = "Istenünk, a kereszt botránya megmutatta számunkra örök bölcsességedet és irántunk való végtelen szeretetedet. Engedd, hogy mindig bizakodó lélekkel dicsekedjünk Krisztus keresztjével. Aki él és uralkodik mindörökkön-örökké."
+conclusion = "Istenünk, a kereszt botránya megmutatta számunkra örök bölcsességedet és irántunk való végtelen szeretetedet. Engedd, hogy mindig bizakodó lélekkel dicsekedjünk Krisztus keresztjével. Aki él és uralkodik mindörökkön örökké."

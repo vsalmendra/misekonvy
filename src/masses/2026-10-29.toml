@@ -34,7 +34,7 @@ a szentségi jelekben hívő lélekkel ünnepeljük,
 üdvözítő kegyelmedben szüntelenül növekedjünk.
 A mi Urunk, Jézus Krisztus, a te Fiad által,
 aki veled él és uralkodik a Szentlélekkel egységben,
-Isten mindörökkön-örökké.
+Isten mindörökkön örökké.
 '''
 la = '''
 Deus, qui humanae redemptionis opus
@@ -197,4 +197,4 @@ petitions = [
   "Hogy a munkásoknak munkát, az éhezőknek kenyeret, a szomorúaknak vigaszt, és minden embernek üdvösséget adjon, kérjük Urunkat!",
   { note = "Ha a szentmisét elhunytért mutatják be:", text = "Hogy elhunyt N. testvérünket (nővérünket), hozzátartozóinkat és jótevőinket fogadja be a szentek boldog társaságába, kérjük Urunkat!" },
 ]
-conclusion = "Jóságos, mennyei Atyánk! Hittel valljuk, hogy örök szereteteddel te irányítod emberi sorsunkat. Add, hogy életünk minden napján hűségesen szolgáljunk neked. Aki élsz és uralkodol mindörökkön-örökké."
+conclusion = "Jóságos, mennyei Atyánk! Hittel valljuk, hogy örök szereteteddel te irányítod emberi sorsunkat. Add, hogy életünk minden napján hűségesen szolgáljunk neked. Aki élsz és uralkodol mindörökkön örökké."

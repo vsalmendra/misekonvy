@@ -176,6 +176,7 @@ If the liturgical text is not available, show the placeholder and say so (user's
 |---|---|
 | Readings, psalm, alleluia, prayer of the faithful | igenaptar.katolikus.hu |
 | Commons, prefaces (until the new missal is available) | PPEK 335, Római Misekönyv 1991 |
+| Any text the user photographs from the **new Hungarian missal** | the best source: use it as printed (line breaks too); `source` = "Római Misekönyv (új kiadás), … o." |
 | Propers that igenaptár also gives (antiphons, prayers) | **igenaptár's wording wins over 1991** where they differ (likely the new missal; user, 2026-10-31); note both in the recipe |
 | Proper collects of Hungarian blesseds not in the 1991 missal | parish / Magyar Kurír copies; note both and the differences |
 | Latin missal | ordo.pallotyni.pl (Missale Romanum 2008: Ordo, EPs, prefaces, temporal); clerus.org (MR 2002 scans, file names hard to find — the Commune sanctorum not located yet) |

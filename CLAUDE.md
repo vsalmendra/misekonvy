@@ -83,6 +83,8 @@ content over time. This CLAUDE.md is the source of truth. Claude Code commits an
   - "Boldogok, akik meghívást kaptak a Bárány lakomájára."
   - preface dialogue with "!"
   - Unverified: St Joseph in EP II–IV.
+  - "mindörökkön örökké" without hyphen (new missal p. 734, user's photo 2026-10-31; applied everywhere in `src/library`, `src/masses`).
+  - **The user has the new missal** and can send photos of its pages (2026-10-31: All Saints, pp. 734-736). Photos of the new missal are the best source.
 
 - **Sunday prefaces I–VIII:** `SUNDAY_PREFACES` in `content-2026-10-18-evkozi29.py`.
 
