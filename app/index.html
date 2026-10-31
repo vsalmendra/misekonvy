@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="theme-color" content="#a3171b">
 <meta name="color-scheme" content="light dark">
-<meta name="build" content="739b182e2f">
+<meta name="build" content="af13caec24">
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="icon" href="icon-192.png">
 <link rel="apple-touch-icon" href="apple-touch-icon.png">
@@ -50,8 +50,9 @@ h1 { font-weight: 700; font-size: 1.5em; line-height: 1.2; margin: .4rem 0 .2rem
 .rank { font-style: italic; margin: 0; }
 .meta { color: var(--muted); font-size: .85em; margin: .9rem 0 0; }
 /* Menu: a vertical panel just above the floating button (bottom right), within reach of the thumb */
-nav.parts { position: fixed; z-index: 20; right: calc(env(safe-area-inset-right, 0px) + 12px); bottom: calc(env(safe-area-inset-bottom, 0px) + 62px);
-  width: min(15.5rem, calc(100vw - 24px)); max-height: calc(100vh - env(safe-area-inset-top, 0px) - env(safe-area-inset-bottom, 0px) - 80px); overflow-y: auto;
+/* sizes in em of the reading text size (A−/A+), like the jump list */
+nav.parts { font-size: var(--size); position: fixed; z-index: 20; right: calc(env(safe-area-inset-right, 0px) + 12px); bottom: calc(env(safe-area-inset-bottom, 0px) + 62px);
+  width: min(14em, calc(100vw - 24px)); max-height: calc(100vh - env(safe-area-inset-top, 0px) - env(safe-area-inset-bottom, 0px) - 80px); overflow-y: auto;
   box-sizing: border-box; display: flex; flex-direction: column; gap: .15rem; padding: .45rem;
   background: var(--bg); border: 1px solid var(--line); border-radius: 16px; box-shadow: 0 6px 24px rgba(0,0,0,.18);
   transform-origin: bottom right; transform: translateY(8px) scale(.96); opacity: 0; visibility: hidden;
@@ -63,15 +64,15 @@ nav.parts.open { transform: none; opacity: 1; visibility: visible; transition: t
 .menu-fab:hover, .menu-fab:focus-visible, .menu-fab[aria-expanded="true"] { opacity: 1; }
 @media (prefers-reduced-motion: reduce) { nav.parts, nav.parts.open { transition: none; } }
 .menu-item { display: flex; align-items: center; gap: .6rem; width: 100%; box-sizing: border-box; text-align: left; cursor: pointer;
-  font: 16px var(--f-body); color: var(--fg); background: none; border: 0; border-radius: 10px; padding: .55rem .6rem; }
+  font: 1em var(--f-body); color: var(--fg); background: none; border: 0; border-radius: 10px; padding: .5em .55em; }
 @media (hover: hover) { .menu-item:hover, .toc-list button:hover { background: var(--chip); } }
-.menu-item .ic { width: 1.4rem; text-align: center; color: var(--rubric); font-weight: 600; flex: none; }
+.menu-item .ic { width: 1.4em; text-align: center; color: var(--rubric); font-weight: 600; flex: none; }
 .menu-item .go { margin-left: auto; color: var(--rubric); font-size: 1.2em; line-height: 1; }
 .menu-item.nav { font-family: var(--f-cap); letter-spacing: .03em; background: var(--chip); }
 .menu-item.nav + .menu-item.nav { margin-top: .15rem; }
-.menu-row { display: flex; align-items: center; gap: .6rem; padding: .3rem .6rem; font-size: 16px; }
-.menu-row .ic { width: 1.4rem; text-align: center; color: var(--rubric); flex: none; }
-.menu-row button { font: 600 15px var(--f-body); color: var(--rubric); background: none; border: 1px solid var(--line); border-radius: 8px; width: 2.4rem; height: 2rem; cursor: pointer; }
+.menu-row { display: flex; align-items: center; gap: .6rem; padding: .3em .55em; font-size: 1em; }
+.menu-row .ic { width: 1.4em; text-align: center; color: var(--rubric); flex: none; }
+.menu-row button { font: 600 .85em var(--f-body); color: var(--rubric); background: none; border: 1px solid var(--line); border-radius: 8px; width: 2.6em; height: 2.2em; cursor: pointer; flex: none; }
 .menu-row button:first-of-type { margin-left: auto; }
 .menu-sep { border: 0; border-top: 1px solid var(--line); margin: .3rem .2rem; }
 nav.parts button:focus-visible, button:focus-visible { outline: 2px solid var(--rubric); outline-offset: 2px; }
@@ -405,25 +406,23 @@ body.empty #top, body.empty #jump-latin, body.empty #notice, body.empty .legend 
   window.addEventListener('resize', biArrow);
   document.addEventListener('scroll', function (e) { if (e.target.classList && e.target.classList.contains('bi-grid')) biArrow(); }, { capture: true, passive: true });
 
-  // "Next paragraph" (right edge, 65% down): the next unit below the top of the screen moves to the top,
-  // so the reader can go on without scrolling. A unit is a heading (with what hangs on it: summary,
-  // reading title, chooser) together with the paragraph after it, or a paragraph with the answer(s)
-  // and citation that follow it. A unit longer than the screen is not skipped: then it moves by most
-  // of a screen.
-  var BLOCKS = '#mass p, #mass h2, #mass h3, #mass .choice, #mass .alt-btns, #mass li';
-  function leads(el) { return /^H[23]$/.test(el.tagName) || el.matches('.sub, .rtitle, .choice, .alt-btns, .bi-lab'); }
-  function follows(el) { return el.matches('.resp, .cite'); }
+  // "Next paragraph" (right edge, 65% down): moves the text down by half a screen, with a short
+  // smooth animation (its own, so it looks the same on every phone; none if the reader asked for
+  // reduced motion). A tap during the movement continues from where it is heading.
+  var glide = null;
   $('next-para').addEventListener('click', function () {
-    var lim = window.innerHeight, next = null, prev = null;
-    var els = document.querySelectorAll(BLOCKS);
-    for (var i = 0; i < els.length; i++) {
-      var el = els[i];
-      if (el.closest('[hidden]') || !el.getClientRects().length || !el.offsetHeight) continue;
-      var start = !(prev && leads(prev)) && !follows(el), top = el.getBoundingClientRect().top;
-      prev = el;
-      if (start && top > 16) { next = top; break; }
-    }
-    window.scrollBy(0, next === null || next > lim * .85 ? lim * .8 : next - 12);
+    var from = window.scrollY, to = Math.min((glide ? glide.to : from) + window.innerHeight / 2,
+      document.documentElement.scrollHeight - window.innerHeight);
+    if (glide) cancelAnimationFrame(glide.raf);
+    if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) { glide = null; window.scrollTo(0, to); return; }
+    var t0 = null, MS = 380;
+    glide = { to: to };
+    (function step(t) {
+      if (t0 === null) t0 = t;
+      var k = Math.min(1, (t - t0) / MS), e = 1 - Math.pow(1 - k, 3);   // ease-out
+      window.scrollTo(0, from + (to - from) * e);
+      if (k < 1) glide.raf = requestAnimationFrame(step); else glide = null;
+    })(performance.now());
   });
 
   // Jump lists: "Magyar" (the Hungarian text) and "Latin–magyar" (the bilingual section). Built from the

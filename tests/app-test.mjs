@@ -108,17 +108,17 @@ async function open(day, path = '', { blockCalendar = false, blockOrdinary = fal
   const atHu = await t.page.$eval('#latin .bi-grid', g => g.scrollLeft >= g.scrollWidth - g.clientWidth - 2);
   const sw = await t.page.$eval('#bi-switch', b => [b.textContent, Math.round(innerWidth - b.getBoundingClientRect().right)]);
   check(atHu && sw[0] === '‹' && sw[1] < 20, `arrow slides to the Hungarian column, stays on the right edge, points back (${sw.join(', ')})`);
-  // "Next paragraph": the next block below the top of the screen moves to the top
+  // "Next paragraph": half a screen down per tap, animated
   await t.page.evaluate(() => window.scrollTo(0, 0));
-  const before = await t.page.$eval('#mass h2.part', h => Math.round(h.getBoundingClientRect().top));
   await t.page.click('#next-para');
-  const after = await t.page.$eval('#mass h2.part', h => Math.round(h.getBoundingClientRect().top));
-  await t.page.click('#next-para');
-  // the part heading, "Bevezető ének" and its antiphon (with its citation) are one unit: next is "Köszöntés"
-  const third = await t.page.$$eval('#r1 h3', h => Math.round(h.find(x => x.textContent === 'Köszöntés').getBoundingClientRect().top));
+  const mid = await t.page.evaluate(() => window.scrollY);
+  await t.page.waitForTimeout(600);
+  const half = await t.page.evaluate(() => [window.scrollY, Math.round(innerHeight / 2)]);
+  await t.page.click('#next-para'); await t.page.waitForTimeout(600);
+  const twice = await t.page.evaluate(() => window.scrollY);
   const right = await t.page.$eval('#next-para', b => Math.round(innerWidth - b.getBoundingClientRect().right));
-  check(Math.abs(after - 12) < 3 && Math.abs(third - 12) < 3 && right < 20,
-    `next paragraph (right edge, ${right}px): part heading ${before} → ${after}px, then heading + antiphon as one unit → "Köszöntés" at ${third}px`);
+  check(Math.abs(half[0] - half[1]) < 2 && Math.abs(twice - 2 * half[1]) < 2 && mid < half[1] && right < 20,
+    `next paragraph (right edge, ${right}px): half a screen per tap (${half[0]}, ${twice}), animated (${Math.round(mid)} right after the tap)`);
   await t.ctx.close();
 }
 
