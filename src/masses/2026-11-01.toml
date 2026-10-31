@@ -10,12 +10,12 @@ prefaces = ["mindenszentek"]
 mass_type = "A főünnep saját miséje"
 
 [entrance]
-source = "Római Misekönyv 1991 (PPEK 335), november 1., 620. o."
+source = "igenaptár 2026-11-01 (user, 2026-10-31: igenaptár's wording instead of the 1991 missal's)"
 text = '''
 Örvendezzünk mindnyájan az Úrban
-Mindenszenteket ünnepelve,
-akiknek ünnepén ujjonganak az angyalok,
-és magasztalják Isten Fiát.
+ünnepi napot ülvén Mindenszentek tiszteletére,
+kiknek ünnepén örülnek az angyalok,
+és magasztalják az Istennek Fiát.
 '''
 la = '''
 Gaudeamus omnes in Domino,
@@ -67,10 +67,12 @@ Per Christum Dominum nostrum.
 
 [communion]
 cite = "Mt 5,8-10"
-source = "Római Misekönyv 1991 (PPEK 335), november 1., 621. o."
+source = "igenaptár 2026-11-01 (user, 2026-10-31: igenaptár's wording instead of the 1991 missal's; \"szívûek\" → \"szívűek\")"
 text = '''
-Boldogok a tiszta szívűek, mert meglátják az Istent.
-Boldogok a békességben élők, mert Isten fiainak hívják majd őket.
+Boldogok a tiszta szívűek,
+mert meglátják az Istent.
+Boldogok a békességszerzők,
+mert Isten fiainak hívják majd őket.
 Boldogok, akik üldözést szenvednek az igazságért,
 mert övék a mennyek országa.
 '''
