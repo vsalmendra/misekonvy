@@ -1,0 +1,257 @@
+# Recipe: src/masses/2026-11-01.md
+date = "2026-11-01"
+title = "Mindenszentek"
+day = "Főünnep · az évközi 31. vasárnap helyett"
+rank = "fehér színben"
+gloria = true
+creed = true
+eucharistic_prayer = 1
+prefaces = ["mindenszentek"]
+mass_type = "A főünnep saját miséje"
+
+[entrance]
+source = "Római Misekönyv 1991 (PPEK 335), november 1., 620. o."
+text = '''
+Örvendezzünk mindnyájan az Úrban
+Mindenszenteket ünnepelve,
+akiknek ünnepén ujjonganak az angyalok,
+és magasztalják Isten Fiát.
+'''
+la = '''
+Gaudeamus omnes in Domino,
+diem festum celebrantes
+sub honore Sanctorum omnium,
+de quorum sollemnitate gaudent Angeli,
+et collaudant Filium Dei.
+'''
+
+[collect]
+source = "Római Misekönyv 1991 (PPEK 335), november 1., 620. o."
+text = '''
+Mindenható, örök Isten, te megadtad,
+hogy egy napon ünnepeljük minden szented dicsőségét.
+Kérünk, hogy sokszoros közbenjárásukra
+bőven áraszd reánk nagy irgalmadat.
+A mi Urunk, Jézus Krisztus, a te Fiad által,
+aki veled él és uralkodik a Szentlélekkel egységben,
+Isten mindörökkön-örökké.
+'''
+la = '''
+Omnipotens sempiterne Deus,
+qui nos omnium Sanctorum tuorum merita
+sub una tribuisti celebritate venerari, quaesumus,
+ut desideratam nobis tuae propitiationis abundantiam,
+multiplicatis intercessoribus, largiaris.
+Per Dominum nostrum Iesum Christum, Filium tuum,
+qui tecum vivit et regnat in unitate Spiritus Sancti,
+Deus, per omnia saecula saeculorum.
+'''
+
+[offertory]
+source = "Római Misekönyv 1991 (PPEK 335), november 1., 620. o."
+text = '''
+Urunk, Istenünk, fogadd tetszéssel áldozati adományainkat,
+amelyeket minden szented tiszteletére felajánlunk.
+Hisszük, hogy ők már eljutottak a boldog halhatatlanságba;
+engedd éreznünk, hogy közbenjárnak üdvösségünkért.
+Krisztus, a mi Urunk által.
+'''
+la = '''
+Grata tibi sint, Domine, munera,
+quae pro cunctorum offerimus honore Sanctorum,
+et concede,
+ut, quos iam credimus de sua immortalitate securos,
+sentiamus de nostra salute sollicitos.
+Per Christum Dominum nostrum.
+'''
+
+[communion]
+cite = "Mt 5,8-10"
+source = "Római Misekönyv 1991 (PPEK 335), november 1., 621. o."
+text = '''
+Boldogok a tiszta szívűek, mert meglátják az Istent.
+Boldogok a békességben élők, mert Isten fiainak hívják majd őket.
+Boldogok, akik üldözést szenvednek az igazságért,
+mert övék a mennyek országa.
+'''
+la = '''
+Beati mundo corde, quoniam ipsi Deum videbunt;
+beati pacifici, quoniam filii Dei vocabuntur;
+beati qui persecutionem patiuntur propter iustitiam,
+quoniam ipsorum est regnum caelorum.
+'''
+
+[postcommunion]
+source = "Római Misekönyv 1991 (PPEK 335), november 1., 621. o."
+text = '''
+Mindenható Istenünk,
+a te végtelen szentségedet csodáljuk és tiszteljük minden szentedben.
+Add kegyelmedet,
+hogy szentté legyünk szereteted teljességében,
+és innét, a földi zarándokok asztalától eljussunk a mennyei haza lakomájára.
+Krisztus, a mi Urunk által.
+'''
+la = '''
+Mirabilem te, Deus,
+et unum Sanctum in omnibus Sanctis tuis adorantes,
+tuam gratiam imploramus, qua,
+sanctificationem in tui amoris plenitudine consummantes,
+ex hac mensa peregrinantium
+ad caelestis patriae convivium transeamus.
+Per Christum Dominum nostrum.
+'''
+
+# Readings: of the solemnity, from src/cycle/fix-11-01.json (igenaptár 2026-11-01).
+[reading1]
+label = "Olvasmány"
+sub = "a Jelenések könyvéből"
+summary = "Akkora sereget láttam, hogy meg sem lehetett számlálni."
+cite = "Jel 7,2-4.9-14"
+la_sub = "Lectio libri Apocalypsis beati Ioannis apostoli"
+text = '''
+Én, János láttam, hogy napkelet felől egy másik angyal száll fel. Nála volt az élő Isten pecsétje. Hangos szóval így kiáltott a négy angyalnak, akiknek hatalmuk volt arra, hogy ártsanak a földnek és a tengernek: „Ne ártsatok se a földnek, se a tengernek, se a fáknak, míg meg nem jelöljük homlokukon Istenünk szolgáit!”
+
+Ekkor hallottam a megjelöltek számát: száznegyvennégyezren voltak Izrael fiainak minden törzséből.
+
+Ezután akkora sereget láttam, hogy meg sem lehetett számlálni. Minden nemzetből és törzsből, népből és nyelvből álltak ott a trón és a Bárány előtt. Fehér ruhában voltak, a kezükben pálmaággal. Hangos szóval kiáltották: „Üdv Istenünknek, aki a trónon ül, és a Báránynak!”
+
+Az angyalok mind a trón, a vének és a négy élőlény körül álltak. Arcra borultak a trón előtt, és imádták az Istent: „Ámen. Áldás, dicsőség, bölcsesség, hála, tisztelet, hatalom és erő a mi Istenünknek örökkön-örökké! Ámen.”
+
+Ekkor a vének közül az egyik megszólított, és megkérdezte tőlem. „Kik ezek a fehér ruhások és honnan jöttek?” Ezt feleltem: „Te tudod, uram!” Erre ő azt mondta: „Ezek a nagy szorongattatásból jöttek. Ruhájukat fehérre mosták a Bárány vérében.”
+'''
+la = '''
+Ego Ioannes vidi alterum angelum ascendentem ab ortu solis, habentem sigillum Dei vivi; et clamavit voce magna quattuor angelis, quibus datum est nocere terrae et mari, dicens: «Nolite nocere terrae et mari neque arboribus, quoadusque signemus servos Dei nostri in frontibus eorum».
+
+Et audivi numerum signatorum: centum quadraginta quattuor milia signati, ex omni tribu filiorum Israel.
+
+Post haec vidi: et ecce turba magna, quam dinumerare nemo poterat, ex omnibus gentibus et tribubus et populis et linguis, stantes ante thronum et in conspectu Agni, amicti stolas albas et palmae in manibus eorum, et clamant voce magna dicentes: «Salus Deo nostro, qui sedet super thronum, et Agno».
+
+Et omnes angeli stabant in circuitu throni et Seniorum et quattuor Animalium; et ceciderunt in conspectu throni in facies suas, et adoraverunt Deum dicentes: «Amen. Benedictio et gloria et sapientia et gratiarum actio, honor et virtus et fortitudo Deo nostro in saecula saeculorum. Amen».
+
+Et respondit unus de Senioribus dicens mihi: «Hi, qui amicti sunt stolis albis, qui sunt et unde venerunt?» Et dixi illi: «Domine mi, tu scis». Et dixit mihi: «Hi sunt qui veniunt de tribulatione magna, et laverunt stolas suas et dealbaverunt eas in sanguine Agni».
+'''
+
+[psalm]
+cite = "Zsolt 23,1-2.3-4ab.5-6"
+response = "Ez az istenkeresők népe, mely látni kívánja arcodat, Uram."
+la_response = "Haec est generatio quaerentium faciem tuam, Domine."
+verses = [
+'''
+Az Úré a föld, és ami betölti,
+a földkerekség, és minden lakója.
+Alapjait ő ágyazta tengerek mélyébe,
+s a vizek árján ő tartja szilárdan.
+''',
+'''
+Ki mehet föl az Úr hegyére,
+ki állhat meg az ő szent helyén.
+Aki ártatlan kezű, tiszta szívű,
+akinek az esze nem jár csaláson.
+''',
+'''
+Az nyer áldást az Úrtól,
+és megigazulást üdvözítő Istenétől.
+Ez az istenkeresők népe,
+amely arcát kutatja Jákob Istenének.
+''']
+la_verses = [
+'''
+Domini est terra et plenitudo eius,
+orbis terrarum et qui habitant in eo.
+Quia ipse super maria fundavit eum,
+et super flumina firmavit eum.
+''',
+'''
+Quis ascendet in montem Domini,
+aut quis stabit in loco sancto eius?
+Innocens manibus et mundo corde,
+qui non accepit in vanum nomen eius.
+''',
+'''
+Hic accipiet benedictionem a Domino,
+et iustificationem a Deo salutari suo.
+Haec est generatio quaerentium eum,
+quaerentium faciem Dei Iacob.
+''']
+
+[reading2]
+label = "Szentlecke"
+sub = "Szent János apostol első leveléből"
+summary = "Látni fogjuk Istent úgy, amint van."
+cite = "1Jn 3,1-3"
+la_sub = "Lectio Epistolae primae beati Ioannis apostoli"
+text = '''
+Szeretteim!
+
+Nézzétek, mekkora szeretettel van irántunk az Atya: Isten gyermekeinek hívnak minket, és azok is vagyunk. A világ azért nem ismer minket, mert őt sem ismeri. Szeretteim, most Isten gyermekei vagyunk, de hogy mik leszünk, az még nem nyilvánvaló. Azt tudjuk, hogy ha ő megjelenik, hasonlók leszünk hozzá, mert látni fogjuk őt úgy, amint van. És mindenki, aki benne reménykedik, szentté lesz, ahogyan szent ő maga is.
+'''
+la = '''
+Carissimi:
+
+Videte qualem caritatem dedit nobis Pater, ut filii Dei nominemur: et sumus! Propter hoc mundus non cognoscit nos, quia non cognovit eum. Carissimi, nunc filii Dei sumus, et nondum manifestatum est quid erimus. Scimus quoniam, cum ipse apparuerit, similes ei erimus; quoniam videbimus eum sicuti est. Et omnis qui habet spem hanc in eo, castificat se, sicut ille castus est.
+'''
+
+[alleluia]
+cite = "Mt 11,28"
+text = "Jöjjetek hozzám mindnyájan, akik fáradtak vagytok, és terhek alatt görnyedtek. Én felüdítelek titeket – mondja a mi Urunk."
+la = "Venite ad me, omnes qui laboratis et onerati estis, et ego reficiam vos, dicit Dominus."
+
+[gospel]
+book = "Szent Máté"
+la_book = "Matthaeum"
+summary = "Örüljetek és ujjongjatok, mert nagy lesz a ti jutalmatok az égben."
+cite = "Mt 5,1-12a"
+text = '''
+Abban az időben: Jézus látva a tömeget, fölment a hegyre, leült, tanítványai pedig köréje gyűltek. Akkor szólásra nyitotta ajkát, és így tanította őket:
+
+„Boldogok a lélekben szegények, mert övék a mennyek országa.
+
+Boldogok, akik sírnak, mert ők vigasztalást nyernek.
+
+Boldogok a szelídek, mert ők öröklik a földet.
+
+Boldogok, akik éhezik és szomjazzák az igazságot, mert ők kielégítést nyernek.
+
+Boldogok az irgalmasok, mert nekik is irgalmaznak.
+
+Boldogok a tiszta szívűek, mert ők meglátják Istent.
+
+Boldogok a békességszerzők, mert őket Isten fiainak fogják hívni.
+
+Boldogok, akiket üldöznek az igazságért, mert övék a mennyek országa.
+
+Boldogok vagytok, ha miattam gyaláznak titeket és üldöznek, ha hazudozva mindenféle gonoszsággal vádolnak titeket. Örüljetek és ujjongjatok, mert nagy lesz a ti jutalmatok az égben.”
+'''
+la = '''
+In illo tempore: Videns Iesus turbas, ascendit in montem; et cum sedisset, accesserunt ad eum discipuli eius. Et aperiens os suum, docebat eos dicens:
+
+«Beati pauperes spiritu, quoniam ipsorum est Regnum caelorum.
+
+Beati qui lugent, quoniam ipsi consolabuntur.
+
+Beati mites, quoniam ipsi possidebunt terram.
+
+Beati qui esuriunt et sitiunt iustitiam, quoniam ipsi saturabuntur.
+
+Beati misericordes, quia ipsi misericordiam consequentur.
+
+Beati mundo corde, quoniam ipsi Deum videbunt.
+
+Beati pacifici, quoniam filii Dei vocabuntur.
+
+Beati qui persecutionem patiuntur propter iustitiam, quoniam ipsorum est Regnum caelorum.
+
+Beati estis, cum maledixerint vobis, et persecuti vos fuerint, et dixerint omne malum adversum vos, mentientes, propter me: gaudete et exsultate, quoniam merces vestra copiosa est in caelis».
+'''
+
+[faithful]
+intro = "Imádkozzunk, testvéreim, a mai szép ünnepen mennyei Atyánkhoz, és kérjük Isten minden szentjét is, hogy közbenjárásukkal támogassák könyörgésünket!"
+response = "Kérünk téged, hallgass meg minket!"
+petitions = [
+  "Add, Urunk, hogy néped – szentjeid példájára – minden erejével építse a te országodat!",
+  "Add, Urunk, hogy a népek vezetői kitartóan fáradozzanak a rájuk bízottak földi boldogulásáért és békéjéért!",
+  "Add, Urunk, hogy a szentek hősies példája lelkesítse híveidet, és irányítsa őket az életszentség útjára!",
+  "Add, Urunk, hogy a szentek közbenjárása segítse szenvedő, beteg és gondokkal küzdő embertársainkat!",
+  "S végül engedd, hogy meghalt testvéreinkkel együtt mi is részesüljünk a szentek dicsőségében!",
+]
+conclusion = "Urunk, Istenünk! Te mindannyiunkat meghívtál szentjeid közé. Add kegyelmedet, hogy az ő útjukat járjuk a földön, és társaságukban elnyerjük a boldog örökkévalóságot. Krisztus, a mi Urunk által."

@@ -1,6 +1,7 @@
 # Fixed parts of the Order of Mass (new Hungarian missal wording), as HTML fragments.
 # Taken from the 2026-10-20 page. Gloria: katolikus.hu "A szentmise állandó részei magyarul" (2015),
-# not yet checked against the new missal. Creed still missing (needed on Sundays/solemnities).
+# not yet checked against the new missal. Creed: Római Misekönyv 1991 (PPEK 335), Ordo Missae 15.,
+# pp. 355-356 (OCR "üdvösségürmért" -> "üdvösségünkért"); not yet checked against the new missal.
 
 greeting = '''
 <h3>Köszöntés</h3>
@@ -86,4 +87,16 @@ concluding = '''
 gloria = '''
 <h3>Dicsőség</h3>
 <p class="resp">Dicsőség a magasságban Istennek, és a földön békesség a jóakaratú embereknek. Dicsőítünk téged, áldunk téged, imádunk téged, magasztalunk téged, hálát adunk neked nagy dicsőségedért, Urunk és Istenünk, mennyei Király, mindenható Atyaisten. Urunk, Jézus Krisztus, egyszülött Fiú, Urunk és Istenünk, Isten Báránya, az Atyának Fia, te elveszed a világ bűneit, irgalmazz nekünk; te elveszed a világ bűneit, hallgasd meg könyörgésünket. Te az Atya jobbján ülsz, irgalmazz nekünk. Mert egyedül te vagy a Szent, te vagy az Úr, te vagy az egyetlen Fölség, Jézus Krisztus, a Szentlélekkel együtt, az Atyaisten dicsőségében. Ámen.</p>
+'''
+
+creed = '''
+<h3>Hitvallás</h3>
+<p class="resp">Hiszek az egy Istenben, mindenható Atyában, mennynek és földnek, minden láthatónak és láthatatlannak Teremtőjében.</p>
+<p class="resp">Hiszek az egy Úrban, Jézus Krisztusban, Isten egyszülött Fiában, aki az Atyától született az idő kezdete előtt. Isten az Istentől, Világosság a Világosságtól, valóságos Isten a valóságos Istentől, született, de nem teremtmény, az Atyával egylényegű; és minden általa lett. Értünk, emberekért, a mi üdvösségünkért leszállott a mennyből.</p>
+<p class="rub">Mindnyájan mélyen meghajolnak:</p>
+<p class="resp">Megtestesült a Szentlélek erejéből Szűz Máriától, és emberré lett.</p>
+<p class="rub">Felegyenesednek:</p>
+<p class="resp">Poncius Pilátus alatt értünk keresztre feszítették, kínhalált szenvedett és eltemették. Harmadnapra feltámadott az Írások szerint, fölment a mennybe, ott ül az Atyának jobbján, de újra eljön dicsőségben, ítélni élőket és holtakat, és országának nem lesz vége.</p>
+<p class="resp">Hiszek a Szentlélekben, Urunkban és éltetőnkben, aki az Atyától és a Fiútól származik; akit éppúgy imádunk és dicsőítünk, mint az Atyát és a Fiút. Ő szólt a próféták szavával.</p>
+<p class="resp">Hiszek az egy, szent, katolikus és apostoli Anyaszentegyházban, vallom az egy keresztséget a bűnök bocsánatára, várom a holtak feltámadását és az eljövendő örök életet. Ámen.</p>
 '''

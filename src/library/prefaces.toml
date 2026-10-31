@@ -412,3 +412,27 @@ Per quem maiestátem tuam adórat exércitus Angelórum, ante conspéctum tuum i
 
 Cum quibus et nostras voces ut admítti iúbeas, deprecámur, sócia exsultatióne dicéntes:
 '''
+
+[mindenszentek]
+label = "Prefáció Mindenszentek ünnepére"
+source = "Római Misekönyv 1991 (PPEK 335), november 1. (Mindenszentek), 620-621. o. – az új misekönyvvel még nem egyeztetve. Latin: Missale Romanum cum lectionibus 1977, vol. IV, pp. 756-757 (1 nov.); hangsúlyjelek a Missale Romanum szokása szerint"
+sub = "Anyánknak, a mennyei Jeruzsálemnek dicsősége"
+la_label = "Praefatio de gloria Matris nostrae Ierusalem"
+text = '''
+Valóban méltó és igazságos, illő és üdvös, hogy mindig és mindenütt hálát adjunk néked, mi Urunk, szentséges Atyánk, mindenható, örök Isten:
+
+Mert a te jóságodból ünnepeljük a mai napon a dicsőség városát, a mennyei Jeruzsálemet, mely anyánk és végső célunk, hol megdicsőült testvéreink kórusa mindörökké magasztal téged.
+
+Mi valamennyien, akik a hit fényében a földi élet zarándokútját járjuk, nagy buzgósággal törekszünk e szent városba, és örvendünk, hogy az Egyház tagjait ilyen dicsőség várta, s hogy gyarló embervoltunknak a szentekben adtál pártfogót és példaképet.
+
+Ezért velük és az angyalok ünneplő kórusával együtt magasztalunk téged, és hangos szóval mondjuk:
+'''
+la = '''
+Vere dignum et iustum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine, sancte Pater, omnípotens ætérne Deus:
+
+Nobis enim hódie civitátem tuam tríbuis celebráre, quæ mater nostra est, cælestísque Ierúsalem, ubi fratrum nostrórum iam te in ætérnum coróna colláudat.
+
+Ad quam peregríni, per fidem accedéntes, alácriter festinámus, congaudéntes de Ecclésiæ sublímium glorificatióne membrórum, qua simul fragilitáti nostræ adiuménta et exémpla concédis.
+
+Et ídeo, cum ipsórum Angelorúmque frequéntia, una te magnificámus, laudis voce clamántes:
+'''
