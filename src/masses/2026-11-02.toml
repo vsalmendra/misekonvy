@@ -5,7 +5,7 @@ day = "Minden elhunyt hívek emléknapja"
 rank = "lila színben"
 gloria = false
 creed = false
-eucharistic_prayer = 2
+eucharistic_prayer = 1
 prefaces = ["megholtak-1", "megholtak-2", "megholtak-3", "megholtak-4", "megholtak-5"]
 mass_type = "Halottak napja, 1. mise"
 
