@@ -1,0 +1,253 @@
+# Recipe: src/masses/2026-11-02.md
+date = "2026-11-02"
+title = "Halottak napja"
+day = "Minden elhunyt hívek emléknapja"
+rank = "lila színben"
+gloria = false
+creed = false
+eucharistic_prayer = 2
+prefaces = ["megholtak-1", "megholtak-2", "megholtak-3", "megholtak-4", "megholtak-5"]
+mass_type = "Halottak napja, 1. mise"
+
+# Propers: the first of the three Masses of 2 November. Hungarian: Római Misekönyv 1991 (PPEK 335),
+# pp. 621-622 ("mindörökkön örökké" without hyphen, as in the new missal). Latin: Missale Romanum
+# 2008, pp. 788-789 (user's photos, 2026-11-01).
+[entrance]
+cite = "Vö. 1Tessz 4,14; 1Kor 15,22"
+la_cite = "Cf. 1 Th 4, 14; 1 Cor 15, 22"
+source = "Római Misekönyv 1991 (PPEK 335), november 2., 1. mise, 621. o."
+text = '''
+Amint Krisztus meghalt és feltámadt,
+ugyanúgy feltámasztja Isten azokat is,
+akik Jézusban hunytak el;
+és ahogyan Ádámban minden ember meghal,
+ugyanúgy Krisztusban mindenki örök életre támad.
+'''
+la = '''
+Sicut Iesus mórtuus est et resurréxit,
+ita et Deus eos qui dormiérunt per Iesum addúcet cum eo.
+Et sicut in Adam omnes moriúntur,
+ita et in Christo omnes vivificabúntur.
+'''
+
+[collect]
+source = "Római Misekönyv 1991 (PPEK 335), november 2., 1. mise, 621-622. o."
+text = '''
+Mennyei Atyánk, hallgasd meg jóságosan imádságunkat,
+amikor húsvéti hittel valljuk,
+hogy szent Fiad a halálból életre támadt.
+Kérünk, erősítsd bennünk azt a reménységet,
+hogy elhunyt híveidnek is megadod a boldog feltámadást.
+A mi Urunk, Jézus Krisztus, a te Fiad által,
+aki veled él és uralkodik a Szentlélekkel egységben,
+Isten mindörökkön örökké.
+'''
+la = '''
+Preces nostras, quǽsumus, Dómine, benígnus exáudi,
+ut, dum attóllitur nostra fides
+in Fílio tuo a mórtuis suscitáto,
+in famulórum tuórum præstolánda resurrectióne
+spes quoque nostra firmétur.
+Per Dóminum nostrum Iesum Christum, Fílium tuum,
+qui tecum vivit et regnat in unitáte Spíritus Sancti,
+Deus, per ómnia sǽcula sæculórum.
+'''
+
+[offertory]
+source = "Római Misekönyv 1991 (PPEK 335), november 2., 1. mise, 622. o."
+text = '''
+Fogadd kegyesen adományainkat, Istenünk.
+Kérünk, vedd fel elhunyt gyermekeidet
+szent Fiad dicsőségébe,
+akinek fölséges áldozata
+testvéri szeretetben kapcsol össze minket.
+Aki él és uralkodik mindörökkön örökké.
+'''
+la = '''
+Nostris, Dómine, propitiáre munéribus,
+ut fámuli tui defúncti assumántur in glóriam cum Fílio tuo,
+cuius magno pietátis iúngimur sacraménto.
+Qui vivit et regnat in sǽcula sæculórum.
+'''
+
+[communion]
+cite = "Vö. Jn 11,25-26"
+la_cite = "Cf. Io 11, 25-26"
+source = "Római Misekönyv 1991 (PPEK 335), november 2., 1. mise, 622. o."
+text = '''
+Így szól az Úr: Én vagyok a feltámadás és az élet.
+Aki hisz bennem, még ha meghal is, élni fog.
+Az, aki úgy él, hogy hisz bennem, nem hal meg örökre.
+'''
+la = '''
+Ego sum resurréctio et vita, dicit Dóminus.
+Qui credit in me, étiam si mórtuus fúerit, vivet;
+et omnis, qui vivit et credit in me,
+non moriétur in ætérnum.
+'''
+
+[postcommunion]
+source = "Római Misekönyv 1991 (PPEK 335), november 2., 1. mise, 622. o."
+text = '''
+Mennyei Atyánk, add kegyelmedet,
+hogy örök világosságod és békességed országába jussanak
+elhunyt gyermekeid,
+akikért ezt a húsvéti áldozatot bemutattuk.
+Krisztus, a mi Urunk által.
+'''
+la = '''
+Præsta, quǽsumus, Dómine,
+ut fámuli tui defúncti in mansiónem lucis tránseant et pacis,
+pro quibus paschále celebrávimus sacraméntum.
+Per Christum Dóminum nostrum.
+'''
+
+# Readings: "A szentmise olvasmányai – Gyászmisékre" (user's photos): first reading 1, second
+# reading 1, alleluia 10, gospel after it. Latin: Missale Romanum cum lectionibus 1977, vol. IV,
+# Missae defunctorum (the same numbers: Lectio prima 1, Lectio secunda 1, Alleluia 10).
+[reading1]
+label = "Olvasmány"
+sub = "Jób könyvéből"
+summary = "Tudom, hogy Megváltóm él, és a végső napon feltámadok."
+cite = "Jób 19,1.23-27a"
+la_sub = "Lectio libri Iob"
+text = '''
+Jób, az istenfélő férfiú, barátai vádaskodására ezeket mondta: „Bárcsak felírnák szavaimat, bárcsak leírnák könyvbe! Bárcsak vas íróvesszővel ólomtáblára, vagy vésővel sziklába vésnék azokat!
+
+Tudom, hogy Megváltóm él, és a végső napon feltámadok a földből. Testemet ismét bőr veszi körül és így látom meg Istenemet. Én magam látom őt: saját szememmel.”
+'''
+la = '''
+Respondens Iob dixit: «Quis mihi tribuat ut scribantur sermones mei? Quis mihi det ut exarentur in libro stilo ferreo, et plumbi lamina vel celte sculpantur in silice?
+
+Scio enim quod redemptor meus vivit, et in novissimo die de terra surrecturus sum. Et rursum circumdabor pelle mea et in carne mea videbo Deum meum. Quem visurus sum ego ipse».
+'''
+
+[psalm]
+cite = "Zsolt 26,1.4.7 és 8b és 9a.13-14"
+response = "Hiszem, hogy meglátom az Úr javait az élők országában."
+la_response = "Credo videre bona Domini in terra viventium."
+verses = [
+'''
+Világosságom az Úr és üdvösségem, kitől félnék?
+Az Úr oltalmazója életemnek, kitől rettegnék?
+''',
+'''
+Csak egyet kérek az Úrtól, egy a vágyam:
+hogy az Úr házában lakjam életem minden napján,
+hogy láthassam az Úr gyönyörűségét,
+és szemlélhessem templomát.
+''',
+'''
+Hallgass meg, Uram, hozzád kiáltok,
+könyörülj meg rajtam, és hallgass meg engem.
+A te arcodat keresem, Uram!
+Ne fordítsd el tőlem arcodat!
+''',
+'''
+Hiszem, hogy meglátom az Úr javait
+az élők országában.
+Bízzál az Úrban, bátran cselekedj,
+szíved legyen erős és hagyatkozz az Úrra!
+''']
+la_verses = [
+'''
+Dominus illuminatio mea et salus mea, quem timebo?
+Dominus protector vitae meae, a quo trepidabo?
+''',
+'''
+Unum petii a Domino, hoc requiram:
+ut inhabitem in domo Domini
+omnibus diebus vitae meae,
+ut videam voluptatem Domini et visitem templum eius.
+''',
+'''
+Exaudi, Domine, vocem meam qua clamavi,
+miserere mei et exaudi me.
+Faciem tuam, Domine, requiram.
+Ne avertas faciem tuam a me.
+''',
+'''
+Credo videre bona Domini
+in terra viventium.
+Exspecta Dominum, viriliter age,
+et confortetur cor tuum, et sustine Dominum.
+''']
+
+[reading2]
+label = "Szentlecke"
+sub = "Szent Pál apostolnak a rómaiakhoz írt leveléből"
+summary = "Jézus vére árán megigazultunk; általa megmenekülünk a haragtól."
+cite = "Róm 5,5-11"
+la_sub = "Lectio Epistolae beati Pauli apostoli ad Romanos"
+text = '''
+Testvéreim!
+
+A remény nem csal meg, mert Isten szeretete kiárad szívünkbe a Szentlélek által, akit megadott nekünk. Amikor még erőtlenek voltunk, Krisztus az erre alkalmas időben meghalt a bűnösökért; pedig az igazért is alig hal meg valaki, legfeljebb a jó emberért meri vállalni valaki a halált.
+
+Isten azonban azzal bizonyítja irántunk való szeretetét, hogy Krisztus meghalt értünk, amikor még bűnösök voltunk.
+
+Most, hogy vére árán megigazultunk, sokkal inkább megment bennünket a haragtól.
+
+Mert amikor még ellenségek voltunk, Fia halála által kiengesztelődtünk Istennel, most, hogy kibékültünk, mennyivel inkább megszabadulunk Fia élete által. Sőt, ezenfelül még dicsekszünk is az Istenben, a mi Urunk, Jézus Krisztus által, aki megszerezte nekünk a kiengesztelődést.
+'''
+la = '''
+Fratres:
+
+Spes non confundit, quia caritas Dei diffusa est in cordibus nostris per Spiritum Sanctum, qui datus est nobis. Adhuc enim Christus, cum adhuc infirmi essemus, secundum tempus pro impiis mortuus est. Vix enim pro iusto quis moritur; nam pro bono forsitan quis et audeat mori.
+
+Commendat autem suam caritatem Deus in nos, quoniam, cum adhuc peccatores essemus, Christus pro nobis mortuus est.
+
+Multo igitur magis iustificati in sanguine ipsius, salvi erimus ab ira per ipsum.
+
+Si enim, cum inimici essemus, reconciliati sumus Deo per mortem Filii eius, multo magis reconciliati salvi erimus in vita ipsius. Non solum autem, sed et gloriamur in Deo per Dominum nostrum Iesum Christum, per quem nunc reconciliationem accepimus.
+'''
+
+[alleluia]
+cite = "Mt 25,34"
+text = '''
+Jöjjetek, Atyám áldottai, – mondja az Úr;
+vegyétek birtokotokba azt az országot,
+amely nektek készült a világ teremtése óta.
+'''
+la = '''
+Venite, benedicti Patris mei, dicit Dominus;
+possidete paratum vobis Regnum
+a constitutione mundi.
+'''
+
+[gospel]
+book = "Szent János"
+la_book = "Ioannem"
+summary = "Aki hallgat az én tanításomra, és hisz abban, az már átment a halálból az életbe."
+cite = "Jn 5,24-29"
+text = '''
+Egy alkalommal Jézus ezt mondta a zsidóknak:
+
+„Bizony, mondom nektek: Aki hallgat az én tanításomra, és hisz abban, aki engem küldött, annak örök élete van, és nem sújtja őt az ítélet, mert már átment a halálból az életbe.
+
+Bizony, bizony mondom nektek: Eljön az óra – sőt már itt is van –, amikor a halottak meghallják az Isten Fiának szavát. Meghallják, és életre támadnak. Mert ahogyan az Atyának élete van önmagában, ugyanúgy megadta a Fiúnak is, hogy élete legyen önmagában. A Fiúnak hatalmat adott arra is, hogy ítéletet tartson, mert ő az Emberfia.
+
+Ne csodálkozzatok ezen! Eljön az óra, amikor a halottak meghallják az Isten Fiának szavát, és előjönnek sírjukból. Akik jót cselekedtek, feltámadnak és üdvözülnek; akik rosszat tettek, feltámadnak és elkárhoznak.”
+'''
+la = '''
+In illo tempore: Respondit Iesus Iudaeis:
+
+«Amen, amen dico vobis: Qui verbum meum audit, et credit ei qui misit me, habet vitam aeternam, et in iudicium non venit, sed transiit a morte in vitam.
+
+Amen, amen dico vobis: Venit hora, et nunc est, quando mortui audient vocem Filii Dei, et qui audierint vivent. Sicut enim Pater habet vitam in semetipso, sic dedit et Filio vitam habere in semetipso, et potestatem dedit ei iudicium facere, quia Filius hominis est.
+
+Nolite mirari hoc, quia venit hora, in qua omnes qui in monumentis sunt, audient vocem eius; et procedent qui bona fecerunt in resurrectionem vitae, qui vero mala egerunt in resurrectionem iudicii».
+'''
+
+# "Egyetemes könyörgések – Halottak napján" (user's photo, p. 86).
+[faithful]
+intro = "Imádkozzunk, testvéreim, a mi Urunkhoz, Jézus Krisztushoz elhunyt szeretteinkért, a hit jelével elköltözött keresztény testvéreinkért, és mindazokért, akiknek hitét csak Isten ismerte!"
+response = "Kérünk téged, hallgass meg minket!"
+petitions = [
+  "Vedd föl, Urunk, elhunyt szüleink, rokonaink és barátaink lelkét az égiek közösségébe!",
+  "Fizess meg örök javakkal elhunyt lelkipásztorainknak, tanítóinknak és jótevőinknek!",
+  "Adj örök békességet az igazságtalanság és a háborúk áldozatainak!",
+  "Találjunk benned, Urunk, irgalmas bíránkra, ha magadhoz szólítasz bennünket a földi életből!",
+  "Erősítsd meg lelkünkben a boldog feltámadás reménységét!",
+]
+conclusion = "Urunk, Jézus Krisztus, örök dicsőség királya! Szabadítsd ki minden elhunyt hívő lelkét a tisztulás állapotából! A mennyei seregek vezére, Szent Mihály vezesse őket a világosság országába! Fogadd el könyörgésünket és engesztelő áldozatunkat a lelkekért, akikről ma emlékezünk! Részesítsd őket abban a dicsőséges életben, amelyet egykor választottaidnak ígértél! Aki élsz és uralkodol mindörökkön örökké."
