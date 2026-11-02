@@ -1,10 +1,11 @@
-# Szentek általános miséi 1-6 (Commune sanctorum, "for any saint").
-# Source: Római Misekönyv, 1991 Hungarian edition (PPEK 335, Misekonyv_1.pdf, pp. 690-696).
+# Szentek általános miséi 1-6 (Commune sanctorum, "for any saint"); 7: Szerzetesek miséje (pro religiosis).
+# Source: Római Misekönyv, 1991 Hungarian edition (PPEK 335, Misekonyv_1.pdf, pp. 690-696; 7: p. 696).
 # Typos of the PPEK text fixed: "dicsősédes" -> "dicsőséges" (1), "igazsák" -> "igazság" (4).
 # Not yet checked against the new (2021/2023) Hungarian missal.
 # "Szent N." is replaced per Mass via [names] in the mass file.
 # Latin (<key>_la): Missale Romanum cum lectionibus 1977, vol. IV, Commune sanctorum et sanctarum, pp. 939-940
 # (archive.org, OCR corrected by hand; no accents; "Per Dominum." expanded). Formulas 2-6: Latin not added yet.
+# 7 (Pro religiosis, first formula): Latin pp. 945-946.
 
 [1]
 entrance_cite = "Zsolt 144,10-11"
@@ -269,4 +270,103 @@ hogy a mennyei vendégség,
 amelyen szentjeidre emlékezvén részt vettünk,
 hozza meg számunkra az üdvösség és a béke gyümölcsét.
 Krisztus, a mi Urunk által.
+'''
+
+# 7. Szerzetesek miséje (Commune sanctorum: pro religiosis, first formula).
+# collect_b = the "Vagy: (apátok miséiben)" alternative, kept for reference (not offered).
+[7]
+entrance_cite = "Zsolt 15,5-6"
+entrance = '''
+Az Úr az én örökrészem és kelyhem;
+te irányítod, Uram, sorsomat.
+A mérőzsinór értékes részt juttatott nekem,
+valóban pompás az én örökrészem.
+'''
+collect = '''
+Istenünk, te Szent N.-nek erőt adtál,
+hogy mindhalálig kövesse a szegény és alázatos Krisztust.
+Közbenjárására segíts,
+hogy hivatásunkban hűségesen kitartsunk,
+és eljussunk a tökéletességre,
+amelyet megmutattál nekünk szent Fiadban, Jézus Krisztusban.
+Aki veled él és uralkodik a Szentlélekkel egységben,
+Isten mindörökkön örökké.
+'''
+collect_b = '''
+Istenünk, te Szent N. apátban
+elénk állítottad az evangéliumi tökéletesség eszményképét.
+Add, hogy e világ forgatagában
+egész szívvel ragaszkodjunk mennyei országod kincseihez.
+A mi Urunk, Jézus Krisztus, a te Fiad által,
+aki veled él és uralkodik a Szentlélekkel egységben,
+Isten mindörökkön örökké.
+'''
+offertory = '''
+Istenünk, te Szent N. lelkében a régi ember helyébe
+saját képedre kialakítottad az újat.
+Add, hogy mi is lélekben megújulva
+ajánlhassuk fel ezt az engesztelő áldozatot.
+Krisztus, a mi Urunk által.
+'''
+communion_cite = "Vö. Mt 19,27-29"
+communion = '''
+Bizony mondom nektek, hogy ti, akik mindent elhagytatok,
+és követtetek engem, százszoros jutalomban részesültök
+és megkapjátok az örök életet.
+'''
+postcommunion = '''
+Kérünk, mindenható Istenünk,
+hogy mi, akiket ennek a szentségnek ereje táplál,
+Szent N. példájára téged mindennél jobban keressünk,
+és ebben a világban az új ember vonásait viseljük.
+Krisztus, a mi Urunk által.
+'''
+
+entrance_la = '''
+Dominus pars hereditatis meae et calicis mei;
+tu es qui restitues hereditatem meam mihi.
+Funes ceciderunt mihi in praeclaris;
+etenim hereditas mea praeclara est mihi.
+'''
+collect_la = '''
+Deus, cuius munere beatus N.
+Christum pauperem et humilem perseveravit imitari,
+concede nobis, ipso intercedente,
+ut, in vocatione nostra fideliter ambulantes,
+ad eam perfectionem,
+quam nobis in Filio tuo proposuisti,
+pervenire valeamus.
+Per Dominum nostrum Iesum Christum, Filium tuum,
+qui tecum vivit et regnat in unitate Spiritus Sancti,
+Deus, per omnia saecula saeculorum.
+'''
+collect_b_la = '''
+Da nobis, quaesumus, Domine,
+inter mundi huius varietates
+toto corde rebus caelestibus adhaerere,
+qui per beatum N. abbatem
+evangelicae nobis perfectionis documenta donasti.
+Per Dominum nostrum Iesum Christum, Filium tuum,
+qui tecum vivit et regnat in unitate Spiritus Sancti,
+Deus, per omnia saecula saeculorum.
+'''
+offertory_la = '''
+Clementissime Deus, qui, vetere homine consumpto,
+novum secundum te in beato N. creare dignatus es,
+concede propitius, ut nos pariter renovati
+hanc placationis hostiam tibi acceptabilem offeramus.
+Per Christum Dominum nostrum.
+'''
+communion_la = '''
+Amen dico vobis quod vos qui reliquistis omnia,
+et secuti estis me, centuplum accipietis,
+et vitam aeternam possidebitis.
+'''
+postcommunion_la = '''
+Quaesumus, omnipotens Deus,
+ut, qui huius sacramenti munimur virtute,
+exemplo beati N.
+discamus te super omnia semper inquirere,
+et novi hominis formam in hoc saeculo portare.
+Per Christum Dominum nostrum.
 '''

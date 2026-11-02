@@ -1,0 +1,154 @@
+# Recipe: src/masses/2026-11-03.md
+date = "2026-11-03"
+title = "Porres Szent Márton szerzetes"
+day = "31. évközi hét keddje · választható emléknap"
+rank = "fehér színben"
+gloria = false
+creed = false
+eucharistic_prayer = 3
+prefaces = ["szentek-1", "szentek-2"]
+mass_type = "Szerzetesek közös miséje (Szentek általános miséi 7) · saját könyörgéssel"
+names = [["Szent N.-nek", "Porres Szent Mártonnak"], ["Szent N.", "Porres Szent Márton"]]
+la_names = [["beatus N.", "beatus Martinus"], ["beato N.", "beato Martino"], ["beati N.", "beati Martini"]]
+
+# Common: Szentek általános miséi, 7. Szerzetesek miséje (the 1991 missal, November 3: "Szerzetesek
+# miséje"; Missale Romanum: "De Communi sanctorum (pro religiosis)") - the first formula.
+entrance = "@szentek-altalanos/7"
+offertory = "@szentek-altalanos/7"
+communion = "@szentek-altalanos/7"
+postcommunion = "@szentek-altalanos/7"
+
+# Collect: the saint's own (Roman Missal, 3 November) first, the common's second.
+[[collect]]
+label = "Saját"
+source = "Római Misekönyv 1991 (PPEK 335), november 3., 624. o.; latin: Missale Romanum cum lectionibus 1977, IV, 761. o."
+text = '''
+Istenünk, te Porres Szent Mártont
+az alázatosság útján vezetted az égi dicsőségre.
+Segíts példamutató életét úgy követnünk,
+hogy vele együtt eljussunk mennyei országodba.
+A mi Urunk, Jézus Krisztus, a te Fiad által,
+aki veled él és uralkodik a Szentlélekkel egységben,
+Isten mindörökkön örökké.
+'''
+la = '''
+Deus, qui beatum Martinum per humilitatis iter
+ad caelestem gloriam perduxisti,
+tribue nobis eius ita nunc persequi exempla praeclara,
+ut exaltari cum ipso mereamur in caelis.
+Per Dominum nostrum Iesum Christum, Filium tuum,
+qui tecum vivit et regnat in unitate Spiritus Sancti,
+Deus, per omnia saecula saeculorum.
+'''
+
+[[collect]]
+label = "Közös"
+ref = "@szentek-altalanos/7"
+
+[reading1]
+label = "Szentlecke"
+sub = "Szent Pál apostolnak a filippiekhez írt leveléből"
+summary = "Krisztus engedelmességből vállalta értünk a kereszthalált; Isten ezért felmagasztalta."
+cite = "Fil 2,5-11"
+la_sub = "Lectio Epistolae beati Pauli apostoli ad Philippenses"
+text = '''
+Testvéreim!
+
+Ugyanazt a lelkületet ápoljátok magatokban, amely Krisztus Jézusban volt. Ő, mint Isten, az Istennel való egyenlőséget nem tartotta olyan dolognak, amelyhez feltétlenül ragaszkodnia kell, hanem szolgai alakot öltött, kiüresítette önmagát, és hasonló lett az emberekhez. Megalázta magát, és engedelmes lett a halálig, mégpedig a kereszthalálig.
+
+Ezért Isten felmagasztalta őt, és olyan nevet adott neki, amely felette áll minden névnek, hogy Jézus nevére hajoljon meg minden térd a mennyben, a földön és az alvilágban, s minden nyelv hirdesse az Atyaisten dicsőségére, hogy Jézus Krisztus az Úr.
+'''
+la = '''
+Fratres:
+
+Hoc sentite in vobis, quod et in Christo Iesu: qui, cum in forma Dei esset, non rapinam arbitratus est esse se aequalem Deo, sed semetipsum exinanivit formam servi accipiens, in similitudinem hominum factus et habitu inventus ut homo, humiliavit semetipsum factus oboediens usque ad mortem, mortem autem crucis.
+
+Propter quod et Deus illum exaltavit et donavit illi Nomen quod est super omne nomen, ut in Nomine Iesu omne genu flectatur caelestium et terrestrium et infernorum et omnis lingua confiteatur: «Dominus Iesus Christus!», in gloriam Dei Patris.
+'''
+
+[psalm]
+cite = "Zsolt 21,26b-27.28-30a.31-32"
+response = "Dicsérlek téged, Istenem, szent néped körében."
+la_response = "Apud te, Domine, laus mea in ecclesia magna."
+verses = [
+'''
+Az istenfélők előtt
+teljesítem fogadalmamat.
+Egyenek a szegények és lakjanak jól,
+áldják az Urat mind, akik keresik:
+„Szívük élni fog mindörökké”.
+''',
+'''
+A föld határai megemlékeznek erről és az Úrhoz térnek,
+leborul előtte a nemzetek minden családja.
+Egyedül őt imádják mind, akik a földben alszanak,
+hódoljanak előtte mind, akik a porba visszatérnek.
+''',
+'''
+Neki él az én lelkem,
+és neki fog szolgálni nemzetségem.
+Beszéljenek az Úrról a jövendő nemzedéknek,
+igazságát hirdessék a születendő népnek:
+„Mindezt az Úr cselekedte!”
+''']
+la_verses = [
+'''
+Vota mea reddam in conspectu timentium eum.
+Edent pauperes, et saturabuntur,
+et laudabunt Dominum qui requirunt eum:
+«Vivant corda eorum in saeculum saeculi».
+''',
+'''
+Reminiscentur et convertentur ad Dominum
+universi fines terrae,
+et adorabunt in conspectu eius
+universae familiae gentium,
+Quoniam Domini est regnum,
+et ipse dominabitur gentium.
+Ipsum solum adorabunt omnes qui dormiunt in terra.
+''',
+'''
+Et semen meum serviet ipsi.
+Narrabitur de Domino generationi venturae,
+et annuntiabunt iustitiam eius
+populo qui nascetur: «Haec fecit Dominus».
+''']
+
+[alleluia]
+cite = "Mt 11,28"
+text = "Jöjjetek hozzám mindnyájan, akik fáradtak vagytok, és terhek alatt görnyedtek: Én felüdítlek titeket – mondja a mi Urunk."
+la = "Venite ad me, omnes qui laboratis et onerati estis, et ego reficiam vos, dicit Dominus."
+
+[gospel]
+book = "Szent Lukács"
+la_book = "Lucam"
+summary = "Isten országában mindenki asztalhoz ülhet, aki a meghívást készséggel elfogadja."
+cite = "Lk 14,15-24"
+text = '''
+Jézus egyszer egy előkelő farizeus házában ebédelt. A vendégek közül megszólalt valaki: „Boldog, aki asztalhoz ülhet Isten országában!”
+
+Jézus a következő példabeszéddel válaszolt: „Egy ember nagy lakomát rendezett. Sokakat meghívott. Amikor eljött a lakoma ideje, elküldte szolgáját, és ezt üzente a meghívottaknak: »Jöjjetek! Minden készen van!« De azok sorra mentegetőzni kezdtek. Az első azt üzente: »Földet vettem. El kell mennem, hogy megnézzem. Kérlek, ments ki engem!« A másik azt mondta: »Öt iga ökröt vettem, ki kell próbálnom. Kérlek, ments ki engem!« Egy további így szólt: »Most nősültem, nem mehetek.«
+
+A szolga hazatért, jelentette mindezt urának. A házigazda haragra lobbant. Meghagyta szolgájának: »Menj ki azonnal a város tereire és utcáira, és vezesd be ide a szegényeket, bénákat, vakokat, sántákat!« A szolga jelentette: »Uram, parancsodat teljesítettem, de még mindig van hely.« Az úr akkor megparancsolta a szolgának: »Menj ki az országutakra és a sövények mentére, és kényszeríts be mindenkit, hogy megteljék a házam! Mondom nektek: Senki sem ízleli meg lakomámat azok közül, akik hivatalosak voltak.«”
+'''
+la = '''
+In illo tempore: Dixit ad Iesum quidam de simul discumbentibus: «Beatus, qui manducabit panem in Regno Dei».
+
+At ipse dixit ei: «Homo quidam fecit cenam magnam, et vocavit multos, et misit servum suum hora cenae dicere invitatis: “Venite, quia iam paratum est”. Et coeperunt simul omnes excusare. Primus dixit ei: “Villam emi et necesse habeo exire et videre illam: rogo te, habe me excusatum”. Et alter dixit: “Iuga boum emi quinque et eo probare illa: rogo te, habe me excusatum”. Et alius dixit: “Uxorem duxi et ideo non possum venire”.
+
+Et reversus servus nuntiavit haec domino suo. Tunc iratus pater familias dixit servo suo: “Exi cito in plateas et vicos civitatis, et pauperes ac debiles et caecos et claudos introduc huc”. Et ait servus: “Domine, factum est ut imperasti, et adhuc locus est”. Et ait dominus servo: “Exi in vias et sepes et compelle intrare ut impleatur domus mea: dico autem vobis quod nemo virorum illorum, qui vocati sunt, gustabit cenam meam”».
+'''
+
+# igenaptár 2026-11-03 (the weekday's set).
+[faithful]
+intro = "Kérjük, testvéreim, a végtelenül irgalmas Istent önmagunkért és minden emberért, hogy bocsássa meg bűneinket, és adja meg nekünk az örök boldogságot!"
+response = "Kérünk téged, hallgass meg minket!"
+petitions = [
+  "Az egész világon elterjedt és az itt egybegyűlt Egyházért könyörögjünk az Úrhoz!",
+  "Szentatyánkért, Leó pápáért, püspökeinkért, papjainkért és a szent szolgálatban segítő társaikért könyörögjünk az Úrhoz!",
+  "Az egyházak egységéért, a pogányok megtéréséért, a nemzetek közötti egyetértésért könyörögjünk az Úrhoz!",
+  "Beteg, éhező és bajbajutott embertársainkért könyörögjünk az Úrhoz!",
+  "Saját magunk és távol lévő testvéreink üdvösségéért könyörögjünk az Úrhoz!",
+  { note = "Ha a szentmisét elhunytért mutatják be:", text = "A földi életből eltávozott N. testvérünk (nővérünk) örök boldogságáért könyörögjünk az Úrhoz!" },
+]
+conclusion = "Urunk, hallgasd meg népedet! Érdemtelen létünkre könyörgünk hozzád, hiszen kegyelmeddel mindig elénk sietsz, hogy jóságosan teljesítsd kérésünket. Krisztus, a mi Urunk által."
