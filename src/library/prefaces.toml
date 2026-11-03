@@ -436,3 +436,23 @@ Ad quam peregríni, per fidem accedéntes, alácriter festinámus, congaudéntes
 
 Et ídeo, cum ipsórum Angelorúmque frequéntia, una te magnificámus, laudis voce clamántes:
 '''
+
+[szuzek-szerzetesek]
+label = "Prefáció a szüzekről és a szerzetesekről"
+sub = "Az Istennek szentelt élet jele"
+la_label = "Praefatio de sanctis virginibus et religiosis"
+source = "Római Misekönyv 1991 (PPEK 335), 68. prefáció, 399. o. – az új misekönyvvel még nem egyeztetve. Latin: Missale Romanum cum lectionibus 1977, vol. IV, Ordo Missae, praefatio 68 („De signo vitae Deo consecratae”); hangsúlyjelek a Missale Romanum szokása szerint"
+text = '''
+Valóban méltó és igazságos, illő és üdvös, hogy mindig és mindenütt hálát adjunk néked, mi Urunk, szentséges Atyánk, mindenható, örök Isten:
+
+Mert magasztalnunk kell gondviselésed csodálatos titkát: hogy választottaidban, akik országodért magukat Krisztusnak szentelték, a gyarló embert az ősi ártatlanság állapotára hívod, így már most megtapasztalja azokat a javakat, amelyeket a jövendő életben teljesen birtokol.
+
+Most ezért a szentekkel és minden angyallal együtt dicsőítünk téged, és vég nélkül mondjuk:
+'''
+la = '''
+Vere dignum et iustum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine, sancte Pater, omnípotens ætérne Deus:
+
+In Sanctis enim, qui Christo se dedicavérunt propter regnum cælórum, tuam decet providéntiam celebráre mirábilem, qua humánam substántiam et ad primæ oríginis révocas sanctitátem, et ad experiénda dona, quæ in novo sǽculo sunt habénda, perdúcis.
+
+Et ídeo, cum Sanctis et Angelis univérsis, te collaudámus, sine fine dicéntes:
+'''
