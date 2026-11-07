@@ -1,0 +1,226 @@
+# Recipe: src/masses/2026-11-08.md
+date = "2026-11-08"
+title = "Évközi 32. vasárnap"
+day = "Évközi 32. vasárnap · A év"
+rank = "zöld színben"
+gloria = true
+creed = true
+eucharistic_prayer = 3
+prefaces = ["vasarnap-8", "vasarnap-1", "vasarnap-2", "vasarnap-3", "vasarnap-4", "vasarnap-5", "vasarnap-6", "vasarnap-7"]
+mass_type = "A vasárnap saját miséje"
+
+# Propers: igenaptár 2026-11-08 (wins over the 1991 missal where they differ; see the recipe).
+# Latin: Missale Romanum cum lectionibus 1977, vol. IV, Dominica XXXII per annum, pp. 438-448.
+
+[entrance]
+cite = "Vö. Zsolt 87,3"
+source = "igenaptár 2026-11-08 (1991: Római Misekönyv, PPEK 335, Évközi 32. vasárnap, 341. o.: „hajlítsd füledet”)"
+text = '''
+Imádságom jusson színed elé, Uram,
+hajtsd füledet kérésemre!
+'''
+la = '''
+Intret oratio mea in conspectu tuo;
+inclina aurem tuam ad precem meam, Domine.
+'''
+
+[collect]
+source = "igenaptár 2026-11-08 = Római Misekönyv 1991 (PPEK 335), Évközi 32. vasárnap, 341. o."
+text = '''
+Mindenható, irgalmas Isten,
+kegyelmeddel tarts távol tőlünk minden rosszat.
+Add, hogy minden testi-lelki erőnkkel szolgálatodra álljunk,
+és készségesen teljesítsük szent akaratodat.
+A mi Urunk, Jézus Krisztus, a te Fiad által,
+aki veled él és uralkodik a Szentlélekkel egységben,
+Isten mindörökkön örökké.
+'''
+la = '''
+Omnipotens et misericors Deus,
+universa nobis adversantia propitiatus exclude,
+ut, mente et corpore pariter expediti,
+quae tua sunt liberis mentibus exsequamur.
+Per Dominum nostrum Iesum Christum, Filium tuum,
+qui tecum vivit et regnat in unitate Spiritus Sancti,
+Deus, per omnia saecula saeculorum.
+'''
+
+[offertory]
+source = "igenaptár 2026-11-08 (eltér az 1991-es Római Misekönyvtől, PPEK 335, 341. o.)"
+text = '''
+Kérünk, Urunk, Istenünk,
+tekints megengesztelődve erre az áldozatra,
+hogy amit Fiad szenvedésére emlékezve ünneplünk,
+azt szívünk odaadásával elérjük.
+Krisztus, a mi Urunk által.
+'''
+la = '''
+Sacrificiis praesentibus, Domine,
+quaesumus, intende placatus,
+ut, quod passionis Filii tui mysterio gerimus,
+pio consequamur affectu.
+Per Christum Dominum nostrum.
+'''
+
+[communion]
+cite = "Vö. Zsolt 22,1-2"
+source = "igenaptár 2026-11-08, az első antifóna (1991: Római Misekönyv, PPEK 335, 341. o.: „és csöndes vizekhez vezet”)"
+text = '''
+Az Úr az én pásztorom, nincs is semmiben hiányom:
+zöldellő mezőkön terelget engem,
+csöndes folyóvizek mellett nevelt föl engem!
+'''
+la = '''
+Dominus regit me, et nihil mihi deerit;
+in loco pascuae ibi me collocavit,
+super aquam refectionis educavit me.
+'''
+
+[postcommunion]
+source = "igenaptár 2026-11-08 (1991: Római Misekönyv, PPEK 335, 341. o.: „Hálát adunk, Istenünk, / hogy szentségi ajándékoddal”)"
+text = '''
+Hálát adunk, Urunk, Istenünk,
+hogy szent ajándékoddal tápláltál minket.
+Kérjük, hogy Szentlelked kiáradása által
+maradjon meg az igazlelkűség kegyelme mindazokban,
+akikben mennyei erőd működni kezdett.
+Krisztus, a mi Urunk által.
+'''
+la = '''
+Gratias tibi, Domine,
+referimus sacro munere vegetati,
+tuam clementiam implorantes,
+ut, per infusionem Spiritus tui,
+in quibus caelestis virtus introivit,
+sinceritatis gratia perseveret.
+Per Christum Dominum nostrum.
+'''
+
+# Readings: Sunday, year A, from src/cycle/evkozi-32-vas-A.json, checked against igenaptár 2026-11-08
+# (second reading: the longer form). Latin: 1977 vol. IV, pp. 438-441 (Vulgate numbering: Sap 6,13-17;
+# 1 Thess 4,13-17).
+[reading1]
+label = "Olvasmány"
+sub = "a Bölcsesség könyvéből"
+summary = "A bölcsességre rátalálnak, akik keresik."
+cite = "Bölcs 6,12-16"
+la_sub = "Lectio libri Sapientiae"
+text = '''
+A bölcsesség ragyogó és hervadhatatlan, könnyen felismerik, akik szeretik, és rátalálnak, akik keresik. Már előre megmutatkozik azoknak, akik vágyódnak rá. Aki korán reggel keresni kezdi, nem kell fáradnia, mert ajtajánál ülve találja. Róla elmélkedni tökéletes okosság, aki érte virraszt, hamar megszabadul a gondtól. Hisz maga megy, s megkeresi azokat, akik méltók rá, barátságosan megjelenik nekik az utakon, és minden szándékukban találkozik velük.
+'''
+la = '''
+Clara est, et quae numquam marcescit, sapientia; et facile videtur ab his qui diligunt eam, et invenitur ab his qui quaerunt illam; praeoccupat qui se concupiscunt, ut illis se prior ostendat. Qui de luce vigilaverit ad illam non laborabit; assidentem enim illam foribus suis inveniet. Cogitare ergo de illa sensus est consummatus, et qui vigilaverit propter illam cito securus erit. Quoniam dignos se ipsa circuit quaerens, et in viis ostendit se illis hilariter, et in omni providentia occurrit illis.
+'''
+
+[psalm]
+cite = "Zsolt 62,2.3-4.5-6.7-8"
+response = "Hozzád vágyódik szívem, én Uram, Istenem."
+la_response = "Sitivit in te anima mea, Domine, Deus meus."
+verses = [
+'''
+Uram, Istenem, virrasztva kereslek,
+az én Istenem te vagy nékem.
+Téged szomjaz a lelkem, testem utánad eped,
+mint a puszta tikkadt, kiaszott földje.
+''',
+'''
+Szentélyedben neked szolgáltam,
+hogy erődet és dicsőségedet megláthassam.
+Mert irgalmad többet ér, mint az élet,
+ezért ajkam dicsőít téged.
+''',
+'''
+Neked mondok áldást, amíg csak élek,
+a te nevedben tárom imára kezemet.
+Mint dús lakomával, teljék be lelkem,
+ajkam ujjong, szám dicsőít téged.
+''',
+'''
+Még fekvőhelyemen is rád gondolok,
+hajnalig rólad elmélkedem.
+Valóban te lettél védelmezőm,
+szárnyaid oltalmában örvendezem.
+''']
+la_verses = [
+'''
+Deus, Deus meus es tu, ad te de luce vigilo.
+Sitivit in te anima mea,
+te desideravit caro mea.
+''',
+'''
+In terra deserta et arida et inaquosa,
+sic in sancto apparui tibi,
+ut viderem virtutem tuam et gloriam tuam.
+Quoniam melior est misericordia tua super vitas,
+labia mea laudabunt te.
+''',
+'''
+Sic benedicam te in vita mea,
+et in nomine tuo levabo manus meas.
+Sicut adipe et pinguedine repleatur anima mea,
+et labiis exsultationis laudabit os meum.
+''',
+'''
+Cum memor ero tui super stratum meum,
+in matutinis meditabor de te,
+quia fuisti adiutor meus,
+et in velamento alarum tuarum exsultabo.
+''']
+
+[reading2]
+label = "Szentlecke"
+sub = "Szent Pál apostolnak a tesszaloniki hívekhez írt első leveléből"
+summary = "Isten feltámasztja azokat, akik Jézusban hunytak el."
+cite = "1Tessz 4,13-18"
+la_sub = "Lectio Epistolae primae beati Pauli apostoli ad Thessalonicenses"
+text = '''
+Testvéreim!
+
+Az elhunytak sorsáról nem akarunk tájékozatlanságban hagyni benneteket, hogy ne szomorkodjatok, mint a többiek, akiknek nincs reményük. Ha Jézus, mint ahogy hisszük, meghalt és feltámadt, akkor Isten vele együtt feltámasztja azokat is, akik Jézusban hunytak el.
+
+Az Úr tanítása alapján ugyanis ezt mondjuk nektek: Mi élők, akik az Úr eljöveteléig megmaradunk, nem előzzük meg az elhunytakat. A parancsszóra, a főangyal kiáltására, Isten harsonájának szavára az Úr maga száll le a mennyből. Először a Krisztusban elhunytak támadnak fel, azután mi élők, akik életben maradunk, velük együtt elragadtatunk a magasba, hogy találkozzunk Krisztussal, és örökké az Úrral legyünk.
+'''
+la = '''
+—
+
+Nolumus vos ignorare, fratres, de dormientibus, ut non contristemini sicut et ceteri qui spem non habent. Si enim credimus quod Iesus mortuus est et resurrexit, ita et Deus eos qui dormierunt per Iesum adducet cum eo.
+
+Hoc enim vobis dicimus in verbo Domini, quia nos qui vivimus, qui relinquimur in adventum Domini non praeveniemus eos qui dormierunt; quoniam ipse Dominus in iussu, in voce archangeli et in tuba Dei, descendet de caelo, et mortui qui in Christo sunt resurgent primi, deinde nos qui vivimus, qui relinquimur simul rapiemur cum illis in nubibus obviam Domino in aera: et sic semper cum Domino erimus.
+'''
+
+[alleluia]
+cite = "Mt 24,42a.44"
+text = "Virrasszatok és készen álljatok, mert nem tudjátok, hogy az Emberfia melyik órában érkezik."
+la = "Vigilate et estote parati, quia qua nescitis hora Filius hominis venturus est."
+
+[gospel]
+book = "Szent Máté"
+la_book = "Matthaeum"
+summary = "Íme, jön a Vőlegény! Menjetek eléje!"
+cite = "Mt 25,1-13"
+text = '''
+Abban az időben Jézus a következő példabeszédet mondta tanítványainak:
+
+A mennyek országa olyan, mint az a tíz szűz, akik vették lámpáikat, és kimentek a vőlegény elé. Öten közülük balgák voltak, öten pedig okosak. A balgák fogták a lámpásukat, de olajat nem vittek magukkal; az okosak azonban korsóikban olajat is vittek lámpásaikhoz. Késett a vőlegény, s ők mind elálmosodtak és elaludtak. Az éjszaka közepén egyszerre kiáltás hangzott: „Íme, a vőlegény! Menjetek eléje!” Erre a szüzek mindnyájan fölébredtek, és felszították lámpásaikat. A balgák kérték az okosakat: „Adjatok az olajotokból, mert lámpásaink kialvóban vannak!” Az okosak ezt válaszolták: „Nem lehet, nehogy nekünk is, nektek is kevés legyen. Inkább menjetek el a kereskedőkhöz, és vegyetek magatoknak!” Míg azok vásárolni mentek, megérkezett a vőlegény, és akik készen voltak, bementek vele a menyegzőre; az ajtó pedig bezárult.
+
+Később megérkezett a többi szűz is. Így szóltak: „Uram, uram! Nyiss ajtót nekünk!” De ő így válaszolt: „Bizony mondom nektek, nem ismerlek titeket!” Virrasszatok tehát, mert nem ismeritek sem a napot, sem az órát!
+'''
+la = '''
+In illo tempore: Dixit Iesus discipulis suis parabolam hanc:
+
+«Simile erit Regnum caelorum decem virginibus quae accipientes lampades suas exierunt obviam sponso. Quinque autem ex eis erant fatuae et quinque prudentes. Fatuae enim, acceptis lampadibus suis, non sumpserunt oleum secum; prudentes vero acceperunt oleum in vasis cum lampadibus suis. Moram autem faciente sponso, dormitaverunt omnes et dormierunt. Media autem nocte clamor factus est: “Ecce sponsus, exite obviam ei”. Tunc surrexerunt omnes virgines illae et ornaverunt lampades suas. Fatuae autem sapientibus dixerunt: “Date nobis de oleo vestro, quia lampades nostrae exstinguuntur”. Responderunt prudentes dicentes: “Ne forte non sufficiat nobis et vobis, ite potius ad vendentes et emite vobis”. Dum autem irent emere, venit sponsus, et quae paratae erant intraverunt cum eo ad nuptias, et clausa est ianua.
+
+Novissime autem veniunt et reliquae virgines dicentes: “Domine, Domine, aperi nobis”. At ille respondens ait: “Amen dico vobis, nescio vos”. Vigilate itaque, quia nescitis diem neque horam».
+'''
+
+[faithful]
+intro = "Imádkozzunk, testvéreim, mennyei Atyánkhoz, aki mindnyájunkat meghívott szeretett Fia menyegzőjére!"
+response = "Kérünk téged, hallgass meg minket!"
+petitions = [
+  "Hogy az Egyház pásztorai éberen őrködjenek a rájuk bízottak üdvössége fölött!",
+  "Hogy a gazdag népek és a jólétben élő emberek ráébredjenek a szegények iránti felelősségükre!",
+  "Hogy a földi élet gondjai el ne tereljék figyelmünket a Krisztussal való találkozásról!",
+  "Hogy életünk végén a szentkenet olajával megerősítve eljussunk szent színed látására!",
+  "Hogy megkapják az őszinte bűnbánat kegyelmét mindazok, akiket hirtelen halál ragad el a földi életből!",
+]
+conclusion = "Mennyei Atyánk! Egyszülött Fiad tanításából tudjuk, hogy van örök élet. Segíts, hogy az örök életre hívó szavad virrasztva és felkészülten találjon minket! Krisztus, a mi Urunk által."
