@@ -420,6 +420,31 @@ def ep_html(k):
     return dead_chooser(k) + '\n' + '\n'.join(with_dead(ep, blocks, dead))
 
 
+# ---------- Creed: the Nicene–Constantinopolitan (default) or the Apostles' (dropdown "Hitvallás") ----------
+
+CREEDS = [('nicea', 'Niceai–konstantinápolyi hitvallás', 'Symbolum Nicænum-Constantinopolitanum'),
+          ('apostoli', 'Apostoli hitvallás', 'Symbolum Apostolorum')]
+
+
+def split_head(h):
+    """The library text starts with its heading(s); the rest is the body."""
+    m = re.match(r'\s*((?:<h3[^>]*>.*?</h3>)+)(.*)', h, re.S)
+    return m.group(1), m.group(2)
+
+
+def creed_hu():
+    head, body = split_head(ORDO['creed'])
+    bodies = {'nicea': body, 'apostoli': ORDO['creed_apostles']}
+    return head + chooser('creed', 'Hitvallás', [(k, lab, bodies[k]) for k, lab, _ in CREEDS], 'nicea')
+
+
+def creed_la():
+    head, body = split_head(ORDO_LA['creed'])
+    bodies = {'nicea': body, 'apostoli': ORDO_LA['creed_apostles']}
+    return (head + la_chooser('creed', 'Symbolum · Hitvallás', [(k, la) for k, _, la in CREEDS], 'nicea') +
+            variants('creed', [(k, bodies[k]) for k, _, _ in CREEDS], 'nicea'))
+
+
 def mark_first(h, hu, la):
     """Jump mark on the first paragraph of a fixed part that has no heading of its own."""
     return re.sub(r'<p(?=[ >])', f'<p data-toc="{hu}" data-toc-la="{la}"', h, count=1)
@@ -582,7 +607,7 @@ def render(m):
         h.append('<div class="day-readings">' + placeholder_readings() + '</div>')
     h.append('<h3>Homília</h3>')
     if m.get('creed'):
-        h.append(ORDO['creed'])
+        h.append(creed_hu())
     h.append(faithful(m['faithful']) if 'faithful' in m else
              '<h3>Egyetemes könyörgések</h3>' + p('(A napi egyetemes könyörgések.)', 'rub'))
     h.append('</section>')
@@ -621,7 +646,7 @@ def render(m):
     else:
         g.append('<div class="day-readings-la">' + bi_placeholder_readings() + '</div>')
     if m.get('creed'):
-        g.append(ORDO_LA['creed'])
+        g.append(creed_la())
     g.append(bi_faithful(m['faithful']) if 'faithful' in m else
              bi_h3('Oratio universalis', 'Egyetemes könyörgések') + noted(bi('', '(A napi egyetemes könyörgések.)', 'rub'), LA_NONE))
     g.append(bi_h2('Liturgia eucharistica · Az Eucharisztia liturgiája'))

@@ -88,6 +88,17 @@ async function open(day, path = '', { blockCalendar = false, blockOrdinary = fal
   check(after.includes('Emlékezzél meg N. szolgádról') && !after.includes('Elhunyt testvéreinket pedig') && laSync === 'dead' && laText.includes('Meménto fámuli tui'),
     'EP III "Elhunytért": the text for the deceased replaces the paragraph, Latin section follows');
   await t.page.selectOption('#sel-dead-3', 'normal');
+  // Creed (days with it): the Nicene by default, the Apostles' to choose; the Latin section follows.
+  if (await t.page.$('#sel-creed')) {
+    const creedText = sel => t.page.$$eval(sel + ' .variants[data-group="creed"] > .variant:not([hidden]) p', ps => ps.map(p => p.textContent).join(' '));
+    const nic = await creedText('#r2');
+    await t.page.selectOption('#sel-creed', 'apostoli');
+    const apo = await creedText('#r2'), apoLa = await creedText('#latin');
+    check(nic.includes('Hiszek az egy Istenben') && apo.includes('Hiszek egy Istenben') && !apo.includes('egylényegű') &&
+      apoLa.includes('Credo in Deum Patrem') && await t.page.$eval('#sel-creed-la', s => s.value) === 'apostoli',
+      'Creed: Nicene by default, the Apostles\' Creed selectable, Latin section follows');
+    await t.page.selectOption('#sel-creed', 'nicea');
+  }
   // The date picker offers exactly the days in the calendar.
   await t.page.click('#menu-fab'); await t.page.click('#pick-date');
   const months = new Set(dates.map(d => d.slice(0, 7)));

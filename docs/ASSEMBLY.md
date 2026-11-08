@@ -153,6 +153,9 @@ I by default; readings ferial unless the user asks for the lectionary for the de
 **Votive masses** — propers from the votive Mass's own first formula (e.g. "A"), not from a feast
 the rubric also allows (user, 2026-10-28: Eucharist votive → formula A, not Úrnapja); readings ferial.
 
+**Creed** — where `creed = true`, a dropdown "Hitvallás" offers the Nicene–Constantinopolitan Creed
+(default) and the Apostles' Creed (`creed_apostles` in `ordo.toml` / `ordo-latin.toml`; user, 2026-11-08).
+
 **Eucharistic prayers for a deceased person** — EP II and III carry the missal's text for Masses for
 the dead (`dead_at`, `dead_replace`, `dead_rubric`, `dead_text`, `dead_la` in `eucharistic-prayers.toml`:
 EP II adds a paragraph, EP III replaces "Elhunyt testvéreinket pedig…"). Every Mass gets an

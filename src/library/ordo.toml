@@ -100,3 +100,11 @@ creed = '''
 <p class="resp">Hiszek a Szentlélekben, Urunkban és éltetőnkben, aki az Atyától és a Fiútól származik; akit éppúgy imádunk és dicsőítünk, mint az Atyát és a Fiút. Ő szólt a próféták szavával.</p>
 <p class="resp">Hiszek az egy, szent, katolikus és apostoli Anyaszentegyházban, vallom az egy keresztséget a bűnök bocsánatára, várom a holtak feltámadását és az eljövendő örök életet. Ámen.</p>
 '''
+
+# Apostles' Creed ("Vagy:" after the Creed; 1991 missal, Ordo Missae 15., pp. 356-357), offered as an
+# alternative to the Nicene Creed (dropdown "Hitvallás"; default: the Nicene).
+creed_apostles = '''
+<p class="resp">Hiszek egy Istenben, mindenható Atyában, mennynek és földnek Teremtőjében.</p>
+<p class="resp">És Jézus Krisztusban, az ő egyszülött Fiában, a mi Urunkban; aki fogantatott Szentlélektől, született Szűz Máriától; szenvedett Poncius Pilátus alatt; megfeszítették, meghalt és eltemették. Alászállt a poklokra, harmadnapon feltámadt a halottak közül; fölment a mennybe, ott ül a mindenható Atyaisten jobbján; onnan jön el ítélni élőket és holtakat.</p>
+<p class="resp">Hiszek Szentlélekben. Hiszem a katolikus Anyaszentegyházat; a szentek közösségét, a bűnök bocsánatát; a test feltámadását és az örök életet. Ámen.</p>
+'''
