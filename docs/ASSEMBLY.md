@@ -125,10 +125,11 @@ feltöltve." beside the first line of the text.
   everything else from the common.
 - **From a common, always take the first formula** (e.g. "Szentek általános miséi" 1). Do not offer
   several formulas.
-- **Antiphons (entrance, alleluia, communion): no alternatives** — take the first one given,
-  unless the user says otherwise.
-- Prayers with alternatives in the book ("Vagy:"): **only the first one** (user, 2026-10-25),
-  unless the user asks for the alternatives (then buttons, first selected).
+- **Alternatives (user, 2026-11-08): include ALL** the options the missal / igenaptár gives for a prayer
+  or antiphon ("Vagy:", two communion antiphons …), as a list (`[[slot]]`), the first as printed first
+  (= the default). Without `label` the app shows "1. változat", "2. változat". (Earlier days took only
+  the first.) A common's `<slot>_b` is NOT added by itself (it may be for bishops, abbots …): list it
+  explicitly (`"@common/N:collect_b"`) when it is a real alternative.
 - **Collect with an official proper: two options** — "Saját" (first) and "Közös" (the common's),
   for celebration missals without the proper. Look for it in the CDW decrees on vatican.va (Latin)
   and in Vatican News Hungarian. If the proper is not official or its wording is uncertain
@@ -152,6 +153,13 @@ I by default; readings ferial unless the user asks for the lectionary for the de
 
 **Votive masses** — propers from the votive Mass's own first formula (e.g. "A"), not from a feast
 the rubric also allows (user, 2026-10-28: Eucharist votive → formula A, not Úrnapja); readings ferial.
+
+**Choices in the app** — every set of alternatives (greeting, prayers, antiphons, readings, preface,
+Eucharistic prayer, Creed, the text for a deceased person) is a dropdown, the first option selected,
+with the same dropdown in the Latin section; both stay in step. Swiping such a text sideways goes to
+the next / previous option (animated; the other language follows). The greeting offers the three
+forms, "Az Úr legyen veletek / Dóminus vobíscum" first (user, 2026-11-08). The "Elhunytért" dropdown
+stands just before the text that changes.
 
 **Creed** — where `creed = true`, a dropdown "Hitvallás" offers the Nicene–Constantinopolitan Creed
 (default) and the Apostles' Creed (`creed_apostles` in `ordo.toml` / `ordo-latin.toml`; user, 2026-11-08).

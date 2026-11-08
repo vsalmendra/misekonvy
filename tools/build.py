@@ -147,20 +147,34 @@ def subst(text, pairs, where, key):
 
 
 def opts_of(value, slot, names):
+    """The options of a slot: one value, or a list of alternatives (the first is the default). A common's
+    "<slot>_b" is not added by itself: it may be meant for another kind of saint (bishops, abbots …);
+    a Mass that wants it lists it ("@common/N:<slot>_b")."""
     return [resolve(o, slot, names) for o in (value if isinstance(value, list) else [value])]
 
 
-def options(opts, render, group=None):
-    """Render one slot (Hungarian). Several alternatives get a row of buttons; the first is selected.
-    `group` names the alternatives so that the Latin section (variants of the same group) follows them."""
+# Alternatives of one slot (several prayers or antiphons, two sets of readings …): a dropdown, the first
+# option selected, like the preface and Eucharistic prayer dropdowns. The Latin section has the same
+# dropdown (group "<group>", ids sel-<group> / sel-<group>-la); both and the texts of both languages
+# follow each other. Swiping a text sideways in the app also moves to the next / previous option.
+
+def opt_label(o, i):
+    return o.get('label') or f'{i + 1}. változat'
+
+
+def alt_select(group, opts, la=False, label='Változat'):
+    sid = f'sel-{group}' + ('-la' if la else '')
+    sel = ''.join(f'<option value="{i}"{" selected" if i == 0 else ""}>{esc(opt_label(o, i))}</option>'
+                  for i, o in enumerate(opts))
+    return (f'<div class="choice{" bi-full" if la else ""}"><label for="{sid}">{label}</label>'
+            f'<select id="{sid}" data-sel="{group}">{sel}</select></div>')
+
+
+def options(opts, render, group, label='Változat'):
+    """Render one slot (Hungarian): one option as it is; several with a dropdown, the first selected."""
     if len(opts) == 1:
         return render(opts[0])
-    btns = ''.join(f'<button type="button" class="alt-btn" aria-pressed="{"true" if i == 0 else "false"}" data-i="{i}">'
-                   f'{esc(o.get("label", str(i + 1)))}</button>' for i, o in enumerate(opts))
-    panels = '\n'.join(f'<div class="alt" data-i="{i}"{"" if i == 0 else " hidden"}>\n{render(o)}\n</div>'
-                       for i, o in enumerate(opts))
-    group = f' data-group="{group}"' if group else ''
-    return f'<div class="alts"{group}><div class="alt-btns" role="group" aria-label="Választható szövegek">{btns}</div>\n{panels}\n</div>'
+    return alt_select(group, opts, label=label) + variants(group, [(str(i), render(o)) for i, o in enumerate(opts)], '0')
 
 
 def la_missing(o):
@@ -170,10 +184,10 @@ def la_missing(o):
 
 
 def bi_options(group, opts, render):
-    """Latin section of a slot: one block per alternative, following the buttons of the Hungarian part."""
+    """Latin section of a slot: the same dropdown and one block per alternative."""
     if len(opts) == 1:
         return render(opts[0])
-    return variants(group, [(str(i), render(o)) for i, o in enumerate(opts)], '0')
+    return alt_select(group, opts, la=True) + variants(group, [(str(i), render(o)) for i, o in enumerate(opts)], '0')
 
 
 def antiphon(o):
@@ -401,11 +415,12 @@ def dead_chooser(k, la=False):
             f'<select id="{sid}" data-sel="dead">{opts}</select></div>')
 
 
-def with_dead(ep, blocks, dead):
-    """blocks: one HTML block per paragraph of the prayer; puts the dead variant at its place."""
+def with_dead(ep, blocks, dead, chooser_html):
+    """blocks: one HTML block per paragraph of the prayer; puts the dropdown and the dead variant at the
+    place where the text changes (just before it)."""
     i = ep['dead_at']
     normal = blocks[i] if ep['dead_replace'] else ''
-    blocks[i:i + 1 if ep['dead_replace'] else i] = [variants('dead', [('normal', normal), ('dead', dead)], 'normal')]
+    blocks[i:i + 1 if ep['dead_replace'] else i] = [chooser_html + variants('dead', [('normal', normal), ('dead', dead)], 'normal')]
     return blocks
 
 
@@ -417,7 +432,21 @@ def ep_html(k):
         return h
     blocks = re.findall(r'<p[ >].*?</p>', h, re.S)
     dead = p(esc(ep['dead_rubric']), 'rub') + p(esc(ep['dead_text']))
-    return dead_chooser(k) + '\n' + '\n'.join(with_dead(ep, blocks, dead))
+    return '\n'.join(with_dead(ep, blocks, dead, dead_chooser(k)))
+
+
+# ---------- Greeting: three forms in a dropdown, "Az Úr legyen veletek" first (the default) ----------
+
+def greeting_hu():
+    forms = ORDO['greeting_forms']
+    return ORDO['greeting'] + chooser('greet', 'Köszöntés', [(f['key'], f['label'], f['html']) for f in forms], forms[0]['key'])
+
+
+def greeting_la():
+    forms = ORDO_LA['greeting_forms']
+    return (mark_first(ORDO_LA['greeting'], 'Köszöntés', 'Salutatio') +
+            la_chooser('greet', 'Salutatio · Köszöntés', [(f['key'], f['label']) for f in forms], forms[0]['key']) +
+            variants('greet', [(f['key'], f['html']) for f in forms], forms[0]['key']))
 
 
 # ---------- Creed: the Nicene–Constantinopolitan (default) or the Apostles' (dropdown "Hitvallás") ----------
@@ -498,8 +527,7 @@ def bi_ep(k):
     head = bi_h3(esc(ep.get('la_label', '')), esc(ep['label']))
     if 'dead_at' in ep:
         dead = f'<p class="bi-full rub">{esc(ep["dead_rubric"])}</p>' + bi(esc(ep['dead_la']), esc(ep['dead_text']))
-        head += dead_chooser(k, la=True)
-        rows = with_dead(ep, rows, dead)
+        rows = with_dead(ep, rows, dead, dead_chooser(k, la=True))
     return head + noted(''.join(rows), NO_LATIN)
 
 
@@ -593,7 +621,7 @@ def render(m):
     h = []
     h.append('<section id="r1"><h2 class="part">Bevezető szertartás</h2>')
     h.append('<h3>Bevezető ének</h3>' + options(o['entrance'], antiphon, 'alt-entrance'))
-    h += [ORDO['greeting'], ORDO['penitential'], ORDO['kyrie']]
+    h += [greeting_hu(), ORDO['penitential'], ORDO['kyrie']]
     if m.get('gloria'):
         h.append(ORDO['gloria'])
     h.append('<h3>Könyörgés</h3>' + options(o['collect'], prayer(True), 'alt-collect'))
@@ -602,7 +630,7 @@ def render(m):
     h.append('<section id="r2"><h2 class="part">Az Ige liturgiája</h2>')
     sets = m.get('readings') or ([m] if 'reading1' in m else [])
     if sets:
-        h.append(options(sets, word, 'lect'))
+        h.append(options(sets, word, 'lect', 'Olvasmányok'))
     else:
         h.append('<div class="day-readings">' + placeholder_readings() + '</div>')
     h.append('<h3>Homília</h3>')
@@ -634,7 +662,7 @@ def render(m):
     g = ['<p class="bi-l bi-lab">Latine</p><p class="bi-r bi-lab">Magyarul</p>',
          bi_h2('Ritus initiales · Bevezető szertartás'),
          bi_antiphon('Antiphona ad introitum', 'Bevezető ének', o['entrance'], 'alt-entrance'),
-         mark_first(ORDO_LA['greeting'], 'Köszöntés', 'Salutatio'), ORDO_LA['penitential'], ORDO_LA['kyrie']]
+         greeting_la(), ORDO_LA['penitential'], ORDO_LA['kyrie']]
     if m.get('gloria'):
         g.append(ORDO_LA['gloria'])
     g.append(bi_prayer('Collecta', 'Könyörgés', o['collect'], True, 'alt-collect'))
@@ -642,7 +670,8 @@ def render(m):
     if len(sets) == 1:
         g.append(bi_word(sets[0]))
     elif sets:   # follows the readings buttons of the Hungarian part
-        g.append(variants('lect', [(str(i), bi_word(r)) for i, r in enumerate(sets)], '0'))
+        g.append(alt_select('lect', sets, la=True, label='Lectiones · Olvasmányok') +
+                 variants('lect', [(str(i), bi_word(r)) for i, r in enumerate(sets)], '0'))
     else:
         g.append('<div class="day-readings-la">' + bi_placeholder_readings() + '</div>')
     if m.get('creed'):

@@ -1,0 +1,101 @@
+# Templomszentelési misék (Commune dedicationis ecclesiae). Only "Templomszentelés évfordulóján,
+# B) A felszentelt templomon kívül" (In anniversario dedicationis, B. Extra ipsam ecclesiam dedicatam)
+# so far — the Mass the Hungarian missal names for 9 November (Lateráni-bazilika: "711.").
+# Hungarian: Római Misekönyv 1991 (PPEK 335, Misekonyv_1.pdf), pp. 649-651 (PPEK page numbers; the
+# book's own page 711). Not yet checked against the new (2021/2023) Hungarian missal; "mindörökkön
+# örökké" written without hyphen; continuation lines of the printed book joined.
+# Latin (<key>_la): Missale Romanum cum lectionibus 1977, vol. IV, Commune dedicationis ecclesiae,
+# B, pp. 787-788 (archive.org, OCR corrected by hand; no accents; "Per Dominum." / "Per Christum."
+# expanded).
+# collect_b = the "Vagy:" of the book. Preface: "Az Egyháznak, Krisztus jegyesének és a Szentlélek
+# templomának misztériuma" -> prefaces.toml templomszenteles-2.
+# (Formula A, "A felszentelt templomban", pp. 648-649 / Latin pp. 785-786, not stored yet.)
+
+[evfordulo-b]
+entrance_cite = "Jel 21,2"
+entrance = '''
+Láttam, hogy a szent város, az új Jeruzsálem
+alászállt az égből, az Istentől.
+Olyan volt, mint a vőlegényének fölékesített menyasszony.
+'''
+entrance_la = '''
+Vidi civitatem sanctam, Ierusalem novam,
+descendentem de caelo a Deo,
+paratam sicut sponsam ornatam viro suo.
+'''
+collect = '''
+Istenünk, te élő kövekből, választottaidból
+emelsz örök hajlékot fölséges nevednek.
+Add, hogy Egyházadat bőkezűen töltse el az ajándékozó Szentlélek,
+és hívő népedből egyre inkább felépüljön a mennyei Jeruzsálem.
+A mi Urunk, Jézus Krisztus, a te Fiad által,
+aki veled él és uralkodik a Szentlélekkel egységben,
+Isten mindörökkön örökké.
+'''
+collect_la = '''
+Deus, qui de vivis et electis lapidibus
+aeternum habitaculum tuae praeparas maiestati,
+multiplica in Ecclesia tua spiritum gratiae quem dedisti,
+ut fidelis tibi populus
+in caelestis aedificationem Ierusalem semper accrescat.
+Per Dominum nostrum Iesum Christum, Filium tuum,
+qui tecum vivit et regnat in unitate Spiritus Sancti,
+Deus, per omnia saecula saeculorum.
+'''
+collect_b = '''
+Istenünk, te Egyháznak nevezted népedet.
+Add, hogy az a közösség, amely nevedben egybegyűlt,
+csak téged szolgáljon, szeressen és kövessen;
+és vezetéseddel jusson el a megígért mennyei hazába.
+A mi Urunk, Jézus Krisztus, a te Fiad által,
+aki veled él és uralkodik a Szentlélekkel egységben,
+Isten mindörökkön örökké.
+'''
+collect_b_la = '''
+Deus, qui populum tuum Ecclesiam vocare dignatus es,
+da, ut plebs in nomine tuo congregata
+te timeat, te diligat, te sequatur,
+et ad caelestia promissa, te ducente, perveniat.
+Per Dominum nostrum Iesum Christum, Filium tuum,
+qui tecum vivit et regnat in unitate Spiritus Sancti,
+Deus, per omnia saecula saeculorum.
+'''
+offertory = '''
+Kérünk, Istenünk,
+fogadd szívesen áldozati adományainkat.
+Add meg, hogy mindazok, akik itt hozzád folyamodnak,
+szentségeid kegyelmében részesüljenek,
+és elnyerjék, amire vágyakoznak.
+Krisztus, a mi Urunk által.
+'''
+offertory_la = '''
+Suscipe, quaesumus, Domine, munus oblatum,
+et poscentibus concede, ut hic sacramentorum virtus
+et votorum obtineatur effectus.
+Per Christum Dominum nostrum.
+'''
+communion_cite = "1Pét 2,5"
+communion = '''
+Mint élő kövek épüljetek Krisztusra,
+hogy lélekből való templom, szent papság legyetek.
+'''
+communion_la = '''
+Tamquam lapides vivi superaedificamini,
+domus spiritalis, sacerdotium sanctum.
+'''
+postcommunion = '''
+Istenünk, te úgy akartad,
+hogy a földi Egyház a mennyei Jeruzsálem előképe legyen.
+Engedd, hogy az áldozatban való részesedésünk
+kegyelmed templomává tegyen minket,
+és egykor majd juttasson el dicsőséges hajlékodba.
+Krisztus, a mi Urunk által.
+'''
+postcommunion_la = '''
+Deus, qui nobis supernam Ierusalem
+per temporale Ecclesiae tuae signum adumbrare voluisti,
+da, quaesumus, ut, huius participatione sacramenti,
+nos tuae gratiae templum efficias,
+et habitationem gloriae tuae ingredi concedas.
+Per Christum Dominum nostrum.
+'''

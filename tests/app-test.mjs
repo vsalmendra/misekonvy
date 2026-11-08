@@ -88,6 +88,32 @@ async function open(day, path = '', { blockCalendar = false, blockOrdinary = fal
   check(after.includes('Emlékezzél meg N. szolgádról') && !after.includes('Elhunyt testvéreinket pedig') && laSync === 'dead' && laText.includes('Meménto fámuli tui'),
     'EP III "Elhunytért": the text for the deceased replaces the paragraph, Latin section follows');
   await t.page.selectOption('#sel-dead-3', 'normal');
+  // The "Elhunytért" dropdown stands just before the text that changes, not at the top of the prayer.
+  const deadPlace = await t.page.$eval('#sel-dead-3', s => s.closest('.choice').nextElementSibling?.matches('.variants[data-group="dead"]'));
+  check(deadPlace, '"Elhunytért" dropdown just before the text that changes');
+  // Greeting: three forms, "Az Úr legyen veletek" by default; the Latin section follows.
+  const greet = await t.page.$$eval('#r1 .variants[data-group="greet"] > .variant:not([hidden]) p', ps => ps.map(p => p.textContent).join(' '));
+  const greetLa = await t.page.$$eval('#latin .variants[data-group="greet"] > .variant:not([hidden]) p', ps => ps.map(p => p.textContent).join(' '));
+  const greetN = await t.page.$$eval('#sel-greet option', o => o.length);
+  check(greet.startsWith('Az Úr legyen veletek.') && greetLa.includes('Dóminus vobíscum.') && greetN === 3, `greeting: "Az Úr legyen veletek" by default, ${greetN} forms`);
+  // Swipe left on the preface text: the next preface, in both languages, with the dropdowns in step.
+  const swipeOn = async (sel, dx) => t.page.evaluate(([sel, dx]) => {
+    const el = document.querySelector(sel), r = el.getBoundingClientRect(), x = r.left + r.width / 2, y = r.top + 5;
+    const touch = (cx) => new Touch({ identifier: 1, target: el, clientX: cx, clientY: y });
+    el.dispatchEvent(new TouchEvent('touchstart', { bubbles: true, touches: [touch(x)], changedTouches: [touch(x)] }));
+    for (let i = 1; i <= 5; i++) el.dispatchEvent(new TouchEvent('touchmove', { bubbles: true, touches: [touch(x + dx * i / 5)], changedTouches: [touch(x + dx * i / 5)] }));
+    el.dispatchEvent(new TouchEvent('touchend', { bubbles: true, touches: [], changedTouches: [touch(x + dx)] }));
+  }, [sel, dx]);
+  const prefSel = () => t.page.$eval('#sel-pref', s => s.selectedIndex);
+  const p0 = await prefSel();
+  await t.page.evaluate(() => window.scrollTo(0, document.querySelector('#r3 .variants[data-group="pref"] > .variant:not([hidden]) p').getBoundingClientRect().top + scrollY - 100));
+  await swipeOn('#r3 .variants[data-group="pref"] > .variant:not([hidden]) p', -150);
+  const p1 = await prefSel(), p1la = await t.page.$eval('#sel-pref-la', s => s.selectedIndex);
+  await swipeOn('#r3 .variants[data-group="pref"] > .variant:not([hidden]) p', 150);
+  const p2 = await prefSel();
+  await swipeOn('#r3 .variants[data-group="pref"] > .variant:not([hidden]) p', 150);
+  const p3 = await prefSel();
+  check(p1 === p0 + 1 && p1la === p1 && p2 === p0 && p3 === p0, `swipe: next preface (${p0}→${p1}, Latin ${p1la}), back (${p2}), no further than the first (${p3})`);
   // Creed (days with it): the Nicene by default, the Apostles' to choose; the Latin section follows.
   if (await t.page.$('#sel-creed')) {
     const creedText = sel => t.page.$$eval(sel + ' .variants[data-group="creed"] > .variant:not([hidden]) p', ps => ps.map(p => p.textContent).join(' '));

@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="theme-color" content="#a3171b">
 <meta name="color-scheme" content="light dark">
-<meta name="build" content="0ef6f9b7c8">
+<meta name="build" content="a5dd375ff2">
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="icon" href="icon-192.png">
 <link rel="apple-touch-icon" href="apple-touch-icon.png">
@@ -171,10 +171,15 @@ body.empty .next-para { display: none; }
 </style>
 <style>
 /* Alternatives inside one slot (e.g. two communion antiphons): a row of buttons, first one selected */
-.alt-btns { display: flex; flex-wrap: wrap; gap: .1rem .9rem; margin: .4rem 0 .1rem; }
-.alt-btn { font: .72em var(--f-cap); letter-spacing: .06em; color: var(--muted); background: none; border: 0; border-bottom: 1px solid transparent; padding: .1rem 0; cursor: pointer; }
-.alt-btn[aria-pressed="true"] { color: var(--rubric); border-bottom-color: var(--rubric); }
-.alt-btn:focus-visible { outline: 2px solid var(--rubric); outline-offset: 2px; }
+/* Swipe between alternatives: the text follows the finger, the new one slides in. Horizontal swipes on
+   such texts belong to the alternatives (in the portrait Latin–magyar section the arrow, or a swipe on
+   other text, changes column). */
+#mass .variant > * { touch-action: pan-y pinch-zoom; }
+@keyframes slide-r { from { transform: translateX(40px); opacity: 0; } to { transform: none; opacity: 1; } }
+@keyframes slide-l { from { transform: translateX(-40px); opacity: 0; } to { transform: none; opacity: 1; } }
+.slide-r { animation: slide-r .24s ease-out; }
+.slide-l { animation: slide-l .24s ease-out; }
+@media (prefers-reduced-motion: reduce) { .slide-r, .slide-l { animation: none; } }
 .notice .jump { margin: .6rem 0 0; }
 .notice { max-width: 36rem; margin: 1rem auto 0; padding: .6rem .8rem; background: var(--chip); border-radius: 10px; font-size: .85em; color: var(--muted); text-align: center; }
 .status { text-align: center; color: var(--muted); margin: 4rem 0; }
@@ -311,17 +316,71 @@ body.empty #top, body.empty #jump-latin, body.empty #notice, body.empty .legend 
     box.querySelectorAll('select[data-sel="ep"]').forEach(function (ep) {
       ep.addEventListener('change', function () { if (pref && ep.value === '4' && pref.value !== 'ep4') { pref.value = 'ep4'; pref.dispatchEvent(new Event('change')); } });
     });
-    // Alternative texts: row of buttons, one panel visible
-    box.querySelectorAll('.alts').forEach(function (alts) {
-      var btns = alts.querySelectorAll('.alt-btn'), panels = alts.querySelectorAll(':scope > .alt');
-      btns.forEach(function (b) { b.addEventListener('click', function () {
-        btns.forEach(function (x) { x.setAttribute('aria-pressed', x === b ? 'true' : 'false'); });
-        panels.forEach(function (p) { p.hidden = p.dataset.i !== b.dataset.i; });
-        // a readings switch (data-group) also switches the matching block of the Latin section
-        if (alts.dataset.group) box.querySelectorAll('.variants[data-group="' + alts.dataset.group + '"] > .variant').forEach(function (v) { v.hidden = v.dataset.opt !== b.dataset.i; });
-      }); });
+  }
+
+  // ---------- Swipe between alternatives ----------
+  // Every text that has alternatives (greeting, prayers, antiphons, readings, preface, Eucharistic
+  // prayer, Creed, the text for a deceased person) belongs to a dropdown group. Swiping that text left
+  // goes to the next option, right to the previous one, like choosing it in the dropdown: the other
+  // dropdown of the group (Hungarian part / Latin section) and the texts of both languages follow.
+  // The text follows the finger a little; the new text slides in. At the first / last option it
+  // springs back. The innermost text with alternatives under the finger decides (e.g. the text for a
+  // deceased person inside a Eucharistic prayer).
+  var swipe = null;
+  function swipeTarget(el) {
+    if (!el || !el.closest || el.closest('select, button, a, input, dialog')) return null;
+    var v = el.closest('#mass .variants > .variant');
+    while (v) {
+      var g = v.parentElement.dataset.group, sel = document.querySelector('#mass select[data-sel="' + g + '"]');
+      if (sel && sel.options.length > 1) return { v: v, g: g, sel: sel };
+      v = v.parentElement.closest('.variants > .variant');
+    }
+    return null;
+  }
+  function shown(g) {
+    var out = [];
+    document.querySelectorAll('#mass .variants[data-group="' + g + '"] > .variant:not([hidden])').forEach(function (v) {
+      Array.prototype.forEach.call(v.children, function (c) { out.push(c); });
+    });
+    return out;
+  }
+  function drag(els, dx) { els.forEach(function (e) { e.style.transform = dx ? 'translateX(' + dx + 'px)' : ''; e.style.transition = dx ? 'none' : ''; }); }
+  function slideIn(g, from) {
+    shown(g).forEach(function (e) {
+      e.classList.remove('slide-l', 'slide-r'); void e.offsetWidth;
+      e.classList.add(from === 'right' ? 'slide-r' : 'slide-l');
+      e.addEventListener('animationend', function done() { e.classList.remove('slide-l', 'slide-r'); e.removeEventListener('animationend', done); });
     });
   }
+  document.addEventListener('touchstart', function (e) {
+    swipe = null;
+    if (e.touches.length !== 1) return;
+    var t = swipeTarget(e.target);
+    if (!t) return;
+    swipe = { t: t, x: e.touches[0].clientX, y: e.touches[0].clientY, dx: 0, on: false, els: shown(t.g) };
+  }, { passive: true });
+  document.addEventListener('touchmove', function (e) {
+    if (!swipe) return;
+    var dx = e.touches[0].clientX - swipe.x, dy = e.touches[0].clientY - swipe.y;
+    if (!swipe.on) {
+      if (Math.abs(dy) > 12 && Math.abs(dy) > Math.abs(dx)) { swipe = null; return; }   // scrolling the page
+      if (Math.abs(dx) > 12 && Math.abs(dx) > 1.5 * Math.abs(dy)) swipe.on = true;
+    }
+    if (swipe.on) { swipe.dx = dx; drag(swipe.els, dx * 0.35); }
+  }, { passive: true });
+  function endSwipe() {
+    if (!swipe) return;
+    var s = swipe; swipe = null;
+    drag(s.els, 0);
+    if (!s.on || Math.abs(s.dx) < 60) return;
+    var i = s.t.sel.selectedIndex + (s.dx < 0 ? 1 : -1);
+    if (i < 0 || i >= s.t.sel.options.length) return;               // first / last: springs back
+    s.t.sel.selectedIndex = i;
+    s.t.sel.dispatchEvent(new Event('change'));
+    slideIn(s.t.g, s.dx < 0 ? 'right' : 'left');
+  }
+  document.addEventListener('touchend', endSwipe);
+  document.addEventListener('touchcancel', function () { if (swipe) { drag(swipe.els, 0); swipe = null; } });
 
   function show(date, note) {
     current = date;

@@ -1,0 +1,139 @@
+# Recipe: src/masses/2026-11-09.md
+date = "2026-11-09"
+title = "A lateráni bazilika felszentelése"
+day = "32. évközi hét hétfője · ünnep"
+rank = "fehér színben"
+gloria = true
+creed = false
+eucharistic_prayer = 3
+prefaces = ["templomszenteles-2"]
+mass_type = "Templomszentelés évfordulóján, a felszentelt templomon kívül (Templomszentelési misék, B)"
+
+# Missal: 1991 Hungarian missal, November 9.: "Templomszentelés évfordulójának miséje, 711." = formula B
+# "A felszentelt templomon kívül" (the 1977 Latin allows A or B: "p. 785 vel p. 787"). Propers from
+# src/library/commons/templomszenteles.toml (1991, PPEK pp. 649-651; Latin 1977 vol. IV, pp. 787-788).
+# igenaptár 2026-11-09 gives no antiphons or prayers (readings and prayer of the faithful only).
+entrance = "@templomszenteles/evfordulo-b"
+offertory = "@templomszenteles/evfordulo-b"
+communion = "@templomszenteles/evfordulo-b"
+postcommunion = "@templomszenteles/evfordulo-b"
+
+# Collect: the book's two prayers ("Vagy:"), both offered (user, 2026-11-08), the first selected.
+[[collect]]
+ref = "@templomszenteles/evfordulo-b"
+source = "Római Misekönyv 1991 (PPEK 335), Templomszentelési misék, B, 649-650. o.; latin: Missale Romanum cum lectionibus 1977, IV, 787. o."
+
+[[collect]]
+ref = "@templomszenteles/evfordulo-b:collect_b"
+source = "Római Misekönyv 1991 (PPEK 335), Templomszentelési misék, B, 650. o. („Vagy:”); latin: Missale Romanum cum lectionibus 1977, IV, 787. o. („Vel:”)"
+
+# Readings: of the feast (igenaptár 2026-11-09; src/cycle/fix-11-09.json). On a weekday only ONE reading
+# before the gospel, "bármelyiket választva": the first one offered, Ez 47 (the cycle file has 1Kor 3).
+# Latin: Missale Romanum cum lectionibus 1977, vol. IV, Die 9 novembris, pp. 763-766.
+[reading1]
+label = "Olvasmány"
+sub = "Ezekiel próféta könyvéből"
+summary = "Láttam a templomból fakadt vizet, és akikhez eljutott ez a víz, meggyógyultak."
+cite = "Ez 47,1-2.8-9.12"
+la_sub = "Lectio libri Ezechielis prophetae"
+text = '''
+Száműzetésünk huszonötödik esztendejében az Úr eljött isteni látomásban, és egy angyal odavezetett a jeruzsálemi templom kapuja elé. Láttam, hogy a küszöb alól víz fakadt, a ház keleti oldalán, keletre nézett ugyanis a templom főbejárata. A víz az épülettől jobbra folyt le, az oltártól dél felé. Azután az angyal kivitt az északi kapun, s a külső kapun kívül fekvő útra vezetett, amely keletre visz. És íme, jobbról forrás tört elő!
+
+Kísérőm így szólt: „A keleti vidék felé indul ez a víz, tehát keletre, onnét majd lehömpölyög a sivatag felé; a sivatagtól zúg tovább le a Holt-tengerig. Ez a víz a sós tengervizet is egészségessé teszi. Amerre árad e folyó, minden lény élni fog! Ahová eljut ez a víz, igen sok lesz a hal; amit csak öntöz e folyó, minden virulni fog! A folyó mentén mindkét parton sok gyümölcsfa nő: lombjuk le nem hull, és gyümölcsük nem fogy el. Havonként érik friss gyümölcsük, mert vizük a szentélyből fakad, gyümölcsük étel, lombjuk pedig orvosság lesz.”
+'''
+la = '''
+In diebus illis: Convertit me angelus ad portam domus Domini, et ecce aquae egrediebantur subter limen domus ad orientem; facies enim domus respiciebat ad orientem, aquae autem descendebant in latus templi dextrum ad meridiem altaris. Et eduxit me per viam portae aquilonis, et convertit me ad viam foras portam exteriorem, viam quae respiciebat ad orientem; et ecce aquae redundantes a latere dextro.
+
+Et ait ad me: «Aquae istae, quae egrediuntur ad tumulos sabuli orientalis, et descendunt ad plana deserti, intrabunt mare; et exibunt, et sanabuntur aquae: et omnis anima vivens quae serpit, quocumque venerit torrens, vivet, et erunt pisces multi satis, postquam venerint illuc aquae istae, et sanabuntur et vivent omnia ad quae venerit torrens. Et super torrentem orietur in ripis eius ex utraque parte omne lignum pomiferum; non defluet folium ex eo, et non deficiet fructus eius; per singulos menses afferet primitiva, quia aquae eius de sanctuario egredientur, et erunt fructus eius in cibum, et folia eius ad medicinam».
+'''
+
+[psalm]
+cite = "Zsolt 45,2-3.5-6.8-9"
+response = "Csörgedező patakok vidítják Isten városát, a Magasságbelinek Szentséges lakóhelyét."
+la_response = "Fluminis rivi laetificant civitatem Dei, sancta tabernacula Altissimi."
+verses = [
+'''
+Isten az erőnk és menedékünk,
+biztos segítségünk, mikor minket szorongatnak.
+Ezért nem félünk, ha megrendül a föld alattunk,
+és a hegyek elmerülnek a mély tengerbe.
+''',
+'''
+A folyók ágai vidítják Isten városát,
+a fölséges Isten szent hajlékát.
+Meg nem inog, mert Isten lakja,
+kora hajnaltól oltalmazza.
+''',
+'''
+Velünk van az erős Isten:
+Jákob Istene a menedékünk.
+Jöjjetek és lássátok az Úrnak tetteit,
+melyeket végbevitt az egész földön.
+''']
+la_verses = [
+'''
+Deus est nobis refugium et virtus,
+adiutorium in tribulationibus inventus est nimis.
+Propterea non timebimus, dum turbabitur terra,
+et transferentur montes in cor maris.
+''',
+'''
+Fluminis rivi laetificant civitatem Dei,
+sancta tabernacula Altissimi.
+Deus in medio eius, non commovebitur;
+adiuvabit eam Deus mane diluculo.
+''',
+'''
+Dominus virtutum nobiscum,
+refugium nobis Deus Iacob.
+Venite, et videte opera Domini,
+quae posuit prodigia super terram.
+''']
+
+[alleluia]
+cite = "2Krón 7,16"
+text = "Az Úr mondja: Kiválasztottam és megszenteltem ezt a helyet, hogy benne legyen nevem mindörökre!"
+la = "Elegi et sanctificavi locum istum, dicit Dominus, ut sit nomen meum ibi in sempiternum."
+
+[gospel]
+book = "Szent János"
+la_book = "Ioannem"
+summary = "Jézus saját teste templomáról beszélt."
+cite = "Jn 2,13-22"
+text = '''
+Abban az időben mivel közel volt a zsidók húsvétja, Jézus fölment Jeruzsálembe. A templomban árusokat talált, akik ökröt, juhot és galambot árultak, valamint pénzváltókat, akik ott ültek. Ekkor kötelekből ostort font, és kikergette mindnyájukat a templomból, ugyanígy a juhokat és az ökröket is, a pénzváltók pénzét pedig szétszórta. Az asztalokat felforgatta, a galambárusoknak meg azt mondta: „Vigyétek innét ezeket, ne tegyétek Atyám házát vásárcsarnokká!” Tanítványainak eszébe jutott, hogy írva van: „Emészt a házadért való buzgóság.”
+
+A zsidók erre így szóltak: „Miféle csodajelet mutatsz, hogy ezeket teszed?”
+
+Jézus azt válaszolta: „Romboljátok le ezt a templomot, és én három nap alatt fölépítem!”
+
+A zsidók azt felelték: „Negyvenhat esztendeig épült ez a templom, és te három nap alatt fölépíted azt?”
+
+Ő azonban testének templomáról beszélt. Amikor feltámadt a halálból, tanítványainak eszébe jutott, hogy ezt mondta, s hittek az írásnak és Jézus szavainak.
+'''
+la = '''
+Prope erat Pascha Iudaeorum, et ascendit Hierosolymam Iesus; et invenit in templo vendentes boves et oves et columbas, et nummularios sedentes. Et, cum fecisset flagellum de funiculis, omnes eiecit de templo, oves quoque et boves, et nummulariorum effudit aes, et mensas subvertit. Et his qui columbas vendebant dixit: «Auferte ista hinc; nolite facere domum Patris mei domum negotiationis». Recordati sunt discipuli eius quia scriptum est: «Zelus domus tuae comedet me».
+
+Responderunt ergo Iudaei et dixerunt ei: «Quod signum ostendis nobis, quia haec facis?»
+
+Respondit Iesus et dixit eis: «Solvite templum hoc, et in tribus diebus excitabo illud».
+
+Dixerunt ergo Iudaei: «Quadraginta et sex annis aedificatum est templum hoc, et tu tribus diebus excitabis illud?»
+
+Ille autem dicebat de templo corporis sui. Cum ergo resurrexisset a mortuis, recordati sunt discipuli eius quia hoc dicebat, et crediderunt Scripturae et sermoni quem dixit Iesus.
+'''
+
+# Prayer of the faithful: igenaptár 2026-11-09 ("27. Templomszentelésről és templombúcsúra"); "N. pápáért"
+# -> "Leó pápáért"; petition 4 is in brackets there (optional) -> rubric.
+[faithful]
+intro = "Testvéreim! Egy szívvel-lélekkel kérjük mennyei Atyánkat, hogy legyen minden szent hajlék az ő kegyelmeinek forrása, ahonnét áldást merít az ő szent népe!"
+response = "Kérünk téged, hallgass meg minket!"
+petitions = [
+  "Imádkozunk, Urunk, Leó pápáért, püspökeinkért és papjainkért, tartsd meg kegyelmedben egyházmegyénket és egyházközségeinket!",
+  "Imádkozunk Hazánkért, egész népünkért és azokért, akik fölöttünk a közhatalmat gyakorolják: Adj nekik, Urunk, jó szándékot és bölcsességet, minket pedig segíts boldogulásunkban!",
+  "Imádkozunk mindazokért, akik adományaikkal és munkájukkal áldozatot hoznak templomainkért: Nagylelkűségükért jutalmazd meg őket, Urunk, bőkezűen!",
+  { note = "Tetszés szerint:", text = "Imádkozunk a jelenlévő vendégekért, zarándokokért és egyházközségünk minden tagjáért: Lakjék szívükben szeretet, és vigyék haza otthonukba a békesség, a boldogság, a tisztelettudás és a becsület kincseit!" },
+  "Imádkozunk a szenvedőkért, az elhagyatottakért, az öregekért, a betegekért és a szomorkodókért: Nyerjenek erőt, oltalmat, gyógyulást és vigasztalást!",
+  "Imádkozunk elhunyt szeretteinkért is: Legyen osztályrészük az örök boldogság és a dicsőséges feltámadás!",
+]
+conclusion = "Urunk, Istenünk! Figyelj irgalmasan családod könyörgésére. Ezen a szent napon egész szívvel újra átadjuk magunkat szolgálatodra. Segíts és oltalmazz, hogy elteljünk áldásod bőségével! Krisztus, a mi Urunk által."

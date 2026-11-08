@@ -7,8 +7,6 @@ greeting = '''
 <h3>Köszöntés</h3>
 <p>Az Atya, a Fiú és a Szentlélek nevében.</p>
 <p class="resp">Ámen.</p>
-<p>A mi Urunk, Jézus Krisztus kegyelme, az Atyaisten szeretete és a Szentlélek egyesítő ereje legyen mindnyájatokkal.</p>
-<p class="resp">És a te lelkeddel.</p>
 '''
 
 penitential = '''
@@ -107,4 +105,28 @@ creed_apostles = '''
 <p class="resp">Hiszek egy Istenben, mindenható Atyában, mennynek és földnek Teremtőjében.</p>
 <p class="resp">És Jézus Krisztusban, az ő egyszülött Fiában, a mi Urunkban; aki fogantatott Szentlélektől, született Szűz Máriától; szenvedett Poncius Pilátus alatt; megfeszítették, meghalt és eltemették. Alászállt a poklokra, harmadnapon feltámadt a halottak közül; fölment a mennybe, ott ül a mindenható Atyaisten jobbján; onnan jön el ítélni élőket és holtakat.</p>
 <p class="resp">Hiszek Szentlélekben. Hiszem a katolikus Anyaszentegyházat; a szentek közösségét, a bűnök bocsánatát; a test feltámadását és az örök életet. Ámen.</p>
+'''
+
+# The three greetings after the sign of the cross (1991 missal, Ordo Missae 2., pp. 351-352), offered in a
+# dropdown "Köszöntés"; the first is the default (user, 2026-11-08: "Az Úr legyen veletek").
+[[greeting_forms]]
+key = "dv"
+label = "Az Úr legyen veletek"
+html = '''
+<p>Az Úr legyen veletek.</p>
+<p class="resp">És a te lelkeddel.</p>
+'''
+[[greeting_forms]]
+key = "gratia"
+label = "A mi Urunk, Jézus Krisztus kegyelme…"
+html = '''
+<p>A mi Urunk, Jézus Krisztus kegyelme, az Atyaisten szeretete és a Szentlélek egyesítő ereje legyen mindnyájatokkal.</p>
+<p class="resp">És a te lelkeddel.</p>
+'''
+[[greeting_forms]]
+key = "pax"
+label = "Kegyelem nektek és békesség…"
+html = '''
+<p>Kegyelem nektek és békesség Atyánktól, az Istentől, és Urunktól, Jézus Krisztustól.</p>
+<p class="resp">Áldott legyen az Isten, a mi Urunk, Jézus Krisztus Atyja.</p>
 '''

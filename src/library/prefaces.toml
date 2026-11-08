@@ -627,3 +627,31 @@ Quia fílios, quos longe peccáti crimen abstúlerat, per sánguinem Fílii tui 
 
 Et ídeo, choris angélicis sociáti, te laudámus in gáudio confiténtes:
 '''
+
+# Dedication of a church II (1991 missal list of prefaces: "10. A templomszentelésről: II. Az Egyháznak,
+# Krisztus jegyesének és a Szentlélek templomának misztériuma"); printed in the common "Templomszentelés
+# évfordulóján, B) A felszentelt templomon kívül". Singing aids stripped ("(Mert)", "(És)", "(zengjük:)",
+# dashes, capitals inside words: "ELtölt", "TŐled", "TÉged").
+[templomszenteles-2]
+label = "Prefáció a templomszentelésről II."
+source = "Római Misekönyv 1991 (PPEK 335), Templomszentelési misék, B) A felszentelt templomon kívül, 650. o. – az új misekönyvvel még nem egyeztetve. Latin: Missale Romanum cum lectionibus 1977, vol. IV, Commune dedicationis ecclesiae, B, pp. 787-788 („De mysterio Ecclesiae, quae est sponsa Christi templumque Spiritus”); hangsúlyjelek a Missale Romanum szokása szerint"
+sub = "Az Egyháznak, Krisztus jegyesének és a Szentlélek templomának misztériuma"
+la_label = "Praefatio II de dedicatione ecclesiae"
+text = '''
+Valóban méltó és igazságos, illő és üdvös, hogy mindig és mindenütt hálát adjunk néked, mi Urunk, szentséges Atyánk, mindenható, örök Isten:
+
+Mert jótékonyságod lakhelyéül választod az imádság házát, hogy kegyelmed folytonos segítsége által minket a Szentlélek templomává építs, melyet ragyogva eltölt a neked tetsző élet fénye.
+
+De Krisztus jegyesét, az Egyházat is jelenti a látható épület, mert Egyházadban is szüntelenül folytatod a megszentelés művét, hogy számtalan gyermek boldog anyjaként elnyerje tőled dicsőséged fényét.
+
+Ezért mi is, az összes angyalokkal és szentekkel együtt magasztalunk téged, és ujjongva mondjuk:
+'''
+la = '''
+Vere dignum et iustum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine, sancte Pater, omnípotens ætérne Deus:
+
+Qui domum oratiónis muníficus inhabitáre dignáris, ut, grátia tua perpétuis fovénte subsídiis, templum Spíritus Sancti ipse nos perfícias, acceptábilis vitæ splendóre corúscans.
+
+Sed et visibílibus ædifíciis adumbrátam, Christi sponsam Ecclésiam perénni operatióne sanctíficas, ut, innumerábili prole mater exsúltans, in glóriam tuam collocétur in cælis.
+
+Et ídeo, cum Sanctis et Angelis univérsis, te collaudámus, sine fine dicéntes:
+'''

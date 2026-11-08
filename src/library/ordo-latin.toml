@@ -6,10 +6,6 @@ greeting = '''
 <p class="bi-r ">Az Atya, a Fiú és a Szentlélek nevében.</p>
 <p class="bi-l resp" lang="la">Amen.</p>
 <p class="bi-r resp">Ámen.</p>
-<p class="bi-l " lang="la">Grátia Dómini nostri Iesu Christi, et cáritas Dei, et communicátio Sancti Spíritus sit cum ómnibus vobis.</p>
-<p class="bi-r ">A mi Urunk, Jézus Krisztus kegyelme, az Atyaisten szeretete és a Szentlélek egyesítő ereje legyen mindnyájatokkal.</p>
-<p class="bi-l resp" lang="la">Et cum spíritu tuo.</p>
-<p class="bi-r resp">És a te lelkeddel.</p>
 '''
 
 penitential = '''
@@ -150,4 +146,33 @@ creed = '''
 # Symbolum Apostolorum: Missale Romanum 2008, Ordo Missae 19 (ordo.pallotyni.pl); Hungarian 1991 pp. 356-357.
 creed_apostles = '''
 <p class="bi-l resp" lang="la">Credo in Deum Patrem omnipoténtem, Creatórem cæli et terræ,</p><p class="bi-r resp">Hiszek egy Istenben, mindenható Atyában, mennynek és földnek Teremtőjében.</p><p class="bi-l resp" lang="la">et in Iesum Christum, Fílium eius únicum, Dóminum nostrum, qui concéptus est de Spíritu Sancto, natus ex María Vírgine, passus sub Póntio Piláto, crucifíxus, mórtuus, et sepúltus, descéndit ad ínferos, tértia die resurréxit a mórtuis, ascéndit ad cælos, sedet ad déxteram Dei Patris omnipoténtis, inde ventúrus est iudicáre vivos et mórtuos.</p><p class="bi-r resp">És Jézus Krisztusban, az ő egyszülött Fiában, a mi Urunkban; aki fogantatott Szentlélektől, született Szűz Máriától; szenvedett Poncius Pilátus alatt; megfeszítették, meghalt és eltemették. Alászállt a poklokra, harmadnapon feltámadt a halottak közül; fölment a mennybe, ott ül a mindenható Atyaisten jobbján; onnan jön el ítélni élőket és holtakat.</p><p class="bi-l resp" lang="la">Credo in Spíritum Sanctum, sanctam Ecclésiam cathólicam, sanctórum communiónem, remissiónem peccatórum, carnis resurrectiónem, vitam ætérnam. Amen.</p><p class="bi-r resp">Hiszek Szentlélekben. Hiszem a katolikus Anyaszentegyházat; a szentek közösségét, a bűnök bocsánatát; a test feltámadását és az örök életet. Ámen.</p>
+'''
+
+# The three greetings (Missale Romanum 2008, Ordo Missae 2; Hungarian 1991 pp. 351-352): see ordo.toml.
+[[greeting_forms]]
+key = "dv"
+label = "Dóminus vobíscum"
+html = '''
+<p class="bi-l " lang="la">Dóminus vobíscum.</p>
+<p class="bi-r ">Az Úr legyen veletek.</p>
+<p class="bi-l resp" lang="la">Et cum spíritu tuo.</p>
+<p class="bi-r resp">És a te lelkeddel.</p>
+'''
+[[greeting_forms]]
+key = "gratia"
+label = "Grátia Dómini nostri Iesu Christi…"
+html = '''
+<p class="bi-l " lang="la">Grátia Dómini nostri Iesu Christi, et cáritas Dei, et communicátio Sancti Spíritus sit cum ómnibus vobis.</p>
+<p class="bi-r ">A mi Urunk, Jézus Krisztus kegyelme, az Atyaisten szeretete és a Szentlélek egyesítő ereje legyen mindnyájatokkal.</p>
+<p class="bi-l resp" lang="la">Et cum spíritu tuo.</p>
+<p class="bi-r resp">És a te lelkeddel.</p>
+'''
+[[greeting_forms]]
+key = "pax"
+label = "Grátia vobis et pax…"
+html = '''
+<p class="bi-l " lang="la">Grátia vobis et pax a Deo Patre nostro et Dómino Iesu Christo.</p>
+<p class="bi-r ">Kegyelem nektek és békesség Atyánktól, az Istentől, és Urunktól, Jézus Krisztustól.</p>
+<p class="bi-l resp" lang="la">Et cum spíritu tuo.</p>
+<p class="bi-r resp">Áldott legyen az Isten, a mi Urunk, Jézus Krisztus Atyja.</p>
 '''
