@@ -55,6 +55,13 @@ html = '''
 '''
 
 [2]
+# In Masses for the dead (selectable "Elhunytért"; default: the ordinary text): an extra paragraph
+# before paragraph `dead_at` (0-based, counted over the <p> of html). 1991 missal p. 422; Latin 1977 vol. IV, p. 634.
+dead_at = 11
+dead_replace = false
+dead_rubric = "A megholtakért végzett misében hozzáadható:"
+dead_text = "Emlékezzél meg, Urunk, N. szolgádról (szolgálódról), akit (most) magadhoz szólítottál ebből a világból. Add, hogy aki a keresztségben titokzatos módon részesült Fiad halálában, részesüljön Fiad feltámadásában is."
+dead_la = "Meménto fámuli tui (fámulæ tuæ) N., quem (quam) (hódie) ad te ex hoc mundo vocásti. Concéde, ut, qui (quæ) complantátus (complantáta) fuit similitúdini mortis Fílii tui, simul fiat et resurrectiónis ipsíus."
 la_label = "Prex eucharistica II"
 la = [
   "Vere Sanctus es, Dómine, fons omnis sanctitátis.",
@@ -91,6 +98,13 @@ html = '''
 '''
 
 [3]
+# In Masses for the dead: this text replaces paragraph `dead_at` ("Elhunyt testvéreinket pedig…").
+# 1991 missal p. 427 (115.); Latin 1977 vol. IV, p. 641 (116.).
+dead_at = 13
+dead_replace = true
+dead_rubric = "A megholtakért végzett misében mondható:"
+dead_text = "Emlékezzél meg N. szolgádról (szolgálódról), akit (most) magadhoz szólítottál ebből a világból. Add, hogy aki a keresztségben titokzatos módon részesült Fiad halálában, részesüljön Fiad feltámadásában is, amikor a holtakat életre kelti a föld porából, és romlandó testünket megdicsőült testéhez hasonlóvá teszi. Többi elhunyt testvérünket pedig, és mindazokat, akik a te kegyelmedben költöztek el ebből a világból, fogadd be jóságosan országodba. Ott majd reményünk szerint, velük együtt mi is dicsőségedben örökre részesülünk, amikor letörölsz szemünkről minden könnyet, és színről színre látunk téged, Istenünk. Hasonlók leszünk hozzád mindörökre, és szüntelenül dicsőítünk téged Krisztus Urunk által, mert általa árasztod el minden jóval a világot."
+dead_la = "Meménto fámuli tui (fámulæ tuæ) N., quem (quam) (hódie) ad te ex hoc mundo vocásti. Concéde, ut, qui (quæ) complantátus (complantáta) fuit similitúdini mortis Fílii tui, simul fiat et resurrectiónis ipsíus, quando mórtuos suscitábit in carne de terra et corpus humilitátis nostræ configurábit córpori claritátis suæ. Sed et fratres nostros defúnctos, et omnes qui, tibi placéntes, ex hoc sǽculo transiérunt, in regnum tuum benígnus admítte, ubi fore sperámus, ut simul glória tua perénniter satiémur, quando omnem lácrimam abstérges ab óculis nostris, quia te, sícuti es, Deum nostrum vidéntes, tibi símiles érimus cuncta per sǽcula, et te sine fine laudábimus, per Christum Dóminum nostrum, per quem mundo bona cuncta largíris."
 la_label = "Prex eucharistica III"
 la = [
   "Vere Sanctus es, Dómine, et mérito te laudat omnis a te cóndita creatúra, quia per Fílium tuum, Dóminum nostrum Iesum Christum, Spíritus Sancti operánte virtúte, vivíficas et sanctíficas univérsa, et pópulum tibi congregáre non désinis, ut a solis ortu usque ad occásum oblátio munda offerátur nómini tuo.",

@@ -73,6 +73,21 @@ async function open(day, path = '', { blockCalendar = false, blockOrdinary = fal
   await t.page.selectOption('#sel-ep-la', '2');
   const shown = await t.page.$$eval('#latin .variants[data-group="ep"] > .variant:not([hidden])', v => v.map(x => x.dataset.opt));
   check(await t.page.$eval('#sel-ep', s => s.value) === '2' && shown.join() === '2', 'Latin EP dropdown switches the prayer and the Hungarian dropdown');
+  // EP II/III: the text for a deceased person, chosen with "Elhunytért" (default: the ordinary text);
+  // the Hungarian and Latin dropdowns stay in step.
+  await t.page.selectOption('#sel-ep', '3');
+  const deadVisible = () => t.page.$$eval('.variants[data-group="ep"] > .variant[data-opt="3"] p', ps =>
+    ps.filter(p => !p.closest('[hidden]')).map(p => p.textContent).join(' '));
+  const before = await deadVisible();
+  check(before.includes('Elhunyt testvéreinket pedig') && !before.includes('N. szolgádról'), 'EP III: the ordinary text by default');
+  await t.page.selectOption('#sel-dead-3', 'dead');
+  const after = await deadVisible();
+  const laSync = await t.page.$eval('#sel-dead-3-la', s => s.value);
+  const laText = await t.page.$$eval('#latin .variants[data-group="ep"] > .variant[data-opt="3"] p', ps =>
+    ps.filter(p => !p.closest('[hidden]')).map(p => p.textContent).join(' '));
+  check(after.includes('Emlékezzél meg N. szolgádról') && !after.includes('Elhunyt testvéreinket pedig') && laSync === 'dead' && laText.includes('Meménto fámuli tui'),
+    'EP III "Elhunytért": the text for the deceased replaces the paragraph, Latin section follows');
+  await t.page.selectOption('#sel-dead-3', 'normal');
   // The date picker offers exactly the days in the calendar.
   await t.page.click('#menu-fab'); await t.page.click('#pick-date');
   const months = new Set(dates.map(d => d.slice(0, 7)));

@@ -153,6 +153,12 @@ I by default; readings ferial unless the user asks for the lectionary for the de
 **Votive masses** — propers from the votive Mass's own first formula (e.g. "A"), not from a feast
 the rubric also allows (user, 2026-10-28: Eucharist votive → formula A, not Úrnapja); readings ferial.
 
+**Eucharistic prayers for a deceased person** — EP II and III carry the missal's text for Masses for
+the dead (`dead_at`, `dead_replace`, `dead_rubric`, `dead_text`, `dead_la` in `eucharistic-prayers.toml`:
+EP II adds a paragraph, EP III replaces "Elhunyt testvéreinket pedig…"). Every Mass gets an
+"Elhunytért" dropdown at the top of these prayers (Hungarian and Latin, in step); the default is the
+ordinary text (user, 2026-11-08). EP I and IV have no such text.
+
 **Prefaces** — the dropdown always offers, after the day's suggestions, the own prefaces of
 Eucharistic prayers II and IV. Choosing EP IV switches the preface to EP IV's own (it may only be
 said with it).

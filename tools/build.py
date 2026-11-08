@@ -384,6 +384,42 @@ def mark_ep_html(h):
     return re.sub(r'<p(?= class="[^"]*">|>)', lambda m: '<p' + toc_attr(marks.get(next(it))), h)
 
 
+# ---------- Eucharistic prayers in Masses for the dead ----------
+# EP II and III have a text for a deceased person (eucharistic-prayers.toml: dead_at, dead_replace,
+# dead_rubric, dead_text, dead_la). A dropdown "Elhunytért" at the top of the prayer chooses it; the
+# default is the ordinary text. All these dropdowns (EP II and III, Hungarian and Latin section) are
+# one group ("dead"), so they stay in step, like the preface and EP dropdowns.
+
+DEAD_OPTS = [('normal', 'Szokásos szöveg'), ('dead', 'Gyászmisében, elhunytért')]
+
+
+def dead_chooser(k, la=False):
+    sid = f'sel-dead-{k}' + ('-la' if la else '')
+    opts = ''.join(f'<option value="{v}"{" selected" if v == "normal" else ""}>{lab}</option>' for v, lab in DEAD_OPTS)
+    return (f'<div class="choice{" bi-full" if la else ""}"><label for="{sid}">'
+            f'{"Pro defunctis · Elhunytért" if la else "Elhunytért"}</label>'
+            f'<select id="{sid}" data-sel="dead">{opts}</select></div>')
+
+
+def with_dead(ep, blocks, dead):
+    """blocks: one HTML block per paragraph of the prayer; puts the dead variant at its place."""
+    i = ep['dead_at']
+    normal = blocks[i] if ep['dead_replace'] else ''
+    blocks[i:i + 1 if ep['dead_replace'] else i] = [variants('dead', [('normal', normal), ('dead', dead)], 'normal')]
+    return blocks
+
+
+def ep_html(k):
+    """The Hungarian text of Eucharistic prayer k (jump marks; the dead variant where it has one)."""
+    ep = EPS[k]
+    h = mark_ep_html(ep['html'])
+    if 'dead_at' not in ep:
+        return h
+    blocks = re.findall(r'<p[ >].*?</p>', h, re.S)
+    dead = p(esc(ep['dead_rubric']), 'rub') + p(esc(ep['dead_text']))
+    return dead_chooser(k) + '\n' + '\n'.join(with_dead(ep, blocks, dead))
+
+
 def mark_first(h, hu, la):
     """Jump mark on the first paragraph of a fixed part that has no heading of its own."""
     return re.sub(r'<p(?=[ >])', f'<p data-toc="{hu}" data-toc-la="{la}"', h, count=1)
@@ -427,14 +463,19 @@ def bi_ep(k):
     hu = re.findall(r'<p(?: class="([^"]*)")?>(.*?)</p>', ep['html'], re.S)
     la = iter(ep.get('la', []))
     marks = ep_marks(hu)
-    out = ''
+    rows = []
     for i, (cls, body) in enumerate(hu):
         if cls == 'rub':
-            out += f'<p class="bi-full rub">{body}</p>'
+            rows.append(f'<p class="bi-full rub">{body}</p>')
         else:
             row = bi(esc(next(la, '')), body, cls or '')
-            out += row.replace('<p class="bi-r', '<p' + toc_attr(marks.get(i)) + ' class="bi-r', 1)
-    return bi_h3(esc(ep.get('la_label', '')), esc(ep['label'])) + noted(out, NO_LATIN)
+            rows.append(row.replace('<p class="bi-r', '<p' + toc_attr(marks.get(i)) + ' class="bi-r', 1))
+    head = bi_h3(esc(ep.get('la_label', '')), esc(ep['label']))
+    if 'dead_at' in ep:
+        dead = f'<p class="bi-full rub">{esc(ep["dead_rubric"])}</p>' + bi(esc(ep['dead_la']), esc(ep['dead_text']))
+        head += dead_chooser(k, la=True)
+        rows = with_dead(ep, rows, dead)
+    return head + noted(''.join(rows), NO_LATIN)
 
 
 # ---------- one Mass ----------
@@ -553,7 +594,7 @@ def render(m):
     h.append(chooser('pref', 'Prefáció', [(k, PREFACES[k]['label'], preface_body(k, names)) for k in pref_keys], pref_keys[0]))
     h.append(ORDO['sanctus'])
     h.append('<h3>Eucharisztikus ima</h3>')
-    h.append(chooser('ep', 'Eucharisztikus ima', [(k, v['label'], mark_ep_html(v['html'])) for k, v in EPS.items()], ep))
+    h.append(chooser('ep', 'Eucharisztikus ima', [(k, v['label'], ep_html(k)) for k, v in EPS.items()], ep))
     h.append('</section>')
 
     h.append('<section id="r4"><h2 class="part">A szentáldozás szertartása</h2>')
