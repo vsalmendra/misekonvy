@@ -5,7 +5,7 @@ day = "32. évközi hét hétfője · ünnep"
 rank = "fehér színben"
 gloria = true
 creed = false
-eucharistic_prayer = 3
+eucharistic_prayer = 1
 prefaces = ["templomszenteles-2"]
 mass_type = "Templomszentelés évfordulóján, a felszentelt templomon kívül (Templomszentelési misék, B)"
 
