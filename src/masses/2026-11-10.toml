@@ -1,0 +1,161 @@
+# Recipe: src/masses/2026-11-10.md
+date = "2026-11-10"
+title = "Nagy Szent Leó pápa és egyháztanító"
+day = "32. évközi hét keddje · emléknap"
+rank = "fehér színben"
+gloria = false
+creed = false
+eucharistic_prayer = 2
+prefaces = ["lelkipasztorok", "szentek-1", "szentek-2"]
+mass_type = "Lelkipásztorok közös miséje: pápák (1) · saját könyörgésekkel"
+names = [["Szent N.", "Nagy Szent Leó"]]
+la_names = [["sancti N.", "sancti Leónis"]]
+
+# The 1991 missal, 10 November: "Lelkipásztorok, pápák miséje, 733. vagy egyháztanítók miséje, 746."
+# + own collect, prayer over the offerings and prayer after communion. Antiphons: the common of popes.
+entrance = "@lelkipasztorok/papak-puspokok-1"
+communion = "@lelkipasztorok/papak-puspokok-1"
+
+[collect]
+source = "Római Misekönyv 1991 (PPEK 335), november 10., 626. o.; latin: Missale Romanum cum lectionibus 1977, IV, 766. o."
+text = '''
+Istenünk, te sohasem engeded meg,
+hogy a pokol hatalma erőt vegyen Egyházadon,
+amelyet erős, apostoli sziklára építettél.
+Kérünk, add meg Egyházadnak,
+hogy Nagy Szent Leó pápa közbenjárására
+igazságodban szilárdan megmaradjon,
+és folytonos békében éljen.
+A mi Urunk, Jézus Krisztus, a te Fiad által,
+aki veled él és uralkodik a Szentlélekkel egységben,
+Isten mindörökkön örökké.
+'''
+la = '''
+Deus, qui adversus Ecclesiam tuam,
+in apostolicae petrae soliditate fundatam,
+portas inferi numquam praevalere permittis,
+da ei, quaesumus, ut, intercedente beato Leone papa,
+in tua veritate consistens, pace continua muniatur.
+Per Dominum nostrum Iesum Christum, Filium tuum,
+qui tecum vivit et regnat in unitate Spiritus Sancti,
+Deus, per omnia saecula saeculorum.
+'''
+
+[offertory]
+text = '''
+Kérünk, Istenünk, fordítsd jóságosan Egyházad javára
+felajánlott adományainkat,
+hogy egész nyájad gyarapodjék,
+és kedvesek legyenek előtted pásztoraink.
+Krisztus, a mi Urunk által.
+'''
+la = '''
+Oblatis muneribus, quaesumus, Domine,
+Ecclesiam tuam benignus illumina,
+ut et gregis tui proficiat ubique successus,
+et grati fiant nomini tuo, te gubernante, pastores.
+Per Christum Dominum nostrum.
+'''
+
+[postcommunion]
+text = '''
+Istenünk, te vezesd Egyházadat,
+melyet szent lakomádon tápláltál,
+hogy a te kormányzásod alatt
+szabadsága egyre növekedjék,
+és a hitet épségben megőrizze.
+Krisztus, a mi Urunk által.
+'''
+la = '''
+Refectione sancta enutritam
+guberna, quaesumus, Domine, tuam placatus Ecclesiam,
+ut, potenti moderatione directa,
+et incrementa libertatis accipiat,
+et in religionis integritate persistat.
+Per Christum Dominum nostrum.
+'''
+
+[reading1]
+label = "Szentlecke"
+sub = "Szent Pál apostolnak Tituszhoz írt leveléből"
+summary = "Várjuk mindnyájan szent élettel Megváltónknak, Jézus Krisztusnak dicsőséges eljövetelét!"
+cite = "Tit 2,1-8.11-14"
+la_sub = "Lectio Epistolae beati Pauli apostoli ad Titum"
+text = '''
+Szeretett Fiam!
+
+Te azt hirdesd, ami az üdvös tanításnak megfelel! Az idősebb férfiak józanok legyenek, tisztességesek, megfontoltak; a hitben, szeretetben és türelemben erősek. Az idősebb asszonyok szintén legyenek komoly magaviseletűek! Senkit se rágalmazzanak, ne igyanak sok bort, hanem tanítsanak a jóra! A fiatal asszonyokat buzdítsák arra, hogy ragaszkodjanak férjükhöz, szeressék gyermekeiket, legyenek komolyak, tiszták és mértékletesek, háziasak és gyöngédek, a férjük iránt engedelmesek, hogy ne káromolják miattuk Isten igéjét.
+
+A fiatalokat is buzdítsd, hogy mindenben fegyelmezetten éljenek! Magad járj elöl jó példával! A tanításban légy kifogástalan és komoly! Beszéded legyen józan és megcáfolhatatlan! Hadd szégyenüljön meg az ellenfél, mert nem találhat semmi rosszat, amit szemünkre vethet.
+
+Isten üdvözítő kegyelme megnyilvánult minden ember számára, és arra tanít minket, hogy szakítsunk az istentelenséggel és az evilági vágyakkal. Éljünk becsületesen, buzgón és szentül ezen a világon. Várjuk reményünk boldog beteljesedését: nagy Istenünknek és Üdvözítőnknek, Jézus Krisztusnak dicsőséges eljövetelét. Hiszen ő önmagát adta értünk, hogy minden gonoszságtól megváltson, megtisztítson, és jótettekben buzgólkodó, választott népévé tegyen minket.
+'''
+la = '''
+Carissime:
+
+Tu loquere quae decent sanam doctrinam. Senes ut sobrii sint, pudici, prudentes, sani fide, dilectione, patientia. Anus similiter in habitu sanctae, non criminatrices, non vino multo deditae, bene docentes, ut prudentiam doceant adulescentulas ut viros suos ament, filios diligant, prudentes sint, castae, domus curam habentes, benignae, subditae suis viris, ut non blasphemetur verbum Dei.
+
+Iuvenes similiter hortare ut sobrii sint; in omnibus te ipsum praebens exemplum bonorum operum, in doctrina integritatem, gravitatem, in verbo sano irreprehensibilem, ut is qui ex adverso est vereatur, nihil habens malum dicere de nobis.
+
+Apparuit enim gratia Dei salutaris omnibus hominibus, erudiens nos ut, abnegantes impietatem et saecularia desideria, sobrie et iuste et pie vivamus in hoc saeculo, exspectantes beatam spem et adventum gloriae magni Dei et Salvatoris nostri Iesu Christi, qui dedit semetipsum pro nobis ut nos redimeret ab omni iniquitate et mundaret sibi populum peculiarem, sectatorem bonorum operum.
+'''
+
+[psalm]
+cite = "Zsolt 36,3-4.18 és 23.27 és 29"
+response = "Te vagy, Urunk, Istenünk, az igazak üdvössége."
+la_response = "Salus iustorum a Domino est."
+verses = [
+'''
+Bízzál az Úrban és a jót cselekedd,
+így lakhatsz a földeden és biztonságban élhetsz.
+Az Úrban legyen örömed,
+és ő teljesíti szíved vágyait.
+''', '''
+Ismeri az Úr az ártatlanok sorsát,
+örökségük megmarad örökre.
+Az Úr megszilárdítja az ember lépteit,
+akinek útjában kedvét leli.
+''', '''
+Fordulj el a rossztól, és a jót cselekedd,
+és megmaradsz örökkön örökké.
+Az igazak öröklik a földet,
+és mindörökké lakni fogják.
+''']
+la_verses = [
+'''
+Spera in Domino et fac bonitatem,
+et inhabitabis terram et pasceris in fide.
+Delectare in Domino,
+et dabit tibi petitiones cordis tui.
+''', '''
+Novit Dominus dies immaculatorum,
+et hereditas eorum in aeternum erit.
+A Domino gressus hominis confirmantur,
+et viam eius volet.
+''', '''
+Declina a malo et fac bonum,
+et inhabitabis in saeculum saeculi.
+Iusti autem hereditabunt terram,
+et inhabitabunt in saeculum saeculi super eam.
+''']
+
+[alleluia]
+cite = "Jn 14,23"
+text = "Aki szeret engem, megfogadja szavamat. Atyám is szeretni fogja, és hozzá költözünk."
+la = "Si quis diligit me, sermonem meum servabit, et Pater meus diliget eum, et ad eum veniemus, et mansionem apud eum faciemus."
+
+[gospel]
+book = "Szent Lukács"
+la_book = "Lucam"
+summary = "A rossz szolga csak annyit tesz, amennyi a kötelessége."
+cite = "Lk 17,7-10"
+text = '''
+Abban az időben Jézus így szólt tanítványaihoz:
+
+Melyiktek mondja béresének vagy bojtárjának, amikor a mezőről hazajön: „Gyere ide tüstént, és ülj asztalhoz.” Nem ezt mondja-e inkább: „Készíts nekem vacsorát, övezd fel magadat, és szolgálj ki, amíg eszem és iszom! Aztán majd ehetsz és ihatsz te is?” S talán megköszöni a szolgának, hogy teljesítette parancsait? Így ti is, amikor megteszitek, amit parancsoltak nektek, mondjátok: haszontalan szolgák vagyunk, hiszen csak azt tettük, ami a kötelességünk volt.
+'''
+la = '''
+In illo tempore: Dixit Dominus:
+
+«Quis vestrum habens servum arantem aut pascentem, qui regresso de agro dicet illi: “Statim transi, recumbe”, et non dicet ei: “Para quod cenem, et praecinge te et ministra mihi donec manducem et bibam, et post haec tu manducabis et bibes?” Numquid gratiam habet servo illi, quia fecit quae praecepta sunt? Sic et vos, cum feceritis omnia quae praecepta sunt vobis, dicite: “Servi inutiles sumus, quod debuimus facere, fecimus”».
+'''
