@@ -159,3 +159,17 @@ In illo tempore: Dixit Dominus:
 
 «Quis vestrum habens servum arantem aut pascentem, qui regresso de agro dicet illi: “Statim transi, recumbe”, et non dicet ei: “Para quod cenem, et praecinge te et ministra mihi donec manducem et bibam, et post haec tu manducabis et bibes?” Numquid gratiam habet servo illi, quia fecit quae praecepta sunt? Sic et vos, cum feceritis omnia quae praecepta sunt vobis, dicite: “Servi inutiles sumus, quod debuimus facere, fecimus”».
 '''
+
+# igenaptár 2026-11-10 (the weekday's set; fetched 2026-11-11, the site was down on the 10th).
+[faithful]
+intro = "Imádkozzunk, testvéreim, a mindenható Istenhez, aki elküldte Fiát a világba, hogy kereszthalála és feltámadása által megváltson minket!"
+response = "Kérünk téged, hallgass meg minket!"
+petitions = [
+  "Hogy szüntelenül magasztaljunk téged, Urunk, a keresztségben kapott kegyelmekért!",
+  "Hogy parancsaid hűséges megtartásával mutassuk meg irántad gyermeki ragaszkodásunkat!",
+  "Hogy Krisztus példája szerint áldozatos szeretettel viseltessünk rászoruló embertársaink iránt!",
+  "Hogy emberi gyengeségeinkben és megpróbáltatásainkban te légy erősségünk és reménységünk!",
+  "Hogy jócselekedeteink láttán dicsőítsék az emberek a te szent nevedet!",
+  { note = "Ha a szentmisét elhunytért mutatják be:", text = "Hogy ne feledkezzél meg elhunyt N. testvérünkről (nővérünkről), aki már elköltözött ebből a világból!" },
+]
+conclusion = "Mindenható, örök Isten! Te azért küldted el hozzánk szent Fiadat, hogy a világ világossága legyen. Add, hogy az ő tanításának fényében járjunk, és így biztosan elérkezzünk az örök világosság országába őáltala. Aki él és uralkodik mindörökkön örökké."

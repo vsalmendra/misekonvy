@@ -1,0 +1,212 @@
+# Recipe: src/masses/2026-11-11.md
+date = "2026-11-11"
+title = "Tours-i Szent Márton püspök"
+day = "32. évközi hét szerdája · emléknap"
+rank = "fehér színben"
+gloria = false
+creed = false
+eucharistic_prayer = 3
+prefaces = ["lelkipasztorok", "szentek-1", "szentek-2"]
+mass_type = "Saját mise (Római Misekönyv, november 11.)"
+names = [["Szent N.", "Tours-i Szent Márton"]]
+la_names = [["sancti N.", "sancti Martíni"]]
+
+# All five propers are the saint's own: Római Misekönyv 1991 (PPEK 335), november 11., pp. 627-628;
+# Missale Romanum cum lectionibus 1977, vol. IV, pp. 767-769.
+[entrance]
+cite = "1 Sám 2,35"
+text = '''
+Hűséges papot támasztok magamnak,
+ő majd mindent szívem szerint tesz, ahogyan kívánom
+– mondja az Úr.
+'''
+la = '''
+Suscitabo mihi sacerdotem fidelem,
+qui iuxta cor meum et animam meam faciet,
+dicit Dominus.
+'''
+
+[collect]
+source = "Római Misekönyv 1991 (PPEK 335), november 11., 627. o.; latin: Missale Romanum cum lectionibus 1977, IV, 767. o."
+text = '''
+Istenünk, Tours-i Szent Márton püspök
+a te dicsőségedet szolgálta életében és halálában is.
+Add, hogy kegyelmed ereje bennünk is hatékonyan működjék,
+és szeretetedtől se élet, se halál el ne szakítson minket.
+A mi Urunk, Jézus Krisztus, a te Fiad által,
+aki veled él és uralkodik a Szentlélekkel egységben,
+Isten mindörökkön örökké.
+'''
+la = '''
+Deus, qui in beato Martino episcopo
+sive per vitam sive per mortem magnificatus es,
+innova gratiae tuae mirabilia in cordibus nostris,
+ut neque mors neque vita
+separare nos possit a caritate tua.
+Per Dominum nostrum Iesum Christum, Filium tuum,
+qui tecum vivit et regnat in unitate Spiritus Sancti,
+Deus, per omnia saecula saeculorum.
+'''
+
+[offertory]
+text = '''
+Kérünk, Istenünk, szenteld meg ezeket az áldozati adományokat,
+amelyeket örvendező szívvel ajánlunk fel
+Szent Márton püspök tiszteletére,
+hogy egész életünkön át
+jó és balsorsban egyaránt áldozatos szellemben éljünk.
+Krisztus, a mi Urunk által.
+'''
+la = '''
+Sanctifica, quaesumus, Domine Deus, haec munera,
+quae in honorem sancti Martini laetanter offerimus,
+ut per ea vita nostra
+inter adversa et prospera semper dirigatur.
+Per Christum Dominum nostrum.
+'''
+
+[communion]
+cite = "Mt 25,40"
+text = '''
+Bizony mondom nektek, amit e legkisebb testvéreim közül
+eggyel is tettetek, velem tettétek – mondja az Úr.
+'''
+la = '''
+Amen dico vobis,
+quamdiu fecistis uni ex his fratribus meis minimis,
+mihi fecistis, dicit Dominus.
+'''
+
+[postcommunion]
+text = '''
+Istenünk, add meg nekünk,
+akik az egység szentségével megerősödtünk,
+hogy mindenben tökéletesen egyetértsünk akaratoddal;
+és amint Szent Márton püspök egészen átadta magát tenéked,
+úgy mi is joggal dicsekedhessünk azzal,
+hogy a tieid vagyunk.
+Krisztus, a mi Urunk által.
+'''
+la = '''
+Da nobis, Domine, unitatis sacramento refectis,
+perfectam in omnibus cum tua voluntate concordiam,
+ut, sicut beatus Martinus totum se tibi subiecit,
+ita et nos esse tui veraciter gloriemur.
+Per Christum Dominum nostrum.
+'''
+
+[reading1]
+label = "Szentlecke"
+sub = "Szent Pál apostolnak Tituszhoz írt leveléből"
+summary = "Irgalmas szeretetével Krisztus megváltott minket."
+cite = "Tit 3,1-7"
+la_sub = "Lectio Epistolae beati Pauli apostoli ad Titum"
+text = '''
+Szeretett Fiam!
+
+Figyelmeztess mindenkit, hogy vessék alá magukat a fölöttes hatóságoknak! Legyenek engedelmesek és minden jóra készek! Senkit se szidalmazzanak, és ne veszekedjenek, hanem legyenek barátságosak, és mindenki iránt kellő szelídséget tanúsítsanak!
+
+Hiszen egykor mi magunk is oktalanok, hitetlenek és tévelygők voltunk. Átadtuk magunkat mindenféle vágynak és gyönyörnek. Gonoszságban és irigykedésben éltünk, gyűlöletesek és gyűlölködők voltunk.
+
+Amikor azonban megjelent Üdvözítő Istenünk jósága és emberszeretete, megmentett minket, nem azért, mert igazak voltak tetteink, hanem irgalmasságból, a Szentlélekben való újjászületés és megújulás fürdőjében. Bőséggel árasztotta reánk a Szentlelket Jézus Krisztus, a mi Üdvözítőnk által, hogy kegyelmével igaz életet éljünk, és az örök élet reménye legyen osztályrészünk.
+'''
+la = '''
+Carissime:
+
+Admone illos principibus, potestatibus subditos esse, dicto oboedire, ad omne opus bonum paratos esse, neminem blasphemare, non litigiosos esse, modestos, omnem ostendentes mansuetudinem ad omnes homines.
+
+Eramus enim et nos aliquando insipientes, inoboedientes, errantes, servientes concupiscentiis et voluptatibus variis, in malitia et invidia agentes, odibiles, odientes invicem.
+
+Cum autem benignitas et humanitas apparuit Salvatoris nostri Dei, non ex operibus iustitiae quae fecimus nos sed secundum suam misericordiam salvos nos fecit, per lavacrum regenerationis et renovationis Spiritus Sancti, quem effudit super nos abunde per Iesum Christum Salvatorem nostrum, ut iustificati gratia ipsius heredes simus secundum spem vitae aeternae.
+'''
+
+[psalm]
+cite = "Zsolt 22,1-3a.3b-6"
+response = "Az Úr nékem pásztorom, ínséget nem kell látnom."
+la_response = "Dominus pascit me, et nihil mihi deerit."
+verses = [
+'''
+Az Úr nékem pásztorom,
+ínséget nem kell látnom.
+Zöldellő mezőkön terelget engem,
+csendes vizekhez vezet, és lelkemet felüdíti.
+''', '''
+Az igazság ösvényén vezet engem,
+ahogyan ő megígérte.
+A halál sötét völgyében sem félek, mert ott vagy velem,
+biztonságot ad vessződ és pásztorbotod.
+''', '''
+Számomra asztalt terítettél,
+hogy üldözőimet szégyen érje.
+Fejemet megkented olajoddal,
+serlegemet csordultig megtöltötted.
+''', '''
+Jóságod és irgalmad nyomon követ
+életemnek minden napján.
+Otthonom lesz az Isten háza
+mindörökké, szünet nélkül.
+''']
+la_verses = [
+'''
+Dominus pascit me, et nihil mihi deerit:
+in pascuis virentibus me collocavit,
+super aquas quietis eduxit me,
+animam meam refecit.
+''', '''
+Deduxit me super semitas iustitiae
+propter nomen suum.
+Nam et si ambulavero in valle umbrae mortis,
+non timebo mala, quoniam tu mecum es.
+Virga tua et baculus tuus
+ipsa me consolata sunt.
+''', '''
+Parasti in conspectu meo mensam
+adversus eos qui tribulant me;
+impinguasti in oleo caput meum,
+et calix meus redundat.
+''', '''
+Etenim benignitas et misericordia
+subsequentur me
+omnibus diebus vitae meae,
+et inhabitabo in domo Domini
+in longitudinem dierum.
+''']
+
+[alleluia]
+cite = "1Tessz 5,18"
+text = "Adjatok hálát mindenért! Mert Isten ezt kívánja mindnyájatoktól Krisztus Jézusban."
+la = "In omnibus gratias agite; haec est enim voluntas Dei in Christo Iesu in omnibus vobis."
+
+[gospel]
+book = "Szent Lukács"
+la_book = "Lucam"
+summary = "Mindenért adjunk hálát az Úrnak, és dicsőítsük őt!"
+cite = "Lk 17,11-19"
+text = '''
+Jézus egyszer útban Jeruzsálem felé áthaladt Szamaria és Galilea határvidékén. Amikor betért az egyik faluba, tíz leprás férfi jött vele szembe. Még messze voltak, amikor megálltak, és hangosan így kiáltottak: „Jézus, Mester! Könyörülj rajtunk!” Ő rájuk tekintett, és így szólt hozzájuk: „Menjetek és mutassátok meg magatokat a papoknak.” Útközben megtisztultak.
+
+Az egyik, amikor észrevette, hogy meggyógyult, visszament, hangos szóval dicsőítette Istent, arcra borult Jézus lába előtt, és hálát adott neki. És ez az ember szamaritánus volt.
+
+Jézus megkérdezte: „Nemde tízen tisztultak meg? Hol maradt a többi kilenc? Nem akadt más, aki visszajött volna, hogy hálát adjon Istennek, csak ez az idegen?” Aztán hozzá fordult: „Kelj fel és menj! Hited meggyógyított téged.”
+'''
+la = '''
+Factum est, dum iret Iesus in Ierusalem, et ipse transibat per mediam Samariam et Galilaeam. Et, cum ingrederetur quoddam castellum, occurrerunt ei decem viri leprosi, qui steterunt a longe, et levaverunt vocem dicentes: «Iesu praeceptor, miserere nostri». Quos ut vidit, dixit: «Ite, ostendite vos sacerdotibus». Et factum est dum irent mundati sunt.
+
+Unus autem ex illis, ut vidit quia sanatus est, regressus est cum magna voce magnificans Deum, et cecidit in faciem ante pedes eius gratias agens ei: et hic erat Samaritanus.
+
+Respondens autem Iesus dixit: «Nonne decem mundati sunt? Et novem ubi sunt? Non sunt inventi qui redirent ut darent gloriam Deo nisi hic alienigena?» Et ait illi: «Surge, vade: fides tua te salvum fecit».
+'''
+
+# igenaptár 2026-11-11 (the weekday's set).
+[faithful]
+intro = "Imádkozzunk Urunkhoz, Istenünkhöz, hogy segítse és oltalmazza Egyházát, amelyért szent Fia életét áldozta!"
+response = "Kérünk téged, hallgass meg minket!"
+petitions = [
+  "Krisztus Egyházának egységéért, békéjéért és szüntelen növekedéséért, kérjük Urunkat!",
+  "Az Egyház pásztoraiért: a Szentatyáért, a püspökökért és papokért, kérjük Urunkat!",
+  "A hívek közösségéért: a családokért, a szülőkért és a gyermekekért, az öregekért és a betegekért, kérjük Urunkat!",
+  "A hűségesekért, hogy a jó úton maradjanak, kérjük Urunkat!",
+  "A bűnösökért, hogy bűnbánatot tartsanak és megtérjenek, kérjük Urunkat!",
+  { note = "Ha a szentmisét elhunytért mutatják be:", text = "Elhunyt N. testvérünkért (nővérünkért), hogy Jézus kegyelméből a földi élet után Isten örök országába eljusson, kérjük Urunkat!" },
+]
+conclusion = "Üdvözítő Istenünk, add, hogy a föld sója és a világ világossága legyünk és így hiteles tanúságot tegyünk rólad az emberek előtt. Krisztus, a mi Urunk által."
