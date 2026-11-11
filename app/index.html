@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="theme-color" content="#a3171b">
 <meta name="color-scheme" content="light dark">
-<meta name="build" content="50c0c7f8ab">
+<meta name="build" content="90b499c7be">
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="icon" href="icon-192.png">
 <link rel="apple-touch-icon" href="apple-touch-icon.png">
@@ -171,11 +171,13 @@ body.empty .next-para { display: none; }
 </style>
 <style>
 /* Alternatives inside one slot (greeting, prayers, antiphons, readings, Creed, text for a deceased
-   person): a row of small buttons above the text, one per alternative, the shown one marked. */
-.vbtns { gap: .3rem; }
-.vbtns button { font: inherit; font-family: var(--f-cap); font-size: .7em; letter-spacing: .03em; line-height: 1.2;
-  color: var(--muted); background: none; border: 1px solid var(--line); border-radius: 999px; padding: .2rem .65rem; cursor: pointer; }
-.vbtns button[aria-pressed="true"] { color: var(--rubric); border-color: var(--rubric); }
+   person): a row of small dots above the text, one per alternative (no text), the shown one filled. */
+.vbtns { gap: 0; margin: .5rem 0 .3rem -.45rem; }
+/* a dot per alternative, no text; the tap area is larger than the dot */
+.vbtns button { width: 1.6rem; height: 1.6rem; padding: 0; border: 0; background: none; cursor: pointer; border-radius: 50%; }
+.vbtns button::before { content: ""; display: block; width: .55rem; height: .55rem; margin: auto; border-radius: 50%;
+  border: 1.5px solid var(--muted); opacity: .7; box-sizing: border-box; }
+.vbtns button[aria-pressed="true"]::before { background: var(--rubric); border-color: var(--rubric); opacity: 1; }
 .vbtns button:focus-visible { outline: 2px solid var(--rubric); outline-offset: 2px; }
 .notice .jump { margin: .6rem 0 0; }
 .notice { max-width: 36rem; margin: 1rem auto 0; padding: .6rem .8rem; background: var(--chip); border-radius: 10px; font-size: .85em; color: var(--muted); text-align: center; }

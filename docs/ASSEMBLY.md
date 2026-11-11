@@ -157,7 +157,7 @@ the rubric also allows (user, 2026-10-28: Eucharist votive → formula A, not Ú
 **Choices in the app** — every set of alternatives (greeting, prayers, antiphons, readings, preface,
 Eucharistic prayer, Creed, the text for a deceased person) has its first option selected, and the
 same control in the Latin section; both stay in step. The preface and the Eucharistic prayer are
-dropdowns; every other choice is a row of small buttons above the text, one per alternative
+dropdowns; every other choice is a row of small dot buttons (no text) above the text, one per alternative
 (user, 2026-11-11; the earlier sideways swipe was removed). The greeting offers the three
 forms, "Az Úr legyen veletek / Dóminus vobíscum" first (user, 2026-11-08). The "Elhunytért" buttons
 stand just before the text that changes.

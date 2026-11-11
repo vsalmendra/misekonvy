@@ -165,7 +165,7 @@ def opt_label(o, i):
 # ---------- choice controls ----------
 # The preface and the Eucharistic prayer are chosen from a dropdown; every other set of alternatives
 # (greeting, prayers, antiphons, readings, Creed, the text for a deceased person) from a row of small
-# buttons above the text, one per alternative (user, 2026-11-11). Both carry data-sel=<group>; the app
+# buttons above the text, one per alternative, without text (dots; user, 2026-11-11). Both carry data-sel=<group>; the app
 # keeps all controls of a group (Hungarian part, Latin section) in step.
 DROPDOWN = ('pref', 'ep')
 
@@ -176,8 +176,9 @@ def picker(group, sid, label, items, default, la=False):
     if group in DROPDOWN:
         sel = ''.join(f'<option value="{k}"{" selected" if k == default else ""}>{esc(lab)}</option>' for k, lab in items)
         return f'<div class="{cls}"><label for="{sid}">{label}</label><select id="{sid}" data-sel="{group}">{sel}</select></div>'
-    btn = ''.join(f'<button type="button" value="{k}" aria-pressed="{"true" if k == default else "false"}">{esc(lab)}</button>'
-                  for k, lab in items)
+    # No visible text (user, 2026-11-11): small dots; the variant's name is the button's accessible name.
+    btn = ''.join(f'<button type="button" value="{k}" aria-pressed="{"true" if k == default else "false"}" '
+                  f'aria-label="{esc(lab)}" title="{esc(lab)}"></button>' for k, lab in items)
     return f'<div class="{cls} vbtns" id="{sid}" data-sel="{group}" role="group" aria-label="{esc(label)}">{btn}</div>'
 
 
