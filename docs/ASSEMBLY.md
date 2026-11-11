@@ -155,19 +155,20 @@ I by default; readings ferial unless the user asks for the lectionary for the de
 the rubric also allows (user, 2026-10-28: Eucharist votive → formula A, not Úrnapja); readings ferial.
 
 **Choices in the app** — every set of alternatives (greeting, prayers, antiphons, readings, preface,
-Eucharistic prayer, Creed, the text for a deceased person) is a dropdown, the first option selected,
-with the same dropdown in the Latin section; both stay in step. Swiping such a text sideways goes to
-the next / previous option (animated; the other language follows). The greeting offers the three
-forms, "Az Úr legyen veletek / Dóminus vobíscum" first (user, 2026-11-08). The "Elhunytért" dropdown
-stands just before the text that changes.
+Eucharistic prayer, Creed, the text for a deceased person) has its first option selected, and the
+same control in the Latin section; both stay in step. The preface and the Eucharistic prayer are
+dropdowns; every other choice is a row of small buttons above the text, one per alternative
+(user, 2026-11-11; the earlier sideways swipe was removed). The greeting offers the three
+forms, "Az Úr legyen veletek / Dóminus vobíscum" first (user, 2026-11-08). The "Elhunytért" buttons
+stand just before the text that changes.
 
-**Creed** — where `creed = true`, a dropdown "Hitvallás" offers the Nicene–Constantinopolitan Creed
+**Creed** — where `creed = true`, buttons "Hitvallás" offer the Nicene–Constantinopolitan Creed
 (default) and the Apostles' Creed (`creed_apostles` in `ordo.toml` / `ordo-latin.toml`; user, 2026-11-08).
 
 **Eucharistic prayers for a deceased person** — EP II and III carry the missal's text for Masses for
 the dead (`dead_at`, `dead_replace`, `dead_rubric`, `dead_text`, `dead_la` in `eucharistic-prayers.toml`:
 EP II adds a paragraph, EP III replaces "Elhunyt testvéreinket pedig…"). Every Mass gets an
-"Elhunytért" dropdown at the top of these prayers (Hungarian and Latin, in step); the default is the
+"Elhunytért" choice just before the text that changes (Hungarian and Latin, in step); the default is the
 ordinary text (user, 2026-11-08). EP I and IV have no such text.
 
 **Prefaces** — the dropdown always offers, after the day's suggestions, the own prefaces of

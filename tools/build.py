@@ -153,25 +153,41 @@ def opts_of(value, slot, names):
     return [resolve(o, slot, names) for o in (value if isinstance(value, list) else [value])]
 
 
-# Alternatives of one slot (several prayers or antiphons, two sets of readings …): a dropdown, the first
-# option selected, like the preface and Eucharistic prayer dropdowns. The Latin section has the same
-# dropdown (group "<group>", ids sel-<group> / sel-<group>-la); both and the texts of both languages
+# Alternatives of one slot (several prayers or antiphons, two sets of readings …): buttons (see picker), the first
+# option selected, one per alternative. The Latin section has the same
+# buttons (group "<group>", ids sel-<group> / sel-<group>-la); both and the texts of both languages
 # follow each other. Swiping a text sideways in the app also moves to the next / previous option.
 
 def opt_label(o, i):
     return o.get('label') or f'{i + 1}. változat'
 
 
+# ---------- choice controls ----------
+# The preface and the Eucharistic prayer are chosen from a dropdown; every other set of alternatives
+# (greeting, prayers, antiphons, readings, Creed, the text for a deceased person) from a row of small
+# buttons above the text, one per alternative (user, 2026-11-11). Both carry data-sel=<group>; the app
+# keeps all controls of a group (Hungarian part, Latin section) in step.
+DROPDOWN = ('pref', 'ep')
+
+
+def picker(group, sid, label, items, default, la=False):
+    """items: (value, label) pairs."""
+    cls = 'choice' + (' bi-full' if la else '')
+    if group in DROPDOWN:
+        sel = ''.join(f'<option value="{k}"{" selected" if k == default else ""}>{esc(lab)}</option>' for k, lab in items)
+        return f'<div class="{cls}"><label for="{sid}">{label}</label><select id="{sid}" data-sel="{group}">{sel}</select></div>'
+    btn = ''.join(f'<button type="button" value="{k}" aria-pressed="{"true" if k == default else "false"}">{esc(lab)}</button>'
+                  for k, lab in items)
+    return f'<div class="{cls} vbtns" id="{sid}" data-sel="{group}" role="group" aria-label="{esc(label)}">{btn}</div>'
+
+
 def alt_select(group, opts, la=False, label='Változat'):
     sid = f'sel-{group}' + ('-la' if la else '')
-    sel = ''.join(f'<option value="{i}"{" selected" if i == 0 else ""}>{esc(opt_label(o, i))}</option>'
-                  for i, o in enumerate(opts))
-    return (f'<div class="choice{" bi-full" if la else ""}"><label for="{sid}">{label}</label>'
-            f'<select id="{sid}" data-sel="{group}">{sel}</select></div>')
+    return picker(group, sid, label, [(str(i), opt_label(o, i)) for i, o in enumerate(opts)], '0', la)
 
 
 def options(opts, render, group, label='Változat'):
-    """Render one slot (Hungarian): one option as it is; several with a dropdown, the first selected."""
+    """Render one slot (Hungarian): one option as it is; several with buttons, the first selected."""
     if len(opts) == 1:
         return render(opts[0])
     return alt_select(group, opts, label=label) + variants(group, [(str(i), render(o)) for i, o in enumerate(opts)], '0')
@@ -184,7 +200,7 @@ def la_missing(o):
 
 
 def bi_options(group, opts, render):
-    """Latin section of a slot: the same dropdown and one block per alternative."""
+    """Latin section of a slot: the same buttons and one block per alternative."""
     if len(opts) == 1:
         return render(opts[0])
     return alt_select(group, opts, la=True) + variants(group, [(str(i), render(o)) for i, o in enumerate(opts)], '0')
@@ -400,23 +416,20 @@ def mark_ep_html(h):
 
 # ---------- Eucharistic prayers in Masses for the dead ----------
 # EP II and III have a text for a deceased person (eucharistic-prayers.toml: dead_at, dead_replace,
-# dead_rubric, dead_text, dead_la). A dropdown "Elhunytért" at the top of the prayer chooses it; the
-# default is the ordinary text. All these dropdowns (EP II and III, Hungarian and Latin section) are
-# one group ("dead"), so they stay in step, like the preface and EP dropdowns.
+# dead_rubric, dead_text, dead_la). Buttons "Elhunytért" just before the text that changes chooses it; the
+# default is the ordinary text. All these button rows (EP II and III, Hungarian and Latin section) are
+# one group ("dead"), so they stay in step, like the other choices.
 
 DEAD_OPTS = [('normal', 'Szokásos szöveg'), ('dead', 'Gyászmisében, elhunytért')]
 
 
 def dead_chooser(k, la=False):
     sid = f'sel-dead-{k}' + ('-la' if la else '')
-    opts = ''.join(f'<option value="{v}"{" selected" if v == "normal" else ""}>{lab}</option>' for v, lab in DEAD_OPTS)
-    return (f'<div class="choice{" bi-full" if la else ""}"><label for="{sid}">'
-            f'{"Pro defunctis · Elhunytért" if la else "Elhunytért"}</label>'
-            f'<select id="{sid}" data-sel="dead">{opts}</select></div>')
+    return picker('dead', sid, 'Pro defunctis · Elhunytért' if la else 'Elhunytért', DEAD_OPTS, 'normal', la)
 
 
 def with_dead(ep, blocks, dead, chooser_html):
-    """blocks: one HTML block per paragraph of the prayer; puts the dropdown and the dead variant at the
+    """blocks: one HTML block per paragraph of the prayer; puts the buttons and the dead variant at the
     place where the text changes (just before it)."""
     i = ep['dead_at']
     normal = blocks[i] if ep['dead_replace'] else ''
@@ -482,16 +495,13 @@ def mark_first(h, hu, la):
 # ---------- preface / Eucharistic prayer choosers ----------
 
 def chooser(group, label, items, default):
-    sel = ''.join(f'<option value="{k}"{" selected" if k == default else ""}>{esc(lab)}</option>' for k, lab, _ in items)
-    return (f'<div class="choice"><label for="sel-{group}">{label}</label><select id="sel-{group}" data-sel="{group}">{sel}</select></div>'
+    return (picker(group, f'sel-{group}', label, [(k, lab) for k, lab, _ in items], default)
             + variants(group, [(k, body) for k, _, body in items], default))
 
 
 def la_chooser(group, label, items, default):
-    """The same choice inside the Latin section (kept in step with the Hungarian dropdown)."""
-    sel = ''.join(f'<option value="{k}"{" selected" if k == default else ""}>{esc(lab)}</option>' for k, lab in items)
-    return (f'<div class="choice bi-full"><label for="sel-{group}-la">{label}</label>'
-            f'<select id="sel-{group}-la" data-sel="{group}">{sel}</select></div>')
+    """The same choice inside the Latin section (kept in step with the Hungarian one)."""
+    return picker(group, f'sel-{group}-la', label, items, default, la=True)
 
 
 def variants(group, items, default):

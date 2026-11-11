@@ -80,50 +80,46 @@ async function open(day, path = '', { blockCalendar = false, blockOrdinary = fal
     ps.filter(p => !p.closest('[hidden]')).map(p => p.textContent).join(' '));
   const before = await deadVisible();
   check(before.includes('Elhunyt testvéreinket pedig') && !before.includes('N. szolgádról'), 'EP III: the ordinary text by default');
-  await t.page.selectOption('#sel-dead-3', 'dead');
+  await t.page.click('#sel-dead-3 button[value="dead"]');
   const after = await deadVisible();
-  const laSync = await t.page.$eval('#sel-dead-3-la', s => s.value);
+  const laSync = await t.page.$eval('#sel-dead-3-la button[aria-pressed="true"]', b => b.value);
   const laText = await t.page.$$eval('#latin .variants[data-group="ep"] > .variant[data-opt="3"] p', ps =>
     ps.filter(p => !p.closest('[hidden]')).map(p => p.textContent).join(' '));
   check(after.includes('Emlékezzél meg N. szolgádról') && !after.includes('Elhunyt testvéreinket pedig') && laSync === 'dead' && laText.includes('Meménto fámuli tui'),
     'EP III "Elhunytért": the text for the deceased replaces the paragraph, Latin section follows');
-  await t.page.selectOption('#sel-dead-3', 'normal');
+  await t.page.click('#sel-dead-3 button[value="normal"]');
   // The "Elhunytért" dropdown stands just before the text that changes, not at the top of the prayer.
-  const deadPlace = await t.page.$eval('#sel-dead-3', s => s.closest('.choice').nextElementSibling?.matches('.variants[data-group="dead"]'));
-  check(deadPlace, '"Elhunytért" dropdown just before the text that changes');
+  const deadPlace = await t.page.$eval('#sel-dead-3', s => s.nextElementSibling?.matches('.variants[data-group="dead"]'));
+  check(deadPlace, '"Elhunytért" buttons just before the text that changes');
   // Greeting: three forms, "Az Úr legyen veletek" by default; the Latin section follows.
   const greet = await t.page.$$eval('#r1 .variants[data-group="greet"] > .variant:not([hidden]) p', ps => ps.map(p => p.textContent).join(' '));
   const greetLa = await t.page.$$eval('#latin .variants[data-group="greet"] > .variant:not([hidden]) p', ps => ps.map(p => p.textContent).join(' '));
-  const greetN = await t.page.$$eval('#sel-greet option', o => o.length);
+  const greetN = await t.page.$$eval('#sel-greet button', o => o.length);
   check(greet.startsWith('Az Úr legyen veletek.') && greetLa.includes('Dóminus vobíscum.') && greetN === 3, `greeting: "Az Úr legyen veletek" by default, ${greetN} forms`);
-  // Swipe left on the preface text: the next preface, in both languages, with the dropdowns in step.
-  const swipeOn = async (sel, dx) => t.page.evaluate(([sel, dx]) => {
-    const el = document.querySelector(sel), r = el.getBoundingClientRect(), x = r.left + r.width / 2, y = r.top + 5;
-    const touch = (cx) => new Touch({ identifier: 1, target: el, clientX: cx, clientY: y });
-    el.dispatchEvent(new TouchEvent('touchstart', { bubbles: true, touches: [touch(x)], changedTouches: [touch(x)] }));
-    for (let i = 1; i <= 5; i++) el.dispatchEvent(new TouchEvent('touchmove', { bubbles: true, touches: [touch(x + dx * i / 5)], changedTouches: [touch(x + dx * i / 5)] }));
-    el.dispatchEvent(new TouchEvent('touchend', { bubbles: true, touches: [], changedTouches: [touch(x + dx)] }));
-  }, [sel, dx]);
-  const prefSel = () => t.page.$eval('#sel-pref', s => s.selectedIndex);
-  const p0 = await prefSel();
-  await t.page.evaluate(() => window.scrollTo(0, document.querySelector('#r3 .variants[data-group="pref"] > .variant:not([hidden]) p').getBoundingClientRect().top + scrollY - 100));
-  await swipeOn('#r3 .variants[data-group="pref"] > .variant:not([hidden]) p', -150);
-  const p1 = await prefSel(), p1la = await t.page.$eval('#sel-pref-la', s => s.selectedIndex);
-  await swipeOn('#r3 .variants[data-group="pref"] > .variant:not([hidden]) p', 150);
-  const p2 = await prefSel();
-  await swipeOn('#r3 .variants[data-group="pref"] > .variant:not([hidden]) p', 150);
-  const p3 = await prefSel();
-  check(p1 === p0 + 1 && p1la === p1 && p2 === p0 && p3 === p0, `swipe: next preface (${p0}→${p1}, Latin ${p1la}), back (${p2}), no further than the first (${p3})`);
+  // Alternatives other than preface / EP: a row of buttons, the first pressed; a tap switches the text in
+  // both languages and the other row follows. No dropdown for them; no swipe.
+  const pressed = sel => t.page.$eval(sel + ' button[aria-pressed="true"]', b => b.value);
+  const g0 = await pressed('#sel-greet');
+  await t.page.click('#sel-greet button[value="pax"]');
+  const gHu = await t.page.$eval('#r1 .variants[data-group="greet"] > .variant:not([hidden])', v => v.dataset.opt);
+  const gLa = await t.page.$eval('#latin .variants[data-group="greet"] > .variant:not([hidden])', v => v.dataset.opt);
+  const gBtnLa = await pressed('#sel-greet-la');
+  await t.page.click('#sel-greet-la button[value="dv"]');
+  const gBack = await t.page.$eval('#r1 .variants[data-group="greet"] > .variant:not([hidden])', v => v.dataset.opt);
+  const selects = await t.page.$$eval('#mass select[data-sel]', ss => [...new Set(ss.map(s => s.dataset.sel))].sort().join());
+  check(g0 === 'dv' && gHu === 'pax' && gLa === 'pax' && gBtnLa === 'pax' && gBack === 'dv' && selects === 'ep,pref',
+    `buttons switch alternatives in both languages (${g0}→${gHu}/${gLa}, back ${gBack}); dropdowns only for ${selects}`);
+  await t.page.evaluate(() => window.scrollTo(0, 0));
   // Creed (days with it): the Nicene by default, the Apostles' to choose; the Latin section follows.
   if (await t.page.$('#sel-creed')) {
     const creedText = sel => t.page.$$eval(sel + ' .variants[data-group="creed"] > .variant:not([hidden]) p', ps => ps.map(p => p.textContent).join(' '));
     const nic = await creedText('#r2');
-    await t.page.selectOption('#sel-creed', 'apostoli');
+    await t.page.click('#sel-creed button[value="apostoli"]');
     const apo = await creedText('#r2'), apoLa = await creedText('#latin');
     check(nic.includes('Hiszek az egy Istenben') && apo.includes('Hiszek egy Istenben') && !apo.includes('egylényegű') &&
-      apoLa.includes('Credo in Deum Patrem') && await t.page.$eval('#sel-creed-la', s => s.value) === 'apostoli',
+      apoLa.includes('Credo in Deum Patrem') && await pressed('#sel-creed-la') === 'apostoli',
       'Creed: Nicene by default, the Apostles\' Creed selectable, Latin section follows');
-    await t.page.selectOption('#sel-creed', 'nicea');
+    await t.page.click('#sel-creed button[value="nicea"]');
   }
   // The date picker offers exactly the days in the calendar.
   await t.page.click('#menu-fab'); await t.page.click('#pick-date');
