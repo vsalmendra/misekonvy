@@ -1,0 +1,173 @@
+# Recipe: src/masses/2026-11-12.md
+date = "2026-11-12"
+title = "Szent Jozafát püspök és vértanú"
+day = "32. évközi hét csütörtöke · emléknap"
+rank = "piros színben"
+gloria = false
+creed = false
+eucharistic_prayer = 2
+prefaces = ["vertanuk", "lelkipasztorok"]
+mass_type = "Vértanúk közös miséje (6. egy vértanú) · saját könyörgésekkel"
+names = [["Szent N.", "Szent Jozafát"]]
+la_names = [["mártyris N.", "mártyris Iósaphat"], ["sancti N.", "sancti Iósaphat"]]
+
+# The 1991 missal, 12 November: "Vértanúk miséje, 726. vagy lelkipásztorok, püspökök miséje, 735."
+# + own collect, prayer over the offerings, prayer after communion. 1977 Latin: "De Communi martyrum,
+# p. 839" (= 6. Pro uno martyre) - its antiphons.
+entrance = "@vertanuk/egy-vertanu-6"
+communion = "@vertanuk/egy-vertanu-6"
+
+[collect]
+source = "Római Misekönyv 1991 (PPEK 335), november 12., 628. o.; latin: Missale Romanum cum lectionibus 1977, IV, 769. o."
+text = '''
+Urunk, Istenünk,
+add, hogy elevenen munkálkodjék Egyházadban a Szentlélek,
+akivel betelve Szent Jozafát püspök
+életét adta övéiért.
+Közbenjárására erősíts meg minket is Szentlelkeddel,
+hogy készséggel adjuk akár életünket is testvéreinkért.
+A mi Urunk, Jézus Krisztus, a te Fiad által,
+aki veled él és uralkodik a Szentlélekkel egységben,
+Isten mindörökkön örökké.
+'''
+la = '''
+Excita, quaesumus, Domine,
+in Ecclesia tua Spiritum, quo repletus
+beatus Iosaphat animam suam pro ovibus posuit,
+ut, eo intercedente,
+nos quoque eodem Spiritu roborati,
+animam nostram pro fratribus
+ponere non vereamur.
+Per Dominum nostrum Iesum Christum, Filium tuum,
+qui tecum vivit et regnat in unitate Spiritus Sancti,
+Deus, per omnia saecula saeculorum.
+'''
+
+# Hungarian: the 1991 missal's text for the day (= the common of martyrs 7, first offertory, with the
+# name); Latin: that common prayer (1977, IV, p. 841) with the name.
+[offertory]
+text = '''
+Jóságos Istenünk, add áldásodat felajánlott adományainkra,
+és erősíts meg minket abban a hitben,
+amelyet Szent Jozafát püspök vére hullásával megpecsételt.
+Krisztus, a mi Urunk által.
+'''
+la = '''
+Clementissime Deus,
+munera haec tua benedictione perfunde
+et nos in fide confirma,
+quam beatus Iosaphat effuso sanguine asseruit.
+Per Christum Dominum nostrum.
+'''
+
+# Latin not in the 1977 edition (only the collect is proper there); the Missale Romanum 2002 text
+# not available yet.
+[postcommunion]
+text = '''
+Istenünk, adja meg nekünk ez a mennyei asztal
+a lelkierősséget és a békés lelkületet,
+hogy Szent Jozafát püspök példájára
+életünket készségesen áldozzuk
+az Egyház becsületéért és egységéért.
+Krisztus, a mi Urunk által.
+'''
+
+[reading1]
+label = "Szentlecke"
+sub = "Szent Pál apostolnak Filemonhoz írt leveléből"
+summary = "Az apostol arra kéri Filemont, hogy szökött rabszolgáját, aki időközben keresztény lett, úgy fogadja, mint szeretett testvérét."
+cite = "Filem 7-20"
+la_sub = "Lectio Epistolae beati Pauli apostoli ad Philemonem"
+text = '''
+Szeretett Testvérem!
+
+Nagy örömmel és vigasztalással töltött el, amit szeretetedről hallottam, mert megnyugvást szereztél a hívek szívének. Ezért – bár Jézus Krisztusra hivatkozva meg is parancsolhatnám azt, ami úgyis kötelességed, mégis – a szeretet alapján inkább kérlek, én, az öreg Pál, aki most Krisztus Jézusért fogságot szenvedek. Fiamért, Onezimuszért könyörgök, akinek bilincseimben én adtam életet (Krisztusban). Egykor haszontalan volt számodra, most azonban számodra is, számomra is hasznos. Úgy küldöm vissza hozzád, mint saját szívemet. Szerettem volna magam mellett tartani, hogy helyetted szolgáljon nekem fogságomban, amelyet az evangéliumért viselek.
+
+Beleegyezésed nélkül azonban mégsem teszem, hogy jótéteményed ne kényszerből fakadjon, hanem önként vállald. Talán éppen azért hagyott ott egy időre, hogy egyszer s mindenkorra visszakapjad, de már nem mint szolgát, hanem többet: mint szeretett testvért. Mert nekem teljesen az, de neked még inkább: test szerint is, az Úrban is.
+
+Ha tehát együtt érzel velem, fogadd őt úgy, mint engem. Amennyiben pedig megkárosított vagy tartozik valamivel, írd az én terhemre. Én, Pál – saját kezűleg írom – én térítem meg. Arról nem is szólok, hogy önmagaddal is nekem tartozol. Bizony, így van ez, testvér! Szeretném, ha örömömre szolgálnál az Úrban. Teljesítsd hát szívem vágyát Krisztusban!
+'''
+la = '''
+Carissime:
+
+Gaudium magnum habui et consolationem in caritate tua, quia viscera sanctorum requieverunt per te, frater. Propter quod multam fiduciam habens in Christo imperandi tibi quod ad rem pertinet, propter caritatem magis obsecro, cum sim talis ut Paulus senex, nunc autem et vinctus Christi Iesu. Obsecro te de meo filio, quem genui in vinculis, Onesimo, qui tibi aliquando inutilis fuit, nunc autem et tibi et mihi utilis, quem remisi tibi, eum, hoc est viscera mea; quem ego volueram mecum detinere, ut pro te mihi ministraret in vinculis Evangelii.
+
+Sine consilio autem tuo nihil volui facere, uti ne velut ex necessitate bonum tuum esset sed voluntarium. Forsitan enim ideo discessit ad horam ut aeternum illum reciperes, iam non ut servum sed plus servo, carissimum fratrem, maxime mihi, quanto autem magis tibi et in carne et in Domino.
+
+Si ergo habes me socium, suscipe illum sicut me. Si autem aliquid nocuit tibi aut debet, hoc mihi imputa; ego Paulus scripsi mea manu, ego reddam; ut non dicam tibi quod et te ipsum mihi debes. Ita, frater, ego te fruar in Domino; refice viscera mea in Christo.
+'''
+
+[psalm]
+cite = "Zsolt 145,7-10"
+response = "Boldog az az ember, akinek segítője Jákob Istene! – Vagy: Alleluja."
+la_response = "Beatus cuius Deus Iacob est adiutor. – Vel: Alleluia."
+verses = [
+'''
+Isten igaz marad örökké,
+az elnyomottaknak igazságot szolgáltat.
+Az éhezőknek ő ad kenyeret,
+kiszabadítja az Úr a foglyokat.
+''', '''
+Az Úr megnyitja a vakok szemét,
+és fölemeli azt, aki elesett.
+Az Úr szereti az igaz embert,
+a jövevényt megvédi.
+''', '''
+Az Úr támogatja az árvát és özvegyet,
+és elpusztítja a gonoszok útját.
+Az Úr uralkodik örökké,
+a te Istened, ó, Sión, nemzedékről nemzedékre.
+''']
+la_verses = [
+'''
+Qui custodit veritatem in saeculum,
+facit iudicium oppressis,
+dat escam esurientibus.
+Dominus solvit compeditos.
+''', '''
+Dominus illuminat caecos,
+Dominus erigit depressos,
+Dominus diligit iustos,
+Dominus custodit advenas.
+''', '''
+Pupillum et viduam sustentat,
+et viam peccatorum disperdit.
+Regnabit Dominus in saecula,
+Deus tuus, Sion,
+in generationem et generationem.
+''']
+
+[alleluia]
+cite = "Vö. Jn 15,5"
+text = "Jézus mondja: „Én vagyok a szőlőtő, ti pedig a szőlővesszők. Aki bennem marad, és én őbenne, az bő termést hoz.”"
+la = "Ego sum vitis, vos palmites, dicit Dominus. Qui manet in me, et ego in eo, hic fert fructum multum."
+
+[gospel]
+book = "Szent Lukács"
+la_book = "Lucam"
+summary = "Isten országa bennünk jön el."
+cite = "Lk 17,20-25"
+text = '''
+A farizeusok egyszer megkérdezték Jézustól, mikor jön el az Isten országa. Ő ezt válaszolta: „Isten országa nem jön el szembetűnő módon. Nem lehet azt mondani: »Nézd itt van, vagy amott!« Isten országa köztetek van.”
+
+Azután tanítványaihoz fordult: „Jönnek napok, amikor az Emberfiának egyetlen napját is szívesen látnátok, de nem látjátok. Mondják majd nektek: »Nézzétek, itt van, vagy amott!« Oda ne menjetek, és ne higgyétek! Mert ahogy a cikázó villám az ég egyik felétől a másikig villan, úgy jön el azon a napon az Emberfia is. Előbb azonban sokat kell szenvednie, és megvetésben kell részesülnie ettől a nemzedéktől.”
+'''
+la = '''
+In illo tempore: Interrogatus Iesus a Pharisaeis, quando venit Regnum Dei, respondit eis et dixit: «Non venit Regnum Dei cum observatione, neque dicent: “Ecce hic” aut: “Illic”; ecce enim Regnum Dei intra vos est».
+
+Et ait ad discipulos: «Venient dies, quando desideretis videre unum diem Filii hominis et non videbitis. Et dicent vobis: “Ecce hic, ecce illic”; nolite ire neque sectemini. Nam sicut fulgur coruscans de sub caelo in ea quae sub caelo sunt fulget, ita erit Filius hominis in die sua. Primum autem oportet illum multa pati et reprobari a generatione hac».
+'''
+
+# igenaptár 2026-11-12 (the weekday's set).
+[faithful]
+intro = "Testvéreim, áldjuk és magasztaljuk Istent, aki testi és lelki adományaival elhalmoz minket!"
+response = "Kérünk téged, hallgass meg minket!"
+petitions = [
+  "Hogy mindig hálásak legyünk a teremtés és a megváltás gazdag ajándékaiért, kérjük Urunkat!",
+  "Hogy készséges lélekkel fogadjuk a Gondviselés minden rendelkezését, kérjük Urunkat!",
+  "Hogy Isten és a felebarát szeretete irányítsa gondolatainkat, érzéseinket és cselekedeteinket, kérjük Urunkat!",
+  "Hogy az irigységet és az önzést, a haragot és a gyűlölködést tartsa távol tőlünk, kérjük Urunkat!",
+  "Hogy a munkásoknak munkát, az éhezőknek kenyeret, a szomorúaknak vigaszt, és minden embernek üdvösséget adjon, kérjük Urunkat!",
+  { note = "Ha a szentmisét elhunytért mutatják be:", text = "Hogy elhunyt N. testvérünket (nővérünket), hozzátartozóinkat és jótevőinket fogadja be a szentek boldog társaságába, kérjük Urunkat!" },
+]
+conclusion = "Jóságos, mennyei Atyánk! Hittel valljuk, hogy örök szereteteddel te irányítod emberi sorsunkat. Add, hogy életünk minden napján hűségesen szolgáljunk neked. Aki élsz és uralkodol mindörökkön örökké."

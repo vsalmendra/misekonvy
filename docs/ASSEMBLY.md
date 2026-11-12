@@ -142,6 +142,8 @@ feltöltve." beside the first line of the text.
 **Commons available** (`src/library/commons/`): `szentek-altalanos` (Szentek általános miséi 1-6;
 Latin only for 1), `lelkipasztorok` (`papak-puspokok-1`: collect for popes, `collect_b` for
 bishops). Pastors (popes, bishops, priests) → Lelkipásztorok miséi, preface `lelkipasztorok`.
+Martyrs → Vértanúk miséi (`vertanuk.toml`: so far `egy-vertanu-6`, one martyr outside Eastertime), preface
+`vertanuk` (Praefatio I de sanctis Martyribus).
 `elhunytak` (Megemlékező gyászmisék több vagy minden elhunytért: `tobb-c`, `tobb-d`, `tobb-e`;
 `collect_b` / `postcommunion_b` = the "Vagy:"; Latin for all).
 

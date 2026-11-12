@@ -1,0 +1,96 @@
+# Vértanúk miséi (Commune martyrum). Only formula 6 so far.
+# Hungarian: Római Misekönyv 1991 (PPEK 335, Misekonyv_1.pdf), "6. Egy vértanú miséje, húsvéti időn
+# kívül", pp. 665-666. Not yet checked against the new missal; "mindörökkön örökké" without hyphen.
+# Latin (<key>_la): Missale Romanum cum lectionibus 1977, vol. IV, Commune martyrum, "6. Pro uno
+# martyre", pp. 839-841 (archive.org; OCR corrected by hand, no accents; "Per Dominum." / "Per Christum."
+# expanded). offertory_b = the "Vagy:" of the book. "Szent N." / "N." filled per Mass via `names`.
+
+# 6. Egy vértanú miséje, húsvéti időn kívül
+[egy-vertanu-6]
+entrance_cite = ""
+entrance = '''
+Ez a szent halálig küzdött Istenének törvényéért,
+nem félt a gonoszok szavától,
+mert életének alapja szilárd kőszikla volt.
+'''
+entrance_la = '''
+Iste Sanctus pro lege Dei sui certavit usque ad mortem,
+et a verbis impiorum non timuit;
+fundatus enim erat supra firmam petram.
+'''
+collect = '''
+Mindenható, irgalmas Istenünk,
+te Szent N. vértanúnak erőt adtál,
+hogy bátor lélekkel kitartson a szenvedés gyötrelmei között.
+Dicsőséges vértanúságának napján kérünk,
+oltalmazz és segíts győzelemre minket
+az ellenség minden cselvetésével szemben.
+A mi Urunk, Jézus Krisztus, a te Fiad által,
+aki veled él és uralkodik a Szentlélekkel egységben,
+Isten mindörökkön örökké.
+'''
+collect_la = '''
+Omnipotens et misericors Deus,
+qui martyrem tuum N.
+passionis suae tormenta superare fecisti,
+concede, ut, qui eius triumphi diem celebramus,
+insuperabiles tua protectione
+ab hostis insidiis maneamus.
+Per Dominum nostrum Iesum Christum, Filium tuum,
+qui tecum vivit et regnat in unitate Spiritus Sancti,
+Deus, per omnia saecula saeculorum.
+'''
+offertory = '''
+Kérünk, Istenünk,
+áldásoddal szenteld meg ezeket az áldozati adományokat,
+és gyújtsd fel bennünk is szeretetednek tüzét,
+amely által Szent N. úrrá lett minden testi gyötrelmen.
+Krisztus, a mi Urunk által.
+'''
+offertory_la = '''
+Oblata munera, quaesumus, Domine,
+tua benedictione sanctifica,
+quae, te donante,
+nos illa flamma tuae dilectionis accendat,
+per quam sanctus N.
+tormenta sui corporis universa devicit.
+Per Christum Dominum nostrum.
+'''
+offertory_b = '''
+Kérünk, Istenünk, fogadd jó szívvel ezeket az adományokat,
+amelyeket Szent N. vértanúd emlékezetére hoztunk színed elé.
+Legyenek kedvesek Fölséged előtt,
+ahogy az ő kiomló vérét is értékes áldozatul fogadtad.
+Krisztus, a mi Urunk által.
+'''
+offertory_b_la = '''
+Accepta tibi sint, quaesumus, Domine, munera,
+quae in commemoratione beati martyris tui N. deferimus,
+ut eo maiestati tuae sint placita,
+sicut illius effusio sanguinis apud te exstitit pretiosa.
+Per Christum Dominum nostrum.
+'''
+communion_cite = "Mt 16,24"
+communion = '''
+Aki követni akar, tagadja meg magát,
+vegye fel keresztjét és kövessen – mondja az Úr.
+'''
+communion_la = '''
+Qui vult venire post me, abneget semetipsum,
+et tollat crucem suam, et sequatur me, dicit Dominus.
+'''
+postcommunion = '''
+Magunkhoz vettük szent Fiad testét és vérét, Istenünk.
+Kérünk, adja meg a szentáldozás azt a lelki erőt,
+amely Szent N. vértanúdat szolgálatodban hűségessé,
+a szenvedésben pedig diadalmassá tette.
+Krisztus, a mi Urunk által.
+'''
+postcommunion_la = '''
+Praestent nobis, quaesumus, Domine,
+sacra mysteria quae sumpsimus
+eam animi fortitudinem,
+quae beatum N. martyrem tuum
+reddidit in tuo servitio fidelem et in passione victorem.
+Per Christum Dominum nostrum.
+'''
