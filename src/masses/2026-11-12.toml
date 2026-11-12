@@ -7,18 +7,30 @@ gloria = false
 creed = false
 eucharistic_prayer = 2
 prefaces = ["vertanuk", "lelkipasztorok"]
-mass_type = "Vértanúk közös miséje (6. egy vértanú) · saját könyörgésekkel"
+mass_type = "Saját mise (Római Misekönyv, november 12.)"
 names = [["Szent N.", "Szent Jozafát"]]
 la_names = [["mártyris N.", "mártyris Iósaphat"], ["sancti N.", "sancti Iósaphat"]]
 
-# The 1991 missal, 12 November: "Vértanúk miséje, 726. vagy lelkipásztorok, püspökök miséje, 735."
-# + own collect, prayer over the offerings, prayer after communion. 1977 Latin: "De Communi martyrum,
-# p. 839" (= 6. Pro uno martyre) - its antiphons.
-entrance = "@vertanuk/egy-vertanu-6"
-communion = "@vertanuk/egy-vertanu-6"
+# The new missal (Római Misekönyv, 3rd ed. 2021, pp. 744-745): the whole Mass is proper - own
+# antiphons too (the 1991 edition sent to the martyrs' common for them). Latin of the antiphons: not in
+# the 1977 edition (new in the Missale Romanum 2002), not available yet.
+[entrance]
+cite = ""
+text = '''
+Az Úr szövetségéért és az atyák törvényeiért
+Isten szentjei kitartottak a testvéri szeretetben:
+mert egy szívvel-lélekkel egyek voltak a hitben.
+'''
+
+[communion]
+cite = "Mt 10,39"
+text = '''
+Aki elveszíti életét énértem – mondja az Úr –,
+megtalálja azt.
+'''
 
 [collect]
-source = "Római Misekönyv 1991 (PPEK 335), november 12., 628. o.; latin: Missale Romanum cum lectionibus 1977, IV, 769. o."
+source = "Római Misekönyv, 3. kiadás (2021), november 12., 744. o.; latin: Missale Romanum cum lectionibus 1977, IV, 769. o."
 text = '''
 Urunk, Istenünk,
 add, hogy elevenen munkálkodjék Egyházadban a Szentlélek,
@@ -43,7 +55,7 @@ qui tecum vivit et regnat in unitate Spiritus Sancti,
 Deus, per omnia saecula saeculorum.
 '''
 
-# Hungarian: the 1991 missal's text for the day (= the common of martyrs 7, first offertory, with the
+# Hungarian: the new missal's text for the day (= the common of martyrs 7, first offertory, with the
 # name); Latin: that common prayer (1977, IV, p. 841) with the name.
 [offertory]
 text = '''
@@ -64,8 +76,9 @@ Per Christum Dominum nostrum.
 # not available yet.
 [postcommunion]
 text = '''
-Istenünk, adja meg nekünk ez a mennyei asztal
-a lelkierősséget és a békés lelkületet,
+Urunk, Istenünk,
+adja meg nekünk ez a mennyei asztal
+a lelki erősséget és a békés lelkületet,
 hogy Szent Jozafát püspök példájára
 életünket készségesen áldozzuk
 az Egyház becsületéért és egységéért.
