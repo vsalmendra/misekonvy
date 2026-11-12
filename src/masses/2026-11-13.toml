@@ -11,8 +11,8 @@ mass_type = "Szentek általános miséi: több szent (1) · saját könyörgéss
 
 # The new missal (Római Misekönyv, 3rd ed. 2021), November 13, p. 745: "Szentek általános miséi: több
 # szent, 829. o." + own collect. Common: "I. Minden szent, A. Több szent, 1" (pp. 829-830), in the new
-# missal's wording ("(H. i. alleluja)" dropped outside Eastertime). Latin of the common: Missale Romanum
-# cum lectionibus 1977, IV, Commune sanctorum 1, pp. 939-940.
+# missal's wording ("(H. i. alleluja)" dropped outside Eastertime). Latin of the common: Missale Romanum,
+# editio typica tertia (2002), Commune sanctorum, A. Pro pluribus Sanctis 1 (same wording as 1977).
 [entrance]
 cite = "Vö. Zsolt 144,10-11"
 text = '''
@@ -22,9 +22,10 @@ Hirdessék országod dicsőséges,
 és hatalmadról beszéljenek!
 '''
 la = '''
-Confiteantur tibi, Domine, omnia opera tua,
-et Sancti tui benedicant tibi:
-gloriam regni tui dicent, et potentiam tuam loquentur.
+Confiteántur tibi, Dómine, ómnia ópera tua,
+et Sancti tui benedícant tibi:
+glóriam regni tui dicent,
+et poténtiam tuam loquéntur.
 '''
 
 # A Hungarian proper: no Latin.
@@ -51,10 +52,10 @@ a szentek közbenjárásával segíts és oltalmazz minket.
 Krisztus, a mi Urunk által.
 '''
 la = '''
-Preces nostras, Domine, quaesumus, propitiatus admitte,
-et, ut digne tuis famulemur altaribus,
-Sanctorum tuorum nos intercessione custodi.
-Per Christum Dominum nostrum.
+Preces nostras, Dómine, quǽsumus, propitiátus admítte,
+et, ut digne tuis famulémur altáribus,
+Sanctórum tuórum nos intercessióne custódi.
+Per Christum Dóminum nostrum.
 '''
 
 [[communion]]
@@ -64,8 +65,8 @@ text = '''
 az igazak Isten színe előtt.
 '''
 la = '''
-Iusti epulentur, et exsultent in conspectu Dei,
-et delectentur in laetitia.
+Iusti epuléntur, et exsúltent in conspéctu Dei,
+et delecténtur in lætítia.
 '''
 
 [[communion]]
@@ -78,9 +79,11 @@ felövezi magát, asztalhoz ülteti őket,
 aztán megy, és kiszolgálja őket.
 '''
 la = '''
-Beati servi illi, quos, cum venerit Dominus,
-invenerit vigilantes; amen dico vobis, quod praecinget se,
-et faciet illos discumbere, et transiens ministrabit illis.
+Beáti servi illi, quos, cum vénerit Dóminus,
+invénerit vigilántes.
+Amen dico vobis, quod præcínget se,
+et fáciet illos discúmbere,
+et tránsiens ministrábit illis.
 '''
 
 [postcommunion]
@@ -94,13 +97,13 @@ elnyerje az örök élet zálogát.
 Krisztus, a mi Urunk által.
 '''
 la = '''
-Omnipotens sempiterne Deus,
-Pater totius consolationis et pacis,
-praesta familiae tuae in celebritate Sanctorum
-ad laudem tui nominis congregatae,
-ut, per Unigeniti tui sumpta mysteria,
-pignus accipiat redemptionis aeternae.
-Per Christum Dominum nostrum.
+Omnípotens sempitérne Deus,
+Pater totíus consolatiónis et pacis,
+præsta famíliæ tuæ in celebritáte Sanctórum
+ad laudem tui nóminis congregátæ,
+ut, per Unigéniti tui sumpta mystéria,
+pignus accípiat redemptiónis ætérnæ.
+Per Christum Dóminum nostrum.
 '''
 
 [reading1]
