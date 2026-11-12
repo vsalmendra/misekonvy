@@ -86,11 +86,12 @@ content over time. This CLAUDE.md is the source of truth. Claude Code commits an
   - "mindörökkön örökké" without hyphen (new missal p. 734, user's photo 2026-10-31; applied everywhere in `src/library`, `src/masses`).
   - **The user has the new missal** and can send photos of its pages (2026-10-31: All Saints, pp. 734-736). Photos of the new missal are the best source.
   - **Main source from 2026-11-12 (user): the new missal as a PDF** — "Misekonyv_3._kiadas.pdf" (Római Misekönyv, Szent István
-    Társulat 2021, 3rd edition, 14 MB) on the user's Google Drive, file id [link removed]. Use it for every
-    Hungarian text (propers, commons, prefaces, Order of Mass) before the 1991 PPEK edition or igenaptár. Access: the container's
-    network blocks Google Drive (403); the Drive connector's `read_file_content` returns only the front matter (up to the
-    universal norms of the liturgical year), and `download_file_content` refuses files over 10 MB. Needed: the Drive download
-    hosts allowed in the environment's network settings, or the PDF split into parts under 10 MB, or uploaded to the session.
+    Társulat 2021, 3rd edition, 14 MB, 1156 pages) on the user's Google Drive, file id [link removed].
+    Use it for every Hungarian text (propers, commons, prefaces, Order of Mass) before the 1991 PPEK edition or igenaptár.
+    Download (Drive hosts allowed in the environment, 2026-11-12):
+    `curl -sL -o mk3.pdf "https://drive.usercontent.google.com/download?id=[link removed]&export=download&confirm=t"`.
+    The extracted text has "ô/û" for "ő/ű" (font encoding) — map them back; check doubtful words on the page image
+    (`pdftoppm -f N -l N -png`); PDF page = printed page number.
     Extract with `pdftotext -layout` into the scratchpad.
 
 - **Sunday prefaces I–VIII:** `SUNDAY_PREFACES` in `content-2026-10-18-evkozi29.py`.

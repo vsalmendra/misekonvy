@@ -1,0 +1,209 @@
+# Recipe: src/masses/2026-11-13.md
+date = "2026-11-13"
+title = "Magyar szentek és boldogok"
+day = "32. évközi hét péntekje · választható emléknap"
+rank = "fehér színben"
+gloria = false
+creed = false
+eucharistic_prayer = 1
+prefaces = ["szentek-1", "szentek-2"]
+mass_type = "Szentek általános miséi: több szent (1) · saját könyörgéssel"
+
+# The new missal (Római Misekönyv, 3rd ed. 2021), November 13, p. 745: "Szentek általános miséi: több
+# szent, 829. o." + own collect. Common: "I. Minden szent, A. Több szent, 1" (pp. 829-830), in the new
+# missal's wording ("(H. i. alleluja)" dropped outside Eastertime). Latin of the common: Missale Romanum
+# cum lectionibus 1977, IV, Commune sanctorum 1, pp. 939-940.
+[entrance]
+cite = "Vö. Zsolt 144,10-11"
+text = '''
+Magasztaljon téged, Uram, minden műved,
+és szentjeid áldjanak!
+Hirdessék országod dicsőséges,
+és hatalmadról beszéljenek!
+'''
+la = '''
+Confiteantur tibi, Domine, omnia opera tua,
+et Sancti tui benedicant tibi:
+gloriam regni tui dicent, et potentiam tuam loquentur.
+'''
+
+# A Hungarian proper: no Latin.
+[collect]
+source = "Római Misekönyv, 3. kiadás (2021), november 13., 745. o."
+hu_only = true
+text = '''
+Mindenható, örök Isten, te megadtad,
+hogy egy napon ünnepeljük
+a magyar szentek és boldogok dicsőségét.
+Kérünk, hogy sokszoros közbenjárásukra
+áraszd bőven reánk nagy irgalmadat.
+A mi Urunk, Jézus Krisztus, a te Fiad által,
+aki veled él és uralkodik a Szentlélekkel egységben,
+Isten mindörökkön örökké.
+'''
+
+[offertory]
+text = '''
+Kérünk, Urunk, Istenünk,
+fogadd jó szívvel könyörgéseinket,
+és hogy oltárod szolgálatára méltók legyünk,
+a szentek közbenjárásával segíts és oltalmazz minket.
+Krisztus, a mi Urunk által.
+'''
+la = '''
+Preces nostras, Domine, quaesumus, propitiatus admitte,
+et, ut digne tuis famulemur altaribus,
+Sanctorum tuorum nos intercessione custodi.
+Per Christum Dominum nostrum.
+'''
+
+[[communion]]
+cite = "Vö. Zsolt 67,4"
+text = '''
+Örvendenek és ujjonganak
+az igazak Isten színe előtt.
+'''
+la = '''
+Iusti epulentur, et exsultent in conspectu Dei,
+et delectentur in laetitia.
+'''
+
+[[communion]]
+cite = "Lk 12,37"
+text = '''
+Boldogok azok a szolgák,
+akiket az Úr ébren talál, amikor megérkezik.
+Bizony mondom nektek,
+felövezi magát, asztalhoz ülteti őket,
+aztán megy, és kiszolgálja őket.
+'''
+la = '''
+Beati servi illi, quos, cum venerit Dominus,
+invenerit vigilantes; amen dico vobis, quod praecinget se,
+et faciet illos discumbere, et transiens ministrabit illis.
+'''
+
+[postcommunion]
+text = '''
+Mindenható, örök Isten,
+minden vigasztalás és béke Atyja,
+add, hogy házad népe, mely szentjeid ünnepén
+neved dicséretére összegyűlt,
+egyszülött Fiad misztériumaiban részesedve
+elnyerje az örök élet zálogát.
+Krisztus, a mi Urunk által.
+'''
+la = '''
+Omnipotens sempiterne Deus,
+Pater totius consolationis et pacis,
+praesta familiae tuae in celebritate Sanctorum
+ad laudem tui nominis congregatae,
+ut, per Unigeniti tui sumpta mysteria,
+pignus accipiat redemptionis aeternae.
+Per Christum Dominum nostrum.
+'''
+
+[reading1]
+label = "Szentlecke"
+sub = "Szent János apostol második leveléből"
+summary = "Aki hűségesen kitart Krisztus tanítása mellett, az kegyelmi kapcsolatban él Istennel."
+cite = "2Jn 4-9"
+la_sub = "Lectio Epistolae secundae beati Ioannis apostoli"
+text = '''
+Testvéreim!
+
+Igen örültem, hogy olyanokat találtam köztetek, akik az igazság útján járnak, amint az Atya parancsolta nekünk. Most arra kérlek titeket, a közösség tagjait, hogy szeressük egymást. Ezzel nem új parancsot írok nektek, hanem azt, amit már kezdetben kaptunk. A szeretet abban áll, hogy az Úr parancsai szerint cselekedjünk. Parancsa pedig az, amit kezdettől fogva hallottatok: szeretetben éljetek!
+
+Sok hamis tanító lépett fel a világban. Ezek nem vallják, hogy Jézus Krisztus emberi testben jött el közénk. Az ilyen ember: hamis tanító és antikrisztus. Vigyázzatok magatokra, hogy amit már elértetek, el ne veszítsétek, hogy teljes jutalmat kapjatok! Aki eltér Krisztus tanításától, és nem tart ki mellette, az nem mondhatja magáénak Istent. Aki viszont kitart a tanítás mellett, abban él az Atya is, meg a Fiú is.
+'''
+la = '''
+Electa domina, gavisus sum valde quoniam inveni de filiis tuis ambulantes in veritate, sicut mandatum accepimus a Patre. Et nunc rogo te, domina, non tamquam mandatum novum scribens tibi, sed quod habuimus ab initio, ut diligamus alterutrum. Et haec est caritas, ut ambulemus secundum mandata eius; hoc mandatum est, quemadmodum audistis ab initio, ut in eo ambuletis.
+
+Quoniam multi seductores prodierunt in mundum, qui non confitentur Iesum Christum venientem in carnem; hic est seductor et Antichristus. Videte vosmetipsos, ne perdatis quae operati sumus, sed ut mercedem plenam accipiatis. Omnis qui ultra procedit et non manet in doctrina Christi, Deum non habet; qui permanet in doctrina, hic et Patrem et Filium habet.
+'''
+
+[psalm]
+cite = "Zsolt 118,1.2.10.11.17.18"
+response = "Boldogok, akik Isten útján járnak, és törvényét követik."
+la_response = "Beati qui ambulant in lege Domini."
+verses = [
+'''
+Azok a boldogok, akiknek tökéletes az útjuk,
+akik az Úr törvénye szerint élnek.
+Azok a boldogok, akik intelmeit megfogadják,
+és, akik őt keresik teljes szívvel.
+''', '''
+Buzgó szívvel csak téged kereslek,
+ne engedd, hogy parancsaidtól eltérjek.
+Beírtam szívem rejtekébe intéseidet,
+hogy ne vétkezzem ellened.
+''', '''
+Csak légy jó szolgádhoz, és élni fogok,
+és én igédet megtartom.
+Csodáidra nyisd föl szememet,
+hogy csodálhassam törvényeidet.
+''']
+la_verses = [
+'''
+Beati immaculati in via,
+qui ambulant in lege Domini.
+Beati qui servant testimonia eius,
+in toto corde exquirunt eum.
+''', '''
+In toto corde meo exquisivi te,
+ne errare me facias a praeceptis tuis.
+In corde meo abscondi eloquia tua,
+ut non peccem tibi.
+''', '''
+Benefac servo tuo, et vivam,
+et custodiam sermonem tuum.
+Revela oculos meos,
+et considerabo mirabilia de lege tua.
+''']
+
+[alleluia]
+cite = "Lk 21,28"
+text = "Nézzetek föl, és emeljétek föl fejeteket, mert elérkezett megváltástok ideje."
+la = "Respicite et levate capita vestra, quoniam appropinquat redemptio vestra."
+
+[gospel]
+book = "Szent Lukács"
+la_book = "Lucam"
+summary = "Jézus második eljövetele mindenkit személyesen érint."
+cite = "Lk 17,26-37"
+text = '''
+Jézus így beszélt tanítványaihoz második eljöveteléről: „Mint ahogy Noé korában történt, úgy lesz az Emberfia napjaiban is. Ettek, ittak, házasodtak, férjhez mentek addig a napig, amíg Noé be nem szállt a bárkába. Akkor jött a vízözön, és elpusztította valamennyit.
+
+Ugyanígy történt Lót napjaiban is. Ettek és ittak, adtak és vettek, ültettek és építettek. De amelyik napon Lót elhagyta Szodomát, kénköves tűzeső hullott az égből, és elpusztította valamennyit. Ugyanígy lesz azon a napon is, amikor az Emberfia megjelenik.
+
+Aki abban az órában a háztetőn tartózkodik, és holmija van lenn a házban, le ne jöjjön érte, hogy elvigye! Aki a mezőn lesz, haza ne jöjjön! Emlékezzetek Lót feleségére! Aki meg akarja menteni életét, elveszíti azt; aki pedig elveszíti, megmenti azt az (örök) életre.
+
+Mondom nektek; azon az éjszakán ketten lesznek egy fekvőhelyen; az egyiket felveszik, a másikat otthagyják. Két asszony együtt őröl; az egyiket felveszik, a másikat otthagyják. Ketten lesznek a mezőn; az egyiket felveszik, a másikat otthagyják.”
+
+A tanítványok megkérdezték: „Hol lesz ez, Uram?” Azt felelte: „Ahol a holttest van, odagyűlnek a sasok.”
+'''
+la = '''
+In illo tempore: Ait Iesus ad discipulos suos: «Sicut factum est in diebus Noe, ita erit et in diebus Filii hominis: edebant, bibebant, uxores ducebant, dabantur ad nuptias, usque in diem qua intravit Noe in arcam, et venit diluvium et perdidit omnes.
+
+Similiter sicut factum est in diebus Lot: edebant, bibebant, emebant, vendebant, plantabant, aedificabant; qua die autem exiit Lot a Sodomis, pluit ignem et sulphur de caelo et omnes perdidit. Secundum haec erit qua die Filius hominis revelabitur.
+
+In illa die qui fuerit in tecto et vasa eius in domo, ne descendat tollere illa, et qui in agro similiter non redeat retro. Memores estote uxoris Lot. Quicumque quaesierit animam suam salvam facere, perdet illam, et quicumque perdiderit illam, vivificabit eam.
+
+Dico vobis: Illa nocte erunt duo in lecto uno, unus assumetur et alter relinquetur; duae erunt molentes in unum, una assumetur et altera relinquetur».
+
+Respondentes dicunt illi: «Ubi, Domine?» Qui dixit eis: «Ubicumque fuerit corpus, illuc congregabuntur et aquilae».
+'''
+
+# igenaptár 2026-11-13 (the weekday's set).
+[faithful]
+intro = "Imádjuk Krisztus Urunkat, aki kereszthalála által feláldozta magát értünk a mennyei Atyának, hogy megszabadítson minket bűneinktől!"
+response = "Kérünk téged, hallgass meg minket!"
+petitions = [
+  "Urunk, te véred kiontásával szentesítetted az új és örök szövetséget: add, hogy mindig hűségesek maradjunk hozzád!",
+  "Urunk, te vállaltad értünk a szenvedést és a kereszthalált: add, hogy mi se vonakodjunk elfogadni és hordozni életünk keresztjeit!",
+  "Urunk, te megígérted, hogy örök életre szökellő vízforrást ajándékozol nekünk: áraszd ki Szentlelkedet minden emberre!",
+  "Urunk, te elküldted tanítványaidat, hogy hirdessék a kereszt üdvözítő erejét: add, hogy mi is keresztedből merítsünk erőt szenvedéseink elviselésére!",
+  "Urunk, te kereszted és feltámadásod által eltörölted minden vétkünket: add, hogy eltöltsön bennünket a Szentlélek vigasztalása!",
+  { note = "Ha a szentmisét elhunytért mutatják be:", text = "Urunk, te kiérdemelted híveid számára a feltámadást és az örök dicsőséget: add, hogy elhunyt testvéreink elnyerjék ígéreteid teljesülését!" },
+]
+conclusion = "Istenünk, a kereszt botránya megmutatta számunkra örök bölcsességedet és irántunk való végtelen szeretetedet. Engedd, hogy mindig bizakodó lélekkel dicsekedjünk Krisztus keresztjével. Aki él és uralkodik mindörökkön örökké."
