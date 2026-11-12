@@ -85,14 +85,13 @@ content over time. This CLAUDE.md is the source of truth. Claude Code commits an
   - Unverified: St Joseph in EP II–IV.
   - "mindörökkön örökké" without hyphen (new missal p. 734, user's photo 2026-10-31; applied everywhere in `src/library`, `src/masses`).
   - **The user has the new missal** and can send photos of its pages (2026-10-31: All Saints, pp. 734-736). Photos of the new missal are the best source.
-  - **Main source from 2026-11-12 (user): the new missal as a PDF** — "Misekonyv_3._kiadas.pdf" (Római Misekönyv, Szent István
-    Társulat 2021, 3rd edition, 14 MB, 1156 pages) on the user's Google Drive, file id [link removed].
+  - **Main source from 2026-11-12 (user): the new missal as a PDF** (Római Misekönyv, Szent István Társulat 2021,
+    3rd edition, 1156 pages), provided by the user — ask the user for it when a session needs it (its link is not kept here).
     Use it for every Hungarian text (propers, commons, prefaces, Order of Mass) before the 1991 PPEK edition or igenaptár.
-    Download (Drive hosts allowed in the environment, 2026-11-12):
-    `curl -sL -o mk3.pdf "https://drive.usercontent.google.com/download?id=[link removed]&export=download&confirm=t"`.
-    The extracted text has "ô/û" for "ő/ű" (font encoding) — map them back; check doubtful words on the page image
-    (`pdftoppm -f N -l N -png`); PDF page = printed page number.
-    Extract with `pdftotext -layout` into the scratchpad.
+    Extract with `pdftotext -layout` into the scratchpad. The extracted text has "ô/û" for "ő/ű" (font encoding) — map them
+    back; check doubtful words on the page image (`pdftoppm -f N -l N -png`); PDF page = printed page number.
+  - **Ask the user before persisting any source** (user, 2026-11-12): no links, file ids or copies of a source go into the
+    repo (CLAUDE.md, docs, recipes) without the user's explicit OK. Citing book, edition and page in a recipe is fine.
 
 - **Sunday prefaces I–VIII:** `SUNDAY_PREFACES` in `content-2026-10-18-evkozi29.py`.
 
