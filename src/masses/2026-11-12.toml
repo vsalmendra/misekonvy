@@ -12,14 +12,19 @@ names = [["Szent N.", "Szent Jozafát"]]
 la_names = [["mártyris N.", "mártyris Iósaphat"], ["sancti N.", "sancti Iósaphat"]]
 
 # The new missal (Római Misekönyv, 3rd ed. 2021, pp. 744-745): the whole Mass is proper - own
-# antiphons too (the 1991 edition sent to the martyrs' common for them). Latin of the antiphons: not in
-# the 1977 edition (new in the Missale Romanum 2002), not available yet.
+# antiphons too (the 1991 edition sent to the martyrs' common for them). Latin: Missale Romanum,
+# editio typica tertia (2002), 12 November (the user's PDF, 2026-11-12) for every proper of the day.
 [entrance]
 cite = ""
 text = '''
 Az Úr szövetségéért és az atyák törvényeiért
 Isten szentjei kitartottak a testvéri szeretetben:
 mert egy szívvel-lélekkel egyek voltak a hitben.
+'''
+la = '''
+Propter testaméntum Dómini et leges patérnas,
+Sancti Dei perstitérunt in amore fratérnitatis:
+quia unus fuit semper spíritus in eis, et una fides.
 '''
 
 [communion]
@@ -28,9 +33,14 @@ text = '''
 Aki elveszíti életét énértem – mondja az Úr –,
 megtalálja azt.
 '''
+la = '''
+Qui perdíderit ánimam suam propter me,
+dicit Dóminus,
+invéniet eam in ætérnum.
+'''
 
 [collect]
-source = "Római Misekönyv, 3. kiadás (2021), november 12., 744. o.; latin: Missale Romanum cum lectionibus 1977, IV, 769. o."
+source = "Római Misekönyv, 3. kiadás (2021), november 12., 744. o.; latin: Missale Romanum, editio typica tertia (2002), 12 nov."
 text = '''
 Urunk, Istenünk,
 add, hogy elevenen munkálkodjék Egyházadban a Szentlélek,
@@ -43,20 +53,15 @@ aki veled él és uralkodik a Szentlélekkel egységben,
 Isten mindörökkön örökké.
 '''
 la = '''
-Excita, quaesumus, Domine,
-in Ecclesia tua Spiritum, quo repletus
-beatus Iosaphat animam suam pro ovibus posuit,
-ut, eo intercedente,
-nos quoque eodem Spiritu roborati,
-animam nostram pro fratribus
-ponere non vereamur.
-Per Dominum nostrum Iesum Christum, Filium tuum,
-qui tecum vivit et regnat in unitate Spiritus Sancti,
-Deus, per omnia saecula saeculorum.
+Excita, quǽsumus, Dómine, in Ecclésia tua Spíritum,
+quo replétus beátus Iósaphat ánimam suam pro óvibus pósuit,
+ut, eo intercedénte, nos quoque eódem Spíritu roboráti,
+ánimam nostram pro frátribus pónere non vereámur.
+Per Dóminum nostrum Iesum Christum, Fílium tuum,
+qui tecum vivit et regnat in unitáte Spíritus Sancti,
+Deus, per ómnia sǽcula sæculórum.
 '''
 
-# Hungarian: the new missal's text for the day (= the common of martyrs 7, first offertory, with the
-# name); Latin: that common prayer (1977, IV, p. 841) with the name.
 [offertory]
 text = '''
 Jóságos Istenünk, add áldásodat felajánlott adományainkra,
@@ -65,15 +70,13 @@ amelyet Szent Jozafát püspök vére hullásával megpecsételt.
 Krisztus, a mi Urunk által.
 '''
 la = '''
-Clementissime Deus,
-munera haec tua benedictione perfunde
-et nos in fide confirma,
-quam beatus Iosaphat effuso sanguine asseruit.
-Per Christum Dominum nostrum.
+Clementíssime Deus,
+múnera hæc tua benedictióne perfúnde,
+et nos in tua fide confírma,
+quam sanctus Iósaphat effúso sánguine asséruit.
+Per Christum Dóminum nostrum.
 '''
 
-# Latin not in the 1977 edition (only the collect is proper there); the Missale Romanum 2002 text
-# not available yet.
 [postcommunion]
 text = '''
 Urunk, Istenünk,
@@ -83,6 +86,14 @@ hogy Szent Jozafát püspök példájára
 életünket készségesen áldozzuk
 az Egyház becsületéért és egységéért.
 Krisztus, a mi Urunk által.
+'''
+la = '''
+Spíritum, Dómine, fortitúdinis et pacis
+hæc nobis tríbuat mensa cæléstis,
+ut, sancti Iósaphat exémplo, vitam nostram
+ad honórem et unitátem Ecclésiæ
+libénter impendámus.
+Per Christum Dóminum nostrum.
 '''
 
 [reading1]
