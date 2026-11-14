@@ -1,0 +1,127 @@
+# Recipe: src/masses/2026-11-14.md
+date = "2026-11-14"
+title = "Votív mise a Boldogságos Szűz Máriáról"
+day = "32. évközi hét szombatja"
+rank = "fehér színben"
+gloria = false
+creed = false
+eucharistic_prayer = 3
+prefaces = ["maria-1", "maria-2"]
+mass_type = "Szűz Mária miséi (1)"
+# Marian preface I, votive form (new missal p. 777: "votív misékben: és amikor tiszteljük a Boldogságos,
+# mindenkor Szűz Máriát"; MR 2002: "in Missis votivis: Et te in veneratióne").
+names = [["s a Boldogságos, mindenkor szűz Mária N. ünnepén", "és amikor tiszteljük a Boldogságos, mindenkor Szűz Máriát,"]]
+la_names = [["Et te in N. beátæ", "Et te in veneratióne beátæ"]]
+
+# Szűz Mária miséi, I. Évközi időben, 1 (new missal pp. 776-777; Latin MR 2002).
+entrance = "@szuz-maria/1"
+collect = "@szuz-maria/1"
+communion = "@szuz-maria/1"
+postcommunion = "@szuz-maria/1"
+
+# Prayer over the offerings: the new missal gives two ("Vagy"); both offered, the first selected.
+[[offertory]]
+ref = "@szuz-maria/1"
+
+[[offertory]]
+ref = "@szuz-maria/1:offertory_b"
+
+# Readings: of the day (32. évközi hét szombat, II. év), igenaptár = src/cycle/evkozi-32-6-II.json.
+[reading1]
+label = "Szentlecke"
+sub = "Szent János apostol harmadik leveléből"
+summary = "Akik az evangélium hirdetőit segítik, együttműködnek velük az igazság szolgálatában."
+cite = "3Jn 5-8"
+la_sub = "Lectio Epistolae tertiae beati Ioannis apostoli"
+text = '''
+Kedvesem!
+
+Helyesen teszed mindazt, amit a testvéreinkkel, főleg az úton levőkkel cselekszel. Ezek dicsérték szeretetedet a hívek közössége előtt. Jól teszed, ha Istenünkhöz méltóan ezentúl is gondoskodol a továbbutazókról. Hiszen az Úr nevéért keltek útra, és semmit sem fogadnak el a pogányoktól.
+
+Nekünk kell tehát befogadnunk őket, hogy együttműködjünk velük az igazság szolgálatában.
+'''
+la = '''
+Carissime:
+
+Fideliter facis quidquid operaris in fratres et hoc in peregrinos, qui testimonium reddiderunt caritati tuae in conspectu Ecclesiae, bene facies subveniens illis in via digne Deo; pro Nomine enim profecti sunt, nihil accipientes a gentilibus.
+
+Nos ergo debemus sublevare huiusmodi, ut cooperatores simus veritatis.
+'''
+
+[psalm]
+cite = "Zsolt 111,1-6"
+response = "Boldog az az ember, aki az Urat féli. – Vagy: Alleluja."
+la_response = "Beatus vir qui timet Dominum."
+verses = [
+'''
+Boldog ember, aki féli az Urat,
+aki az Úr törvényében örömét leli.
+Hatalmas lesz ivadéka a földön,
+áldott lesz az igazak nemzetsége.
+''', '''
+Dicsőség és gazdagság tölti be házát,
+igazsága örökre megmarad.
+Az igaz világít, mint fény a sötétségben,
+igazságos, jóságos és irgalmas.
+''', '''
+Boldog ember, aki irgalmas, és szívesen ad kölcsön,
+aki a törvény szerint intézi minden dolgát.
+Nem tántorodik meg soha,
+az igaz emléke örökké megmarad.
+''']
+la_verses = [
+'''
+Beatus vir qui timet Dominum,
+in mandatis eius cupit nimis.
+Potens in terra erit semen eius,
+generatio rectorum benedicetur.
+''', '''
+Gloria et divitiae in domo eius,
+et iustitia eius manet in saeculum saeculi.
+Exortum est in tenebris lumen rectis,
+misericors et miserator et iustus.
+''', '''
+Iucundus homo qui miseretur et commodat,
+disponet res suas in iudicio,
+quia in aeternum non commovebitur.
+In memoria aeterna erit iustus.
+''']
+
+[alleluia]
+cite = "2Tessz 2,14"
+text = "Az evangéliumban Isten meghívott minket, hogy Urunk, Jézus Krisztus dicsőségéből részt adjon nékünk."
+la = "Deus vocavit nos per Evangelium, in acquisitionem gloriae Domini nostri Iesu Christi."
+
+[gospel]
+book = "Szent Lukács"
+la_book = "Lucam"
+summary = "Isten meghallgatja azokat, akik őt állhatatosan kérik."
+cite = "Lk 18,1-8"
+text = '''
+Abban az időben: Jézus példabeszédet mondott arról, hogy szüntelenül kell imádkoznunk és nem szabad belefáradnunk. Így szólt: „Az egyik városban élt egy bíró, aki Istentől nem félt és embertől nem tartott. Élt abban a városban egy özvegyasszony is. Ez elment hozzá, és kérte: »Szolgáltass nekem igazságot ellenfelemmel szemben.«
+
+A bíró egy ideig vonakodott, aztán mégis így szólt magában: »Noha Istentől nem félek, embertől nem tartok, de ez az özvegy annyira terhemre van, hogy igazságot szolgáltatok neki, mert a végén még nekem jön és megver.«”
+
+Az Úr így szólt: „Hallottátok, hogy mit mond az igazságtalan bíró. Vajon Isten nem szolgáltat igazságot választottjainak, akik éjjel-nappal hozzá folyamodnak? Talán megvárakoztatja őket? Mondom nektek, hamarosan igazságot szolgáltat nekik. Csak az a kérdés, hogy amikor az Emberfia eljön, talál-e hitet a földön?”
+'''
+la = '''
+In illo tempore: Dicebat Iesus parabolam ad discipulos suos, quoniam oportet semper orare et non deficere, dicens: «Iudex quidam erat in quadam civitate, qui Deum non timebat et hominem non reverebatur. Vidua autem erat in civitate illa et veniebat ad eum dicens: “Vindica me de adversario meo”.
+
+Et nolebat per multum tempus; post haec autem dixit intra se: “Et si Deum non timeo nec hominem revereor, tamen quia molesta est mihi haec vidua, vindicabo illam, ne in novissimo veniens suggillet me”».
+
+Ait autem Dominus: «Audite quid iudex iniquitatis dicit; Deus autem non faciet vindictam electorum suorum clamantium ad se die ac nocte, et patientiam habebit in illis? Dico vobis: Cito faciet vindictam illorum. Verumtamen Filius hominis veniens, putas, inveniet fidem in terra?»
+'''
+
+# igenaptár 2026-11-14 (the weekday's set).
+[faithful]
+intro = "Bizalommal forduljunk Istenhez, aki Máriát, Krisztus anyját fölébe helyezte minden égi és földi teremtménynek!"
+response = "Kérünk téged, hallgass meg minket!"
+petitions = [
+  "Irgalmasság Atyja, köszönjük, hogy a Boldogságos Szűz Máriában égi édesanyát adtál nekünk; add, hogy mindig gyermeki szeretettel ragaszkodjunk hozzá!",
+  "Szűz Mária tanulékony lélekkel figyelt Jézus szavára; add, hogy példája szerint mi is szívünkbe fogadjuk szent Fiad igéit!",
+  "A kereszt alatt álló Máriát megerősítetted a fájdalmak elviselésére; az ő közbenjárására adj erőt nekünk is a kereszt hordozására!",
+  "Szent Fiad feltámadása által örömmel töltötted el Szűz Mária szívét; tölts el minket is a feltámadás reménységével!",
+  "Szűz Máriát testével-lelkével felvetted a mennyei dicsőségbe; földi életünk után add meg nekünk is az örök életet!",
+  { note = "Ha a szentmisét elhunytért mutatják be:", text = "A Boldogságos Szűz Mária a mennyország királynője; az ő közbenjárására fogadd be elhunyt testvéreinket is az örök élet boldogságába!" },
+]
+conclusion = "Add meg, kérünk, mindenható Istenünk, hogy mi, a te híveid, akik a Boldogságos Szűz Mária oltalmában bízunk, anyai közbenjárására minden rossztól megszabaduljunk itt a földön, és az örök élet örömére eljussunk a mennyben. Krisztus, a mi Urunk által."

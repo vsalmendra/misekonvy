@@ -3,7 +3,8 @@
 # pp. 652-659 ("Az alábbi szövegeket mondjuk Szűz Mária szombatján és a Boldogságos Szűz Mária votív
 # miséiben."). Formulas 1-3 carry no season (= Tempore per annum); 4 Advent, 5 Christmas, 6 Eastertime,
 # then "Egyéb könyörgések". Only formula 1 stored so far (pp. 652-653).
-# Not yet checked against the new (2021/2023) Hungarian missal.
+# Formula 1: checked against the new missal and the Missale Romanum 2002 on 2026-11-14 (see its comment);
+# its collect_b is the 1991 "Vagy:" — the new missal has no second collect in formula 1.
 # Latin (<key>_la): Missale Romanum cum lectionibus 1977, vol. IV, Commune beatae Mariae Virginis 1,
 # pp. 800-801 (archive.org, OCR corrected by hand; no accents; "Per Dominum." / "Per Christum." expanded).
 # collect_b = the "Vagy:" of the book (not used: only the first prayer is taken).
@@ -12,10 +13,13 @@
 # `names` / `la_names`.
 
 [1]
+# Hungarian: the new missal (Római Misekönyv, 3rd ed. 2021), Szűz Mária miséi, I. Évközi időben, 1,
+# pp. 776-777 (checked 2026-11-14). Latin: Missale Romanum, editio typica tertia (2002), Commune beatae
+# Mariae Virginis, I. Tempore "per annum", 1. offertory = the new missal's first prayer (= MR 2002
+# "Suscipe"); offertory_b = its "Vagy" (the 1991 edition's only one; Latin: 1977, p. 800 "Unigeniti").
 entrance_cite = "Sedulius"
 entrance = '''
-Üdvöz légy, Szűzanya!
-Te szülted a Királyt,
+Üdvöz légy, Szűzanya! Te szülted a Királyt,
 aki az ég és a föld Ura mindörökkön örökké.
 '''
 collect = '''
@@ -38,39 +42,50 @@ aki veled él és uralkodik a Szentlélekkel egységben,
 Isten mindörökkön örökké.
 '''
 offertory = '''
+Kérünk, Urunk, Istenünk,
+fogadd el néped könyörgését
+és felajánlott áldozati adományait,
+hogy a Boldogságos Szűz Máriának,
+Fiad Szülőanyjának közbenjárására
+senkinek se legyen eredménytelen az imádsága
+és meghallgatás nélküli a kérése.
+Krisztus, a mi Urunk által.
+'''
+offertory_b = '''
 Urunk, Istenünk, segítsen minket szent Fiad,
 aki emberré lett és Szűztől született.
 Ő, aki édesanyjának szűzi épségét nem vette el,
-hanem inkább megszentelte,
-szabadítson meg gyarlóságainktól,
+hanem inkább megszentelte, szabadítson meg gyarlóságainktól,
 és tegye kedvessé előtted áldozatunkat.
 Aki él és uralkodik mindörökkön örökké.
 '''
 communion_cite = "Vö. Lk 11,27"
 communion = '''
-Boldog asszony Szűz Mária:
-méhében hordozta az örök Atya Fiát.
+Boldog a te méhed, Szűz Mária,
+amely magában hordozta az örök Atya Fiát.
 '''
 postcommunion = '''
-Urunk, Istenünk, magunkhoz vettük az égi kenyeret.
+Urunk, Istenünk,
+magunkhoz vettük az égi kenyeret.
 Kérjük kegyelmedet,
 hogy akik Szűz Máriát örvendezve ünnepeljük,
-őt követve mi is méltók legyünk a megváltás művét szolgálni.
+őt követve mi is méltók legyünk
+a megváltás művét szolgálni.
 Krisztus, a mi Urunk által.
 '''
 
 entrance_la = '''
-Salve, sancta Parens, enixa puerpera Regem,
-qui caelum terramque regit in saecula saeculorum.
+Salve, sancta parens, eníxa puérpera Regem,
+qui cælum terrámque regit in sǽcula sæculórum.
 '''
 collect_la = '''
-Concede nos famulos tuos, quaesumus, Domine Deus,
-perpetua mentis et corporis sanitate gaudere,
-et, gloriosa beatae Mariae semper Virginis intercessione,
-a praesenti liberari tristitia, et aeterna perfrui laetitia.
-Per Dominum nostrum Iesum Christum, Filium tuum,
-qui tecum vivit et regnat in unitate Spiritus Sancti,
-Deus, per omnia saecula saeculorum.
+Concéde nos fámulos tuos, quǽsumus, Dómine Deus,
+perpétua mentis et córporis sanitáte gaudére,
+et, gloriósa beátæ Maríæ semper Vírginis intercessióne,
+a præsénti liberári tristítia, et ætérna pérfrui lætítia.
+Per Dóminum nostrum Iesum Christum, Fílium tuum,
+qui tecum vivit et regnat in unitáte Spíritus Sancti,
+Deus, per ómnia sǽcula sæculórum.
 '''
 collect_b_la = '''
 Famulorum tuorum, quaesumus, Domine, delictis ignosce,
@@ -80,8 +95,16 @@ Per Dominum nostrum Iesum Christum, Filium tuum,
 qui tecum vivit et regnat in unitate Spiritus Sancti,
 Deus, per omnia saecula saeculorum.
 '''
-# The 1977 Latin ends "Per Christum."; the Hungarian 1991 "Aki él és uralkodik mindörökkön örökké."
 offertory_la = '''
+Súscipe, quǽsumus, Dómine,
+preces pópuli tui cum oblatiónibus hostiárum,
+ut, intercedénte beáta María, Fílii tui Genetríce,
+nullíus sit írritum votum,
+nullíus sit vácua postulátio.
+Per Christum Dóminum nostrum.
+'''
+# The 1977 Latin ends "Per Christum."; the Hungarian "Aki él és uralkodik mindörökkön örökké."
+offertory_b_la = '''
 Unigeniti tui, Domine, nobis succurrat humanitas,
 ut, qui natus de Virgine
 Matris integritatem non minuit sed sacravit,
@@ -90,15 +113,15 @@ oblationem nostram tibi reddat acceptam.
 Per Christum Dominum nostrum.
 '''
 communion_la = '''
-Beata viscera Mariae Virginis,
-quae portaverunt aeterni Patris Filium.
+Beáta víscera Maríæ Vírginis,
+quæ portavérunt ætérni Patris Fílium.
 '''
 postcommunion_la = '''
-Sumentes, Domine, caelestia sacramenta,
-quaesumus clementiam tuam,
-ut, qui de beatae Virginis Mariae festivitate laetamur,
-eiusdem Virginis imitatione,
-redemptionis nostrae mysterio
-digne valeamus famulari.
-Per Christum Dominum nostrum.
+Suméntes, Dómine, cæléstia sacraménta,
+quǽsumus cleméntiam tuam,
+ut, qui de beátæ Vírginis Maríæ commemoratióne lætámur,
+eiúsdem Vírginis imitatióne,
+redemptiónis nostræ mystério
+digne valeámus famulári.
+Per Christum Dóminum nostrum.
 '''

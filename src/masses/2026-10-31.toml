@@ -11,7 +11,7 @@ mass_type = "Szűz Mária közös miséi (1)"
 # Marian preface I: the common's rubric for the Saturday of Mary / votive Masses (1991 p. 652:
 # "votív misékben: és amikor tiszteljük a Boldogságos, mindenkor Szűz Máriát"; 1977 p. 800:
 # "in Missis votivis: Et te in veneratione").
-names = [["s a Boldogságos, mindenkor Szűz Mária N. ünnepén", "és amikor tiszteljük a Boldogságos, mindenkor Szűz Máriát,"]]
+names = [["s a Boldogságos, mindenkor szűz Mária N. ünnepén", "és amikor tiszteljük a Boldogságos, mindenkor Szűz Máriát,"]]
 la_names = [["Et te in N. beátæ", "Et te in veneratióne beátæ"]]
 
 # Szűz Mária közös miséi, 1 (first formula; 1-3 are those for Ordinary Time). Collect: the first one only.
