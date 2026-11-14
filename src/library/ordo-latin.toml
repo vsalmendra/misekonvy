@@ -8,17 +8,13 @@ greeting = '''
 <p class="bi-r resp">Ámen.</p>
 '''
 
+# Actus paenitentialis: three forms (Missale Romanum 2002, Ordo Missae 4-6; Hungarian: new missal pp. 415-418),
+# see ordo.toml. The Kyrie follows forms 1 and 2.
 penitential = '''
 <h3 class="bi-l">Actus paenitentialis</h3>
 <h3 class="bi-r">Bűnbánati cselekmény</h3>
 <p class="bi-l " lang="la">Fratres, agnoscámus peccáta nostra, ut apti simus ad sacra mystéria celebránda.</p>
 <p class="bi-r ">Testvéreim! Vizsgáljuk meg lelkiismeretünket, és bánjuk meg bűneinket, hogy méltóképpen ünnepelhessük az Úr szent titkait!</p>
-<p class="bi-l resp" lang="la">Confíteor Deo omnipoténti et vobis, fratres, quia peccávi nimis cogitatióne, verbo, ópere et omissióne: mea culpa, mea culpa, mea máxima culpa. Ideo precor beátam Maríam semper Vírginem, omnes Angelos et Sanctos, et vos, fratres, oráre pro me ad Dóminum Deum nostrum.</p>
-<p class="bi-r resp">Gyónom a mindenható Istennek és nektek, testvéreim, hogy sokszor és sokat vétkeztem, gondolattal, szóval, cselekedettel és mulasztással: én vétkem, én vétkem, én igen nagy vétkem. Kérem ezért a Boldogságos, mindenkor Szűz Máriát, az összes angyalokat és szenteket, és titeket, testvéreim, hogy imádkozzatok érettem Urunkhoz, Istenünkhöz.</p>
-<p class="bi-l " lang="la">Misereátur nostri omnípotens Deus et, dimíssis peccátis nostris, perdúcat nos ad vitam ætérnam.</p>
-<p class="bi-r ">Irgalmazzon nekünk a mindenható Isten, bocsássa meg bűneinket, és vezessen el az örök életre.</p>
-<p class="bi-l resp" lang="la">Amen.</p>
-<p class="bi-r resp">Ámen.</p>
 '''
 
 kyrie = '''
@@ -175,4 +171,55 @@ html = '''
 <p class="bi-r ">Kegyelem nektek és békesség Atyánktól, az Istentől, és Urunktól, Jézus Krisztustól.</p>
 <p class="bi-l resp" lang="la">Et cum spíritu tuo.</p>
 <p class="bi-r resp">Áldott legyen az Isten, a mi Urunk, Jézus Krisztus Atyja.</p>
+'''
+
+# Forms of the penitential act (see `penitential` above).
+[[penitential_forms]]
+key = "confiteor"
+label = "Confíteor Deo omnipoténti…"
+html = '''
+<p class="bi-l resp" lang="la">Confíteor Deo omnipoténti et vobis, fratres, quia peccávi nimis cogitatióne, verbo, ópere et omissióne: mea culpa, mea culpa, mea máxima culpa. Ideo precor beátam Maríam semper Vírginem, omnes Angelos et Sanctos, et vos, fratres, oráre pro me ad Dóminum Deum nostrum.</p>
+<p class="bi-r resp">Gyónom a mindenható Istennek és nektek, testvéreim, hogy sokszor és sokat vétkeztem, gondolattal, szóval, cselekedettel és mulasztással: én vétkem, én vétkem, én igen nagy vétkem. Kérem ezért a boldogságos, mindenkor Szűz Máriát, az összes angyalokat és szenteket, és titeket, testvéreim, hogy imádkozzatok érettem Urunkhoz, Istenünkhöz.</p>
+<p class="bi-l " lang="la">Misereátur nostri omnípotens Deus et, dimíssis peccátis nostris, perdúcat nos ad vitam ætérnam.</p>
+<p class="bi-r ">Irgalmazzon nekünk a mindenható Isten, bocsássa meg bűneinket, és vezessen el az örök életre.</p>
+<p class="bi-l resp" lang="la">Amen.</p>
+<p class="bi-r resp">Ámen.</p>
+'''
+[[penitential_forms]]
+key = "konyorules"
+label = "Miserére nostri, Dómine…"
+html = '''
+<p class="bi-l " lang="la">Miserére nostri, Dómine.</p>
+<p class="bi-r ">Könyörülj rajtunk, Urunk!</p>
+<p class="bi-l resp" lang="la">Quia peccávimus tibi.</p>
+<p class="bi-r resp">Mert vétkeztünk ellened.</p>
+<p class="bi-l " lang="la">Osténde nobis, Dómine, misericórdiam tuam.</p>
+<p class="bi-r ">Urunk, mutasd meg nekünk irgalmasságodat.</p>
+<p class="bi-l resp" lang="la">Et salutáre tuum da nobis.</p>
+<p class="bi-r resp">És add meg nekünk az üdvösséget.</p>
+<p class="bi-l " lang="la">Misereátur nostri omnípotens Deus et, dimíssis peccátis nostris, perdúcat nos ad vitam ætérnam.</p>
+<p class="bi-r ">Irgalmazzon nekünk a mindenható Isten, bocsássa meg bűneinket, és vezessen el az örök életre.</p>
+<p class="bi-l resp" lang="la">Amen.</p>
+<p class="bi-r resp">Ámen.</p>
+'''
+[[penitential_forms]]
+key = "invokaciok"
+label = "Qui missus es sanáre contrítos corde…"
+html = '''
+<p class="bi-l " lang="la">Qui missus es sanáre contrítos corde: Kýrie, eléison.</p>
+<p class="bi-r ">Jézus Krisztus, téged elküldött az Atya, hogy gyógyítsd a töredelmes szívűeket: Uram, irgalmazz!</p>
+<p class="bi-l resp" lang="la">Kýrie, eléison.</p>
+<p class="bi-r resp">Uram, irgalmazz!</p>
+<p class="bi-l " lang="la">Qui peccatóres vocáre venísti: Christe, eléison.</p>
+<p class="bi-r ">Jézus Krisztus, te eljöttél, hogy magadhoz hívd a bűnösöket: Krisztus, kegyelmezz!</p>
+<p class="bi-l resp" lang="la">Christe, eléison.</p>
+<p class="bi-r resp">Krisztus, kegyelmezz!</p>
+<p class="bi-l " lang="la">Qui ad déxteram Patris sedes, ad interpellándum pro nobis: Kýrie, eléison.</p>
+<p class="bi-r ">Jézus Krisztus, te az Atya jobbján ülsz, hogy közbenjárj értünk: Uram, irgalmazz!</p>
+<p class="bi-l resp" lang="la">Kýrie, eléison.</p>
+<p class="bi-r resp">Uram, irgalmazz!</p>
+<p class="bi-l " lang="la">Misereátur nostri omnípotens Deus et, dimíssis peccátis nostris, perdúcat nos ad vitam ætérnam.</p>
+<p class="bi-r ">Irgalmazzon nekünk a mindenható Isten, bocsássa meg bűneinket, és vezessen el az örök életre.</p>
+<p class="bi-l resp" lang="la">Amen.</p>
+<p class="bi-r resp">Ámen.</p>
 '''

@@ -109,6 +109,24 @@ async function open(day, path = '', { blockCalendar = false, blockOrdinary = fal
   const selects = await t.page.$$eval('#mass select[data-sel]', ss => [...new Set(ss.map(s => s.dataset.sel))].sort().join());
   check(g0 === 'dv' && gHu === 'pax' && gLa === 'pax' && gBtnLa === 'pax' && gBack === 'dv' && selects === 'ep,pref',
     `buttons switch alternatives in both languages (${g0}→${gHu}/${gLa}, back ${gBack}); dropdowns only for ${selects}`);
+  // Penitential act: three forms, the Confiteor by default, followed by the Kyrie; the third form (the
+  // invocations) contains the Kyrie, so the separate Kyrie is hidden then. Latin section in step.
+  const shownText = (root, g) => t.page.$$eval(`${root} .variants[data-group="${g}"] > .variant:not([hidden]) p`, ps => ps.map(p => p.textContent).join(' '));
+  const kyrieShown = () => t.page.$$eval('#r1 h3', hs => hs.filter(h => h.textContent === 'Kyrie' && h.getClientRects().length).length);
+  const penN = await t.page.$$eval('#sel-pen button', b => b.length);
+  const pen0 = await pressed('#sel-pen');
+  const kyr0 = await kyrieShown();
+  await t.page.click('#sel-pen button[value="invokaciok"]');
+  const penHu = await shownText('#r1', 'pen'), penLa = await shownText('#latin', 'pen');
+  const kyr1 = await kyrieShown();
+  const penBtnLa = await pressed('#sel-pen-la');
+  await t.page.click('#sel-pen-la button[value="konyorules"]');
+  const penMid = await shownText('#r1', 'pen');
+  const kyr2 = await kyrieShown();
+  await t.page.click('#sel-pen button[value="confiteor"]');
+  check(penN === 3 && pen0 === 'confiteor' && kyr0 === 1 && penHu.includes('téged elküldött az Atya') && penLa.includes('Qui missus es') && kyr1 === 0 &&
+    penBtnLa === 'invokaciok' && penMid.includes('Mert vétkeztünk ellened') && kyr2 === 1,
+    `penitential act: ${penN} forms, Confiteor + Kyrie by default; invocations hide the Kyrie (${kyr1}); Latin row follows, back (${kyr2})`);
   await t.page.evaluate(() => window.scrollTo(0, 0));
   // Creed (days with it): the Nicene by default, the Apostles' to choose; the Latin section follows.
   if (await t.page.$('#sel-creed')) {

@@ -1,0 +1,244 @@
+# Recipe: src/masses/2026-11-15.md
+date = "2026-11-15"
+title = "Évközi 33. vasárnap"
+day = "Évközi 33. vasárnap · A év · Szegények világnapja"
+rank = "zöld színben"
+gloria = true
+creed = true
+eucharistic_prayer = 3
+# All eight Sunday prefaces; the default is the one igenaptár names (I. évközi prefáció).
+prefaces = ["vasarnap-1", "vasarnap-2", "vasarnap-3", "vasarnap-4", "vasarnap-5", "vasarnap-6", "vasarnap-7", "vasarnap-8"]
+mass_type = "A vasárnap saját miséje"
+
+# Propers: the new missal (Római Misekönyv, 3rd ed. 2021, Évközi XXXIII. vasárnap, pp. 399-400; checked
+# against igenaptár 2026-11-15: same words). Latin: Missale Romanum, editio typica tertia (2002), Dominica
+# XXXIII "per annum".
+
+[entrance]
+cite = "Vö. Jer 29,11.12.14"
+text = '''
+Így szól az Úr:
+Az én gondolatom a békesség gondolata
+és nem a nyomorúságé;
+hívjatok engem, és meghallgatlak titeket,
+és hazavezetlek fogságotokból, bárhol is éltek.
+'''
+la = '''
+Dicit Dóminus: Ego cógito cogitatiónes pacis et non afflictiónis;
+invocábitis me, et ego exáudiam vos,
+et redúcam captivitátem vestram de cunctis locis.
+'''
+
+[collect]
+source = "Római Misekönyv, 3. kiadás (2021), Évközi XXXIII. vasárnap, 399. o.; latin: Missale Romanum, editio typica tertia (2002)"
+text = '''
+Urunk, Istenünk,
+add, hogy örvendezve mindig neked éljünk,
+mert soha meg nem fogyatkozó és teljes öröm az,
+ha szüntelenül szolgálhatunk neked,
+minden javak szerzőjének.
+A mi Urunk, Jézus Krisztus, a te Fiad által,
+aki veled él és uralkodik a Szentlélekkel egységben,
+Isten mindörökkön örökké.
+'''
+la = '''
+Da nobis, quǽsumus, Dómine Deus noster,
+in tua semper devotióne gaudére,
+quia perpétua est et plena felícitas,
+si bonórum ómnium iúgiter serviámus auctóri.
+Per Dóminum nostrum Iesum Christum, Filium tuum,
+qui tecum vivit et regnat in unitáte Spíritus Sancti,
+Deus, per ómnia sǽcula sæculórum.
+'''
+
+[offertory]
+text = '''
+Kérünk, Urunk, Istenünk,
+hogy a Fölségednek bemutatott áldozati adomány
+szerezze meg nekünk a szívbéli odaadás kegyelmét,
+és vezessen el az örök életre.
+Krisztus, a mi Urunk által.
+'''
+la = '''
+Concéde, quǽsumus, Dómine,
+ut óculis tuæ maiestátis munus oblátum
+et grátiam nobis devotiónis obtíneat,
+et efféctum beátæ perennitátis acquírat.
+Per Christum Dóminum nostrum.
+'''
+
+# Communion: two antiphons ("Vagy"), both offered, the first selected.
+[[communion]]
+cite = "Zsolt 72,28"
+text = '''
+Jó nekem az Istenhez ragaszkodnom:
+az Úristenbe helyezni reményemet.
+'''
+la = '''
+Mihi autem adhærére Deo bonum est,
+pónere in Dómino Deo spem meam.
+'''
+
+[[communion]]
+cite = "Mk 11,23-24"
+text = '''
+Bizony mondom nektek,
+hogy mindazt, amit imádkozva kértek,
+higgyétek, hogy megkapjátok,
+és akkor valóban teljesül kérésetek – mondja az Úr.
+'''
+la = '''
+Amen dico vobis, quidquid orántes pétitis,
+crédite quia accipiétis, et fiet vobis, dicit Dóminus.
+'''
+
+[postcommunion]
+text = '''
+Urunk, Istenünk,
+magunkhoz vettük a szent áldozat ajándékait.
+Alázattal kérünk, hogy amit szent Fiad
+az ő emlékezetére cselekednünk rendelt,
+növelje szeretetünket.
+Krisztus, a mi Urunk által.
+'''
+la = '''
+Súmpsimus, Dómine, sacri dona mystérii,
+humíliter deprecántes,
+ut, quæ in sui commemoratiónem nos Fílius tuus fácere præcépit,
+in nostræ profíciant caritátis augméntum.
+Per Christum Dóminum nostrum.
+'''
+
+# Readings: Sunday, year A, src/cycle/evkozi-33-vas-A.json (igenaptár 2026-11-15; the longer gospel).
+# Latin: Missale Romanum cum lectionibus 1977, vol. IV, Dominica XXXIII, anno A, pp. 477-480
+# (OCR corrected by hand; Vulgate numbering).
+[reading1]
+label = "Olvasmány"
+sub = "a Példabeszédek könyvéből"
+summary = "A derék asszony mindent beszerez ügyes kézzel."
+cite = "Péld 31,10-13.19-20.30-31"
+la_sub = "Lectio libri Proverbiorum"
+text = '''
+Derék asszonyt ki talál? Értéke a gyöngyét messze meghaladja. Férje egész szívével ráhagyatkozik, és nem jár rosszul vele. Mindig javára van, sohasem kárára, életének minden napján. Előteremti a gyapjút és a kendert, és mindent beszerez ügyes kézzel.
+
+Kinyújtja karját a guzsaly után, és kezével megfogja az orsót. Kiterjeszti kezét az elnyomott fölé, a szűkölködőnek meg karját nyújtja.
+
+Csalfa dolog a báj, a szépség mulandó, de az istenfélő asszony dicséretet érdemel. Magasztaljátok keze munkájáért, és a városkapuknál dicsérjétek tetteit.
+'''
+la = '''
+Mulierem fortem quis inveniet? Procul et de ultimis finibus pretium eius. Confidit in ea cor viri sui, et spoliis non indigebit; reddet ei bonum et non malum omnibus diebus vitae suae; quaesivit lanam et linum, et operata est consilio manuum suarum.
+
+Manum suam misit ad fortia, et digiti eius apprehenderunt fusum; manum suam aperuit inopi, et palmas suas extendit ad pauperem.
+
+Fallax gratia et vana est pulchritudo, mulier timens Dominum ipsa laudabitur. Date ei de fructu manuum suarum, et laudent eam in portis opera eius.
+'''
+
+[psalm]
+cite = "Zsolt 127,1-2.3.4-5"
+response = "Boldog az az ember, aki féli az Istent."
+la_response = "Beati omnes qui timent Dominum."
+verses = [
+'''
+Boldog mindaz, aki féli az Urat,
+aki az ő útjain jár.
+Kezed munkájából élhetsz,
+boldog leszel, és jól megy sorod.
+''',
+'''
+Feleséged olyan, mint a termő szőlőtő,
+a te házad bensejében.
+Fiaid olyanok, mint az olajfacsemeték,
+úgy veszik körül asztalodat.
+''',
+'''
+Íme, ilyen áldásban részesül az az ember,
+aki féli az Urat.
+Áldjon meg az Úr Sionból,
+hogy lásd Jeruzsálem jólétét életed minden napján.
+''']
+la_verses = [
+'''
+Beatus omnis qui timet Dominum,
+qui ambulat in viis eius.
+Labores manuum tuarum manducabis,
+beatus es, et bene tibi erit.
+''',
+'''
+Uxor tua sicut vitis fructifera
+in lateribus domus tuae;
+filii tui sicut novellae olivarum
+in circuitu mensae tuae.
+''',
+'''
+Ecce sic benedicetur homo, qui timet Dominum.
+Benedicat tibi Dominus ex Sion,
+et videas bona Ierusalem
+omnibus diebus vitae tuae.
+''']
+
+[reading2]
+label = "Szentlecke"
+sub = "Szent Pál apostolnak a tesszaloniki hívekhez írt első leveléből"
+summary = "Ne lepjen meg titeket az a nap, mint a tolvaj!"
+cite = "1Tessz 5,1-6"
+la_sub = "Lectio Epistolae primae beati Pauli apostoli ad Thessalonicenses"
+text = '''
+Testvéreim!
+
+Ami az Úr eljövetelének idejét és óráját illeti, arról nem szükséges írnom. Hiszen jól tudjátok ti is, hogy az Úr napja úgy érkezik el, mint éjjel a tolvaj. Amikor azt mondogatják: „Béke és biztonság”, akkor éri őket hirtelen a pusztulás, akárcsak a várandós asszonyt a fájdalom. És nem lesz menekvés számukra!
+
+De ti, testvérek, nem jártok sötétségben, hogy az a nap tolvaj módjára meglephetne titeket. Hiszen mindnyájan a világosság és a nappal fiai vagytok. Nem vagyunk az éjszakáé, sem a sötétségé. Ne aludjunk hát, mint a többiek, hanem legyünk éberek és józanok!
+'''
+la = '''
+—
+
+De temporibus et momentis, fratres, non indigetis ut scribatur vobis, ipsi enim diligenter scitis quia dies Domini sicut fur in nocte ita veniet. Cum enim dixerint: «Pax et securitas», tunc repentinus eis superveniet interitus sicut dolor in utero habenti, et non effugient.
+
+Vos autem, fratres, non estis in tenebris, ut vos dies ille tamquam fur comprehendat: omnes enim vos filii lucis estis et filii diei. Non sumus noctis neque tenebrarum: igitur non dormiamus sicut ceteri, sed vigilemus et sobrii simus.
+'''
+
+[alleluia]
+cite = "Jn 15,4a.5b"
+text = "Maradjatok bennem és én bennetek maradok, mondja a mi Urunk, aki bennem marad, az bő termést hoz."
+la = "Manete in me, et ego in vobis, dicit Dominus; qui manet in me fert fructum multum."
+
+[gospel]
+book = "Szent Máté"
+la_book = "Matthaeum"
+summary = "Mivel a kevésben hű voltál, menj be Urad örömébe!"
+cite = "Mt 25,14-30"
+text = '''
+Abban az időben Jézus a következő példabeszédet mondta tanítványainak:
+
+Egy ember egyszer idegenbe készült, ezért összehívta szolgáit, és rájuk bízta vagyonát. Az egyiknek öt talentumot adott, a másiknak kettőt, a harmadiknak pedig egyet, kinek-kinek rátermettsége szerint, aztán útra kelt.
+
+Aki öt talentumot kapott, menten elkezdett vele kereskedni, és másik ötöt nyert rajta. Ugyanígy az is, aki kettőt kapott: másik kettőt szerzett. Az pedig, aki csak egyet kapott, elment, ásott egy gödröt, és elrejtette a földbe urának ezüstjét.
+
+Hosszú idő elteltével megjött a szolgák ura, és számadást tartott velük. Jött az, aki öt talentumot kapott: hozott másik ötöt is, és így szólt: „Uram, öt talentumot adtál nekem, nézd, másik ötöt nyertem rajta.” Az úr így válaszolt: „Jól van, te derék és hűséges szolga! A kevésben hű voltál, sokat bízok rád: Menj be urad örömébe!” Jött az is, aki két talentumot kapott, és így szólt: „Uram, két talentumot adtál nekem, nézd, másik kettőt nyertem rajta.” Az úr így válaszolt: „Jól van, te derék és hűséges szolga! A kevésben hű voltál, sokat bízok rád: Menj be urad örömébe!”
+
+Végül jött az is, aki csak egy talentumot kapott. Így szólt: „Uram! Tudtam, hogy kemény ember vagy, ott is aratsz, ahová nem vetettél, és onnan is szüretelsz, ahová nem ültettél. Félelmemben elmentem hát és elástam a földbe a talentumodat. Nézd, ami a tied, visszaadom neked!” Válaszul az úr ezt mondta neki: „Te gonosz és lusta szolga! Ha tudtad, hogy aratok ott is, ahová nem vetettem, és szüretelek onnan is, ahová nem ültettem, ezüstjeimet a pénzváltóknak kellett volna adnod, hogy ha megjövök, kamatostul kapjam vissza! Vegyétek csak el tőle a talentumot és adjátok oda annak, akinek tíz talentuma van! Mert akinek van, annak még adnak, hogy bővelkedjék; és akinek nincs, attól még azt is elveszik, amije van! Ezt a hasznavehetetlen szolgát pedig vessétek ki a külső sötétségre! Ott sírás lesz és fogcsikorgatás!”
+'''
+la = '''
+In illo tempore: Dixit Iesus discipulis suis parabolam hanc:
+
+«Homo peregre proficiscens vocavit servos suos et tradidit illis bona sua et uni dedit quinque talenta, alii autem duo, alii vero unum, unicuique secundum propriam virtutem, et profectus est.
+
+Statim abiit qui quinque talenta acceperat et operatus est in eis et lucratus est alia quinque; similiter qui duo acceperat lucratus est alia duo. Qui autem unum acceperat, abiens fodit in terra et abscondit pecuniam domini sui.
+
+Post multum vero temporis venit dominus servorum illorum et ponit rationem cum eis. Et accedens qui quinque talenta acceperat, obtulit alia quinque talenta dicens: “Domine, quinque talenta tradidisti mihi: ecce alia quinque superlucratus sum”. Ait illi dominus eius: “Euge, serve bone et fidelis, super pauca fuisti fidelis, super multa te constituam: intra in gaudium domini tui”. Accessit autem et qui duo talenta acceperat, et ait: “Domine, duo talenta tradidisti mihi: ecce alia duo lucratus sum”. Ait illi dominus eius: “Euge, serve bone et fidelis, super pauca fuisti fidelis, supra multa te constituam: intra in gaudium domini tui”.
+
+Accedens autem et qui unum talentum acceperat, ait: “Domine, novi te quia homo durus es, metis ubi non seminasti et congregas ubi non sparsisti; et timens abii et abscondi talentum tuum in terra; ecce habes quod tuum est”. Respondens autem dominus eius dixit ei: “Serve male et piger, sciebas quia meto ubi non seminavi et congrego ubi non sparsi? Oportuit ergo te mittere pecuniam meam nummulariis, et veniens ego recepissem quod meum est cum usura. Tollite itaque ab eo talentum et date ei qui habet decem talenta: omni enim habenti dabitur, et abundabit; ei autem qui non habet et quod habet auferetur ab eo. Et inutilem servum eicite in tenebras exteriores: illic erit fletus et stridor dentium”».
+'''
+
+# igenaptár 2026-11-15 (the Sunday's set, year A).
+[faithful]
+intro = "Imádkozzunk, testvéreim, mennyei Atyánkhoz, aki egykor megjutalmazza hűséges szolgálatunkat!"
+response = "Kérünk téged, hallgass meg minket!"
+petitions = [
+  "Add, Urunk, hogy akik a papi és szerzetesi hivatás talentumát megkapták, azt hűségesen kamatoztassák.",
+  "Add, Urunk, hogy a népek vezetői az emberiség javára használják a rendelkezésükre álló nagy lehetőségeket!",
+  "Add, Urunk, hogy tőled kapott adottságainkat jól felhasználjuk magunk és embertársaink javára!",
+  "Add, Urunk, hogy az ifjúság szorgalmas tanulással és céltudatos önneveléssel készüljön élethivatására!",
+  "Add, Urunk, hogy egyházközségünk minden tagja egykor nyugodtan adhasson számot kegyelmi ajándékaidról!",
+]
+conclusion = "Mennyei Atyánk! Te mindnyájunktól számon kéred talentumainkat. Segíts, hogy ajándékaidat jól felhasználva, számadásunk után beléphessünk országod örömébe. Krisztus, a mi Urunk által."

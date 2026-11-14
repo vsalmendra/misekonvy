@@ -463,6 +463,29 @@ def greeting_la():
             variants('greet', [(f['key'], f['html']) for f in forms], forms[0]['key']))
 
 
+# ---------- Penitential act: three forms (dots), the Confiteor first (the default) ----------
+# The Kyrie after it is a second block of the same group ("pen"): shown with forms 1 and 2, empty with form 3
+# (whose invocations are the Kyrie).
+
+def _kyrie_variants(forms, kyrie):
+    return variants('pen', [(f['key'], kyrie if f.get('kyrie', True) else '') for f in forms], forms[0]['key'])
+
+
+def penitential_hu():
+    forms = ORDO['penitential_forms']
+    return (ORDO['penitential'] + chooser('pen', 'Bűnbánati cselekmény', [(f['key'], f['label'], f['html']) for f in forms], forms[0]['key'])
+            + _kyrie_variants(forms, ORDO['kyrie']))
+
+
+def penitential_la():
+    forms = ORDO_LA['penitential_forms']
+    hu = ORDO['penitential_forms']                      # which forms are followed by the Kyrie
+    keyed = [dict(f, kyrie=next(h for h in hu if h['key'] == f['key'])['kyrie']) for f in forms]
+    return (ORDO_LA['penitential'] + la_chooser('pen', 'Actus paenitentialis · Bűnbánati cselekmény', [(f['key'], f['label']) for f in forms], forms[0]['key'])
+            + variants('pen', [(f['key'], f['html']) for f in forms], forms[0]['key'])
+            + _kyrie_variants(keyed, ORDO_LA['kyrie']))
+
+
 # ---------- Creed: the Nicene–Constantinopolitan (default) or the Apostles' (dropdown "Hitvallás") ----------
 
 CREEDS = [('nicea', 'Niceai–konstantinápolyi hitvallás', 'Symbolum Nicænum-Constantinopolitanum'),
@@ -632,7 +655,7 @@ def render(m):
     h = []
     h.append('<section id="r1"><h2 class="part">Bevezető szertartás</h2>')
     h.append('<h3>Bevezető ének</h3>' + options(o['entrance'], antiphon, 'alt-entrance'))
-    h += [greeting_hu(), ORDO['penitential'], ORDO['kyrie']]
+    h += [greeting_hu(), penitential_hu()]
     if m.get('gloria'):
         h.append(ORDO['gloria'])
     h.append('<h3>Könyörgés</h3>' + options(o['collect'], prayer(True), 'alt-collect'))
@@ -673,7 +696,7 @@ def render(m):
     g = ['<p class="bi-l bi-lab">Latine</p><p class="bi-r bi-lab">Magyarul</p>',
          bi_h2('Ritus initiales · Bevezető szertartás'),
          bi_antiphon('Antiphona ad introitum', 'Bevezető ének', o['entrance'], 'alt-entrance'),
-         greeting_la(), ORDO_LA['penitential'], ORDO_LA['kyrie']]
+         greeting_la(), penitential_la()]
     if m.get('gloria'):
         g.append(ORDO_LA['gloria'])
     g.append(bi_prayer('Collecta', 'Könyörgés', o['collect'], True, 'alt-collect'))

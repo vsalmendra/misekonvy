@@ -164,6 +164,11 @@ dropdowns; every other choice is a row of small dot buttons (no text) above the 
 forms, "Az Úr legyen veletek / Dóminus vobíscum" first (user, 2026-11-08). The "Elhunytért" buttons
 stand just before the text that changes.
 
+**Penitential act** — every Mass offers the three forms of the new missal (A mise rendje 4-6) as dots:
+the Confiteor (default), "Könyörülj rajtunk, Urunk…" and the invocations "Jézus Krisztus, téged elküldött
+az Atya…" (`penitential_forms` in `ordo.toml` / `ordo-latin.toml`; user, 2026-11-14). The Kyrie that follows
+is a second block of the same group; it is hidden with the third form, whose invocations are the Kyrie.
+
 **Creed** — where `creed = true`, buttons "Hitvallás" offer the Nicene–Constantinopolitan Creed
 (default) and the Apostles' Creed (`creed_apostles` in `ordo.toml` / `ordo-latin.toml`; user, 2026-11-08).
 

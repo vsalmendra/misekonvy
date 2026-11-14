@@ -9,12 +9,12 @@ greeting = '''
 <p class="resp">Ámen.</p>
 '''
 
+# Bűnbánati cselekmény: the invitation, then three forms (new missal, Római Misekönyv 3rd ed. 2021,
+# A mise rendje 4-6, pp. 415-418), chosen with dots; the first (the Confiteor) is the default. Forms 1 and
+# 2 are followed by the Kyrie (`kyrie`); form 3 contains it (the Kyrie is hidden then: see build.py).
 penitential = '''
 <h3>Bűnbánati cselekmény</h3>
 <p>Testvéreim! Vizsgáljuk meg lelkiismeretünket, és bánjuk meg bűneinket, hogy méltóképpen ünnepelhessük az Úr szent titkait!</p>
-<p class="resp">Gyónom a mindenható Istennek és nektek, testvéreim, hogy sokszor és sokat vétkeztem, gondolattal, szóval, cselekedettel és mulasztással: én vétkem, én vétkem, én igen nagy vétkem. Kérem ezért a Boldogságos, mindenkor Szűz Máriát, az összes angyalokat és szenteket, és titeket, testvéreim, hogy imádkozzatok érettem Urunkhoz, Istenünkhöz.</p>
-<p>Irgalmazzon nekünk a mindenható Isten, bocsássa meg bűneinket, és vezessen el az örök életre.</p>
-<p class="resp">Ámen.</p>
 '''
 
 kyrie = '''
@@ -129,4 +129,41 @@ label = "Kegyelem nektek és békesség…"
 html = '''
 <p>Kegyelem nektek és békesség Atyánktól, az Istentől, és Urunktól, Jézus Krisztustól.</p>
 <p class="resp">Áldott legyen az Isten, a mi Urunk, Jézus Krisztus Atyja.</p>
+'''
+
+# Forms of the penitential act (see `penitential` above).
+[[penitential_forms]]
+key = "confiteor"
+label = "Gyónom a mindenható Istennek…"
+kyrie = true
+html = '''
+<p class="resp">Gyónom a mindenható Istennek és nektek, testvéreim, hogy sokszor és sokat vétkeztem, gondolattal, szóval, cselekedettel és mulasztással: én vétkem, én vétkem, én igen nagy vétkem. Kérem ezért a boldogságos, mindenkor Szűz Máriát, az összes angyalokat és szenteket, és titeket, testvéreim, hogy imádkozzatok érettem Urunkhoz, Istenünkhöz.</p>
+<p>Irgalmazzon nekünk a mindenható Isten, bocsássa meg bűneinket, és vezessen el az örök életre.</p>
+<p class="resp">Ámen.</p>
+'''
+[[penitential_forms]]
+key = "konyorules"
+label = "Könyörülj rajtunk, Urunk…"
+kyrie = true
+html = '''
+<p>Könyörülj rajtunk, Urunk!</p>
+<p class="resp">Mert vétkeztünk ellened.</p>
+<p>Urunk, mutasd meg nekünk irgalmasságodat.</p>
+<p class="resp">És add meg nekünk az üdvösséget.</p>
+<p>Irgalmazzon nekünk a mindenható Isten, bocsássa meg bűneinket, és vezessen el az örök életre.</p>
+<p class="resp">Ámen.</p>
+'''
+[[penitential_forms]]
+key = "invokaciok"
+label = "Jézus Krisztus, téged elküldött az Atya…"
+kyrie = false
+html = '''
+<p>Jézus Krisztus, téged elküldött az Atya, hogy gyógyítsd a töredelmes szívűeket: Uram, irgalmazz!</p>
+<p class="resp">Uram, irgalmazz!</p>
+<p>Jézus Krisztus, te eljöttél, hogy magadhoz hívd a bűnösöket: Krisztus, kegyelmezz!</p>
+<p class="resp">Krisztus, kegyelmezz!</p>
+<p>Jézus Krisztus, te az Atya jobbján ülsz, hogy közbenjárj értünk: Uram, irgalmazz!</p>
+<p class="resp">Uram, irgalmazz!</p>
+<p>Irgalmazzon nekünk a mindenható Isten, bocsássa meg bűneinket, és vezessen el az örök életre.</p>
+<p class="resp">Ámen.</p>
 '''
