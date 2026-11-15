@@ -1,0 +1,120 @@
+# Szentek általános miséi, III. Jótékonykodók (Commune sanctorum: pro iis qui opera misericordiae exercuerunt).
+# Hungarian: the new missal (Római Misekönyv, 3rd ed. 2021), Szentek általános miséi, III. Jótékonykodók,
+# pp. 840-841 ("(H. i. alleluja)" dropped outside Eastertime). Latin: Missale Romanum, editio typica tertia
+# (2002), Commune sanctorum, I. Pro omnibus Sanctorum ordinibus, III. Pro iis qui opera misericordiae
+# exercuerunt (OCR-free text of the user's PDF, accents kept). "<key>_b" = the book's "Vagy".
+# "Szent N." / "N." is filled per Mass via `names` / `la_names`; the Latin forms are for a man ("beati N.",
+# "qui"): a Mass about a woman adapts them with `la_names` (see 2026-11-16).
+
+[1]
+entrance_cite = "Vö. Mt 25,34.36.40"
+entrance = '''
+Jöjjetek, Atyám áldottai – mondja az Úr –,
+beteg voltam és meglátogattatok.
+Bizony mondom nektek,
+amit legkisebb testvéreim közül egynek tettetek,
+nekem tettétek.
+'''
+entrance_la = '''
+Veníte, benedícti Patris mei, dicit Dóminus:
+infírmus eram, et visitástis me.
+Amen dico vobis, quámdiu fecístis uni ex his frátribus meis mínimis,
+mihi fecístis.
+'''
+entrance_b_cite = "Zsolt 111,9"
+entrance_b = '''
+Osztogat, adakozik a szegényeknek;
+igazsága örökre megmarad,
+hatalma dicsőségesen emelkedik.
+'''
+entrance_b_la = '''
+Dispérsit, dedit paupéribus:
+iustítia eius manet in sǽculum sǽculi,
+cornu eius exaltábitur in glória.
+'''
+collect = '''
+Istenünk, te arra tanítottad Egyházadat,
+hogy szeressünk téged és embertársainkat,
+mert ezzel egész törvényedet megtartjuk.
+Segíts, hogy Szent N. példáját követve
+gyakoroljuk az irgalmas szeretet tetteit,
+és eljussunk szentjeid közé,
+akiket egykor majd áldottnak nevezel.
+A mi Urunk, Jézus Krisztus, a te Fiad által,
+aki veled él és uralkodik a Szentlélekkel egységben,
+Isten mindörökkön örökké.
+'''
+collect_la = '''
+Deus, qui Ecclésiam tuam in dilectióne tuæ divinitátis et próximi
+cuncta serváre cæléstia mandáta docuísti,
+da nobis, ut, beáti N. exémplo caritátis ópera exercéntes,
+inter benedíctos regni tui connumerári mereámur.
+Per Dóminum nostrum Iesum Christum, Filium tuum,
+qui tecum vivit et regnat in unitáte Spíritus Sancti,
+Deus, per ómnia sǽcula sæculórum.
+'''
+offertory = '''
+Fogadd el, néped adományait, Urunk, Istenünk,
+és add meg nekünk, hogy míg Fiad végtelen
+szeretetének áldozatát megjelenítjük,
+Szent N. példája nyomán
+megerősödjünk az ő szeretetében
+és a felebaráti szeretetben.
+Krisztus, a mi Urunk által.
+'''
+offertory_la = '''
+Súscipe, Dómine, múnera pópuli tui, et præsta,
+ut, qui Fílii tui imménsæ caritátis opus recólimus,
+in tui et próximi dilectióne, beáti N. exémplo, confirmémur.
+Per Christum Dóminum nostrum.
+'''
+communion_cite = "Vö. Jn 15,13"
+communion = '''
+Nagyobb szeretete senkinek nincs annál,
+mint aki életét adja barátaiért – mondja az Úr.
+'''
+communion_la = '''
+Maiórem hac dilectiónem nemo habet,
+ut ánimam suam ponat quis pro amícis suis.
+'''
+communion_b_cite = "Vö. Jn 13,35"
+communion_b = '''
+Arról fogják megismerni, hogy tanítványaim vagytok,
+ha szeretettel vagytok egymás iránt – mondja az Úr.
+'''
+communion_b_la = '''
+In hoc cognóscent omnes quia discípuli mei estis:
+si dilectiónem habuéritis ad ínvicem, dicit Dóminus.
+'''
+postcommunion = '''
+Urunk, Istenünk, add,
+hogy a szent misztériumokban megújulva
+kövessük Szent N. példáját,
+aki téged fáradhatatlan buzgósággal tisztelt,
+és népednek kifogyhatatlan szeretettel
+viselte gondját.
+Krisztus, a mi Urunk által.
+'''
+postcommunion_la = '''
+Sacris mystériis reféctos,
+da nos, quǽsumus, Dómine, beáti N. exémpla sectári,
+qui te indeféssa pietáte cóluit,
+et pópulo tuo imménsa prófuit caritáte.
+Per Christum Dóminum nostrum.
+'''
+postcommunion_b = '''
+Urunk, Istenünk,
+üdvösségszerző szentségeddel tápláltál minket.
+Kérve kérünk, hogy mi,
+akik Szent N.-t a szeretetben követni igyekszünk,
+egykor dicsőségében is részesedjünk.
+Krisztus, a mi Urunk által.
+'''
+postcommunion_b_la = '''
+Sacraménti salutáris, Dómine,
+pasti delíciis,
+tuam súpplices deprecámur pietátem,
+ut, beáti N. caritátis imitatóres effécti,
+consórtes simus et glóriæ.
+Per Christum Dóminum nostrum.
+'''

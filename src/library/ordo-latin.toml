@@ -15,6 +15,7 @@ penitential = '''
 <h3 class="bi-r">Bűnbánati cselekmény</h3>
 <p class="bi-l " lang="la">Fratres, agnoscámus peccáta nostra, ut apti simus ad sacra mystéria celebránda.</p>
 <p class="bi-r ">Testvéreim! Vizsgáljuk meg lelkiismeretünket, és bánjuk meg bűneinket, hogy méltóképpen ünnepelhessük az Úr szent titkait!</p>
+<!--sil:pen_silence-->
 '''
 
 kyrie = '''
@@ -41,10 +42,13 @@ gifts = '''
 <p class="bi-r ">Áldott vagy, Urunk, mindenség Istene, mert a te bőkezűségedből kaptuk a kenyeret. Felajánljuk neked, mint a föld termését és az emberi munka gyümölcsét. Ebből lesz számunkra az élet kenyere.</p>
 <p class="bi-l resp" lang="la">Benedíctus Deus in sǽcula.</p>
 <p class="bi-r resp">Áldott legyen az Isten mindörökké.</p>
+<!--sil:water-->
 <p class="bi-l " lang="la">Benedíctus es, Dómine, Deus univérsi, quia de tua largitáte accépimus vinum, quod tibi offérimus, fructum vitis et óperis mánuum hóminum, ex quo nobis fiet potus spiritális.</p>
 <p class="bi-r ">Áldott vagy, Urunk, mindenség Istene, mert a te bőkezűségedből kaptuk a bort. Felajánljuk neked, mint a szőlőtő termését és az emberi munka gyümölcsét. Ebből lesz számunkra a lélek itala.</p>
 <p class="bi-l resp" lang="la">Benedíctus Deus in sǽcula.</p>
 <p class="bi-r resp">Áldott legyen az Isten mindörökké.</p>
+<!--sil:humble-->
+<!--sil:wash-->
 <p class="bi-l " lang="la">Oráte, fratres: ut meum ac vestrum sacrifícium acceptábile fiat apud Deum Patrem omnipoténtem.</p>
 <p class="bi-r ">Imádkozzatok, testvéreim, hogy az én áldozatom és a tiétek kedves legyen a mindenható Atyaisten előtt!</p>
 <p class="bi-l resp" lang="la">Suscípiat Dóminus sacrifícium de mánibus tuis ad laudem et glóriam nóminis sui, ad utilitátem quoque nostram totiúsque Ecclésiæ suæ sanctæ.</p>
@@ -96,16 +100,19 @@ communion_rite = '''
 <p class="bi-r resp">És a te lelkeddel.</p>
 <p class="bi-l " lang="la">Offérte vobis pacem.</p>
 <p class="bi-r ">Engesztelődjetek ki szívből egymással!</p>
+<!--sil:fraction-->
 <h3 class="bi-l">Agnus Dei</h3>
 <h3 class="bi-r">Agnus Dei</h3>
 <p class="bi-l resp" lang="la">Agnus Dei, qui tollis peccáta mundi: miserére nobis.<br>Agnus Dei, qui tollis peccáta mundi: miserére nobis.<br>Agnus Dei, qui tollis peccáta mundi: dona nobis pacem.</p>
 <p class="bi-r resp">Isten Báránya, te elveszed a világ bűneit: irgalmazz nekünk.<br>Isten Báránya, te elveszed a világ bűneit: irgalmazz nekünk.<br>Isten Báránya, te elveszed a világ bűneit: adj nekünk békét.</p>
+<!--sil:before_comm-->
 <h3 class="bi-l">Communio</h3>
 <h3 class="bi-r">Áldozás</h3>
 <p class="bi-l " lang="la">Ecce Agnus Dei, ecce qui tollit peccáta mundi. Beáti qui ad cenam Agni vocáti sunt.</p>
 <p class="bi-r ">Íme, az Isten Báránya, íme, aki elveszi a világ bűneit. Boldogok, akik meghívást kaptak a Bárány lakomájára.</p>
 <p class="bi-l resp" lang="la">Dómine, non sum dignus, ut intres sub téctum meum,<br>sed tantum dic verbo, et sanábitur ánima mea.</p>
 <p class="bi-r resp">Uram, nem vagyok méltó, hogy hajlékomba jöjj,<br>hanem csak egy szóval mondd, és meggyógyul az én lelkem.</p>
+<!--sil:comm_priest-->
 <p class="bi-l " lang="la">Corpus Christi.</p>
 <p class="bi-r ">Krisztus teste.</p>
 <p class="bi-l resp" lang="la">Amen.</p>
@@ -223,3 +230,103 @@ html = '''
 <p class="bi-l resp" lang="la">Amen.</p>
 <p class="bi-r resp">Ámen.</p>
 '''
+
+# ---------------------------------------------------------------------------------------------
+# Silent parts (gestures, the priest's prayers said quietly): hidden behind a small "expand" button
+# in the text (user, 2026-11-15). Hungarian: new missal (A mise rendje, Szentmise néppel, 4, 14, 16, 23-28,
+# 129-137, 139); Latin: Missale Romanum 2002 (Ordo Missae, same numbers). `<!--sil:KEY-->` in the fixed
+# parts above (and in the Hungarian parts of ordo.toml) is replaced by the block; build.py also puts
+# some after the Gospel dialogue and the collects. rubric/rubric_la = the instruction, text/la = the
+# words, text_b/la_b = the "Vagy / Vel:" alternative; paragraphs are separated by a blank line.
+[silent.pen_silence]
+rubric = "Rövid csendet tartanak."
+rubric_la = "Fit brevis pausa silentii."
+
+[silent.collect_silence]
+rubric = "Mindnyájan a pappal együtt rövid ideig csendben imádkoznak."
+rubric_la = "Et omnes una cum sacerdote per aliquod temporis spatium in silentio orant."
+
+[silent.gospel_before]
+rubric = "Ha nincs jelen diakónus, a pap az oltár előtt csendben, meghajolva imádkozza:"
+rubric_la = "Si vero non adest diaconus, sacerdos ante altare inclinatus secreto dicit:"
+text = "Tisztítsd meg szívemet és ajkamat, mindenható Isten, hogy méltóképpen hirdethessem szent evangéliumodat."
+la = "Munda cor meum ac lábia mea, omnípotens Deus, ut sanctum Evangélium tuum digne váleam nuntiáre."
+
+[silent.gospel_after]
+rubric = "Megcsókolja a könyvet, és csendben mondja:"
+rubric_la = "Deinde librum osculatur dicens secreto:"
+text = "Az evangélium tanítása legyen bűneink bocsánatára."
+la = "Per evangélica dicta deleántur nostra delícta."
+
+[silent.water]
+rubric = "A diakónus vagy a pap bort és kevés vizet önt a kehelybe, közben halkan mondja:"
+rubric_la = "Diaconus, vel sacerdos, infundit vinum et parum aquæ in calicem, dicens secreto:"
+text = "E víz és bor titka által részesüljünk annak istenségében, aki kegyesen részese lett emberségünknek."
+la = "Per huius aquæ et vini mystérium eius efficiámur divinitátis consórtes, qui humanitátis nostræ fíeri dignátus est párticeps."
+
+[silent.humble]
+rubric = "A pap mélyen meghajolva halkan mondja:"
+rubric_la = "Sacerdos, profunde inclinatus, dicit secreto:"
+text = "Alázatos lélekkel és töredelmes szívvel kérünk, Urunk, Istenünk, fogadj el minket, és legyen kedves színed előtt áldozatunk."
+la = "In spíritu humilitátis et in ánimo contríto suscipiámur a te, Dómine; et sic fiat sacrifícium nostrum in conspéctu tuo hódie, ut pláceat tibi, Dómine Deus."
+
+[silent.wash]
+rubric = "A pap az oltár oldalánál állva kezet mos, és halkan mondja:"
+rubric_la = "Sacerdos, stans ad latus altaris, lavat manus, dicens secreto:"
+text = "Mosd le, Uram, bűneimet, és vétkeimtől tisztíts meg engem."
+la = "Lava me, Dómine, ab iniquitáte mea, et a peccáto meo munda me."
+
+[silent.fraction]
+rubric = "A pap a szentostyát a paténa felett megtöri, egy kis részét a kehelybe ejti, és közben halkan mondja:"
+rubric_la = "Deinde accipit hostiam eamque super patenam frangit, et particulam immittit in calicem, dicens secreto:"
+text = "A mi Urunk, Jézus Krisztus Testének és Vérének egyesítése váljék a szentáldozásban lelkünk üdvösségére."
+la = "Hæc commíxtio Córporis et Sánguinis Dómini nostri Iesu Christi fiat accipiéntibus nobis in vitam ætérnam."
+
+[silent.before_comm]
+rubric = "A pap összetett kézzel halkan mondja:"
+rubric_la = "Sacerdos deinde, manibus iunctis, dicit secreto:"
+text = """Uram, Jézus Krisztus, az élő Isten Fia,
+te az Atya akaratából
+a Szentlélek közreműködésével
+halálod által életre keltetted a világot,
+szabadíts meg engem szent Tested és Véred által
+minden vétkemtől és minden bajtól:
+add, hogy mindig ragaszkodjam törvényeidhez,
+és soha el ne szakadjak tőled."""
+la = """Dómine Iesu Christe, Fili Dei vivi,
+qui ex voluntáte Patris,
+cooperánte Spíritu Sancto,
+per mortem tuam mundum vivificásti:
+líbera me per hoc sacrosánctum Corpus et Sánguinem tuum
+ab ómnibus iniquitátibus meis et univérsis malis:
+et fac me tuis semper inhærére mandátis,
+et a te numquam separári permíttas."""
+text_b = """Uram, Jézus Krisztus, szent Tested és Véred vétele
+ne váljék ítéletemre és kárhozatomra,
+hanem jóságodból szolgáljon
+lelkem és testem oltalmára és gyógyulására."""
+la_b = """Percéptio Córporis et Sánguinis tui, Dómine Iesu Christe,
+non mihi provéniat in iudícium et condemnatiónem:
+sed pro tua pietáte prosit mihi
+ad tutaméntum mentis et córporis,
+et ad medélam percipiéndam."""
+
+[silent.comm_priest]
+rubric = "A pap az oltár felé fordulva halkan mondja:"
+rubric_la = "Et sacerdos, versus ad altare, secreto dicit:"
+text = """Krisztus Teste őrizzen meg engem az örök életre.
+
+Krisztus Vére őrizzen meg engem az örök életre."""
+la = """Corpus Christi custódiat me in vitam ætérnam.
+
+Sanguis Christi custódiat me in vitam ætérnam."""
+
+[silent.purification]
+rubric = "Amikor a pap purifikál, halkan mondja:"
+rubric_la = "Dum purificationem peragit, sacerdos dicit secreto:"
+text = """Add, Urunk, hogy tiszta szívvel fogadjuk,
+amit ajkunkkal magunkhoz vettünk.
+Földi életünkben kapott ajándékod
+segítsen bennünket az örök életre."""
+la = """Quod ore súmpsimus, Dómine, pura mente capiámus,
+et de múnere temporáli fiat nobis remédium sempitérnum."""

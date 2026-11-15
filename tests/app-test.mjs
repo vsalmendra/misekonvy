@@ -127,6 +127,18 @@ async function open(day, path = '', { blockCalendar = false, blockOrdinary = fal
   check(penN === 3 && pen0 === 'confiteor' && kyr0 === 1 && penHu.includes('téged elküldött az Atya') && penLa.includes('Qui missus es') && kyr1 === 0 &&
     penBtnLa === 'invokaciok' && penMid.includes('Mert vétkeztünk ellened') && kyr2 === 1,
     `penitential act: ${penN} forms, Confiteor + Kyrie by default; invocations hide the Kyrie (${kyr1}); Latin row follows, back (${kyr2})`);
+  // Silent parts: hidden by default behind a small button; it opens / closes them (Hungarian and Latin section).
+  const silState = async (root) => t.page.$eval(`${root} .sil`, d => ({ hidden: d.querySelector('.sil-body').hidden, expanded: d.querySelector('.sil-btn').getAttribute('aria-expanded'), text: d.querySelector('.sil-body').textContent }));
+  const silN = await t.page.$$eval('#r3 .sil, #latin .sil', d => d.length);
+  const s0 = await silState('#r3');
+  await t.page.$eval('#r3 .sil .sil-btn', b => b.click());
+  const s1 = await silState('#r3');
+  await t.page.$eval('#r3 .sil .sil-btn', b => b.click());
+  const s2 = await silState('#r3');
+  await t.page.$eval('#latin .sil .sil-btn', b => b.click());
+  const l1 = await silState('#latin');
+  check(silN > 4 && s0.hidden && s0.expanded === 'false' && !s1.hidden && s1.expanded === 'true' && s1.text.length > 20 && s2.hidden && !l1.hidden,
+    `silent parts: ${silN} blocks, hidden by default, the button opens (${s1.expanded}) and closes (${s2.expanded}) them, in the Latin section too`);
   await t.page.evaluate(() => window.scrollTo(0, 0));
   // Creed (days with it): the Nicene by default, the Apostles' to choose; the Latin section follows.
   if (await t.page.$('#sel-creed')) {

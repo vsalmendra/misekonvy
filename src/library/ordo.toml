@@ -15,6 +15,7 @@ greeting = '''
 penitential = '''
 <h3>Bűnbánati cselekmény</h3>
 <p>Testvéreim! Vizsgáljuk meg lelkiismeretünket, és bánjuk meg bűneinket, hogy méltóképpen ünnepelhessük az Úr szent titkait!</p>
+<!--sil:pen_silence-->
 '''
 
 kyrie = '''
@@ -31,8 +32,11 @@ gifts = '''
 <h3>Előkészület az adományokkal</h3>
 <p>Áldott vagy, Urunk, mindenség Istene, mert a te bőkezűségedből kaptuk a kenyeret. Felajánljuk neked, mint a föld termését és az emberi munka gyümölcsét. Ebből lesz számunkra az élet kenyere.</p>
 <p class="resp">Áldott legyen az Isten mindörökké.</p>
+<!--sil:water-->
 <p>Áldott vagy, Urunk, mindenség Istene, mert a te bőkezűségedből kaptuk a bort. Felajánljuk neked, mint a szőlőtő termését és az emberi munka gyümölcsét. Ebből lesz számunkra a lélek itala.</p>
 <p class="resp">Áldott legyen az Isten mindörökké.</p>
+<!--sil:humble-->
+<!--sil:wash-->
 <p>Imádkozzatok, testvéreim, hogy az én áldozatom és a tiétek kedves legyen a mindenható Atyaisten előtt!</p>
 <p class="resp">Fogadja el az Úr kezedből az áldozatot nevének dicséretére és dicsőségére, mindannyiunk és az egész Anyaszentegyház javára.</p>
 '''
@@ -63,11 +67,14 @@ communion_rite = '''
 <p>Az Úr békéje legyen veletek mindenkor.</p>
 <p class="resp">És a te lelkeddel.</p>
 <p>Engesztelődjetek ki szívből egymással!</p>
+<!--sil:fraction-->
 <h3>Agnus Dei</h3>
 <p class="resp">Isten Báránya, te elveszed a világ bűneit: irgalmazz nekünk.<br>Isten Báránya, te elveszed a világ bűneit: irgalmazz nekünk.<br>Isten Báránya, te elveszed a világ bűneit: adj nekünk békét.</p>
+<!--sil:before_comm-->
 <h3>Áldozás</h3>
 <p>Íme, az Isten Báránya, íme, aki elveszi a világ bűneit. Boldogok, akik meghívást kaptak a Bárány lakomájára.</p>
 <p class="resp">Uram, nem vagyok méltó, hogy hajlékomba jöjj,<br>hanem csak egy szóval mondd, és meggyógyul az én lelkem.</p>
+<!--sil:comm_priest-->
 <p>Krisztus teste.</p>
 <p class="resp">Ámen.</p>
 '''

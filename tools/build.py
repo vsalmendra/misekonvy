@@ -109,6 +109,56 @@ def bi_paras(la, hu, cls=''):
                    for a, h in zip_longest(split_paras(la), split_paras(hu)))
 
 
+# ---------- silent parts: hidden behind a small "expand" button ----------
+# Gestures and the priest's prayers said quietly (src/library/ordo-latin.toml [silent.*]) are in the text,
+# smaller and fainter, but hidden: a discreet button (two chevrons, up over down, like "<>" turned
+# upright) opens them (user, 2026-11-15). The button's name is its accessible label.
+
+SIL_ICON = ('<svg class="ic-closed" viewBox="0 0 12 18" aria-hidden="true"><path d="M2 6.5 6 2.5 10 6.5M2 11.5 6 15.5 10 11.5"/></svg>'
+            '<svg class="ic-open" viewBox="0 0 12 18" aria-hidden="true"><path d="M2 2.5 6 6.5 10 2.5M2 15.5 6 11.5 10 15.5"/></svg>')
+
+
+def _sil_button(extra=''):
+    return (f'<button type="button" class="sil-btn{extra}" aria-expanded="false" '
+            f'aria-label="Csendben mondott rész vagy szertartási mozdulat – megnyitás" title="Csendben mondott rész">{SIL_ICON}</button>')
+
+
+def _sil_rows(key):
+    e = ORDO_LA['silent'][key]
+    rows = []
+    if e.get('rubric'):
+        rows.append((esc(e.get('rubric_la', '')), esc(e['rubric']), 'sil-r'))
+    for tk, lk, lead in (('text', 'la', None), ('text_b', 'la_b', ('Vel:', 'Vagy:'))):
+        if tk not in e:
+            continue
+        if lead:
+            rows.append((lead[0], lead[1], 'sil-r'))
+        hu, lat = split_paras(e[tk]), split_paras(e.get(lk, ''))
+        for i, h in enumerate(hu):
+            rows.append((lines(lat[i]) if i < len(lat) else '', lines(h), 'sil-t'))
+    return rows
+
+
+def sil_hu(key):
+    body = ''.join(p(hu, cls) for _, hu, cls in _sil_rows(key))
+    return f'<div class="sil">{_sil_button()}<div class="sil-body" hidden>{body}</div></div>'
+
+
+def sil_bi(key):
+    body = ''.join(bi(la, hu, cls) for la, hu, cls in _sil_rows(key))
+    return f'<div class="sil bi-sil">{_sil_button(" bi-full")}<div class="sil-body" hidden>{body}</div></div>'
+
+
+def _expand_sil(html, la):
+    return re.sub(r'<!--sil:(\w+)-->', lambda m: (sil_bi if la else sil_hu)(m.group(1)), html)
+
+
+for _d, _la in ((ORDO, False), (ORDO_LA, True)):          # the fixed parts carry <!--sil:KEY--> markers
+    for _k, _v in list(_d.items()):
+        if isinstance(_v, str) and '<!--sil:' in _v:
+            _d[_k] = _expand_sil(_v, _la)
+
+
 # ---------- options (alternatives inside one slot: buttons, first selected) ----------
 
 def resolve(opt, slot, names):
@@ -215,9 +265,10 @@ def antiphon(o):
 
 def prayer(intro):
     def r(o):
+        lead = (p('Könyörögjünk!') + sil_hu('collect_silence')) if intro else ''
         if o.get('placeholder'):
-            return (p('Könyörögjünk!') if intro else '') + p(PROPER, 'rub') + resp('Ámen.')
-        return (p('Könyörögjünk!') if intro else '') + p(lines(o['text']), 'verse') + resp('Ámen.')
+            return lead + p(PROPER, 'rub') + resp('Ámen.')
+        return lead + p(lines(o['text']), 'verse') + resp('Ámen.')
     return r
 
 
@@ -236,7 +287,7 @@ def bi_prayer(la_title, hu_title, opts, intro, group):
             body = bi(PROPER_LA, PROPER, 'rub')
         else:
             body = noted(bi(lines(o.get('la', '')), lines(o['text']), 'verse'), la_missing(o))
-        return (bi('Orémus.', 'Könyörögjünk!') if intro else '') + body + bi('Amen.', 'Ámen.', 'resp')
+        return ((bi('Orémus.', 'Könyörögjünk!') + sil_bi('collect_silence')) if intro else '') + body + bi('Amen.', 'Ámen.', 'resp')
     return bi_h3(la_title, hu_title) + bi_options(group, opts, r)
 
 
@@ -309,22 +360,22 @@ def bi_alleluia(a):
 
 
 def gospel(g):
-    out = [f'<h3>Evangélium</h3>', p('Az Úr legyen veletek.'), resp('És a te lelkeddel.'),
+    out = [f'<h3>Evangélium</h3>', sil_hu('gospel_before'), p('Az Úr legyen veletek.'), resp('És a te lelkeddel.'),
            p(f'Evangélium {esc(g["book"])} könyvéből.'), resp('Dicsőség neked, Istenünk.')]
     if g.get('summary'):
         out.append(p(esc(g['summary']), 'rub'))
     out += [paras(g['text']) if g.get('text') else p(NO_HU, 'rub'),
-            p('Ezek az evangélium igéi.'), resp('Áldunk téged, Krisztus.'), cite(g['cite'])]
+            p('Ezek az evangélium igéi.'), resp('Áldunk téged, Krisztus.'), sil_hu('gospel_after'), cite(g['cite'])]
     return '\n'.join(out)
 
 
 def bi_gospel(g):
     book = f'Léctio sancti Evangélii secúndum {esc(g["la_book"])}.' if g.get('la_book') else ''
-    return (bi_h3('Evangelium', 'Evangélium') + bi('Dóminus vobíscum.', 'Az Úr legyen veletek.') +
+    return (bi_h3('Evangelium', 'Evangélium') + sil_bi('gospel_before') + bi('Dóminus vobíscum.', 'Az Úr legyen veletek.') +
             bi('Et cum spíritu tuo.', 'És a te lelkeddel.', 'resp') +
             noted(bi(book, f'Evangélium {esc(g["book"])} könyvéből.') + bi('Glória tibi, Dómine.', 'Dicsőség neked, Istenünk.', 'resp') +
                   bi_paras(g.get('la'), g.get('text', '')), NO_LATIN) + bi('Verbum Dómini.', 'Ezek az evangélium igéi.') +
-            bi('Laus tibi, Christe.', 'Áldunk téged, Krisztus.', 'resp') + bi_cite(g['cite']))
+            bi('Laus tibi, Christe.', 'Áldunk téged, Krisztus.', 'resp') + sil_bi('gospel_after') + bi_cite(g['cite']))
 
 
 def word(r):
@@ -687,6 +738,7 @@ def render(m):
     h.append('<section id="r4"><h2 class="part">A szentáldozás szertartása</h2>')
     h.append(ORDO['communion_rite'])
     h.append('<h3>Áldozási ének</h3>' + options(o['communion'], antiphon, 'alt-communion'))
+    h.append(sil_hu('purification'))
     h.append('<h3>Áldozás utáni könyörgés</h3>' + options(o['postcommunion'], prayer(True), 'alt-postcommunion'))
     h.append('</section>')
     h.append('<section id="r5"><h2 class="part">Befejező szertartás</h2>\n' +
@@ -723,6 +775,7 @@ def render(m):
     g.append(bi_h2('Ritus communionis · A szentáldozás szertartása'))
     g.append(ORDO_LA['communion_rite'])
     g.append(bi_antiphon('Antiphona ad communionem', 'Áldozási ének', o['communion'], 'alt-communion'))
+    g.append(sil_bi('purification'))
     g.append(bi_prayer('Post communionem', 'Áldozás utáni könyörgés', o['postcommunion'], True, 'alt-postcommunion'))
     g.append(bi_h2('Ritus conclusionis · Befejező szertartás'))
     g.append(mark_first(ORDO_LA['concluding'], 'Áldás és elbocsátás', 'Benedictio et dimissio'))

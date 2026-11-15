@@ -1,0 +1,166 @@
+# Recipe: src/masses/2026-11-16.md
+date = "2026-11-16"
+title = "Skóciai Szent Margit"
+day = "33. évközi hét hétfője · választható emléknap"
+rank = "fehér színben"
+gloria = false
+creed = false
+eucharistic_prayer = 2
+prefaces = ["szentek-1", "szentek-2"]
+mass_type = "Szentek általános miséi: Jótékonykodók (III) · saját könyörgéssel"
+names = [["Szent N.-t", "Skóciai Szent Margitot"], ["Szent N.", "Skóciai Szent Margit"]]
+# Latin: the common is written for a man ("beáti N.", "qui"): feminine here.
+la_names = [["beáti N.", "beátæ Margarítæ"], ["qui te indeféssa pietáte cóluit", "quæ te indeféssa pietáte cóluit"]]
+
+# The new missal (Római Misekönyv, 3rd ed. 2021, p. 746): "Skóciai Szent Margit — Szentek általános miséi:
+# Jótékonykodók, 840. o." + own collect. Common: pp. 840-841 (its two antiphons, prayers and "Vagy"s).
+[[entrance]]
+ref = "@jotekonykodok/1"
+[[entrance]]
+ref = "@jotekonykodok/1:entrance_b"
+
+[[collect]]
+label = "Saját"
+source = "Római Misekönyv, 3. kiadás (2021), november 16., 746. o.; latin: Missale Romanum, editio typica tertia (2002), 16 nov."
+text = '''
+Irgalmas Istenünk,
+te Szent Margit szívébe
+igen nagy szeretetet adtál a szegények iránt.
+Közbenjárására add, hogy példája szerint éljünk,
+és bennünk a te jóságodat ismerjék fel az emberek.
+A mi Urunk, Jézus Krisztus, a te Fiad által,
+aki veled él és uralkodik a Szentlélekkel egységben,
+Isten mindörökkön örökké.
+'''
+la = '''
+Deus, qui beátam Margarítam
+exímia in páuperes caritáte mirábilem effecísti,
+da, ut, eius intercessióne et exémplo,
+imáginem bonitátis tuæ inter hómines referámus.
+Per Dóminum nostrum Iesum Christum, Filium tuum,
+qui tecum vivit et regnat in unitáte Spíritus Sancti,
+Deus, per ómnia sǽcula sæculórum.
+'''
+
+[[collect]]
+label = "Közös"
+ref = "@jotekonykodok/1"
+
+offertory = "@jotekonykodok/1"
+
+[[communion]]
+ref = "@jotekonykodok/1"
+[[communion]]
+ref = "@jotekonykodok/1:communion_b"
+
+[[postcommunion]]
+ref = "@jotekonykodok/1"
+[[postcommunion]]
+ref = "@jotekonykodok/1:postcommunion_b"
+
+# Readings: ferial, 33. évközi hét hétfő, II. év (src/cycle/evkozi-33-1-II.json = igenaptár 2026-11-16).
+# Latin: Missale Romanum cum lectionibus 1977, vol. IV, Feria secunda, Anno secundo, pp. 489-491
+# (OCR corrected by hand; Vulgate numbering).
+[reading1]
+label = "Szentlecke"
+sub = "a Jelenések könyvéből"
+summary = "Isten számon kéri az első szeretet megfogyatkozását."
+cite = "Jel 1,1-4; 2,1-5a"
+la_sub = "Initium libri Apocalypsis beati Ioannis apostoli"
+text = '''
+Íme, Jézus Krisztus kinyilatkoztatást ad, amelyet Isten azért bízott rá, hogy megmutassa szolgáinak mindazt, aminek csakhamar meg kell történnie. Ezért elküldte angyalát, és így jelentette ki szolgájának, Jánosnak, aki tanúskodik arról, amit Isten mondott, és amiről Jézus Krisztus tanúságot tett: mindenről, amit látott.
+
+Boldog, aki olvassa, és boldogok, akik hallgatják ennek a jövendölésnek szavait, megtartva mindazt, ami fel van jegyezve benne, mert a beteljesülés ideje közel van.
+
+János (üdvözletét küldi) a hét kis-ázsiai egyházközségnek: Kegyelem nektek és békesség Istentől, aki van, aki volt, és aki eljövendő; valamint a hét (ajándékú) Szentlélektől, aki Isten trónja előtt áll, és Jézus Krisztustól!
+
+Látomásom volt, és hallottam, amint az Úr ezt mondta nekem: „Az efezusi egyház elöljárójának írd meg! Így szól az, aki jobbjában a hét csillagot tartja, aki a hét arany gyertyatartó között jár: Ismerem tetteidet, fáradozásodat és állhatatosságodat. Tudom, hogy nem tűröd a gonoszokat. Próbára tetted azokat, akik apostolnak mondják magukat, pedig nem azok; és hazugnak találtad őket. Állhatatos is vagy: szenvedtél értem, és nem fáradtál bele.
+
+De van egy kifogásom ellened. Elhagytad első szeretetedet. Gondold meg, honnan süllyedtél ide! Tarts bűnbánatot, és tégy úgy, mint azelőtt!”
+'''
+la = '''
+Apocalypsis Iesu Christi, quam dedit illi Deus palam facere servis suis quae oportet fieri cito, et significavit mittens per angelum suum servo suo Ioanni, qui testificatus est verbum Dei et testimonium Iesu Christi, quaecumque vidit.
+
+Beatus qui legit, et qui audiunt verba prophetiae et servant ea quae in ea scripta sunt: tempus enim prope est.
+
+Ioannes septem Ecclesiis quae sunt in Asia: Gratia vobis et pax ab Eo qui est et qui erat et qui venturus est, et a septem Spiritibus qui in conspectu throni eius sunt.
+
+Audivi Dominum dicentem mihi: «Angelo Ecclesiae quae est Ephesi scribe: Haec dicit qui tenet septem stellas in dextera sua, qui ambulat in medio septem candelabrorum aureorum: “Scio opera tua et laborem et patientiam tuam, et quia non potes sustinere malos, et tentasti eos qui se dicunt apostolos et non sunt, et invenisti eos mendaces; et patientiam habes, et sustinuisti propter nomen meum, et non defecisti.
+
+Sed habeo adversus te quod caritatem tuam primam reliquisti. Memor esto itaque unde excideris et age paenitentiam et prima opera fac”».
+'''
+
+[psalm]
+cite = "Zsolt 1,1-4 és 6"
+response = "Jutalmul adom a győztesnek, hogy egyék az élet fájáról."
+la_response = "Vincenti dabo edere de ligno vitae."
+verses = [
+'''
+Boldog ember, aki nem követi a gonoszok tanácsát, nem lép a bűnösök útjára,
+a gúnyolódok körében nem foglal helyet,
+hanem az Úr törvényében leli örömét,
+az ő parancsairól elmélkedik éjjel és nappal.
+''', '''
+Olyan, mint a fa, melyet folyóvíz mellé ültettek,
+mely idejében gyümölcsöt érlel.
+Nem fonnyad el a lombja,
+siker koronázza minden tettét.
+''', '''
+Nem így járnak a gonoszok, nem így,
+hanem mint a polyva, melyet szétszór a szél.
+Mert az Úr őrzi az igazak útját,
+a gonoszok útja pusztulás.
+''']
+la_verses = [
+'''
+Beatus vir qui non abiit in consilio impiorum,
+et in via peccatorum non stetit,
+et in conventu derisorum non sedit;
+sed in lege Domini voluntas eius,
+et in lege eius meditatur die ac nocte.
+''', '''
+Et erit tamquam lignum plantatum secus decursus aquarum,
+quod fructum suum dabit in tempore suo;
+et folium eius non defluet,
+et omnia quaecumque faciet prosperabuntur.
+''', '''
+Non sic impii, non sic,
+sed tamquam pulvis quem proicit ventus.
+Quoniam novit Dominus viam iustorum,
+et iter impiorum peribit.
+''']
+
+[alleluia]
+cite = "Jn 8,12"
+text = "Én vagyok a világ világossága – mondja az Úr; aki engem követ, övé lesz az élet világossága."
+la = "Ego sum lux mundi, dicit Dominus; qui sequitur me habebit lumen vitae."
+
+[gospel]
+book = "Szent Lukács"
+la_book = "Lucam"
+summary = "A jerikói vak azt kívánta, hogy lásson. Lássuk meg mi is a helyes utat!"
+cite = "Lk 18,35-43"
+text = '''
+Amikor Jeruzsálembe menet Jézus Jerikó városához közeledett, egy vak koldus ült az út szélén. Amint ez meghallotta, hogy sokan vonulnak arra, megkérdezte, mi történik. Mondták neki, hogy a názáreti Jézus jön errefelé. Erre kiáltozni kezdett: „Jézus, Dávid fia, könyörülj rajtam!” Akik elöl mentek, csitították, hogy hallgasson. De ő annál jobban kiáltotta: „Dávid fia, könyörülj rajtam!”
+
+Jézus ekkor megállt, és szólt, hogy vezessék hozzá. Amikor odaért, megkérdezte: „Mit akarsz, mit tegyek veled?” A vak könyörgött: „Uram, hogy lássak!” Jézus így szólt hozzá: „Láss! Hited meggyógyított téged.” Azonnal visszanyerte látását. Dicsőítette Istent, és követte őt. Ennek láttára az egész nép áldotta Istent.
+'''
+la = '''
+In illo tempore: Factum est cum appropinquaret Iesus Iericho, caecus quidam sedebat secus viam mendicans. Et cum audiret turbam praetereuntem, interrogabat quid hoc esset. Dixerunt autem ei: «Iesus Nazarenus transit». Et clamavit dicens: «Iesu, fili David, miserere mei». Et qui praeibant increpabant eum ut taceret, ipse vero multo magis clamabat: «Fili David, miserere mei».
+
+Stans autem Iesus iussit illum adduci ad se. Et cum appropinquasset, interrogavit illum: «Quid tibi vis faciam?». At ille dixit: «Domine, ut videam». Et Iesus dixit illi: «Respice, fides tua te salvum fecit». Et confestim vidit, et sequebatur illum magnificans Deum. Et omnis plebs, ut vidit, dedit laudem Deo.
+'''
+
+# igenaptár 2026-11-16 (the weekday's set).
+[faithful]
+intro = "Kérjük, testvéreim, a mindenható Atyaistent, hogy szent Fia által árassza kegyelmi ajándékait a hívekre és a főpásztorokra, akiket az Egyházban egyesít a Szentlélek!"
+response = "Kérünk téged, hallgass meg minket!"
+petitions = [
+  "Őrizd meg, egyesítsd és kormányozd szentegyházadat!",
+  "Tartsd meg Szentatyánkat, Leó pápát épségben és biztonságban szent népednek kormányzására!",
+  "Áraszd Szentlelked világosságát az Egyház püspökeire és papjaira!",
+  "Adj az egész kereszténységnek békességet és egyetértést!",
+  "Mutasd meg jóságos arcodat a betegeknek és a szenvedőknek!",
+  { note = "Ha a szentmisét elhunytért mutatják be:", text = "Adj örök nyugalmat N. testvérünknek (nővérünknek), akiért ezt a szent áldozatot felajánljuk!" },
+]
+conclusion = "Úristen, oltalmunk és erősségünk! Hallgasd meg Egyházad buzgó könyörgését! Te adod lelkünkbe a vallásos buzgóságot. Engedd, hogy amit hittel kérünk, azt valóban elnyerhessük! Krisztus, a mi Urunk által."
