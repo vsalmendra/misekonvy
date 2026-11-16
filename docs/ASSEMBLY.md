@@ -176,8 +176,12 @@ them (user, 2026-11-15). They are defined once in `ordo-latin.toml` under `[sile
 fixed parts carry `<!--sil:<key>-->` markers (penitential act silence, water and wine, "Alázatos lélekkel",
 handwashing, fraction, before and at communion, purification) and `build.py` adds the Gospel ones and the
 silence after "Könyörögjünk!" (`sil_hu` / `sil_bi`). Sources: new missal, A mise rendje (Szentmise néppel
-4, 14, 16, 23-28, 129-137, 139); Latin MR 2002, Ordo Missae. The Eucharistic prayers' own rubrics are
-not hidden yet.
+4, 14, 16, 23-28, 129-137, 139); Latin MR 2002, Ordo Missae. The gestures inside the four Eucharistic prayers (hands, sign of the cross over the gifts, taking and showing the
+host and chalice, bows, genuflections, the doxology) are hidden the same way (2026-11-15): each EP in
+`eucharistic-prayers.toml` has `silent = [[paragraph, "b"|"a", key], ...]` (paragraph = 0-based index over the `<p>` of its
+html; "b" before, "a" after; items falling into the same gap form ONE block) and the rows are `[silent.ep_*]` in
+`ordo-latin.toml` (`rows` = [Hungarian, Latin] pairs; new missal pp. 480-504, MR 2002). A rubric that sits inside a
+paragraph is put at the paragraph's start.
 
 **Creed** — where `creed = true`, buttons "Hitvallás" offer the Nicene–Constantinopolitan Creed
 (default) and the Apostles' Creed (`creed_apostles` in `ordo.toml` / `ordo-latin.toml`; user, 2026-11-08).

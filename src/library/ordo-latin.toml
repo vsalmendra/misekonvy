@@ -330,3 +330,117 @@ Földi életünkben kapott ajándékod
 segítsen bennünket az örök életre."""
 la = """Quod ore súmpsimus, Dómine, pura mente capiámus,
 et de múnere temporáli fiat nobis remédium sempitérnum."""
+
+# Gestures inside the Eucharistic prayers (hidden behind the expand button like the other silent parts;
+# `rows` = pairs [Hungarian rubric, Latin rubric]). Hungarian: new missal, Eucharisztikus imák (pp. 480-504);
+# Latin: Missale Romanum 2002. eucharistic-prayers.toml places them: silent = [[paragraph, "b"(efore) | "a"(fter), key], ...]
+# (paragraph = 0-based index over the <p> of the prayer's html); a rubric inside a paragraph is put at its start.
+[silent.ep_open]
+rows = [
+  ["A pap kitárt karral mondja:", "Sacerdos, manibus extensis, dicit:"],
+]
+
+[silent.ep1_start]
+rows = [
+  ["A pap kitárt karral mondja:", "Sacerdos, manibus extensis, dicit:"],
+  ["Kezét összeteszi és mondja:", "iungit manus et dicit:"],
+  ["Keresztet rajzol a kenyér és a kehely fölé, mondván:", "signat semel super panem et calicem simul, dicens:"],
+  ["Kitárt karral folytatja:", "extensis manibus prosequitur:"],
+]
+
+[silent.ep1_living]
+rows = [
+  ["Kezét összeteszi, és rövid csendben imádkozik azokért, akikről külön is meg akar emlékezni. Ezután kitárt karral folytatja:", "Iungit manus et orat aliquantulum pro quibus orare intendit. Deinde, manibus extensis, prosequitur:"],
+]
+
+[silent.ep1_hands]
+rows = [
+  ["Kitárt karral folytatja:", "Manibus extensis, prosequitur:"],
+]
+
+[silent.ep1_over]
+rows = [
+  ["Kezeit a felajánlott adományok fölé terjesztve mondja:", "Tenens manus expansas super oblata, dicit:"],
+]
+
+[silent.ep_epiclesis]
+rows = [
+  ["Kezét összeteszi, majd a felajánlott adományok fölé terjesztve mondja:", "Iungit manus, easque expansas super oblata tenens, dicit:"],
+  ["Kezét összeteszi, keresztet rajzol a kenyér és a kehely fölé, mondván:", "iungit manus et signat semel super panem et calicem simul, dicens:"],
+]
+
+[silent.ep_joined]
+rows = [
+  ["Kezét összeteszi.", "Iungit manus."],
+]
+
+[silent.ep_words_bread]
+rows = [
+  ["A következő szakaszban az Úr szavait tagoltan és érthetően kell mondani, amint azt a szavak természete megkívánja.", "In formulis quæ sequuntur, verba Domini proferantur distincte et aperte, prouti natura eorundem verborum requirit."],
+  ["Kezébe veszi a kenyeret, azt kissé felemelve az oltár felett tartja, és folytatja:", "accipit panem, eumque parum elevatum super altare tenens, prosequitur:"],
+]
+
+[silent.ep1_words_bread]
+rows = [
+  ["A következő szakaszban az Úr szavait tagoltan és érthetően kell mondani, amint azt a szavak természete megkívánja.", "In formulis quæ sequuntur, verba Domini proferantur distincte et aperte, prouti natura eorundem verborum requirit."],
+  ["Kezébe veszi a kenyeret, azt kissé felemelve az oltár felett tartja, és folytatja:", "accipit panem, eumque parum elevatum super altare tenens, prosequitur:"],
+  ["Föltekint.", "elevat oculos,"],
+]
+
+[silent.ep_bow]
+rows = [
+  ["Kissé meghajol.", "parum se inclinat"],
+]
+
+[silent.ep_host]
+rows = [
+  ["A szentostyát felmutatja a népnek, ráteszi a paténára, és térdet hajtva imádja.", "Hostiam consecratam ostendit populo, reponit super patenam, et genuflexus adorat."],
+]
+
+[silent.ep_words_chalice]
+rows = [
+  ["Kezébe veszi a kelyhet, azt kissé felemelve az oltár felett tartja, és így folytatja:", "accipit calicem, eumque parum elevatum super altare tenens, prosequitur:"],
+]
+
+[silent.ep_chalice]
+rows = [
+  ["A kelyhet felmutatja a népnek, ráteszi a korporáléra, és térdet hajtva imádja.", "Calicem ostendit populo, deponit super corporale, et genuflexus adorat."],
+]
+
+[silent.ep_then]
+rows = [
+  ["Ezután a pap kitárt karral mondja:", "Deinde sacerdos, extensis manibus, dicit:"],
+]
+
+[silent.ep1_angel]
+rows = [
+  ["Meghajolva, összetett kézzel folytatja:", "Inclinatus, iunctis manibus, prosequitur:"],
+  ["Fölegyenesedik és keresztet vet magára, mondván:", "erigit se atque seipsum signat, dicens:"],
+]
+
+[silent.ep1_dead_open]
+rows = [
+  ["Kitárt karral mondja:", "Manibus extensis, dicit:"],
+]
+
+[silent.ep1_dead_pause]
+rows = [
+  ["Kezét összeteszi, és rövid csendben imádkozik azokért az elhunytakért, akikről külön is meg akar emlékezni. Ezután kitárt karral folytatja:", "Iungit manus et orat aliquantulum pro iis defunctis, pro quibus orare intendit. Deinde, extensis manibus, prosequitur:"],
+]
+
+[silent.ep1_breast]
+rows = [
+  ["Jobb kezével mellét megüti, mondván:", "Manu dextera percutit sibi pectus, dicens:"],
+  ["Kitárt karral folytatja:", "et extensis manibus prosequitur:"],
+]
+
+[silent.ep1_goon]
+rows = [
+  ["Kezét összeteszi, majd folytatja:", "Et prosequitur:"],
+]
+
+[silent.ep_doxology]
+rows = [
+  ["Kezébe veszi a paténát a szentostyával, valamint a kelyhet, és mindkettőt felemelve mondja:", "Accipit patenam cum hostia et calicem, et utrumque elevans, dicit:"],
+]
+

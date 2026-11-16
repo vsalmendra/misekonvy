@@ -3,6 +3,29 @@
 # EP IV may only be said with its own preface (prefaces.toml: ep4).
 
 [1]
+silent = [
+  [0, "b", "ep1_start"],
+  [3, "b", "ep1_living"],
+  [5, "b", "ep1_hands"],
+  [5, "a", "ep_joined"],
+  [6, "b", "ep1_over"],
+  [6, "a", "ep_joined"],
+  [7, "b", "ep1_words_bread"],
+  [8, "b", "ep_bow"],
+  [8, "a", "ep_host"],
+  [9, "b", "ep_words_chalice"],
+  [10, "b", "ep_bow"],
+  [10, "a", "ep_chalice"],
+  [13, "b", "ep_then"],
+  [15, "b", "ep1_angel"],
+  [15, "a", "ep_joined"],
+  [16, "b", "ep1_dead_open"],
+  [17, "b", "ep1_dead_pause"],
+  [17, "a", "ep_joined"],
+  [18, "b", "ep1_breast"],
+  [19, "b", "ep1_goon"],
+  [20, "b", "ep_doxology"],
+]
 la_label = "Prex eucharistica I (Canon Romanus)"
 la = [
   "Te ígitur, clementíssime Pater, per Iesum Christum, Fílium tuum, Dóminum nostrum, súpplices rogámus ac pétimus, uti accépta hábeas et benedícas † hæc dona, hæc múnera, hæc sancta sacrifícia illibáta,",
@@ -55,6 +78,20 @@ html = '''
 '''
 
 [2]
+silent = [
+  [0, "b", "ep_open"],
+  [1, "b", "ep_epiclesis"],
+  [1, "a", "ep_joined"],
+  [2, "b", "ep_words_bread"],
+  [3, "b", "ep_bow"],
+  [3, "a", "ep_host"],
+  [4, "b", "ep_words_chalice"],
+  [5, "b", "ep_bow"],
+  [5, "a", "ep_chalice"],
+  [8, "b", "ep_then"],
+  [12, "b", "ep_joined"],
+  [12, "b", "ep_doxology"],
+]
 # In Masses for the dead (selectable "Elhunytért"; default: the ordinary text): an extra paragraph
 # before paragraph `dead_at` (0-based, counted over the <p> of html). 1991 missal p. 422; Latin 1977 vol. IV, p. 634.
 dead_at = 11
@@ -98,6 +135,20 @@ html = '''
 '''
 
 [3]
+silent = [
+  [0, "b", "ep_open"],
+  [1, "b", "ep_epiclesis"],
+  [1, "a", "ep_joined"],
+  [2, "b", "ep_words_bread"],
+  [3, "b", "ep_bow"],
+  [3, "a", "ep_host"],
+  [4, "b", "ep_words_chalice"],
+  [5, "b", "ep_bow"],
+  [5, "a", "ep_chalice"],
+  [8, "b", "ep_then"],
+  [14, "b", "ep_joined"],
+  [14, "b", "ep_doxology"],
+]
 # In Masses for the dead: this text replaces paragraph `dead_at` ("Elhunyt testvéreinket pedig…").
 # 1991 missal p. 427 (115.); Latin 1977 vol. IV, p. 641 (116.).
 dead_at = 13
@@ -145,6 +196,20 @@ html = '''
 '''
 
 [4]
+silent = [
+  [1, "b", "ep_open"],
+  [3, "b", "ep_epiclesis"],
+  [3, "a", "ep_joined"],
+  [4, "b", "ep_words_bread"],
+  [5, "b", "ep_bow"],
+  [5, "a", "ep_host"],
+  [6, "b", "ep_words_chalice"],
+  [7, "b", "ep_bow"],
+  [7, "a", "ep_chalice"],
+  [10, "b", "ep_then"],
+  [14, "b", "ep_joined"],
+  [14, "b", "ep_doxology"],
+]
 la_label = "Prex eucharistica IV"
 la = [
   "Confitémur tibi, Pater sancte, quia magnus es et ómnia ópera tua in sapiéntia et caritáte fecísti. Hóminem ad tuam imáginem condidísti, eíque commisísti mundi curam univérsi, ut, tibi soli Creatóri sérviens, creatúris ómnibus imperáret. Et cum amicítiam tuam, non obœ́diens, amisísset, non eum dereliquísti in mortis império. Omnibus enim misericórditer subvenísti, ut te quæréntes invenírent. Sed et fœ́dera plúries homínibus obtulísti eósque per prophétas erudísti in exspectatióne salútis.",

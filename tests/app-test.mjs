@@ -139,6 +139,12 @@ async function open(day, path = '', { blockCalendar = false, blockOrdinary = fal
   const l1 = await silState('#latin');
   check(silN > 4 && s0.hidden && s0.expanded === 'false' && !s1.hidden && s1.expanded === 'true' && s1.text.length > 20 && s2.hidden && !l1.hidden,
     `silent parts: ${silN} blocks, hidden by default, the button opens (${s1.expanded}) and closes (${s2.expanded}) them, in the Latin section too`);
+  // The Eucharistic prayers carry their gestures too (hidden): each of the four, Hungarian and Latin.
+  const epSil = await t.page.$$eval('#r3 .variants[data-group="ep"] > .variant', vs => vs.map(v => v.querySelectorAll('.sil').length));
+  const epSilLa = await t.page.$$eval('#latin .variants[data-group="ep"] > .variant', vs => vs.map(v => v.querySelectorAll('.sil').length));
+  const consecr = await t.page.$eval('#r3 .variants[data-group="ep"] > .variant[data-opt="2"] .sil-body', b => b.hidden);
+  check(epSil.length === 4 && epSil.every(n => n >= 6) && epSilLa.every(n => n >= 6) && consecr,
+    `Eucharistic prayers: hidden gesture blocks in all four (${epSil.join('/')} Hungarian, ${epSilLa.join('/')} Latin)`);
   await t.page.evaluate(() => window.scrollTo(0, 0));
   // Creed (days with it): the Nicene by default, the Apostles' to choose; the Latin section follows.
   if (await t.page.$('#sel-creed')) {

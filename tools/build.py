@@ -123,9 +123,16 @@ def _sil_button(extra=''):
             f'aria-label="Csendben mondott rész vagy szertartási mozdulat – megnyitás" title="Csendben mondott rész">{SIL_ICON}</button>')
 
 
-def _sil_rows(key):
-    e = ORDO_LA['silent'][key]
+def _sil_rows(keys):
+    """keys: one name or a list of names (their rows one after the other)."""
     rows = []
+    for key in ([keys] if isinstance(keys, str) else keys):
+        rows += _sil_rows_one(ORDO_LA['silent'][key])
+    return rows
+
+
+def _sil_rows_one(e):
+    rows = [(esc(la), esc(hu), 'sil-r') for hu, la in e.get('rows', [])]      # rubric-only blocks (Eucharistic prayers)
     if e.get('rubric'):
         rows.append((esc(e.get('rubric_la', '')), esc(e['rubric']), 'sil-r'))
     for tk, lk, lead in (('text', 'la', None), ('text_b', 'la_b', ('Vel:', 'Vagy:'))):
@@ -480,6 +487,24 @@ def dead_chooser(k, la=False):
     return picker('dead', sid, 'Pro defunctis · Elhunytért' if la else 'Elhunytért', DEAD_OPTS, 'normal', la)
 
 
+def ep_silent(ep, blocks, make):
+    """Gestures of the Eucharistic prayer: `silent = [[paragraph, "b"|"a", key], ...]` (eucharistic-prayers.toml).
+    A block (make = sil_hu / sil_bi) stands before / after the paragraph; everything that falls into the same gap
+    (after one paragraph, before the next) is ONE block, in the order listed (after-items first)."""
+    gaps = {}
+    for i, w, key in ep.get('silent', []):
+        gaps.setdefault(i if w == 'b' else i + 1, []).append((w != 'a', key))
+    out = []
+    for g in range(len(blocks) + 1):
+        keys = [k for _, k in sorted(gaps.get(g, []), key=lambda x: x[0])]
+        blk = make(keys) if keys else ''
+        if g < len(blocks):
+            out.append(blk + blocks[g])
+        elif blk:
+            out[-1] += blk
+    return out
+
+
 def with_dead(ep, blocks, dead, chooser_html):
     """blocks: one HTML block per paragraph of the prayer; puts the buttons and the dead variant at the
     place where the text changes (just before it)."""
@@ -493,9 +518,11 @@ def ep_html(k):
     """The Hungarian text of Eucharistic prayer k (jump marks; the dead variant where it has one)."""
     ep = EPS[k]
     h = mark_ep_html(ep['html'])
-    if 'dead_at' not in ep:
+    if 'dead_at' not in ep and 'silent' not in ep:
         return h
-    blocks = re.findall(r'<p[ >].*?</p>', h, re.S)
+    blocks = ep_silent(ep, re.findall(r'<p[ >].*?</p>', h, re.S), sil_hu)
+    if 'dead_at' not in ep:
+        return '\n'.join(blocks)
     dead = p(esc(ep['dead_rubric']), 'rub') + p(esc(ep['dead_text']))
     return '\n'.join(with_dead(ep, blocks, dead, dead_chooser(k)))
 
@@ -610,6 +637,7 @@ def bi_ep(k):
             row = bi(esc(next(la, '')), body, cls or '')
             rows.append(row.replace('<p class="bi-r', '<p' + toc_attr(marks.get(i)) + ' class="bi-r', 1))
     head = bi_h3(esc(ep.get('la_label', '')), esc(ep['label']))
+    rows = ep_silent(ep, rows, sil_bi)
     if 'dead_at' in ep:
         dead = f'<p class="bi-full rub">{esc(ep["dead_rubric"])}</p>' + bi(esc(ep['dead_la']), esc(ep['dead_text']))
         rows = with_dead(ep, rows, dead, dead_chooser(k, la=True))
