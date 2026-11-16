@@ -119,8 +119,8 @@ SIL_ICON = ('<svg class="ic-closed" viewBox="0 0 12 18" aria-hidden="true"><path
 
 
 def _sil_button(extra=''):
-    return (f'<button type="button" class="sil-btn{extra}" aria-expanded="false" '
-            f'aria-label="Csendben mondott rész vagy szertartási mozdulat – megnyitás" title="Csendben mondott rész">{SIL_ICON}</button>')
+    return (f'<div class="sil-bar{extra}"><button type="button" class="sil-btn" aria-expanded="false" '
+            f'aria-label="Csendben mondott rész vagy szertartási mozdulat – megnyitás" title="Csendben mondott rész">{SIL_ICON}</button></div>')
 
 
 def _sil_rows(keys):
@@ -164,6 +164,25 @@ for _d, _la in ((ORDO, False), (ORDO_LA, True)):          # the fixed parts carr
     for _k, _v in list(_d.items()):
         if isinstance(_v, str) and '<!--sil:' in _v:
             _d[_k] = _expand_sil(_v, _la)
+
+
+_SIL_RE = re.compile(r'<div class="sil( bi-sil)?">(<div class="sil-bar[^"]*">.*?</div>)<div class="sil-body" hidden>(.*?)</div></div>', re.S)
+
+
+def merge_sil(html):
+    """Hidden parts that follow one another (nothing but white space between them) become ONE block with one
+    button (user, 2026-11-16)."""
+    def block(c):
+        return f'<div class="sil{c["bi"] or ""}">{c["bar"]}<div class="sil-body" hidden>{c["body"]}</div></div>'
+    out, cur = [], None
+    for m in _SIL_RE.finditer(html):
+        if cur and not html[cur['end']:m.start()].strip():
+            cur['end'], cur['body'] = m.end(), cur['body'] + m.group(3)
+            continue
+        out.append(html[0:m.start()] if cur is None else block(cur) + html[cur['end']:m.start()])
+        cur = {'end': m.end(), 'bi': m.group(1), 'bar': m.group(2), 'body': m.group(3)}
+    out.append(html if cur is None else block(cur) + html[cur['end']:])
+    return ''.join(out)
 
 
 # ---------- options (alternatives inside one slot: buttons, first selected) ----------
@@ -810,7 +829,7 @@ def render(m):
     back = '<p class="jump"><a class="btn" href="#top">↑ Vissza a magyar szöveghez</a></p>'
     h.append(f'<section id="latin" class="bilingual"><h2 class="part">Latin–magyar szöveg</h2>{back}'
              f'<div class="bi-grid">{"".join(g)}</div>{back}</section>')
-    return '\n'.join(h)
+    return merge_sil('\n'.join(h))
 
 
 def main():

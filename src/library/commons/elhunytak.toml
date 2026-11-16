@@ -5,7 +5,9 @@
 # collect_b, postcommunion_b = the "Vagy:" of the book. "N. és N." (Latin "(N. et N.)", optional):
 # the Mass file puts the names in, or drops them with its `names` / `la_names`.
 
-# C. Megemlékező gyászmise több (vagy minden) elhunytért
+# C. Megemlékező gyászmise több (vagy minden) elhunytért = the new missal's B. 1 (Római Misekönyv, 3rd ed., p. 1034:
+# the same Hungarian words, checked 2026-11-16); its Latin: Missale Romanum 2002, B. Pro pluribus vel pro omnibus
+# defunctis, 1 (accents kept; "(N. et N.)" optional).
 [tobb-c]
 entrance_cite = ""
 entrance = '''
@@ -13,8 +15,8 @@ Adj nekik, Urunk, örök nyugodalmat,
 és áraszd el őket mennyei fényességeddel.
 '''
 entrance_la = '''
-Dona eis, Domine, requiem sempiternam
-et imple splendoribus animas eorum.
+Dona eis, Dómine, réquiem sempitérnam
+et imple splendóribus ánimas eórum.
 '''
 collect = '''
 Istenünk, te úgy akartad, hogy egyszülött Fiad
@@ -27,15 +29,15 @@ aki veled él és uralkodik a Szentlélekkel egységben,
 Isten mindörökkön örökké.
 '''
 collect_la = '''
-Deus, qui Unigenitum tuum, devicta morte,
-ad caelestia transire fecisti,
-concede famulis tuis (N. et N.),
-ut, huius vitae mortalitate devicta,
-te conditorem et redemptorem
-possint perpetuo contemplari.
-Per Dominum nostrum Iesum Christum, Filium tuum,
-qui tecum vivit et regnat in unitate Spiritus Sancti,
-Deus, per omnia saecula saeculorum.
+Deus, qui Unigénitum tuum, devícta morte,
+ad cæléstia transíre fecísti,
+concéde fámulis tuis (N. et N.),
+ut, huius vitæ mortalitáte devícta,
+te conditórem et redemptórem
+possint perpétuo contemplári.
+Per Dóminum nostrum Iesum Christum, Filium tuum,
+qui tecum vivit et regnat in unitáte Spíritus Sancti,
+Deus, per ómnia sǽcula sæculórum.
 '''
 collect_b = '''
 Híveid teremtő és megváltó Istene, töröld el gyermekeid minden bűnét,
@@ -62,20 +64,20 @@ ajándékozd nekik hitük jutalmát is.
 Krisztus, a mi Urunk által.
 '''
 offertory_la = '''
-Hostias, quaesumus, Domine,
-quas tibi pro famulis tuis offerimus,
-propitiatus intende,
-ut, quibus fidei christianae meritum contulisti,
-dones et praemium.
-Per Christum Dominum nostrum.
+Hóstias, quǽsumus, Dómine,
+quas tibi pro animábus famulórum tuórum offérimus,
+propitiátus inténde,
+ut, quibus fídei christiánæ méritum contulísti,
+dones et prǽmium.
+Per Christum Dóminum nostrum.
 '''
 communion_cite = "1Jn 4,9"
 communion = '''
 Isten elküldte a világba egyszülött Fiát, hogy általa éljünk.
 '''
 communion_la = '''
-Filium suum unigenitum misit Deus in mundum,
-ut vivamus per eum.
+Fílium suum Unigénitum misit Deus in mundum,
+ut vivámus per eum.
 '''
 postcommunion = '''
 Istenünk, fogadd kegyesen áldozatunkat,
@@ -85,11 +87,11 @@ ajándékozd meg a mennyei örömök teljességével is.
 Krisztus, a mi Urunk által.
 '''
 postcommunion_la = '''
-Multiplica, Domine, his sacrificiis susceptis,
-super famulos tuos defunctos misericordiam tuam,
-et, quibus donasti baptismi gratiam,
-da eis aeternorum plenitudinem gaudiorum.
-Per Christum Dominum nostrum.
+Multíplica, Dómine, his sacrifíciis suscéptis,
+super fámulos tuos defúnctos misericórdiam tuam,
+et, quibus donásti baptísmi grátiam,
+da eis æternórum plenitúdinem gaudiórum.
+Per Christum Dóminum nostrum.
 '''
 postcommunion_b = '''
 Kérünk, Istenünk, váljék gyermekeid üdvére könyörgő imádságunk.

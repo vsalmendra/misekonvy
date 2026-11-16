@@ -139,6 +139,10 @@ async function open(day, path = '', { blockCalendar = false, blockOrdinary = fal
   const l1 = await silState('#latin');
   check(silN > 4 && s0.hidden && s0.expanded === 'false' && !s1.hidden && s1.expanded === 'true' && s1.text.length > 20 && s2.hidden && !l1.hidden,
     `silent parts: ${silN} blocks, hidden by default, the button opens (${s1.expanded}) and closes (${s2.expanded}) them, in the Latin section too`);
+  // Hidden parts that follow each other are one block (one button); the button is centred.
+  const adj = await t.page.$$eval('.sil + .sil', d => d.length);
+  const centred = await t.page.$eval('#r3 .sil .sil-btn', b => { const r = b.getBoundingClientRect(), q = b.closest('.sil').getBoundingClientRect(); return Math.abs((r.left + r.width / 2) - (q.left + q.width / 2)) < 2; });
+  check(adj === 0 && centred, `hidden parts: sequential ones merged (${adj} adjacent blocks left), button centred`);
   // The Eucharistic prayers carry their gestures too (hidden): each of the four, Hungarian and Latin.
   const epSil = await t.page.$$eval('#r3 .variants[data-group="ep"] > .variant', vs => vs.map(v => v.querySelectorAll('.sil').length));
   const epSilLa = await t.page.$$eval('#latin .variants[data-group="ep"] > .variant', vs => vs.map(v => v.querySelectorAll('.sil').length));

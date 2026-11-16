@@ -10,7 +10,7 @@ prefaces = ["megholtak-1", "megholtak-2", "megholtak-3", "megholtak-4", "megholt
 mass_type = "Megemlékező gyászmise több (vagy minden) elhunytért (C)"
 # The collect's names are optional (Latin "(N. et N.)"): said for all the dead, without names.
 names = [["gyermekeidnek, N.-nek és N.-nek,", "gyermekeidnek,"]]
-la_names = [["famulis tuis (N. et N.),", "famulis tuis,"]]
+la_names = [["fámulis tuis (N. et N.),", "fámulis tuis,"]]
 
 # Megemlékező gyászmisék, C. több (vagy minden) elhunytért (the first formula for several dead).
 entrance = "@elhunytak/tobb-c"

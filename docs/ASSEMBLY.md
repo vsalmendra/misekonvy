@@ -170,8 +170,9 @@ az Atya…" (`penitential_forms` in `ordo.toml` / `ordo-latin.toml`; user, 2026-
 is a second block of the same group; it is hidden with the third form, whose invocations are the Kyrie.
 
 **Silent parts** — gestures and the priest's quiet prayers are in the text, smaller and fainter, but
-**hidden**: in their place a discreet button (two chevrons, up over down, like "<>" turned upright) opens
-them (user, 2026-11-15). They are defined once in `ordo-latin.toml` under `[silent.<key>]` (`rubric` /
+**hidden**: in their place a centred, slightly wide, button-like control in a very soft red (two chevrons, up
+over down, like "<>" turned upright) opens them (user, 2026-11-15/16). Hidden parts that follow each other
+with nothing between them are merged into ONE block with one button (`merge_sil` in `build.py`). They are defined once in `ordo-latin.toml` under `[silent.<key>]` (`rubric` /
 `rubric_la` = the instruction, `text` / `la` = the words, `text_b` / `la_b` = the "Vagy / Vel:"); the
 fixed parts carry `<!--sil:<key>-->` markers (penitential act silence, water and wine, "Alázatos lélekkel",
 handwashing, fraction, before and at communion, purification) and `build.py` adds the Gospel ones and the
