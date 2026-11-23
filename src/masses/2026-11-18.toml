@@ -1,0 +1,219 @@
+date = "2026-11-18"
+title = "A Szent Péter- és Szent Pál-bazilikák felszentelése"
+day = "33. évközi hét szerdája · választható emléknap"
+rank = "fehér színben"
+gloria = false
+creed = false
+eucharistic_prayer = 1
+prefaces = ["apostolok-1"]
+mass_type = "Saját mise (Római Misekönyv, november 18.)"
+
+# New missal (Római Misekönyv, 3rd ed. 2021), p. 747, 18 November; Latin: Missale Romanum, editio typica
+# tertia (2002), 18 Nov (the user's PDFs, 2026-11-17).
+[entrance]
+cite = "Vö. Zsolt 44,17-18"
+text = '''
+Fejedelmekké tetted őket az egész földön,
+ezért minden nemzedék megemlékezik rólad,
+és dicsérnek téged a népek
+mindörökkön örökké.
+'''
+la = '''
+Constítues eos príncipes super omnem terram;
+mémores erunt nóminis tui in omni generatióne et generatiónem:
+proptérea pópuli confitebúntur tibi in ætérnum
+et in sǽculum sǽculi.
+'''
+
+[collect]
+source = "Római Misekönyv, 3. kiadás (2021), november 18., 747. o.; latin: Missale Romanum, editio typica tertia (2002), 18 nov."
+text = '''
+Urunk, Istenünk,
+Szent Péter és Szent Pál apostol vezetésével
+védelmezd Egyházadat,
+hogy azok pártfogásával növekedjék
+az idők végezetéig hitben és szeretetben,
+akik először hirdették neki evangéliumodat.
+A mi Urunk, Jézus Krisztus, a te Fiad által,
+aki veled él és uralkodik a Szentlélekkel egységben,
+Isten mindörökkön örökké.
+'''
+la = '''
+Ecclésiam tuam, Dómine,
+apostólicis defénde præsídiis,
+ut, per quos inítium divínæ cognitiónis accépit,
+per eos usque in finem sǽculi
+cápiat grátiæ cæléstis augméntum.
+Per Dóminum nostrum Iesum Christum, Fílium tuum,
+qui tecum vivit et regnat in unitáte Spíritus Sancti,
+Deus, per ómnia sǽcula sæculórum.
+'''
+
+[offertory]
+text = '''
+Felajánljuk neked, Istenünk,
+hódolatunk adományait, és kérünk,
+add kegyelmedet, hogy a Szent Péter
+és Szent Pál tanításával kapott igazságot
+sértetlenül megőrizzük szívünkben.
+Krisztus, a mi Urunk által.
+'''
+la = '''
+Servitútis nostræ tibi, Dómine, múnera offeréntes,
+tuam deprecámur cleméntiam,
+ut trádita nobis apostolórum Petri et Pauli ministério véritas
+in córdibus nostris illibáta persevéret.
+Per Christum Dóminum nostrum.
+'''
+
+[communion]
+cite = "Vö. Jn 6,69.70"
+text = '''
+Tiéd az örök életet adó tanítás, Urunk.
+Mi hittünk, és tudjuk,
+hogy te vagy az Isten Szentje.
+'''
+la = '''
+Dómine, verba vitæ ætérnæ habes,
+et nos credídimus quia tu es Christus Fílius Dei.
+'''
+
+[postcommunion]
+text = '''
+Urunk, Istenünk,
+mennyei kenyérrel tápláltad népedet.
+Add, hogy örvendezzünk
+Szent Péter és Szent Pál apostoloknak,
+akiknek oltalma alá helyezted Egyházad kormányzását.
+Krisztus, a mi Urunk által.
+'''
+la = '''
+Pópulus tuus, quǽsumus, Dómine, cælésti pane reféctus,
+apostolórum Petri et Pauli commemoratióne lætétur,
+quorum donásti patrocínio gubernári.
+Per Christum Dóminum nostrum.
+'''
+
+# Readings: ferial, 33. évközi hét szerda, II. év (src/cycle/evkozi-33-3-II.json = igenaptár 2026-11-18).
+# Latin: Missale Romanum cum lectionibus 1977, vol. IV, Feria quarta, Anno secundo, pp. 501-504.
+[reading1]
+label = "Szentlecke"
+sub = "a Jelenések könyvéből"
+summary = "A huszonnégy vén az Isten országának oszlopait, a pátriárkákat és az apostolokat jelképezi; a négy élőlény pedig az evangélistákat. Mindnyájan az örökkévaló Istent magasztalják."
+cite = "Jel 4,1-11"
+la_sub = "Lectio libri Apocalypsis beati Ioannis apostoli"
+text = '''
+Én, János, látomásban láttam, hogy kapu nyílt az égen. És hangot hallottam, amely olyan volt, mint a harsona hangja. Így szólt: „Jöjj fel ide! Megmutatom neked, aminek ezután kell megtörténnie.”
+
+Nyomban elragadtatásba estem. Íme, egy trón állt a mennyben, és a trónon ült valaki. Az ott ülőnek tekintete a jáspis és a karneol drágakő ragyogásához hasonlított. A trón felett smaragd színéhez hasonló szivárvány ívelt.
+
+A trón körül huszonnégy szék volt, a székeken huszonnégy vén ült fehér ruhába öltözve, fejükön aranykorona. A trónból villám és mennydörgő szózat tört elő. Hét fáklya égett a trón előtt: Isten hét szelleme. A trón előtt kristályhoz hasonló, üvegként csillogó tenger terült el.
+
+Középen a trón előtt és a trón körül négy élőlény, elöl-hátul csupa szem. Az első élőlény oroszlánhoz hasonlított, a második tulokhoz, a harmadiknak emberhez hasonló arca volt, a negyedik szárnyaló sashoz hasonlított. Mind a négy élőlénynek hat-hat szárnya volt, körös-körül és belül csupa szem. Éjjel-nappal szüntelenül kiáltották: „Szent, szent, szent az Úr, a mindenható Isten, aki volt, aki van, és aki eljön!”
+
+Miközben az élőlények dicsőséget, tiszteletet és áldást zengtek a trónon ülőnek, az örökkön-örökké élőnek, a huszonnégy vén leborult a trónon ülő előtt, és imádta az örökkön-örökké élőt. Letették koronájukat a trón elé, és így kiáltottak: „Méltó vagy, Urunk, Istenünk, hogy tiéd legyen a dicsőség, a tisztelet és a hatalom, mert te alkottad a mindenséget; akaratod hívott létre és teremtett mindent.”
+'''
+la = '''
+Ego, Ioannes, vidi, et ecce ostium apertum in caelo, et vox prima quam audivi tamquam tubae loquentis mecum dicens: «Ascende huc, et ostendam tibi quae oportet fieri post haec».
+
+Statim fui in spiritu: et ecce thronus positus erat in caelo, et supra thronum Sedens, et qui sedebat similis erat aspectu lapidi iaspidi et sardino, et iris erat in circuitu throni, aspectu similis smaragdo.
+
+Et in circuitu throni, viginti quattuor thronos et super thronos viginti quattuor Seniores sedentes circumamictos vestimentis albis, et super capita eorum coronas aureas. Et de throno procedunt fulgura et voces et tonitrua: et septem lampades ignis ardentes ante thronum, quae sunt septem Spiritus Dei, et in conspectu throni tamquam mare vitreum simile crystallo.
+
+Et in medio throni et in circuitu throni quattuor Animalia plena oculis ante et retro: et Animal primum simile leoni, et secundum Animal simile vitulo, et tertium Animal habens faciem quasi hominis, et quartum Animal simile aquilae volanti. Et quattuor Animalia singula eorum habebant alas senas, in circuitu et intus plena sunt oculis: et requiem non habent die et nocte dicentia: «Sanctus, Sanctus, Sanctus Dominus Deus omnipotens, qui erat et qui est et qui venturus est».
+
+Et cum darent illa Animalia gloriam et honorem et gratiarum actionem Sedenti super thronum Viventi in saecula saeculorum, procidebant viginti quattuor Seniores ante Sedentem in throno et adorabant Viventem in saecula saeculorum et mittebant coronas suas ante Thronum dicentes: «Dignus es, Domine et Deus noster, accipere gloriam et honorem et virtutem, quia tu creasti omnia, et propter voluntatem tuam erant et creata sunt».
+'''
+
+[psalm]
+cite = "Zsolt 150,1-6"
+response = "Szent, szent, szent az Úristen, ő a Mindenható!"
+la_response = "Sanctus, Sanctus, Sanctus Dominus Deus omnipotens."
+verses = [
+'''
+Dicsérjétek az Urat szentélyében,
+dicsérjétek a hatalmas égboltozaton!
+Dicsérjétek hatalmas tetteiért,
+dicsérjétek, mert nagysága végtelen!
+''',
+'''
+Dicsérjétek őt harsonaszóval,
+dicsérjétek lanttal, citerával!
+Dicsérjétek őt dobbal és körtánccal,
+dicsérjétek őt citerával és fuvolával!
+''',
+'''
+Dicsérjétek őt zengő cimbalommal,
+dicsérjétek búgó cimbalom hangjával!
+Minden lélek az Urat dicsérje!
+''']
+la_verses = [
+'''
+Laudate Dominum in sanctuario eius,
+laudate eum in firmamento virtutis eius.
+Laudate eum in magnalibus eius,
+laudate eum secundum multitudinem magnitudinis eius.
+''',
+'''
+Laudate eum in sono tubae,
+laudate eum in psalterio et cithara,
+laudate eum in tympano et choro,
+laudate eum in chordis et organo.
+''',
+'''
+Laudate eum in cymbalis benesonantibus,
+laudate eum in cymbalis iubilationis:
+omne quod spirat,
+laudet Dominum.
+''']
+
+[alleluia]
+cite = "Jn 15,16"
+text = "Jézus mondja: „Én kiválasztottalak titeket a világból, hogy menjetek és termést hozzatok, és termésetek meg is maradjon.”"
+la = "Ego vos elegi de mundo, ut eatis et fructum afferatis, et fructus vester maneat, dicit Dominus."
+
+[gospel]
+book = "Szent Lukács"
+la_book = "Lucam"
+summary = "Tehetségeinket, mint Istentől ránk bízott kincset, kamatoztatnunk kell."
+cite = "Lk 19,11-28"
+text = '''
+Jézus Jeruzsálemhez közeledett. Sokan azt hitték, hogy hamarosan megvalósul az Isten országa, ezért a következő példabeszédet mondta nekik: „Egy előkelő ember messze földre indult, hogy ott királyi méltóságot nyerjen, és úgy térjen vissza. Magához hívta tíz szolgáját. Tíz mínát adott nekik, és így szólt: »Kereskedjetek vele, míg vissza nem térek!« Polgártársai azonban gyűlölték őt, ezért követséget küldtek utána, és tiltakoztak: »Nem akarjuk, hogy ez legyen a királyunk!« Az előkelő ember mégis elnyerte a királyi méltóságot, és hazatért. Ekkor hívatta szolgáit, akiknek a pénzt adta, hogy megtudja, ki mennyit szerzett vele. Előlépett az első, és így szólt: »Uram, mínád tíz mínát hozott.« Erre azt mondta neki: »Jól van, derék szolgám! Mivel a kevésben hűséges voltál, tíz város kormányzását bízom rád.«
+
+Jött a másik szolga, és így szólt: »Uram, mínád öt mínát hozott.« Ennek azt mondta: »Te öt város kormányzója leszel.«
+
+Jött a harmadik, és így szólt: »Uram, itt a mínád. Kendőbe kötve elrejtettem. Féltem ugyanis tőled, mert szigorú ember vagy: felveszed, amit le nem tettél, és learatod, amit nem is vetettél.«
+
+Ezt így büntette meg: »A magad szavával ítéllek el, haszontalan szolga. Tudtad, hogy szigorú ember vagyok: felveszem, amit le nem tettem, és learatom, amit nem vetettem. Miért nem adtad pénzemet a pénzváltóknak, hogy hazaérkezve kamatostul kaptam volna vissza?« Aztán a körülállókhoz fordult: »Vegyétek el tőle a mínát, és adjátok annak, akinek tíz mínája van!« Azok megjegyezték: »Uram, hiszen már van tíz mínája.«
+
+De ő így válaszolt: »Mondom nektek: Mindenkinek, akinek van, még adnak, hogy bővelkedjék. Attól azonban, akinek nincs, még azt is elveszik, amije van. Ellenségeimet pedig, akik nem akarták, hogy királyuk legyek, hozzátok ide, és öljétek meg szemem láttára!«”
+
+E szavak után Jézus folytatta útját Jeruzsálem felé.
+'''
+la = '''
+In illo tempore: Dixit Iesus discipulis suis parabolam, eo quod esset prope Ierusalem et illi existimarent quod confestim Regnum Dei manifestaretur. Dixit ergo: «Homo quidam nobilis abiit in regionem longinquam accipere sibi regnum et reverti. Vocatis autem decem servis suis, dedit illis decem minas, et ait ad illos: “Negotiamini dum venio”. Cives autem eius oderant illum, et miserunt legationem post illum dicentes: “Nolumus hunc regnare super nos”. Et factum est ut rediret, accepto regno, et iussit ad se vocari servos illos quibus dedit pecuniam, ut sciret quantum negotiati essent. Venit autem primus dicens: “Domine, mina tua decem minas acquisivit”. Et ait illi: “Euge, bone serve, quia in modico fidelis fuisti, esto potestatem habens supra decem civitates”.
+
+Et alter venit dicens: “Mina tua, domine, fecit quinque minas”. Et huic ait: “Et tu esto supra quinque civitates”.
+
+Et alter venit dicens: “Domine, ecce mina tua quam habui repositam in sudario; timui enim te, quia homo austerus es: tollis quod non posuisti et metis quod non seminasti”.
+
+Dicit ei: “De ore tuo te iudico, serve nequam. Sciebas quod ego austerus homo sum, tollens quod non posui et metens quod non seminavi? Et quare non dedisti pecuniam meam ad mensam? Et ego veniens cum usuris utique exegissem illud”. Et adstantibus dixit: “Auferte ab illo minam et date illi qui decem minas habet”. Et dixerunt ei: “Domine, habet decem minas”.
+
+Dico vobis: “Omni habenti dabitur; ab eo autem qui non habet, et quod habet auferetur. Verumtamen inimicos meos illos qui noluerunt me regnare super se adducite huc et interficite ante me”».
+
+Et his dictis, praecedebat ascendens Hierosolymam.
+'''
+
+# igenaptár 2026-11-18 (the weekday's set).
+[faithful]
+intro = "Kérjük, testvéreim, teljes szívünkből a mindenható Atyaistent, aki azt akarja, hogy minden ember üdvözüljön, és az igazság ismeretére jusson!"
+response = "Kérünk téged, hallgass meg minket!"
+petitions = [
+  "Hogy kegyelmével gazdagítsa és állandóan vezesse az Anyaszentegyházat, kérjük Urunkat!",
+  "Hogy Egyházában kegyelmi ajándékaival elárassza a püspököket, a papokat és a szerzeteseket, kérjük Urunkat!",
+  "Hogy elvezesse az Anyaszentegyházba mindazokat, akik még nem hisznek Krisztusban, kérjük Urunkat!",
+  "Hogy vezérelje az államférfiakat a népek jogainak védelmében és boldogulásuk munkálásában, kérjük Urunkat!",
+  "Hogy minket szeretetének igaz tanúivá tegyen az emberek előtt, kérjük Urunkat!",
+  { note = "Ha a szentmisét elhunytért mutatják be:", text = "Hogy N. testvérünknek (nővérünknek), akiért a szentmisét bemutatjuk, adja meg az örök világosságot és boldogító istenlátást, kérjük Urunkat!" },
+]
+conclusion = "Urunk, Istenünk! Jusson el könyörgésünk felséges trónod elé! Ne legyen eredménytelen, hanem nyerjen meghallgatást! Krisztus, a mi Urunk által."

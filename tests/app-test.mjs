@@ -128,27 +128,28 @@ async function open(day, path = '', { blockCalendar = false, blockOrdinary = fal
     penBtnLa === 'invokaciok' && penMid.includes('Mert vétkeztünk ellened') && kyr2 === 1,
     `penitential act: ${penN} forms, Confiteor + Kyrie by default; invocations hide the Kyrie (${kyr1}); Latin row follows, back (${kyr2})`);
   // Silent parts: hidden by default behind a small button; it opens / closes them (Hungarian and Latin section).
-  const silState = async (root) => t.page.$eval(`${root} .sil`, d => ({ hidden: d.querySelector('.sil-body').hidden, expanded: d.querySelector('.sil-btn').getAttribute('aria-expanded'), text: d.querySelector('.sil-body').textContent }));
-  const silN = await t.page.$$eval('#r3 .sil, #latin .sil', d => d.length);
+  const silState = async (root) => t.page.$eval(`${root} .sil:not(.sil-sm)`, d => ({ hidden: d.querySelector('.sil-body').hidden, expanded: d.querySelector('.sil-btn').getAttribute('aria-expanded'), text: d.querySelector('.sil-body').textContent }));
+  const silN = await t.page.$$eval('#r3 .sil, #latin .sil:not(.sil-sm)', d => d.length);
   const s0 = await silState('#r3');
-  await t.page.$eval('#r3 .sil .sil-btn', b => b.click());
+  await t.page.$eval('#r3 .sil:not(.sil-sm) .sil-btn', b => b.click());
   const s1 = await silState('#r3');
-  await t.page.$eval('#r3 .sil .sil-btn', b => b.click());
+  await t.page.$eval('#r3 .sil:not(.sil-sm) .sil-btn', b => b.click());
   const s2 = await silState('#r3');
-  await t.page.$eval('#latin .sil .sil-btn', b => b.click());
+  await t.page.$eval('#latin .sil:not(.sil-sm) .sil-btn', b => b.click());
   const l1 = await silState('#latin');
   check(silN > 4 && s0.hidden && s0.expanded === 'false' && !s1.hidden && s1.expanded === 'true' && s1.text.length > 20 && s2.hidden && !l1.hidden,
     `silent parts: ${silN} blocks, hidden by default, the button opens (${s1.expanded}) and closes (${s2.expanded}) them, in the Latin section too`);
   // Hidden parts that follow each other are one block (one button); the button is centred.
   const adj = await t.page.$$eval('.sil + .sil', d => d.length);
-  const centred = await t.page.$eval('#r3 .sil .sil-btn', b => { const r = b.getBoundingClientRect(), q = b.closest('.sil').getBoundingClientRect(); return Math.abs((r.left + r.width / 2) - (q.left + q.width / 2)) < 2; });
+  const centred = await t.page.$eval('#r3 .sil:not(.sil-sm) .sil-btn', b => { const r = b.getBoundingClientRect(), q = b.closest('.sil').getBoundingClientRect(); return Math.abs((r.left + r.width / 2) - (q.left + q.width / 2)) < 2; });
   check(adj === 0 && centred, `hidden parts: sequential ones merged (${adj} adjacent blocks left), button centred`);
   // The Eucharistic prayers carry their gestures too (hidden): each of the four, Hungarian and Latin.
   const epSil = await t.page.$$eval('#r3 .variants[data-group="ep"] > .variant', vs => vs.map(v => v.querySelectorAll('.sil').length));
   const epSilLa = await t.page.$$eval('#latin .variants[data-group="ep"] > .variant', vs => vs.map(v => v.querySelectorAll('.sil').length));
-  const consecr = await t.page.$eval('#r3 .variants[data-group="ep"] > .variant[data-opt="2"] .sil-body', b => b.hidden);
-  check(epSil.length === 4 && epSil.every(n => n >= 6) && epSilLa.every(n => n >= 6) && consecr,
-    `Eucharistic prayers: hidden gesture blocks in all four (${epSil.join('/')} Hungarian, ${epSilLa.join('/')} Latin)`);
+  const consecr = await t.page.$eval('#r3 .sil:not(.sil-sm) .sil-body', b => b.hidden);
+  const smOpen = await t.page.$$eval('.sil-sm .sil-body', d => d.length > 20 && d.every(b => !b.hidden && !b.parentElement.querySelector('.sil-btn')));
+  check(epSil.length === 4 && epSil.every(n => n >= 6) && epSilLa.every(n => n >= 6) && consecr && smOpen,
+    `Eucharistic prayers: gesture blocks in all four, short ones shown inline, long ones hidden (${epSil.join('/')} Hungarian, ${epSilLa.join('/')} Latin)`);
   await t.page.evaluate(() => window.scrollTo(0, 0));
   // Creed (days with it): the Nicene by default, the Apostles' to choose; the Latin section follows.
   if (await t.page.$('#sel-creed')) {

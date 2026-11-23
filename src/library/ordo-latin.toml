@@ -366,7 +366,7 @@ rows = [
 [silent.ep_epiclesis]
 rows = [
   ["Kezét összeteszi, majd a felajánlott adományok fölé terjesztve mondja:", "Iungit manus, easque expansas super oblata tenens, dicit:"],
-  ["Kezét összeteszi, keresztet rajzol a kenyér és a kehely fölé, mondván:", "iungit manus et signat semel super panem et calicem simul, dicens:"],
+  ["Keresztet rajzol a kenyér és a kehely fölé, mondván:", "Signat semel super panem et calicem simul, dicens:"],
 ]
 
 [silent.ep_joined]

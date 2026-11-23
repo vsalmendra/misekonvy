@@ -146,14 +146,20 @@ def _sil_rows_one(e):
     return rows
 
 
+def _sil_len(rows):
+    return sum(len(re.sub(r'<[^>]+>', '', hu)) for _, hu, _ in rows)
+
+
 def sil_hu(key):
-    body = ''.join(p(hu, cls) for _, hu, cls in _sil_rows(key))
-    return f'<div class="sil">{_sil_button()}<div class="sil-body" hidden>{body}</div></div>'
+    rows = _sil_rows(key)
+    body = ''.join(p(hu, cls) for _, hu, cls in rows)
+    return f'<div class="sil" data-n="{_sil_len(rows)}">{_sil_button()}<div class="sil-body" hidden>{body}</div></div>'
 
 
 def sil_bi(key):
-    body = ''.join(bi(la, hu, cls) for la, hu, cls in _sil_rows(key))
-    return f'<div class="sil bi-sil">{_sil_button(" bi-full")}<div class="sil-body" hidden>{body}</div></div>'
+    rows = _sil_rows(key)
+    body = ''.join(bi(la, hu, cls) for la, hu, cls in rows)
+    return f'<div class="sil bi-sil" data-n="{_sil_len(rows)}">{_sil_button(" bi-full")}<div class="sil-body" hidden>{body}</div></div>'
 
 
 def _expand_sil(html, la):
@@ -166,21 +172,48 @@ for _d, _la in ((ORDO, False), (ORDO_LA, True)):          # the fixed parts carr
             _d[_k] = _expand_sil(_v, _la)
 
 
-_SIL_RE = re.compile(r'<div class="sil( bi-sil)?">(<div class="sil-bar[^"]*">.*?</div>)<div class="sil-body" hidden>(.*?)</div></div>', re.S)
+_SIL_RE = re.compile(r'<div class="sil( bi-sil)?" data-n="(\d+)">(<div class="sil-bar[^"]*">.*?</div>)<div class="sil-body" hidden>(.*?)</div></div>', re.S)
+SIL_SMALL = 230      # Hungarian characters: up to about three or four lines stay in the text (user, 2026-11-17)
+_PARA_RE = re.compile(r'(<p[^>]*>)(.*?)(</p>)', re.S)
+
+
+def _norm(t):
+    return re.sub(r'\W+', ' ', re.sub(r'<[^>]+>', '', t)).strip().lower()
+
+
+def _dedupe_sil(body):
+    """Clear repetitions inside one block: a gesture row that only repeats the start of the row after it
+    ("Kezét összeteszi." before "Kezét összeteszi, majd …"), and identical neighbours. Hungarian rows and
+    Latin rows are compared on their own."""
+    cells = [(m.group(0), m.group(1), _norm(m.group(2))) for m in _PARA_RE.finditer(body)]
+    keep = []
+    for i, (raw, op, n) in enumerate(cells):
+        lang_la = 'lang="la"' in op
+        nxt = next((c for c in cells[i + 1:] if ('lang="la"' in c[1]) == lang_la), None)
+        if nxt and n and (nxt[2] == n or (len(n) < 40 and nxt[2].startswith(n + ' ')) and 'sil-r' in op):
+            continue
+        keep.append(raw)
+    return ''.join(keep)
 
 
 def merge_sil(html):
-    """Hidden parts that follow one another (nothing but white space between them) become ONE block with one
-    button (user, 2026-11-16)."""
+    """Hidden parts that follow one another (nothing but white space between them) become ONE block
+    (user, 2026-11-16). A short block (up to SIL_SMALL characters) is not hidden any more: its text stands in
+    the page, small, faded and set towards the right; a longer one keeps its button (grey, no border;
+    user, 2026-11-17)."""
     def block(c):
-        return f'<div class="sil{c["bi"] or ""}">{c["bar"]}<div class="sil-body" hidden>{c["body"]}</div></div>'
+        body = _dedupe_sil(c['body'])
+        bi_cls = c['bi'] or ''
+        if c['n'] <= SIL_SMALL:
+            return f'<div class="sil sil-sm{bi_cls}"><div class="sil-body">{body}</div></div>'
+        return f'<div class="sil{bi_cls}">{c["bar"]}<div class="sil-body" hidden>{body}</div></div>'
     out, cur = [], None
     for m in _SIL_RE.finditer(html):
         if cur and not html[cur['end']:m.start()].strip():
-            cur['end'], cur['body'] = m.end(), cur['body'] + m.group(3)
+            cur['end'], cur['body'], cur['n'] = m.end(), cur['body'] + m.group(4), cur['n'] + int(m.group(2))
             continue
         out.append(html[0:m.start()] if cur is None else block(cur) + html[cur['end']:m.start()])
-        cur = {'end': m.end(), 'bi': m.group(1), 'bar': m.group(2), 'body': m.group(3)}
+        cur = {'end': m.end(), 'bi': m.group(1), 'n': int(m.group(2)), 'bar': m.group(3), 'body': m.group(4)}
     out.append(html if cur is None else block(cur) + html[cur['end']:])
     return ''.join(out)
 
