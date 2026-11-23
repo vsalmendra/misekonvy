@@ -1,0 +1,212 @@
+date = "2026-11-24"
+title = "Dung-Lac Szent András áldozópap és társai, vietnámi vértanúk"
+day = "34. évközi hét keddje · emléknap"
+rank = "piros színben"
+gloria = false
+creed = false
+eucharistic_prayer = 2
+prefaces = ["vertanuk-2"]
+mass_type = "Saját mise (Római Misekönyv, november 24.)"
+
+# New missal (Római Misekönyv, 3rd ed. 2021), pp. 751-752, 24 November; Latin: Missale Romanum, editio typica
+# tertia (2002), 24 Nov (the user's PDFs, 2026-11-17). All five propers are the day's own.
+[entrance]
+cite = "Vö. Gal 6,14; vö. 1Kor 1,18"
+text = '''
+Semmi másban nem dicsekedhetünk,
+mint a mi Urunk, Jézus Krisztus keresztjében.
+Mert a kereszt igéje azoknak, akik üdvözülnek,
+Isten ereje.
+'''
+la = '''
+Nobis absit gloriári nisi in cruce Dómini nostri Iesu Christi.
+Verbum enim crucis nobis, qui salvi facti sumus,
+virtus Dei est.
+'''
+
+[collect]
+source = "Római Misekönyv, 3. kiadás (2021), november 24., 751. o.; latin: Missale Romanum, editio typica tertia (2002), 24 nov."
+text = '''
+Istenünk, minden atyaság forrása,
+te Szent András áldozópapnak
+és vértanútársainak megadtad a kegyelmet,
+hogy szent Fiad keresztjéhez
+egészen vérük ontásáig hűségesek maradjanak.
+Közbenjárásukra segíts,
+hogy szeretetedet hirdessük testvéreinknek,
+és így méltók legyünk arra,
+hogy ne csak gyermekeidnek nevezzenek minket,
+hanem azok is legyünk.
+A mi Urunk, Jézus Krisztus, a te Fiad által,
+aki veled él és uralkodik a Szentlélekkel egységben,
+Isten mindörökkön örökké.
+'''
+la = '''
+Deus, omnis paternitátis fons et orígo,
+qui beátos mártyres Andréam et sócios eius
+Cruci Fílii tui usque ad sánguinis effusiónem fidéles effecísti,
+eórum intercessióne concéde,
+ut amórem tuum inter fratres propagántes
+fílii tui nominári et esse valeámus.
+Per Dóminum nostrum Iesum Christum, Filium tuum,
+qui tecum vivit et regnat in unitáte Spíritus Sancti,
+Deus, per ómnia sǽcula sæculórum.
+'''
+
+[offertory]
+text = '''
+Mennyei Atyánk,
+fogadd el felajánlott adományainkat,
+amelyeket a szent vietnami vértanúk
+szenvedésének emlékezetére eléd hozunk.
+Add, hogy életünk viszontagságai között
+mindig hűségesek lehessünk hozzád,
+és önmagunkat is odaadjuk neked kedves áldozatul.
+Krisztus, a mi Urunk által.
+'''
+la = '''
+Súscipe, sancte Pater, múnera quæ offérimus,
+passiónem venerántes sanctórum mártyrum,
+ut inter advérsa vitæ nostræ,
+fidéles tibi semper inveníri mereámur
+et hóstiam tibi acceptábilem nosmetípsos exhibére.
+Per Christum Dóminum nostrum.
+'''
+
+[communion]
+cite = "Mt 5,10"
+text = '''
+Boldogok, akik üldözést szenvednek az igazságért,
+mert övék a mennyek országa.
+'''
+la = '''
+Beáti qui persecutiónem patiúntur propter iustítiam,
+quóniam ipsórum est regnum cælórum.
+'''
+
+[postcommunion]
+text = '''
+Istenünk, a szentmisében
+most egy Kenyérrel tápláltál minket.
+A szent vietnami vértanúk emlékünnepén
+könyörögve kérünk,
+hogy a te szeretetedben mindig egyek legyünk,
+és így hűségünk jutalmául elnyerjük az örök életet.
+Krisztus, a mi Urunk által.
+'''
+la = '''
+Uníus panis alimónia refécti,
+in commemoratióne sanctórum mártyrum,
+te, Dómine, supplíciter deprecámur,
+ut, in tua dilectióne unánimes manéntes,
+patiéntiæ prǽmium mereámur cónsequi ætérnum.
+Per Christum Dóminum nostrum.
+'''
+
+# Readings: ferial, 34. évközi hét kedd, II. év (src/cycle/evkozi-34-2-II.json = igenaptár 2026-11-24).
+# Latin: Missale Romanum cum lectionibus 1977, vol. IV, Feria tertia, Anno secundo, pp. 538-540
+# (OCR corrected by hand; Vulgate numbering).
+[reading1]
+label = "Szentlecke"
+sub = "a Jelenések könyvéből"
+summary = "A történelmet lezáró isteni ítélet képe az aratás és a szüretelés látomásában jelenik meg."
+cite = "Jel 14,14-19"
+la_sub = "Lectio libri Apocalypsis beati Ioannis apostoli"
+text = '''
+Én, János, látomásomban fehér felhőt láttam. A felhőn ült valaki, aki az Emberfiához hasonlított. Fején aranykoronát viselt, kezében éles sarló volt.
+
+Egy angyal jött ki a templomból, és harsány hangon odakiáltott a felhőn ülőnek: „Lendítsd meg sarlódat, és arass! Itt az aratás ideje. Már érett a vetés a földön.” A felhőn ülő a földre vetette sarlóját, és learatta a földet.
+
+Ekkor egy másik angyal lépett ki a mennyei templomból, akinek éles metszőkése volt.
+
+Egy harmadik angyal az oltártól lépett elő. Ennek hatalma volt a tűz felett. Harsány hangon kiáltott annak, akinél az éles metszőkés volt: „Lendítsd meg éles késedet, és szüreteld le a föld szőlőfürtjeit, mert beértek már a szemek!” Az angyal lehajította éles metszőkését a földre. Leszüretelte a föld szőlőjét, és Isten haragjának nagy sajtójába vetette.
+'''
+la = '''
+Ego, Ioannes, vidi: et ecce nubem candidam, et supra nubem sedentem quasi Filium hominis, habentem super caput suum coronam auream et in manu sua falcem acutam.
+
+Et alius Angelus exivit de Templo, clamans voce magna ad Sedentem super nubem: «Mitte falcem tuam et mete, quia venit hora ut metatur, quoniam aruit messis terrae». Et misit qui sedebat super nubem falcem suam in terram et messa est terra.
+
+Et alius Angelus exivit de Templo quod est in caelo, habens et ipse falcem acutam.
+
+Et alius Angelus de Altari, habens potestatem supra ignem, et clamavit voce magna ad eum qui habebat falcem acutam dicens: «Mitte falcem tuam acutam et vindemia botros vineae terrae, quoniam maturae sunt uvae eius». Et misit Angelus falcem suam in terram, et vindemiavit vineam terrae et misit in lacum irae Dei magnum.
+'''
+
+[psalm]
+cite = "Zsolt 95,10-13"
+response = "Urunk, Istenünk érkezik, ítélni az egész világot."
+la_response = "Venit Dominus iudicare terram."
+verses = [
+'''
+Mondjátok a nemzeteknek:
+„Az Úr uralkodik!”
+Ő tette a földet szilárddá, és az meg nem inog,
+ő ítélkezik a népek fölött igazságban.
+''',
+'''
+Örvendjen az ég, a föld ujjongjon,
+zúgjon a tenger és ami betölti.
+Örvendjen a mező,
+és minden, ami rajta van.
+''',
+'''
+Ujjongjon az erdő minden fája
+az Úr színe előtt, mert eljön.
+Jön, hogy ítélje a földet, igazságosan ítéli meg a földkerekséget,
+és a népeket hűsége szerint.
+''']
+la_verses = [
+'''
+Dicite in gentibus: «Dominus regnavit».
+Etenim correxit orbem terrae qui non commovebitur;
+iudicabit populos in aequitate.
+''',
+'''
+Laetentur caeli et exsultet terra,
+sonet mare et plenitudo eius;
+gaudebunt campi et omnia quae in eis sunt.
+''',
+'''
+Tunc exsultabunt omnia ligna silvarum
+a facie Domini, quia venit, quoniam venit iudicare terram.
+Iudicabit orbem terrae in iustitia,
+et populos in veritate sua.
+''']
+
+[alleluia]
+cite = "Jel 2,10c"
+text = "Légy hű mindhalálig – mondja az Úr, az élet koronáját adom néked!"
+la = "Esto fidelis usque ad mortem, dicit Dominus, et dabo tibi coronam vitae."
+
+[gospel]
+book = "Szent Lukács"
+la_book = "Lucam"
+summary = "Semmi sem maradandó ezen a földön. Nem marad kő kövön a jeruzsálemi templomból sem."
+cite = "Lk 21,5-11"
+text = '''
+Abban az időben amikor némelyek megjegyezték, hogy milyen szép kövekkel és díszes fogadalmi ajándékokkal van díszítve a (jeruzsálemi) templom, Jézus ezt mondta: „Jönnek majd napok, amikor abból, amit most itt láttok, kő kövön nem marad, mindent lerombolnak.”
+
+Erre megkérdezték tőle: „Mester, mikor történik mindez? És milyen jelek előzik meg?”
+
+Ő így válaszolt: „Vigyázzatok, nehogy félrevezessenek titeket! Sokan jönnek az én nevemben s mondják: »Én vagyok!« És: »Elérkezett az idő!« Ne kövessétek őket! Amikor háborúkról és lázadásokról hallotok, ne rémüldözzetek. Mindennek előbb meg kell történnie, de ezzel még nincs itt a vég!” Aztán így folytatta: „Nemzet nemzet ellen és ország ország ellen támad. Nagy földrengés lesz itt is, ott is, éhínség és dögvész. Félelmetes tünemények és rendkívüli jelek tűnnek fel az égen.”
+'''
+la = '''
+In illo tempore: Quibusdam dicentibus de templo quod lapidibus bonis et donis ornatum esset, dixit Iesus: «Haec quae videtis, venient dies in quibus non relinquetur lapis super lapidem qui non destruatur».
+
+Interrogaverunt autem illum dicentes: «Praeceptor, quando ergo haec erunt, et quod signum cum fieri incipient?»
+
+Qui dixit: «Videte ne seducamini; multi enim venient in nomine meo dicentes: "Ego sum"; et "Tempus appropinquavit"; nolite ergo ire post illos. Cum autem audieritis proelia et seditiones, nolite terreri; oportet enim primum haec fieri, sed non statim finis». Tunc dicebat illis: «Surget gens contra gentem et regnum adversus regnum, et terrae motus magni et per loca fames et pestilentiae erunt, terroresque et de caelo signa magna erunt».
+'''
+
+# igenaptár 2026-11-24.
+[faithful]
+intro = "Imádkozzunk, testvéreim, a mindenható Istenhez, aki elküldte Fiát a világba, hogy kereszthalála és feltámadása által megváltson minket!"
+response = "Kérünk téged, hallgass meg minket!"
+petitions = [
+  "Hogy szüntelenül magasztaljunk téged, Urunk, a keresztségben kapott kegyelmekért!",
+  "Hogy parancsaid hűséges megtartásával mutassuk meg irántad gyermeki ragaszkodásunkat!",
+  "Hogy Krisztus példája szerint áldozatos szeretettel viseltessünk rászoruló embertársaink iránt!",
+  "Hogy emberi gyengeségeinkben és megpróbáltatásainkban te légy erősségünk és reménységünk!",
+  "Hogy jócselekedeteink láttán dicsőítsék az emberek a te szent nevedet!",
+  { note = "Ha a szentmisét elhunytért mutatják be:", text = "Hogy ne feledkezzél meg elhunyt N. testvérünkről (nővérünkről), aki már elköltözött ebből a világból!" },
+]
+conclusion = "Mindenható, örök Isten! Te azért küldted el hozzánk szent Fiadat, hogy a világ világossága legyen. Add, hogy az ő tanításának fényében járjunk, és így biztosan elérkezzünk az örök világosság országába őáltala. Aki él és uralkodik mindörökkön örökké."
