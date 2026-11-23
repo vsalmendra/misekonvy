@@ -1,22 +1,31 @@
-# Vértanúk miséi (Commune martyrum). Only formula 6 so far.
-# Hungarian: Római Misekönyv 1991 (PPEK 335, Misekonyv_1.pdf), "6. Egy vértanú miséje, húsvéti időn
-# kívül", pp. 665-666. Not yet checked against the new missal; "mindörökkön örökké" without hyphen.
-# Latin (<key>_la): Missale Romanum cum lectionibus 1977, vol. IV, Commune martyrum, "6. Pro uno
-# martyre", pp. 839-841 (archive.org; OCR corrected by hand, no accents; "Per Dominum." / "Per Christum."
-# expanded). offertory_b = the "Vagy:" of the book. "Szent N." / "N." filled per Mass via `names`.
+# Vértanúk miséi (Commune martyrum). Only B. Egy vértanú, 1 so far.
+# Hungarian: the new missal (Római Misekönyv, 3rd ed. 2021), Vértanúk miséi, B. Egy vértanú, 1, pp. 794-795
+# (checked 2026-11-23; the 1991 edition had the same collect and offertories; the new one adds the second
+# entrance antiphon and the second communion antiphon and has another prayer after communion).
+# Latin: Missale Romanum, editio typica tertia (2002), Commune martyrum, I. Extra tempus paschale, B. Pro uno
+# martyre, 1 (accents kept). "<key>_b" = the book's "Vagy / Vel". "Szent N." / "N." is filled per Mass via
+# `names` / `la_names` (Latin: accusative "beátum N.", nominative "sanctus N.", genitive "tui N.").
 
-# 6. Egy vértanú miséje, húsvéti időn kívül
-[egy-vertanu-6]
-entrance_cite = ""
+[egy-vertanu-1]
 entrance = '''
 Ez a szent halálig küzdött Istenének törvényéért,
 nem félt a gonoszok szavától,
 mert életének alapja szilárd kőszikla volt.
 '''
 entrance_la = '''
-Iste Sanctus pro lege Dei sui certavit usque ad mortem,
-et a verbis impiorum non timuit;
-fundatus enim erat supra firmam petram.
+Iste sanctus pro lege Dei sui certávit usque ad mortem,
+et a verbis impiórum non tímuit;
+fundátus enim erat supra firmam petram.
+'''
+entrance_b_cite = "Vö. Bölcs 10,12"
+entrance_b = '''
+A kemény viadalban neki juttatta az Úr a győzelmet,
+hogy belássa: a bölcsesség hatalmasabb mindennél.
+'''
+entrance_b_la = '''
+Certámen forte dedit illi Dóminus,
+ut víncere sciret,
+quóniam ómnium poténtior est sapiéntia.
 '''
 collect = '''
 Mindenható, irgalmas Istenünk,
@@ -30,67 +39,75 @@ aki veled él és uralkodik a Szentlélekkel egységben,
 Isten mindörökkön örökké.
 '''
 collect_la = '''
-Omnipotens et misericors Deus,
-qui martyrem tuum N.
-passionis suae tormenta superare fecisti,
-concede, ut, qui eius triumphi diem celebramus,
-insuperabiles tua protectione
-ab hostis insidiis maneamus.
-Per Dominum nostrum Iesum Christum, Filium tuum,
-qui tecum vivit et regnat in unitate Spiritus Sancti,
-Deus, per omnia saecula saeculorum.
+Omnípotens et miséricors Deus,
+qui mártyrem tuum beátum N.
+passiónis suæ torménta superáre fecísti,
+concéde, ut, qui eius triúmphi diem celebrámus,
+insuperábiles tua protectióne ab hostis insídiis maneámus.
+Per Dóminum nostrum Iesum Christum, Filium tuum,
+qui tecum vivit et regnat in unitáte Spíritus Sancti,
+Deus, per ómnia sǽcula sæculórum.
 '''
 offertory = '''
-Kérünk, Istenünk,
-áldásoddal szenteld meg ezeket az áldozati adományokat,
+Kérünk, Urunk, Istenünk, áldásoddal
+szenteld meg ezeket az áldozati adományokat,
 és gyújtsd fel bennünk is szeretetednek tüzét,
 amely által Szent N. úrrá lett minden testi gyötrelmen.
 Krisztus, a mi Urunk által.
 '''
 offertory_la = '''
-Oblata munera, quaesumus, Domine,
-tua benedictione sanctifica,
-quae, te donante,
-nos illa flamma tuae dilectionis accendat,
-per quam sanctus N.
-tormenta sui corporis universa devicit.
-Per Christum Dominum nostrum.
+Obláta múnera, quǽsumus, Dómine,
+tua benedictióne sanctífica,
+quæ, te donánte, nos illa flamma tuæ dilectiónis accéndat,
+per quam sanctus N. torménta sui córporis univérsa devícit.
+Per Christum Dóminum nostrum.
 '''
 offertory_b = '''
-Kérünk, Istenünk, fogadd jó szívvel ezeket az adományokat,
+Kérünk, Urunk, Istenünk,
+fogadd jó szívvel ezeket az adományokat,
 amelyeket Szent N. vértanúd emlékezetére hoztunk színed elé.
 Legyenek kedvesek Fölséged előtt,
 ahogy az ő kiomló vérét is értékes áldozatul fogadtad.
 Krisztus, a mi Urunk által.
 '''
 offertory_b_la = '''
-Accepta tibi sint, quaesumus, Domine, munera,
-quae in commemoratione beati martyris tui N. deferimus,
-ut eo maiestati tuae sint placita,
-sicut illius effusio sanguinis apud te exstitit pretiosa.
-Per Christum Dominum nostrum.
+Accépta tibi sint, quǽsumus, Dómine, múnera,
+quæ in commemoratióne beáti mártyris tui N. deférimus,
+ut eo maiestáti tuæ sint plácita,
+sicut illíus effúsio sánguinis apud te éxstitit pretiósa.
+Per Christum Dóminum nostrum.
 '''
-communion_cite = "Mt 16,24"
+communion_cite = "Vö. Mt 16,24"
 communion = '''
-Aki követni akar, tagadja meg magát,
-vegye fel keresztjét és kövessen – mondja az Úr.
+Aki követni akar, tagadja meg önmagát,
+vegye fel keresztjét és kövessen engem – mondja az Úr.
 '''
 communion_la = '''
-Qui vult venire post me, abneget semetipsum,
-et tollat crucem suam, et sequatur me, dicit Dominus.
+Qui vult veníre post me, ábneget semetípsum,
+et tollat crucem suam, et sequátur me, dicit Dóminus.
+'''
+communion_b_cite = "Mt 10,39"
+communion_b = '''
+Így szól az Úr: aki elveszíti az életét énértem,
+megtalálja azt.
+'''
+communion_b_la = '''
+Qui perdíderit ánimam suam propter me, dicit Dóminus,
+invéniet eam in ætérnum.
 '''
 postcommunion = '''
-Magunkhoz vettük szent Fiad testét és vérét, Istenünk.
-Kérünk, adja meg a szentáldozás azt a lelki erőt,
-amely Szent N. vértanúdat szolgálatodban hűségessé,
+Kérünk, Urunk, Istenünk, hogy a magunkhoz vett
+szent misztériumok adják meg nekünk is
+azt a lelki erőt, amely Szent N. vértanúdat
+szolgálatodban hűségessé,
 a szenvedésben pedig diadalmassá tette.
 Krisztus, a mi Urunk által.
 '''
 postcommunion_la = '''
-Praestent nobis, quaesumus, Domine,
-sacra mysteria quae sumpsimus
-eam animi fortitudinem,
-quae beatum N. martyrem tuum
-reddidit in tuo servitio fidelem et in passione victorem.
-Per Christum Dominum nostrum.
+Præstent nobis, quǽsumus, Dómine,
+sacra mystéria quæ súmpsimus
+eam ánimi fortitúdinem,
+quæ beátum N. mártyrem tuum
+réddidit in tuo servítio fidélem et in passióne victórem.
+Per Christum Dóminum nostrum.
 '''

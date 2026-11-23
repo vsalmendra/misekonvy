@@ -1,0 +1,161 @@
+# Recipe: src/masses/2026-11-23.md
+date = "2026-11-23"
+title = "Szent I. Kelemen pápa és vértanú"
+day = "34. évközi hét hétfője · emléknap"
+rank = "piros színben"
+gloria = false
+creed = false
+eucharistic_prayer = 1
+prefaces = ["vertanuk", "lelkipasztorok"]
+mass_type = "Vértanúk közös miséje: egy vértanú (B. 1) · saját könyörgéssel"
+names = [["Szent N.", "Szent Kelemen"]]
+la_names = [["beátum N.", "beátum Cleméntem"], ["sanctus N.", "sanctus Cleméns"], ["tui N.", "tui Cleméntis"], ["mártyris N.", "mártyris Cleméntis"], ["sancti N.", "sancti Cleméntis"]]
+
+# The new missal (Római Misekönyv, 3rd ed.), November 23: "Szent I. Kelemen pápa és vértanú — Vértanúk miséi: egy
+# vértanú, 794. o., vagy Lelkipásztorok miséi: pápák, 806. o." + own collect. User (2026-11-23): the martyr's
+# common; both "Vagy"s of the book offered (antiphons, offertory); own collect first, the common's second.
+[[entrance]]
+ref = "@vertanuk/egy-vertanu-1"
+[[entrance]]
+ref = "@vertanuk/egy-vertanu-1:entrance_b"
+
+[[collect]]
+label = "Saját"
+source = "Római Misekönyv, 3. kiadás (2021), november 23.; latin: Missale Romanum, editio typica tertia (2002), 23 nov."
+text = '''
+Szentjeid erőssége, mindenható, örök Isten,
+add, hogy örvendező lélekkel üljük meg
+Szent Kelemen pápa emléknapját.
+Ő Fiad papja és vértanúja volt:
+amit a szent áldozatban cselekedett,
+azt vére ontásával tanúsította,
+amit ajkával hirdetett, azt példájával is megerősítette.
+A mi Urunk, Jézus Krisztus, a te Fiad által,
+aki veled él és uralkodik a Szentlélekkel egységben,
+Isten mindörökkön örökké.
+'''
+la = '''
+Omnípotens sempitérne Deus,
+qui in ómnium sanctórum tuórum es virtúte mirábilis,
+da nobis in beáti Cleméntis ánnua commemoratióne lætári,
+qui, Fílii tui sacérdos et martyr,
+quod mystério gessit, testimónio comprobávit,
+et, quod prædicávit ore, confirmávit exémplo.
+Per Dóminum nostrum Iesum Christum, Filium tuum,
+qui tecum vivit et regnat in unitáte Spíritus Sancti,
+Deus, per ómnia sǽcula sæculórum.
+'''
+
+[[collect]]
+label = "Közös"
+ref = "@vertanuk/egy-vertanu-1"
+
+[[offertory]]
+ref = "@vertanuk/egy-vertanu-1"
+[[offertory]]
+ref = "@vertanuk/egy-vertanu-1:offertory_b"
+
+[[communion]]
+ref = "@vertanuk/egy-vertanu-1"
+[[communion]]
+ref = "@vertanuk/egy-vertanu-1:communion_b"
+
+postcommunion = "@vertanuk/egy-vertanu-1"
+
+# Readings: ferial, 34. évközi hét hétfő, II. év (src/cycle/evkozi-34-1-II.json = igenaptár 2026-11-23).
+# Latin: Missale Romanum cum lectionibus 1977, vol. IV, Feria secunda, Anno secundo, pp. 533-535
+# (OCR corrected by hand; Vulgate numbering).
+[reading1]
+label = "Szentlecke"
+sub = "a Jelenések könyvéből"
+summary = "János a szentek seregét látja a mennyben, akik Krisztus nevét viselik homlokukon."
+cite = "Jel 14,1-3.4b-5"
+la_sub = "Lectio libri Apocalypsis beati Ioannis apostoli"
+text = '''
+Én, János, látomásomban láttam, hogy a Bárány a Sion hegyén állott. Vele volt (az üdvözültek serege), az a száznegyvennégyezer, aki homlokán viselte Jézus nevét és az ő Atyjának nevét.
+
+Szózatot hallottam az égből, mint nagy vizek zúgását és mint erős mennydörgés robaját. A szózat, amelyet hallottam, úgy hangzott, mint amikor a hárfások hárfáikat pengetik. Új éneket énekeltek Isten trónja, a négy élőlény és a vének előtt. Az éneket nem tudta megtanulni senki más, mint az a száznegyvennégyezer, akik meg vannak váltva a földről.
+
+A Bárány nyomában járnak, bárhová megy. Ők a megváltottak az emberek közül, akiket Isten elsőknek választott ki magának és a Báránynak. Ajkukon nincsen hazugság: szeplőtlen tisztán állnak Isten trónja előtt.
+'''
+la = '''
+Ego, Ioannes, vidi, et ecce Agnus stans supra Montem Sion, et cum illo centum quadraginta quattuor milia habentes Nomen eius et Nomen Patris eius scriptum in frontibus suis.
+
+Et audivi vocem de caelo tamquam vocem aquarum multarum et tamquam vocem tonitrui magni, et vox quam audivi sicut citharoedorum citharizantium in citharis suis. Et cantant quasi canticum novum ante thronum et ante quattuor Animalia et Seniores: et nemo poterat discere canticum nisi illa centum quadraginta quattuor milia, qui empti sunt de terra.
+
+Hi qui sequuntur Agnum quocumque abierit. Hi empti sunt ex hominibus primitiae Deo et Agno, et in ore ipsorum non est inventum mendacium: sine macula sunt.
+'''
+
+[psalm]
+cite = "Zsolt 23,1-4ab.5-6"
+response = "Ez az istenkeresők népe, mely látni kívánja arcodat, Urunk."
+la_response = "Haec est generatio quaerentium faciem tuam, Domine."
+verses = [
+'''
+Az Úré a föld, és ami betölti,
+a földkerekség és minden lakója.
+Tengerek fölé ő rakta alapját,
+s a vizek árján ő tartja szilárdan.
+''',
+'''
+Ki mehet föl az Úr hegyére,
+ki állhat meg az ő szent helyén?
+Aki ártatlan kezű, tiszta szívű,
+akinek az esze nem jár csaláson.
+''',
+'''
+Az nyer áldást az Úrtól,
+és megigazulást üdvözítő Istenétől.
+Ez az istenkeresők népe,
+amely arcát kutatja Jákob Istenének.
+''']
+la_verses = [
+'''
+Domini est terra et plenitudo eius,
+orbis terrarum et qui habitant in eo.
+Quia ipse super maria fundavit eum,
+et super flumina firmavit eum.
+''',
+'''
+Quis ascendet in montem Domini,
+aut quis stabit in loco sancto eius?
+Innocens manibus et mundo corde,
+qui non accepit in vanum nomen eius.
+''',
+'''
+Hic accipiet benedictionem a Domino,
+et iustificationem a Deo salutari suo.
+Haec est generatio quaerentium eum,
+quaerentium faciem Dei Iacob.
+''']
+
+[alleluia]
+cite = "Mt 24,42a.44"
+text = "Virrasszatok és álljatok készen, mert nem tudjátok, hogy az Emberfia mikor érkezik!"
+la = "Vigilate et estote parati, quia qua nescitis hora Filius hominis venturus est."
+
+[gospel]
+book = "Szent Lukács"
+la_book = "Lucam"
+summary = "Isten nem az adomány nagyságát, hanem az adakozó lelkét nézi."
+cite = "Lk 21,1-4"
+text = '''
+Jézus egy alkalommal megfigyelte, hogyan dobják a gazdagok adományaikat a templom perselyébe. Közben észrevette, hogy egy szegény özvegyasszony két fillért dobott be. Erre megjegyezte: „Bizony, mondom nektek, ez a szegény özvegy többet dobott be, mint bárki más. A többiek ugyanis abból adakoztak, amiben bővelkednek, ez azonban mindent odaadott, ami szegénységéből telt: egész megélhetését.”
+'''
+la = '''
+In illo tempore: Respiciens Iesus vidit eos qui mittebant munera sua in gazophylacium divites. Vidit autem quamdam viduam pauperculam mittentem illuc minuta duo, et dixit: «Vere dico vobis: Vidua haec pauper plus quam omnes misit. Nam omnes hi ex abundantia sua miserunt in munera, haec autem ex inopia sua omnem victum suum quem habebat misit».
+'''
+
+# igenaptár 2026-11-23 (the weekday's set).
+[faithful]
+intro = "Kérjük, testvéreim, mennyei Atyánkat, hogy minden munkánkat az ő dicsőségére végezzük!"
+response = "Kérünk téged, hallgass meg minket!"
+petitions = [
+  "Add, Urunk, hogy az anyagi világ javait a magunk és embertársaink földi boldogulására és örök üdvösségére használjuk!",
+  "Add, hogy mindennapi munkánkban felismerjük szent akaratodat, és azt készségesen teljesítsük!",
+  "Add, hogy munkatársainkkal jó együttműködésre törekedjünk, és így kölcsönösen elősegítsük a közösség javát!",
+  "Add meg nekünk a Szentlélek által a szelídséget, a jószívűséget és a türelmet!",
+  "Add, hogy a mai napot bűn nélkül töltsük el, hogy majd este örvendezve köszönhessük meg jóságodat!",
+  { note = "Ha a szentmisét elhunytért mutatják be:", text = "Add meg elhunyt N. testvérünknek (nővérünknek) bűnei bocsánatát, hogy irgalmadból a szentek közösségébe juthasson!" },
+]
+conclusion = "Kérünk, Istenünk, cselekedeteinket előzd meg sugallatoddal, és kísérd segítségeddel, hogy minden munkánkat mindig veled kezdjük, és amit elkezdtünk, segítségeddel be is fejezzük! Krisztus, a mi Urunk által."
