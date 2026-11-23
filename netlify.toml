@@ -1,0 +1,14 @@
+# Netlify: publish the installable app (the contents of app/ are the site root; all paths in it are relative).
+# No build step: app/data is generated and committed (python3 tools/build.py before pushing).
+[build]
+  publish = "app"
+
+# The update check (version.json) and the service worker must never be served stale.
+[[headers]]
+  for = "/version.json"
+  [headers.values]
+    Cache-Control = "no-store"
+[[headers]]
+  for = "/sw.js"
+  [headers.values]
+    Cache-Control = "no-cache"
