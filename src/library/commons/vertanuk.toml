@@ -111,3 +111,89 @@ quæ beátum N. mártyrem tuum
 réddidit in tuo servítio fidélem et in passióne victórem.
 Per Christum Dóminum nostrum.
 '''
+
+# IV. Vértanú szűz (Commune martyrum, IV. Pro virgine martyre). Hungarian: new missal pp. 803-804
+# (checked 2026-11-24); Latin: Missale Romanum 2002, Commune martyrum, IV. Pro virgine martyre.
+# "Szent N." / "Szent N.-nek" and "beátæ N." / "beátam N." are filled per Mass via `names` / `la_names`.
+[vertanu-szuz]
+entrance = '''
+Íme, már követi
+az értünk megfeszített Bárányt az erős szűz,
+a szemérmesség és tisztaság áldozata.
+'''
+entrance_la = '''
+Ecce iam séquitur Agnum pro nobis crucifíxum
+strénua virgo, pudóris hóstia, víctima castitátis.
+'''
+entrance_b = '''
+Boldog szűz, aki megtagadta magát,
+felvette keresztjét és követte az Urat,
+a szüzek jegyesét és a vértanúk fejedelmét.
+'''
+entrance_b_la = '''
+Beáta virgo, quæ ábnegans semetípsam
+et tollens crucem suam,
+Dóminum æmuláta est, vírginum sponsum martyrúmque príncipem.
+'''
+collect = '''
+Istenünk, te a mai napon
+Szent N. évenként visszatérő emlékünnepével
+szerzel örömet nekünk.
+Add meg, kérünk,
+hogy aki szűzi tisztaságával
+és a halálnál erősebb szeretetével
+sugárzó példát hagyott ránk,
+annak érdemei hozzád közelebb segítsenek.
+A mi Urunk, Jézus Krisztus, a te Fiad által,
+aki veled él és uralkodik a Szentlélekkel egységben,
+Isten mindörökkön örökké.
+'''
+collect_la = '''
+Deus, qui nos hódie beátæ N. ánnua commemoratióne lætíficas,
+concéde propítius, ut eius adiuvémur méritis,
+cuius castitátis et fortitúdinis irradiámur exémplis.
+Per Dóminum nostrum Iesum Christum, Filium tuum,
+qui tecum vivit et regnat in unitáte Spíritus Sancti,
+Deus, per ómnia sǽcula sæculórum.
+'''
+offertory = '''
+Kérünk, Urunk, Istenünk,
+hogy áldozati adományainkat, amelyeket
+Szent N. ünnepén felajánlunk neked,
+fogadd el olyan szívesen,
+ahogy elfogadtad az ő vértanúságának áldozatát.
+Krisztus, a mi Urunk által.
+'''
+offertory_la = '''
+Múnera, quǽsumus, Dómine,
+quæ in celebritáte beátæ N. deférimus,
+ita grátiæ tuæ efficiántur accépta,
+sicut eius tibi plácitum éxstitit passiónis certámen.
+Per Christum Dóminum nostrum.
+'''
+communion_cite = "Jel 7,17"
+communion = '''
+A Bárány, aki királyi széken trónol,
+az élet vizének forrásához vezeti őket.
+'''
+communion_la = '''
+Agnus, qui in médio throni est,
+dedúcet eos ad vitæ fontes aquárum.
+'''
+postcommunion = '''
+Istenünk, te Szent N.-nek a szüzesség
+és a vértanúság kettős győzelme után
+szentjeid között ragyogó koronát nyújtottál.
+Kérünk: e szent áldozat erejével alakíts minket is,
+hogy minden rosszon úrrá legyünk,
+és így kiérdemeljük az örök dicsőség jutalmát.
+Krisztus, a mi Urunk által.
+'''
+postcommunion_la = '''
+Deus, qui beátam N. pro gémina virginitátis et martýrii victória
+inter Sanctos coronásti,
+da, quǽsumus, per huius virtútem sacraménti,
+ut, omne malum fórtiter superántes,
+cæléstem glóriam consequámur.
+Per Christum Dóminum nostrum.
+'''
