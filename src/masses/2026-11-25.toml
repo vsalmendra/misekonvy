@@ -165,13 +165,4 @@ conclusion = "Üdvözítő Istenünk, add, hogy a föld sója és a világ vilá
 
 [[faithful]]
 label = "Vértanúkról"
-intro = "Imádkozzunk, testvéreim, a mi Urunkhoz, Jézus Krisztushoz, aki a vértanúk hősiessége által mutatja meg a világnak az igaz hit értékét és az áldozatvállalás magasztosságát!"
-response = "Kérünk téged, hallgass meg minket!"
-petitions = [
-  "Vértanúidért, akik mindhalálig hűségesek maradtak hozzád, őrizd meg népedet az igaz hitben!",
-  "Vértanúidért, akik szabad lélekkel tettek tanúságot rólad, add meg az egész világnak a lelkiismereti szabadság ajándékát!",
-  "Vértanúidért, akik téged követve keresztjüket vállalták, add, hogy az élet minden baját mi is erős lélekkel viseljük!",
-  "Vértanúidért, akik tisztára mosták lelkük köntösét szent véredben, add, hogy legyőzzük a test és a világ csábításait!",
-  "Vértanúidért, akik együtt uralkodnak veled, fogadd be (N. testvérünket és összes) halottainkat örök országodba!",
-]
-conclusion = "Győzelmes királyunk, Jézus Krisztus! Látod, hogy nélküled mennyire gyengék vagyunk. Állj híveid mellett a megpróbáltatás idején, és add meg nekik erősítő kegyelmedet! Aki élsz és uralkodol mindörökkön örökké."
+ref = "@faithful/vertanuk"

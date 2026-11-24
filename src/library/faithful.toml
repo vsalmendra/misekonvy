@@ -1,0 +1,522 @@
+# Prayer-of-the-faithful sets for categories and feasts (igenaptár's numbered "Egyetemes könyörgések" sets), saved
+# 2026-11-24 from igenaptar.katolikus.hu (the pages of 2026-06 … 2027-11; the dates in `seen` are where each was
+# found). Texts are verbatim, with "N." left in. Use in a Mass with
+#     [[faithful]]
+#     ref = "@faithful/vertanuk"
+# (add `label = "..."` for the dot's name). Not found on igenaptár in that period: sets 1, 2, 11, 17, 22, 28, 35.
+
+[urunk-bemutatasa]
+number = 3
+title = "Urunk Bemutatása Ünnepére (Gyertyaszentelő Boldogasszony)"
+seen = "2027-02-02"
+intro = "Kérjük, testvéreim, hogy a mi Urunkban, Jézus Krisztusban minden ember felismerje a világ Világosságát!"
+response = "Kérünk téged, hallgass meg minket!"
+petitions = [
+  "Urunk, Jézus Krisztus: add, hogy a szentmiseáldozatban – Simeonhoz hasonlóan – találkozhassunk veled, és felismerjünk téged!",
+  "Urunk, Jézus Krisztus: add világosságodat Egyházadnak, és add, hogy híveid az isteni élet fényében járjanak!",
+  "Urunk, Jézus Krisztus: egyesítsd népedet Szentlelked erejével, és adj neki békességet!",
+  "Urunk, Jézus Krisztus: add kegyelmedet, hogy minél több szülő nevelje gyermekét az evangélium világosságának terjesztésére!",
+  "Urunk, Jézus Krisztus: add meg nekünk, hogy életünk végén találkozhassunk veled, és a mennyben örökre láthassuk fényességedet!",
+]
+conclusion = "Gyújtsd fel, Urunk, szívünkben istenséged ismeretének tiszta világosságát, hogy mindig tetszésed szerint éljünk! Mert te vagy lelkünk és testünk megvilágosítója; Krisztus, a mi Istenünk. Téged dicsőítünk Atyáddal és éltető Lelkeddel együtt most és mindörökkön örökké. (A gör. kat. Liturgikonból.)"
+
+[szent-jozsef]
+number = 4
+title = "SZENT JÓZSEF ÜNNEPÉRE (Március 19. és május 1.)"
+seen = "2027-03-19"
+intro = "Testvéreim! Szent Józsefnek, a Szent Család gondviselőjének (a munkás élet eszményképének) ünnepén terjesszük kéréseinket mennyei Atyánk elé!"
+response = "Kérünk téged, hallgass meg minket!"
+petitions = [
+  "Szent József közbenjárására oltalmazd meg, Urunk, Egyházadat az egész világon!",
+  "Az emberiség vezetői Szent József bölcsességével gondoskodjanak a népek nagy családjáról!",
+  "A názáreti otthon békéje és meghitt öröme töltse el családjaink életét!",
+  "Szent József hite, egyszerűsége és Istenbe vetett bizalma legyen a családapák eszményképe!",
+  "Szent József követésével szenteljük meg mindennapi munkás életünket!",
+]
+conclusion = "Istenünk! Te Szent Józsefet példaképül adtad nekünk a családi élet megszentelésére. Add, hogy a mi fáradozásunk is a te dicsőségedre, családunk és embertársaink javára váljék! Krisztus, a mi Urunk által."
+
+[hirulads]
+number = 5
+title = "URUNK SZÜLETÉSÉNEK HÍRÜLADÁSA ÜNNEPÉRE (GYÜMÖLCSOLTÓ BOLDOGASSZONY) (Március 25.)"
+seen = "2027-03-25"
+intro = "Testvéreim! Ezen a napon ünnepeljük, hogy a Boldogságos Szűz Isten Anyjává lett. Vele együtt imádkozzunk Szent Fiához!"
+response = "Kérünk téged, hallgass meg minket!"
+petitions = [
+  "Add, Urunk, hogy Szentatyánk, püspökeink, papjaink és a szerzetesek a Szent Szűz alázatos lelkületével teljesítsék hivatásukat!",
+  "Mutasd meg, Urunk, a világnak, hogy beteljesedett már a prófétai szó, és velünk az Isten!",
+  "Erősíts meg minket, Urunk, hogy jó- és balsorsban egyaránt valljuk: „Legyen meg a te akaratod!”",
+  "Oltsd lelkünkbe, Urunk, kegyelmedet, hogy Gyümölcsoltó Boldogasszony közbenjárására mi is a jó cselekedetek méltó gyümölcsét teremjük!",
+  "Add, Urunk, hogy a szomorkodók és a betegek Isten Boldogságos Anyjánál vigasztalást nyerjenek!",
+]
+conclusion = "Urunk, Jézus Krisztus, aki érettünk emberi testet öltöttél, add, hogy megtestesülésed szent titka által eljussunk hozzád, a mi Istenünkhöz! Aki élsz és uralkodol mindörökkön örökké."
+
+[keresztelo-janos]
+number = 6
+title = "KERESZTELŐ SZENT JÁNOS ÜNNEPÉRE (június 24. és augusztus 29.)"
+seen = "2026-06-24"
+intro = "Testvéreim! Keresztelő Szent János születését ünnepelve kérjük mennyei Atyánktól, hogy Krisztus előhírnökének tanítására figyeljünk, és példáját kövessük!  l. Add, Urunk, hogy híveid igaz hittel és bűnbánó lélekkel járják azt az utat, amelyre Keresztelő Szent János is buzdította a népet!"
+response = "Kérünk téged, hallgass meg minket!"
+petitions = [
+  "Támassz buzgó és bátor igehirdetőket, hogy szavuk nyomán a nemzetek felismerjék Jézusban az Isten Bárányát, aki elveszi a világ bűneit!",
+  "Ne engedd, hogy széltől lengetett nádszál módjára eltérjünk az igazságtól, vagy a kényelmes élet kedvéért elhanyagoljuk önmagunk fegyelmezését!",
+  "Tégy minket alázatossá, hogy ne a magunk dicsőségét hajhásszuk, hanem Krisztusról, az Isten Fiáról tegyünk tanúságot a világban!",
+  "Add, hogy szavainkkal és jó példánkkal Krisztushoz vezessük embertársainkat, ahogyan Keresztelő János is Krisztushoz küldte az ő tanítványait!",
+]
+conclusion = "Istenünk! Te az idők teljességében Keresztelő Szent János által utat készítettél nekünk szent Fiadhoz, és Fiad által magadhoz. Add, hogy mindig az evangélium útján járjunk, és embertársainkat is elvezessük tehozzád! Krisztus, a mi Urunk által."
+
+[szent-laszlo]
+number = 7
+title = "SZENT LÁSZLÓ KIRÁLY ÜNNEPÉRE (Június 27.)"
+seen = "2026-06-27"
+intro = "Kérjük, testvéreim, a mindenható Istent, hogy Szent László közbenjárására hallgassa meg kéréseinket!"
+response = "Kérünk téged, hallgass meg minket!"
+petitions = [
+  "Add, Urunk, hogy hazánk főpásztorai és papjai, Szent László király bölcsességével vezessék hívő népedet!",
+  "Áldd meg, Urunk, népünk áldozatos munkáját, amint segítetted Szent László királyt hősi küzdelmeiben!",
+  "Oltalmazd, Urunk, egyházközségünket minden veszedelemtől Szent László királyunk égi pártfogása alatt!",
+  "Add meg, Urunk, hogy férfi híveink Szent László királyban lássák meg az erős hitű, Istenben bízó ember eszményképét!",
+  "Add, Urunk, hogy betegeink csodatevő szentednek közbenjárására gyógyulást nyerjenek!",
+]
+conclusion = "Urunk, Istenünk, aki Szent László királyban a hit bajnokát és a csodát érdemlő bizalom példáját adtad nekünk, engedd, hogy a hitben és a reményben mi is az ő nyomdokain járjunk. Krisztus, a mi Urunk által."
+
+[peter-pal]
+number = 8
+title = "SZENT PÉTER ÉS SZENT PÁL ÜNNEPÉRE (Június 29.)"
+seen = "2026-06-29"
+intro = "Kérjük, testvéreim, Urunkat, égi Főpásztorunkat, hogy Szent Péter, Szent Pál és a többi apostol közbenjárására hallgassa meg kéréseinket!"
+response = "Kérünk téged, hallgass meg minket!"
+petitions = [
+  "Áldd meg, Urunk, Egyházadat, N. pápánkat, püspökeinket és papjainkat, hogy mindig Szent Péter és Szent Pál hite és buzgósága lobogjon szívükben!",
+  "Küldj, Urunk, munkásokat aratásodba, hogy az evangélium világosságát az apostolok lelkesedésével terjesszék a világon!",
+  "Áraszd, Urunk, áldásodat a népek vezetőire, hogy békesség és szeretet uralkodjék az egész földön!",
+  "Áldd meg, Urunk, népünk szorgalmas munkáját, tartsd távol tőlünk az elemi csapásokat, hogy bőséges kenyér legyen minden család asztalán!",
+  "Végül engedd, Urunk, hogy elhunyt szeretteink már most, és majdan mi is az apostolok boldog társaságának örvendezhessünk!",
+]
+conclusion = "Urunk, Istenünk, hallgasd meg hitből fakadó kéréseinket, és teljesítsd reményünket! Hisszük és reméljük, hogy ami javunkra válik, azt megadod nekünk. Krisztus, a mi Urunk által."
+
+[latogatas]
+number = 9
+title = "SZŰZ MÁRIA LÁTOGATÁSA ÜNNEPÉRE (SARLÓS BOLDOGASSZONY) (Július 2.)"
+seen = "2026-07-02"
+intro = "Testvéreim, Szűz Mária látogatásakor Erzsébetet eltöltötte a Szentlélek. Kérjük mennyei Atyánkat, hogy mi is elnyerjük a Szentlélek kegyelmét!"
+response = "Kérünk téged, hallgass meg minket!"
+petitions = [
+  "Add, Urunk, hogy Szűz Mária közbenjárására püspökeinket és papjainkat töltse el a Szentlélek!",
+  "Add, hogy Szűz Mária közbenjárására kéréseink meghallgatásra találjanak!",
+  "Add, hogy Szűz Mária példáját követve, mi is készen álljunk felebarátaink megsegítésére!",
+  "Add, hogy Erzsébethez hasonlóan Máriában mi is felismerjük Urunk Anyját!",
+  "Add, hogy az örök élet küszöbét örvendező lélekkel léphessük át!",
+]
+conclusion = "Jóságos mennyei Atyánk! Engedd, hogy Szűz Mária közbenjárására a Szentlélek irányítsa életünket, és az ő vezetésével eljussunk a mennyei hazába! Krisztus, a mi Urunk által."
+
+[maria-magdolna]
+number = 10
+title = "SZENT MÁRIA MAGDOLNÁRÓL (Július 22.)"
+seen = "2026-07-22"
+intro = "Kedves testvéreim! Csodáljuk meg Mária Magdolna életében Isten kegyelmét, amely egészen átalakította őt, és kérjük a magunk számára is Isten kegyelmi ajándékait!"
+response = "Kérünk téged, hallgass meg minket!"
+petitions = [
+  "Add, Urunk, hogy Egyházad is – Mária Magdolna példája szerint – hirdesse a feltámadás örömhírét minden népnek!",
+  "Mentsd meg a világ ifjúságát az élvezetvágy és a könnyelmű élet igézetétől!",
+  "Add, hogy lélekben mi is ott állhassunk szent kereszted lábánál, hogy ott Mária Magdolnához hasonlóan mi is megtanuljuk a hősies áldozatvállalás szellemét!",
+  "Önts a mi szívünkbe is lángoló szeretetet és bűnbánatot, hogy szakítsunk a bűnnel, és új életet kezdjünk a te Szíved szándéka szerint!",
+  "Védd meg híveid életét a gonosz lelkek minden ártó befolyásától!",
+]
+conclusion = "Jóságos és irgalmas Istenünk! Te adod meg nekünk a mélységes bűnbánat és a megtérés kegyelmét. Segíts, hogy Mária Magdolna példájára mi is megtapasztaljuk megbocsátó jóságodat és bűneinktől megszabaduljunk! Krisztus, a mi Urunk által."
+
+[szinevaltozas]
+number = 12
+title = "URUNK SZÍNEVÁLTOZÁSA ÜNNEPÉRE (Augusztus 6.)"
+seen = "2026-08-06"
+intro = "Kérjük, testvéreim, Teremtő Istenünket, hogy őrizze és növelje bennünk a megszentelő kegyelmet, és földi életünkön ragyogjon át Istennek ez a természetfeletti ajándéka!"
+response = "Kérünk téged, hallgass meg minket!"
+petitions = [
+  "Add, Urunk, hogy napról napra növekedjünk a hitben, a reményben és a szeretetben!",
+  "Engedd, hogy megismerjük szeretett Fiadat és hallgassunk szavára!",
+  "Add, hogy a megszentelő kegyelem formálja át gondolatainkat, szavainkat és cselekedeteinket!",
+  "Add, hogy felebaráti szeretettel tegyünk tanúságot keresztény hitünkről!",
+  "Engedd, Urunk, hogy gyarló emberi testünkben megdicsőüljön az anyagvilág!",
+]
+conclusion = "Jóságos Atyánk! Szeretett Fiadban az igazság teljességét és az üdvösség reményét adtad nekünk. Kérünk, engedd, hogy mindig a te tanításod által éljünk, és soha semmi le ne téríthessen minket az üdvösség útjairól. Krisztus, a mi Urunk által."
+
+[mennybevetel]
+number = 13
+title = "SZŰZ MÁRIA MENNYBEVÉTELÉNEK ÜNNEPÉRE (NAGYBOLDOGASSZONY) (Augusztus 15.)"
+seen = "2026-08-15"
+intro = "Köszöntsük, testvéreim, örvendező szívvel a testben és lélekben megdicsőült Szent Szüzet, és kérjük, hogy Jézus közvetlen közelségében támogassa kéréseinket!"
+response = "Kérünk téged, hallgass meg minket!"
+petitions = [
+  "Hogy a világ felismerje a nagy jelet, a mi dicsőséges Asszonyunkat és az ő szent Fiát, Jézus Krisztust!",
+  "Hogy az Egyház szüntelenül érezze a megdicsőült Szent Szűz anyai gondoskodását!",
+  "Hogy a mennyország Királynőjének közbenjárására minden nép elnyerje a béke ajándékát!",
+  "Hogy a gyengék és a betegek erőt és reményt merítsenek a Boldogságos Szent Szűz test szerinti megdicsőüléséből!",
+  "Hogy elhunyt testvéreink társaságában egykor mi is boldogan köszönthessük a mennybe felvett Szűzanyát!",
+]
+conclusion = "Istenünk! Te páratlanul csodás dolgot műveltél, amikor a Boldogságos Szűz testét és lelkét a mennybe fölvetted. Add, hogy megdicsőült Szent Anyánk pártfogásával – gyarlóságunk ellenére is – eljussunk hozzád a boldog örökkévalóságba! Krisztus, a mi Urunk által."
+
+[szent-istvan-kiraly]
+number = 14
+title = "SZENT ISTVÁN KIRÁLY ÜNNEPÉRE (Augusztus 20.)"
+seen = "2026-08-20"
+intro = "Kérjük, testvéreim, az Istent, hogy Szent István király közbenjárására áldja meg nemzetünket!"
+response = "Kérünk téged, hallgass meg minket!"
+petitions = [
+  "Áldd meg, Urunk, népünk szorgalmas munkáját, hogy békében és jólétben éljen!",
+  "Áldd meg népünk vezetőit, hogy eredményesen dolgozzanak országunk felvirágoztatásán!",
+  "Add, hogy az Egyház és az állam együtt dolgozzon egész népünk javára!",
+  "Áldd meg gyermekeinket és ifjúságunkat, a magyar jövő zálogát!",
+  "Tartsd távol hazánktól a természeti csapásokat, és segíts mindenkit emberhez méltó életre!",
+]
+conclusion = "Urunk, Istenünk, áldd meg Nagyasszonyunk és első szent királyunk közbenjárására nemzetünket, hogy békében és jólétben élhessen, és áldva magasztaljon téged! Krisztus, a mi Urunk által."
+
+[kisboldogasszony]
+number = 15
+title = "SZŰZ MÁRIA SZÜLETÉSÉNEK ÜNNEPÉRE (KISBOLDOGASSZONY) (Szeptember 8.)"
+seen = "2026-09-08"
+intro = "Örvendezzünk, testvéreim, a mai ünnepen, mert hatalmas közbenjárónk született! A Kisboldogasszonnyal együtt könyörögjünk mennyei Atyánkhoz!"
+response = "Kérünk téged, hallgass meg minket!"
+petitions = [
+  "Add, Urunk, hogy Szűzanyánk születésében minden ember felismerje megváltásunk hajnalhasadását!",
+  "Add, Urunk, hogy Egyházad pásztorainak szolgálata által mindnyájan újjászülessünk az örök életre!",
+  "Add, Urunk, hogy égi Anyánk közbenjárására megszülessék a Földön a béke!",
+  "Add, Urunk, hogy a betegeket és a szomorúakat is örvendeztesse meg a „Szomorúak Vigasztalójának” születése!",
+  "Add, Urunk, hogy Kisboldogasszony mai ünnepe mennyei születésnap legyen elhunyt testvéreink számára!",
+]
+conclusion = "Jóságos, mennyei Atyánk! Szent Fiad megtörte az ősi ellenség erejét. Az ő Szent Anyjában égi édesanyát adtál nekünk. Kérünk, hogy közbenjárására bennünk is törje meg a gonosz lélek hatalmát a mi Urunk, Jézus Krisztus. Aki él és uralkodik mindörökkön örökké."
+
+[szent-kereszt]
+number = 16
+title = "A SZENT KERESZTRŐL (Szeptember 14.)"
+seen = "2026-09-14"
+intro = "Imádkozzunk, testvéreim, hogy Üdvözítőnknek értünk vállalt kereszthalála szolgáljon mindnyájunk üdvösségére!"
+response = "Kérünk téged, hallgass meg minket!"
+petitions = [
+  "Hogy hívő néped megtisztuljon a bűn minden szennyfoltjától szent véred által!",
+  "Hogy Egyházad pásztorai szent véred által megerősödve példát mutassanak a kereszt türelmes hordozására!",
+  "Hogy az államok vezetői áldozatra kész lelkülettel munkálják népük boldogulását!",
+  "Hogy a szenvedők és a betegek szent véred erejéből vigasztalást merítsenek!",
+  "Hogy a kereszten kiontott szent véred szabadulást adjon a szenvedő és tisztuló lelkeknek!",
+]
+conclusion = "Kérünk, Urunk, tekints családodra, amelyért a te szent Fiad, Jézus Krisztus vonakodás nélkül a gonoszok kezére adta magát, és vállalta a kereszthalál gyötrelmét. Aki él és uralkodik mindörökkön örökké."
+
+[szent-gellert]
+number = 18
+title = "SZENT GELLÉRTRŐL (Szeptember 24.)"
+seen = "2026-09-24"
+intro = "Testvéreim! Szent Gellért püspök az életét áldozta magyar népünk üdvösségéért. Kérjük Istent, hogy első szent vértanúnk érdemeiért fogadja kegyesen könyörgő szavunkat!"
+response = "Kérünk téged, hallgass meg minket!"
+petitions = [
+  "Add, Urunk, hogy Szentatyánk, N. pápa, megyés főpásztorunk, püspökeink, papjaink és a szerzetesek áldozatosan munkálkodjanak az evangélium terjesztésén!",
+  "Add, Urunk, hogy a népek vezetői önfeláldozóan szolgálják az emberiség jólétét és békéjét!",
+  "Add, Urunk, hogy Szent Gellért püspök vértanúságának példája erősítse hitünket!",
+  "Add, Urunk, hogy Szent Gellért püspök közbenjárására egyházközségünkben mindig meglegyen a békesség és az egyetértés!",
+  "És végül add meg a haldoklóknak Szent Gellért beléd vetett bizalmát és lelki erejét!",
+]
+conclusion = "Mindenható Atyánk! Te Szent Gellért püspököt messze földről hazánkba küldted apostoli munkára. Add, hogy az általa elvetett evangéliumi mag százszoros termést hozzon. Krisztus, a mi Urunk által."
+
+[magyarok-nagyasszonya]
+number = 19
+title = "MAGYAROK NAGYASSZONYA ÜNNEPÉRE (Október 8.)"
+seen = "2026-10-08"
+intro = "Testvéreim! Magyarok Nagyasszonya ünnepén gyermeki bizalommal terjesszük kéréseinket mennyei Atyánk elé!"
+response = "Kérünk téged, hallgass meg minket!"
+petitions = [
+  "Áldd meg, Urunk, Szentatyánkat, hogy vezetésével Krisztusnak hűséges tanítványai és Nagyasszonyunknak buzgó gyermekei legyünk!",
+  "Adj hazánk főpásztorainak, papjainak és szerzeteseinek testi-lelki erőt, hogy munkájuk nyomán egyre gazdagabban viruljon a krisztusi élet Mária országában!",
+  "Alakítsd át szívünket, hogy Boldogasszonyunk példája szerint mi is reád figyelő és akaratodat teljesítő keresztények legyünk!",
+  "Segítsd a magyar családokat, hogy Szent Istvánt, Boldog Gizellát és Szent Imrét követve vállalják az áldozatos családi életet!",
+  "Ébreszd fel a magyar ifjúságban a keresztény hivatástudatot, hogy Mária országa újra a szentek földje legyen!",
+  "Vezesd elhunyt testvéreinket az égi hazába, hogy ott együtt örvendjenek Nagyasszonyunkkal és nemzetünk szentjeivel!",
+]
+conclusion = "Urunk és Istenünk! Első szent királyunk végakaratából Fiad édesanyját Nagyasszonyunknak tiszteljük. Segíts, hogy pártfogásával családjainkban és hazánkban megvalósítsuk szent Fiad országát. Aki él és uralkodik mindörökkön örökké."
+
+[mindenszentek]
+number = 20
+title = "MINDENSZENTEK ÜNNEPÉRE (november 1.)"
+seen = "2026-11-01"
+intro = "Imádkozzunk, testvéreim, a mai szép ünnepen mennyei Atyánkhoz, és kérjük Isten minden szentjét is, hogy közbenjárásukkal támogassák könyörgésünket!"
+response = "Kérünk téged, hallgass meg minket!"
+petitions = [
+  "Add, Urunk, hogy néped – szentjeid példájára – minden erejével építse a te országodat!",
+  "Add, Urunk, hogy a népek vezetői kitartóan fáradozzanak a rájuk bízottak földi boldogulásáért és békéjéért!",
+  "Add, Urunk, hogy a szentek hősies példája lelkesítse híveidet, és irányítsa őket az életszentség útjára!",
+  "Add, Urunk, hogy a szentek közbenjárása segítse szenvedő, beteg és gondokkal küzdő embertársainkat!",
+  "S végül engedd, hogy meghalt testvéreinkkel együtt mi is részesüljünk a szentek dicsőségében!",
+]
+conclusion = "Urunk, Istenünk! Te mindannyiunkat meghívtál szentjeid közé. Add kegyelmedet, hogy az ő útjukat járjuk a földön, és társaságukban elnyerjük a boldog örökkévalóságot. Krisztus, a mi Urunk által. Felajánló könyörgés: Urunk, Istenünk, fogadd tetszéssel áldozati adományainkat, amelyeket minden szented tiszteletére felajánlunk. Hisszük, hogy ők már eljutottak a boldog halhatatlanságba; engedd éreznünk, hogy közbenjárnak üdvösségünkért. Krisztus, a mi Urunk által. Prefáció:Anyánknak, a mennyei Jeruzsálemnek dicsősége ℣. Az Úr legyen veletek! ℟. És a te lelkeddel! ℣. Emeljük föl szívünket! ℟. Fölemeltük az Úrhoz! ℣. Adjunk hálát Urunknak, Istenünknek! ℟. Méltó és igazságos! (Mert) Valóban méltó és igazságos, illő és üdvös, hogy mindig és mindenütt hálát adjunk néked, — mi Urunk, szentséges Atyánk, mindenható, örök Isten: Mert a te jóságodból ünnepeljük a mai napon a dicsőség városát, a mennyei Jeruzsálemet, mely anyánk és végső célunk, — hol megdicsőült testvéreink Kórusa mindörökké magasztal téged. Mi valamennyien, akik a hit fényében a földi élet zarándokútját járjuk, nagy buzgósággal törekszünk e szent városba, és örvendünk, hogy az Egyház tagjait ilyen dicsőség várta, — s hogy gyarló embervoltunknak a szentekben Adtál — pártfogót és példaképet. (És) Ezért velük és az angyalok ünneplő kórusával együtt — magasztalunk Téged, és hangos szóval zengjük: Szent vagy, szent vagy, szent vagy… Áldozási ének: Boldogok a tiszta szívûek, mert meglátják az Istent. Boldogok a békességszerzők, mert Isten fiainak hívják majd őket. Boldogok, akik üldözést szenvednek az igazságért, mert övék a mennyek országa. Áldozás utáni könyörgés: Mindenható Istenünk, a te végtelen szentségedet csodáljuk és tiszteljük minden szentedben. Add kegyelmedet, hogy szentté legyünk szereteted teljességében, és innét, a földi zarándokok asztalától eljussunk a mennyei haza lakomájára. Krisztus, a mi Urunk által. Ünnepélyes áldás adható, 528. o. Mindenszentekről votív mise mondható, 1014. o."
+
+[szent-imre]
+number = 21
+title = "SZENT IMRE HERCEGRŐL (november 5.)"
+seen = "2026-11-05"
+intro = "Testvéreim, kérjük Istent, hogy Szent Imrének, a magyar ifjúság első szent virágának közbenjárására hallgassa meg imádságunkat!"
+response = "Kérünk téged, hallgass meg minket!"
+petitions = [
+  "Hogy főpásztoraink és papjaink ébren tartsák ifjúságunkban az igazlelkűség és a tiszta élet szeretetét!",
+  "Hogy ifjúságunk Szent Imre példáján nevelődjék műveltségre és munkás életre!",
+  "Hogy mindnyájan kövessük Szent Imrét Egyházunk és Hazánk szeretetében!",
+  "Hogy egyházközségünk családjai az első szent magyar családban lássanak példaképet!",
+  "Hogy az életük virágjában elhunyt ifjú testvéreink örök boldogságra jussanak!",
+]
+conclusion = "Urunk, mentsd meg ifjúságunkat a bűn káprázatától és a szenvedély mámorától, hogy tiszta elmével megismerje az igazat, és bátor lélekkel kövesse a jót! Krisztus, a mi Urunk által."
+
+[arpad-hazi-erzsebet]
+number = 23
+title = "ÁRPÁD-HÁZI SZENT ERZSÉBETRŐL (november 19.)"
+seen = "2026-11-19"
+intro = "Testvéreim! Kérjük Istent, hogy Árpád-házi Szent Erzsébet érdemeiért hallgassa meg könyörgésünket! l. Hogy az Egyház mindig és mindenütt hirdesse és gyakorolja Szent Erzsébet önfeláldozó emberszeretetét!"
+response = "Kérünk téged, hallgass meg minket!"
+petitions = [
+  "Hogy hívő néped irántad való szeretete embertársainak segítésében is megmutatkozzék!",
+  "Hogy egyházközségeink Szent Erzsébet példája nyomán gondoskodjanak szegényeikről és betegeikről, az öregekről és az elhagyatottakról!",
+  "Hogy a keresztény családanyák és az özvegyek az istenfélelemben és a jótékonyságban lássák igazi ékességüket!",
+  "Hogy az irgalmasság gyakorlásával elhunyt szeretteink lelkén is segítsünk!",
+]
+conclusion = "Mindenható Atyánk! Te Szent Erzsébet példáján megmutattad, hogy aki önfeláldozóan segíti embertársait, az könnyebben viseli a saját keresztjét. Segíts minket is, hogy tevékenyen szeressük a rászorulókat, és ebből vigasztalást és erőt merítsünk! Krisztus, a mi Urunk által."
+
+[szeplotelen-fogantatas]
+number = 24
+title = "SZŰZ MÁRIA SZEPLŐTELEN FOGANTATÁSÁNAK ÜNNEPÉRE (december 8.)"
+seen = "2026-12-08"
+intro = "Testvéreim! A szeplőtelenül fogantatott Szűz Mária ünnepén együtt könyörögjünk a mindenható Istenhez!"
+response = "Kérünk téged, hallgass meg minket!"
+petitions = [
+  "Istenünk, aki Szűz Máriát kivetted az áteredő bűn törvénye alól, őrizd Egyházadban az igaz tanítást és a bűntelen életet!",
+  "Mennyei Atyánk! Legkedvesebb leányod közbenjárása hozzon békességet a világnak!",
+  "Urunk, taníts meg, hogy mindennél többre becsüljük kegyelmedet és a tiszta életet!",
+  "A szeplőtelen Szűzanya alázatos, egyszerű élete legyen az anyák és a leányok példaképe!",
+  "A szeplőtelenül fogantatott Szűz Mária legyen betegeink gyógyítója!",
+]
+conclusion = "Urunk, Istenünk! Kegyelmedből a Boldogságos Szűzben újra megjelent a földön a bűntelen ember. Add, hogy példája nyomán és közbenjárására elkerüljük a bűnt mi is, akiket a keresztségben új emberré alkottál! Krisztus, a mi Urunk által."
+
+[szent-istvan-vertanu]
+number = 25
+title = "SZENT ISTVÁN ELSŐ VÉRTANÚ ÜNNEPÉRE (december 26.)"
+seen = "2026-12-26"
+intro = "Testvéreim! Krisztus első vértanújának hitével imádkozzunk mennyei Atyánkhoz!"
+response = "Kérünk téged, hallgass meg minket!"
+petitions = [
+  "Add, Urunk, hogy Egyházad hivatott tanítói Szent István meggyőződésével és a Szentlélek erejével hirdessék hitünk igazságait!",
+  "Adj, Urunk, békét a népeknek szent vértanúd közbenjárására, aki még haldokolva is a megbékélést hirdette!",
+  "Add, Urunk, hogy szívből megbocsássunk ellenségeinknek, és őszinte jóakarattal imádkozzunk értük!",
+  "Engedd, Urunk, hogy halálunk óráján mi is bizalommal imádkozhassuk: „Uram, Jézus, vedd magadhoz lelkemet!”",
+  "S végül engedd, Urunk, hogy kedves halottainknak megnyíljék az ég, és egykor velük együtt mi is láthassuk jobbodon a mi Urunkat, Jézus Krisztust!",
+]
+conclusion = "Mennyei Atyánk! Add, hogy Szent István, első vértanúd hitével tanúskodjunk igazságodról, és az ő szeretetével munkálkodjunk mi is embertársaink javán! Krisztus, a mi Urunk által."
+
+[aproszentek]
+number = 26
+title = "AZ APRÓSZENTEKRŐL (december 28.)"
+seen = "2026-12-28"
+intro = "Krisztus ártatlan gyermekvértanúit ünnepelve forduljunk, testvéreim, mennyei Atyánkhoz, akinek mindnyájan gyermekei vagyunk, és bizalommal terjesszük eléje kéréseinket!"
+response = "Kérünk téged, hallgass meg minket!"
+petitions = [
+  "Add meg Egyházadnak, hogy egyetlen családban egyesítse valamennyi gyermekedet!",
+  "Óvd meg a gyermekeket az egész világon a korai haláltól, az éhezéstől és a tudatlanságtól!",
+  "Olts a szülőkbe nagy felelősségtudatot az erkölcsös családtervezésben és a magzati emberélet megbecsülése terén!",
+  "Tartsd távol a felnövekvő gyermekekről a céltalan életet és az erkölcsi romlás mételyét!",
+  "Gondoskodjál nagy irgalmasságod szerint a keresztség szentsége nélkül elhunyt kisdedekről!",
+]
+conclusion = "Istenünk, jóságos Atyánk! Szent Fiad tanítja, hogy olyanokká kell lennünk, mint a kis gyermekek, ha el akarunk jutni országodba. Add, hogy drága kincsnek tekintsünk és keresztény okossággal neveljünk minden gyermeket, akit gondjainkra bíztál, önmagunkban pedig mindhalálig megőrizzük az istengyermekség kegyelmi állapotát! Krisztus, a mi Urunk által."
+
+[templomszenteles]
+number = 27
+title = "Templomszentelésről És Templombúcsúra"
+seen = "2026-11-09"
+intro = "Testvéreim! Egy szívvel-lélekkel kérjük mennyei Atyánkat, hogy legyen minden szent hajlék az ő kegyelmeinek forrása, ahonnét áldást merít az ő szent népe!"
+response = "Kérünk téged, hallgass meg minket!"
+petitions = [
+  "Imádkozunk, Urunk, N. pápáért, püspökeinkért és papjainkért, tartsd meg kegyelmedben egyházmegyénket és egyházközségeinket!",
+  "Imádkozunk Hazánkért, egész népünkért és azokért, akik fölöttünk a közhatalmat gyakorolják: Adj nekik, Urunk, jó szándékot és bölcsességet, minket pedig segíts boldogulásunkban!",
+  "Imádkozunk mindazokért, akik adományaikkal és munkájukkal áldozatot hoznak templomainkért: Nagylelkűségükért jutalmazd meg őket, Urunk, bőkezűen!",
+  { note = "Szükség szerint:", text = "Imádkozunk a jelenlévő vendégekért, zarándokokért és egyházközségünk minden tagjáért: Lakjék szívükben szeretet, és vigyék haza otthonukba a békesség, a boldogság, a tisztelettudás és a becsület kincseit!" },
+  "Imádkozunk a szenvedőkért, az elhagyatottakért, az öregekért, a betegekért és a szomorkodókért: Nyerjenek erőt, oltalmat, gyógyulást és vigasztalást!",
+  "Imádkozunk elhunyt szeretteinkért is: Legyen osztályrészük az örök boldogság és a dicsőséges feltámadás!",
+]
+conclusion = "Urunk, Istenünk! Figyelj irgalmasan családod könyörgésére. Ezen a szent napon egész szívvel újra átadjuk magunkat szolgálatodra. Segíts és oltalmazz, hogy elteljünk áldásod bőségével! Krisztus, a mi Urunk által."
+
+[angyalok]
+number = 29
+title = "Az Angyalokról"
+seen = "2026-09-29"
+intro = "A mennyei seregeket ünnepelve forduljunk, testvéreim, mindnyájunk közös Atyjához, és kérjük, hogy az angyalok által is viselje gondját földi életünknek!"
+response = "Kérünk téged, hallgass meg minket!"
+petitions = [
+  "Küldd, Urunk, Szent Mihály főangyalt, hogy védelmezze az Anyaszentegyházat, és legyen vezérünk lelki küzdelmeinkben!",
+  "Add a hithirdetők mellé Szent Gábor főangyalt, hogy eljusson a világ minden népéhez az üdvösség örömhíre!",
+  "Rendeld földi zarándokságunk kísérőjéül Szent Rafael főangyalt, hogy megnyissa lelkünk szemét a te igazságaidra, és orvosolja sebzett lelkünket!",
+  "Állítsd mindnyájunk mellé őrző angyalaidat, hogy meg ne botoljék lábunk a feléd vezető úton!",
+  "Engedd, hogy az ítélet napján szent Fiad jobbjához állítsanak minket az angyalok, és szüntelenül velük zenghessük dicsőséged himnuszát!",
+]
+conclusion = "Mennynek és földnek Ura, Istene! Segíts minket, hogy szent angyalaid jelenlétéről soha el ne feledkezzünk, és pártfogásukat élvezve eljussunk országodba, ahol velük együtt szemléljük majd dicsőséges arcodat. Krisztus, a mi Urunk által."
+
+[apostolok]
+number = 30
+title = "Az Apostolokról"
+seen = "2026-07-03"
+intro = "Kérjük, testvéreim, Urunkat, mennyei főpásztorunkat, hogy Szent N. (és N.) és a többi apostol közbenjárására hallgassa meg kéréseinket!"
+response = "Kérünk téged, hallgass meg minket!"
+petitions = [
+  "Áldd meg, Urunk, Egyházadat, N. pápánkat, N. főpásztorunkat, püspökeinket és papjainkat, hogy mindig az apostolok hite és buzgósága lobogjon szívükben!",
+  "Küldj, Urunk, munkásokat aratásodba, hogy az evangélium világosságát az apostolok lelkesedésével terjesszék az egész világon!",
+  "Áraszd, Urunk, áldásodat a népek vezetőire, hogy békesség és szeretet uralkodjék az egész világon!",
+  "Áldd meg, Urunk, népünk szorgalmas munkáját, tartsd távol az elemi csapásokat, hogy bőséges kenyér legyen minden család asztalán!",
+  "Végül engedd, Urunk, hogy (N. testvérünk és összes) elhunyt szeretteink már most, és majdan mi is az apostolok boldog társaságának örvendezhessünk!",
+]
+conclusion = "Hallgasd meg, Urunk, hitből fakadó kéréseinket, és teljesítsd reményünket! Hisszük és reméljük, hogy ami javunkra válik, megadod nekünk. Krisztus, a mi Urunk által."
+
+[vertanuk]
+number = 31
+title = "A Vértanúkról"
+seen = "2026-08-10"
+intro = "Imádkozzunk, testvéreim, a mi Urunkhoz, Jézus Krisztushoz, aki a vértanúk hősiessége által mutatja meg a világnak az igaz hit értékét és az áldozatvállalás magasztosságát!"
+response = "Kérünk téged, hallgass meg minket!"
+petitions = [
+  "Vértanúidért, akik mindhalálig hűségesek maradtak hozzád, őrizd meg népedet az igaz hitben!",
+  "Vértanúidért, akik szabad lélekkel tettek tanúságot rólad, add meg az egész világnak a lelkiismereti szabadság ajándékát!",
+  "Vértanúidért, akik téged követve keresztjüket vállalták, add, hogy az élet minden baját mi is erős lélekkel viseljük!",
+  "Vértanúidért, akik tisztára mosták lelkük köntösét szent véredben, add, hogy legyőzzük a test és a világ csábításait!",
+  "Vértanúidért, akik együtt uralkodnak veled, fogadd be (N. testvérünket és összes) halottainkat örök országodba!",
+]
+conclusion = "Győzelmes királyunk, Jézus Krisztus! Látod, hogy nélküled mennyire gyengék vagyunk. Állj híveid mellett a megpróbáltatás idején, és add meg nekik erősítő kegyelmedet! Aki élsz és uralkodol mindörökkön örökké."
+
+[papak-lelkipasztorok]
+number = 32
+title = "A Pápákról Vagy Lelkipásztorokról"
+seen = "2027-02-14"
+intro = "Kérjük, testvéreim, Krisztus Urunkat, a jó Pásztort, hogy mutassa meg szeretetét irántunk, és hallgassa meg kéréseinket!"
+response = "Kérünk téged, hallgass meg minket!"
+petitions = [
+  "Urunk, te vagy a pásztorok fejedelme: ne hagyd Egyházadat szent és kiváló lelkipásztorok nélkül!",
+  "Aki nyájadat Péterre és utódaira bíztad, add, hogy N. pápánk az apostoli lelkű szent főpapok nyomdokait kövesse!",
+  "Aki jóságosan tanítod és neveled a népeket, ne engedd, hogy a világ elveszítse érzékét a lelki táplálék iránt!",
+  "Aki ismered tieidet, ne engedd, hogy egy is elvesszen azok közül, akikért véredet ontottad!",
+  "Aki válladra veszed a gyengét, és felkutatod az elveszett bárányt, erősítsd meg gyenge hitünket, és térítsd vissza magadhoz azokat, akik elhagytak téged!",
+  { note = "Ha a szentmisét elhunytért mutatják be:", text = "Aki életedet adtad juhaidért, öleld szent Szívedre N.-t és többi elhunyt testvérünket!" },
+]
+conclusion = "Mindenható, örök Isten! Engedd, hogy minden ember megtapasztalja irgalmadat, és eljusson igazságod fényére! A tőled tanult szeretetben teremtsük meg a békét, és jussunk el mindnyájan az örök életre! Krisztus, a mi Urunk által."
+
+[egyhaztanitok]
+number = 33
+title = "Az Egyháztanítókról"
+seen = "2027-04-29"
+intro = "Kérjük, testvéreim, a mindenható Istent, minden világosság Atyját, hogy teljesítse igazságra éhező és szomjazó hívei kéréseit!"
+response = "Kérünk téged, hallgass meg minket!"
+petitions = [
+  "Adj, Urunk, Egyházadnak bölcs tanítókat és apostoli lelkületű hithirdetőket, hogy a világ egyre jobban megismerje szent Fiad evangéliumát!",
+  "Add, hogy megszűnjék az írástudatlanság a földön, és a Szentírás ismeretében is gyarapodjanak a népek!",
+  "Támassz hívő szakembereket az emberi tudás minden ágában neved dicsőségére és a lelkek javára!",
+  "Add, hogy a szülők meg ne feledkezzenek ígéretükről, amelyet megkeresztelt gyermekeik vallásos nevelésére tettek!",
+  "Ne engedd, hogy világi tanulmányainkban előre haladva elhanyagoljuk a szentek tudományát: az imádságos lelkületet és az emberszeretet gyakorlását!",
+  { note = "Szükség szerint:", text = "Nyisd meg az igazság kapuit N. testvérünknek és minden megholt hívednek!" },
+]
+conclusion = "Urunk, te kedveled a szüzességet, de megszenteled a hitvesek szeretetét is. Teljesítsd kéréseinket, és adj Egyházadnak hívásodat követő szüzeket és törvényed szerint élő házastársakat! Aki élsz és uralkodol mindörökkön örökké."
+
+[hithirdetok]
+number = 34
+title = "A Hithirdetőkről"
+seen = "2027-04-25"
+intro = "Kérjük, testvéreim, a mindenható Atyaistent, hogy hallgassa meg könyörgésünket a hit terjedéséért!"
+response = "Kérünk téged, hallgass meg minket!"
+petitions = [
+  "Tedd láthatóvá Egyházadat minden ember előtt, mint a hegyen épült várost!",
+  "Szüntesd meg a népek között a káros megkülönböztetést és széthúzást az evangélium örömhíre által!",
+  "Úgy tölts el minket a hit örömével, hogy megoszthassuk azt embertársainkkal is!",
+  "Küldj munkásokat aratásodba: támassz hivatásokat az evangélium hirdetésére!",
+  "Szent Márk evangélista érdemeiért és közbenjárására adj erőt a hithirdetőknek, hogy lelkesedésük és jó példájuk állandó maradjon!",
+  "Add, hogy imádsággal és jótékonysággal valamennyien szívünkön viseljük a missziók ügyét!",
+]
+conclusion = "Mindenható, örök Isten! Engedd, hogy minden ember megtapasztalja irgalmadat, és eljusson igazságod fényére! A tőled tanult szeretetben teremtsük meg a békét, és jussunk el mindnyájan az örök életre! Krisztus, a mi Urunk által."
+
+[szent-ferfiak]
+number = 36
+title = "A Szent Férfiakról"
+seen = "2026-07-11"
+intro = "Kérjük, testvéreim, gondviselő mennyei Atyánkat, hogy a szent hitvallók példája nyomán szentségben és igazságban járjuk a földi élet útjait!"
+response = "Kérünk téged, hallgass meg minket!"
+petitions = [
+  "Segítsd kegyelmeddel Egyházad minden tagját, hogy valóban a föld sója és a világ világossága legyünk!",
+  "Adj egyetértést a népeknek, és támassz önzetlen békességszerzőket az egész világ javára!",
+  "Add, hogy úgy fáradozzunk családunk és embertársaink jólétéért, hogy mentek maradjunk a világ bűneitől!",
+  "Adj nekünk irgalmas szívet, hogy bajbajutott embertársaink segítségével rójuk le az irántad való szeretet adóját!",
+  "Add, hogy a betegek és a szenvedők a szentek példájára krisztusi lélekkel viseljék keresztjüket!",
+  { note = "Ha a szentmisét elhunytért mutatják be:", text = "Add, hogy N. testvérünkkel [nővérünkkel] és minden kedves halottunkkal szentjeid társaságában jobbod felől állhassunk az ítélet napján!" },
+]
+conclusion = "Mennyei Atyánk, nyisd meg lelki szemünket, hogy nagy testvéreinkben, a szentekben megcsodáljuk, mire képes kegyelmeddel az ember! Erősítsd akaratunkat, hogy földi hivatásunknak hűséges betöltésével méltónak bizonyuljunk szent példaképeinkhez! Krisztus, a mi Urunk által."
+
+[szent-asszonyok]
+number = 37
+title = "A Szent Asszonyokról"
+seen = "2026-07-23"
+intro = "Forduljunk bizalommal, testvéreim, mennyei Atyánkhoz, és kérjük segítségét a szent asszonyok lelki nagyságának követésére!"
+response = "Kérünk téged, hallgass meg minket!"
+petitions = [
+  "Add, Urunk, hogy Egyházad valóban a népek anyja és tanítómestere legyen!",
+  "Add, hogy megszűnjék a világban minden hátrányos megkülönböztetés férfiak és nők, fehérek és színes bőrűek, szabadok és rabszolgák, hívők és nem-hívők között!",
+  "Add, hogy mindenhol megbecsülés övezze és támogatás segítse a családanyák áldozatos szolgálatát!",
+  "Adj kegyelmet a hitvestársaknak a kölcsönös hűségre és szeretetre, a szülőknek pedig gyermekeik gondos keresztény nevelésére!",
+  "Jutalmazd az édesanyák lankadatlan fáradozását egykor majd a boldog örök élet nyugalmával!",
+  { note = "Ha a szentmisét elhunytért mutatják be:", text = "Engedd, hogy N. híved és minden kedves halottunk mielőbb élvezhesse a mennyei otthon boldogságát!" },
+]
+conclusion = "Istenünk, te megadod az érdemszerző élet lehetőségét a férjes asszonyoknak családjuk körében, az özvegyeknek pedig a szeretet szolgálatában. Engedd, hogy a szent asszonyok hősi példáját követve mindnyájan kiérdemeljük az emberek megbecsülését itt a földön, és a dicsőség koronáját nálad a mennyben! Krisztus, a mi Urunk által."
+
+[ev-utolso-estejere]
+# (no number)
+title = "Az év utolsó estéjére"
+seen = "2026-12-31"
+intro = "Testvéreim! Még néhány óra, és vége lesz ennek az esztendőnek. Adjunk hálát a gondviselő Istennek az elmúlt év minden ajándékáért!"
+response = "Kérünk téged, hallgass meg minket!"
+petitions = [
+  "Fogadd el, Urunk, hálánkat azért, hogy hitünk meg nem ingott és reményünk meg nem fogyatkozott!",
+  "Fogadd el, Urunk, hálánkat azért, hogy sok bűntől megóvtál és szeretetedben megőriztél!",
+  "Fogadd el, Urunk, hálánkat azért, hogy az elmúlt esztendőben megtartottál minket békességben és egészségben!",
+  "Fogadd, Urunk, hálánkat azért, hogy atyai jóságoddal gondot viseltél testi és lelki életünkre!",
+  "Add, Urunk, hogy szüntelenül hálásak legyünk segítségedért, amellyel munkánkban és küzdelmeinkben mellettünk álltál!",
+  "Add, Urunk, hogy mindig hálásak legyünk irgalmadért, amellyel megpróbáltatásainkból kimentettél bennünket!",
+]
+conclusion = "Mindenható, örök Isten! Megköszönjük az elmúlt esztendőben kapott sok ajándékot, amellyel elárasztottál bennünket. Fogadd el őszinte bűnbánatunkat is: fájlaljuk a sok hűtlenséget, mulasztást és hanyagságot, amellyel megbántottunk. Add, hogy kegyelmed segítségével az új esztendőben új emberekké lehessünk. Krisztus, a mi Urunk által."
+
+[jezus-szive]
+# (no number)
+title = "Egyetemes könyörgések Jézus Szíve ünnepére (Elsőpéntekre is)"
+seen = "2026-06-12"
+intro = "Testvéreim! Forduljunk bizalommal Urunkhoz és jó Pásztorunkhoz, Jézus Krisztushoz, akinek Szentséges Szíve szeret bennünket, és minden ügyünkben gondunkat viseli."
+response = "Kérünk téged, hallgass meg minket!"
+petitions = [
+  "Légy, Urunk, Főpásztora lelkipásztorainknak: Szentatyánknak, püspökeinknek és papjainknak, hogy Szíved szerint vezessék a rájuk bízott nyájat!",
+  "Támogasd, Urunk, az államfőket, hogy az igazság és a szeretet útján irányítsák népeiket a béke és a boldogulás felé!",
+  "Hajolj le, Urunk, irgalmas szívvel a megfáradottakhoz, és könnyítsd meg számukra az élet terheit!",
+  "Engedd, Urunk, hogy hívő közösségünk minden tagja megbocsátó és irgalmas szívű legyen a te Szent Szíved példája szerint!",
+  "Elhunyt testvéreink Szentséges Szíveden leljék meg az örök nyugodalmat!",
+]
+conclusion = "Urunk! Tekints irgalmasan hozzád könyörgő családodra, amely szívvel-lélekkel rád hagyatkozik és gondviselésedbe veti bizalmát! Maradj vele, éltesd és vezesd! Szabadítsd meg minden bajtól! Áraszd el Szent Szíved áldásával! Aki élsz és uralkodol mindörökkön örökké."
+
+[karacsony]
+# (no number)
+title = "Karácsonyra (Ünnepi mise)"
+seen = "2026-12-25"
+intro = "Testvéreim, Megváltónk születésének ünnepén az istengyermekség örömével fohászkodjunk az Úrhoz:"
+response = "Kérünk téged, hallgass meg minket!"
+petitions = [
+  "Add, Urunk, hogy Egyházad a betlehemi pásztorok hitével fogadja megtestesülésed szent titkát!",
+  "Add, Urunk, hogy Egyházad tisztelje és szeresse betlehemi igénytelenségedet!",
+  "Add, Urunk, hogy ezen szent ünnepen meghallja a világ az angyalok békeszózatát!",
+  "Add, Urunk, hogy amint te a mi testvérünk lettél, legyenek egymásnak testvérei az emberek is!",
+  "Add, Urunk, a karácsony boldogságát a gyermeket váró édesanyáknak, az újszülötteknek pedig add meg az istengyermekség kegyelmét!",
+]
+conclusion = "Urunk, Jézus Krisztus! Te részese lettél emberi természetünknek; engedd, hogy mi pedig megtestesülésed titka által isteni dicsőségedben részesüljünk. Aki élsz és uralkodol mindörökkön örökké."
+
+[istenanyasag]
+# (no number)
+title = "Szűz Mária Istenanyaságának ünnepére"
+seen = "2027-01-01"
+intro = "Testvéreim! Az új esztendő első napján kérjük gondviselő mennyei Atyánkat, hogy az Istenanya közbenjárására áldjon meg bennünket az egész esztendőben!"
+response = "Kérünk téged, hallgass meg minket!"
+petitions = [
+  "Add, Urunk, hogy Szűzanyánk közbenjárására eredményes legyen Szentséges Atyánknak, főpásztorainknak és papjainknak apostoli munkája!",
+  "Add, Urunk, hogy az emberiség felismerje a Boldogságos Szűz istenanyai méltóságát, és gyermeki bizalommal forduljon hozzá!",
+  "Add, Urunk, hogy akik az Istenanyában égi édesanyát kaptunk, szeretettel mutassuk meg, hogy gyermekei vagyunk!",
+  "Add, Urunk, hogy egyházközségünk minden tagja egész évben érezhesse a Szent Szűz anyai pártfogását!",
+  "Add, Urunk, hogy lelki válsággal küzdő híveid a Szűzanya közbenjárására megtalálják a hozzád vezető utat!",
+]
+conclusion = "Gondviselő Atyánk! A Boldogságos Istenanya személyében hatalmas pártfogót adtál gyermekeidnek. Add, kérünk, hogy akik Fiadnak hűséges hívei akarunk maradni, mindhalálig érezzük szűzi Anyjának hathatós segítségét. Krisztus, a mi Urunk által."

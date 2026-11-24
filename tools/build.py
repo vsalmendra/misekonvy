@@ -32,6 +32,7 @@ ORDO = load(SRC / 'library/ordo.toml')
 ORDO_LA = load(SRC / 'library/ordo-latin.toml')
 EPS = load(SRC / 'library/eucharistic-prayers.toml')
 PREFACES = load(SRC / 'library/prefaces.toml')
+FAITHFUL = load(SRC / 'library/faithful.toml')   # numbered sets for saints' categories and feasts (igenaptár)
 COMMONS = {p.stem: load(p) for p in (SRC / 'library/commons').glob('*.toml')}
 ALWAYS_PREFACES = ['ep2', 'ep4']
 NO_LATIN = 'Latinul még nincs feltöltve.'      # the Latin text exists, but is not in the database yet
@@ -474,6 +475,21 @@ def bi_placeholder_readings():
             bi('Verbum Dómini.', 'Ezek az evangélium igéi.') + bi('Laus tibi, Christe.', 'Áldunk téged, Krisztus.', 'resp'))
 
 
+def faithful_sets(raw):
+    """A Mass's prayer(s) of the faithful: one table, or a list of tables; a table with `ref = "@faithful/<key>"`
+    takes the saved set from src/library/faithful.toml (its own keys, e.g. `label`, win)."""
+    out = []
+    for f in (raw if isinstance(raw, list) else [raw]):
+        if 'ref' in f:
+            key = f['ref'].removeprefix('@faithful/')
+            if key not in FAITHFUL:
+                raise BuildError(f'faithful: unknown set {f["ref"]}')
+            lib = {k: v for k, v in FAITHFUL[key].items() if k in ('intro', 'response', 'petitions', 'conclusion')}
+            f = {**lib, **{k: v for k, v in f.items() if k != 'ref'}}
+        out.append(f)
+    return out
+
+
 def faithful(f):
     out = [p(esc(f['intro']))]
     for i, pet in enumerate(f['petitions'], 1):
@@ -802,7 +818,7 @@ def render(m):
     if m.get('creed'):
         h.append(creed_hu())
     if 'faithful' in m:
-        fs = m['faithful'] if isinstance(m['faithful'], list) else [m['faithful']]
+        fs = faithful_sets(m['faithful'])
         h.append('<h3>Egyetemes könyörgések</h3>' + options(fs, faithful, 'alt-faithful', 'Egyetemes könyörgések'))
     else:
         h.append('<h3>Egyetemes könyörgések</h3>' + p('(A napi egyetemes könyörgések.)', 'rub'))
@@ -846,7 +862,7 @@ def render(m):
     if m.get('creed'):
         g.append(creed_la())
     if 'faithful' in m:
-        fs = m['faithful'] if isinstance(m['faithful'], list) else [m['faithful']]
+        fs = faithful_sets(m['faithful'])
         g.append(bi_h3('Oratio universalis', 'Egyetemes könyörgések') + bi_options('alt-faithful', fs, bi_faithful))
     else:
         g.append(bi_h3('Oratio universalis', 'Egyetemes könyörgések') + noted(bi('', '(A napi egyetemes könyörgések.)', 'rub'), LA_NONE))
