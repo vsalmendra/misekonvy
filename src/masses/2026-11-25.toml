@@ -5,10 +5,10 @@ rank = "piros színben"
 gloria = false
 creed = false
 eucharistic_prayer = 1
-prefaces = ["vertanuk-2"]
+prefaces = ["vertanuk", "vertanuk-2"]
 mass_type = "Vértanúk közös miséje: vértanú szűz (IV) · saját könyörgéssel"
 names = [["Szent N.-nek", "Szent Katalinnak"], ["Szent N.", "Szent Katalin"]]
-la_names = [["beátæ N.", "beátæ Catharínæ"], ["beátam N.", "beátam Catharínam"]]
+la_names = [["beáti mártyris N.", "beátæ mártyris Catharínæ"], ["beátæ N.", "beátæ Catharínæ"], ["beátam N.", "beátam Catharínam"]]
 
 # The new missal (Római Misekönyv, 3rd ed.), November 25: "Alexandriai Szent Katalin szűz és vértanú — Vértanúk
 # miséi: vértanú szűz, 803. o., vagy Szüzek miséi: egy szűz, 825. o." + own collect (p. 752). The martyr virgin's
