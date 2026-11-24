@@ -475,7 +475,7 @@ def bi_placeholder_readings():
 
 
 def faithful(f):
-    out = ['<h3>Egyetemes könyörgések</h3>', p(esc(f['intro']))]
+    out = [p(esc(f['intro']))]
     for i, pet in enumerate(f['petitions'], 1):
         if isinstance(pet, dict):
             out.append(p(esc(pet['note']), 'rub'))
@@ -494,7 +494,7 @@ def bi_faithful(f):
             pet = pet['text']
         out += bi('', f'{i}. {esc(pet)}') + bi('', esc(f['response']), 'resp')
     out += bi('', esc(f['conclusion'])) + bi('', 'Ámen.', 'resp')
-    return bi_h3('Oratio universalis', 'Egyetemes könyörgések') + noted(out, LA_NONE)
+    return noted(out, LA_NONE)
 
 
 # ---------- jump marks inside the Eucharistic prayer ----------
@@ -801,8 +801,11 @@ def render(m):
     h.append('<h3>Homília</h3>')
     if m.get('creed'):
         h.append(creed_hu())
-    h.append(faithful(m['faithful']) if 'faithful' in m else
-             '<h3>Egyetemes könyörgések</h3>' + p('(A napi egyetemes könyörgések.)', 'rub'))
+    if 'faithful' in m:
+        fs = m['faithful'] if isinstance(m['faithful'], list) else [m['faithful']]
+        h.append('<h3>Egyetemes könyörgések</h3>' + options(fs, faithful, 'alt-faithful', 'Egyetemes könyörgések'))
+    else:
+        h.append('<h3>Egyetemes könyörgések</h3>' + p('(A napi egyetemes könyörgések.)', 'rub'))
     h.append('</section>')
 
     h.append('<section id="r3"><h2 class="part">Az Eucharisztia liturgiája</h2>')
@@ -842,8 +845,11 @@ def render(m):
         g.append('<div class="day-readings-la">' + bi_placeholder_readings() + '</div>')
     if m.get('creed'):
         g.append(creed_la())
-    g.append(bi_faithful(m['faithful']) if 'faithful' in m else
-             bi_h3('Oratio universalis', 'Egyetemes könyörgések') + noted(bi('', '(A napi egyetemes könyörgések.)', 'rub'), LA_NONE))
+    if 'faithful' in m:
+        fs = m['faithful'] if isinstance(m['faithful'], list) else [m['faithful']]
+        g.append(bi_h3('Oratio universalis', 'Egyetemes könyörgések') + bi_options('alt-faithful', fs, bi_faithful))
+    else:
+        g.append(bi_h3('Oratio universalis', 'Egyetemes könyörgések') + noted(bi('', '(A napi egyetemes könyörgések.)', 'rub'), LA_NONE))
     g.append(bi_h2('Liturgia eucharistica · Az Eucharisztia liturgiája'))
     g.append(ORDO_LA['gifts'])
     g.append(bi_prayer('Super oblata', 'Felajánló könyörgés', o['offertory'], False, 'alt-offertory'))

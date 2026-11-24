@@ -114,6 +114,9 @@ feltöltve." beside the first line of the text.
   (Source still to be found online — www.liturgia.hu? Until then igenaptár's text is used and the
   day's recipe says so.) Drop "Pap:/Lektor:/Hívek:", write the response in full, keep the optional
   petition for a deceased person with its rubric.
+  Several sets: write `[[faithful]]` once per set (with `label`); they become dots like every other choice.
+  igenaptár also has numbered sets for the saints' categories (e.g. "31. A vértanúkról" on 2026-08-10,
+  "30. Az apostolokról" on 10-28); they can be added as a second set on request.
 
 **Gloria, Creed**
 - Sundays: Gloria + Creed. Solemnities: both. Feasts: Gloria only.
