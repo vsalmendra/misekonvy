@@ -1,0 +1,216 @@
+date = "2026-11-26"
+title = "Votív mise a Legméltóságosabb Oltáriszentségről"
+day = "34. évközi hét csütörtökje · votív mise"
+rank = "fehér színben"
+gloria = false
+creed = false
+eucharistic_prayer = 3
+prefaces = ["eucharisztia-1", "eucharisztia-2"]
+mass_type = "Votív mise: A Legméltóságosabb Oltáriszentségről"
+
+# New missal (Római Misekönyv, 3rd ed. 2021), Votív (megemlékező) misék, 5. A Legméltóságosabb Oltáriszentségről,
+# pp. 997-998 (white). Latin: Missale Romanum, editio typica tertia (2002), Missae votivae, 5. De sanctissima
+# Eucharistia. Prefaces: the book's I. and II. prefáció a Legméltóságosabb Oltáriszentségről (pp. 455-456).
+[entrance]
+cite = "Zsolt 77,23-25"
+text = '''
+Megnyitotta az Úr az ég kapuit,
+eledelül mannát hullatott nekik,
+mennyei kenyeret adott nekik az Úr:
+angyalok kenyerét ette az ember.
+'''
+la = '''
+Iánuas cæli apéruit Dóminus,
+et pluit illis manna ad manducándum,
+et panem cæli dedit eis:
+panem angelórum manducávit homo.
+'''
+
+[collect]
+source = "Római Misekönyv, 3. kiadás (2021), 997. o.; latin: Missale Romanum, editio typica tertia (2002), Missae votivae 5."
+text = '''
+Istenünk, te az emberek megváltásának művét
+egyszülött Fiad húsvéti misztériumával
+beteljesítetted.
+Add, kérünk, hogy akik Krisztus halálát
+és feltámadását a szentségi jelekben
+hívő lélekkel ünnepeljük,
+üdvözítő kegyelmedben szüntelenül növekedjünk.
+A mi Urunk, Jézus Krisztus, a te Fiad által,
+aki veled él és uralkodik a Szentlélekkel egységben,
+Isten mindörökkön örökké.
+'''
+la = '''
+Deus, qui humánæ redemptiónis opus
+per Unigéniti tui paschále mystérium implevísti,
+concéde propítius,
+ut, qui Christi mortem et resurrectiónem
+in sacramentórum signis annuntiámus fidénter,
+salvatiónis tuæ contínuum experiámur augméntum.
+Per Dóminum nostrum Iesum Christum, Filium tuum,
+qui tecum vivit et regnat in unitáte Spíritus Sancti,
+Deus, per ómnia sǽcula sæculórum.
+'''
+
+[offertory]
+text = '''
+Megváltásunk emlékezetét ünnepelve
+kérve kérjük, Istenünk,
+hogy atyai jóságodnak ez a szentsége
+legyen számunkra az egység jele
+és a szeretet köteléke.
+Krisztus, a mi Urunk által.
+'''
+la = '''
+Salútis nostræ memoriále celebrántes,
+cleméntiam tuam, Dómine, supplíciter exorámus,
+ut hoc sacraméntum pietátis
+fiat nobis signum unitátis et vínculum caritátis.
+Per Christum Dóminum nostrum.
+'''
+
+[communion]
+cite = "Jn 6,51-52"
+text = '''
+Én vagyok az élő kenyér,
+amely a mennyből szállt alá – mondja az Úr:
+Ha valaki e kenyérből eszik, örökké él.
+A kenyér, amelyet én adok,
+az én testem a világ életéért.
+'''
+la = '''
+Ego sum panis vivus, qui de cælo descéndi, dicit Dóminus.
+Si quis manducáverit ex hoc pane, vivet in ætérnum;
+et panis, quem ego dabo, caro mea est pro mundi vita.
+'''
+
+[postcommunion]
+text = '''
+Kérünk, Istenünk, tégy szentté minket,
+akik a mennyei asztalról táplálkoztunk,
+hogy Krisztus Teste és Vére mindnyájunkat
+igaz testvériségben kössön össze.
+Krisztus, a mi Urunk által.
+'''
+la = '''
+Sanctíficet nos, quǽsumus, Dómine,
+mensæ cæléstis participátio,
+ut, per Corpus et Sánguinem Christi,
+fratérnitas cuncta copulétur.
+Per Christum Dóminum nostrum.
+'''
+
+# Readings: ferial, 34. évközi hét csütörtök, II. év (src/cycle/evkozi-34-4-II.json = igenaptár 2026-11-26).
+# Latin: Missale Romanum cum lectionibus 1977, vol. IV, Feria quinta, Anno secundo, pp. 549-551
+# (OCR corrected by hand; Vulgate numbering).
+[reading1]
+label = "Szentlecke"
+sub = "a Jelenések könyvéből"
+summary = "Isten ítélete elpusztítja a Gonoszság hatalmát, amelyet Babilon és a nagy parázna asszony jelképez. Boldogok, akiket meghív lakomájára Jézus, az Isten Báránya!"
+cite = "Jel 18,1-2.21-23;19,1-3.9a"
+la_sub = "Lectio libri Apocalypsis beati Ioannis apostoli"
+text = '''
+Én, János, látomásomban láttam egy angyalt, amint alászállt az égből. Nagy hatalma volt, és fénye beragyogta a földet. Harsány hangon kiáltotta: „Elesett, elesett a nagy Babilon. Ördögök tanyája lett, minden tisztátalan szellem hajléka, minden tisztátalan lénynek és undok madárnak odúja.”
+
+Ekkor egy erős angyal malomkő nagyságú követ ragadott fel, és a tengerbe dobta e szavakkal: „Ily robajjal dőljön le Babilon, a nagy város, és nyoma se legyen többé! Hárfapengés meg ének, fuvolaszó és harsona ne zengjen többé benned! Ne éljen benned semmilyen mesterség művelője! Ne hallatsszék malomkattogás! Mécses fénye ne villanjon fel benned! Vőlegény és menyasszony ne hallassa szavát! Kereskedőid a föld nagyjai voltak, varázslataid tévútra vezettek minden nemzetet.”
+
+Ezután nagy sereg örömujjongását hallottam a mennyben: „Alleluja! Üdv, dicsőség és hatalom Istenünknek! Igazak és igazságosak ítéletei. Elítélte a nagy parázna asszonyt, aki erkölcstelenségével megrontotta a földet, és számon kérte tőle szolgáinak vérét, amely a kezéhez tapadt.” Majd másodszor is felhangzott: „Alleluja! A bűnös város füstje felszáll örökkön örökké.” Akkor így szólt hozzám az angyal: „Jegyezd fel! Boldogok, akiket meghív menyegzős lakomájára Jézus, az Isten Báránya!”
+'''
+la = '''
+Ego, Ioannes, vidi Angelum descendentem de caelo, habentem potestatem magnam, et terra illuminata est a gloria eius. Et clamavit in forti voce dicens: «Cecidit, cecidit Babylon magna et facta est habitatio daemoniorum et custodia omnis spiritus immundi et custodia omnis bestiae immundae et odibilis».
+
+Et sustulit unus Angelus fortis lapidem quasi molarem magnum et misit in mare dicens: «Impetu sic mittetur Babylon magna illa civitas et ultra iam non invenietur. Et vox citharoedorum et musicorum et tibia canentium et tuba non audietur in te amplius, et omnis artifex omnis artis non invenietur in te amplius, et vox molae non audietur in te amplius, et lux lucernae non lucebit tibi amplius, et vox sponsi et sponsae non audietur in te amplius: quia mercatores tui erant magnates terrae, quia in veneficiis tuis erraverunt omnes gentes».
+
+Post haec audivi quasi vocem magnam turbae multae in caelo dicentium: «Alleluia. Salus et gloria et virtus Deo nostro, quia vera et iusta iudicia eius; quia iudicavit de meretrice magna quae corrupit terram in prostitutione sua, et vindicavit sanguinem servorum suorum de manibus eius». Et iterum dixerunt: «Alleluia. Et fumus eius ascendit in saecula saeculorum». Et dicit mihi: «Scribe: "Beati qui ad cenam nuptiarum Agni vocati sunt"».
+'''
+
+[psalm]
+cite = "Zsolt 99,2-5"
+response = "Boldogok, akik részt vehetnek Isten Bárányának menyegzőjén!"
+la_response = "Beati qui ad cenam nuptiarum Agni vocati sunt."
+verses = [
+'''
+Ujjongjatok az Úrnak, minden földek,
+szolgáljatok az Úrnak vidámsággal!
+Járuljatok színe elé
+vidám énekszóval!
+''',
+'''
+Tudjátok meg, hogy az Úr az Isten,
+övé vagyunk, ő alkotott minket.
+Az ő népe vagyunk,
+legelőjének nyája.
+''',
+'''
+Őt magasztalva lépjetek be kapuján, énekelve vonuljatok hajlékába,
+áldjátok nevét, és adjatok hálát néki.
+''',
+'''
+Valóban jó az Úr, irgalma örökké megmarad,
+és hűsége nemzedékről nemzedékre.
+''']
+la_verses = [
+'''
+Iubilate Domino, omnis terra,
+servite Domino in laetitia;
+introite in conspectu eius in exsultatione.
+''',
+'''
+Scitote quoniam Dominus ipse est Deus;
+ipse fecit nos, et ipsius sumus,
+populus eius et oves pascuae eius.
+''',
+'''
+Introite portas eius in confessione,
+atria eius in hymnis,
+confitemini illi, benedicite nomini eius.
+''',
+'''
+Quoniam suavis est Dominus;
+in aeternum misericordia eius,
+et usque in generationem et generationem
+veritas eius.
+''']
+
+[alleluia]
+cite = "Lk 21,28"
+text = "Nézzetek föl, és emeljétek föl fejeteket, mert elérkezett megváltástok ideje."
+la = "Respicite et levate capita vestra, quoniam appropinquat redemptio vestra."
+
+[gospel]
+book = "Szent Lukács"
+la_book = "Lucam"
+summary = "Jeruzsálem végzete: pogányok tiporják el."
+cite = "Lk 21,20-28"
+text = '''
+Jézus így jövendölt Jeruzsálem pusztulásáról és a saját második eljöveteléről:
+
+Amikor látjátok, hogy Jeruzsálemet hadsereg veszi körül, tudjátok meg, hogy elérkezett a pusztulása! Akkor, akik Júdeában vannak, fussanak a hegyekbe; akik a városban, meneküljenek el; és akik vidéken vannak, vissza ne térjenek! A bosszúállás napjai ezek, hogy beteljesedjék mindaz, amit az írás mond. Jaj, a várandós és szoptatós anyáknak azokban a napokban! Nagy gyötrelem lesz a földön, és az ítélet haragja sújtja ezt a népet. Lesznek, akiket kardélre hánynak. Sokakat fogságba hurcolnak pogány népek közé. Jeruzsálemet pogányok tiporják, amíg idejük be nem telik.
+
+Jelek lesznek a Napban, a Holdban és a csillagokban, a Földön pedig kétségbeesett rettegés támad a népek között a tenger zúgása és a hullámok háborgása miatt. Az emberek megdermednek a rémülettől, miközben várják, hogy mi történik a világgal. A mindenség összetartó erői megrendülnek. Akkor majd meglátják az Emberfiát, amint eljön a felhőkben nagy hatalommal és dicsőséggel.
+
+Amikor mindez beteljesedik, nézzetek fel, és emeljétek föl fejeteket, mert elérkezett megváltásotok.
+'''
+la = '''
+In illo tempore: Dixit Iesus discipulis suis:
+
+«Cum videritis circumdari ab exercitu Ierusalem, tunc scitote quia appropinquavit desolatio eius. Tunc qui in Iudaea sunt, fugiant in montes, et qui in medio eius, discedant, et qui in regionibus, non intrent in eam, quia dies ultionis hi sunt ut impleantur omnia quae scripta sunt. Vae autem praegnantibus et nutrientibus in illis diebus. Erit enim pressura magna super terram et ira populo huic, et cadent in ore gladii et captivi ducentur in omnes gentes, et Ierusalem calcabitur a gentibus, donec impleantur tempora nationum.
+
+Et erunt signa in sole et luna et stellis, et super terram pressura gentium prae confusione sonitus maris et fluctuum, arescentibus hominibus prae timore et exspectatione eorum quae supervenient orbi, nam virtutes caelorum movebuntur. Et tunc videbunt Filium hominis venientem in nube cum potestate et gloria magna.
+
+His autem fieri incipientibus, respicite et levate capita vestra, quoniam appropinquat redemptio vestra».
+'''
+
+# igenaptár 2026-11-26.
+[faithful]
+intro = "Testvéreim, áldjuk és magasztaljuk Istent, aki testi és lelki adományaival elhalmoz minket!"
+response = "Kérünk téged, hallgass meg minket!"
+petitions = [
+  "Hogy mindig hálásak legyünk a teremtés és a megváltás gazdag ajándékaiért, kérjük Urunkat!",
+  "Hogy készséges lélekkel fogadjuk a Gondviselés minden rendelkezését, kérjük Urunkat!",
+  "Hogy Isten és a felebarát szeretete irányítsa gondolatainkat, érzéseinket és cselekedeteinket, kérjük Urunkat!",
+  "Hogy az irigységet és az önzést, a haragot és a gyűlölködést tartsa távol tőlünk, kérjük Urunkat!",
+  "Hogy a munkásoknak munkát, az éhezőknek kenyeret, a szomorúaknak vigaszt, és minden embernek üdvösséget adjon, kérjük Urunkat!",
+  { note = "Ha a szentmisét elhunytért mutatják be:", text = "Hogy elhunyt N. testvérünket (nővérünket), hozzátartozóinkat és jótevőinket fogadja be a szentek boldog társaságába, kérjük Urunkat!" },
+]
+conclusion = "Jóságos, mennyei Atyánk! Hittel valljuk, hogy örök szereteteddel te irányítod emberi sorsunkat. Add, hogy életünk minden napján hűségesen szolgáljunk neked. Aki élsz és uralkodol mindörökkön örökké."
