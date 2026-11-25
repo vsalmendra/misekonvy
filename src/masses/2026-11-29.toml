@@ -1,0 +1,214 @@
+# Recipe: src/masses/2026-11-29.md
+date = "2026-11-29"
+title = "Advent 1. vasárnapja"
+day = "Advent 1. vasárnapja · B év"
+rank = "lila színben"
+gloria = false
+creed = true
+eucharistic_prayer = 3
+# I. adventi prefáció (Advent első vasárnapjától december 16-ig) is the default; on the user's request the
+# II. adventi prefáció (the book prescribes it for 17-24 December) is offered second.
+prefaces = ["advent-1", "advent-2"]
+mass_type = "A vasárnap saját miséje"
+
+# Propers: the new missal (Római Misekönyv, 3rd ed. 2021, Advent I. vasárnapja, pp. 107-108). Latin: Missale
+# Romanum, editio typica tertia (2002), Dominica I Adventus.
+[entrance]
+cite = "Vö. Zsolt 24,1-3"
+text = '''
+Hozzád emelem az én lelkemet, Uram,
+én Istenem, tebenned bízom, pirulnom ne kelljen!
+Ne ujjongjon ellenség fölöttem,
+hiszen aki téged vár, meg nem szégyenül.
+'''
+la = '''
+Ad te levávi ánimam meam,
+Deus meus, in te confído, non erubéscam.
+Neque irrídeant me inimíci mei,
+étenim univérsi qui te exspéctant non confundéntur.
+'''
+
+[collect]
+source = "Római Misekönyv, 3. kiadás (2021), Advent I. vasárnapja, 107. o.; latin: Missale Romanum, editio typica tertia (2002), Dominica I Adventus"
+text = '''
+Mindenható, örök Isten,
+önts híveid szívébe szent elhatározást,
+hogy jótettekkel siessünk a közelgő Krisztus elé,
+ő pedig egykor jobbjára állítson minket országában,
+és mindnyájan együtt örvendjünk
+a boldog örökkévalóságban.
+A mi Urunk, Jézus Krisztus, a te Fiad által,
+aki veled él és uralkodik a Szentlélekkel egységben,
+Isten mindörökkön örökké.
+'''
+la = '''
+Da, quǽsumus, omnípotens Deus,
+hanc tuis fidélibus voluntátem,
+ut, Christo tuo veniénti iustis opéribus occurréntes,
+eius déxteræ sociáti,
+regnum mereántur possidére cæléste.
+Per Dóminum nostrum Iesum Christum, Filium tuum,
+qui tecum vivit et regnat in unitáte Spíritus Sancti,
+Deus, per ómnia sǽcula sæculórum.
+'''
+
+[offertory]
+text = '''
+Kérünk, Urunk, fogadd el az adományokat,
+amelyeket tőled kapott javainkból felajánlunk,
+és add, hogy buzgó lélekkel bemutatott áldozatunk
+nyerje el számunkra megváltásod örök jutalmát.
+Krisztus, a mi Urunk által.
+'''
+la = '''
+Súscipe, quǽsumus, Dómine,
+múnera quæ de tuis offérimus colláta benefíciis,
+et, quod nostræ devotióni concédis éffici temporáli,
+tuæ nobis fiat prǽmium redemptiónis ætérnæ.
+Per Christum Dóminum nostrum.
+'''
+
+[communion]
+cite = "Zsolt 84,13"
+text = '''
+Az Úr megadja kegyelmét,
+és földünk megtermi gyümölcsét.
+'''
+la = '''
+Dóminus dabit benignitátem,
+et terra nostra dabit fructum suum.
+'''
+
+[postcommunion]
+text = '''
+Urunk, Istenünk, kérünk,
+szolgáljanak javunkra az ünnepelt misztériumok,
+amelyekkel már mostani múlandó életünkben
+megtanítasz arra, hogy az égieket szeressük,
+és az örökkévalókhoz ragaszkodjunk.
+Krisztus, a mi Urunk által.
+'''
+la = '''
+Prosint nobis, quǽsumus, Dómine, frequentáta mystéria,
+quibus nos, inter prætereúntia ambulántes,
+iam nunc instítuis amáre cæléstia et inhærére mansúris.
+Per Christum Dóminum nostrum.
+'''
+
+# Readings: Advent 1. vasárnapja, B év (src/cycle/advent-1-vas-B.json = igenaptár 2023-12-03; the readings of
+# year B do not change). Latin: Missale Romanum cum lectionibus 1977, vol. I, Dominica I Adventus, anno B,
+# pp. 174-176 (OCR corrected by hand; Vulgate numbering).
+[reading1]
+label = "Olvasmány"
+sub = "Izajás próféta könyvéből"
+summary = "Az alázatos lélek imája: Bárcsak megnyílna az ég, és mennyei Atyánk elküldené az üdvösséget."
+cite = "Iz 63,16b-17.19b;64,1.2b.3-8"
+la_sub = "Lectio libri Isaiae prophetae"
+text = '''
+Te vagy, Uram, a mi atyánk. Mert Ábrahám nem tud rólunk, és Izrael nem ismer minket; te, Uram, te magad vagy a mi atyánk, régtől fogva „Megváltónk” a neved. Miért hagytad, Urunk, hogy letérjünk útjaidról, és hogy megkeményítsük szívünket, ahelyett, hogy félve tiszteltünk volna? Fordulj felénk újra, a te szolgáidért, örökrészed törzseiért. Ó, bárcsak széttépnéd az egeket és leszállnál! Színed előtt megolvadnának a hegyek, mint ahogy a láng felgyújtja a rőzsét, és ahogy a tűz felforralja a vizet. Így neved ismertté válna ellenségeid előtt, és a nemzetek megrendülnének színed előtt. Leszálltál, és színed előtt megolvadtak a hegyek! Nem hallotta soha senki, valóban fül nem hallotta, és szem nem látta, hogy lenne Isten rajtad kívül, aki ilyeneket vinne végbe azok javára, akik benne bíznak. Te elébe sietsz annak, aki az igazsághoz szabja tetteit, és aki útjaidon járva rád emlékezik.
+
+Íme, te haragudtál ránk, és mi mégis tovább vétkeztünk; bűneinkben vagyunk régtől fogva, bárcsak megszabadulnánk! Olyanok lettünk mind, akár a tisztátalan, és igaz-voltunk, mint a beszennyezett ruha. Elfonnyadtunk, mint a falevél, és gonoszságaink, mint a vihar elsodortak minket. Nincs senki, aki segítségül hívná nevedet, aki fölkelne és beléd kapaszkodna. Mert elrejtetted előlünk arcodat, és kiszolgáltattál minket bűneink hatalmának. Mégis, Urunk, te vagy a mi atyánk; mi vagyunk az agyag, és te, aki formálsz, a te kezed művei vagyunk mindnyájan. Ne haragudj ránk, Urunk, oly nagyon, és ne emlékezzél többé gonoszságainkra. Figyelj ránk s lásd meg: mindnyájan a te néped vagyunk.
+'''
+la = '''
+Tu, Domine, pater noster, redemptor noster: a saeculo nomen tuum. Quare errare nos fecisti, Domine, de viis tuis, indurasti cor nostrum, ne timeremus te? Convertere propter servos tuos, tribus hereditatis tuae. Utinam dirumperes caelos et descenderes! a facie tua montes defluerent! Descendisti, et a facie tua montes defluxerunt. A saeculo non audierunt neque auribus perceperunt; oculus non vidit, Deus, absque te, quae praeparasti exspectantibus te. Occurristi laetanti et facienti iustitiam, in viis tuis recordabuntur tui.
+
+Ecce tu iratus es, et peccavimus; in ipsis fuimus semper et salvabimur. Et facti sumus ut immundus omnes nos, et quasi pannus menstruatae universae iustitiae nostrae, et cecidimus quasi folium universi, et iniquitates nostrae quasi ventus abstulerunt nos. Non est qui invocet nomen tuum, qui consurgat et teneat te. Abscondisti faciem tuam a nobis, et allisisti nos in manu iniquitatis nostrae. Et nunc, Domine, pater noster es tu, nos vero lutum; et fictor noster tu, et opera manuum tuarum omnes nos.
+'''
+
+[psalm]
+cite = "Zsolt 79,2ac.3b.15-16.18-19"
+response = "Téríts meg minket, Istenünk, ragyogtasd ránk arcodat, és szabadok leszünk!"
+la_response = "Deus, converte nos, illustra faciem tuam, et salvi erimus."
+verses = [
+'''
+Figyelj ránk, Izrael pásztora,
+ragyogj fel, aki trónolsz a kerubok fölött!
+Mutasd meg hatalmadat,
+jöjj, hogy megszabadíts minket!
+''',
+'''
+Seregek Ura, fordulj hozzánk, tekints le az égből,
+lásd, és látogasd meg ezt a szőlőt!
+Védd meg, amit jobbod ültetett,
+és az emberfiát, akit magadnak megerősítettél.
+''',
+'''
+Jobbod embere fölé tárd ki kezedet,
+az emberfia fölé, akit magadnak megerősítettél.
+Nem hagyunk el többé, éltess még bennünket,
+és mi segítségül hívjuk nevedet.
+''']
+la_verses = [
+'''
+Qui pascis Israel, intende,
+qui sedes super Cherubim, effulge.
+Excita potentiam tuam, et veni,
+ut salvos facias nos.
+''',
+'''
+Deus virtutum, convertere;
+respice de caelo et vide, et visita vineam istam.
+Et protege eam quam plantavit dextera tua,
+et super filium hominis quem confirmasti tibi.
+''',
+'''
+Fiat manus tua super virum dexterae tuae,
+super filium hominis quem confirmasti tibi.
+Et non discedemus a te, vivificabis nos,
+et nomen tuum invocabimus.
+''']
+
+[reading2]
+label = "Szentlecke"
+sub = "Szent Pál apostolnak a korintusiakhoz írt első leveléből"
+summary = "Urunk, Jézus Krisztus megjelenését várjuk."
+cite = "1Kor 1,3-9"
+la_sub = "Lectio Epistolae primae beati Pauli apostoli ad Corinthios"
+text = '''
+Testvéreim!
+
+Kegyelem nektek és békesség Atyánktól, az Istentől és Jézus Krisztustól, a mi Urunktól! Veletek kapcsolatban szüntelenül hálát adok az Istennek azért az isteni kegyelemért, amelyet Krisztus Jézusban nyertetek. Benne gazdagok lettetek minden tanításban és ismeretben. A Krisztus melletti tanúságtétel is megszilárdult köztetek. Így semmi kegyelmet sem nélkülöztök, amíg Urunk, Jézus Krisztus megjelenését várjátok. Ő mindvégig megerősít titeket, hogy feddhetetlenek legyetek Urunk, Jézus Krisztus napján. Hűséges az Isten, aki meghívott Fiának, Jézus Krisztusnak, a mi Urunknak közösségébe.
+'''
+la = '''
+Fratres:
+
+Gratia vobis et pax a Deo Patre nostro et Domino Iesu Christo. Gratias ago Deo meo semper pro vobis in gratia Dei, quae data est vobis in Christo Iesu, quia in omnibus divites facti estis in illo, in omni verbo et in omni scientia, sicut testimonium Christi confirmatum est in vobis, ita ut nihil vobis desit in ulla donatione, exspectantibus revelationem Domini nostri Iesu Christi; qui et confirmabit vos usque ad finem sine crimine in die Domini nostri Iesu Christi. Fidelis Deus, per quem vocati estis in communionem Filii eius Iesu Christi Domini nostri.
+'''
+
+[alleluia]
+cite = "Zsolt 84,8"
+text = "Urunk, mutasd meg nékünk irgalmas szívedet, és üdvösségedet add meg nékünk."
+la = "Ostende nobis, Domine, misericordiam tuam, et salutare tuum da nobis."
+
+[gospel]
+book = "Szent Márk"
+la_book = "Marcum"
+summary = "Legyetek éberek, mert nem tudjátok, mikor érkezik az Úr!"
+cite = "Mk 13,33-37"
+text = '''
+Abban az időben Jézus így tanított:
+
+Vigyázzatok és virrasszatok! Nem tudjátok, mikor jön el az idő. Az idegenbe induló ember is, amikor otthagyja házát, szolgáira bízza mindenét, és mindegyiknek kijelöli a maga feladatát; a kapuőrnek megparancsolja, hogy virrasszon.
+
+Legyetek hát éberek! Mert nem tudjátok, mikor érkezik meg a ház ura: lehet, hogy este, vagy éjfélkor; kakasszóra, vagy reggel. Ne találjon alva benneteket, ha váratlanul megérkezik! Amit nektek mondok, mindenkinek mondom: Virrasszatok!
+'''
+la = '''
+In illo tempore: Dixit Iesus discipulis suis:
+
+«Videte, vigilate; nescitis enim quando tempus sit. Sicut homo qui peregre profectus reliquit domum suam et dedit servis suis potestatem, unicuique opus suum, ianitori quoque praecepit ut vigilaret.
+
+Vigilate ergo, nescitis enim quando dominus domus veniat, sero an media nocte an galli cantu an mane, ne cum venerit repente, inveniat vos dormientes. Quod autem vobis dico, omnibus dico: Vigilate».
+'''
+
+# igenaptár (2023-12-03, Advent 1. vasárnapja, B év: 2026-11-29 is not yet online).
+[faithful]
+intro = "Testvéreim, a várakozás fogékonnyá teszi a lelket. Kérjük Urunkat, hogy az adventi várakozás készítsen elő a kegyelem befogadására és a lelki megújulásra!"
+response = "Kérünk téged, hallgass meg minket!"
+petitions = [
+  "Add, Urunk, hogy második eljöveteledet várva, mindig készek legyünk megújulni igazságban és szeretetben!",
+  "Add, Urunk, hogy Egyházad tiszta és feddhetetlen legyen, amikor újra eljössz!",
+  "Add, hogy azok, akikre a földi hatalmat bíztad, békében és igazságban vezessék a népeket!",
+  "Add, hogy az adventi szent időben bűneinktől megtisztuljunk, és a szeretetben tökéletesedjünk!",
+  "Add, hogy amikor a rászorulóknak segítséget nyújtunk, megérezzék a te jóságodat!",
+]
+conclusion = "Mindenható Istenünk! Segíts, hogy az advent folyamán egyre jobban megismerjünk téged, és tetteinkben feddhetetlenek legyünk! Krisztus, a mi Urunk által."

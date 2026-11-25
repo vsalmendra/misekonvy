@@ -696,3 +696,63 @@ Sed et visibílibus ædifíciis adumbrátam, Christi sponsam Ecclésiam perénni
 
 Et ídeo, cum Sanctis et Angelis univérsis, te collaudámus, sine fine dicéntes:
 '''
+
+[advent-1]
+label = "I. adventi prefáció"
+source = "Római Misekönyv, 3. kiadás (2021), 33. prefáció, 428. o. (Krisztus kettős eljövetele; Advent első vasárnapjától december 16-ig); latin: Missale Romanum 2008, Praefatio I de Adventu (ordo.pallotyni.pl)"
+sub = "Krisztus kettős eljövetele"
+la_label = "Praefatio I de Adventu"
+la = '''
+Vere dignum et iustum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine, sancte Pater, omnípotens ætérne Deus: per Christum Dóminum nostrum.
+
+Qui, primo advéntu in humilitáte carnis assúmptæ, dispositiónis antíquæ munus implévit, nobísque salútis perpétuæ trámitem reserávit: ut, cum secúndo vénerit in suæ glória maiestátis, manifésto demum múnere capiámus, quod vigilántes nunc audémus exspectáre promíssum.
+
+Et ídeo cum Angelis et Archángelis, cum Thronis et Dominatiónibus, cumque omni milítia cæléstis exércitus, hymnum glóriæ tuæ cánimus, sine fine dicéntes:
+'''
+text = '''
+Valóban méltó és igazságos, illő és üdvös, hogy mindig és mindenütt hálát adjunk néked, mi Urunk, szentséges Atyánk, mindenható, örök Isten: Krisztus, a mi Urunk által.
+
+Ő első eljövetelekor magát megalázva testet öltött, teljesítette a kezdettől fogva neki rendelt küldetést, és megnyitotta számunkra az örök üdvösség útját: hogy amikor dicsőséges fényben újra eljön, látható valóságban nyerjük el, amit most ígéretében bízva várunk.
+
+Ezért mi is, miként az angyalok és főangyalok, a trónod körül álló hatalmas égi szellemek, és minden seregek a mennyben, dicsőséged himnuszát zengjük, és velük együtt vég nélkül mondjuk:
+'''
+
+[advent-2]
+label = "II. adventi prefáció"
+source = "Római Misekönyv, 3. kiadás (2021), 34. prefáció, 429. o. (Kettős várakozás Krisztusra; december 17-e és 24-e között); latin: Missale Romanum 2008, Praefatio II de Adventu (ordo.pallotyni.pl)"
+sub = "Kettős várakozás Krisztusra"
+la_label = "Praefatio II de Adventu"
+la = '''
+Vere dignum et iustum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine, sancte Pater, omnípotens ætérne Deus: per Christum Dóminum nostrum.
+
+Quem prædixérunt cunctórum præcónia prophetárum, Virgo Mater ineffábili dilectióne sustínuit, Ioánnes cécinit affutúrum et adésse monstrávit. Qui suæ nativitátis mystérium tríbuit nos præveníre gaudéntes, ut et in oratióne pervígiles et in suis invéniat láudibus exsultántes.
+
+Et ídeo cum Angelis et Archángelis, cum Thronis et Dominatiónibus, cumque omni milítia cæléstis exércitus, hymnum glóriæ tuæ cánimus, sine fine dicéntes:
+'''
+text = '''
+Valóban méltó és igazságos, illő és üdvös, hogy mindig és mindenütt hálát adjunk néked, mi Urunk, szentséges Atyánk, mindenható, örök Isten: Krisztus, a mi Urunk által.
+
+Őt előre hirdette a próféták szózata, és kimondhatatlan szeretettel hordozta a Szűzanya, az ő közeledtét jelezte Keresztelő János, majd bizonyságot tett arról, hogy már hozzánk érkezett. Ő megadja nekünk, hogy születésének ünnepét örvendezve várjuk, és így imádságban virrasztva, dicséretében ujjongva találjon minket.
+
+Ezért mi is, miként az angyalok és főangyalok, a trónod körül álló hatalmas égi szellemek, és minden seregek a mennyben, dicsőséged himnuszát zengjük, és velük együtt vég nélkül mondjuk:
+'''
+
+[kozos-4]
+label = "IV. közös prefáció"
+source = "Római Misekönyv, 3. kiadás (2021), 75. prefáció, 472. o. (A dicséret, Isten ajándéka); latin: Missale Romanum 2008, Praefatio communis IV (ordo.pallotyni.pl)"
+sub = "A dicséret, Isten ajándéka"
+la_label = "Praefatio communis IV"
+la = '''
+Vere dignum et iustum est, æquum et salutáre, nos tibi semper et ubíque grátias ágere: Dómine, sancte Pater, omnípotens ætérne Deus:
+
+Quia, cum nostra laude non égeas, tuum tamen est donum quod tibi grates rependámus, nam te non augent nostra præcónia, sed nobis profíciunt ad salútem, per Christum Dóminum nostrum.
+
+Et ídeo, choris angélicis sociáti, te laudámus in gáudio confiténtes:
+'''
+text = '''
+Valóban méltó és igazságos, illő és üdvös, hogy mindig és mindenütt hálát adjunk néked, mi Urunk, szentséges Atyánk, mindenható, örök Isten:
+
+A te boldogságod teljes a mi dicséretünk nélkül is, mégis megadod, hogy jóságodért hálát adjunk. A mi magasztalásunk nem tesz nagyobbá téged, nekünk azonban üdvösségünkre válik, Krisztus, a mi Urunk által.
+
+Ezért mi is az angyalok kórusához társulunk, dicsőítünk téged, és ujjongva mondjuk:
+'''

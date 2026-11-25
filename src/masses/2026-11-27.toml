@@ -1,0 +1,138 @@
+# Recipe: src/masses/2026-11-27.md
+date = "2026-11-27"
+title = "Votív mise a Boldogságos Szűz Máriáról"
+day = "34. évközi hét péntekje · votív mise"
+rank = "fehér színben"
+gloria = false
+creed = false
+eucharistic_prayer = 1
+prefaces = ["maria-1", "maria-2"]
+mass_type = "Szűz Mária miséi (1)"
+# Marian preface I, votive form (new missal p. 777: "votív misékben: és amikor tiszteljük a Boldogságos,
+# mindenkor Szűz Máriát"; MR 2002: "in Missis votivis: Et te in veneratióne").
+names = [["s a Boldogságos, mindenkor szűz Mária N. ünnepén", "és amikor tiszteljük a Boldogságos, mindenkor Szűz Máriát,"]]
+la_names = [["Et te in N. beátæ", "Et te in veneratióne beátæ"]]
+
+# Szűz Mária miséi, I. Évközi időben, 1 (new missal pp. 776-777; Latin MR 2002).
+entrance = "@szuz-maria/1"
+collect = "@szuz-maria/1"
+communion = "@szuz-maria/1"
+postcommunion = "@szuz-maria/1"
+
+# Prayer over the offerings: the new missal gives two ("Vagy"); both offered, the first selected.
+[[offertory]]
+ref = "@szuz-maria/1"
+
+[[offertory]]
+ref = "@szuz-maria/1:offertory_b"
+
+# Readings: of the day (34. évközi hét péntek, II. év), igenaptár = src/cycle/evkozi-34-5-II.json.
+# Latin: Missale Romanum cum lectionibus 1977, vol. IV, Feria sexta, Anno secundo, pp. 555-557
+# (OCR corrected by hand; Vulgate numbering).
+[reading1]
+label = "Szentlecke"
+sub = "a Jelenések könyvéből"
+summary = "Miután Isten mindenkit megítélt tettei szerint, választottainak új eget és új földet ad."
+cite = "Jel 20,1-4.11-21,2"
+la_sub = "Lectio libri Apocalypsis beati Ioannis apostoli"
+text = '''
+Én, János, látomásban láttam, hogy egy angyal szállt le a mennyből, akinél az alvilág kulcsa volt. Kezében pedig nagy láncot tartott. Megragadta a sárkányt, az őskígyót, aki nem más, mint az ördög, a sátán, és ezer esztendőre megbilincselte. Letaszította az alvilágba, bezárta és lepecsételte, hogy félre ne vezesse a nemzeteket, amíg el nem telik az ezer esztendő. Azután rövid időre szabadon engedik.
+
+Akkor trónokat láttam. Azok ültek rajtuk, akikre az ítéletet bízták. Továbbá láttam azok lelkeit, akiket Jézus tanúsága és Isten igéje miatt lefejeztek: akik nem imádták a vadállatot és bálványképét, és jelét sem viselték a homlokukon és a kezükön. Ezek életre keltek, és Krisztussal ezer esztendeig uralkodtak.
+
+Aztán nagy ragyogó trónt láttam. A rajta ülőnek tekintete elől menekült a föld és az ég, és nem maradt számukra hely. Láttam, hogy (Isten) trónja előtt állnak azok, akik egykor meghaltak. Ott állnak nagyok és kicsinyek egyaránt. Azután kinyitották a könyveket. Kinyitottak egy másik könyvet is, az élet könyvét. A holtakat megítélték tetteik szerint, amint a könyvekben fel volt jegyezve. A tenger visszaadta a beléveszett holtakat, a halál és az alvilág is visszaadta halottjait. Valamennyit megítélték tetteik alapján. A halált és az alvilágot tüzes tóba vetették. Ez a tüzes tó a második halál. Aki nem volt feljegyezve az élet könyvébe, azt a tüzes tóba vetették.
+
+Akkor láttam az új eget és az új földet. Az első ég és az első föld elmúlt, és a tenger sem volt többé. Ezután láttam a szent várost, az új Jeruzsálemet leszállni a mennyből, az Istentől. Szép volt, mint a vőlegényének felékesített menyasszony.
+'''
+la = '''
+Ego, Ioannes, vidi Angelum descendentem de caelo habentem clavem Abyssi et catenam magnam in manu sua. Et apprehendit Draconem, Serpentem antiquum, qui est Diabolus et Satanas, et ligavit eum per annos mille, et misit eum in Abyssum et clausit et signavit super illum ut non seducat amplius gentes donec consummentur mille anni: post haec oportet illum solvi modico tempore.
+
+Et vidi thronos, et sederunt super eos et iudicium datum est illis, et animas decollatorum propter testimonium Iesu et propter verbum Dei, et qui non adoraverunt Bestiam neque imaginem eius nec acceperunt characterem eius in frontibus et in manibus suis: et vixerunt et regnaverunt cum Christo mille annis.
+
+Et vidi thronum magnum candidum et Sedentem super eum, a cuius aspectu fugit terra et caelum, et locus non est inventus eis. Et vidi mortuos, magnos et pusillos, stantes in conspectu throni, et libri aperti sunt: et alius liber apertus est, qui est vitae: et iudicati sunt mortui ex his quae scripta erant in libris secundum opera ipsorum. Et dedit Mare mortuos qui in eo erant, et Mors et Infernus dederunt mortuos qui in ipsis erant, et iudicati sunt singuli secundum opera ipsorum. Et Mors et Infernus proiecti sunt in stagnum ignis. Haec Mors secunda est, stagnum ignis. Et si quis non est inventus in libro vitae scriptus, missus est in stagnum ignis.
+
+Et vidi Caelum novum et Terram novam: primum enim caelum et prima terra abierunt, et mare iam non est. Et Civitatem sanctam Ierusalem novam vidi descendentem de caelo a Deo, paratam sicut sponsam ornatam viro suo.
+'''
+
+[psalm]
+cite = "Zsolt 83,3-6a.8a.11"
+response = "Íme, az Isten hajléka, köztünk, emberek között!"
+la_response = "Ecce tabernaculum Dei cum hominibus."
+verses = [
+'''
+Sóvárog és vágyódik lelkem
+az Úr udvarába,
+szívem és testem
+örvendezik az élő Istenben.
+''',
+'''
+Még a veréb is otthont talál magának,
+és a gerle fészket, ahová fiait helyezze;
+a te oltárodnál, Seregek Ura,
+én Istenem és Királyom!
+''',
+'''
+Boldogok, akik a te házadban laknak,
+örökkön örökké dicsérnek téged.
+Boldog az az ember, kinek segítsége tőled van;
+újult erővel halad az úton.
+''']
+la_verses = [
+'''
+Concupiscit et deficit anima mea
+in atria Domini.
+Cor meum et caro mea
+exsultaverunt in Deum vivum.
+''',
+'''
+Etenim passer invenit sibi domum,
+et turtur nidum sibi,
+ubi ponat pullos suos:
+altaria tua, Domine virtutum,
+rex meus et Deus meus.
+''',
+'''
+Beati qui habitant in domo tua,
+in perpetuum laudabunt te.
+Beatus vir cuius est auxilium abs te;
+ibunt de virtute in virtutem.
+''']
+
+[alleluia]
+cite = "Lk 21,28"
+text = "Nézzetek föl, és emeljétek föl fejeteket, mert elérkezett megváltástok ideje."
+la = "Respicite et levate capita vestra, quoniam appropinquavit redemptio vestra."
+
+[gospel]
+book = "Szent Lukács"
+la_book = "Lucam"
+summary = "Jeruzsálem pusztulása után kibontakozik majd az Isten országa."
+cite = "Lk 21,29-33"
+text = '''
+Abban az időben Jézus a következő hasonlatot mondta tanítványainak:
+
+„Nézzétek a fügefát és a többi fákat! Amikor látjátok, hogy már hajtanak, tudjátok, hogy közel van a nyár. Ugyanígy ti is, amikor látjátok, hogy mindez bekövetkezik, tudjátok meg, hogy közel van az Isten országa.
+
+Bizony, mondom nektek: Nem múlik el ez a nemzedék, amíg mindez meg nem történik. Ég és föld elmúlnak, de az én igéim el nem múlnak.”
+'''
+la = '''
+In illo tempore: Dixit Iesus discipulis suis similitudinem:
+
+«Videte ficulneam et omnes arbores: cum iam germinaverint videntes vosmetipsi scitis quia iam prope est aestas. Ita et vos, cum videritis haec fieri, scitote quoniam prope est Regnum Dei.
+
+Amen dico vobis: Non praeteribit generatio haec donec omnia fiant. Caelum et terra transibunt, verba autem mea non transibunt».
+'''
+
+# igenaptár 2026-11-27 (the weekday's set).
+[faithful]
+intro = "Imádjuk Krisztus Urunkat, aki kereszthalála által feláldozta magát értünk a mennyei Atyának, hogy megszabadítson minket bűneinktől!"
+response = "Kérünk téged, hallgass meg minket!"
+petitions = [
+  "Urunk, te véred kiontásával szentesítetted az új és örök szövetséget: add, hogy mindig hűségesek maradjunk hozzád!",
+  "Urunk, te vállaltad értünk a szenvedést és a kereszthalált: add, hogy mi se vonakodjunk elfogadni és hordozni életünk keresztjeit!",
+  "Urunk, te megígérted, hogy örök életre szökellő vízforrást ajándékozol nekünk: áraszd ki Szentlelkedet minden emberre!",
+  "Urunk, te elküldted tanítványaidat, hogy hirdessék a kereszt üdvözítő erejét: add, hogy mi is keresztedből merítsünk erőt szenvedéseink elviselésére!",
+  "Urunk, te kereszted és feltámadásod által eltörölted minden vétkünket: add, hogy eltöltsön bennünket a Szentlélek vigasztalása!",
+  { note = "Ha a szentmisét elhunytért mutatják be:", text = "Urunk, te kiérdemelted híveid számára a feltámadást és az örök dicsőséget: add, hogy elhunyt testvéreink elnyerjék ígéreteid teljesülését!" },
+]
+conclusion = "Istenünk, a kereszt botránya megmutatta számunkra örök bölcsességedet és irántunk való végtelen szeretetedet. Engedd, hogy mindig bizakodó lélekkel dicsekedjünk Krisztus keresztjével. Aki él és uralkodik mindörökkön örökké."

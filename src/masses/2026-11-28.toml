@@ -1,0 +1,284 @@
+# Recipe: src/masses/2026-11-28.md
+date = "2026-11-28"
+title = "Votív mise: Hálaadás Istennek"
+day = "34. évközi hét szombatja · votív mise"
+rank = "fehér színben"
+gloria = false
+creed = false
+eucharistic_prayer = 2
+prefaces = ["kozos-4"]
+mass_type = "Votív mise: Hálaadás Istennek (49.)"
+
+# New missal (Római Misekönyv, 3rd ed. 2021), Különféle szükségletekben, 49. Hálaadás Istennek, pp. 990-991:
+# A (own antiphons and prayers) and B (egyéb könyörgések: collect, offerings, after communion). Latin: Missale
+# Romanum, editio typica tertia (2002), Missae ad diversa, 49. Pro gratiis Deo reddendis, A and B.
+# The parentheses of the book (optional words) are kept as plain text.
+[entrance]
+cite = "Ef 5,19-20"
+text = '''
+Énekeljetek és zsoltárt zengjetek szívetekben az Úrnak.
+Adjatok hálát mindenkor mindenért a mi Urunk,
+Jézus Krisztus nevében az Istennek, és Atyának.
+'''
+la = '''
+Cantáte et psállite in córdibus vestris Dómino,
+grátias agéntes semper pro ómnibus
+in nómine Dómini nostri Iesu Christi Deo et Patri.
+'''
+
+[[collect]]
+label = "A"
+source = "Római Misekönyv, 3. kiadás (2021), 49. Hálaadás Istennek, A, 990. o.; latin: Missale Romanum, editio typica tertia (2002), 49. A"
+text = '''
+Istenünk, aki megpróbáltatások között élő
+gyermekeidet mindig irgalmasan meghallgatod,
+hálát adunk jóságodért, és kérve kérünk,
+hogy minden baj nélkül
+örömmel szolgálhassunk neked.
+A mi Urunk, Jézus Krisztus, a te Fiad által,
+aki veled él és uralkodik a Szentlélekkel egységben,
+Isten mindörökkön örökké.
+'''
+la = '''
+Deus, qui fámulos tuos in tribulatióne pósitos
+semper miserátus exáudis,
+pro benignitáte tua grátias agéntes,
+te súpplices deprecámur,
+ut, líberi a malis ómnibus,
+in gáudio tibi iúgiter serviámus.
+Per Dóminum nostrum Iesum Christum, Filium tuum,
+qui tecum vivit et regnat in unitáte Spíritus Sancti,
+Deus, per ómnia sǽcula sæculórum.
+'''
+
+[[collect]]
+label = "B"
+source = "Római Misekönyv, 3. kiadás (2021), 49. Hálaadás Istennek, B (egyéb könyörgések), 991. o.; latin: Missale Romanum 2002, 49. B"
+text = '''
+Istenünk, minden ajándék Atyja,
+hittel valljuk, hogy amik vagyunk és amink van,
+az mind tőled származik.
+Taníts meg minket, hogy felismerjük
+végtelen atyai jóságod ajándékait,
+és téged őszinte szívvel, minden erőnkből szeressünk.
+A mi Urunk, Jézus Krisztus, a te Fiad által,
+aki veled él és uralkodik a Szentlélekkel egységben,
+Isten mindörökkön örökké.
+'''
+la = '''
+Deus, Pater donórum ómnium,
+a quo descéndere confitémur
+quidquid habémus aut sumus,
+benefícia doce nos imménsæ tuæ pietátis agnóscere,
+ac te sincéro corde totáque nostra virtúte dilígere.
+Per Dóminum nostrum Iesum Christum, Filium tuum,
+qui tecum vivit et regnat in unitáte Spíritus Sancti,
+Deus, per ómnia sǽcula sæculórum.
+'''
+
+[[offertory]]
+text = '''
+Urunk, Istenünk, te szent Fiadat adtad nekünk,
+hogy minket a haláltól és minden bajtól
+jóságosan megszabadítson.
+Kérünk, fogadd el ezt az áldozatot,
+amelyet gyötrelmeinktől megszabadulva
+hálaadásként neked felajánlunk.
+Krisztus, a mi Urunk által.
+'''
+la = '''
+Dómine, qui Fílium tuum dedísti nobis,
+ut nos a morte omníque malo benígnus eríperet,
+quǽsumus, ut hoc sacrifícium cleménter accípias,
+quod ab ærúmnis líberi tibi in gratiárum offérimus actiónem.
+Per Christum Dóminum nostrum.
+'''
+
+[[offertory]]
+text = '''
+Felajánljuk neked, Istenünk, a tőled kapott
+ajándékokért ezt a dicsérő áldozatot.
+Könyörögve kérünk,
+hogy amit érdemünk nélkül juttattál nekünk,
+azt neved dicsőségére fordítsuk.
+Krisztus, a mi Urunk által.
+'''
+la = '''
+Pro collátis donis sacrifícium tibi, Dómine, laudis offérimus,
+supplíciter deprecántes,
+ut, quod imméritis contulísti,
+ad nóminis tui glóriam referámus.
+Per Christum Dóminum nostrum.
+'''
+
+[[communion]]
+cite = "Zsolt 137,1"
+text = '''
+Hálát adok neked, Uram, teljes szívemből,
+mert meghallgattad ajkaim szavát.
+'''
+la = '''
+Confitébor tibi, Dómine, in toto corde meo,
+quóniam audísti verba oris mei.
+'''
+
+[[communion]]
+cite = "Zsolt 115,12-13"
+text = '''
+Mivel viszonozzam az Úrnak mindazt,
+amit ő nekem juttatott?
+Fölemelem az üdvösség kelyhét,
+és segítségül hívom az Úr nevét.
+'''
+la = '''
+Quid retríbuam Dómino pro ómnibus quæ retríbuit mihi?
+Cálicem salutáris accípiam,
+et nomen Dómini invocábo.
+'''
+
+[[postcommunion]]
+text = '''
+Mindenható Istenünk, te az élet kenyere által
+gyermekeidet a bűn kötelékétől megszabadítod,
+és életerejüket megújítod.
+Add meg nekünk, hogy mindig jobban
+előre haladjunk az örök dicsőség reményében.
+Krisztus, a mi Urunk által.
+'''
+la = '''
+Omnípotens Deus, qui per hunc panem vitæ
+fámulos tuos et peccáti vínculo liberáre
+et vires eórum dignáris tua pietáte refícere,
+da nobis in spem glóriæ sine intermissióne profícere.
+Per Christum Dóminum nostrum.
+'''
+
+[[postcommunion]]
+text = '''
+Istenünk, te lelki eledelül adtad nekünk
+Fiad üdvösségszerző szentségét,
+amelyet most hálaadásul felajánlottunk.
+Szilárdítsanak meg minket
+ezek az erőt adó és örömet szerző ajándékaid,
+hogy egyre nagyobb odaadással szolgálhassunk neked,
+és újabb jótéteményeket nyerjünk tőled.
+Krisztus, a mi Urunk által.
+'''
+la = '''
+Deus, qui nobis in cibum spiritálem reddidísti
+Fílii tui sacraméntum salutáre,
+quod tibi in actiónem obtúlimus gratiárum,
+da nobis ita virtútis et gáudii munéribus confirmári,
+ut tibi servíre devótius et nova benefícia cónsequi mereámur.
+Per Christum Dóminum nostrum.
+'''
+
+# Readings: of the day (34. évközi hét szombat, II. év), igenaptár = src/cycle/evkozi-34-6-II.json.
+# Latin: Missale Romanum cum lectionibus 1977, vol. IV, Sabbato, Anno secundo, pp. 560-562
+# (OCR corrected by hand; Vulgate numbering).
+[reading1]
+label = "Szentlecke"
+sub = "a Jelenések könyvéből"
+summary = "Az üdvözültek örök világosságban élnek, mert Isten fényessége ragyogja be őket."
+cite = "Jel 22,1-7"
+la_sub = "Lectio libri Apocalypsis beati Ioannis apostoli"
+text = '''
+Az Úr angyala megmutatta nekem az élő vizek folyóját, amely kristálytisztán fakadt Isten és a Bárány trónjából. Az utca közepén és a folyó mindkét partján az élet fái álltak. Tizenkétszer hoznak termést, vagyis minden hónapban gyümölcsöt teremnek. A leveleik a nemzetek gyógyulására szolgálnak.
+
+Átok nem lesz többé benne. Isten és a Bárány trónja áll majd ott, és szolgái hódolnak neki. Látni fogják arcát, és homlokukon hordják a nevét. Nem lesz többé éjszaka, és nem szorulnak lámpafényre vagy napvilágra. Az Úristen ragyogja be őket, és uralkodni fognak örökkön örökké.
+
+Aztán így szólt hozzám az angyal: „Ezek a szavak hitelesek és igazak. Az Úr, a próféta-lelkek Istene, elküldte angyalát, hogy hírül adja szolgáinak mindazt, aminek csakhamar meg kell történnie.
+
+Nézd, hamarosan eljövök. Boldog, aki megszívleli e könyv prófétai szavait!”
+'''
+la = '''
+Ostendit mihi, Ioanni, Angelus Domini fluvium Aquae Vitae splendidum tamquam crystallum, procedentem de throno Dei et Agni. In medio plateae eius et fluminis ex utraque parte lignum vitae afferens fructus duodecim, per menses singulos reddens fructum suum, et folia ligni ad sanitatem gentium.
+
+Et omne maledictum non erit amplius. Et thronus Dei et Agni in illa erit, et servi eius servient illi, et videbunt faciem eius, et Nomen eius in frontibus eorum. Et nox ultra non erit, et non egent lumine lucernae neque lumine solis, quoniam Dominus Deus illuminabit super illos et regnabunt in saecula saeculorum.
+
+Et dixit mihi: «Haec verba fidelissima et vera sunt, et Dominus, Deus spirituum Prophetarum, misit Angelum suum ostendere servis suis quae oportet fieri cito.
+
+Et ecce venio velociter. Beatus qui servat verba prophetiae libri huius».
+'''
+
+[psalm]
+cite = "Zsolt 94,1-7"
+response = "Marana tha! Jöjj el, Urunk, Jézus!"
+la_response = "Marana tha! Veni, Domine Iesu!"
+verses = [
+'''
+Jöjjetek, örvendezzünk az Úrnak,
+és ujjongjunk üdvünk sziklája előtt.
+Dicsőítő énekkel lépjünk színe elé,
+magasztaljuk őt zsoltárt zengve.
+''',
+'''
+Mert az Úr valóban nagy Isten,
+az összes isteneknél dicsőbb király.
+A Föld mélységei az ő kezében vannak,
+és övé a hegyek minden orma.
+Övé a tenger, az ő műve,
+a szárazföld is az ő keze alkotása.
+''',
+'''
+Jöjjetek, boruljunk le, hódoljunk előtte,
+hulljunk térdre Urunk, Alkotónk előtt,
+mert ő a mi Istenünk,
+mi pedig az ő népe, és kezére bízott nyáj vagyunk.
+''']
+la_verses = [
+'''
+Venite, exsultemus Domino;
+iubilemus Deo salutari nostro.
+Praeoccupemus faciem eius in confessione,
+et in psalmis iubilemus ei.
+''',
+'''
+Quoniam Deus magnus Dominus,
+et rex magnus super omnes deos.
+Quia in manu eius sunt profunda terrae,
+et altitudines montium ipsius sunt.
+Quoniam ipsius est mare, et ipse fecit illud,
+et siccam manus eius formaverunt.
+''',
+'''
+Venite, adoremus et procidamus,
+et genua flectamus ante Dominum qui fecit nos,
+quia ipse est Deus noster,
+et nos populus pascuae eius et oves manus eius.
+''']
+
+[alleluia]
+cite = "Lk 21,36"
+text = "Imádkozva virrasszatok szüntelen, hogy az Emberfia elé méltón álljatok."
+la = "Vigilate, omni tempore orantes, ut digni habeamini stare ante Filium hominis."
+
+[gospel]
+book = "Szent Lukács"
+la_book = "Lucam"
+summary = "Vigyázzunk, hogy az Úr eljövetele készen találjon bennünket."
+cite = "Lk 21,34-36"
+text = '''
+Jézus ezeket mondta tanítványainak a világ végéről:
+
+„Vigyázzatok, hogy el ne nehezedjék szívetek tobzódásban, részegeskedésben és az evilági gondokban. Így majd nem ér készületlenül benneteket az a nap. Mint a csapda, úgy csap le mindazokra, akik a földön laknak. Virrasszatok hát és imádkozzatok szüntelenül, hogy megmeneküljetek attól, ami majd bekövetkezik, és megállhassatok az Emberfia színe előtt.”
+'''
+la = '''
+In illo tempore: Dixit Iesus discipulis suis:
+
+«Attendite vobis ne forte graventur corda vestra in crapula et ebrietate et curis huius vitae, et superveniat in vos repentina dies illa; tamquam laqueus enim superveniet in omnes qui sedent super faciem omnis terrae. Vigilate itaque omni tempore orantes, ut possitis fugere ista omnia quae futura sunt, et stare ante Filium hominis».
+'''
+
+# igenaptár 2026-11-28 (the day's set: Saturday of Mary).
+[faithful]
+intro = "Bizalommal forduljunk Istenhez, aki Máriát, Krisztus anyját fölébe helyezte minden égi és földi teremtménynek!"
+response = "Kérünk téged, hallgass meg minket!"
+petitions = [
+  "Irgalmasság Atyja, köszönjük, hogy a Boldogságos Szűz Máriában égi édesanyát adtál nekünk; add, hogy mindig gyermeki szeretettel ragaszkodjunk hozzá!",
+  "Szűz Mária tanulékony lélekkel figyelt Jézus szavára; add, hogy példája szerint mi is szívünkbe fogadjuk szent Fiad igéit!",
+  "A kereszt alatt álló Máriát megerősítetted a fájdalmak elviselésére; az ő közbenjárására adj erőt nekünk is a kereszt hordozására!",
+  "Szent Fiad feltámadása által örömmel töltötted el Szűz Mária szívét; tölts el minket is a feltámadás reménységével!",
+  "Szűz Máriát testével-lelkével felvetted a mennyei dicsőségbe; földi életünk után add meg nekünk is az örök életet!",
+  { note = "Ha a szentmisét elhunytért mutatják be:", text = "A Boldogságos Szűz Mária a mennyország királynője; az ő közbenjárására fogadd be elhunyt testvéreinket is az örök élet boldogságába!" },
+]
+conclusion = "Add meg, kérünk, mindenható Istenünk, hogy mi, a te híveid, akik a Boldogságos Szűz Mária oltalmában bízunk, anyai közbenjárására minden rossztól megszabaduljunk itt a földön, és az örök élet örömére eljussunk a mennyben. Krisztus, a mi Urunk által."
