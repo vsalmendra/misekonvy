@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="theme-color" content="#a3171b">
 <meta name="color-scheme" content="light dark">
-<meta name="build" content="da084d61dd">
+<meta name="build" content="8d9b17fdb2">
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="icon" href="icon-192.png">
 <link rel="apple-touch-icon" href="apple-touch-icon.png">
@@ -162,9 +162,8 @@ button.btn { background: none; cursor: pointer; }
 .bi-switch.on, .next-para { position: fixed; z-index: 18; transform: translateY(-50%); right: calc(env(safe-area-inset-right, 0px) + 4px);
   align-items: center; justify-content: center; width: 30px; height: 44px; padding: 0; border: 1px solid var(--line); border-radius: 15px;
   background: var(--bg); color: var(--rubric); font: 20px/1 var(--f-body); opacity: .5; cursor: pointer; box-shadow: 0 1px 5px rgba(0,0,0,.12); }
-/* "next paragraph": a round chip without a frame, unlike the framed column arrow above it */
-.next-para { display: flex; top: 65%; width: 34px; height: 34px; border: 0; border-radius: 50%; background: var(--chip); box-shadow: none;
-  font-size: 18px; padding-bottom: 6px; box-sizing: border-box; opacity: .6; }
+/* "next paragraph": the same framed look as the column arrow above it (user, 2026-11-26) */
+.next-para { display: flex; top: 65%; padding-bottom: 6px; box-sizing: border-box; }
 .bi-switch.on:focus-visible, .next-para:focus-visible { opacity: 1; }
 body.empty .next-para { display: none; }
 .legend { color: var(--muted); font-size: .8em; text-align: center; margin-top: 3rem; }
