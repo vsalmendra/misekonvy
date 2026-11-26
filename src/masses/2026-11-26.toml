@@ -5,7 +5,7 @@ rank = "fehér színben"
 gloria = false
 creed = false
 eucharistic_prayer = 3
-prefaces = ["eucharisztia-1", "eucharisztia-2"]
+prefaces = ["eucharisztia-2", "eucharisztia-1"]
 mass_type = "Votív mise: A Legméltóságosabb Oltáriszentségről"
 
 # New missal (Római Misekönyv, 3rd ed. 2021), Votív (megemlékező) misék, 5. A Legméltóságosabb Oltáriszentségről,
