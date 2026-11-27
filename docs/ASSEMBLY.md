@@ -119,6 +119,10 @@ feltöltve." beside the first line of the text.
   (apostles, angels, martyrs, popes/pastors, doctors, missionaries, holy men, holy women, …) and for feasts
   (saved 2026-11-24; sets 1, 2, 11, 17, 22, 28, 35 were not on igenaptár in 2026-06 … 2027-11). Use one with
   `[[faithful]]` + `ref = "@faithful/<key>"` (+ `label`); the day's own set stays first/default unless asked.
+  **Standing rule (user, 2026-11-27): whenever a prayer-of-the-faithful set is related to the saint or the
+  celebration of the day (category set such as martyrs/apostles/popes/holy men or women, a feast's own set, the
+  Marian set on a Mary Mass …), include it as an option (dot) next to the day's set — without being asked.** Look it
+  up in `src/library/faithful.toml`; if the library lacks it, look on igenaptár (numbered sets, see above) and save it.
 
 **Gloria, Creed**
 - Sundays: Gloria + Creed. Solemnities: both. Feasts: Gloria only.

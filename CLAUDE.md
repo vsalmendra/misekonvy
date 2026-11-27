@@ -49,6 +49,8 @@ content over time. This CLAUDE.md is the source of truth. Claude Code commits an
 
 1. Read `docs/ASSEMBLY.md`. Fetch the day from igenaptár; get propers from the sources listed there.
 2. Write `src/masses/<date>.toml` and `src/masses/<date>.md` (the user's instructions, sources, choices, open points).
+   Prayer of the faithful: the day's set first, **plus every set related to the saint/celebration as an option**
+   (`src/library/faithful.toml`, `ref = "@faithful/<key>"`; user, 2026-11-27 — see ASSEMBLY.md).
 3. `python3 tools/build.py`, check the page locally (`cd app && python3 -m http.server`), commit, push, merge to `main`.
 - `.github/workflows/pages.yml` — deploys `app/` to GitHub Pages on every push to `main` that touches
   `app/` (also runnable by hand). Repo setting required: Settings → Pages → Source = **GitHub Actions**.
