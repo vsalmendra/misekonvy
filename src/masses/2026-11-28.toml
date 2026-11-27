@@ -173,100 +173,91 @@ ut tibi servíre devótius et nova benefícia cónsequi mereámur.
 Per Christum Dóminum nostrum.
 '''
 
-# Readings: of the day (34. évközi hét szombat, II. év), igenaptár = src/cycle/evkozi-34-6-II.json.
-# Latin: Missale Romanum cum lectionibus 1977, vol. IV, Sabbato, Anno secundo, pp. 560-562
-# (OCR corrected by hand; Vulgate numbering).
+# Readings: the lectionary's "26. Hálaadás Istennek" (user's photos of the Hungarian lectionary, 2026-11-27):
+# 1. olvasmány 1Kir 8,55-61; 1. válaszos zsoltár 1Krón 29,10bc.11.12 (response 13b); 4. alleluja (Vö. Lk 1,49);
+# 4. evangélium Lk 1,39-55. Latin: Missale Romanum cum lectionibus 1977, vol. IV, Pro gratiis Deo reddendis,
+# pp. 1604-1614 (OCR corrected by hand; Vulgate numbering).
 [reading1]
-label = "Szentlecke"
-sub = "a Jelenések könyvéből"
-summary = "Az üdvözültek örök világosságban élnek, mert Isten fényessége ragyogja be őket."
-cite = "Jel 22,1-7"
-la_sub = "Lectio libri Apocalypsis beati Ioannis apostoli"
+label = "Olvasmány"
+sub = "a Királyok első könyvéből"
+summary = "Áldott legyen az Úr, aki nyugalmat adott népének."
+cite = "1Kir 8,55-61"
+la_sub = "Lectio libri primi Regum"
 text = '''
-Az Úr angyala megmutatta nekem az élő vizek folyóját, amely kristálytisztán fakadt Isten és a Bárány trónjából. Az utca közepén és a folyó mindkét partján az élet fái álltak. Tizenkétszer hoznak termést, vagyis minden hónapban gyümölcsöt teremnek. A leveleik a nemzetek gyógyulására szolgálnak.
+A templomszentelés ünnepén Salamon király felállt, és hangos szóval megáldotta a választott nép egész gyülekezetét:
 
-Átok nem lesz többé benne. Isten és a Bárány trónja áll majd ott, és szolgái hódolnak neki. Látni fogják arcát, és homlokukon hordják a nevét. Nem lesz többé éjszaka, és nem szorulnak lámpafényre vagy napvilágra. Az Úristen ragyogja be őket, és uralkodni fognak örökkön örökké.
-
-Aztán így szólt hozzám az angyal: „Ezek a szavak hitelesek és igazak. Az Úr, a próféta-lelkek Istene, elküldte angyalát, hogy hírül adja szolgáinak mindazt, aminek csakhamar meg kell történnie.
-
-Nézd, hamarosan eljövök. Boldog, aki megszívleli e könyv prófétai szavait!”
+„Áldott legyen az Úr, aki nyugalmat adott népének, Izraelnek, amint megígérte! Egyetlen szó se hiúsult meg mindazokból az ígéretekből, amelyeket szolgája, Mózes által mondott. Legyen velünk az Úr, a mi Istenünk, mint atyáinkkal volt. Ne hagyjon el és ne taszítson el bennünket, hanem hajlítsa magához szívünket, hogy mindig az ő útjain járjunk, s megtartsuk parancsolatait, rendelkezéseit és törvényeit, amelyeket atyáinknak meghagyott. Ezek a szavaim, amelyekkel az Úr színe előtt könyörögtem, legyenek éjjel és nappal közel az Úrhoz, a mi Istenünkhöz, hogy szolgáltasson mindenkor igazságot az ő szolgájának és választott népének, Izraelnek. Hadd tudja meg a föld minden népe, hogy az Úr az Isten és kívüle nincs más Isten! Szívetek pedig legyen egészen az Úrral, a mi Istenünkkel, hogy rendeletei szerint járjatok, és megtartsátok parancsait, éppen úgy, mint a mai napon.”
 '''
 la = '''
-Ostendit mihi, Ioanni, Angelus Domini fluvium Aquae Vitae splendidum tamquam crystallum, procedentem de throno Dei et Agni. In medio plateae eius et fluminis ex utraque parte lignum vitae afferens fructus duodecim, per menses singulos reddens fructum suum, et folia ligni ad sanitatem gentium.
+In diebus illis: Stetit Salomon rex et benedixit omni ecclesiae Israel voce magna, dicens:
 
-Et omne maledictum non erit amplius. Et thronus Dei et Agni in illa erit, et servi eius servient illi, et videbunt faciem eius, et Nomen eius in frontibus eorum. Et nox ultra non erit, et non egent lumine lucernae neque lumine solis, quoniam Dominus Deus illuminabit super illos et regnabunt in saecula saeculorum.
-
-Et dixit mihi: «Haec verba fidelissima et vera sunt, et Dominus, Deus spirituum Prophetarum, misit Angelum suum ostendere servis suis quae oportet fieri cito.
-
-Et ecce venio velociter. Beatus qui servat verba prophetiae libri huius».
+«Benedictus Dominus, qui dedit requiem populo suo Israel, iuxta omnia quae locutus est; non cecidit ne unus quidem sermo ex omnibus bonis, quae locutus est per Moysen servum suum. Sit Dominus Deus noster nobiscum, sicut fuit cum patribus nostris, non derelinquens nos neque proiciens; sed inclinet corda nostra ad se, ut ambulemus in universis viis eius, et custodiamus mandata eius et caeremonias eius et iudicia, quaecumque mandavit patribus nostris. Et sint sermones mei isti, quibus deprecatus sum coram Domino, appropinquantes Domino Deo nostro die ac nocte, ut faciat iudicium servo suo et populo suo Israel per singulos dies, ut sciant omnes populi terrae quia Dominus ipse est Deus et non est ultra absque eo. Sit quoque cor nostrum perfectum cum Domino Deo nostro, ut ambulemus in decretis eius, et custodiamus mandata eius sicut et hodie».
 '''
 
 [psalm]
-cite = "Zsolt 94,1-7"
-response = "Marana tha! Jöjj el, Urunk, Jézus!"
-la_response = "Marana tha! Veni, Domine Iesu!"
+cite = "1Krón 29,10bc.11.12"
+response = "Urunk, Istenünk, dicső nevedet magasztaljuk!"
+la_response = "Laudamus nomen tuum inclitum, Domine."
 verses = [
 '''
-Jöjjetek, örvendezzünk az Úrnak,
-és ujjongjunk üdvünk sziklája előtt.
-Dicsőítő énekkel lépjünk színe elé,
-magasztaljuk őt zsoltárt zengve.
+Áldott vagy, Urunk, atyánknak, Izraelnek Istene,
+mindörökkön örökké.
+Tiéd, Uram, a fölség és a hatalom,
+a dicsőség, a fényesség és a méltóság.
 ''',
 '''
-Mert az Úr valóban nagy Isten,
-az összes isteneknél dicsőbb király.
-A Föld mélységei az ő kezében vannak,
-és övé a hegyek minden orma.
-Övé a tenger, az ő műve,
-a szárazföld is az ő keze alkotása.
+Minden a tiéd a mennyben és a földön,
+tiéd, Uram, a királyság,
+te vagy az Ura mindeneknek.
+Tiéd a gazdagság és a dicsőség,
+te uralkodsz mindenen.
 ''',
 '''
-Jöjjetek, boruljunk le, hódoljunk előtte,
-hulljunk térdre Urunk, Alkotónk előtt,
-mert ő a mi Istenünk,
-mi pedig az ő népe, és kezére bízott nyáj vagyunk.
+Kezedben van az erő és a hatalom,
+a te kezed tehet mindent naggyá és erőssé.
 ''']
 la_verses = [
 '''
-Venite, exsultemus Domino;
-iubilemus Deo salutari nostro.
-Praeoccupemus faciem eius in confessione,
-et in psalmis iubilemus ei.
+Benedictus es, Domine Deus Israel patris nostri,
+ab aeterno in aeternum.
+Tua est, Domine, magnificentia et potentia
+et gloria atque victoria, et tibi laus;
 ''',
 '''
-Quoniam Deus magnus Dominus,
-et rex magnus super omnes deos.
-Quia in manu eius sunt profunda terrae,
-et altitudines montium ipsius sunt.
-Quoniam ipsius est mare, et ipse fecit illud,
-et siccam manus eius formaverunt.
+cuncta enim, quae in caelo sunt et in terra, tua sunt.
+Tuum, Domine, regnum,
+et tu es super omnes principes.
+Tuae divitiae et tua est gloria;
+tu dominaris omnium,
 ''',
 '''
-Venite, adoremus et procidamus,
-et genua flectamus ante Dominum qui fecit nos,
-quia ipse est Deus noster,
-et nos populus pascuae eius et oves manus eius.
+in manu tua virtus et potentia,
+in manu tua magnitudo et imperium omnium.
 ''']
 
 [alleluia]
-cite = "Lk 21,36"
-text = "Imádkozva virrasszatok szüntelen, hogy az Emberfia elé méltón álljatok."
-la = "Vigilate, omni tempore orantes, ut digni habeamini stare ante Filium hominis."
+cite = "Vö. Lk 1,49"
+text = "Nagyot művelt velem ő, aki Hatalmas, ő, akit Szentnek hívunk."
+la = "Fecit mihi magna qui potens est, et sanctum nomen eius."
 
 [gospel]
 book = "Szent Lukács"
 la_book = "Lucam"
-summary = "Vigyázzunk, hogy az Úr eljövetele készen találjon bennünket."
-cite = "Lk 21,34-36"
+summary = "Magasztalja lelkem az Urat."
+cite = "Lk 1,39-55"
 text = '''
-Jézus ezeket mondta tanítványainak a világ végéről:
+Azokban a napokban Mária útra kelt, és a hegyek közé, Júda egyik városába sietett. Belépett Zakariás házába, és köszöntötte Erzsébetet.
 
-„Vigyázzatok, hogy el ne nehezedjék szívetek tobzódásban, részegeskedésben és az evilági gondokban. Így majd nem ér készületlenül benneteket az a nap. Mint a csapda, úgy csap le mindazokra, akik a földön laknak. Virrasszatok hát és imádkozzatok szüntelenül, hogy megmeneküljetek attól, ami majd bekövetkezik, és megállhassatok az Emberfia színe előtt.”
+Amikor Erzsébet meghallotta Mária köszöntését, szíve alatt megmozdult a magzat, és a Szentlélek betöltötte Erzsébetet. Hangos szóval így kiáltott: „Áldott vagy te az asszonyok között, és áldott a te méhednek gyümölcse! De hogyan lehet az, hogy Uramnak anyja látogat el hozzám? Mert íme, amikor fülembe csendült köszöntésed szava, örvendezve felujjongott méhemben a magzat! Boldog, aki hitt annak beteljesedésében, amit az Úr mondott neki!”
+
+Mária megszólalt: „Magasztalja lelkem az Urat, és szívem ujjong megváltó Istenemben! Mert tekintetre méltatta alázatos szolgálóleányát, lám, ezentúl boldognak hirdet engem minden nemzedék. Nagy dolgokat művelt velem a Hatalmas, szentséges az ő neve! Irgalma nemzedékről nemzedékre száll, mindazokra, akik félik őt. Nagyszerű dolgot tett karja ereje, széjjelszórta mind a gőgös szívűeket. Lesöpörte trónjukról a hatalmasokat, és felmagasztalta az alázatosakat. Az éhezőket elhalmozta minden jóval, de a gazdagokat elküldte üres kézzel. Felkarolta gyermekét, Izraelt, megemlékezve irgalmasságáról, amint atyáinknak megígérte: Ábrahámnak és utódainak mindörökre!”
 '''
 la = '''
-In illo tempore: Dixit Iesus discipulis suis:
+Exsurgens Maria in diebus illis abiit in montana cum festinatione, in civitatem Iudae. Et intravit in domum Zachariae et salutavit Elisabeth.
 
-«Attendite vobis ne forte graventur corda vestra in crapula et ebrietate et curis huius vitae, et superveniat in vos repentina dies illa; tamquam laqueus enim superveniet in omnes qui sedent super faciem omnis terrae. Vigilate itaque omni tempore orantes, ut possitis fugere ista omnia quae futura sunt, et stare ante Filium hominis».
+Et factum est, ut audivit salutationem Mariae Elisabeth, exsultavit infans in utero eius, et repleta est Spiritu Sancto Elisabeth, et exclamavit voce magna, et dixit: «Benedicta tu inter mulieres, et benedictus fructus ventris tui. Et unde hoc mihi, ut veniat mater Domini mei ad me? Ecce enim, ut facta est vox salutationis tuae in auribus meis, exsultavit in gaudio infans in utero meo. Et beata quae credidit, quoniam perficientur ea quae dicta sunt ei a Domino».
+
+Et ait Maria: «Magnificat anima mea Dominum, et exsultavit spiritus meus in Deo Salvatori meo, quia respexit humilitatem ancillae suae. Ecce enim ex hoc beatam me dicent omnes generationes: quia fecit mihi magna qui potens est, et sanctum Nomen eius, et misericordia eius in progenies et progenies timentibus eum. Fecit potentiam in bracchio suo, dispersit superbos mente cordis sui, deposuit potentes de sede et exaltavit humiles, esurientes implevit bonis et divites dimisit inanes. Suscepit Israel puerum suum, memorari misericordiae, sicut locutus est ad patres nostros, Abraham et semini eius in saecula».
 '''
 
 # igenaptár 2026-11-28 (the day's set: Saturday of Mary).
